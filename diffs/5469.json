@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1960-04-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-09-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8738585,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTATUTO ADMINISTRATIVO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 338.- Santiago, 5 de Abril de 1960.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0; Que es prop&#xF3;sito del Supremo Gobierno uniformar todas aquellas disposiciones que digan relaci&#xF3;n con el personal empleado por la Administraci&#xF3;n Civil del Estado;</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0; Que del estudio de las normas que rigen actualmente al ya citado personal se desprenden faltas de concordancia o bien diferencias en cuanto a obligaciones y derechos, excepci&#xF3;n hecha de aquellos con derechos particulares;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0; Que el Supremo Gobierno desea uniformar todas las normas antedichas en un solo cuerpo, para reglar sus relaciones con el personal de la Administraci&#xF3;n P&#xFA;blica;</div><div class=\"p\">&nbsp; &nbsp; 4&#xB0; Que esta concepci&#xF3;n se conforma m&#xE1;s exactamente a las normas que preconiza la Constituci&#xF3;n Pol&#xED;tica del Estado, y</div><div class=\"p\">&nbsp; &nbsp; 5&#xB0; Que con ello se obtiene un mejor y mayor rendimiento de todo el personal, por cuanto se resguardan sus derechos y se nivelan sus obligaciones, y Vistas las facultades que me confieren los art&#xED;culos 202 y siguientes de la ley N&#xB0; 13.305, vengo en dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ESTATUTO ADMINISTRATIVO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 338.- Santiago, 5 de Abril de 1960.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0; Que es prop&#xF3;sito del Supremo Gobierno uniformar todas aquellas disposiciones que digan relaci&#xF3;n con el personal empleado por la Administraci&#xF3;n Civil del Estado;</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0; Que del estudio de las normas que rigen actualmente al ya citado personal se desprenden faltas de concordancia o bien diferencias en cuanto a obligaciones y derechos, excepci&#xF3;n hecha de aquellos con derechos particulares;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0; Que el Supremo Gobierno desea uniformar todas las normas antedichas en un solo cuerpo, para reglar sus relaciones con el personal de la Administraci&#xF3;n P&#xFA;blica;</div><div class=\"p\">&nbsp; &nbsp; 4&#xB0; Que esta concepci&#xF3;n se conforma m&#xE1;s exactamente a las normas que preconiza la Constituci&#xF3;n Pol&#xED;tica del Estado, y</div><div class=\"p\">&nbsp; &nbsp; 5&#xB0; Que con ello se obtiene un mejor y mayor rendimiento de todo el personal, por cuanto se resguardan sus derechos y se nivelan sus obligaciones, y Vistas las facultades que me confieren los art&#xED;culos 202 y siguientes de la ley N&#xB0; 13.305, vengo en dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  La Ley N&#xB0; 18.834, publicada en el Diario Oficial de 23 de septiembre de 1989 aprob&#xF3; el nuevo Estatuto Administrativo.&nbsp; El art&#xED;culo 157 de la citada ley, derog&#xF3; el presente decreto con fuerza de ley, disponiendo que toda referencia que las leyes vigentes efect&#xFA;en al D.F.L. 338, de 1960, se entender&#xE1; hecha a las disposiciones correspondientes del nuevo Estatuto Administrativo.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

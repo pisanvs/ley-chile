@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-10-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-03-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7315423,
+          "old": "<div><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A COMPA&#xD1;IA MOLINERA EL PUENTE S.A.</div><br></div>",
+          "new": "<div><div class=\"p\">CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A COMPA&#xD1;IA MOLINERA EL PUENTE S.A.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

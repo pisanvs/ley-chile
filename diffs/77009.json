@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-11-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9020144,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- Durante el a&#xF1;o 1998 el aporte m&#xE1;ximo a que se refiere el art&#xED;culo 23 del decreto ley N&#xBA; 249, de 1974, tendr&#xE1; un monto de $47.500 para las entidades que no gozan de los beneficios especiales de salud establecidos en la ley N&#xBA; 19.086.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- Durante el a&#xF1;o 1998 el aporte m&#xE1;ximo<span class=\"n\" id=\"n_0\">LEY 19553<br>ART 14<br>D.O.04.02.1998</span> a que se refiere el art&#xED;culo 23 del decreto ley N&#xBA; 249, de 1974, tendr&#xE1; un monto de $47.500. </div></div>"
+        }
+      ]
+    }
+  }
+]

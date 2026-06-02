@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-09-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-09-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6583817,
+          "old": "<div><div class=\"p\">REVOCA CALIDAD DE AGENTE RETENEDOR DEL IVA A INVERSIONES CARDAL LIMITADA </div></div>",
+          "new": "<div><div class=\"p\">REVOCA CALIDAD DE AGENTE RETENEDOR DEL IVA A INVERSIONES CARDAL LIMITADA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

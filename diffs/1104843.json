@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-07-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-08-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9811399,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Ampl&#xED;ase en los siguientes profesionales, la lista de peritos de la regi&#xF3;n que se indica, de entre los cuales la entidad expropiante designar&#xE1; a los miembros de la Comisi&#xF3;n encargada de determinar el monto provisional de la indemnizaci&#xF3;n en un proceso expropiatorio, de conformidad al art&#xED;culo 4&#xBA; del decreto ley N&#xBA; 2.186, de 1978:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  REGI&#xD3;N DE VALPARA&#xCD;SO</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Ingenieros Agr&#xF3;nomos:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  - Maximiliano Cort&#xE9;s Caiozzi.</div><div class=\"p\">&nbsp; &nbsp;  - Tom&#xE1;s Patricio Zald&#xED;var Palacios.</div><div class=\"p\">&nbsp; &nbsp;  - Carlos Andr&#xE9;s Salinas Rivera.</div><div class=\"p\">&nbsp; &nbsp;  - Bernardita Mar&#xED;a Paulos Parot.</div><div class=\"p\">&nbsp; &nbsp;  - Manuel Antonio Prieto Rodr&#xED;guez.</div><div class=\"p\">&nbsp; &nbsp;  - Sebasti&#xE1;n Mat&#xED;as Barrios Goio.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Ampl&#xED;ase en los siguientes profesionales, la lista de peritos de la regi&#xF3;n que se indica, de entre los cuales la entidad expropiante designar&#xE1; a los miembros de la Comisi&#xF3;n encargada de determinar el monto provisional de la indemnizaci&#xF3;n en un proceso expropiatorio, de conformidad al art&#xED;culo 4&#xBA; del decreto ley N&#xBA; 2.186, de 1978:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  REGI&#xD3;N DE VALPARA&#xCD;SO</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Ingenieros Agr&#xF3;nomos:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  - Tom&#xE1;s Patricio Zald&#xED;var Palacios.</div><div class=\"p\">&nbsp; &nbsp;  - Carlos Andr&#xE9;s Salinas Rivera.</div><div class=\"p\">&nbsp; &nbsp;  - Bernardita Mar&#xED;a Paulos Parot.</div><div class=\"p\">&nbsp; &nbsp;  - Manuel Antonio Prieto Rodr&#xED;guez.</div><div class=\"p\">&nbsp; &nbsp;  - Sebasti&#xE1;n Mat&#xED;as Barrios Goio.</div><div class=\"p\">&nbsp; &nbsp;  - Francisco Cov<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1106639&amp;idParte=9825545&amp;idVersion=2017-08-17\">Decreto 286 EXENTO,<br>HACIENDA<br>D.O. 17.08.2017</a></span>arrubias No&#xE9;.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1106639,
+      "fecha": "2017-08-17"
+    }
+  }
+]

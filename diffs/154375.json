@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-12-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-05-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6228801,
+          "old": "<div><div class=\"p\">AUTORIZA A COMERCIAL SAN LUIS LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A COMERCIAL SAN LUIS LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

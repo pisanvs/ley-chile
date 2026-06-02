@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1975-04-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1976-03-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8256918,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DETERMINA QUE LOS PROPIETARIOS DE SITIOS ERIAZOS UBICADOS EN ZONAS URBANAS DEBEN PROCEDER A CONSTRUIR MURALLAS DIVISORIAS CON LA VIA PUBLICA DENTRO DEL PLAZO DE SESENTA DIAS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 959.- Santiago, 31 de Marzo de 1975.</div><div class=\"p\">&nbsp; &nbsp; Visto: lo dispuesto en los decretos leyes N&#xB0;.s 1 y 128, de 1973, y 527, de 1974, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que los sitios eriazos sin cierre en sectores urbanos del pa&#xED;s constituyen normalmente centros de reuni&#xF3;n y utilizaci&#xF3;n por delincuentes, son lugares antihigi&#xE9;nicos y tienen mala presentaci&#xF3;n que no es consecuente con el deseo de todo ciudadano de vivir en zonas limpias, seguras y bien presentadas.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que existe escasez de sitios urbanizados en centros urbanos y es necesario que se construya en sitios eriazos para dar soluci&#xF3;n a los problemas habitacionales de la poblaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el diguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br></div>",
+          "new": "<div><div class=\"p\">DETERMINA QUE LOS PROPIETARIOS DE SITIOS ERIAZOS UBICADOS EN ZONAS URBANAS DEBEN PROCEDER A CONSTRUIR MURALLAS DIVISORIAS CON LA VIA PUBLICA DENTRO DEL PLAZO DE SESENTA DIAS</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 959.- Santiago, 31 de Marzo de 1975.</div><div class=\"p\">&nbsp; &nbsp; Visto: lo dispuesto en los decretos leyes N&#xB0;.s 1 y 128, de 1973, y 527, de 1974, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que los sitios eriazos sin cierre en sectores urbanos del pa&#xED;s constituyen normalmente centros de reuni&#xF3;n y utilizaci&#xF3;n por delincuentes, son lugares antihigi&#xE9;nicos y tienen mala presentaci&#xF3;n que no es consecuente con el deseo de todo ciudadano de vivir en zonas limpias, seguras y bien presentadas.</div><div class=\"p\">&nbsp; &nbsp; 2.- Que existe escasez de sitios urbanizados en centros urbanos y es necesario que se construya en sitios eriazos para dar soluci&#xF3;n a los problemas habitacionales de la poblaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el diguiente</div><br><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-05-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-07-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6524813,
+          "old": "<div><div class=\"p\">DELEGA ATRIBUCIONES QUE INDICA EN LOS DEFENSORES REGIONALES DE LA DEFENSORIA PENAL PUBLICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.043 exenta.- Santiago, 5 de mayo de 2005.- Vistos: Lo dispuesto en la ley N&#xBA; 19.718; en el art&#xED;culo 41 del DFL N&#xBA; 1/19.653; lo establecido en el art&#xED;culo 48 de la ley N&#xBA;19.880; lo expresado en la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica y sus modificaciones, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que la delegaci&#xF3;n de facultades es una instituci&#xF3;n establecida para permitir un funcionamiento eficiente y eficaz de la Administraci&#xF3;n del Estado.</div><div class=\"p\">&nbsp; &nbsp;  Que la Defensor&#xED;a Penal P&#xFA;blica es un &#xF3;rgano descentralizado funcionalmente y desconcentrado territorialmente, a trav&#xE9;s de las Defensor&#xED;as Regionales.</div><div class=\"p\">&nbsp; &nbsp;  Que es necesario proceder a un ordenamiento, sistematizaci&#xF3;n y actualizaci&#xF3;n de las atribuciones delegadas, para el mejor cumplimiento de las funciones propias e inherentes al quehacer de la Defensor&#xED;a Penal P&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  Que se hace imprescindible adecuar de un modo coherente los procedimientos que regulan las atribuciones delegadas en los Defensores Regionales, armonizando criterios en relaci&#xF3;n con las modificaciones y adecuaciones que ha sufrido la normativa administrativa, y</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente, lo dispuesto en la resoluci&#xF3;n exenta N&#xBA; 2.710 de 30/12/2004,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DELEGA ATRIBUCIONES QUE INDICA EN LOS DEFENSORES REGIONALES DE LA DEFENSORIA PENAL PUBLICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.043 exenta.- Santiago, 5 de mayo de 2005.- Vistos: Lo dispuesto en la ley N&#xBA; 19.718; en el art&#xED;culo 41 del DFL N&#xBA; 1/19.653; lo establecido en el art&#xED;culo 48 de la ley N&#xBA;19.880; lo expresado en la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica y sus modificaciones, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que la delegaci&#xF3;n de facultades es una instituci&#xF3;n establecida para permitir un funcionamiento eficiente y eficaz de la Administraci&#xF3;n del Estado.</div><div class=\"p\">&nbsp; &nbsp;  Que la Defensor&#xED;a Penal P&#xFA;blica es un &#xF3;rgano descentralizado funcionalmente y desconcentrado territorialmente, a trav&#xE9;s de las Defensor&#xED;as Regionales.</div><div class=\"p\">&nbsp; &nbsp;  Que es necesario proceder a un ordenamiento, sistematizaci&#xF3;n y actualizaci&#xF3;n de las atribuciones delegadas, para el mejor cumplimiento de las funciones propias e inherentes al quehacer de la Defensor&#xED;a Penal P&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  Que se hace imprescindible adecuar de un modo coherente los procedimientos que regulan las atribuciones delegadas en los Defensores Regionales, armonizando criterios en relaci&#xF3;n con las modificaciones y adecuaciones que ha sufrido la normativa administrativa, y</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente, lo dispuesto en la resoluci&#xF3;n exenta N&#xBA; 2.710 de 30/12/2004,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

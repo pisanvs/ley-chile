@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-04-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-08-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8435613,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Dentro de los diez d&#xED;as siguientes a la publicaci&#xF3;n de este decreto, las empresas concesionarias de servicio p&#xFA;blico de distribuci&#xF3;n de energ&#xED;a el&#xE9;ctrica que abastecen a las comunas se&#xF1;aladas en el art&#xED;culo 1&#xB0; precedente, en adelante e indistintamente &apos;las concesionarias&apos;, enviar&#xE1;n a la Superintendencia de Electricidad y Combustibles, en adelante e indistintamente &apos;SEC&apos;, la lista de sus clientes que hayan podido ser identificados como beneficiarios del subsidio como resultado de la aplicaci&#xF3;n de las medidas de identificaci&#xF3;n dispuestas en el Decreto Supremo N&#xBA; 329 de 2007, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, y sus modificaciones posteriores, as&#xED; como de aquellas autorizadas por la SEC al amparo del referido Decreto, toda vez que dicho Decreto Supremo favoreci&#xF3; a un universo de usuarios en los que se incluye a los beneficiarios referidos en el presente instrumento. En esta lista se deber&#xE1; identificar el nombre del jefe de familia, su c&#xE9;dula de identidad y direcci&#xF3;n, as&#xED; como el n&#xFA;mero de cliente del beneficiario y el nombre de la concesionaria asociada a &#xE9;ste y, respecto de ellos, las concesionarias har&#xE1;n efectivo el subsidio en la primera facturaci&#xF3;n que se verifique despu&#xE9;s de los cinco d&#xED;as siguientes al env&#xED;o de dicha lista.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Dentro de los diez d&#xED;as siguientes a la publicaci&#xF3;n de este decreto, las empresas concesionarias de servicio p&#xFA;blico de distribuci&#xF3;n de energ&#xED;a el&#xE9;ctrica que abastecen a las comunas se&#xF1;aladas en el art&#xED;culo 1&#xB0; precedente, en adelante e indistintamente .las concesionarias., enviar&#xE1;n a la Superintendencia de Electricidad y Combustibles, en adelante e indistintamente .SEC., la lista de sus clientes que hayan podido ser identificados como beneficiarios del subsidio como resultado de la aplicaci&#xF3;n de las medidas de identificaci&#xF3;n dispuestas en el Decreto Supremo N&#xBA; 329 de 2007, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, y sus modificaciones posteriores, as&#xED; como de aquellas autorizadas por la SEC al amparo del referido Decreto, toda vez que dicho Decreto Supremo favoreci&#xF3; a un universo de usuarios en los que se incluye a los beneficiarios referidos en el presente instrumento. En esta lista se deber&#xE1; identificar el nombre del jefe de familia, su c&#xE9;dula de identidad y direcci&#xF3;n, as&#xED; como el n&#xFA;mero de cliente del beneficiario y el nombre de la concesionaria asociada a &#xE9;ste y, respecto de ellos, las concesionarias har&#xE1;n efectivo el subsidio en la primera facturaci&#xF3;n que se verifique despu&#xE9;s de los cinco d&#xED;as siguientes al env&#xED;o de dicha lista.</div><div class=\"p\">&nbsp; &nbsp;  Respecto a aquellos usuarios que sean<span class=\"n\" id=\"n_0\">DTO 193, ECONOMIA<br>Art. 2&#xBA; N&#xBA; 1<br>D.O. 20.08.2008</span> identificados en virtud de lo se&#xF1;alado en el decreto supremo N&#xBA; 329 ya mencionado, sus modificaciones y decretos complementarios, con posterioridad al env&#xED;o de la lista mencionada en el inciso anterior, el subsidio se har&#xE1; efectivo en la primera facturaci&#xF3;n que se verifique despu&#xE9;s de los cinco d&#xED;as siguientes a dicha identificaci&#xF3;n. Las concesionarias enviar&#xE1;n a la SEC, en la forma y en los plazos que &#xE9;sta determine, la lista de los usuarios as&#xED; identificados.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

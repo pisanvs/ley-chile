@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "1975-05-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-01-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9036009,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;- Durante la vigencia del estado de sitio, los organismos especializados para velar por el normal desenvolvimiento de las actividades nacionales y por la mantenci&#xF3;n de la institucionalidad constituida, cuando procedan -en el ejercicio de sus facultades propias- a detener preventivamente a las personas a quienes se presuma fundadamente culpables de poner en peligro la seguridad del Estado, estar&#xE1;n obligados a dar noticia de la detenci&#xF3;n respectiva, dentro del plazo de 48 horas, a los miembros m&#xE1;s inmediatos de la familia del detenido.</div><div class=\"p\">&nbsp; &nbsp; La detenci&#xF3;n practicada por los organismos referidos en el inciso anterior no podr&#xE1; durar m&#xE1;s de cinco d&#xED;as y dentro de ese plazo el detenido ser&#xE1; o dejado en libertad o puesto a disposici&#xF3;n del Tribunal que corresponda, o del Ministerio del Interior cuando se tratare de un caso de aplicaci&#xF3;n de las facultades extraordinarias o del estado de sitio, en su caso, con un informe escrito de los antecedentes recogidos.</div><div class=\"p\">&nbsp; &nbsp; La aplicaci&#xF3;n de apremios ileg&#xED;timos a los detenidos se castigar&#xE1; con arreglo al art&#xED;culo 150 del C&#xF3;digo Penal o 330 del C&#xF3;digo de Justicia Militar, seg&#xFA;n corresponda.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=30275&amp;idParte=8286606&amp;idVersion=1990-01-19\">LEY 18903<br>Art. UNICO N&#xB0; 10<br>D.O. 19.01.1990</a></span>&nbsp; &nbsp; Art&#xED;culo 1&#xB0;- Derogado.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 30275,
+      "fecha": "1990-01-19"
+    }
+  },
+  {
+    "fecha": "1991-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

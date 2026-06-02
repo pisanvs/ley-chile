@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-10-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6539129,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Incorp&#xF3;rense en el Registro Nacional de Entidades Auditoras las siguientes empresas:</div><br><div class=\"p\">N&#xBA; Registro&nbsp; Nombre Empresa&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  RUT</div><div class=\"p\">05-001&nbsp; &nbsp; &nbsp; Alex Stewart Intercorp</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chile y C&#xED;a Ltda.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 79.843.940-5</div><div class=\"p\">05-002&nbsp; &nbsp; &nbsp; Inspectorate Griffith</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chile S.A.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  96.577.690-7</div><div class=\"p\">05-003&nbsp; &nbsp; &nbsp; Corthorn Quality (Chile)</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; S.A.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  96.535.120-5</div><div class=\"p\">05-004&nbsp; &nbsp; &nbsp; S.G.S. Chile. Ltda.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sociedad de Control&nbsp; &nbsp; &nbsp; &nbsp; 80.914.400-3</div><div class=\"p\">05-005&nbsp; &nbsp; &nbsp; World Survey Services</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chile S.A.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  96.947.280-5</div><div class=\"p\">05-006&nbsp; &nbsp; &nbsp; Intertek Testing Services</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Chile) S.A.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  96.801.160-K</div><div class=\"p\">05-007&nbsp; &nbsp; &nbsp; Aguilera Carmona</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Consultores Ltda.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 76.315.910-8</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Incorp&#xF3;rense en el Registro Nacional de Entidades Auditoras las siguientes empresas:</div><br><div class=\"p\">N&#xBA; Registro&nbsp; Nombre Empresa&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  RUT</div><div class=\"p\">05-001&nbsp; &nbsp; &nbsp; Alex Stewart Intercorp</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chile y C&#xED;a Ltda.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 79.843.940-5</div><div class=\"p\">05-002&nbsp; &nbsp; &nbsp; Inspectorate Griffith</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chile S.A.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  96.577.690-7</div><div class=\"p\">05-003&nbsp; &nbsp; &nbsp; Corthorn Quality (Chile)</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; S.A.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  96.535.120-5</div><div class=\"p\">05-004&nbsp; &nbsp; &nbsp; S.G.S. Chile. Ltda.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sociedad de Control&nbsp; &nbsp; &nbsp; &nbsp; 80.914.400-3</div><div class=\"p\">05-005&nbsp; &nbsp; &nbsp; World Survey Services</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chile S.A.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  96.947.280-5</div><div class=\"p\">05-006&nbsp; &nbsp; &nbsp; Intertek Caleb Brett</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chile S.A&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 96.862.190-4<span class=\"n\" id=\"n_0\">RES 1187 Exenta<br>Art. &#xFA;nico<br>D.O. 14.10.2005</span></div><div class=\"p\">05-007&nbsp; &nbsp; &nbsp; Aguilera Carmona</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Consultores Ltda.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 76.315.910-8</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

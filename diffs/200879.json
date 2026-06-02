@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-07-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7293143,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Las personas jur&#xED;dicas que, a la fecha de publicaci&#xF3;n de este reglamento, ten&#xED;an la calidad de certificadores inscritos en el Registro Oficial de certificadores establecido en el art&#xED;culo 14 del decreto supremo N&#xBA; 239, de 1993, del Ministerio de Agricultura, y las personas jur&#xED;dicas que cuenten con personal de certificaci&#xF3;n que a dicha fecha estaba inscrito en el referido Registro, podr&#xE1;n efectuar las certificaciones a que se refiere la ley N&#xBA; 19.162, con el car&#xE1;cter de entidades certificadoras provisionales, siempre que acrediten haber efectuado certificaciones dentro de los doce meses anteriores a la vigencia de este reglamento y presentaren dentro del plazo de 90 d&#xED;as contado desde la publicaci&#xF3;n de este decreto, ante el Organismo de Acreditaci&#xF3;n, su solicitud de reconocimiento como entidades acreditadas en certificaci&#xF3;n de productos de acuerdo a normas internacionales.</div><div class=\"p\">&nbsp; &nbsp;  El Servicio practicar&#xE1; las inscripciones provisionales correspondientes en el Registro a que se refiere el art&#xED;culo 3&#xBA; de este reglamento, una vez acreditado el cumplimiento de los requisitos se&#xF1;alados en el inciso anterior.</div><div class=\"p\">&nbsp; &nbsp;  La inscripci&#xF3;n provisional tendr&#xE1; vigencia hasta que la entidad correspondiente obtenga el reconocimiento definitivo por parte del organismo de acreditaci&#xF3;n, tr&#xE1;mite que deber&#xE1; cumplirse dentro del plazo m&#xE1;ximo de un a&#xF1;o a contar desde la presentaci&#xF3;n de la respectiva solicitud.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Las personas jur&#xED;dicas que, a la<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> fecha de publicaci&#xF3;n de este reglamento, ten&#xED;an la calidad de certificadores inscritos en el Registro Oficial de certificadores establecido en el art&#xED;culo 14 del decreto supremo N&#xBA; 239, de 1993, del Ministerio de Agricultura, y las personas jur&#xED;dicas que cuenten con personal de certificaci&#xF3;n que a dicha fecha estaba inscrito en el referido Registro, podr&#xE1;n efectuar las certificaciones a que se refiere la ley N&#xBA; 19.162, con el car&#xE1;cter de entidades certificadoras provisionales, siempre que acrediten haber efectuado certificaciones dentro de los doce meses anteriores a la vigencia de este reglamento y presentaren dentro del plazo de 90 d&#xED;as contado desde la publicaci&#xF3;n de este decreto, ante el Organismo de Acreditaci&#xF3;n, su solicitud de reconocimiento como entidades acreditadas en certificaci&#xF3;n de productos de acuerdo a normas internacionales.</div><div class=\"p\">&nbsp; &nbsp;  El Servicio practicar&#xE1; las inscripciones provisionales correspondientes en el Registro a que se refiere el art&#xED;culo 3&#xBA; de este reglamento, una vez acreditado el cumplimiento de los requisitos se&#xF1;alados en el inciso anterior.</div><div class=\"p\">&nbsp; &nbsp;  La inscripci&#xF3;n provisional tendr&#xE1; vigencia hasta que la entidad correspondiente obtenga el reconocimiento definitivo por parte del organismo de acreditaci&#xF3;n, tr&#xE1;mite que deber&#xE1; cumplirse dentro del plazo m&#xE1;ximo de un a&#xF1;o a contar desde la presentaci&#xF3;n de la respectiva solicitud.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 57, Agricultura, publicado el 19.01.2004, extiende, hasta el 31 de enero de 2004, el plazo establecido en el presente, para que las entidades que se encuentran inscritas en forma provisional en el Registro de Entidades Certificadoras, obtengan el reconocimiento definitivo como entidades acreditadas en certificaci&#xF3;n de productos de acuerdo a normas internacionales, por parte del organismo de acreditaci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-02-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-04-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6369248,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5.A.- Las pilastras del Mercado podr&#xE1;n ser<span class=\"n\" id=\"n_0\">ORZ 42,<br>M. DE PROVIDENCIA<br>N&#xBA; 1<br>D.O. 07.04.2006</span> entregadas en arriendo o mediante la entrega directa bajo un permiso precario, el cual el Alcalde podr&#xE1; otorgar, renovar o ponerle t&#xE9;rmino en cualquier momento y se regir&#xE1; por las disposiciones que esta Ordenanza establece para los arrendatarios en lo que fuere pertinente.</div><div class=\"p\">&nbsp; &nbsp;  Los locales podr&#xE1;n ser entregados solamente en arriendo.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1975-11-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8990807,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA JORNADA MINIMA OBLIGATORIA DE ATENCION AL PUBLICO A LAS FARMACIAS</div><div class=\"p\">&nbsp; &nbsp; Santiago, 17 de Noviembre de 1975.- Con esta fecha se ha dictado el siguiente decreto ley:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.259.- Vistos: lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973, y 527, de 1974;</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;- Que es de toda conveniencia facilitar a la poblaci&#xF3;n el acceso a los medicamentos, lo que hace recomendable permitir la libertad de horario de atenci&#xF3;n al p&#xFA;blico de las farmacias, en armon&#xED;a con los intereses y derechos de los trabajadores de los respectivos establecimientos;</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;- Que esta libertad de horario, sin menoscabo de los derechos laborales que consagra nuestra legislaci&#xF3;n, favorece a una econom&#xED;a que persigue el pleno empleo;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;- Que la libertad de horario de funcionamiento de las farmacias tiene por objeto, adem&#xE1;s, materializar en el comercio farmac&#xE9;utico la libre competencia, con toda la amplitud que inspira la pol&#xED;tica general de Gobierno;</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha resuelto dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">FIJA JORNADA MINIMA OBLIGATORIA DE ATENCION AL<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> PUBLICO A LAS FARMACIAS</div><div class=\"p\">&nbsp; &nbsp; Santiago, 17 de Noviembre de 1975.- Con esta fecha se ha dictado el siguiente decreto ley:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.259.- Vistos: lo dispuesto en los decretos leyes N&#xB0;s. 1 y 128, de 1973, y 527, de 1974;</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;- Que es de toda conveniencia facilitar a la poblaci&#xF3;n el acceso a los medicamentos, lo que hace recomendable permitir la libertad de horario de atenci&#xF3;n al p&#xFA;blico de las farmacias, en armon&#xED;a con los intereses y derechos de los trabajadores de los respectivos establecimientos;</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;- Que esta libertad de horario, sin menoscabo de los derechos laborales que consagra nuestra legislaci&#xF3;n, favorece a una econom&#xED;a que persigue el pleno empleo;</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;- Que la libertad de horario de funcionamiento de las farmacias tiene por objeto, adem&#xE1;s, materializar en el comercio farmac&#xE9;utico la libre competencia, con toda la amplitud que inspira la pol&#xED;tica general de Gobierno;</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha resuelto dictar el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto ley:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El N&#xB0; 1 del Art. 6 de la LEY 18018, publicada el 14.08.1981, derog&#xF3; el presente decreto ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

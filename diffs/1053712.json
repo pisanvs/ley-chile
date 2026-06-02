@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2013-08-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-10-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9370984,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13.- Cada Comit&#xE9; Cient&#xED;fico T&#xE9;cnico en la primera sesi&#xF3;n anual, establecer&#xE1; el calendario de sesiones que realizar&#xE1; durante el respectivo a&#xF1;o. Sin perjuicio que el Presidente, con antecedentes fundados, pueda citar a sesiones extraordinarias, con al menos cinco d&#xED;as h&#xE1;biles de anticipaci&#xF3;n a la fecha de la respectiva sesi&#xF3;n.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13.- Cada Comit&#xE9; Cient&#xED;fico T&#xE9;cnico en la primera sesi&#xF3;n anual, establecer&#xE1; el calendario de sesiones que realizar&#xE1; durante el respectivo a&#xF1;o. Sin perjuicio que el Presidente, con antecedentes fundados, pueda citar a sesiones extraordinarias, con al menos cinco d&#xED;as h&#xE1;biles de anticipaci&#xF3;n a la fecha de la respectiva sesi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1082935&amp;idParte=9642520&amp;idVersion=2015-10-19\">Decreto 87, ECONOM&#xCD;A<br>Art. &#xDA;NICO<br>D.O. 19.10.2015</a></span>de lo dispuesto en el inciso anterior, los Comit&#xE9;s Cient&#xED;ficos T&#xE9;cnicos deber&#xE1;n considerar dentro del programa anual la reuni&#xF3;n que los Comit&#xE9;s de Manejo establecidos en el art&#xED;culo 8&#xBA; de la Ley General de Pesca y Acuicultura les requieran anualmente, de conformidad con lo dispuesto en el DS N&#xBA; 95, de 2013, del Ministerio de Econom&#xED;a, Fomento y Turismo, y sus modificaciones posteriores.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1082935,
+      "fecha": "2015-10-19"
+    }
+  },
+  {
+    "fecha": "2025-11-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

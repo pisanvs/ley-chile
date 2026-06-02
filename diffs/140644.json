@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-08-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-10-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8347836,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Conc&#xE9;dese, por gracia, a cada una de las siguientes personas: Agustina del Carmen Alarc&#xF3;n Gonz&#xE1;lez, RUT. 5.790.860-2; Mar&#xED;a del Carmen Arancibia Olmedo, RUT. 4.361.588-2; Luis Alberto Beas Gonz&#xE1;lez, RUT. 1.820.984-5; Leopoldo Augusto Contreras Valladares, RUT. 4.484.447-8; Mar&#xED;a Luisa Morales Vald&#xE9;s, RUT.</div><div class=\"p\">4.970.661-8; Mar&#xED;a Ema Pacheco Carvajal, RUT.</div><div class=\"p\">4.540.877-9; Edi Jes&#xFA;s Opazo Verdugo, RUT. 4.967.493-7; Gustavo Leopoldo Gonz&#xE1;lez Malinconi, RUT. 4.336.100-7, una pensi&#xF3;n equivalente a un ingreso m&#xED;nimo mensual. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Conc&#xE9;dese, por gracia, a cada una<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> de las siguientes personas: Agustina del Carmen Alarc&#xF3;n Gonz&#xE1;lez, RUT. 5.790.860-2; Mar&#xED;a del Carmen Arancibia Olmedo, RUT. 4.361.588-2; Luis Alberto Beas Gonz&#xE1;lez, RUT. 1.820.984-5; Leopoldo Augusto Contreras Valladares, RUT. 4.484.447-8; Mar&#xED;a Luisa Morales Vald&#xE9;s, RUT. 4.970.661-8; Mar&#xED;a Ema Pacheco Carvajal, RUT. 4.540.877-9; Edi Jes&#xFA;s Opazo Verdugo, RUT. 4.967.493-7; Gustavo Leopoldo Gonz&#xE1;lez Malinconi, RUT. 4.336.100-7, una pensi&#xF3;n equivalente a un ingreso m&#xED;nimo mensual.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 5464, Interior, publicado el 23.10.1999, Modific&#xF3; el presente art&#xED;culo, en el sentido de facultar a la nuera de do&#xF1;a Mar&#xED;a Del Carmen Arancibia Olmedo, para cobrar por esta a pensi&#xF3;n de gracia que le corresponde.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

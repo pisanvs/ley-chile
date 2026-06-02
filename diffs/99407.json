@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-05-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-05-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6111706,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Primero: Apru&#xE9;base el adelanto de la vigencia del reaval&#xFA;o de los Bienes Ra&#xED;ces no Agr&#xED;colas de la comuna de San Javier, a partir del primer semestre de 1998,&nbsp; de conformidad a lo dispuesto en el Art. 2 de la ley N&#xBA; 19.380. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Primero: Apru&#xE9;base el adelanto de la vigencia del reaval&#xFA;o de los Bienes Ra&#xED;ces no Agr&#xED;colas de la comuna de San Javier, a partir del Segundo Semestre de 1998, de<span class=\"n\" id=\"n_0\">DTO 137<br>M. SAN JAVIER<br>Art. Primero<br>D.O. 30.05.1998</span> conformidad a lo dispuesto en el Art. 2 de la ley N&#xBA; 19.380. </div></div>"
+        }
+      ]
+    }
+  }
+]

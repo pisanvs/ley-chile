@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1999-07-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-07-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6173852,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo N&#xBA; 1: F&#xED;jase el horario de funcionamiento de los establecimientos de expendio de bebidas alcoh&#xF3;licas para las categor&#xED;as se&#xF1;aladas en las letras A): Dep&#xF3;sitos de bebidas alcoh&#xF3;licas y categor&#xED;a H): Supermercado de bebidas alcoh&#xF3;licas; clasificaci&#xF3;n de la ley N&#xBA; 17.105, s&#xF3;lo podr&#xE1;n funcionar desde las 08:00 hasta las 24:00 horas.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo N&#xBA; 1: F&#xED;jase el horario de funcionamiento<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> de los establecimientos de expendio de bebidas alcoh&#xF3;licas para las categor&#xED;as se&#xF1;aladas en las letras A): Dep&#xF3;sitos de bebidas alcoh&#xF3;licas y categor&#xED;a H): Supermercado de bebidas alcoh&#xF3;licas; clasificaci&#xF3;n de la ley N&#xBA; 17.105, s&#xF3;lo podr&#xE1;n funcionar desde las 08:00 hasta las 24:00 horas.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 1328, Municipalidad de Quintero, publicado el 24.07.1999, modific&#xF3; la presente norma, en el sentido de sustituir el texto de los Art. 1 y 2, por el que en dicho decreto se indica.<br></div></div>"
+        },
+        {
+          "part_id": 6173854,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo N&#xBA; 2: Con respecto al resto de los establecimientos de expendio de bebidas alcoh&#xF3;licas clasificadas en el art&#xED;culo 140 de la ley N&#xBA; 17.105; letra B; C; D; E; F; G; I; J; K; L y M, podr&#xE1;n funcionar desde las 08:00 a las 02:00 horas.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo N&#xBA; 2: Con respecto al resto de los<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> establecimientos de expendio de bebidas alcoh&#xF3;licas clasificadas en el art&#xED;culo 140 de la ley N&#xBA; 17.105; letra B; C; D; E; F; G; I; J; K; L y M, podr&#xE1;n funcionar desde las 08:00 a las 02:00 horas.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 1328, Municipalidad de Quintero, publicado el 24.07.1999, modific&#xF3; la presente norma, en el sentido de sustituir el texto de los Art. 1 y 2, por el que en dicho decreto se indica.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

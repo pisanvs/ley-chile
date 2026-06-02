@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-09-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-02-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9502452,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Establ&#xE9;cese, a contar del 24 de julio de 2014, el siguiente orden de subrogaci&#xF3;n del cargo de Director Servicio de Atacama, en caso de ausencia o impedimento del titular:</div><br><div class=\"p\">&nbsp; &nbsp;  Primer Orden de Subroqancia</div><div class=\"p\">&nbsp; &nbsp;  Dra. Georgina Espinoza Mu&#xF1;oz</div><div class=\"p\">&nbsp; &nbsp;  RUT: 8.506.472-K</div><div class=\"p\">&nbsp; &nbsp;  Subdirectora M&#xE9;dica del Servicio de Salud Atacama</div><div class=\"p\">&nbsp; &nbsp;  Titular 33 horas.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Segundo Orden de Subroqancia</div><div class=\"p\">&nbsp; &nbsp;  Sra. Nelly G&#xF3;mez Barrios</div><div class=\"p\">&nbsp; &nbsp;  RUT: 7.862.253-9</div><div class=\"p\">&nbsp; &nbsp;  Subdirectora Administrativa del Servicio de Salud Atacama</div><div class=\"p\">&nbsp; &nbsp;  Titular Gr. 3&#xBA;.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Tercer Orden de Subroqancia</div><div class=\"p\">&nbsp; &nbsp;  Sr. Patricio Hidalgo Apablaza</div><div class=\"p\">&nbsp; &nbsp;  RUT: 10.627.951-9</div><div class=\"p\">&nbsp; &nbsp;  Director Hospital de Copiap&#xF3;</div><div class=\"p\">&nbsp; &nbsp;  Titular Gr. 4&#xBA;.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Cuarto Orden de Subroqancia</div><div class=\"p\">&nbsp; &nbsp;  Sra. Julia Salas Pe&#xF1;a</div><div class=\"p\">&nbsp; &nbsp;  RUT: 11.851.069-0</div><div class=\"p\">&nbsp; &nbsp;  Subdirectora de Recursos Humanos del Servicio de Salud Atacama</div><div class=\"p\">&nbsp; &nbsp;  Con funciones directivas contratada Gr. 5&#xBA;.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Decl&#xE1;rase que el Director subrogante asumir&#xE1; sus funciones, en caso de ser necesario, a contar de la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Establ&#xE9;cese, a contar del 24 de julio de 2014, el siguiente orden de subrogaci&#xF3;n del cargo de Director Servicio de Atacama, en caso de ausencia o impedimento del titular:</div><br><div class=\"p\">&nbsp; &nbsp;  Primer <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1087329&amp;idParte=9673820&amp;idVersion=2016-02-05\">Decreto 27 EXENTO, SALUD<br>N&#xB0; 2<br>D.O. 05.02.2016</a></span>orden de subroqancia</div><div class=\"p\">&nbsp; &nbsp;  Dra. Georgina Espinoza Mu&#xF1;oz</div><div class=\"p\">&nbsp; &nbsp;  C.I.: 8.506.472-K</div><div class=\"p\">&nbsp; &nbsp;  Subdirectora M&#xE9;dica del Servicio de Salud Atacama.</div><div class=\"p\">&nbsp; &nbsp;  Titular 33 horas.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Segundo orden de subroqancia</div><div class=\"p\">&nbsp; &nbsp;  Sra. Nelly G&#xF3;mez Barrios</div><div class=\"p\">&nbsp; &nbsp;  C.I.: 7.862.253-9</div><div class=\"p\">&nbsp; &nbsp;  Subdirectora Administrativa del Servicio de Salud Atacama.</div><div class=\"p\">&nbsp; &nbsp;  Titular Gr. 3&#xBA;.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Tercer orden de subroqancia</div><div class=\"p\">&nbsp; &nbsp;  Sra. Julia Salas Pe&#xF1;a</div><div class=\"p\">&nbsp; &nbsp;  C.I.: 11.851.069-0</div><div class=\"p\">&nbsp; &nbsp;  Subdirectora de Recursos Humanos Servicio de Salud Atacama.</div><div class=\"p\">&nbsp; &nbsp;  A contrata Gr. 3&#xBA;, con funciones directivas.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Cuarto orden de subroqancia </div><div class=\"p\">&nbsp; &nbsp;  Sr. Patricio Hidalgo Apablaza</div><div class=\"p\">&nbsp; &nbsp;  C.I.: 10.627.951-9</div><div class=\"p\">&nbsp; &nbsp;  Director Hospital de Copiap&#xF3;. </div><div class=\"p\">&nbsp; &nbsp;  Titular Grado 4.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Decl&#xE1;rase que el Director subrogante asumir&#xE1; sus funciones, en caso de ser necesario, a contar de la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1087329,
+      "fecha": "2016-02-05"
+    }
+  }
+]

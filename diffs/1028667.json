@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-08-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-09-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9166485,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese una veda biol&#xF3;gica para el recurso Anchoveta Engraulis ringens, en el &#xE1;rea mar&#xED;tima comprendida entre el l&#xED;mite norte de la XV Regi&#xF3;n y el l&#xED;mite sur de la II Regi&#xF3;n, la que regir&#xE1; desde la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial y hasta el 19 de septiembre de 2011, inclusive.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese una veda biol&#xF3;gica<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> para el recurso Anchoveta Engraulis ringens, en el &#xE1;rea mar&#xED;tima comprendida entre el l&#xED;mite norte de la XV Regi&#xF3;n y el l&#xED;mite sur de la II Regi&#xF3;n, la que regir&#xE1; desde la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial y hasta el 19 de septiembre de 2011, inclusive.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 861 Exento, Econom&#xED;a, publicado el 29.09.2011 modifica el presente art&#xED;culo, en el sentido de prorrogar la fecha de t&#xE9;rmino de la veda biol&#xF3;gica para el recurso Anchoveta hasta el d&#xED;a 26 de septiembre de 2011, inclusive.</div></div>"
+        }
+      ]
+    }
+  }
+]

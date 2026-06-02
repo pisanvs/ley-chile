@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1956-10-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1960-02-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004376,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13. En el caso de apresamiento de naves, el juicio correspondiente se llevar&#xE1; a cabo ante el Juzgado Civil de Punta Arenas, en primera instancia, y en segunda ante la Corte de Apelaciones de Valdivia.</div><div class=\"p\">&nbsp; &nbsp;  En cuanto a las infracciones a la navegaci&#xF3;n a&#xE9;rea ser&#xE1; competente el Juzgado de Aviaci&#xF3;n creado por ley N.o 7,852, del 27 de Octubre de 1944, con la intervenci&#xF3;n de la Fiscal&#xED;a de la Cuarta Zona A&#xE9;rea con sede en Punta Arenas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13. En el caso de apresamiento de naves, el juicio correspondiente se llevar&#xE1; a cabo ante el Juzgado Civil de Punta Arenas, en primera instancia, y en segunda ante la Corte de Apelaciones de Punta Arenas.<span class=\"n\" id=\"n_0\">LEY 13916<br>Art. 2&#xBA;<br>D.O. 12.02.1960</span> En cuanto a las infracciones a la navegaci&#xF3;n a&#xE9;rea ser&#xE1; competente el Juzgado de Aviaci&#xF3;n creado por ley N.o 7,852, del 27 de Octubre de 1944, con la intervenci&#xF3;n de la Fiscal&#xED;a de la Cuarta Zona A&#xE9;rea con sede en Punta Arenas. </div></div>"
+        },
+        {
+          "part_id": 9004377,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14. Corresponder&#xE1; al Juzgado Civil de Punta Arenas, en primera instancia, el conocimiento y resoluci&#xF3;n de todos los asuntos de car&#xE1;cter civil o criminal, voluntario o contencioso, que se promuevan dentro de la Ant&#xE1;rtica Chilena. Ser&#xE1; tribunal competente de segunda instancia la Corte de Apelaciones de Valdivia.</div><div class=\"p\">&nbsp; &nbsp;  El conocimiento de las causas militares corresponder&#xE1; a los tribunales militares competentes. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14. Corresponder&#xE1; al Juzgado Civil de Punta Arenas, en primera instancia, el conocimiento y resoluci&#xF3;n de todos los asuntos de car&#xE1;cter civil o criminal, voluntario o contencioso, que se promuevan dentro de la Ant&#xE1;rtica Chilena. Ser&#xE1; tribunal competente de segunda instancia la Corte de Apelaciones de<span class=\"n\" id=\"n_1\">LEY 13916<br>Art. 2&#xBA;<br>D.O. 12.02.1960</span> Punta Arenas. El conocimiento de las causas militares corresponder&#xE1; a los tribunales militares competentes. </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-11-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-12-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7380815,
+          "old": "<div><div class=\"p\">AUTORIZA INCORPORACI&#xD3;N DE ESPECIES Y MODIFICA CONCESI&#xD3;N DE ACUICULTURA </div></div>",
+          "new": "<div><br><div class=\"p\">MODIFICA CONCESIONES DE ACUICULTURA<span class=\"n\" id=\"n_0\">AVI S/N, DEFENSA<br>D.O. 10.12.2008</span> </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1987-12-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-04-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7269511,
+          "old": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A LUISA LIVACIC TORRES PARA AMPLIAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DO&#xD1;A LUISA LIVACIC TORRES PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

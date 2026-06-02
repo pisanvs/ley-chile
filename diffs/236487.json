@@ -1,0 +1,76 @@
+[
+  {
+    "fecha": "2005-03-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-10-16",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8018587,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- D&#xED;ctase la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio para el Sistema Interconectado del Norte Grande y el Sistema Interconectado Central&quot;, en adelante, indistintamente, la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio&quot;, informada por la Comisi&#xF3;n Nacional de Energ&#xED;a, cuyo texto se adjunta a la presente resoluci&#xF3;n y que se publicar&#xE1; de acuerdo al mecanismo se&#xF1;alado en el art&#xED;culo 2&#xBA;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Art&#xED;culo 1&#xBA;.- D&#xED;ctase la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio para el Sistema Interconectado del Norte Grande y el Sistema Interconectado Central&quot;, en adelante, indistintamente, la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio&quot;, informada por la Comisi&#xF3;n Nacional de Energ&#xED;a, cuyo texto se adjunta a la presente resoluci&#xF3;n y que se publicar&#xE1; de acuerdo al mecanismo se&#xF1;alado en el art&#xED;culo 2&#xBA;.</div><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; de la Resoluci&#xF3;n 85 Exenta, Econom&#xED;a, publicada el 16.10.2009, modifica la presente norma, en el sentido de reemplazarla por el texto que se adjunta en la citada norma.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2010-03-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8018587,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Art&#xED;culo 1&#xBA;.- D&#xED;ctase la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio para el Sistema Interconectado del Norte Grande y el Sistema Interconectado Central&quot;, en adelante, indistintamente, la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio&quot;, informada por la Comisi&#xF3;n Nacional de Energ&#xED;a, cuyo texto se adjunta a la presente resoluci&#xF3;n y que se publicar&#xE1; de acuerdo al mecanismo se&#xF1;alado en el art&#xED;culo 2&#xBA;.</div><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; de la Resoluci&#xF3;n 85 Exenta, Econom&#xED;a, publicada el 16.10.2009, modifica la presente norma, en el sentido de reemplazarla por el texto que se adjunta en la citada norma.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Art&#xED;culo 1&#xBA;.- D&#xED;ctase la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio para el Sistema Interconectado del Norte Grande y el Sistema Interconectado Central&quot;, en adelante, indistintamente, la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio&quot;, informada por la Comisi&#xF3;n Nacional de Energ&#xED;a, cuyo texto se adjunta a la presente resoluci&#xF3;n y que se publicar&#xE1; de acuerdo al mecanismo se&#xF1;alado en el art&#xED;culo 2&#xBA;. </div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; de la Resoluci&#xF3;n 85 Exenta, Econom&#xED;a, publicada el 16.10.2009, modifica la presente norma, en el sentido de reemplazarla por el texto que se adjunta en la citada norma.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xBA; de la Resoluci&#xF3;n 68 Exenta, Energ&#xED;a, publicada el 17.03.2010, introdujo modificaciones a la presente norma, las cuales no se han introducido debido a que su contenido ha sido reemplazado por el texto individualizado en la nota anterior.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2010-09-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8018587,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Art&#xED;culo 1&#xBA;.- D&#xED;ctase la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio para el Sistema Interconectado del Norte Grande y el Sistema Interconectado Central&quot;, en adelante, indistintamente, la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio&quot;, informada por la Comisi&#xF3;n Nacional de Energ&#xED;a, cuyo texto se adjunta a la presente resoluci&#xF3;n y que se publicar&#xE1; de acuerdo al mecanismo se&#xF1;alado en el art&#xED;culo 2&#xBA;. </div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; de la Resoluci&#xF3;n 85 Exenta, Econom&#xED;a, publicada el 16.10.2009, modifica la presente norma, en el sentido de reemplazarla por el texto que se adjunta en la citada norma.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xBA; de la Resoluci&#xF3;n 68 Exenta, Energ&#xED;a, publicada el 17.03.2010, introdujo modificaciones a la presente norma, las cuales no se han introducido debido a que su contenido ha sido reemplazado por el texto individualizado en la nota anterior.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Art&#xED;culo 1&#xBA;.- D&#xED;ctase la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio para el Sistema Interconectado del Norte <div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div>Grande y el Sistema Interconectado Central&quot;, en adelante, indistintamente, la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio&quot;, informada por la Comisi&#xF3;n Nacional de Energ&#xED;a, cuyo texto se adjunta a la presente resoluci&#xF3;n y que se publicar&#xE1; de acuerdo al mecanismo se&#xF1;alado en el art&#xED;culo 2&#xBA;. </div><div class=\"p\"> <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div></div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; de la Resoluci&#xF3;n 85 Exenta, Econom&#xED;a, publicada el 16.10.2009, modifica la presente norma, en el sentido de reemplazarla por el texto que se adjunta en la citada norma.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xBA; de la Resoluci&#xF3;n 68 Exenta, Energ&#xED;a, publicada el 17.03.2010, introdujo modificaciones a la presente norma, las cuales no se han introducido debido a que su contenido ha sido reemplazado por el texto individualizado en la nota anterior.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico de la Resoluci&#xF3;n 442 Exenta, Energ&#xED;a, publicada el 09.09.2010, modifica la presente norma, en el sentido de reemplazar el inciso final del art&#xED;culo 5-5 del Cap&#xED;tulo 5 por el que en ella se indica.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-04-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8018587,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Art&#xED;culo 1&#xBA;.- D&#xED;ctase la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio para el Sistema Interconectado del Norte <div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div>Grande y el Sistema Interconectado Central&quot;, en adelante, indistintamente, la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio&quot;, informada por la Comisi&#xF3;n Nacional de Energ&#xED;a, cuyo texto se adjunta a la presente resoluci&#xF3;n y que se publicar&#xE1; de acuerdo al mecanismo se&#xF1;alado en el art&#xED;culo 2&#xBA;. </div><div class=\"p\"> <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div></div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; de la Resoluci&#xF3;n 85 Exenta, Econom&#xED;a, publicada el 16.10.2009, modifica la presente norma, en el sentido de reemplazarla por el texto que se adjunta en la citada norma.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xBA; de la Resoluci&#xF3;n 68 Exenta, Energ&#xED;a, publicada el 17.03.2010, introdujo modificaciones a la presente norma, las cuales no se han introducido debido a que su contenido ha sido reemplazado por el texto individualizado en la nota anterior.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico de la Resoluci&#xF3;n 442 Exenta, Energ&#xED;a, publicada el 09.09.2010, modifica la presente norma, en el sentido de reemplazar el inciso final del art&#xED;culo 5-5 del Cap&#xED;tulo 5 por el que en ella se indica.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Art&#xED;culo 1&#xBA;.- D&#xED;ctase la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio para el Sistema Interconectado del Norte <div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div>Grande y el Sistema Interconectado Central&quot;, en adelante, indistintamente, la &quot;Norma T&#xE9;cnica de Seguridad y Calidad de Servicio&quot;, informada por la Comisi&#xF3;n Nacional de Energ&#xED;a, cuyo texto se adjunta a la presente resoluci&#xF3;n y que se publicar&#xE1; de acuerdo al mecanismo se&#xF1;alado en el art&#xED;culo 2&#xBA;. </div><div class=\"p\"> </div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div></div><br><div class=\"p\"><div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA 3</a></div></div><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; de la Resoluci&#xF3;n 85 Exenta, Econom&#xED;a, publicada el 16.10.2009, modifica la presente norma, en el sentido de reemplazarla por el texto que se adjunta en la citada norma.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xBA; de la Resoluci&#xF3;n 68 Exenta, Energ&#xED;a, publicada el 17.03.2010, introdujo modificaciones a la presente norma, las cuales no se han introducido debido a que su contenido ha sido reemplazado por el texto individualizado en la nota anterior.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico de la Resoluci&#xF3;n 442 Exenta, Energ&#xED;a, publicada el 09.09.2010, modifica la presente norma, en el sentido de reemplazar el inciso final del art&#xED;culo 5-5 del Cap&#xED;tulo 5 por el que en ella se indica.</div><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA 3</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico de la Resoluci&#xF3;n 131 Exenta, Energ&#xED;a, publicada el 24.04.2014, modifica la presente norma, en el sentido que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-07-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

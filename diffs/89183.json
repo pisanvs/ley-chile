@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-01-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-08-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8319023,
+          "old": "<div><div class=\"p\">DEROGA RESOLUCION QUE SE&#xD1;ALA Y DELEGA FACULTADES QUE INDICA EN EL JEFE DEL DEPARTAMENTO DE FISCALIZACION Y EN LOS DIRECTORES REGIONALES DEL TRABAJO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 55 exenta.- Santiago, 19 de enero de 1998.- Vistos:</div><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en los art&#xED;culos 10 y 43 de la Ley N&#xBA; 18.575, Org&#xE1;nica Constitucional de Bases Generales de la Administraci&#xF3;n del Estado.</div><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en los art&#xED;culos 481 y 482 del C&#xF3;digo del Trabajo.</div><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en el art&#xED;culo 5&#xBA; letras a), d), f) y p) del D.F.L. N&#xBA; 2, de 1967, del Ministerio del Trabajo y Previsi&#xF3;n Social, Org&#xE1;nico de la Direcci&#xF3;n del Tra-bajo.</div><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en la Resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: La conveniencia de desconcentrar las funciones administrativas y resolutivas del Servicio, a objeto de agilizar y optimizar su funcionamiento.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>",
+          "new": "<div><br><div class=\"p\"> DEROGA RESOLUCION QUE SE&#xD1;ALA Y DELEGA FACULTADES QUE<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\"> INDICA EN EL JEFE DEL DEPARTAMENTO DE FISCALIZACION</div><div class=\"p\">Y EN LOS DIRECTORES REGIONALES DEL TRABAJO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 55 exenta.- Santiago, 19 de enero de 1998.- Vistos:</div><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en los art&#xED;culos 10 y 43 de la Ley N&#xBA; 18.575, Org&#xE1;nica Constitucional de Bases Generales de la Administraci&#xF3;n del Estado.</div><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en los art&#xED;culos 481 y 482 del C&#xF3;digo del Trabajo.</div><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en el art&#xED;culo 5&#xBA; letras a), d), f) y p) del D.F.L. N&#xBA; 2, de 1967, del Ministerio del Trabajo y Previsi&#xF3;n Social, Org&#xE1;nico de la Direcci&#xF3;n del Trabajo.</div><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto en la Resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: La conveniencia de desconcentrar las funciones administrativas y resolutivas del Servicio, a objeto de agilizar y optimizar su funcionamiento.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 8 de la RES 855, Direcci&#xF3;n del Trabajo, publicada el 17.08.2001, dispuso que la presente norma perder&#xE1; su vigencia una vez resueltas todas las solicitudes de reconsideraci&#xF3;n que estuvieren pendientes conforme a este criterio.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

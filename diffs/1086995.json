@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2016-01-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-03-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9668604,
+          "old": "<div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Por decreto alcaldicio N&#xBA; 9.565, de fecha 02.07.2015, de la Municipalidad de Los &#xC1;lamos, se aprob&#xF3; la modificaci&#xF3;n de la ordenanza comunal de alcoholes en la comuna de Los &#xC1;lamos, en su art&#xED;culo 18, el cual establece horarios de funcionamiento para dichos locales, clasificados en las letras a), e), f), h) y p), del art&#xED;culo 3, de la ley N&#xBA; 19.925, quedando suprimido el texto original del mencionado art&#xED;culo y siendo el nuevo texto el siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;Estos establecimientos podr&#xE1;n funcionar de domingo a jueves desde las 09:00 de la ma&#xF1;ana hasta las 24:00 horas.</div><div class=\"p\">&nbsp; &nbsp;  Los d&#xED;as viernes y s&#xE1;bado, podr&#xE1;n funcionar desde las 09:00 de la ma&#xF1;ana hasta las 02:00 de la madrugada&quot;.</div><div class=\"p\">&nbsp; &nbsp;  Los detalles de la presente modificaci&#xF3;n de la ordenanza se encuentran disponibles en la Secretar&#xED;a Municipal y Departamento de Rentas y patentes de la Municipalidad de Los &#xC1;lamos, donde se podr&#xE1; obtener toda la informaci&#xF3;n que se requiera.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Por decreto alcaldicio <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1101378&amp;idParte=9784896&amp;idVersion=2017-03-29\">Rectificaci&#xF3;n 1234<br>D.O. 29.03.2017</a></span>N&#xBA; 9.569, de fecha 02.07.2015, de la Municipalidad de Los &#xC1;lamos, se aprob&#xF3; la modificaci&#xF3;n de la ordenanza comunal de alcoholes en la comuna de Los &#xC1;lamos, en su art&#xED;culo 18, el cual establece horarios de funcionamiento para dichos locales, clasificados en las letras a), e), f), h) y p), del art&#xED;culo 3, de la ley N&#xBA; 19.925, quedando suprimido el texto original del mencionado art&#xED;culo y siendo el nuevo texto el siguiente:</div><div class=\"p\">&nbsp; &nbsp;  &quot;Estos establecimientos podr&#xE1;n funcionar de domingo a jueves desde las 09:00 de la ma&#xF1;ana hasta las 24:00 horas.</div><div class=\"p\">&nbsp; &nbsp;  Los d&#xED;as viernes y s&#xE1;bado, podr&#xE1;n funcionar desde las 09:00 de la ma&#xF1;ana hasta las 02:00 de la madrugada&quot;.</div><div class=\"p\">&nbsp; &nbsp;  Los detalles de la presente modificaci&#xF3;n de la ordenanza se encuentran disponibles en la Secretar&#xED;a Municipal y Departamento de Rentas y patentes de la Municipalidad de Los &#xC1;lamos, donde se podr&#xE1; obtener toda la informaci&#xF3;n que se requiera.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1101378,
+      "fecha": "2017-03-29"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-02-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6509038,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 3.390, de 29 de noviembre de 2004, de esta Subsecretar&#xED;a, autor&#xED;zase a PESQUERA TRANS ANTARTIC LIMITADA, R.U.T. N&#xBA; 76.169.670-9, para continuar desarrollando las actividades pesqueras de transformaci&#xF3;n autorizadas mediante resoluciones citadas en Visto, a Pesquera Trans Antartic Limitada, R.U.T. N&#xBA; 84.925.700-5, del mismo domicilio, en virtud de la escritura p&#xFA;blica citada en Visto y del contenido de la presente resoluci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 3.390, de 29 de noviembre de 2004, de esta Subsecretar&#xED;a, autor&#xED;zase a PESQUERA TRANS ANTARTIC LIMITADA, R.U.T. N&#xBA; 76.169.670-K, para<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 23.02.2005</span> continuar desarrollando las actividades pesqueras de transformaci&#xF3;n autorizadas mediante resoluciones citadas en Visto, a Pesquera Trans Antartic Limitada, R.U.T. N&#xBA; 84.925.700-5, del mismo domicilio, en virtud de la escritura p&#xFA;blica citada en Visto y del contenido de la presente resoluci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-10-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-12-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6819151,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCI&#xD3;N N&#xBA; 1.163 EXENTA, DE 06.09.2007, QUE ASIGNA CONCESI&#xD3;N QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCI&#xD3;N N&#xBA; 1.163 EXENTA, DE 06.09.2007, QUE ASIGNA CONCESI&#xD3;N QUE INDICA</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

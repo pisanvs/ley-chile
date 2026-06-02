@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-02-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-05-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6344314,
+          "old": "<div><div class=\"p\">AUTORIZA A &quot;COMERCIAL Y EXPORTADORA TECFRO LTDA.&quot; PARA AMPLIAR SUS ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A &quot;COMERCIAL Y EXPORTADORA TECFRO LTDA.&quot; PARA AMPLIAR SUS ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

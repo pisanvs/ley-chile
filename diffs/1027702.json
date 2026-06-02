@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2011-07-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-10-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9158314,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Modif&#xED;case la <a href=\"https://www.leychile.cl/Navegar?idNorma=1003741&amp;idParte=0&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 1.449, de 2009, del Servicio Nacional de Pesca</a>, que estableci&#xF3; medidas de manejo sanitario por &#xE1;rea, publicada en el Diario Oficial de fecha 26 de junio de 2009, en el sentido de actualizar, respecto de las agrupaciones de concesiones que se mencionan, los per&#xED;odos de descanso sanitario fijados en el inciso final del art&#xED;culo tercero de esa resoluci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/19328.jpg\"></div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Modif&#xED;case la resoluci&#xF3;n exenta N&#xBA; 1.449, de 2009, del Servicio Nacional de Pesca, que estableci&#xF3; medidas de manejo sanitario por &#xE1;rea, publicada en el Diario Oficial de fecha 26 de junio de 2009, en el sentido de actualizar, respecto de las agrupaciones de concesiones que se mencionan, los per&#xED;odos de descanso <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> sanitario fijados en el inciso final del art&#xED;culo tercero de esa resoluci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/19328.jpg\"></div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 2113 Exenta, Econom&#xED;a, publicado el 01.10.2013, modifica la presente norma en el sentido de que se fija como descanso sanitario para la agrupaci&#xF3;n de concesiones 22 C el per&#xED;odo comprendido entre los meses de febrero y marzo de 2014.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-01-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9158314,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Modif&#xED;case la resoluci&#xF3;n exenta N&#xBA; 1.449, de 2009, del Servicio Nacional de Pesca, que estableci&#xF3; medidas de manejo sanitario por &#xE1;rea, publicada en el Diario Oficial de fecha 26 de junio de 2009, en el sentido de actualizar, respecto de las agrupaciones de concesiones que se mencionan, los per&#xED;odos de descanso <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> sanitario fijados en el inciso final del art&#xED;culo tercero de esa resoluci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/19328.jpg\"></div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 2113 Exenta, Econom&#xED;a, publicado el 01.10.2013, modifica la presente norma en el sentido de que se fija como descanso sanitario para la agrupaci&#xF3;n de concesiones 22 C el per&#xED;odo comprendido entre los meses de febrero y marzo de 2014.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Modif&#xED;case la resoluci&#xF3;n exenta N&#xBA; 1.449, de 2009, del Servicio Nacional de Pesca, que estableci&#xF3; medidas de manejo sanitario por &#xE1;rea, publicada en el Diario Oficial de fecha 26 de junio de 2009, en el sentido de actualizar, respecto de las agrupaciones de concesiones que se mencionan, los per&#xED;odos de descanso <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> sanitario <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> fijados en el inciso final del art&#xED;culo tercero de esa resoluci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/19328.jpg\"></div><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 2113 Exenta, Econom&#xED;a, publicado el 01.10.2013, modifica la presente norma en el sentido de que se fija como descanso sanitario para la agrupaci&#xF3;n de concesiones 22 C el per&#xED;odo comprendido entre los meses de febrero y marzo de 2014.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 3282 Exenta, Econom&#xED;a, publicado el 29.01.2014, modifica la presente norma en el sentido de modificar el tercer per&#xED;odo de descanso de la agrupaci&#xF3;n de concesiones n&#xFA;mero 11, a dos meses de descanso durante el verano; esto es, a febrero y marzo de 2014. Except&#xFA;ase s&#xF3;lo a aquellos centros de cultivo que, de no mediar el descanso, se encontrar&#xED;an en causal de caducidad.</div></div>"
+        }
+      ]
+    }
+  }
+]

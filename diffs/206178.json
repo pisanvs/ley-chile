@@ -1,0 +1,53 @@
+[
+  {
+    "fecha": "2002-12-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-08-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7296299,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xBA; bis.- Interpr&#xE9;tase el art&#xED;culo 15&#xB0;<span class=\"n\" id=\"n_2\">LEY 19899<br>Art. &#xFA;nico N&#xBA; 5<br>D.O. 18.08.2003</span> inciso 2&#xB0; de la ley N&#xB0; 19.287, en el sentido que las n&#xF3;minas de los deudores morosos de los fondos solidarios de cr&#xE9;dito universitario son p&#xFA;blicas sin que les haya sido ni les sea aplicable lo establecido en la ley N&#xB0; 19.812.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7296285,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Los deudores que deseen acogerse a los beneficios de esta ley, deber&#xE1;n manifestarlo al administrador del Fondo Solidario de Cr&#xE9;dito Universitario respectivo, en adelante &quot;el administrador&quot;, dentro de los 60 d&#xED;as siguientes contados desde la publicaci&#xF3;n en el Diario Oficial del reglamento a que se refiere el art&#xED;culo 14.</div><div class=\"p\">&nbsp; &nbsp;  En dicha comunicaci&#xF3;n fijar&#xE1;n un domicilio, destinado al env&#xED;o de las notificaciones y avisos relativos a &#xE9;sta y otras gestiones vinculadas al cr&#xE9;dito, e informar&#xE1;n, cuando corresponda, de la entidad previsional a la que se encuentran afiliados. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Los deudores que deseen acogerse a los beneficios de esta ley, deber&#xE1;n manifestarlo al administrador del Fondo Solidario de Cr&#xE9;dito Universitario respectivo, en adelante &quot;el administrador&quot;, antes del 30 de septiembre de 2003.<span class=\"n\" id=\"n_0\">LEY 19899<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 18.08.2003</span> En dicha comunicaci&#xF3;n fijar&#xE1;n un domicilio, destinado al env&#xED;o de las notificaciones y avisos relativos a &#xE9;sta y otras gestiones vinculadas al cr&#xE9;dito, e informar&#xE1;n, cuando corresponda, de la entidad previsional a la que se encuentran afiliados. </div></div>"
+        },
+        {
+          "part_id": 7296287,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Determinados los saldos, el administrador notificar&#xE1; a cada deudor, personalmente o por medio de carta certificada, al domicilio se&#xF1;alado en el art&#xED;culo 2&#xBA;, el nuevo monto de su deuda. Para estos efectos, la notificaci&#xF3;n por medio de carta certificada, se entender&#xE1; efectuada al tercer d&#xED;a h&#xE1;bil desde la fecha de env&#xED;o de la misma.</div><div class=\"p\">&nbsp; &nbsp;  Dentro del plazo de 30 d&#xED;as, a contar de la notificaci&#xF3;n del monto antes se&#xF1;alado, el deudor deber&#xE1; convenir con el administrador el n&#xFA;mero de cuotas anuales en que pagar&#xE1; su saldo.</div><div class=\"p\">&nbsp; &nbsp;  En el momento de convenir el n&#xFA;mero de cuotas, el deudor deber&#xE1; proceder al pago de una suma equivalente al 5% de la deuda consolidada o a 7 unidades de fomento, seg&#xFA;n cual sea mayor, y suscribir un pagar&#xE9; que d&#xE9; cuenta de la nueva deuda. El saldo se pagar&#xE1; hasta en 10 cuotas anuales iguales y sucesivas, expresadas en unidades tributarias mensuales.</div><div class=\"p\">&nbsp; &nbsp;  El pagar&#xE9; referido en el inciso anterior, y las actas de protesto del mismo, cuando procediere, se encontrar&#xE1;n exentos de los impuestos establecidos en la Ley de Timbres y Estampillas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Determinados los saldos, el administrador notificar&#xE1; a cada deudor, personalmente o por medio de carta certificada, al domicilio se&#xF1;alado en el art&#xED;culo 2&#xBA;, el nuevo monto de su deuda. Para estos efectos, la notificaci&#xF3;n por medio de carta certificada, se entender&#xE1; efectuada al tercer d&#xED;a h&#xE1;bil desde la fecha de env&#xED;o de la misma. Dentro del plazo de 30 d&#xED;as, a contar de la notificaci&#xF3;n del monto antes se&#xF1;alado, el deudor deber&#xE1; convenir con el administrador el n&#xFA;mero de cuotas anuales en que pagar&#xE1; su saldo. En el momento de convenir el n&#xFA;mero de cuotas, el deudor deber&#xE1; proceder al pago de una suma equivalente al 5% de la deuda consolidada o a 7 unidades de fomento, seg&#xFA;n cual sea mayor. El deudor podr&#xE1; realizar dicho<span class=\"n\" id=\"n_1\">LEY 19899<br>Art. &#xFA;nico N&#xBA; 2 y 3<br>D.O. 18.08.2003<br>LEY 19899<br>Art. &#xFA;nico N&#xBA; 4<br>D.O. 18.08.2003</span> pago hasta en cuatro cuotas mensuales, durante el a&#xF1;o 2003. Asimismo, el deudor deber&#xE1; suscribir un pagar&#xE9; que d&#xE9; cuenta de su nueva deuda. El saldo se pagar&#xE1; hasta en diez cuotas anuales iguales y sucesivas, expresadas en Unidades Tributarias Mensuales. El pagar&#xE9; referido en el inciso anterior, y las actas de protesto del mismo, cuando procediere, se encontrar&#xE1;n exentos de los impuestos establecidos en la Ley de Timbres y Estampillas. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2004-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7296295,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12.- Para efectos de la acreditaci&#xF3;n de los ingresos a que se refiere el art&#xED;culo 9&#xBA; de la ley N&#xBA; 19.287, lo dispuesto en el art&#xED;culo 35, inciso segundo del C&#xF3;digo Tributario, no ser&#xE1; aplicable a la informaci&#xF3;n relativa a los ingresos de los deudores de los cr&#xE9;ditos solidarios, pero s&#xF3;lo para el administrador respectivo. Esta excepci&#xF3;n &#xFA;nicamente regir&#xE1; respecto de la materia expresada.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, los administradores de fondos de cr&#xE9;dito se encontrar&#xE1;n facultados para solicitar informaci&#xF3;n a las entidades previsionales que corresponda, en relaci&#xF3;n con los ingresos de los deudores que reprogramaron sus cr&#xE9;ditos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12.- Para efectos de la acreditaci&#xF3;n de los ingresos a que se refiere el art&#xED;culo 9&#xBA; de la ley N&#xBA; 19.287, el deber de secreto o reserva de los<span class=\"n\" id=\"n_2\">LEY 19989<br>Art. 2&#xBA; N&#xBA; 1<br>D.O. 31.12.2004</span> antecedentes tributarios, contenido en el art&#xED;culo 35, inciso segundo del C&#xF3;digo Tributario, no ser&#xE1; aplicable a la informaci&#xF3;n relativa a los ingresos de los deudores de los cr&#xE9;ditos solidarios, pero s&#xF3;lo para el administrador respectivo. Esta excepci&#xF3;n &#xFA;nicamente regir&#xE1; respecto de la materia expresada. Asimismo, los administradores de fondos de cr&#xE9;dito se encontrar&#xE1;n facultados para solicitar informaci&#xF3;n a las entidades previsionales que corresponda, en relaci&#xF3;n con los ingresos de los deudores que reprogramaron sus cr&#xE9;ditos. Son considerados deudores de los cr&#xE9;ditos<span class=\"n\" id=\"n_3\">LEY 19989<br>Art. 2&#xBA; N&#xBA; 2<br>D.O. 31.12.2004</span> solidarios todos aquellos que resulten de la aplicaci&#xF3;n de las leyes N&#xBA;18.591, N&#xBA;19.287 y N&#xBA;19.848. </div></div>"
+        },
+        {
+          "part_id": 7296299,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xBA; bis.- Interpr&#xE9;tase el art&#xED;culo 15&#xB0;<span class=\"n\" id=\"n_2\">LEY 19899<br>Art. &#xFA;nico N&#xBA; 5<br>D.O. 18.08.2003</span> inciso 2&#xB0; de la ley N&#xB0; 19.287, en el sentido que las n&#xF3;minas de los deudores morosos de los fondos solidarios de cr&#xE9;dito universitario son p&#xFA;blicas sin que les haya sido ni les sea aplicable lo establecido en la ley N&#xB0; 19.812.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xBA; bis.- Interpr&#xE9;tase el art&#xED;culo 15&#xB0;<span class=\"n\" id=\"n_4\">LEY 19899<br>Art. &#xFA;nico N&#xBA; 5<br>D.O. 18.08.2003</span> inciso 2&#xB0; de la ley N&#xB0; 19.287, en el sentido que las n&#xF3;minas de los deudores morosos de los fondos solidarios de cr&#xE9;dito universitario son p&#xFA;blicas sin que les haya sido ni les sea aplicable lo establecido en la ley N&#xB0; 19.812.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

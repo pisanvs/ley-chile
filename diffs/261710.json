@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-06-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-11-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8654701,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA; transitorio. El certificado que debe ser remitido en noviembre de 2007 comprender&#xE1; los resultados de la auditor&#xED;a realizada respecto del per&#xED;odo que est&#xE9; comprendido en los informes trimestrales de calidad de servicio que se hayan rendido hasta esa fecha.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA; transitorio. A fin que las<span class=\"n\" id=\"n_0\">RES 1455 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 29.11.2007</span> concesionarias dispongan de tiempo suficiente para llevar adelante el primero de los procesos de auditor&#xED;a, el certificado correspondiente al a&#xF1;o 2007 deber&#xE1; excepcionalmente ser entregado en el curso del mes de diciembre del mismo a&#xF1;o y comprender&#xE1; los resultados de la auditor&#xED;a realizada respecto del per&#xED;odo que est&#xE9; comprendido en los informes trimestrales de calidad de servicio que se hayan rendido hasta dicho momento.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

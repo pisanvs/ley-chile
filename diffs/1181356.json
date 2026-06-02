@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "2022-09-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-10-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10365211,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;.- Los trabajos se iniciar&#xE1;n dentro de un plazo de 180 d&#xED;as contados desde la reducci&#xF3;n a escritura p&#xFA;blica del presente decreto, y por su parte, la terminaci&#xF3;n total de las obras se estima en 5 (cinco) meses contados desde su iniciaci&#xF3;n. Sin perjuicio de lo anterior, se podr&#xE1;n iniciar los trabajos en el evento que el Proyecto obtenga todas las autorizaciones y derechos que lo habiliten para ello. El plazo por etapas y secciones se detalla a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/153546.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1197212&amp;idParte=10465913&amp;idVersion=2023-10-24\">Decreto 174 EXENTO,<br>ENERG&#xCD;A<br>N&#xBA; 1<br>D.O. 24.10.2023</a></span>t&#xED;culo 11&#xBA;.- Los trabajos se iniciar&#xE1;n dentro de un plazo de 28 meses contados desde la reducci&#xF3;n a escritura p&#xFA;blica del presente decreto, y por su parte, la terminaci&#xF3;n total de las obras se estima en 5 meses contados desde su iniciaci&#xF3;n. Sin perjuicio de lo anterior, se podr&#xE1;n iniciar los trabajos en el evento que el Proyecto obtenga todas las autorizaciones y derechos que lo habiliten para ello. El plazo por etapas y secciones se detalla a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/171465.jpg\"></div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1197212,
+      "fecha": "2023-10-24"
+    }
+  },
+  {
+    "fecha": "2025-05-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10365211,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1197212&amp;idParte=10465913&amp;idVersion=2023-10-24\">Decreto 174 EXENTO,<br>ENERG&#xCD;A<br>N&#xBA; 1<br>D.O. 24.10.2023</a></span>t&#xED;culo 11&#xBA;.- Los trabajos se iniciar&#xE1;n dentro de un plazo de 28 meses contados desde la reducci&#xF3;n a escritura p&#xFA;blica del presente decreto, y por su parte, la terminaci&#xF3;n total de las obras se estima en 5 meses contados desde su iniciaci&#xF3;n. Sin perjuicio de lo anterior, se podr&#xE1;n iniciar los trabajos en el evento que el Proyecto obtenga todas las autorizaciones y derechos que lo habiliten para ello. El plazo por etapas y secciones se detalla a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/171465.jpg\"></div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1197212&amp;idParte=10465913&amp;idVersion=2023-10-24\">Decreto 174 EXENTO,<br>ENERG&#xCD;A<br>N&#xBA; 1<br>D.O. 24.10.2023</a></span>t&#xED;culo 11&#xBA;.- Los trabajos <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1213595&amp;idParte=10549371&amp;idVersion=2025-05-23\">Decreto 117 EXENTO,<br>ENERG&#xCD;A<br>N&#xB0; 1<br>D.O. 23.05.2025</a></span>se iniciar&#xE1;n dentro de un plazo de 46 meses contados desde la reducci&#xF3;n a escritura p&#xFA;blica del presente decreto, y por su parte, la terminaci&#xF3;n total de las obras se estima en 5 meses contados desde su iniciaci&#xF3;n. Sin perjuicio de lo anterior, se podr&#xE1;n iniciar los trabajos en el evento que el Proyecto obtenga todas las autorizaciones y derechos que lo habiliten para ello. El plazo por etapas y secciones se detalla a continuaci&#xF3;n:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/171465.jpg\"></div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1213595,
+      "fecha": "2025-05-23"
+    }
+  }
+]

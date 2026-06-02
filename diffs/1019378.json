@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-11-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-12-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9057779,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 7.264, de fecha 10 de noviembre de 2010, se orden&#xF3; la expropiaci&#xF3;n, conforme a las normas del Decreto Ley N&#xBA; 2.186 de 1978, del denominado Lote N&#xBA; 5, correspondiente a la totalidad del inmueble ubicado en Caletera Valle del Elqui N&#xBA; 13.02, Departamento N&#xBA; 11, Rol de Aval&#xFA;o N&#xBA; 7838-109, de la comuna de La Pintana, Regi&#xF3;n Metropolitana, de aparente dominio de Mar&#xED;a Ang&#xE9;lica Orellana Gonz&#xE1;lez, con una superficie aproximada de 42,32 metros cuadrados. Dicha expropiaci&#xF3;n resulta necesaria para la ejecuci&#xF3;n del Proyecto Parque Batall&#xF3;n Chacabuco. La Comisi&#xF3;n de Peritos integrada por los se&#xF1;ores Rodrigo Mella Ascar, constructor civil; Mar&#xED;a Cristina Camus Palacios, arquitecto y Dionisio Rodr&#xED;guez Astudillo, constructor civil, mediante Informe de fecha 27 de octubre de 2010, fij&#xF3; la indemnizaci&#xF3;n provisional por causa de la referida expropiaci&#xF3;n en la suma de $15.000.000, que se pagar&#xE1; al contado. La presente publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 79 del Decreto Ley N&#xBA; 2.186 de 1978. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 7.264, de fecha 10 de noviembre de 2010, se orden&#xF3; la expropiaci&#xF3;n, conforme a las normas del Decreto Ley N&#xBA; 2.186 de 1978, del denominado Lote N&#xBA; 5, correspondiente a la totalidad del<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1019981&amp;idParte=9065832&amp;idVersion=2010-12-01\">Rectificaci&#xF3;n S/N<br>VIVIENDA<br>D.O. 01.12.2010</a></span> inmueble ubicado en Caletera Valle del Elqui N&#xB0; 13.402, Departamento N&#xB0; 11, Rol de Aval&#xFA;o N&#xB0; 7838-109, de la comuna de La Pintana, Regi&#xF3;n Metropolitana, de aparente dominio de Mar&#xED;a Ang&#xE9;lica Orellana Gonz&#xE1;lez, con una superficie aproximada de 42,32 metros cuadrados. Dicha expropiaci&#xF3;n resulta necesaria para la ejecuci&#xF3;n del Proyecto Parque Batall&#xF3;n Chacabuco. La Comisi&#xF3;n de Peritos integrada por los se&#xF1;ores Rodrigo Mella Ascar, constructor civil; Mar&#xED;a Cristina Camus Palacios, arquitecto y Dionisio Rodr&#xED;guez Astudillo, constructor civil, mediante Informe de fecha 27 de octubre de 2010, fij&#xF3; la indemnizaci&#xF3;n provisional por causa de la referida expropiaci&#xF3;n en la suma de $15.000.000, que se pagar&#xE1; al contado. La presente publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 79 del Decreto Ley N&#xBA; 2.186 de 1978. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1019981,
+      "fecha": "2010-12-01"
+    }
+  }
+]

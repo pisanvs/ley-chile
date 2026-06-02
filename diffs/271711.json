@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "2008-05-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-02-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8113273,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCI&#xD3;N N&#xBA; 2.664 EXENTA, DE 2008. APRUEBA REGLAMENTO ESPEC&#xCD;FICO PARA LA ACREDITACI&#xD3;N DE TERCEROS EN LA EJECUCI&#xD3;N DE TRATAMIENTOS FITOSANITARIOS PARA ART&#xCD;CULOS REGLAMENTADOS DE IMPORTACI&#xD3;N Y TR&#xC1;NSITO Y DEROGA RESOLUCI&#xD3;N QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCI&#xD3;N N&#xBA; 2.664 EXENTA, DE 2008. APRUEBA REGLAMENTO ESPEC&#xCD;FICO PARA LA ACREDITACI&#xD3;N DE TERCEROS EN LA EJECUCI&#xD3;N DE TRATAMIENTOS FITOSANITARIOS PARA ART&#xCD;CULOS REGLAMENTADOS DE IMPORTACI&#xD3;N Y TR&#xC1;NSITO Y DEROGA RESOLUCI&#xD3;N QUE INDICA</div><br><br></div>"
+        },
+        {
+          "part_id": 8113274,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base el &quot;Reglamento Espec&#xED;fico para la Acreditaci&#xF3;n de Terceros en la Ejecuci&#xF3;n de Tratamientos Fitosanitarios para Art&#xED;culos Reglamentados de Importaci&#xF3;n y Tr&#xE1;nsito&quot;, el cual se entiende parte integrante de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Las personas naturales o jur&#xED;dicas que actualmente se encuentren acreditadas por el Servicio para uno o m&#xE1;s tratamientos contemplados en el Reglamento espec&#xED;fico que aprueba la presente resoluci&#xF3;n, podr&#xE1;n continuar ejerciendo las acciones para las cuales se encuentran acreditados hasta 180 d&#xED;as despu&#xE9;s de publicada en el Diario Oficial la presente resoluci&#xF3;n. Sin perjuicio de lo anterior, si estas personas desean mantener la continuidad de las acciones para las cuales se encuentran acreditadas, deber&#xE1;n postular a una nueva acreditaci&#xF3;n ante el Servicio, conforme al procedimiento establecido y completar totalmente el tr&#xE1;mite de acreditaci&#xF3;n antes de vencido el plazo anteriormente se&#xF1;alado.</div><div class=\"p\">&nbsp; &nbsp;  3.- Der&#xF3;gase la resoluci&#xF3;n exenta N&#xBA; 1.975, de 4 de agosto de 2000, de la Direcci&#xF3;n Nacional del Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp;  4.- El texto completo de la presente resoluci&#xF3;n, as&#xED; como del &quot;Reglamento Espec&#xED;fico para la Acreditaci&#xF3;n de Terceros en la Ejecuci&#xF3;n de Tratamientos Fitosanitarios para Art&#xED;culos Reglamentados de Importaci&#xF3;n y Tr&#xE1;nsito&quot;, estar&#xE1;n a disposici&#xF3;n de los usuarios en el sitio Web del Servicio Agr&#xED;cola y Ganadero (www.sag.cl).</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base el &quot;Reglamento Espec&#xED;fico para la Acreditaci&#xF3;n de Terceros en la Ejecuci&#xF3;n de Tratamientos Fitosanitarios para Art&#xED;culos Reglamentados de Importaci&#xF3;n y Tr&#xE1;nsito&quot;, el cual se entiende parte integrante de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Las personas naturales o jur&#xED;dicas que<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> actualmente se encuentren acreditadas por el Servicio para uno o m&#xE1;s tratamientos contemplados en el Reglamento espec&#xED;fico que aprueba la presente resoluci&#xF3;n, podr&#xE1;n continuar ejerciendo las acciones para las cuales se encuentran acreditados hasta 180 d&#xED;as despu&#xE9;s de publicada en el Diario Oficial la presente resoluci&#xF3;n. Sin perjuicio de lo anterior, si estas personas desean mantener la continuidad de las acciones para las cuales se encuentran acreditadas, deber&#xE1;n postular a una nueva acreditaci&#xF3;n ante el Servicio, conforme al procedimiento establecido y completar totalmente el tr&#xE1;mite de acreditaci&#xF3;n antes de vencido el plazo anteriormente se&#xF1;alado.</div><div class=\"p\">&nbsp; &nbsp;  3.- Der&#xF3;gase la resoluci&#xF3;n exenta N&#xBA; 1.975, de 4 de agosto de 2000, de la Direcci&#xF3;n Nacional del Servicio Agr&#xED;cola y Ganadero.</div><div class=\"p\">&nbsp; &nbsp;  4.- El texto completo de la presente resoluci&#xF3;n, as&#xED; como del &quot;Reglamento Espec&#xED;fico para la Acreditaci&#xF3;n de Terceros en la Ejecuci&#xF3;n de Tratamientos Fitosanitarios para Art&#xED;culos Reglamentados de Importaci&#xF3;n y Tr&#xE1;nsito&quot;, estar&#xE1;n a disposici&#xF3;n de los usuarios en el sitio Web del Servicio Agr&#xED;cola y Ganadero (www.sag.cl).</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 654 Exenta, Agricultura, publicada el 14.02.2009, prorroga el plazo establecido en el presente numeral, en 60 d&#xED;as corridos contados desde el 15 de febrero de 2009.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-02-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

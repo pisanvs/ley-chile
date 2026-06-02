@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-08-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-10-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8050964,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA;98, de 15 de junio de 2007, de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Octava Regi&#xF3;n del B&#xED;o B&#xED;o, se autoriz&#xF3; a la Planta Revisora T&#xE9;cnica Clase AB 0809, localizada en la comuna de Talcahuano, del Concesionario &quot;Revisiones B&#xED;o B&#xED;o Ltda.&quot;, para efectuar revisiones t&#xE9;cnicas de veh&#xED;culos motorizados y sus remolques, en la comuna de San Carlos, en calle de Servicio Oriente N&#xBA;1145, desde el 20 de agosto de 2007.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA;98, de 15 de junio de 2007, de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Octava Regi&#xF3;n del B&#xED;o B&#xED;o, se autoriz&#xF3; a la Planta Revisora T&#xE9;cnica Clase AB 0809, localizada en la comuna de Talcahuano, del Concesionario &quot;Revisiones B&#xED;o B&#xED;o Ltda.&quot;, para efectuar revisiones t&#xE9;cnicas de veh&#xED;culos motorizados y sus remolques, en la comuna de San Carlos, en calle de Servicio Oriente N&#xBA;1145, desde el 21 de septiembre de 2007.-<span class=\"n\" id=\"n_0\">RES 158 EXENTA,<br>TRANSPORTES<br>D.O. 26.10.2007</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

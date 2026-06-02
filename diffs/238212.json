@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-05-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-11-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6526904,
+          "old": "<div><div class=\"p\">ESTABLECE PLAZO DE VIGENCIA DEL CERTIFICADO DE INSCRIPCION EN EL REGISTRO NACIONAL PARA SERVICIOS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 343 exenta.- Puerto Montt, 10 de mayo de 2005.- Visto: la ley 19.040; el art&#xED;culo 3&#xBA; del decreto supremo N&#xBA; 212, de 1992, modificado por el decreto supremo N&#xBA; 56, de 2003, ambos del Ministerio de Transportes y Telecomunicaciones; y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, para efectos de lograr un mayor ordenamiento, control y fiscalizaci&#xF3;n de los servicios de transporte p&#xFA;blico de pasajeros inscritos en el Registro Nacional de Servicios de Transportes de Pasajeros de la Regi&#xF3;n de Los Lagos, en adelante el Registro, resulta conveniente ejercer la potestad contemplada en el art&#xED;culo 3&#xBA; del D.S. N&#xBA; 212, de 1992, citado en el Visto, estableciendo la vigencia del Certificado de Inscripci&#xF3;n, tanto de los servicios que se inscriban en el aludido Registro, como de aquellos que ya estuvieren inscritos en el mismo;</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE PLAZO DE VIGENCIA DEL CERTIFICADO DE INSCRIPCION EN EL REGISTRO NACIONAL PARA SERVICIOS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 343 exenta.- Puerto Montt, 10 de mayo de 2005.- Visto: la ley 19.040; el art&#xED;culo 3&#xBA; del decreto supremo N&#xBA; 212, de 1992, modificado por el decreto supremo N&#xBA; 56, de 2003, ambos del Ministerio de Transportes y Telecomunicaciones; y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que, para efectos de lograr un mayor ordenamiento, control y fiscalizaci&#xF3;n de los servicios de transporte p&#xFA;blico de pasajeros inscritos en el Registro Nacional de Servicios de Transportes de Pasajeros de la Regi&#xF3;n de Los Lagos, en adelante el Registro, resulta conveniente ejercer la potestad contemplada en el art&#xED;culo 3&#xBA; del D.S. N&#xBA; 212, de 1992, citado en el Visto, estableciendo la vigencia del Certificado de Inscripci&#xF3;n, tanto de los servicios que se inscriban en el aludido Registro, como de aquellos que ya estuvieren inscritos en el mismo;</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-12-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-07-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320004,
+          "old": "<div><div class=\"p\">AUTORIZA A DON RAMON OSVALDO GUTIERREZ GUTIERREZ PARA INICLUIR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON RAMON OSVALDO GUTIERREZ GUTIERREZ PARA INICLUIR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

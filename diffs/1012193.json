@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2010-04-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-07-21",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8904191,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo quinto: El plazo m&#xE1;ximo de duraci&#xF3;n de la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica &quot;Galo&quot;, ser&#xE1; de dos a&#xF1;os, contados desde la fecha de publicaci&#xF3;n del presente decreto supremo en el Diario Oficial, conforme al art&#xED;culo 21 de la ley N&#xB0; 19.657. La mencionada publicaci&#xF3;n ser&#xE1; de cargo de la concesionaria, quien tendr&#xE1;, para el cumplimiento de esta obligaci&#xF3;n, un plazo m&#xE1;ximo de 90 d&#xED;as, contados desde la fecha en que se encuentre totalmente tramitado el presente acto administrativo, de acuerdo a lo dispuesto en el inciso segundo del art&#xED;culo 43 del Reglamento para la aplicaci&#xF3;n de la ley N&#xB0; 19.657.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo quinto: El plazo m&#xE1;ximo de duraci&#xF3;n de la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica &quot;Galo&quot;, ser&#xE1; de dos <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> a&#xF1;os, contados desde la fecha de publicaci&#xF3;n del presente decreto supremo en el Diario Oficial, conforme al art&#xED;culo 21 de la ley N&#xB0; 19.657. La mencionada publicaci&#xF3;n ser&#xE1; de cargo de la concesionaria, quien tendr&#xE1;, para el cumplimiento de esta obligaci&#xF3;n, un plazo m&#xE1;ximo de 90 d&#xED;as, contados desde la fecha en que se encuentre totalmente tramitado el presente acto administrativo, de acuerdo a lo dispuesto en el inciso segundo del art&#xED;culo 43 del Reglamento para la aplicaci&#xF3;n de la ley N&#xB0; 19.657.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo primero del Decreto 135 Exento, Energ&#xED;a, publicado el 21.07.2012, prorroga por un per&#xED;odo de dos a&#xF1;os la concesi&#xF3;n de exploraci&#xF3;n de energ&#xED;a geot&#xE9;rmica denominada &quot;Galo&quot;, de Hot Rock Chile S.A., otorgada por la presente norma, a contar del t&#xE9;rmino del per&#xED;odo original de exploraci&#xF3;n, esto es, desde el d&#xED;a 1 de abril de 2012.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-03-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

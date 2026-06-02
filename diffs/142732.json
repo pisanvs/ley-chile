@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1999-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7253210,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 5.879, DE 1999</div><br><br></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 5.879, DE 1999</div><br><br><br></div>"
+        },
+        {
+          "part_id": 7253211,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Materia: Elimina obligatoriedad de presentar declaraci&#xF3;n de Inicio de Actividades y de dar aviso de T&#xE9;rmino de Giro a los contribuyentes que exploten a cualquier t&#xED;tulo veh&#xED;culos destinados al transporte terrestre de pasajeros.</div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Los contribuyentes, que no sean sociedades an&#xF3;nimas o en comandita por acciones, que exploten a cualquier t&#xED;tulo veh&#xED;culos motorizados en el transporte terrestre de pasajeros, que est&#xE9;n acogidos al r&#xE9;gimen de renta presunta, quedan eximidos de dar avisos de Declaraci&#xF3;n de Inicio de Actividades y de T&#xE9;rmino de Giro.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Los referidos contribuyentes que tengan otras rentas gravadas con la Primera Categor&#xED;a de la Ley sobre Impuesto a la Renta quedan obligados a dar aviso de Inicio de Actividades y T&#xE9;rmino de Giro.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; El Servicio de Impuestos Internos, por medio de las diferentes municipalidades del pa&#xED;s, obtendr&#xE1; los antecedentes necesarios para verificar el cumplimiento tributario de dichos contribuyentes.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; La presente resoluci&#xF3;n rige a contar de su fecha en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  Esta presente resoluci&#xF3;n se publicar&#xE1; en extenso en la p&#xE1;gina Web del Servicio en Internet (www.sii.cl) y en el Bolet&#xED;n del Servicio correspondiente a la edici&#xF3;n del mes de julio de 1999.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Materia: Elimina obligatoriedad de presentar declaraci&#xF3;n de Inicio de Actividades y de dar aviso de T&#xE9;rmino de Giro a los contribuyentes que exploten a cualquier t&#xED;tulo veh&#xED;culos destinados al transporte terrestre de pasajeros. 1&#xBA; Los contribuyentes, que no sean sociedades</div><div class=\"p\">an&#xF3;nimas o en comandita por acciones, que exploten a</div><div class=\"p\">cualquier t&#xED;tulo veh&#xED;culos motorizados en el transporte</div><div class=\"p\">terrestre de pasajeros, que est&#xE9;n acogidos al r&#xE9;gimen de</div><div class=\"p\">renta presunta, quedan eximidos de dar avisos de</div><div class=\"p\">Declaraci&#xF3;n de Inicio de Actividades y de T&#xE9;rmino de</div><div class=\"p\">Giro.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Los referidos contribuyentes que tengan otras</div><div class=\"p\">rentas gravadas con la Primera Categor&#xED;a de la Ley sobre</div><div class=\"p\">Impuesto a la Renta quedan obligados a dar aviso de</div><div class=\"p\">Inicio de Actividades y T&#xE9;rmino de Giro.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; El Servicio de Impuestos Internos, por medio de</div><div class=\"p\">las diferentes municipalidades del pa&#xED;s, obtendr&#xE1; los</div><div class=\"p\">antecedentes necesarios para verificar el cumplimiento</div><div class=\"p\">tributario de dichos contribuyentes.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; La presente resoluci&#xF3;n rige a contar de su fecha</div><div class=\"p\">en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  Esta presente resoluci&#xF3;n se publicar&#xE1; en extenso en</div><div class=\"p\">la p&#xE1;gina Web del Servicio en Internet (www.sii.cl) y en</div><div class=\"p\">el Bolet&#xED;n del Servicio correspondiente a la edici&#xF3;n del<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 14.09.1999</span></div><div class=\"p\">mes de agosto de 1999.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

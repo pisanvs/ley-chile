@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-01-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-08-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7200972,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; COMPLEMENTA SISTEMA TARIFARIO Y FIJA VALORES QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 57 Exenta.- Santiago, enero 15 de 1996.- Vistos: El D.F.L. N&#xB0; 10 de 1981, y el art&#xED;culo 5&#xB0; del Decreto N&#xB0; 2 de 1995, ambos del Ministerio de Transporte y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la necesidad de reajustar las tarifas de la prestaci&#xF3;n postal complementaria Valija Comercial; el acuerdo de Directorio N&#xB0; 74/92 del 02 de diciembre de 1992; las resoluciones exentas N&#xB0; 62 y N&#xB0; 1119 de 1995, ambas de esta Empresa; la resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las atribuciones que me confieren las Resoluciones N&#xB0; 233 de 1994 y N&#xB0; 1861 del 04 de diciembre de 1995, ambas de la Empresa de Correos de Chile, vengo en dictar la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; COMPLEMENTA SISTEMA TARIFARIO Y FIJA VALORES QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 57 Exenta.- Santiago, enero 15 de 1996.- Vistos: El D.F.L. N&#xB0; 10 de 1981, y el art&#xED;culo 5&#xB0; del Decreto N&#xB0; 2 de 1995, ambos del Ministerio de Transporte y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la necesidad de reajustar las tarifas de la prestaci&#xF3;n postal complementaria Valija Comercial; el acuerdo de Directorio N&#xB0; 74/92 del 02 de diciembre de 1992; las resoluciones exentas N&#xB0; 62 y N&#xB0; 1119 de 1995, ambas de esta Empresa; la resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las atribuciones que me confieren las Resoluciones N&#xB0; 233 de 1994 y N&#xB0; 1861 del 04 de diciembre de 1995, ambas de la Empresa de Correos de Chile, vengo en dictar la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

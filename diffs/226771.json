@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-06-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-09-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6484675,
+          "old": "<div><div class=\"p\">CREA Y REGLAMENTA EL SERVICIO &quot;CODIGO POSTAL&quot; </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 51 exenta.- Santiago, 15 de junio de 2004.- Vistos y Considerando: El DFL. N&#xBA; 10, de 1981, y el art&#xED;culo 5&#xBA; del decreto N&#xBA; 615, de 2001, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la necesidad de crear nuevos servicios postales para satisfacer las necesidades del mercado y mejorar la calidad del servicio postal; el acuerdo N&#xBA; 074/2004 del directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n Octava Ordinaria de 27 de mayo de 2004, que aprob&#xF3; la creaci&#xF3;n del nuevo servicio, la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las atribuciones que me confieren la resoluci&#xF3;n N&#xBA; 1, de 2002, y resoluci&#xF3;n exenta N&#xBA; 20, de 2001, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">CREA Y REGLAMENTA EL SERVICIO &quot;CODIGO POSTAL&quot; </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 51 exenta.- Santiago, 15 de junio de 2004.- Vistos y Considerando: El DFL. N&#xBA; 10, de 1981, y el art&#xED;culo 5&#xBA; del decreto N&#xBA; 615, de 2001, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; la necesidad de crear nuevos servicios postales para satisfacer las necesidades del mercado y mejorar la calidad del servicio postal; el acuerdo N&#xBA; 074/2004 del directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n Octava Ordinaria de 27 de mayo de 2004, que aprob&#xF3; la creaci&#xF3;n del nuevo servicio, la resoluci&#xF3;n N&#xBA; 520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las atribuciones que me confieren la resoluci&#xF3;n N&#xBA; 1, de 2002, y resoluci&#xF3;n exenta N&#xBA; 20, de 2001, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

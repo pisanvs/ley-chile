@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2006-06-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-04-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8431206,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1. Prom&#xFA;lguese oficialmente el nuevo Plan Regulador Comunal de San Antonio 2006.</div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese &#xED;ntegra la ordenanza local del nuevo Plan Regulador Comunal de San Antonio en el Diario Oficial; fecha a partir de la cual, se iniciar&#xE1; legalmente la entrada en vigencia del instrumento de planificaci&#xF3;n territorial comunal.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1. Prom&#xFA;lguese oficialmente el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> nuevo Plan Regulador Comunal de San Antonio 2006.</div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese &#xED;ntegra la ordenanza local del nuevo Plan Regulador Comunal de San Antonio en el Diario Oficial; fecha a partir de la cual, se iniciar&#xE1; legalmente la entrada en vigencia del instrumento de planificaci&#xF3;n territorial comunal.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; del anexo del Decreto 2906, Municipalidad de San Antonio, publicado 13.04.2015, modifica el Plan Regulador Comunal de San Antonio, estableciendo nuevas disposiciones sobre zonificaci&#xF3;n; usos de suelo; normas espec&#xED;ficas; normas especiales; y trazados viales en el sector de la ribera sur del Estero El Sauce o Llolleo, de acuerdo al plano &quot;Modificaci&#xF3;n al Plan Regulador Comunal de San Antonio en el sector de la Ribera Sur del Estero El Sauce o Llolleo&quot;</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-02-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8431206,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1. Prom&#xFA;lguese oficialmente el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> nuevo Plan Regulador Comunal de San Antonio 2006.</div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese &#xED;ntegra la ordenanza local del nuevo Plan Regulador Comunal de San Antonio en el Diario Oficial; fecha a partir de la cual, se iniciar&#xE1; legalmente la entrada en vigencia del instrumento de planificaci&#xF3;n territorial comunal.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; del anexo del Decreto 2906, Municipalidad de San Antonio, publicado 13.04.2015, modifica el Plan Regulador Comunal de San Antonio, estableciendo nuevas disposiciones sobre zonificaci&#xF3;n; usos de suelo; normas espec&#xED;ficas; normas especiales; y trazados viales en el sector de la ribera sur del Estero El Sauce o Llolleo, de acuerdo al plano &quot;Modificaci&#xF3;n al Plan Regulador Comunal de San Antonio en el sector de la Ribera Sur del Estero El Sauce o Llolleo&quot;</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1. Prom&#xFA;lguese oficialmente el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> nuevo Plan Regulador Comunal de San Antonio 2006.</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>&nbsp; &nbsp;  2. Publ&#xED;quese &#xED;ntegra la ordenanza local del nuevo Plan Regulador Comunal de San Antonio en el Diario Oficial; fecha a partir de la cual, se iniciar&#xE1; legalmente la entrada en vigencia del instrumento de planificaci&#xF3;n territorial comunal.</div><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; del anexo del Decreto 2906, Municipalidad de San Antonio, publicado 13.04.2015, modifica el Plan Regulador Comunal de San Antonio, estableciendo nuevas disposiciones sobre zonificaci&#xF3;n; usos de suelo; normas espec&#xED;ficas; normas especiales; y trazados viales en el sector de la ribera sur del Estero El Sauce o Llolleo, de acuerdo al plano &quot;Modificaci&#xF3;n al Plan Regulador Comunal de San Antonio en el sector de la Ribera Sur del Estero El Sauce o Llolleo&quot;</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; del anexo del Decreto 7379, Municipalidad de San Antonio, publicado 07.02.2019, modifica el Plan Regulador Comunal de San Antonio, estableciendo nuevas disposiciones sobre zonificaci&#xF3;n; usos de suelo; normas espec&#xED;ficas; normas especiales; y trazados viales en el sector Cerro Alegre&nbsp; de acuerdo al plano &quot;Modificaci&#xF3;n del Plan Regulador Comunal de San Antonio en el sector Cerro Alegre&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-12-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-11-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6843469,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Primero. Autor&#xED;zase a la Ilustre Municipalidad de Llay-Llay para instalar Plazas de Pesaje, en caminos p&#xFA;blicos ubicados en el territorio de su jurisdicci&#xF3;n, a que se refiere el art&#xED;culo 53, del DFL N&#xBA; 850, de 1997, en los puntos de control que se determinen mediante resoluci&#xF3;n de la Direcci&#xF3;n de Vialidad.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Primero. Autor&#xED;zase <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> a la Ilustre Municipalidad de Llay-Llay para instalar Plazas de Pesaje, en caminos p&#xFA;blicos ubicados en el territorio de su jurisdicci&#xF3;n, a que se refiere el art&#xED;culo 53, del DFL N&#xBA; 850, de 1997, en los puntos de control que se determinen mediante resoluci&#xF3;n de la Direcci&#xF3;n de Vialidad.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo Primero del Decreto 228, Obras P&#xFA;blicas, publicado el 02.11.2013, modifica la presente norma en el sentido de renovar la autorizaci&#xF3;n a la Ilustre Municipalidad de Llay Llay, para instalar Plazas de Pesaje Fijas y/o M&#xF3;viles, en caminos p&#xFA;blicos ubicados en el territorio de su jurisdicci&#xF3;n, a que se refiere el art&#xED;culo 53 del decreto con fuerza de ley N&#xBA; 850, de 1997, del Ministerio de Obras P&#xFA;blicas, en los puntos de control que se determinen mediante resoluci&#xF3;n de la Direcci&#xF3;n de Vialidad.</div></div>"
+        }
+      ]
+    }
+  }
+]

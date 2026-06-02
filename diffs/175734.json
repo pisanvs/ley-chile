@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-09-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-08-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7276673,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Sin perjuicio de lo establecido en el art&#xED;culo anterior se proh&#xED;be el funcionamiento de los locales se&#xF1;alados en el art&#xED;culo precedente a menos de cien metros de Ferias Libres o Persas, mientras &#xE9;stas se encuentren en funcionamiento, esto es, entre las 8:00 horas y las 16:00 horas del d&#xED;a de funcionamiento de la Feria Libre o Persa respectiva.</div><div class=\"p\">&nbsp; &nbsp;  La distancia referida precedentemente se tomar&#xE1; considerando la l&#xED;nea m&#xE1;s corta, por aceras, calles y espacios de uso p&#xFA;blico, entre el eje de acceso principal del establecimiento y el punto m&#xE1;s cercano de la Feria Libre o Persa.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- DEROGADO<span class=\"n\" id=\"n_0\">DTO 879 EXENTO,<br>M. DE CERRILLOS<br>N&#xBA; 1<br>D.O. 11.08.2001</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

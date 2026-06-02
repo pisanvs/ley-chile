@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-07-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-05-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6237187,
+          "old": "<div><div class=\"p\">AUTORIZA A DON JORGE ARMANDO GERMAIN MORCHIO PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON JORGE ARMANDO GERMAIN MORCHIO PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

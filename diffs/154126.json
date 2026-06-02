@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-02-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-03-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8455902,
+          "old": "<div><div class=\"p\">MODIFICA DECRETO N&#xBA;1.316, DE 1996 MODIFICADO POR DECRETOS N&#xBA;s. 759, DE 1997 Y 715, DE 1998</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 550.- Santiago, 15 de diciembre de 1999.- Visto: Lo dispuesto en la ley N&#xBA;18.956; el DFL N&#xBA;2 de Educaci&#xF3;n de 1998; la ley N&#xBA;19.651, &#xED;tem</div><div class=\"p\">09-20-01-25-31-256, Glosa 02; y en los art&#xED;culos 32 N&#xBA;8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA DECRETO N&#xBA;1.316, DE 1996 MODIFICADO POR DECRETOS N&#xBA;s. 759, DE 1997 Y 715, DE 1998</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 550.- Santiago, 15 de diciembre de 1999.- Visto: Lo dispuesto en la ley N&#xBA;18.956; el DFL N&#xBA;2 de Educaci&#xF3;n de 1998; la ley N&#xBA;19.651, &#xED;tem 09-20-01-25-31-256, Glosa 02; y en los art&#xED;culos 32 N&#xBA;8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-03-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-01-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7344694,
+          "old": "<div><div class=\"p\">APRUEBA VOLUMEN 3 DENOMINADO .RECOMENDACIONES PARA EL DISE&#xD1;O DE ELEMENTOS DE INFRAESTRUCTURA VIAL URBANA. DEL MANUAL DE VIALIDAD URBANA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 24 de Enero de 1984.- Hoy se decret&#xF3; lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 12.- Visto: Lo dispuesto en el D.L. N&#xBA; 1.305, de 1976; el D.F.L. N&#xBA; 458, V. y U., de 1976; el oficio N&#xBA; 14.135/2, de 25 de Marzo de 1982, de la Presidencia de la Rep&#xFA;blica y las facultades que me otorga el N&#xBA; 8 del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA VOLUMEN 3 DENOMINADO .RECOMENDACIONES PARA EL DISE&#xD1;O DE ELEMENTOS DE INFRAESTRUCTURA VIAL URBANA. DEL MANUAL DE VIALIDAD URBANA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 24 de Enero de 1984.- Hoy se decret&#xF3; lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 12.- Visto: Lo dispuesto en el D.L. N&#xBA; 1.305, de 1976; el D.F.L. N&#xBA; 458, V. y U., de 1976; el oficio N&#xBA; 14.135/2, de 25 de Marzo de 1982, de la Presidencia de la Rep&#xFA;blica y las facultades que me otorga el N&#xBA; 8 del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

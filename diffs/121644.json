@@ -1,0 +1,217 @@
+[
+  {
+    "fecha": "1998-07-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-09-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8181967,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp;  4.286 Becas de Educaci&#xF3;n B&#xE1;sica.</div><div class=\"p\">&nbsp; &nbsp;  2.142 Becas de Educaci&#xF3;n Media.</div><div class=\"p\">&nbsp; &nbsp;  1.572 Becas de Educaci&#xF3;n Superior.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp;  5.841 Becas de Educaci&#xF3;n B&#xE1;sica.<span class=\"n\" id=\"n_0\">DTO 366, EDUCACION<br>Art. primero N&#xBA; 1<br>D.O. 03.09.1998</span></div><div class=\"p\">&nbsp; &nbsp;  3.463 Becas de Educaci&#xF3;n Media.</div><div class=\"p\">&nbsp; &nbsp;  2.111 Becas de Educaci&#xF3;n Superior.</div><br></div>"
+        },
+        {
+          "part_id": 8181969,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n 8.000 becas y el gasto que demande el Programa de Becas Ind&#xED;genas se imputar&#xE1; al &#xED;tem 09.01.01.25.31.189, Subsecretar&#xED;a de Educaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n 11.415 becas y el gasto que demande el Programa de Becas<span class=\"n\" id=\"n_1\">DTO 366, EDUCACION<br>Art. primero N&#xBA; 2<br>D.O. 03.09.1998</span> Ind&#xED;genas se imputar&#xE1; al &#xED;tem 09.01.01.25.31.189, Subsecretar&#xED;a de Educaci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1999-05-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8181958,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para los efectos del presente decreto, se entender&#xE1; por beca el beneficio consistente en el siguiente subsidio &#xFA;nico:</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n B&#xE1;sica, ascendente a $64.276.- al a&#xF1;o por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre.</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n Media, ascendente a $132.557.- al a&#xF1;o por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre.</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n Superior: Universidades, Institutos Profesionales y Centros de Formaci&#xF3;n T&#xE9;cnica, ascendente a $417.341 al a&#xF1;o por beneficiario que se pagar&#xE1; en nueve cuotas iguales de abril a diciembre.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para los efectos del presente decreto, se entender&#xE1; por beca el beneficio consistente en el siguiente subsidio &#xFA;nico:</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n B&#xE1;sica, ascendente a $66.719.- al a&#xF1;o<span class=\"n\" id=\"n_0\">DTO 104, EDUCACION<br>Art. Unico, N&#xB0;1<br>D.O. 28.05.1999</span> por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre. -&nbsp; &nbsp; En Educaci&#xF3;n Media, ascendente a $137.594.- al a&#xF1;o por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre.</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n Superior: Universidades, Institutos Profesionales y Centros de Formaci&#xF3;n T&#xE9;cnica, ascendente a $433.200 al a&#xF1;o por beneficiario que se pagar&#xE1; en nueve cuotas iguales de abril a diciembre.</div><br></div>"
+        },
+        {
+          "part_id": 8181967,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp;  5.841 Becas de Educaci&#xF3;n B&#xE1;sica.<span class=\"n\" id=\"n_0\">DTO 366, EDUCACION<br>Art. primero N&#xBA; 1<br>D.O. 03.09.1998</span></div><div class=\"p\">&nbsp; &nbsp;  3.463 Becas de Educaci&#xF3;n Media.</div><div class=\"p\">&nbsp; &nbsp;  2.111 Becas de Educaci&#xF3;n Superior.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp;  7.082 Becas de Educaci&#xF3;n B&#xE1;sica.<span class=\"n\" id=\"n_1\">DTO 104, EDUCACION<br>Art. Unico, N&#xBA; 2<br>D.O. 28.05.1999</span></div><div class=\"p\">&nbsp; &nbsp;  4.189 Becas de Educaci&#xF3;n Media.</div><div class=\"p\">&nbsp; &nbsp;  2.559 Becas de Educaci&#xF3;n Superior.</div><br></div>"
+        },
+        {
+          "part_id": 8181969,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n 11.415 becas y el gasto que demande el Programa de Becas<span class=\"n\" id=\"n_1\">DTO 366, EDUCACION<br>Art. primero N&#xBA; 2<br>D.O. 03.09.1998</span> Ind&#xED;genas se imputar&#xE1; al &#xED;tem 09.01.01.25.31.189, Subsecretar&#xED;a de Educaci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Durante el a&#xF1;o 1999 se otorgar&#xE1;n 13.830 becas y el gasto que demande el Programa de Becas<span class=\"n\" id=\"n_2\">DTO 104, EDUCACION<br>Art. Unico, N&#xBA; 3<br>D.O. 28.05.1999</span> Ind&#xED;genas se imputar&#xE1; al &#xED;tem 09-01-01-25-31-189, de la Subsecretar&#xED;a de Educaci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2000-03-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8181957,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Ser&#xE1;n requisitos generales para optar a una beca:</div><div class=\"p\">-&nbsp; &nbsp; Ser de origen ind&#xED;gena, la certificaci&#xF3;n de esta calidad ser&#xE1; otorgada por la Corporaci&#xF3;n Nacional de Desarrollo Ind&#xED;gena.</div><div class=\"p\">-&nbsp; &nbsp; Estar inscrito en una de las Instituciones Educacionales correspondiente al programa.</div><div class=\"p\">-&nbsp; &nbsp; Acreditar un buen rendimiento acad&#xE9;mico, se exigir&#xE1; nota promedio 5 en educaci&#xF3;n b&#xE1;sica y media y nota promedio 4,5 en educaci&#xF3;n superior.</div><div class=\"p\">-&nbsp; &nbsp; Acreditar documentadamente insuficiencia econ&#xF3;mica.</div><div class=\"p\">-&nbsp; &nbsp; Presentar un informe social.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Ser&#xE1;n requisitos generales para optar a una beca:</div><div class=\"p\">-&nbsp; &nbsp; Ser de origen ind&#xED;gena. En caso de que exista duda,<span class=\"n\" id=\"n_0\">DTO 54, EDUCACION<br>Art. 1&#xB0;, N&#xB0; 1<br>D.O. 28.03.2000</span> la certificaci&#xF3;n de esta calidad ser&#xE1; otorgada por la Corporaci&#xF3;n Nacional de Desarrollo Ind&#xED;gena. -&nbsp; &nbsp; Estar inscrito en una de las Instituciones Educacionales correspondiente al programa.</div><div class=\"p\">-&nbsp; &nbsp; Acreditar un buen rendimiento acad&#xE9;mico, se exigir&#xE1; nota promedio 5 en educaci&#xF3;n b&#xE1;sica y media y nota promedio 4,5 en educaci&#xF3;n superior.</div><div class=\"p\">-&nbsp; &nbsp; Acreditar documentadamente insuficiencia econ&#xF3;mica.</div><div class=\"p\">-&nbsp; &nbsp; Presentar un informe social.</div><br></div>"
+        },
+        {
+          "part_id": 8181958,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para los efectos del presente decreto, se entender&#xE1; por beca el beneficio consistente en el siguiente subsidio &#xFA;nico:</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n B&#xE1;sica, ascendente a $66.719.- al a&#xF1;o<span class=\"n\" id=\"n_0\">DTO 104, EDUCACION<br>Art. Unico, N&#xB0;1<br>D.O. 28.05.1999</span> por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre. -&nbsp; &nbsp; En Educaci&#xF3;n Media, ascendente a $137.594.- al a&#xF1;o por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre.</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n Superior: Universidades, Institutos Profesionales y Centros de Formaci&#xF3;n T&#xE9;cnica, ascendente a $433.200 al a&#xF1;o por beneficiario que se pagar&#xE1; en nueve cuotas iguales de abril a diciembre.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para los efectos del presente decreto, se entender&#xE1; por beca el beneficio consistente en el siguiente subsidio &#xFA;nico:</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n B&#xE1;sica, ascendente a $68.855.- al a&#xF1;o<span class=\"n\" id=\"n_1\">DTO 54, EDUCACION<br>Art. 1&#xB0;, N&#xB0; 2<br>D.O. 28.03.2000</span> por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre. -&nbsp; &nbsp; En Educaci&#xF3;n Media, ascendente a $141.997.- al a&#xF1;o por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre.</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n Superior: Universidades, Institutos Profesionales y Centros de Formaci&#xF3;n T&#xE9;cnica, ascendente a $447.062 al a&#xF1;o por beneficiario que se pagar&#xE1; en nueve cuotas iguales de abril a diciembre.</div><br></div>"
+        },
+        {
+          "part_id": 8181967,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp;  7.082 Becas de Educaci&#xF3;n B&#xE1;sica.<span class=\"n\" id=\"n_1\">DTO 104, EDUCACION<br>Art. Unico, N&#xBA; 2<br>D.O. 28.05.1999</span></div><div class=\"p\">&nbsp; &nbsp;  4.189 Becas de Educaci&#xF3;n Media.</div><div class=\"p\">&nbsp; &nbsp;  2.559 Becas de Educaci&#xF3;n Superior.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp;  9.103 Becas de Educaci&#xF3;n B&#xE1;sica.<span class=\"n\" id=\"n_2\">DTO 54, EDUCACION<br>Art. 1&#xB0;, N&#xBA; 3<br>D.O. 28.03.2000</span></div><div class=\"p\">&nbsp; &nbsp;  6.103 Becas de Educaci&#xF3;n Media.</div><div class=\"p\">&nbsp; &nbsp;  2.794 Becas de Educaci&#xF3;n Superior.</div><br></div>"
+        },
+        {
+          "part_id": 8181969,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Durante el a&#xF1;o 1999 se otorgar&#xE1;n 13.830 becas y el gasto que demande el Programa de Becas<span class=\"n\" id=\"n_2\">DTO 104, EDUCACION<br>Art. Unico, N&#xBA; 3<br>D.O. 28.05.1999</span> Ind&#xED;genas se imputar&#xE1; al &#xED;tem 09-01-01-25-31-189, de la Subsecretar&#xED;a de Educaci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Durante el a&#xF1;o 2000 se otorgar&#xE1;n 18.000 becas y el gasto que demande el Programa de Becas<span class=\"n\" id=\"n_3\">DTO 54, EDUCACION<br>Art. 1&#xB0;, N&#xBA; 4<br>D.O. 28.03.2000</span> Ind&#xED;genas se imputar&#xE1; al &#xED;tem 09-01-01-25-31-189, de la Subsecretar&#xED;a de Educaci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2001-03-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8181958,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para los efectos del presente decreto, se entender&#xE1; por beca el beneficio consistente en el siguiente subsidio &#xFA;nico:</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n B&#xE1;sica, ascendente a $68.855.- al a&#xF1;o<span class=\"n\" id=\"n_1\">DTO 54, EDUCACION<br>Art. 1&#xB0;, N&#xB0; 2<br>D.O. 28.03.2000</span> por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre. -&nbsp; &nbsp; En Educaci&#xF3;n Media, ascendente a $141.997.- al a&#xF1;o por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre.</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n Superior: Universidades, Institutos Profesionales y Centros de Formaci&#xF3;n T&#xE9;cnica, ascendente a $447.062 al a&#xF1;o por beneficiario que se pagar&#xE1; en nueve cuotas iguales de abril a diciembre.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para los efectos del presente decreto, se entender&#xE1; por beca el beneficio consistente en el siguiente subsidio &#xFA;nico:</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n B&#xE1;sica, ascendente a $70.576.- al a&#xF1;o<span class=\"n\" id=\"n_1\">DTO 57, EDUCACION<br>Art. &#xFA;nico N&#xB0; 1<br>D.O. 29.03.2001</span> por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre. -&nbsp; &nbsp; En Educaci&#xF3;n Media, ascendente a $145.547.- al a&#xF1;o por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre.</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n Superior: Universidades, Institutos Profesionales y Centros de Formaci&#xF3;n T&#xE9;cnica, ascendente a $458.239 al a&#xF1;o por beneficiario que se pagar&#xE1; en nueve cuotas iguales de abril a diciembre.</div><br></div>"
+        },
+        {
+          "part_id": 8181967,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp;  9.103 Becas de Educaci&#xF3;n B&#xE1;sica.<span class=\"n\" id=\"n_2\">DTO 54, EDUCACION<br>Art. 1&#xB0;, N&#xBA; 3<br>D.O. 28.03.2000</span></div><div class=\"p\">&nbsp; &nbsp;  6.103 Becas de Educaci&#xF3;n Media.</div><div class=\"p\">&nbsp; &nbsp;  2.794 Becas de Educaci&#xF3;n Superior.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp;  12.984 Becas de Educaci&#xF3;n B&#xE1;sica.<span class=\"n\" id=\"n_2\">DTO 57, EDUCACION<br>Art. &#xFA;nico N&#xBA; 2<br>D.O. 29.03.2001</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; 7.868 Becas de Educaci&#xF3;n Media.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 3.148 Becas de Educaci&#xF3;n Superior.</div><br></div>"
+        },
+        {
+          "part_id": 8181969,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Durante el a&#xF1;o 2000 se otorgar&#xE1;n 18.000 becas y el gasto que demande el Programa de Becas<span class=\"n\" id=\"n_3\">DTO 54, EDUCACION<br>Art. 1&#xB0;, N&#xBA; 4<br>D.O. 28.03.2000</span> Ind&#xED;genas se imputar&#xE1; al &#xED;tem 09-01-01-25-31-189, de la Subsecretar&#xED;a de Educaci&#xF3;n. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Durante el a&#xF1;o 2001 se otorgar&#xE1;n<span class=\"n\" id=\"n_3\">DTO 57, EDUCACION<br>Art. &#xFA;nico N&#xBA; 3<br>D.O. 29.03.2001</span> 24.000 becas y el gasto que demande el Programa de Becas Ind&#xED;genas se imputar&#xE1; al &#xED;tem 09-01-01-25-31-189, de la Subsecretar&#xED;a de Educaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2002-06-12",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8181958,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para los efectos del presente decreto, se entender&#xE1; por beca el beneficio consistente en el siguiente subsidio &#xFA;nico:</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n B&#xE1;sica, ascendente a $70.576.- al a&#xF1;o<span class=\"n\" id=\"n_1\">DTO 57, EDUCACION<br>Art. &#xFA;nico N&#xB0; 1<br>D.O. 29.03.2001</span> por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre. -&nbsp; &nbsp; En Educaci&#xF3;n Media, ascendente a $145.547.- al a&#xF1;o por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre.</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n Superior: Universidades, Institutos Profesionales y Centros de Formaci&#xF3;n T&#xE9;cnica, ascendente a $458.239 al a&#xF1;o por beneficiario que se pagar&#xE1; en nueve cuotas iguales de abril a diciembre.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para los efectos del presente decreto, se entender&#xE1; por beca el beneficio consistente en el siguiente subsidio &#xFA;nico:</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n B&#xE1;sica, ascendente a $72.104.- al a&#xF1;o<span class=\"n\" id=\"n_1\">DTO 96, EDUCACION<br>Art. &#xFA;nico N&#xB0; 1<br>D.O. 12.06.2002</span> por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre. -&nbsp; &nbsp; En Educaci&#xF3;n Media, ascendente a $148.698.- al a&#xF1;o por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre.</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n Superior: Universidades, Institutos Profesionales y Centros de Formaci&#xF3;n T&#xE9;cnica, ascendente a $468.159 al a&#xF1;o por beneficiario que se pagar&#xE1; en nueve cuotas iguales de abril a diciembre.</div><br></div>"
+        },
+        {
+          "part_id": 8181967,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp;  12.984 Becas de Educaci&#xF3;n B&#xE1;sica.<span class=\"n\" id=\"n_2\">DTO 57, EDUCACION<br>Art. &#xFA;nico N&#xBA; 2<br>D.O. 29.03.2001</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; 7.868 Becas de Educaci&#xF3;n Media.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 3.148 Becas de Educaci&#xF3;n Superior.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp;  12.984 Becas de Educaci&#xF3;n B&#xE1;sica.<span class=\"n\" id=\"n_2\">DTO 96, EDUCACION<br>Art. &#xFA;nico N&#xBA; 2<br>D.O. 12.06.2002</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; 7.868 Becas de Educaci&#xF3;n Media.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 3.218 Becas de Educaci&#xF3;n Superior.</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA:</a></div></div><br><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA:</a> <br>&nbsp; &nbsp;  El N&#xBA; 2 del DTO 96, Educaci&#xF3;n, dispone que los guarismos &quot;12.984&quot; y 7.868&quot;, se mantendr&#xE1;n para el para el a&#xF1;o 2002.<br></div></div>"
+        },
+        {
+          "part_id": 8181969,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Durante el a&#xF1;o 2001 se otorgar&#xE1;n<span class=\"n\" id=\"n_3\">DTO 57, EDUCACION<br>Art. &#xFA;nico N&#xBA; 3<br>D.O. 29.03.2001</span> 24.000 becas y el gasto que demande el Programa de Becas Ind&#xED;genas se imputar&#xE1; al &#xED;tem 09-01-01-25-31-189, de la Subsecretar&#xED;a de Educaci&#xF3;n.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Durante el a&#xF1;o 2002 se otorgar&#xE1;n<span class=\"n\" id=\"n_4\">DTO 96, EDUCACION<br>Art. &#xFA;nico N&#xBA; 3<br>D.O. 12.06.2002</span> 24.070 becas y el gasto que demande el Programa de Becas Ind&#xED;genas se imputar&#xE1; al &#xED;tem 09-01-01-25-31-189 Glosa 06 de la Subsecretar&#xED;a de Educaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-03-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8181958,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para los efectos del presente decreto, se entender&#xE1; por beca el beneficio consistente en el siguiente subsidio &#xFA;nico:</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n B&#xE1;sica, ascendente a $72.104.- al a&#xF1;o<span class=\"n\" id=\"n_1\">DTO 96, EDUCACION<br>Art. &#xFA;nico N&#xB0; 1<br>D.O. 12.06.2002</span> por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre. -&nbsp; &nbsp; En Educaci&#xF3;n Media, ascendente a $148.698.- al a&#xF1;o por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre.</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n Superior: Universidades, Institutos Profesionales y Centros de Formaci&#xF3;n T&#xE9;cnica, ascendente a $468.159 al a&#xF1;o por beneficiario que se pagar&#xE1; en nueve cuotas iguales de abril a diciembre.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para los efectos del presente decreto, se entender&#xE1; por beca el beneficio consistente en el siguiente subsidio &#xFA;nico:</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n B&#xE1;sica, ascendente a $72.861.- al a&#xF1;o<span class=\"n\" id=\"n_1\">DTO 309, EDUCACION<br>Art. 1&#xBA; N&#xB0; 1<br>D.O. 25.03.2003</span> por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre. -&nbsp; &nbsp; En Educaci&#xF3;n Media, ascendente a $150.185.- al a&#xF1;o por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre.</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n Superior: Universidades, Institutos Profesionales y Centros de Formaci&#xF3;n T&#xE9;cnica, ascendente a $472.690 al a&#xF1;o por beneficiario que se pagar&#xE1; en nueve cuotas iguales de abril a diciembre.</div><br></div>"
+        },
+        {
+          "part_id": 8181967,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp;  12.984 Becas de Educaci&#xF3;n B&#xE1;sica.<span class=\"n\" id=\"n_2\">DTO 96, EDUCACION<br>Art. &#xFA;nico N&#xBA; 2<br>D.O. 12.06.2002</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; 7.868 Becas de Educaci&#xF3;n Media.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 3.218 Becas de Educaci&#xF3;n Superior.</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA:</a></div></div><br><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA:</a> <br>&nbsp; &nbsp;  El N&#xBA; 2 del DTO 96, Educaci&#xF3;n, dispone que los guarismos &quot;12.984&quot; y 7.868&quot;, se mantendr&#xE1;n para el para el a&#xF1;o 2002.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp;  15.853 Becas de Educaci&#xF3;n B&#xE1;sica.<span class=\"n\" id=\"n_2\">DTO 309, EDUCACION<br>Art. 1&#xBA; N&#xBA; 2<br>D.O. 25.03.2003</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; 8.942 Becas de Educaci&#xF3;n Media.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 3.506 Becas de Educaci&#xF3;n Superior.</div><br></div>"
+        },
+        {
+          "part_id": 8181969,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Durante el a&#xF1;o 2002 se otorgar&#xE1;n<span class=\"n\" id=\"n_4\">DTO 96, EDUCACION<br>Art. &#xFA;nico N&#xBA; 3<br>D.O. 12.06.2002</span> 24.070 becas y el gasto que demande el Programa de Becas Ind&#xED;genas se imputar&#xE1; al &#xED;tem 09-01-01-25-31-189 Glosa 06 de la Subsecretar&#xED;a de Educaci&#xF3;n.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Durante el a&#xF1;o 2003 se otorgar&#xE1;n<span class=\"n\" id=\"n_3\">DTO 309, EDUCACION<br>Art. 1&#xBA; N&#xBA; 3<br>D.O. 25.03.2003</span> 28.301 becas y el gasto que demande el Programa de Becas Ind&#xED;genas, se imputar&#xE1; a la asignaci&#xF3;n 09-01.01-25-31- 189 Glosa 04.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2004-06-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8181958,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para los efectos del presente decreto, se entender&#xE1; por beca el beneficio consistente en el siguiente subsidio &#xFA;nico:</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n B&#xE1;sica, ascendente a $72.861.- al a&#xF1;o<span class=\"n\" id=\"n_1\">DTO 309, EDUCACION<br>Art. 1&#xBA; N&#xB0; 1<br>D.O. 25.03.2003</span> por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre. -&nbsp; &nbsp; En Educaci&#xF3;n Media, ascendente a $150.185.- al a&#xF1;o por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre.</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n Superior: Universidades, Institutos Profesionales y Centros de Formaci&#xF3;n T&#xE9;cnica, ascendente a $472.690 al a&#xF1;o por beneficiario que se pagar&#xE1; en nueve cuotas iguales de abril a diciembre.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para los efectos del presente decreto, se entender&#xE1; por beca el beneficio consistente en el siguiente subsidio &#xFA;nico:</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n B&#xE1;sica, ascendente a $74.260.- al a&#xF1;o<span class=\"n\" id=\"n_1\">DTO 61, EDUCACION<br>Art. &#xFA;nico N&#xB0; 1<br>D.O. 14.06.2004</span> por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre. -&nbsp; &nbsp; En Educaci&#xF3;n Media, ascendente a $153.068.- al a&#xF1;o por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre.</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n Superior: Universidades, Institutos Profesionales y Centros de Formaci&#xF3;n T&#xE9;cnica, ascendente a $481.765 al a&#xF1;o por beneficiario que se pagar&#xE1; en nueve cuotas iguales de abril a diciembre.</div><br></div>"
+        },
+        {
+          "part_id": 8181967,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;.- Durante el a&#xF1;o 1998 se otorgar&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp;  15.853 Becas de Educaci&#xF3;n B&#xE1;sica.<span class=\"n\" id=\"n_2\">DTO 309, EDUCACION<br>Art. 1&#xBA; N&#xBA; 2<br>D.O. 25.03.2003</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; 8.942 Becas de Educaci&#xF3;n Media.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 3.506 Becas de Educaci&#xF3;n Superior.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;: Durante el a&#xF1;o 2004 se otorgar&#xE1;n:<span class=\"n\" id=\"n_2\">DTO 61, EDUCACION<br>Art. &#xFA;nico N&#xB0; 2<br>D.O. 14.06.2004</span></div><br><div class=\"p\">&nbsp; &nbsp;  15.853 Becas de Educaci&#xF3;n B&#xE1;sica</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 8.942 Becas de Educaci&#xF3;n Media</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 3.506 Becas de Educaci&#xF3;n Superior.</div><br></div>"
+        },
+        {
+          "part_id": 8181969,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Durante el a&#xF1;o 2003 se otorgar&#xE1;n<span class=\"n\" id=\"n_3\">DTO 309, EDUCACION<br>Art. 1&#xBA; N&#xBA; 3<br>D.O. 25.03.2003</span> 28.301 becas y el gasto que demande el Programa de Becas Ind&#xED;genas, se imputar&#xE1; a la asignaci&#xF3;n 09-01.01-25-31- 189 Glosa 04.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Art&#xED;culo 14&#xBA;: Durante el a&#xF1;o 2004<span class=\"n\" id=\"n_3\">DTO 61, EDUCACION<br>Art. &#xFA;nico N&#xB0; 3<br>D.O. 14.06.2004</span> se otorgar&#xE1;n 28.301 becas y el gasto que demande el Programa de Becas Ind&#xED;genas se imputar&#xE1; al &#xED;tem 09.01.01.25.31.189 - Glosa 07.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2006-02-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8181951,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  INTRODUCE MODIFICACIONES AL DECRETO N&#xBA; 52, DE 1995, QUE REGLAMENTA BECAS INDIGENAS Y FIJA SU TEXTO REFUNDIDO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 139.- Santiago, 31 de marzo de 1998.- Que la ley N&#xBA;19.540 de Presupuestos del Sector P&#xFA;blico para el a&#xF1;o 1998, establece un fondo para becas ind&#xED;genas, el que se regir&#xE1; en cuanto a los criterios de selecci&#xF3;n y al procedimiento en el presente a&#xF1;o de conformidad con el decreto supremo N&#xBA;52, de 1995 y sus modificaciones.</div><br><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en la ley N&#xBA;19.540, decretos supremos de Educaci&#xF3;n N&#xBA;s. 52, de 1995 y 168 de 1996; en los art&#xED;culos 32 N&#xBA;8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile y la resoluci&#xF3;n N&#xBA;520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><br><div class=\"p\"> INTRODUCE MODIFICACIONES AL DECRETO N&#xBA; 52, DE 1995,<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\"> QUE REGLAMENTA BECAS INDIGENAS Y FIJA SU TEXTO REFUNDIDO</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 139.- Santiago, 31 de marzo de 1998.- Que la ley N&#xBA;19.540 de Presupuestos del Sector P&#xFA;blico para el a&#xF1;o 1998, establece un fondo para becas ind&#xED;genas, el que se regir&#xE1; en cuanto a los criterios de selecci&#xF3;n y al procedimiento en el presente a&#xF1;o de conformidad con el decreto supremo N&#xBA;52, de 1995 y sus modificaciones.</div><div class=\"p\">&nbsp; &nbsp;  Visto: Lo dispuesto en la ley N&#xBA;19.540, decretos supremos de Educaci&#xF3;n N&#xBA;s. 52, de 1995 y 168 de 1996; en los art&#xED;culos 32 N&#xBA;8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile y la resoluci&#xF3;n N&#xBA;520, de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 126, Educaci&#xF3;n, publicado el 21.02.2006, sustituye y fija el texto refundido del presente decreto.<br></div></div>"
+        },
+        {
+          "part_id": 8181957,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Ser&#xE1;n requisitos generales para optar a una beca:</div><div class=\"p\">-&nbsp; &nbsp; Ser de origen ind&#xED;gena. En caso de que exista duda,<span class=\"n\" id=\"n_0\">DTO 54, EDUCACION<br>Art. 1&#xB0;, N&#xB0; 1<br>D.O. 28.03.2000</span> la certificaci&#xF3;n de esta calidad ser&#xE1; otorgada por la Corporaci&#xF3;n Nacional de Desarrollo Ind&#xED;gena. -&nbsp; &nbsp; Estar inscrito en una de las Instituciones Educacionales correspondiente al programa.</div><div class=\"p\">-&nbsp; &nbsp; Acreditar un buen rendimiento acad&#xE9;mico, se exigir&#xE1; nota promedio 5 en educaci&#xF3;n b&#xE1;sica y media y nota promedio 4,5 en educaci&#xF3;n superior.</div><div class=\"p\">-&nbsp; &nbsp; Acreditar documentadamente insuficiencia econ&#xF3;mica.</div><div class=\"p\">-&nbsp; &nbsp; Presentar un informe social.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Ser&#xE1;n requisitos generales para optar a una beca:</div><div class=\"p\">-&nbsp; &nbsp; Ser de origen ind&#xED;gena. En caso de que exista duda,<span class=\"n\" id=\"n_1\">DTO 54, EDUCACION<br>Art. 1&#xB0;, N&#xB0; 1<br>D.O. 28.03.2000</span> la certificaci&#xF3;n de esta calidad ser&#xE1; otorgada por la Corporaci&#xF3;n Nacional de Desarrollo Ind&#xED;gena. -&nbsp; &nbsp; Estar inscrito en una de las Instituciones Educacionales correspondiente al programa.</div><div class=\"p\">-&nbsp; &nbsp; Acreditar un buen rendimiento acad&#xE9;mico, se exigir&#xE1; nota promedio 5 en educaci&#xF3;n b&#xE1;sica y media y nota promedio 4,5 en educaci&#xF3;n superior.</div><div class=\"p\">-&nbsp; &nbsp; Acreditar documentadamente insuficiencia econ&#xF3;mica.</div><div class=\"p\">-&nbsp; &nbsp; Presentar un informe social.</div><br></div>"
+        },
+        {
+          "part_id": 8181958,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para los efectos del presente decreto, se entender&#xE1; por beca el beneficio consistente en el siguiente subsidio &#xFA;nico:</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n B&#xE1;sica, ascendente a $74.260.- al a&#xF1;o<span class=\"n\" id=\"n_1\">DTO 61, EDUCACION<br>Art. &#xFA;nico N&#xB0; 1<br>D.O. 14.06.2004</span> por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre. -&nbsp; &nbsp; En Educaci&#xF3;n Media, ascendente a $153.068.- al a&#xF1;o por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre.</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n Superior: Universidades, Institutos Profesionales y Centros de Formaci&#xF3;n T&#xE9;cnica, ascendente a $481.765 al a&#xF1;o por beneficiario que se pagar&#xE1; en nueve cuotas iguales de abril a diciembre.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para los efectos del presente decreto, se entender&#xE1; por beca el beneficio consistente en el siguiente subsidio &#xFA;nico:</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n B&#xE1;sica, ascendente a $74.260.- al a&#xF1;o<span class=\"n\" id=\"n_2\">DTO 61, EDUCACION<br>Art. &#xFA;nico N&#xB0; 1<br>D.O. 14.06.2004</span> por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre. -&nbsp; &nbsp; En Educaci&#xF3;n Media, ascendente a $153.068.- al a&#xF1;o por beneficiario, que se pagar&#xE1; en cuatro cuotas iguales en los meses de abril, junio, agosto y octubre.</div><div class=\"p\">-&nbsp; &nbsp; En Educaci&#xF3;n Superior: Universidades, Institutos Profesionales y Centros de Formaci&#xF3;n T&#xE9;cnica, ascendente a $481.765 al a&#xF1;o por beneficiario que se pagar&#xE1; en nueve cuotas iguales de abril a diciembre.</div><br></div>"
+        },
+        {
+          "part_id": 8181967,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;: Durante el a&#xF1;o 2004 se otorgar&#xE1;n:<span class=\"n\" id=\"n_2\">DTO 61, EDUCACION<br>Art. &#xFA;nico N&#xB0; 2<br>D.O. 14.06.2004</span></div><br><div class=\"p\">&nbsp; &nbsp;  15.853 Becas de Educaci&#xF3;n B&#xE1;sica</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 8.942 Becas de Educaci&#xF3;n Media</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 3.506 Becas de Educaci&#xF3;n Superior.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;: Durante el a&#xF1;o 2004 se otorgar&#xE1;n:<span class=\"n\" id=\"n_3\">DTO 61, EDUCACION<br>Art. &#xFA;nico N&#xB0; 2<br>D.O. 14.06.2004</span></div><br><div class=\"p\">&nbsp; &nbsp;  15.853 Becas de Educaci&#xF3;n B&#xE1;sica</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 8.942 Becas de Educaci&#xF3;n Media</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 3.506 Becas de Educaci&#xF3;n Superior.</div><br></div>"
+        },
+        {
+          "part_id": 8181969,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Art&#xED;culo 14&#xBA;: Durante el a&#xF1;o 2004<span class=\"n\" id=\"n_3\">DTO 61, EDUCACION<br>Art. &#xFA;nico N&#xB0; 3<br>D.O. 14.06.2004</span> se otorgar&#xE1;n 28.301 becas y el gasto que demande el Programa de Becas Ind&#xED;genas se imputar&#xE1; al &#xED;tem 09.01.01.25.31.189 - Glosa 07.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA;.- Art&#xED;culo 14&#xBA;: Durante el a&#xF1;o 2004<span class=\"n\" id=\"n_4\">DTO 61, EDUCACION<br>Art. &#xFA;nico N&#xB0; 3<br>D.O. 14.06.2004</span> se otorgar&#xE1;n 28.301 becas y el gasto que demande el Programa de Becas Ind&#xED;genas se imputar&#xE1; al &#xED;tem 09.01.01.25.31.189 - Glosa 07.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

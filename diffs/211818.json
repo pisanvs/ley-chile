@@ -1,0 +1,51 @@
+[
+  {
+    "fecha": "2003-06-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-07-12",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7300900,
+          "old": "<div><div class=\"p\">APRUEBA ORDENANZA SOBRE SUBVENCIONES MUNICIPALES </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.- Providencia, 10 de junio de 2003.- Vistos: Lo dispuesto por los art&#xED;culos 5 letras d) y g), 12, 63 letra i), 65 letra g) y 79 letra b) de la ley N&#xBA; 18.695 de 1988, Org&#xE1;nica Constitucional de Municipalidades, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- La Ordenanza N&#xBA; 3 de 3 de junio de 1985 sobre Subvenciones Municipales, modificada por Ordenanza N&#xBA; 33 de 16 de junio de 1989.</div><div class=\"p\">&nbsp; &nbsp;  2.- La necesidad de actualizar la citada Ordenanza.</div><div class=\"p\">&nbsp; &nbsp;  3.- El Informe N&#xBA; 150 de fecha 10 de marzo de 2003 del Director Jur&#xED;dico.</div><div class=\"p\">&nbsp; &nbsp;  4.- El Acuerdo N&#xBA; 458 adoptado en la Sesi&#xF3;n Ordinaria N&#xBA; 77 de 10 de junio de 2003 del Concejo Municipal, se dicta la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  O r d e n a n z a:</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA ORDENANZA SOBRE SUBVENCIONES MUNICIPALES </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.- Providencia, 10 de junio de 2003.- Vistos: Lo dispuesto por los art&#xED;culos 5 letras d) y g), 12, 63 letra i), 65 letra g) y 79 letra b) de la ley N&#xBA; 18.695 de 1988, Org&#xE1;nica Constitucional de Municipalidades, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- La Ordenanza N&#xBA; 3 de 3 de junio de 1985 sobre Subvenciones Municipales, modificada por Ordenanza N&#xBA; 33 de 16 de junio de 1989.</div><div class=\"p\">&nbsp; &nbsp;  2.- La necesidad de actualizar la citada Ordenanza.</div><div class=\"p\">&nbsp; &nbsp;  3.- El Informe N&#xBA; 150 de fecha 10 de marzo de 2003 del Director Jur&#xED;dico.</div><div class=\"p\">&nbsp; &nbsp;  4.- El Acuerdo N&#xBA; 458 adoptado en la Sesi&#xF3;n Ordinaria N&#xBA; 77 de 10 de junio de 2003 del Concejo Municipal, se dicta la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  O r d e n a n z a:</div><br><br></div>"
+        },
+        {
+          "part_id": 7300929,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22&#xBA;: Las boletas que por falta de espacio no identifiquen el detalle del gasto, deber&#xE1;n complementarse con la indicaci&#xF3;n de los art&#xED;culos adquiridos en la hoja de rendici&#xF3;n correspondiente o en la hoja en la cual se pague la boleta.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22&#xBA;: Las boletas que por falta de espacio no identifiquen el detalle del gasto, deber&#xE1;n complementarse con la indicaci&#xF3;n de los art&#xED;culos adquiridos en la hoja de rendici&#xF3;n correspondiente o en la hoja en la cual se pegue la boleta.<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 12.07.2003</span> </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2013-08-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7300928,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 21&#xBA;: Las facturas deben emitirse a nombre dela instituci&#xF3;n beneficiaria de la subvenci&#xF3;n y en ellas deber&#xE1; especificarse el detalle del gasto, con indicaci&#xF3;n de su valor unitario neto y total. Las facturas deber&#xE1;n presentarse canceladas por el proveedor, es decir, con su firma y fecha de cancelaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053677&amp;idParte=9370520&amp;idVersion=2013-08-20\">Ordenanza 122,<br>M. DE PROVIDENCIA<br>N&#xBA; 1<br>D.O. 20.08.2013</a></span>&nbsp; &nbsp; Art&#xED;culo 21&#xBA;: Las facturas deber&#xE1;n emitirse a nombre de la instituci&#xF3;n beneficiaria de la subvenci&#xF3;n y en ellas deber&#xE1; especificarse el detalle del gasto, con indicaci&#xF3;n de su valor unitario neto y total.</div><br><br></div>"
+        },
+        {
+          "part_id": 7300929,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22&#xBA;: Las boletas que por falta de espacio no identifiquen el detalle del gasto, deber&#xE1;n complementarse con la indicaci&#xF3;n de los art&#xED;culos adquiridos en la hoja de rendici&#xF3;n correspondiente o en la hoja en la cual se pegue la boleta.<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 12.07.2003</span> </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22&#xBA;: Las boletas que por falta de espacio no identifiquen el detalle del gasto, deber&#xE1;n complementarse con la indicaci&#xF3;n de los art&#xED;culos adquiridos en la hoja de rendici&#xF3;n correspondiente o en la hoja en la cual se pegue la boleta.<span class=\"n\" id=\"n_1\">RECTIFICACION<br>D.O. 12.07.2003</span> </div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1053677,
+      "fecha": "2013-08-20"
+    }
+  }
+]

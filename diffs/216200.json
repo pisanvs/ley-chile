@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-10-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-05-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8129795,
+          "old": "<div><div class=\"p\">AUTORIZA CALIDAD DE AGENTE RETENEDOR DEL IVA EN LAS COMPRAS DE TRIGO </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA CALIDAD DE AGENTE RETENEDOR DEL IVA EN LAS COMPRAS DE TRIGO</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

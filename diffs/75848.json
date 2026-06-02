@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-09-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-08-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8946273,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;: Los Estacionamientos Reservados para taxis se podr&#xE1;n otorgar a los Sindicatos de Trabajadores de Taxis de la comuna de Providencia que lo soliciten, en conformidad con la Ordenanza sobre Estacionamientos Reservados para Veh&#xED;culos, por per&#xED;odos de un a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  Dichos estacionamientos ser&#xE1;n autorizados mediante Decreto Alcaldicio, previo informe favorable de la Direcci&#xF3;n de Tr&#xE1;nsito y Carabineros de Chile y el pago de los derechos municipales correspondientes. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;: Los Estacionamientos Reservados para taxis se podr&#xE1;n otorgar a los Sindicatos de Trabajadores de Taxis de la comuna de Providencia que lo soliciten, en conformidad con la Ordenanza sobre Estacionamientos Reservados para Veh&#xED;culos, por per&#xED;odos de un a&#xF1;o. Dichos estacionamientos ser&#xE1;n autorizados mediante Decreto Alcaldicio, previo informe favorable de la Direcci&#xF3;n de Tr&#xE1;nsito y Carabineros de Chile y el pago de los derechos municipales correspondientes. En caso que la Municipalidad por cualquier causa o<span class=\"n\" id=\"n_0\">ORZ 5,<br>M. DE PROVIDENCIA<br>N&#xBA; 1&#xBA;<br>D.O. 07.08.2003</span> motivo pusiere t&#xE9;rmino a la respectiva autorizaci&#xF3;n para el paradero o estacionamiento reservado, el due&#xF1;o del veh&#xED;culo, una vez notificado de tal medida, deber&#xE1; devolver a la Municipalidad el autoadhesivo y tarjeta que le fueron otorgados en su oportunidad. El no cumplimiento de esta obligaci&#xF3;n dar&#xE1; derecho a la Municipalidad para aplicar las sanciones a que se refiere el art&#xED;culo 10&#xBA; de la presente ordenanza. </div></div>"
+        }
+      ]
+    }
+  }
+]

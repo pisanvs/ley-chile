@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-06-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-12-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8331144,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Del&#xE9;gase en los Secretarios Regionales Ministeriales de Bienes Nacionales de la I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII y Regi&#xF3;n Metropolitana de Santiago, la facultad de celebrar y aprobar convenios mandatos, completos e irrevocables, con los respectivos Gobiernos Regionales, aprobar bases administrativas, licitar, adjudicar y celebrar contratos para la ejecuci&#xF3;n de proyectos financiados con recursos del Fondo Nacional de Desarrollo Regional (F.N.D.R.).</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Los actos administrativos que se efect&#xFA;en en aplicaci&#xF3;n del n&#xFA;mero precedente, deber&#xE1;n ser comunicados al Subsecretario de Bienes Nacionales para su informaci&#xF3;n y ajuste jur&#xED;dico administrativo. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Del&#xE9;gase <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>en los Secretarios Regionales Ministeriales de Bienes Nacionales de la I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII y Regi&#xF3;n Metropolitana de Santiago, la facultad de celebrar y aprobar convenios mandatos, completos e irrevocables, con los respectivos Gobiernos Regionales, aprobar bases administrativas, licitar, adjudicar y celebrar contratos para la ejecuci&#xF3;n de proyectos financiados con recursos del Fondo Nacional de Desarrollo Regional (F.N.D.R.).</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Los actos administrativos que se efect&#xFA;en en aplicaci&#xF3;n del n&#xFA;mero precedente, deber&#xE1;n ser comunicados al Subsecretario de Bienes Nacionales para su informaci&#xF3;n y ajuste jur&#xED;dico administrativo.</div><div class=\"p\">&nbsp; </div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral I de la Resoluci&#xF3;n 21, Bienes Nacionales, publicada el 18.12.2018, complementa la presente norma en el sentido de que se delegan las facultades que ac&#xE1; se se&#xF1;alan, en los Secretarios Regionales Ministeriales de Bienes Nacionales de las regiones de Los R&#xED;os, Arica y Parinacota y &#xD1;uble, respectivamente.</div></div>"
+        }
+      ]
+    }
+  }
+]

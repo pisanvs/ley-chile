@@ -1,0 +1,54 @@
+[
+  {
+    "fecha": "2007-02-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-06-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8695419,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1003582&amp;idParte=8695345&amp;idVersion=2009-06-18\">Ordenanza 1, M. DE ANTOFAGASTA<br>Art. UNICO<br>D.O. 18.06.2009</a></span>&nbsp; &nbsp;  Art&#xED;culo tercero bis: Las personas naturales o jur&#xED;dicas que desarrollen programas que vayan orientados en beneficio directo de las personas que viven en la comuna de Antofagasta, podr&#xE1;n requerir y obtener de la Municipalidad el permiso de ocupaci&#xF3;n de los inmuebles mencionados en el art&#xED;culo anterior, quedando a criterio del(la) Alcalde(sa) la evaluaci&#xF3;n del proyecto a realizar y de los beneficios que se entregar&#xE1;n a la comunidad.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1003582,
+      "fecha": "2009-06-18"
+    }
+  },
+  {
+    "fecha": "2009-07-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8741742,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1004183&amp;idParte=8741716&amp;idVersion=2009-07-14\">Ordenanza 2,<br>M. DE ANTOFAGASTA<br>D.O. 14.07.2009</a></span>&nbsp; &nbsp;  Art&#xED;culo noveno: &quot;Complementando lo dispuesto en el art&#xED;culo 3&#xBA; y 3&#xBA; bis de la presente Ordenanza, se faculta al(la) Alcalde(sa) para otorgar excepcionalmente permisos gratuitos a servicios p&#xFA;blicos o entidades p&#xFA;blicas o entidades privadas sin fines de lucro, respecto de alguno de los inmuebles (locales comerciales, cafeter&#xED;as y servicios higi&#xE9;nicos) ubicados en el Parque Nicol&#xE1;s Tirado, quedando a su criterio determinar el tiempo de duraci&#xF3;n mediante una resoluci&#xF3;n debidamente fundada, en razones de inter&#xE9;s general, con un plazo m&#xE1;ximo de hasta 5 a&#xF1;os.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1004183,
+      "fecha": "2009-07-14"
+    }
+  },
+  {
+    "fecha": "2012-01-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

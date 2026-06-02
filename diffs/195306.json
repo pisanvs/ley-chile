@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-03-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-04-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6371878,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Modif&#xED;quese el art&#xED;culo 1&#xBA; N&#xBA;2 y 4 del decreto exento N&#xBA;106 de los vistos, en el sentido de que se reasigna el veh&#xED;culo se&#xF1;alado, a las autoridades que se indica, para su uso privativo, en las funciones inherentes al respectivo cargo:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Jefa de Gabinete se&#xF1;ora Subsecretaria, do&#xF1;a Mar&#xED;a E. Fern&#xE1;ndez Alvear, autom&#xF3;vil patente RV/7016-8, marca Nissan Sentra II, N&#xBA; motor GA16708850, N&#xBA; chasis 3N1BDAB14-V007866, color blanco, a&#xF1;o 1998.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Jefe Divisi&#xF3;n de Organizaciones Sociales, don Ricardo F&#xE1;brega Lacoa, autom&#xF3;vil patente RA/9104-8, marca Hyundai, modelo Sonata GLS 2.0, N&#xBA; motor G4CPT102587, N&#xBA; chasis KMHCF31FPVU722373, color gris, a&#xF1;o 1997.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Modif&#xED;quese el art&#xED;culo 1&#xBA; N&#xBA;2 y 4 del decreto exento N&#xBA;106 de los vistos, en el sentido de que se reasigna el veh&#xED;culo se&#xF1;alado, a las autoridades que se indica, para su uso privativo, en las funciones inherentes al respectivo cargo:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- Jefa de Gabinete se&#xF1;ora Subsecretaria, do&#xF1;a<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Mar&#xED;a E. Fern&#xE1;ndez Alvear, autom&#xF3;vil patente RV/7016-8, marca Nissan Sentra II, N&#xBA; motor GA16708850, N&#xBA; chasis 3N1BDAB14-V007866, color blanco, a&#xF1;o 1998.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Jefe Divisi&#xF3;n de Organizaciones Sociales, don Ricardo F&#xE1;brega Lacoa, autom&#xF3;vil patente RA/9104-8, marca Hyundai, modelo Sonata GLS 2.0, N&#xBA; motor G4CPT102587, N&#xBA; chasis KMHCF31FPVU722373, color gris, a&#xF1;o 1997.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 1&#xBA; de la RES 51 Exenta, Secretar&#xED;a General de Gobierno, publicada el 02.04.2003, modific&#xF3; la presente norma en el sentido que se reasigna el veh&#xED;culo se&#xF1;alado en el N&#xBA; 1, al Secretario Regional Ministerial de Gobierno de la V Regi&#xF3;n, don Walter D&#xED;az Past&#xE9;n, para su uso privativo, en las funciones inherentes al respectivo cargo.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

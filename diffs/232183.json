@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2004-11-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-06-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6503857,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8. Para los fines del proceso de acreditaci&#xF3;n individual, el Servicio de Salud definir&#xE1; las horas pedag&#xF3;gicas de capacitaci&#xF3;n exigidas como m&#xED;nimo a desarrollar por los funcionarios seg&#xFA;n la programaci&#xF3;n trienal de capacitaci&#xF3;n del Servicio, que ser&#xE1;n necesarias para su aprobaci&#xF3;n, en conformidad a las normas generales que en la materia imparta el Ministerio de Salud y las dem&#xE1;s establecidas en los art&#xED;culos precedentes. Con todo, el m&#xED;nimo se&#xF1;alado precedentemente no podr&#xE1; ser inferior a ciento sesenta horas pedag&#xF3;gicas en el trienio respectivo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8. Para los fines del proceso de acreditaci&#xF3;n individual, el Servicio de Salud definir&#xE1; las horas pedag&#xF3;gicas de capacitaci&#xF3;n exigidas como m&#xED;nimo a desarrollar por los funcionarios seg&#xFA;n la programaci&#xF3;n trienal de capacitaci&#xF3;n del Servicio, que ser&#xE1;n necesarias para su aprobaci&#xF3;n, en conformidad a las normas generales que en la materia imparta el Ministerio de Salud y las dem&#xE1;s establecidas en los art&#xED;culos precedentes. Con todo, el m&#xED;nimo se&#xF1;alado precedentemente no podr&#xE1; ser inferior a ciento diez ho<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1003145&amp;idParte=8675141&amp;idVersion=2009-06-08\">Decreto 9, SALUD<br>Art. 1<br>D.O. 08.06.2009</a></span>ras pedag&#xF3;gicas en el trienio respectivo.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1003145,
+      "fecha": "2009-06-08"
+    }
+  }
+]

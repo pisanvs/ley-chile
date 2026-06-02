@@ -1,0 +1,50 @@
+[
+  {
+    "fecha": "2005-11-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-02-26",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8661882,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 36.- Establ&#xE9;cese un bono pro calidad de la dotaci&#xF3;n docente, para los profesionales de la educaci&#xF3;n que presten servicios en los establecimientos educacionales del sector municipal, administrados ya sea directamente por las municipalidades o a trav&#xE9;s de las corporaciones municipales, que habiendo sido evaluados de conformidad a lo dispuesto en el art&#xED;culo 70 del decreto con fuerza de ley N&#xB0;1, de 1996, del Ministerio de Educaci&#xF3;n, hayan dejado de pertenecer a la dotaci&#xF3;n docente por encontrarse en la situaci&#xF3;n se&#xF1;alada en el inciso s&#xE9;ptimo del art&#xED;culo antes mencionado. Este bono ascender&#xE1; a los montos siguientes, seg&#xFA;n corresponda:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Si el promedio mensual de las 12 &#xFA;ltimas remuneraciones anteriores al mes en que el profesional de la educaci&#xF3;n dej&#xF3; de pertenecer a la dotaci&#xF3;n docente del sector municipal es inferior a 14,32 unidades tributarias mensuales, el bono ser&#xE1; de 79,58 unidades tributarias mensuales.</div><br><div class=\"p\">&nbsp; &nbsp;  b) Si el promedio de remuneraciones se&#xF1;alado en la letra anterior es igual o superior a 14,32 unidades tributarias mensuales e inferior a 19,10 unidades tributarias mensuales, el bono ser&#xE1; de 120,97 unidades tributarias mensuales.</div><br><div class=\"p\">&nbsp; &nbsp;  c) Si el promedio de remuneraciones se&#xF1;alado en la letra a) es igual o superior a 19,10 unidades tributarias mensuales e inferior a 23,87 unidades tributarias mensuales, el bono ser&#xE1; de 135,29 unidades tributarias mensuales.</div><br><div class=\"p\">&nbsp; &nbsp;  d) Si el promedio de remuneraciones antes se&#xF1;alado es igual o superior a 23,87 unidades tributarias mensuales el bono ser&#xE1; de 143,25 unidades tributarias mensuales.</div><div class=\"p\">Este bono se pagar&#xE1; por una sola vez a los profesionales de la educaci&#xF3;n se&#xF1;alados en el inciso anterior, en el mes subsiguiente a aquel en que dejen de pertenecer a la dotaci&#xF3;n docente del sector municipal, no ser&#xE1; imponible ni tributable y ser&#xE1; de cargo del empleador.</div><br><div class=\"p\">&nbsp; &nbsp;  Los profesionales de la educaci&#xF3;n que deban ser evaluados de conformidad al art&#xED;culo 70 del decreto con fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, y se negaren a ello sin causa justificada, se presumir&#xE1;n evaluados en el nivel de desempe&#xF1;o insatisfactorio, no tendr&#xE1;n derecho a los planes de superaci&#xF3;n profesional, mantendr&#xE1;n su responsabilidad de curso y la obligaci&#xF3;n de evaluarse al a&#xF1;o siguiente.</div><br><div class=\"p\">&nbsp; &nbsp;  Si el desempe&#xF1;o en el nivel insatisfactorio se mantuviere por tercer a&#xF1;o consecutivo de evaluaci&#xF3;n y cualquiera de ellos se deba a la aplicaci&#xF3;n de la presunci&#xF3;n antes referida, el profesional de la educaci&#xF3;n dejar&#xE1; de pertenecer a la dotaci&#xF3;n docente del sector municipal, a m&#xE1;s tardar al t&#xE9;rmino del a&#xF1;o laboral docente, sin derecho a percibir el bono a que se refiere este art&#xED;culo.</div><br><div class=\"p\">&nbsp; &nbsp;  Durante el a&#xF1;o 2006, el bono del presente art&#xED;culo se financiar&#xE1; con cargo al &#xED;tem 09-01-04-24-03.519 de la Ley de Presupuestos de dicho a&#xF1;o, y su monto ascender&#xE1; a las cantidades establecidas en el inciso primero de este art&#xED;culo seg&#xFA;n sea el promedio de remuneraciones indicada en dicha Ley de Presupuestos.&quot;.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 36<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1022346&amp;idParte=9116578&amp;idVersion=2011-02-26\">Ley 20501<br>Art. 7<br>D.O. 26.02.2011</a></span>.- DEROGADO.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1022346,
+      "fecha": "2011-02-26"
+    }
+  },
+  {
+    "fecha": "2017-11-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8661881,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 35.- El Presidente del Consejo Nacional de la Cultura y las Artes podr&#xE1; contratar, seg&#xFA;n las normas del C&#xF3;digo del Trabajo y sus disposiciones complementarias, al personal que se desempe&#xF1;a en la Orquesta de C&#xE1;mara de Chile y el Ballet Folcl&#xF3;rico Nacional, hasta el m&#xE1;ximo de trabajadores que autorice la Ley de Presupuestos.</div><br><div class=\"p\">&nbsp; &nbsp;  Para los efectos de lo dispuesto en este art&#xED;culo, durante el a&#xF1;o 2006 el Consejo Nacional de la Cultura y las Artes podr&#xE1; contratar hasta 87 trabajadores cuyo gasto ser&#xE1; imputado al &#xED;tem 09-16-01-24-03.098, de la Partida Presupuestaria del Ministerio de Educaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  El mayor gasto fiscal que representa el pago de las cotizaciones de previsi&#xF3;n y salud del personal se&#xF1;alado en el inciso anterior para dicho a&#xF1;o, ser&#xE1; con cargo al &#xED;tem 50-01-03-24-03.104 de la Partida Presupuestaria Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 35.- El <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1110097&amp;idParte=9845595&amp;idVersion=2017-11-03\">Ley 21045<br>Art. 59<br>D.O. 03.11.2017</a></span>Subsecretario de las Culturas y las Artes podr&#xE1; contratar, seg&#xFA;n las normas del C&#xF3;digo del Trabajo y sus disposiciones complementarias, al personal que se desempe&#xF1;a en la Orquesta de C&#xE1;mara de Chile y el Ballet Folcl&#xF3;rico Nacional, hasta el m&#xE1;ximo de trabajadores que autorice la Ley de Presupuestos.</div><br><div class=\"p\">&nbsp; &nbsp;  Para los efectos de lo dispuesto en este art&#xED;culo, durante el a&#xF1;o 2006 el Consejo Nacional de la Cultura y las Artes podr&#xE1; contratar hasta 87 trabajadores cuyo gasto ser&#xE1; imputado al &#xED;tem 09-16-01-24-03.098, de la Partida Presupuestaria del Ministerio de Educaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  El mayor gasto fiscal que representa el pago de las cotizaciones de previsi&#xF3;n y salud del personal se&#xF1;alado en el inciso anterior para dicho a&#xF1;o, ser&#xE1; con cargo al &#xED;tem 50-01-03-24-03.104 de la Partida Presupuestaria Tesoro P&#xFA;blico.</div><br><br></div>"
+        },
+        {
+          "part_id": 8661882,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 36<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1022346&amp;idParte=9116578&amp;idVersion=2011-02-26\">Ley 20501<br>Art. 7<br>D.O. 26.02.2011</a></span>.- DEROGADO.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 36<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1022346&amp;idParte=9116578&amp;idVersion=2011-02-26\">Ley 20501<br>Art. 7<br>D.O. 26.02.2011</a></span>.- DEROGADO.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1110097,
+      "fecha": "2017-11-03"
+    }
+  }
+]

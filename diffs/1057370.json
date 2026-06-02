@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-01-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9392920,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por Decreto M.O.P. (Exento) N&#xBA; 2317, de 29 de noviembre de 2013, y en base a la facultad otorgada por los art&#xED;culos 3&#xBA; letra a), 14 letra e) y 105 del D.F.L. M.O.P. N&#xBA;850, de 1997, que fij&#xF3; el texto refundido, coordinado y sistematizado de la Ley N&#xBA;15.840 y del DFL. MOP. N&#xBA;206, de 1960, se expropiaron los lotes de terreno N&#xBA;s. 31, 33 y 34, para la obra: &quot;CONSTRUCCI&#xD3;N EMBALSE PUNILLA, REGI&#xD3;N DEL BIOB&#xCD;O&quot;, que figuran a nombre de CONTRERAS GARRIDO OTILIA DEL C, CONTRERAS BUCAREY LUIS A y CARTER BERTOLOTTO FLORENCIO AR, roles de aval&#xFA;o 59-130, 59-9 y 59-10, Comuna de SAN FABI&#xC1;N, VIII Regi&#xF3;n del B&#xED;o B&#xED;o, superficies 43.924 m2, 45.106 m2 y 30.503 m2. respectivamente. La Comisi&#xF3;n de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, MARLENE TERESA R&#xCD;OS MARCUELLO y PATRICIA ANG&#xC9;LICA MORALES RIVERA, mediante informe de tasaci&#xF3;n de 04 de diciembre de 2013, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $73.868.940.-, para el lote N&#xBA;31, $42.850.700.-, para el lote N&#xBA;33 y $31.012.460.-, para el lote N&#xBA;34. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1057716&amp;idParte=9395542&amp;idVersion=2014-01-02\">Aviso S/N,<br>OBRAS P&#xDA;BLICAS<br>D.O. 02.01.2014</a></span>&nbsp; &nbsp;  Por Decreto M.O.P. (Exento) N&#xBA; 2317 de 9 de diciembre de 2013, y en base a la facultad otorgada por los art&#xED;culos 3&#xBA; letra a), 14 letra e) y 105 del D.F.L. M.O.P. N&#xBA;850, de 1997, que fij&#xF3; el texto refundido, coordinado y sistematizado de la Ley N&#xBA;15.840 y del DFL. MOP. N&#xBA;206, de 1960, se expropiaron los lotes de terreno N&#xBA;s. 31, 33 y 34, para la obra: &quot;CONSTRUCCI&#xD3;N EMBALSE PUNILLA, REGI&#xD3;N DEL BIOB&#xCD;O&quot;, que figuran a nombre de CONTRERAS GARRIDO OTILIA DEL C, CONTRERAS BUCAREY LUIS A y CARTER BERTOLOTTO FLORENCIO AR, roles de aval&#xFA;o 59-130, 59-9 y 59-10, Comuna de SAN FABI&#xC1;N, VIII Regi&#xF3;n del B&#xED;o B&#xED;o, superficies 43.924 m2, 45.106 m2 y 30.503 m2. respectivamente. La Comisi&#xF3;n de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, MARLENE TERESA R&#xCD;OS MARCUELLO y PATRICIA ANG&#xC9;LICA MORALES RIVERA, mediante informe de tasaci&#xF3;n de 04 de diciembre de 2013, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $73.868.940.-, para el lote N&#xBA;31, $42.850.700.-, para el lote N&#xBA;33 y $31.012.460.-, para el lote N&#xBA;34. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1057716,
+      "fecha": "2014-01-02"
+    }
+  }
+]

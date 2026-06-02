@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-12-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-03-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6073574,
+          "old": "<div><div class=\"p\">DESIGNA COMO RECEPTOR JUDICIAL A FUNCIONARIO QUE INDICA </div><div class=\"p\">N&#xFA;m. 316.- Santiago, 22 de Noviembre de 1991.- Vistos: Lo dispuesto en el art&#xED;culo 11 del decreto ley No. 2.974 de 1979.</div><br><div class=\"p\">Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA COMO RECEPTOR JUDICIAL A FUNCIONARIO QUE INDICA </div><div class=\"p\">N&#xFA;m. 316.- Santiago, 22 de Noviembre de 1991.- Vistos: Lo dispuesto en el art&#xED;culo 11 del decreto ley No. 2.974 de 1979.</div><br><div class=\"p\">Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

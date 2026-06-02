@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-05-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-12-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7342160,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 218, DE 2007</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 617, exenta.- Santiago, 10 de mayo de 2007.- Vistos: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, la Ley N&#xBA; 18.755 Org&#xE1;nica del Servicio Agr&#xED;cola y Ganadero, modificada por la Ley N&#xBA; 19.283 y sus modificaciones posteriores, la resoluci&#xF3;n N&#xBA; 3.513 exenta del SAG del 7 de diciembre de 1995, publicada en el Diario Oficial el 13 de diciembre del mismo a&#xF1;o y la resoluci&#xF3;n N&#xB0; 218 del 24 de febrero de 2007 de la Direcci&#xF3;n Regional SAG Regi&#xF3;n Metropolitana.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">1.&nbsp;  Que, por resoluci&#xF3;n exenta N&#xB0; 218, citada en los vistos, se estableci&#xF3; un &#xE1;rea reglamentada y medidas fitosanitarias para el control de Mosca del Mediterr&#xE1;neo (Ceratitis capitata W.) a partir de la detecci&#xF3;n de ejemplares del mencionado insecto en la comuna de El Bosque.</div><div class=\"p\">2.&nbsp;  Que, se ha detectado la presencia de nuevos ejemplares del insecto en el &#xE1;rea urbana de la comuna de El Bosque.</div><div class=\"p\">3.&nbsp;  Que, por corresponder las detecciones a nuevas capturas en un &#xE1;rea reglamentada, es necesario establecer una nueva &#xE1;rea reglamentada de 7,2 Km. alrededor del brote considerando como tal la captura reiterada, captura m&#xFA;ltiple, presencia de estados inmaduros o hembras inseminadas de la plaga, situaci&#xF3;n que requiere la ampliaci&#xF3;n del &#xE1;rea reglamentada y las medidas fitosanitarias establecidas en la resoluci&#xF3;n exenta N&#xBA; 218 del 24 de febrero de 2007,</div><br><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 218, DE 2007</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 617, exenta.- Santiago, 10 de mayo de 2007.- Vistos: Lo dispuesto en el Decreto Ley N&#xB0; 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola, la Ley N&#xBA; 18.755 Org&#xE1;nica del Servicio Agr&#xED;cola y Ganadero, modificada por la Ley N&#xBA; 19.283 y sus modificaciones posteriores, la resoluci&#xF3;n N&#xBA; 3.513 exenta del SAG del 7 de diciembre de 1995, publicada en el Diario Oficial el 13 de diciembre del mismo a&#xF1;o y la resoluci&#xF3;n N&#xB0; 218 del 24 de febrero de 2007 de la Direcci&#xF3;n Regional SAG Regi&#xF3;n Metropolitana.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">1.&nbsp;  Que, por resoluci&#xF3;n exenta N&#xB0; 218, citada en los vistos, se estableci&#xF3; un &#xE1;rea reglamentada y medidas fitosanitarias para el control de Mosca del Mediterr&#xE1;neo (Ceratitis capitata W.) a partir de la detecci&#xF3;n de ejemplares del mencionado insecto en la comuna de El Bosque.</div><div class=\"p\">2.&nbsp;  Que, se ha detectado la presencia de nuevos ejemplares del insecto en el &#xE1;rea urbana de la comuna de El Bosque.</div><div class=\"p\">3.&nbsp;  Que, por corresponder las detecciones a nuevas capturas en un &#xE1;rea reglamentada, es necesario establecer una nueva &#xE1;rea reglamentada de 7,2 Km. alrededor del brote considerando como tal la captura reiterada, captura m&#xFA;ltiple, presencia de estados inmaduros o hembras inseminadas de la plaga, situaci&#xF3;n que requiere la ampliaci&#xF3;n del &#xE1;rea reglamentada y las medidas fitosanitarias establecidas en la resoluci&#xF3;n exenta N&#xBA; 218 del 24 de febrero de 2007,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

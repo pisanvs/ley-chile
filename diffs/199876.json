@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-07-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-02-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6387063,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Decl&#xE1;rase que las funciones docentes que desarrollan los Coordinadores de los Centros de Recursos para el Aprendizaje (CRA) de los establecimientos educacionales de ense&#xF1;anza b&#xE1;sica y media, ambas modalidades, constituyen funciones t&#xE9;cnico-pedag&#xF3;gicas an&#xE1;logas a aquellas descritas en el art&#xED;culo 8&#xBA; del decreto con fuerza de ley N&#xBA; 1, de 1996 de Educaci&#xF3;n, Estatuto de los Profesionales de la Educaci&#xF3;n.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: DEROGADO.<span class=\"n\" id=\"n_0\">DTO 237, EDUCACION<br>Art. &#xFA;nico<br>D.O. 12.02.2003</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

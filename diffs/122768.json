@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1998-08-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-08-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6124549,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15 bis.- El Servicio de Bienestar, con<span class=\"n\" id=\"n_0\">DTO 18, TRABAJO<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 19.08.2003</span> cargo a sus propios recursos y de acuerdo a sus disponibilidades presupuestarias, podr&#xE1; adquirir productos farmac&#xE9;uticos e insumos de uso m&#xE9;dico, tanto para el abastecimiento de las cl&#xED;nicas m&#xE9;dicas o dentales que administre, de conformidad a lo dispuesto en el art&#xED;culo 22 de este reglamento, como para su venta a sus afiliados y/o cargas familiares.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6124539,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA;: El Servicio de Bienestar se financiar&#xE1; con los siguientes recursos:</div><div class=\"p\">&nbsp; &nbsp;  a) Una cuota de incorporaci&#xF3;n que deber&#xE1;n pagar los afiliados por una sola vez y equivalente a una cotizaci&#xF3;n mensual, del afiliado sea&nbsp; &#xE9;ste activo o pasivo;</div><div class=\"p\">&nbsp; &nbsp;  b) Los aportes que anualmente se consulten en el presupuesto de la Instituci&#xF3;n, con sujeci&#xF3;n a las normas legales y estatutarias vigentes;</div><div class=\"p\">&nbsp; &nbsp;  c) Con el aporte mensual de los afiliados en servicio activo de hasta el 2% de sus remuneraciones imponibles para pensiones;</div><div class=\"p\">&nbsp; &nbsp;  d) Con el aporte mensual de los afiliados jubilados de hasta el 1% de sus pensiones, m&#xE1;s un porcentaje del aporte institucional, que ser&#xE1; fijado anualmente por el Consejo Administrativo;</div><div class=\"p\">&nbsp; &nbsp;  e) Con los intereses de los pr&#xE9;stamos que otorgue el Servicio de Bienestar a sus afiliados;</div><div class=\"p\">&nbsp; &nbsp;  f) Con las bonificaciones o porcentaje provenientes de los convenios que el Servicio de Bienestar suscriba con terceros para el otorgamiento de beneficios a los afiliados.</div><div class=\"p\">&nbsp; &nbsp;  g) Con las sumas provenientes de herencias, legados y donaciones;</div><div class=\"p\">&nbsp; &nbsp;  h) Con los excedentes de caja que genere cada actividad o servicio dependiente se&#xF1;alado en el inciso 2&#xBA; art&#xED;culo 15&#xBA;.</div><div class=\"p\">&nbsp; &nbsp;  i) Con los dem&#xE1;s bienes o recursos que el Servicio de Bienestar obtenga a cualquier otro t&#xED;tulo. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA;: El Servicio de Bienestar se financiar&#xE1; con los siguientes recursos:</div><div class=\"p\">&nbsp; &nbsp;  a) Una cuota de incorporaci&#xF3;n que deber&#xE1;n pagar los afiliados por una sola vez y equivalente a una cotizaci&#xF3;n mensual, del afiliado sea&nbsp; &#xE9;ste activo o pasivo;</div><div class=\"p\">&nbsp; &nbsp;  b) Los aportes que anualmente se consulten en el presupuesto de la Instituci&#xF3;n, con sujeci&#xF3;n a las normas legales y estatutarias vigentes;</div><div class=\"p\">&nbsp; &nbsp;  c) Con el aporte mensual de los afiliados en servicio activo de hasta el 2% de sus remuneraciones imponibles para pensiones;</div><div class=\"p\">&nbsp; &nbsp;  d) Con el aporte mensual de los afiliados jubilados de hasta el 1% de sus pensiones, m&#xE1;s un porcentaje del aporte institucional, que ser&#xE1; fijado anualmente por el Consejo Administrativo;</div><div class=\"p\">&nbsp; &nbsp;  e) Con los intereses de los pr&#xE9;stamos que otorgue el Servicio de Bienestar a sus afiliados;</div><div class=\"p\">&nbsp; &nbsp;  f) Con las bonificaciones o porcentaje provenientes de los convenios que el Servicio de Bienestar suscriba con terceros para el otorgamiento de beneficios a los afiliados.</div><div class=\"p\">&nbsp; &nbsp;  g) Con las sumas provenientes de herencias, legados y donaciones;</div><div class=\"p\">&nbsp; &nbsp;  h) Con los excedentes de caja que genere cada actividad o servicio dependiente se&#xF1;alado en el inciso 2&#xBA; art&#xED;culo 15&#xBA; y en el art&#xED;culo 15 bis de este<span class=\"n\" id=\"n_1\">DTO 18, TRABAJO<br>Art. &#xFA;nico N&#xBA; 2<br>D.O. 19.08.2003</span> reglamento.</div><div class=\"p\">&nbsp; &nbsp;  i) Con los dem&#xE1;s bienes o recursos que el Servicio de Bienestar obtenga a cualquier otro t&#xED;tulo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

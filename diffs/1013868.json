@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2010-06-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-10-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8926218,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Primero: La subrogaci&#xF3;n del Director General de Relaciones Econ&#xF3;micas Internacionales, en caso de ausencia o impedimento del titular, ser&#xE1; ejercida por los funcionarios que a continuaci&#xF3;n se individualizan y en el siguiente orden de prelaci&#xF3;n:</div><br><div class=\"p\">1.-&nbsp; Sr. Rodrigo Contreras &#xC1;lvarez, RUT N&#xBA; 8.186.161-7, Director Grado 3 de la EUR de la Planta de Directivos de la Direcci&#xF3;n General de Relaciones Econ&#xF3;micas Internacionales;</div><div class=\"p\">2.-&nbsp; Sra. Ana Novik Assael, RUT N&#xBA; 9.383.629-4, Director Grado 3 de la EUR de la Planta de Directivos de la Direcci&#xF3;n General de Relaciones Econ&#xF3;micas Internacionales;</div><div class=\"p\">3.-&nbsp; Sr. Jos&#xE9; F&#xE9;lix de Vicente Mingo, RUT 9.359.341-3, Director Grado 3 de la EUR de la Planta de Directivos de la Direcci&#xF3;n General de Relaciones Econ&#xF3;micas Internacionales;</div><div class=\"p\">4.-&nbsp; Sra. Mar&#xED;a Adriana Vargas Mesa, RUT N&#xBA; 6.159.308-K, funcionaria contratada asimilada al grado 4&#xBA; de la EUR de la Direcci&#xF3;n General de Relaciones Econ&#xF3;micas Internacionales;</div><div class=\"p\">5.-&nbsp; Sr. Cristi&#xE1;n Maturana Sanhueza, RUT N&#xBA; 10.477.893-3, Director Grado 3 de la EUR de la Planta de Directivos de la Direcci&#xF3;n General de Relaciones Econ&#xF3;micas Internacionales.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Primero: La subrogaci&#xF3;n del Director General de Relaciones Econ&#xF3;micas Internacionales, en caso de ausencia o impedimento del titular, ser&#xE1; ejercida por los funcionarios que a continuaci&#xF3;n se individualizan y en el siguiente orden de prelaci&#xF3;n:</div><br><div class=\"p\">1.- Sr. Mathias <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1045037&amp;idParte=9308882&amp;idVersion=2012-10-24\">Decreto 1003 EXENTO,<br>RELACIONES EXTERIORES<br>Art. PRIMERO<br>D.O. 24.10.2012</a></span>Francke Schnarbach, RUT N&#xBA; 6.380.480-0, Director grado 3 de la EUR de la Planta de Directivos de la Direcci&#xF3;n General de Relaciones Econ&#xF3;micas Internacionales;</div><div class=\"p\">2.-&nbsp; Sra. Ana Novik Assael, RUT N&#xBA; 9.383.629-4, Director Grado 3 de la EUR de la Planta de Directivos de la Direcci&#xF3;n General de Relaciones Econ&#xF3;micas Internacionales;</div><div class=\"p\">3.-&nbsp; Sr. Jos&#xE9; F&#xE9;lix de Vicente Mingo, RUT 9.359.341-3, Director Grado 3 de la EUR de la Planta de Directivos de la Direcci&#xF3;n General de Relaciones Econ&#xF3;micas Internacionales;</div><div class=\"p\">4.-&nbsp; Sra. Mar&#xED;a Adriana Vargas Mesa, RUT N&#xBA; 6.159.308-K, funcionaria contratada asimilada al grado 4&#xBA; de la EUR de la Direcci&#xF3;n General de Relaciones Econ&#xF3;micas Internacionales;</div><div class=\"p\">5.-&nbsp; Sr. Cristi&#xE1;n Maturana Sanhueza, RUT N&#xBA; 10.477.893-3, Director Grado 3 de la EUR de la Planta de Directivos de la Direcci&#xF3;n General de Relaciones Econ&#xF3;micas Internacionales.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1045037,
+      "fecha": "2012-10-24"
+    }
+  },
+  {
+    "fecha": "2012-12-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

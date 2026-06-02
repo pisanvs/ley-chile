@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2002-08-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-03-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7293364,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Des&#xED;gnase como Secretario Regional Ministerial de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n Subrogante de la Regi&#xF3;n de Valpara&#xED;so al Director Regional de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n de la se&#xF1;alada regi&#xF3;n, don Vicente S&#xE1;nchez Cuesta, y, a falta de &#xE9;ste, al Director Regional del Servicio Nacional del Consumidor de la citada regi&#xF3;n, don V&#xED;ctor Hugo Fern&#xE1;ndez Guerra, y a la Directora Regional del Servicio de Cooperaci&#xF3;n T&#xE9;cnica de la mencionada regi&#xF3;n, do&#xF1;a Cristina Orellana Quezada, en ese mismo orden, los que asumir&#xE1;n dicho cargo cada vez que no est&#xE9; desempe&#xF1;ado efectivamente por el titular o suplente. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Des&#xED;gnase como Secretario Regional<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Ministerial de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n Subrogante de la Regi&#xF3;n de Valpara&#xED;so al Director Regional de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n de la se&#xF1;alada regi&#xF3;n, don Vicente S&#xE1;nchez Cuesta, y, a falta de &#xE9;ste, al Director Regional del Servicio Nacional del Consumidor de la citada regi&#xF3;n, don V&#xED;ctor Hugo Fern&#xE1;ndez Guerra, y a la Directora Regional del Servicio de Cooperaci&#xF3;n T&#xE9;cnica de la mencionada regi&#xF3;n, do&#xF1;a Cristina Orellana Quezada, en ese mismo orden, los que asumir&#xE1;n dicho cargo cada vez que no est&#xE9; desempe&#xF1;ado efectivamente por el titular o suplente.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico del DTO 37, Econom&#xED;a, publicado el 17.03.2003, modifica el presente decreto en el sentido de agregar como Secretario Regional Ministerial de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n Subrogante de la Regi&#xF3;n de Valpara&#xED;so, en el &#xFA;ltimo orden de subrogancia, al Director Regional de la Superintendencia de Electricidad y Combustibles en la Regi&#xF3;n de Valpara&#xED;so, don Mauricio Olivares Fern&#xE1;ndez.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2005-02-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7293364,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Des&#xED;gnase como Secretario Regional<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Ministerial de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n Subrogante de la Regi&#xF3;n de Valpara&#xED;so al Director Regional de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n de la se&#xF1;alada regi&#xF3;n, don Vicente S&#xE1;nchez Cuesta, y, a falta de &#xE9;ste, al Director Regional del Servicio Nacional del Consumidor de la citada regi&#xF3;n, don V&#xED;ctor Hugo Fern&#xE1;ndez Guerra, y a la Directora Regional del Servicio de Cooperaci&#xF3;n T&#xE9;cnica de la mencionada regi&#xF3;n, do&#xF1;a Cristina Orellana Quezada, en ese mismo orden, los que asumir&#xE1;n dicho cargo cada vez que no est&#xE9; desempe&#xF1;ado efectivamente por el titular o suplente.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico del DTO 37, Econom&#xED;a, publicado el 17.03.2003, modifica el presente decreto en el sentido de agregar como Secretario Regional Ministerial de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n Subrogante de la Regi&#xF3;n de Valpara&#xED;so, en el &#xFA;ltimo orden de subrogancia, al Director Regional de la Superintendencia de Electricidad y Combustibles en la Regi&#xF3;n de Valpara&#xED;so, don Mauricio Olivares Fern&#xE1;ndez.<br></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Des&#xED;gnase como Secretario Regional<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Ministerial de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1:</a></div> Subrogante de la Regi&#xF3;n de Valpara&#xED;so al Director Regional de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n de la se&#xF1;alada regi&#xF3;n, don Vicente S&#xE1;nchez Cuesta, y, a falta de &#xE9;ste, al Director Regional del Servicio Nacional del Consumidor de la citada regi&#xF3;n, don V&#xED;ctor Hugo Fern&#xE1;ndez Guerra, y a la Directora Regional del Servicio de Cooperaci&#xF3;n T&#xE9;cnica de la mencionada regi&#xF3;n, do&#xF1;a Cristina Orellana Quezada, en ese mismo orden, los que asumir&#xE1;n dicho cargo cada vez que no est&#xE9; desempe&#xF1;ado efectivamente por el titular o suplente.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo &#xFA;nico del DTO 37, Econom&#xED;a, publicado el 17.03.2003, modifica el presente decreto en el sentido de agregar como Secretario Regional Ministerial de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n Subrogante de la Regi&#xF3;n de Valpara&#xED;so, en el &#xFA;ltimo orden de subrogancia, al Director Regional de la Superintendencia de Electricidad y Combustibles en la Regi&#xF3;n de Valpara&#xED;so, don Mauricio Olivares Fern&#xE1;ndez.<br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 21, Econom&#xED;a, publicado el 28.02.2005, modifica el presente decreto en el sentido de se&#xF1;alar en el primer orden de subrogaci&#xF3;n, a la Directora Regional del Servicio de Cooperaci&#xF3;n T&#xE9;cnica en la V Regi&#xF3;n, do&#xF1;a Cristina Orellana Quezada.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

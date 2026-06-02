@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-02-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-08-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8084617,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: El otorgamiento de espacios destinados a estacionamientos reservados en las calles de la comuna se regir&#xE1; por lo preceptuado en el art&#xED;culo 164 de la Ley de Tr&#xE1;nsito N&#xBA; 18.290, y por las disposiciones de la presente ordenanza.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: El otorgamiento de espacios destinados a estacionamientos reservados en las calles de la comuna se regir&#xE1; por lo preceptuado en el Art&#xED;culo 159 de la Ley de Tr&#xE1;nsito N&#xBA;18.290, y <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053678&amp;idParte=9370533&amp;idVersion=2013-08-20\">Ordenanza 123,<br>M. DE PROVIDENCIA<br>N&#xB0; 1<br>D.O. 20.08.2013</a></span>por las disposiciones de la presente ordenanza.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1053678,
+      "fecha": "2013-08-20"
+    }
+  }
+]

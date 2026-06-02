@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-08-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-12-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7302576,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Decl&#xE1;rase, para todos los efectos legales, que el juzgado de letras de Casablanca es competente para conocer de todos los asuntos contenciosos y no contenciosos originados en el territorio perteneciente a la comuna de Curacav&#xED;, de conformidad a lo dispuesto por el art&#xED;culo 32 del C&#xF3;digo Org&#xE1;nico de Tribunales.</div><div class=\"p\">&nbsp; &nbsp;  Dicha competencia no resulta alterada por las modificaciones introducidas por el art&#xED;culo 3&#xBA; de la ley N&#xBA; 19.861, al art&#xED;culo 55&#xBA; del C&#xF3;digo Org&#xE1;nico de Tribunales.</div><div class=\"p\">&nbsp; &nbsp;  Trat&#xE1;ndose de materias penales, cesar&#xE1; dicha competencia solamente respecto de los hechos acaecidos a partir del 16 de diciembre de 2004.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Decl&#xE1;rase, para todos los efectos legales, que el juzgado de letras de Casablanca es competente para conocer de todos los asuntos contenciosos y no contenciosos originados en el territorio perteneciente a la comuna de Curacav&#xED;, de conformidad a lo dispuesto por el art&#xED;culo 32 del C&#xF3;digo Org&#xE1;nico de Tribunales.</div><div class=\"p\">&nbsp; &nbsp;  Dicha competencia no resulta alterada por las modificaciones introducidas por el art&#xED;culo 3&#xBA; de la ley N&#xBA; 19.861, al art&#xED;culo 55&#xBA; del C&#xF3;digo Org&#xE1;nico de Tribunales.</div><div class=\"p\">&nbsp; &nbsp;  Trat&#xE1;ndose de materias penales, cesar&#xE1; dicha competencia solamente respecto de los hechos acaecidos a partir del 16 de junio de 2005.<span class=\"n\" id=\"n_0\">LEY 19919<br>Art. 4&#xBA;<br>D.O. 20.12.2003</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

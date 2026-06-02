@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2010-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9077583,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;. Las Facultades de Derecho dispondr&#xE1;n de un plazo de cuarenta d&#xED;as corridos, contado desde la recepci&#xF3;n de la comunicaci&#xF3;n antes se&#xF1;alada, para seleccionar su propuesta y enviarla al Tribunal Constitucional, tomando en especial consideraci&#xF3;n los criterios expuestos en el art&#xED;culo 3&#xB0; del presente Reglamento y el cat&#xE1;logo al cual se refiere el art&#xED;culo 4&#xB0;.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;. En la<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1035970&amp;idParte=9225705&amp;idVersion=2012-01-09\">Auto Acordado S/N, TRIB. CONSTITUCIONAL<br>Art. 1<br>D.O. 09.01.2012</a></span> respectiva convocatoria el Tribunal fijar&#xE1; el plazo dentro del cual las Facultades de Derecho deber&#xE1;n seleccionar y enviar su propuesta, tomando en especial consideraci&#xF3;n los criterios expuestos en el art&#xED;culo 3&#xBA; del presente Reglamento y el cat&#xE1;logo al cual se refiere el art&#xED;culo 4&#xBA;.</div><br></div>"
+        },
+        {
+          "part_id": 9077585,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;. El Tribunal decidir&#xE1; sobre los trabajos presentados dentro de un plazo de sesenta d&#xED;as, contado desde la recepci&#xF3;n de la &#xFA;ltima tesis. El Premio, que consistir&#xE1; en la publicaci&#xF3;n de la obra, una Medalla y Diploma recordatorio, ser&#xE1; entregado por el Tribunal Constitucional dentro del mes de abril de cada a&#xF1;o.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1035970&amp;idParte=9225706&amp;idVersion=2012-01-09\">Auto Acordado S/N, TRIB. CONSTITUCIONAL<br>Art. 2<br>D.O. 09.01.2012</a></span>&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;. El Tribunal decidir&#xE1; sobre los trabajos presentados dentro de un plazo de 4 meses, contado desde la recepci&#xF3;n de la &#xFA;ltima tesis. El Premio, que consistir&#xE1; en la publicaci&#xF3;n de la obra, una Medalla y Diploma recordatorio, ser&#xE1; entregado por el Tribunal Constitucional en ceremonia que deber&#xE1; verificarse dentro del a&#xF1;o siguiente al de la convocatoria.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1035970,
+      "fecha": "2012-01-09"
+    }
+  }
+]

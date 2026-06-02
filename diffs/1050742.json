@@ -1,0 +1,29 @@
+[
+  {
+    "fecha": "2013-05-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-07-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1064700,
+      "fecha": "2014-07-23"
+    }
+  },
+  {
+    "fecha": "2016-01-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

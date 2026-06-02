@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-02-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-06-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8923499,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: Fac&#xFA;ltase, a do&#xF1;a Noem&#xED; Palma Poblete, t&#xED;a del menor, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo segundo: Fac&#xFA;ltase, a do&#xF1;a Noem&#xED; Palma<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Poblete, t&#xED;a del menor, para cobrar la pensi&#xF3;n en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El gasto que demande el presente Decreto Supremo, se imputar&#xE1; al Item &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 118, Interior, publicado el 12.06.2002, dej&#xF3; sin efecto la facultad de do&#xF1;a Noem&#xED; Palma Poblete, otorg&#xE1;ndosela a do&#xF1;a Ruth Elizabeth Cespe Palma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

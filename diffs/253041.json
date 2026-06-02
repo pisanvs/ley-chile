@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-03-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6582093,
+          "old": "<div><div class=\"p\">ESTABLECE ORDEN DE SUBROGANCIA DEL DIRECTOR NACIONAL DEL SERVICIO NACIONAL DE CAPACITACION Y EMPLEO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 216.- Santiago, 12 de julio de 2006.- Visto: Lo dispuesto en los art&#xED;culos 7&#xBA; letra c) y 81&#xBA; letra a) del decreto con fuerza de ley N&#xBA; 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley N&#xBA;18.834; art&#xED;culo 87 de la ley N&#xBA; 19.518, sobre Estatuto de Capacitaci&#xF3;n y Empleo y el decreto supremo N&#xBA; 19, de 22 de enero de 2001, del Ministerio Secretar&#xED;a General de la Presidencia,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE ORDEN DE SUBROGANCIA DEL DIRECTOR NACIONAL DEL SERVICIO NACIONAL DE CAPACITACION Y EMPLEO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 216.- Santiago, 12 de julio de 2006.- Visto: Lo dispuesto en los art&#xED;culos 7&#xBA; letra c) y 81&#xBA; letra a) del decreto con fuerza de ley N&#xBA; 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley N&#xBA;18.834; art&#xED;culo 87 de la ley N&#xBA; 19.518, sobre Estatuto de Capacitaci&#xF3;n y Empleo y el decreto supremo N&#xBA; 19, de 22 de enero de 2001, del Ministerio Secretar&#xED;a General de la Presidencia,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

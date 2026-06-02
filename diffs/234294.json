@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-01-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-11-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6511641,
+          "old": "<div><div class=\"p\">REINCORPORA EL SERVICIO POSTAL DE PEQUE&#xD1;O PAQUETE INTERNACIONAL Y FIJA TARIFAS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 113 exenta.- Santiago, 27 de diciembre de 2004.</div><div class=\"p\">&nbsp; &nbsp;  Vistos: El D.F.L. N&#xBA;10, de 1981 y el art&#xED;culo 5&#xBA; del decreto N&#xBA;615, de 2001, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; el decreto N&#xBA;2062, de 1997, del Ministerio de Relaciones Exteriores; la necesidad de reincorporar el peque&#xF1;o paquete internacional en las condiciones que se indican, para poder satisfacer los requerimientos del mercado; el acuerdo N&#xBA;185/2004, del Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n D&#xE9;cimo S&#xE9;ptima Ordinaria, de 25 de noviembre de 2004; y en uso de las facultades que me confieren la resoluci&#xF3;n exenta N&#xBA;1, de 2002 y la resoluci&#xF3;n exenta N&#xBA;20, de 2001, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n </div></div>",
+          "new": "<div><div class=\"p\">REINCORPORA EL SERVICIO POSTAL DE PEQUE&#xD1;O PAQUETE INTERNACIONAL Y FIJA TARIFAS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 113 exenta.- Santiago, 27 de diciembre de 2004.</div><div class=\"p\">&nbsp; &nbsp;  Vistos: El D.F.L. N&#xBA;10, de 1981 y el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>art&#xED;culo 5&#xBA; del decreto N&#xBA;615, de 2001, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; el decreto N&#xBA;2062, de 1997, del Ministerio de Relaciones Exteriores; la necesidad de reincorporar el peque&#xF1;o paquete internacional en las condiciones que se indican, para poder satisfacer los requerimientos del mercado; el acuerdo N&#xBA;185/2004, del Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n D&#xE9;cimo S&#xE9;ptima Ordinaria, de 25 de noviembre de 2004; y en uso de las facultades que me confieren la resoluci&#xF3;n exenta N&#xBA;1, de 2002 y la resoluci&#xF3;n exenta N&#xBA;20, de 2001, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n </div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral II de la Resoluci&#xF3;n 81 Exenta, Empresa de Correos de Chile, publicada el 07.11.2016, deroga en lo pertinente la presente resoluci&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

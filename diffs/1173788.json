@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-03-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-07-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10318361,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: F&#xED;jese el arancel para la prueba de admisi&#xF3;n universitaria para el proceso de admisi&#xF3;n 2023, de acuerdo a la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/145947.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Lo anterior, sin perjuicio de las causales de eximici&#xF3;n establecidas en la <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=1169723\">ley N&#xB0; 21.395</a> de presupuestos del sector p&#xFA;blico correspondiente al a&#xF1;o 2022, en su Partida 09, Cap&#xED;tulo 90, Programa 01, Subt&#xED;tulo 24, &#xCD;tem 03, Asignaci&#xF3;n 007, Glosa 06.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: F&#xED;jese el arancel para la prueba de admisi&#xF3;n universitaria para el proceso de admisi&#xF3;n 2023, de acuerdo a la siguiente tabla:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/145947.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Lo anterior, sin perjuicio de las causales de eximici&#xF3;n establecidas en la ley N&#xB0; 21.395 de presupuestos del sector p&#xFA;blico correspondiente al a&#xF1;o 2022, en su Partida 09, Cap&#xED;tulo 90, Programa 01, Subt&#xED;tulo 24, &#xCD;tem 03, Asignaci&#xF3;n 007, Glosa 06.</div><div class=\"p\">&nbsp; &nbsp;  Para <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1178213&amp;idParte=10346344&amp;idVersion=2022-07-05\">Resoluci&#xF3;n 2908 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 05.07.2022</a></span>la aplicaci&#xF3;n regular de la prueba de admisi&#xF3;n universitaria, en el caso que el o la postulante inscriba conjuntamente la Prueba de Competencia Matem&#xE1;tica 1 y la Prueba de Competencia Matem&#xE1;tica 2, el arancel de inscripci&#xF3;n de esta &#xFA;ltima prueba ser&#xE1; gratuito.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1178213,
+      "fecha": "2022-07-05"
+    }
+  }
+]

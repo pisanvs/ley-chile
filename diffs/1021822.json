@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-01-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-04-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9094282,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- El presente decreto entrar&#xE1; en vigencia veinticuatro meses despu&#xE9;s de su publicaci&#xF3;n en el Diario Oficial.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xBA;. El presente decreto entrar&#xE1; en<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1050239&amp;idParte=9344755&amp;idVersion=2013-04-19\">Decreto 66, SALUD<br>D.O. 19.04.2013</a></span> vigencia el 18 de octubre de 2013.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1050239,
+      "fecha": "2013-04-19"
+    }
+  }
+]

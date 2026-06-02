@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-02-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-02-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6413898,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n N&#xBA; 261, de 28 de enero de 2003, de esta Subsecretar&#xED;a, autor&#xED;zase a CORPESCA S.A. para realizar actividades extractivas en aguas internacionales con la nave &quot;Guanaye&quot;, cuyas caracter&#xED;sticas n&#xE1;uticas son las siguientes:</div><br><div class=\"p\">Matr&#xED;cula&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2363</div><div class=\"p\">Se&#xF1;al distintiva&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  CB-2762</div><div class=\"p\">Eslora arqueo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 24,21 m</div><div class=\"p\">T.R.G. (Internacional)&nbsp; &nbsp; &nbsp;  249,75</div><div class=\"p\">Capacidad de bodega&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 382,00 m3.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n N&#xBA; 261, de 28 de enero de 2003, de esta Subsecretar&#xED;a, autor&#xED;zase a CORPESCA S.A. para realizar actividades extractivas en aguas internacionales con la nave &quot;Guanaye&quot;, cuyas caracter&#xED;sticas n&#xE1;uticas son las siguientes:</div><br><div class=\"p\">Matr&#xED;cula&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2363</div><div class=\"p\">Se&#xF1;al distintiva&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  CB-2762</div><div class=\"p\">Eslora arqueo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 34,21 m<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 13.02.2003</span></div><div class=\"p\">T.R.G. (Internacional)&nbsp; &nbsp; &nbsp;  249,75</div><div class=\"p\">Capacidad de bodega&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 382,00 m3.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

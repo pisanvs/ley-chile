@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "2002-11-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-09-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6402025,
+          "old": "<div><div class=\"p\">DECLARA CAMINO PUBLICO EN LA PROVINCIA DE VALDIVIA, DECIMA REGION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.756.- Santiago, 21 de octubre de 2002.- Vistos.- Lo dispuesto en el art&#xED;culo 24&#xBA; del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto refundido, coordinado y sistematizado de la ley N&#xBA; 15.840 y del DFL N&#xBA; 206 de 1960; el n&#xFA;mero 1 del punto IV del decreto supremo N&#xBA; 19 Minsegpres del 22 de enero de 2001; lo establecido en la resoluci&#xF3;n de la Contralor&#xED;a General de la Rep&#xFA;blica N&#xBA; 520, de 1996.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, es necesario definir cu&#xE1;les ser&#xE1;n las calles o avenidas que ser&#xE1;n administradas por la Direcci&#xF3;n de Vialidad del Ministerio de Obras P&#xFA;blicas.</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el art&#xED;culo 24&#xBA; del DFL N&#xBA; 850 MOP de 1997, que fija el texto refundido, coordinado y sistematizado de la ley 15.840 y del DFL MOP N&#xBA; 206 de 1960 permite declarar caminos p&#xFA;blicos a las calles o avenidas que unan caminos p&#xFA;blicos.</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el n&#xFA;mero 1 del punto IV del decreto supremo N&#xBA; 19 del Ministerio Secretar&#xED;a General de la Presidencia de fecha 22 de enero de 2001 faculta al Ministro de Obras P&#xFA;blicas para firmar por orden del Presidente de la Rep&#xFA;blica esta declara-toria, </div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">DECLARA CAMINO PUBLICO EN LA PROVINCIA DE VALDIVIA, DECIMA REGION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.756.- Santiago, 21 de octubre de 2002.- Vistos.- Lo dispuesto en el art&#xED;culo 24&#xBA; del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto refundido, coordinado y sistematizado de la ley N&#xBA; 15.840 y del DFL N&#xBA; 206 de 1960; el n&#xFA;mero 1 del punto IV del decreto supremo N&#xBA; 19 Minsegpres del 22 de enero de 2001; lo establecido en la resoluci&#xF3;n de la Contralor&#xED;a General de la Rep&#xFA;blica N&#xBA; 520, de 1996.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, es necesario definir cu&#xE1;les ser&#xE1;n las calles o avenidas que ser&#xE1;n administradas por la Direcci&#xF3;n de Vialidad del Ministerio de Obras P&#xFA;blicas.</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el art&#xED;culo 24&#xBA; del DFL N&#xBA; 850 MOP de 1997, que fija el texto refundido, coordinado y sistematizado de la ley 15.840 y del DFL MOP N&#xBA; 206 de 1960 permite declarar caminos p&#xFA;blicos a las calles o avenidas que unan caminos p&#xFA;blicos.</div><br><div class=\"p\">&nbsp; &nbsp;  Que, el n&#xFA;mero 1 del punto IV del decreto supremo N&#xBA; 19 del Ministerio Secretar&#xED;a General de la Presidencia de fecha 22 de enero de 2001 faculta al Ministro de Obras P&#xFA;blicas para firmar por orden del Presidente de la Rep&#xFA;blica esta declara-toria, </div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>"
+        },
+        {
+          "part_id": 6402026,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Decl&#xE1;rase Camino P&#xFA;blico en el &#xE1;rea urbana y suburbana establecida en el Plan Intercomunal de Valdivia y su Ordenanza, la v&#xED;a que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp; &nbsp;  - Los tramos urbanos y suburbanos de la Ruta T-350, Valdivia - Niebla, comprendidos entre el kil&#xF3;metro 10,00 al kil&#xF3;metro 13,00.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Decl&#xE1;rase Camino P&#xFA;blico en el &#xE1;rea urbana<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> y suburbana establecida en el Plan Intercomunal de Valdivia y su Ordenanza, la v&#xED;a que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp; &nbsp;  - Los tramos urbanos y suburbanos de la Ruta T-350, Valdivia - Niebla, comprendidos entre el kil&#xF3;metro 10,00 al kil&#xF3;metro 13,00.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 679, Obras P&#xFA;blicas, publicado el 08.09.2004, modifica la presente norma, en el sentido de declarar como camino p&#xFA;blico en la comuna de Valdivia, X Regi&#xF3;n de Los Lagos, a la siguiente calle o avenida:<br>&nbsp; &nbsp;  Camino Valdivia-Niebla, Rol T-350, desde su inicio en el Km. 0,0 Avda. Los Lingues con intersecci&#xF3;n calle Los Pel&#xFA;es, hasta su t&#xE9;rmino en el Km. 14,9 bifurcaci&#xF3;n Niebla y Los Molinos.<br>&nbsp; &nbsp; Del mismo modo, declara como camino p&#xFA;blico en la comuna de Valdivia, X Regi&#xF3;n de Los Lagos, la v&#xED;a que a continuaci&#xF3;n se se&#xF1;ala:<br>&nbsp; &nbsp;  Camino Niebla-Curi&#xF1;anco, Rol T-352, desde su inicio en el Km. 0,0 bifurcaci&#xF3;n Niebla y Los Molinos hasta el Km. 9,1 Punta Loncoy&#xE9;n.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2010-12-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

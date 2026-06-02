@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1964-10-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7176205,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NORMAS EN RELACION CON PESTICIDAS Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; PROYECTO DE LEY:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; ESTABLECE NORMAS EN RELACION CON PESTICIDAS<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp;  PROYECTO DE LEY:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 48 del DL 3557, publicado el 09.02.1981, derog&#xF3; la presente norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

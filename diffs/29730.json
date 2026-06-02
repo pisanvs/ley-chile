@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1984-05-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1991-02-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9075613,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA LEY N&#xB0; 16.643, SOBRE ABUSOS DE PUBLICIDAD</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  MODIFICA LEY N&#xB0; 16.643, SOBRE ABUSOS DE PUBLICIDAD</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D E R O G A D A.-<span class=\"n\" id=\"n_0\">LEY 19048<br>Art. 1&#xB0;</span></div><div class=\"p\">&nbsp; &nbsp;  La Junta de Gobierno de la Rep&#xFA;blica de Chile ha</div><div class=\"p\">dado su aprobaci&#xF3;n al siguiente<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div></div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 2</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 1&#xB0; de la Ley N&#xB0; 19.048, publicada en el &quot;Diario Oficial&quot; de 13 de febrero de 1991, derog&#xF3; la presente ley.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El texto de esta ley derogada se encuentra en una cinta de normas derogadas BDTO.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

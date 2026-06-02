@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-09-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-12-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8776064,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por Decreto MOP Exento N&#xBA;1124 de 31 de julio de 2009, se expropiaron los lotes de terrenos N&#xBA;s. 15 y 16, superficies 139 y 186 m2, rol de Aval&#xFA;o 923-6, comuna de Alto del Carmen, para la obra &quot;MEJORAMIENTO CAMINOS DE ACCESO AL PROYECTO MINERO PASCUA - LAMA, RUTAS C-485 Y C-489, SENDERO PEATONAL , ETAPA II&quot;, III Regi&#xF3;n y se acord&#xF3; el valor de la indemnizaci&#xF3;n con su propietario GREGORIO DEL CARMEN VEGA RIVERA, ascendente a la cantidad de $1.523.039.- </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por Decreto MOP Exento N&#xBA;1124 de 31 de julio de 2009, se expropiaron los lotes de terrenos N&#xBA;s. 15 y 16, superficies 139 y 186 m2, rol de Aval&#xFA;o 923-6, comuna de Alto del Carmen, para la obra &quot;MEJORAMIENTO CAMINOS DE ACCESO AL PROYECTO MINERO PASCUA - LAMA, RUTAS C-485 Y C-489, SENDERO PEATONAL , ETAPA II&quot;, III Regi&#xF3;n y se acord&#xF3; el valor de la indemnizaci&#xF3;n con su propietario J<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1008579&amp;idParte=8811257&amp;idVersion=2009-12-01\">Aviso S/N,<br>OBRAS PUBLICAS<br>D.O. 01.12.2009</a></span>UAN ZOROBABEL REYNUABA GODOY, ascendente a la cantidad de $1.523.039.- </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1008579,
+      "fecha": "2009-12-01"
+    }
+  }
+]

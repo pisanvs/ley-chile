@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-07-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-10-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8835922,
+          "old": "<div><div class=\"p\">FIJA ORDENANZA SOBRE IMPLANTACION DE USOS NO PREFERENCIALES EN DIVERSOS SECTORES DE LA COMUNA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 13.- Providencia, 31 de Diciembre de 1985.- Vistos: El Plan Regulador Comunal de Providencia contenido en el Decreto Supremo No. 424 de 1975 del Ministerio de la Vivienda y Urbanismo; el Art. 16 de la Ordenanza General de Construcciones y Urbanizaci&#xF3;n; la Ley General de Urbanismo y Construcciones; y, teniendo presente las facultades que me otorgan los art&#xED;culos 12 y 13 del Decreto Ley No. 1.289 de 1976, Org&#xE1;nica de Municipios y Administraci&#xF3;n Comunal, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que es necesario reglamentar la aplicaci&#xF3;n de las normas sobre implantaci&#xF3;n de usos no preferenciales en los diversos sectores de la Comuna, seg&#xFA;n establece el Plan Regulador Comunal, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Ordenanza:</div><br><div class=\"p\">&nbsp; &nbsp;  F&#xED;jase la siguiente Ordenanza sobre Implantaci&#xF3;n de usos no Preferenciales, en diversos sectores de la Comuna, seg&#xFA;n establece el Plan Regulador:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA ORDENANZA SOBRE IMPLANTACION DE USOS NO PREFERENCIALES EN DIVERSOS SECTORES DE LA COMUNA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 13.- Providencia, 31 de Diciembre de 1985.- Vistos: El Plan Regulador Comunal de Providencia contenido en el Decreto Supremo No. 424 de 1975 del Ministerio de la Vivienda y Urbanismo; el Art. 16 de la Ordenanza General de Construcciones y Urbanizaci&#xF3;n; la Ley General de Urbanismo y Construcciones; y, teniendo presente las facultades que me otorgan los art&#xED;culos 12 y 13 del Decreto Ley No. 1.289 de 1976, Org&#xE1;nica de Municipios y Administraci&#xF3;n Comunal, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que es necesario reglamentar la aplicaci&#xF3;n de las normas sobre implantaci&#xF3;n de usos no preferenciales en los diversos sectores de la Comuna, seg&#xFA;n establece el Plan Regulador Comunal, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Ordenanza:</div><br><div class=\"p\">&nbsp; &nbsp;  F&#xED;jase la siguiente Ordenanza sobre Implantaci&#xF3;n de usos no Preferenciales, en diversos sectores de la Comuna, seg&#xFA;n establece el Plan Regulador:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

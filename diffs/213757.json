@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2003-08-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-03-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6436016,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese la siguiente &#xE1;rea de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos, en el Sector de la V Regi&#xF3;n denominado Punta Pite, en un &#xE1;rea inscrita en la figura irregular, entre la l&#xED;nea de m&#xE1;s baja marea y los v&#xE9;rtices cuyas coordenadas son las siguientes:</div><br><div class=\"p\"> (CARTA SHOA N&#xBA; 4313; ESC. 1:40.000; 5&#xAA; ED. 1956)</div><br><div class=\"p\">&nbsp; V&#xE9;rtices&nbsp; &nbsp;  Latitud&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Longitud</div><br><div class=\"p\">&nbsp; &nbsp;  A&nbsp; &nbsp;  32&#xB0; 30&apos; 41,18&quot;&nbsp; &nbsp;  071&#xB0; 27&apos; 44,50&quot;</div><div class=\"p\">&nbsp; &nbsp;  B&nbsp; &nbsp;  32&#xB0; 30&apos; 37,62&quot;&nbsp; &nbsp;  071&#xB0; 27&apos; 57,67&quot;</div><div class=\"p\">&nbsp; &nbsp;  C&nbsp; &nbsp;  32&#xB0; 31&apos; 24,78&quot;&nbsp; &nbsp;  071&#xB0; 28&apos; 21,53&quot;</div><div class=\"p\">&nbsp; &nbsp;  D&nbsp; &nbsp;  32&#xB0; 32&apos; 00,97&quot;&nbsp; &nbsp;  071&#xB0; 28&apos; 28,07&quot;</div><div class=\"p\">&nbsp; &nbsp;  E&nbsp; &nbsp;  32&#xB0; 32&apos; 55,43&quot;&nbsp; &nbsp;  071&#xB0; 28&apos; 09,23&quot;</div><div class=\"p\">&nbsp; &nbsp;  F&nbsp; &nbsp;  32&#xB0; 32&apos; 55,43&quot;&nbsp; &nbsp;  071&#xB0; 27&apos; 54,94&quot;</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese la siguiente &#xE1;rea de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos, en el Sector de la V Regi&#xF3;n denominado Punta Pite, en un &#xE1;rea inscrita en la figura irregular, entre la l&#xED;nea de m&#xE1;s baja marea y los v&#xE9;rtices cuyas coordenadas son las siguientes:</div><div class=\"p\">(CARTA IGM N&#xBA; 3215-7115 Y 3230-7115, 1&#xAA; ED. 1995, ESC.<span class=\"n\" id=\"n_0\">DTO 489 EXENTO,<br>ECONOMIA<br>Art. 2&#xBA;<br>D.O. 29.03.2006</span></div><div class=\"p\">1:50.000)</div><div class=\"p\"> Puntos&nbsp;  Latitud&nbsp; &nbsp; &nbsp; &nbsp; Longitud</div><div class=\"p\">&nbsp;  A&nbsp;  32&#xB0; 29&apos; 43,42&quot;&nbsp;  071&#xB0; 27&apos; 49,06&quot;</div><div class=\"p\">&nbsp;  B&nbsp;  32&#xB0; 29&apos; 40,28&quot;&nbsp;  071&#xB0; 28&apos; 04,31&quot;</div><div class=\"p\">&nbsp;  C&nbsp;  32&#xB0; 30&apos; 14,91&quot;&nbsp;  071&#xB0; 28&apos; 29,23&quot;</div><div class=\"p\">&nbsp;  D&nbsp;  32&#xB0; 31&apos; 08,43&quot;&nbsp;  071&#xB0; 28&apos; 43,84&quot;</div><div class=\"p\">&nbsp;  E&nbsp;  32&#xB0; 31&apos; 08,43&quot;&nbsp;  071&#xB0; 28&apos; 26,74&quot;</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-08-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6436016,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese la siguiente &#xE1;rea de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos, en el Sector de la V Regi&#xF3;n denominado Punta Pite, en un &#xE1;rea inscrita en la figura irregular, entre la l&#xED;nea de m&#xE1;s baja marea y los v&#xE9;rtices cuyas coordenadas son las siguientes:</div><div class=\"p\">(CARTA IGM N&#xBA; 3215-7115 Y 3230-7115, 1&#xAA; ED. 1995, ESC.<span class=\"n\" id=\"n_0\">DTO 489 EXENTO,<br>ECONOMIA<br>Art. 2&#xBA;<br>D.O. 29.03.2006</span></div><div class=\"p\">1:50.000)</div><div class=\"p\"> Puntos&nbsp;  Latitud&nbsp; &nbsp; &nbsp; &nbsp; Longitud</div><div class=\"p\">&nbsp;  A&nbsp;  32&#xB0; 29&apos; 43,42&quot;&nbsp;  071&#xB0; 27&apos; 49,06&quot;</div><div class=\"p\">&nbsp;  B&nbsp;  32&#xB0; 29&apos; 40,28&quot;&nbsp;  071&#xB0; 28&apos; 04,31&quot;</div><div class=\"p\">&nbsp;  C&nbsp;  32&#xB0; 30&apos; 14,91&quot;&nbsp;  071&#xB0; 28&apos; 29,23&quot;</div><div class=\"p\">&nbsp;  D&nbsp;  32&#xB0; 31&apos; 08,43&quot;&nbsp;  071&#xB0; 28&apos; 43,84&quot;</div><div class=\"p\">&nbsp;  E&nbsp;  32&#xB0; 31&apos; 08,43&quot;&nbsp;  071&#xB0; 28&apos; 26,74&quot;</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese la siguiente &#xE1;rea de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos, en el Sector de la V Regi&#xF3;n denominado Punta Pite, en un &#xE1;rea inscrita en la figura irregular, entre la l&#xED;nea de m&#xE1;s baja marea y los v&#xE9;rtices cuyas coordenadas son las siguientes: <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div></div><div class=\"p\">(CARTA IGM N&#xBA; 3215-7115 Y 3230-7115, 1&#xAA; ED. 1995, ESC.<span class=\"n\" id=\"n_0\">DTO 489 EXENTO,<br>ECONOMIA<br>Art. 2&#xBA;<br>D.O. 29.03.2006</span></div><div class=\"p\">1:50.000)</div><div class=\"p\"> Puntos&nbsp;  Latitud&nbsp; &nbsp; &nbsp; &nbsp; Longitud</div><div class=\"p\">&nbsp;  A&nbsp;  32&#xB0; 29&apos; 43,42&quot;&nbsp;  071&#xB0; 27&apos; 49,06&quot;</div><div class=\"p\">&nbsp;  B&nbsp;  32&#xB0; 29&apos; 40,28&quot;&nbsp;  071&#xB0; 28&apos; 04,31&quot;</div><div class=\"p\">&nbsp;  C&nbsp;  32&#xB0; 30&apos; 14,91&quot;&nbsp;  071&#xB0; 28&apos; 29,23&quot;</div><div class=\"p\">&nbsp;  D&nbsp;  32&#xB0; 31&apos; 08,43&quot;&nbsp;  071&#xB0; 28&apos; 43,84&quot;</div><div class=\"p\">&nbsp;  E&nbsp;  32&#xB0; 31&apos; 08,43&quot;&nbsp;  071&#xB0; 28&apos; 26,74&quot;</div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 408 Exento, Econom&#xED;a, publicado el 02.08.2014, modifica la presente norma en el sentido de regularizar su cartograf&#xED;a de acuerdo a lo indicado en la propia norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

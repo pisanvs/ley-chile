@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-03-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-01-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8359778,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &apos;&apos;Art&#xED;culo &#xFA;nico.- Trasl&#xE1;danse los feriados correspondientes al 29 de junio, d&#xED;a de San Pedro y San Pablo; 12 de octubre, d&#xED;a del descubrimiento de dos mundos; y el d&#xED;a de la fiesta Corpus Christi, a los d&#xED;as lunes de la semana en que ocurren, en caso de corresponder a d&#xED;a martes, mi&#xE9;rcoles o jueves, o los d&#xED;as lunes de la semana siguiente, en caso de corresponder a d&#xED;a viernes.&apos;&apos;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo &#xFA;nico.- Trasl&#xE1;danse los feriados correspondientes al 29 de junio, d&#xED;a de San Pedro y San Pablo; 12 de octubre, d&#xED;a del descubrimiento de dos mundos; a los d&#xED;as lunes de la semana en que ocurren,<span class=\"n\" id=\"n_0\">LEY 20148<br>Art. 2<br>D.O. 06.01.2007</span> en caso de corresponder a d&#xED;a martes, mi&#xE9;rcoles o jueves, o los d&#xED;as lunes de la semana siguiente, en caso de corresponder a d&#xED;a viernes.&quot;.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2004-02-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-10-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7308821,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- El horario de atenci&#xF3;n de p&#xFA;blico, ser&#xE1; de lunes a viernes de 8:30 a 18:30 horas continuado.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1018281&amp;idParte=9019135&amp;idVersion=2010-10-18\">Ordenanza 95,<br>M. DE PROVIDENCIA<br>N&#xBA; 1<br>D.O. 18.10.2010</a></span>&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: El horario de atenci&#xF3;n de p&#xFA;blico ser&#xE1; de lunes a viernes de 8:30 a 18:30 horas continuado, para consultas y visitas, y el ingreso y retiro de veh&#xED;culos se realizar&#xE1; solo los d&#xED;as martes y jueves de 9:00 a 13:00 horas.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1018281,
+      "fecha": "2010-10-18"
+    }
+  }
+]

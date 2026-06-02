@@ -1,0 +1,55 @@
+[
+  {
+    "fecha": "1994-11-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-02-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2002-05-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7191165,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- La direcci&#xF3;n superior y administraci&#xF3;n de la Academia estar&#xE1; a cargo de un Consejo Directivo, integrado por nueve personas, las que deber&#xE1;n reunir las calidades que se indican a continuaci&#xF3;n y que ser&#xE1;n designadas de la siguiente forma:</div><div class=\"p\">&nbsp; &nbsp; a) El Presidente de la Corte Suprema, o quien lo subrogue, el que presidir&#xE1; el Consejo por derecho propio;</div><div class=\"p\">&nbsp; &nbsp; b) El Ministro de Justicia, quien podr&#xE1; hacerse representar por el Subsecretario de la cartera;</div><div class=\"p\">&nbsp; &nbsp; c) Un Ministro de la Corte Suprema, elegido por &#xE9;sta en una &#xFA;nica votaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; d) El Fiscal de la Corte Suprema;</div><div class=\"p\">&nbsp; &nbsp; e) Un Ministro de Corte de Apelaciones elegido, en una &#xFA;nica votaci&#xF3;n, por los funcionarios de la segunda categor&#xED;a del Escalaf&#xF3;n Primario. La elecci&#xF3;n se har&#xE1; un mismo d&#xED;a y hora en la sede de cada Corte de Apelaciones, en la forma que determine el Reglamento;</div><div class=\"p\">&nbsp; &nbsp; f) Un miembro de la segunda categor&#xED;a del Escalaf&#xF3;n Primario del Poder Judicial, elegido por la directiva de la asociaci&#xF3;n gremial de car&#xE1;cter nacional que re&#xFA;na al mayor n&#xFA;mero de integrantes de dicho Escalaf&#xF3;n Primario;</div><div class=\"p\">&nbsp; &nbsp; g) Un representante de las asociaciones gremiales de abogados existentes en el pa&#xED;s elegido por sus Presidentes, de entre ellos, y</div><div class=\"p\">&nbsp; &nbsp; h) Dos acad&#xE9;micos con m&#xE1;s de cinco a&#xF1;os de docencia universitaria, designados por el Presidente de la Rep&#xFA;blica, con acuerdo del Senado.</div><div class=\"p\">&nbsp; &nbsp; Los miembros indicados en las letra c), e) y f) durar&#xE1;n cuatro a&#xF1;os en sus cargos, mientras mantengan su calidad de funcionarios del Poder Judicial. Los integrantes se&#xF1;alados en la letra h) durar&#xE1;n en sus cargos igual per&#xED;odo. Todos los miembros precedentemente indicados podr&#xE1;n ser reelegidos. Los restantes permanecer&#xE1;n en funciones mientras desempe&#xF1;en el cargo en virtud del cual integran el Consejo.</div><div class=\"p\">&nbsp; &nbsp; El Consejo sesionar&#xE1; con la mayor&#xED;a absoluta de sus miembros en ejercicio y adoptar&#xE1; sus acuerdos por simple mayor&#xED;a de presentes, sin perjuicio de las excepciones previstas en esta ley.</div><div class=\"p\">&nbsp; &nbsp; Se desempe&#xF1;ar&#xE1; como Secretario del Consejo el Director de la Academia, con derecho a voz y no a voto. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- La direcci&#xF3;n superior y administraci&#xF3;n de la Academia estar&#xE1; a cargo de un Consejo Directivo, integrado por nueve personas, las que deber&#xE1;n reunir las calidades que se indican a continuaci&#xF3;n y que ser&#xE1;n designadas de la siguiente forma:</div><div class=\"p\">&nbsp; &nbsp; a) El Presidente de la Corte Suprema, o quien lo subrogue, el que presidir&#xE1; el Consejo por derecho propio;</div><div class=\"p\">&nbsp; &nbsp; b) El Ministro de Justicia, quien podr&#xE1; hacerse representar por el Subsecretario de la cartera;</div><div class=\"p\">&nbsp; &nbsp; c) Un Ministro de la Corte Suprema, elegido por &#xE9;sta en una &#xFA;nica votaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp; d) El Fiscal Judicial de la Corte Suprema;<span class=\"n\" id=\"n_0\">LEY 19806<br>Art. 39<br>D.O. 31.05.2002</span></div><br><div class=\"p\">&nbsp; &nbsp; e) Un Ministro de Corte de Apelaciones elegido, e<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div>n una &#xFA;nica votaci&#xF3;n, por los funcionarios de la segunda categor&#xED;a del Escalaf&#xF3;n Primario. La elecci&#xF3;n se har&#xE1; un mismo d&#xED;a y hora en la sede de cada Corte de Apelaciones, en la forma que determine el Reglamento;</div><div class=\"p\">&nbsp; &nbsp; f) Un miembro de la segunda categor&#xED;a del Escalaf&#xF3;n Primario del Poder Judicial, elegido por la directiva de la asociaci&#xF3;n gremial de car&#xE1;cter nacional que re&#xFA;na al mayor n&#xFA;mero de integrantes de dicho Escalaf&#xF3;n Primario;</div><div class=\"p\">&nbsp; &nbsp; g) Un representante de las asociaciones gremiales de abogados existentes en el pa&#xED;s elegido por sus Presidentes, de entre ellos, y</div><div class=\"p\">&nbsp; &nbsp; h) Dos acad&#xE9;micos con m&#xE1;s de cinco a&#xF1;os de docencia universitaria, designados por el Presidente de la Rep&#xFA;blica, con acuerdo del Senado.</div><div class=\"p\">&nbsp; &nbsp; Los miembros indicados en las letra c), e) y f) durar&#xE1;n cuatro a&#xF1;os en sus cargos, mientras mantengan su calidad de funcionarios del Poder Judicial. Los integrantes se&#xF1;alados en la letra h) durar&#xE1;n en sus cargos igual per&#xED;odo. Todos los miembros precedentemente indicados podr&#xE1;n ser reelegidos. Los restantes permanecer&#xE1;n en funciones mientras desempe&#xF1;en el cargo en virtud del cual integran el Consejo.</div><div class=\"p\">&nbsp; &nbsp; El Consejo sesionar&#xE1; con la mayor&#xED;a absoluta de sus miembros en ejercicio y adoptar&#xE1; sus acuerdos por simple mayor&#xED;a de presentes, sin perjuicio de las excepciones previstas en esta ley.</div><div class=\"p\">&nbsp; &nbsp; Se desempe&#xF1;ar&#xE1; como Secretario del Consejo el Director de la Academia, con derecho a voz y no a voto.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  Ver el Decreto Supremo N&#xB0; 1.679, del Ministerio de Justicia, publicado en el &quot;Diario Oficial&quot; de 23 de Febrero de 1995, que reglamenta elecciones se&#xF1;aladas en la letra e) del presente art&#xED;culo.<br></div></div>"
+        },
+        {
+          "part_id": 7191176,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11.- La duraci&#xF3;n del programa de formaci&#xF3;n para postulantes al Escalaf&#xF3;n Primario del Poder Judicial ser&#xE1; la que determine el Consejo Directivo, no pudiendo ser inferior a seis meses ni superior a un a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; Las actividades del programa estar&#xE1;n constituidas, al menos en sus dos terceras partes, por pr&#xE1;cticas, seminarios y talleres tendientes a proporcionar las destrezas y criterios propios de la funci&#xF3;n judicial y del Ministerio P&#xFA;blico, las que deber&#xE1;n desarrollarse con una participaci&#xF3;n activa del postulante. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11.- La duraci&#xF3;n del programa de formaci&#xF3;n para postulantes al Escalaf&#xF3;n Primario del Poder Judicial ser&#xE1; la que determine el Consejo Directivo, no pudiendo ser inferior a seis meses ni superior a un a&#xF1;o. Las actividades del programa estar&#xE1;n constituidas, al menos en sus dos terceras partes, por pr&#xE1;cticas, seminarios y talleres tendientes a proporcionar las destrezas y criterios propios de la funci&#xF3;n judicial,<span class=\"n\" id=\"n_2\">LEY 19806<br>Art. 39<br>D.O. 31.05.2002</span> las que deber&#xE1;n desarrollarse con una participaci&#xF3;n activa del postulante. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10392899,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22.- <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1187224&amp;idParte=10392514&amp;idVersion=2022-12-31\">Ley 21523<br>Art. 5<br>D.O. 31.12.2022</a></span>La Academia Judicial, dentro de sus programas de formaci&#xF3;n y perfeccionamiento, considerar&#xE1; especialmente la capacitaci&#xF3;n en materias relacionadas con las perspectivas de g&#xE9;nero en el proceso penal, que eviten la revictimizaci&#xF3;n, los estereotipos y fomenten una protecci&#xF3;n especial de las v&#xED;ctimas de violencia de g&#xE9;nero.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1187224,
+      "fecha": "2022-12-31"
+    }
+  }
+]

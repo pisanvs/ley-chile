@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1996-08-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-10-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8953693,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Por Resoluci&#xF3;n N&#xB0; 1.255, de 5 de Julio de 1996, de esta Subsecretar&#xED;a de Pesca, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, d&#xE9;jase sin efecto el Numeral 2&#xB0; de la Resoluci&#xF3;n N&#xB0; 263 de 1996, que declar&#xF3; la caducidad parcial de la Resoluci&#xF3;n N&#xB0; 260, de 1983, ambas de esta Subsecretar&#xED;a, que autorizaba a INVERSIONES DELFINES SOCIEDAD ANONIMA CERRADA, para realizar actividades pesqueras extractivas con la nave &quot;Punta Arenas&quot;, en virtud de haberse acreditado la ocurrencia de una situaci&#xF3;n de fuerza mayor, respecto de la paralizaci&#xF3;n de actividades en el litoral de I y II Regi&#xF3;n. En consecuencia, la Resoluci&#xF3;n N&#xB0; 260 de 1983 contin&#xFA;a plenamente v&#xE1;lida en el litoral de la I a IV Regi&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Por Resoluci&#xF3;n N&#xB0; 1.255, de 5 de Julio de 1996, de esta Subsecretar&#xED;a de Pesca, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, d&#xE9;jase sin efecto el Numeral 2&#xB0; de la Resoluci&#xF3;n N&#xB0; 213 de 1996, que declar&#xF3; la<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 09.10.1996</span> caducidad parcial de la Resoluci&#xF3;n N&#xB0; 260, de 1983, ambas de esta Subsecretar&#xED;a, que autorizaba a INVERSIONES DELFINES SOCIEDAD ANONIMA CERRADA, para realizar actividades pesqueras extractivas con la nave &quot;Punta Arenas&quot;, en virtud de haberse acreditado la ocurrencia de una situaci&#xF3;n de fuerza mayor, respecto de la paralizaci&#xF3;n de actividades en el litoral de I y II Regi&#xF3;n. En consecuencia, la Resoluci&#xF3;n N&#xB0; 260 de 1983 contin&#xFA;a plenamente v&#xE1;lida en el litoral de la I a IV Regi&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1997-03-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2022-05-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-05-26",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10334197,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  S&#xE9;ptimo: La vigencia de las medidas extraordinarias establecidas en el presente acto administrativo se extender&#xE1; hasta el d&#xED;a 30 de septiembre de 2022.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Quinto<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1176538&amp;idParte=10336811&amp;idVersion=2022-05-26\">Resoluci&#xF3;n 1613 EXENTA,<br>SALUD<br>N&#xBA; 1<br>D.O. 26.05.2022</a></span>: La vigencia de las medidas extraordinarias establecidas en el presente acto administrativo se extender&#xE1; hasta el d&#xED;a 30 de septiembre de 2022.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1176538,
+      "fecha": "2022-05-26"
+    }
+  },
+  {
+    "fecha": "2022-09-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

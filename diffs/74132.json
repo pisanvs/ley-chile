@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-07-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-05-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6040943,
+          "old": "<div><div class=\"p\">FIJA VALOR DE VENTA DE GUIA QUE INDICA</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 910 exenta.- Santiago, 27 de junio de 1997.- Visto: El D.L. N&#xBA; 2.136 de 1978, en su texto fijado por el Art&#xED;culo 83 de la Ley N&#xBA; 18.768.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Los costos directos e indirectos involucrados en la confecci&#xF3;n y venta de la &quot;Gu&#xED;a de Seguridad para Trabajos en las V&#xED;as P&#xFA;blicas de las Ciudades&quot;,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA VALOR DE VENTA DE GUIA QUE INDICA</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 910 exenta.- Santiago, 27 de junio de 1997.- Visto: El D.L. N&#xBA; 2.136 de 1978, en su texto fijado por el Art&#xED;culo 83 de la Ley N&#xBA; 18.768.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Los costos directos e indirectos involucrados en la confecci&#xF3;n y venta de la &quot;Gu&#xED;a de Seguridad para Trabajos en las V&#xED;as P&#xFA;blicas de las Ciudades&quot;,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

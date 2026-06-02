@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-03-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-10-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6469746,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 26. Cuando la mensura haya sido objetada por el Servicio y &#xE9;sta sea nuevamente revisada e informada, la nota final de la operaci&#xF3;n de mensura (NM) ser&#xE1; recalculada de acuerdo a la siguiente expresi&#xF3;n:</div><br><div class=\"p\">NOTA: VER D.O. 19.03.2004, PAGINA 5</div><br><div class=\"p\">&nbsp; &nbsp; Si el n&#xFA;mero de revisiones de una mensura es mayor o igual a 6, entonces, la nota de la operaci&#xF3;n de mensura ser&#xE1; 0.</div><div class=\"p\">&nbsp; &nbsp;  Si durante el procedimiento de revisi&#xF3;n de mensura se produce un cambio de perito mensurador, se aplicar&#xE1; la f&#xF3;rmula de operaci&#xF3;n de mensura (NM) ya indicada, evaluando a cada uno de los peritos, en forma independiente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 26. Cuando la mensura haya sido objetada<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> por el Servicio y &#xE9;sta sea nuevamente revisada e informada, la nota final de la operaci&#xF3;n de mensura (NM) ser&#xE1; recalculada de acuerdo a la siguiente expresi&#xF3;n:</div><br><div class=\"p\">NOTA: VER D.O. 19.03.2004, PAGINA 5</div><br><div class=\"p\">&nbsp; &nbsp; Si el n&#xFA;mero de revisiones de una mensura es mayor o igual a 6, entonces, la nota de la operaci&#xF3;n de mensura ser&#xE1; 0.</div><div class=\"p\">&nbsp; &nbsp;  Si durante el procedimiento de revisi&#xF3;n de mensura se produce un cambio de perito mensurador, se aplicar&#xE1; la f&#xF3;rmula de operaci&#xF3;n de mensura (NM) ya indicada, evaluando a cada uno de los peritos, en forma independiente.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 986, Miner&#xED;a, publicada el 31.10.2006, en el sentido que la nota final de la operaci&#xF3;n de mensura (NM), ser&#xE1; calculada de acuerdo a la expresi&#xF3;n que indica la citada norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-03-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-03-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6417185,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 15 EXENTA, DE 10 DE MARZO DE 2003 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 15 EXENTA, DE 10 DE MARZO DE 2003</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

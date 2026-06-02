@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1995-06-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-01-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1996-01-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9039075,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Autor&#xED;zase la extracci&#xF3;n desde el territorio nacional en calidad de pr&#xE9;stamo, de la colecci&#xF3;n de piezas arqueol&#xF3;gicas que se indican a continuaci&#xF3;n, de propiedad del Museo Nacional de Historia Natural de Santiago, para su exhibici&#xF3;n en la Exposici&#xF3;n &quot;La Terra dei Moai: dalla Polinesia all&apos;Isola di Pasqua&quot;, a realizarse en el Palacio Real de Mil&#xE1;n durante los meses de Marzo a Junio de 1995, organizado por el Municipio de Mil&#xE1;n.</div><div class=\"p\"> _______________________________________________________</div><div class=\"p\"> | NOTA: VER DIARIO OFICIAL N&#xB0; 35.204 DEL DIA MIERCOLES|</div><div class=\"p\"> |&nbsp; &nbsp; &nbsp;  28 DE JUNIO DE 1995, PAGINA 2.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</div><div class=\"p\"> |_____________________________________________________|</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Autor&#xED;zase la extracci&#xF3;n desde el territorio nacional en calidad de pr&#xE9;stamo, de la colecci&#xF3;n de piezas arqueol&#xF3;gicas que se indican a continuaci&#xF3;n, de propiedad del Museo Nacional de Historia Natural de Santiago, para su exhibici&#xF3;n en la Exposici&#xF3;n &quot;La Terra dei Moai: dalla Polinesia all&apos;Isola di Pasqua&quot;, a realizarse en el Palacio Real de Mil&#xE1;n durante los meses de Marzo a Junio de 1995, organizado por el Municipio de Mil&#xE1;n.</div><div class=\"p\"> _______________________________________________________</div><div class=\"p\"> | NOTA: VER DIARIO OFICIAL N&#xB0; 35.204 DEL DIA MIERCOLES|</div><div class=\"p\"> |&nbsp; &nbsp; &nbsp;  28 DE JUNIO DE 1995, PAGINA 2.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</div><div class=\"p\"> |_____________________________________________________|</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1.-</a> <br>&nbsp;  El DS 895, de Educaci&#xF3;n de 1995, publicado en el Diario Oficial de 9 de enero de 1996, complement&#xF3; el presente decreto en el sentido de autorizar el traslado desde Mil&#xE1;n a Barcelona de la Colecci&#xF3;n de piezas arqueol&#xF3;gicas individualizadas en el presente texto legal, con el objeto de ser exhibidas en la Exposici&#xF3;n &quot;Los Moai de Isla de Pascua&quot;, que se realiza en Barcelona entre septiembre y diciembre de 1995, organizada por la Fundaci&#xF3;n &quot;La Caixa&quot;.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

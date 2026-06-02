@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-06-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-08-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8336599,
+          "old": "<div><div class=\"p\">Autoriza a Sociedad Maestranza Olvol Limitada para iniciar actividades pesqueras. Caduca resoluci&#xF3;n que indica.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD MAESTRANZA OLVOL LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. CADUCA RESOLUCI&#xD3;N QUE INDICA.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

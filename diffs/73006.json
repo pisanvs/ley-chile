@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1997-06-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-15",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8641561,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- Totalmente tramitada la resoluci&#xF3;n a que se refiere el art&#xED;culo anterior, la Comisi&#xF3;n emitir&#xE1; un certificado en que constar&#xE1; la adjudicaci&#xF3;n de la bonificaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  El certificado, que se denominar&#xE1; &quot;Certificado de Bonificaci&#xF3;n al Riego y Drenaje&quot;, deber&#xE1; contener las menciones que establezca la Comisi&#xF3;n y su entrega se efectuar&#xE1; en el lugar en que el respectivo interesado se haya presentado al concurso.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- Totalmente tramitada la resoluci&#xF3;n a que se refiere el art&#xED;culo anterior, la Comisi&#xF3;n emitir&#xE1; un certificado en que constar&#xE1; la adjudicaci&#xF3;n de la bonificaci&#xF3;n. El certificado, que se denominar&#xE1; &quot;Certificado de Bonificaci&#xF3;n al Riego y Drenaje&quot;, deber&#xE1; contener las menciones que establezca la Comisi&#xF3;n y su entrega se efectuar&#xE1; en el lugar en que el respectivo interesado se haya presentado al concurso. En el caso que el proyecto de riego o de drenaje<span class=\"n\" id=\"n_0\">DTO 541, AGRICULTURA<br>D.O. 15.05.2001</span> bonificado considere el costo de organizaci&#xF3;n de comunidades de agua o de obras de drenaje, la Comisi&#xF3;n podr&#xE1; emitir, a solicitud de la comunidad en proceso de constituci&#xF3;n interesada, un Certificado de Bonificaci&#xF3;n Anexo por el monto de la bonificaci&#xF3;n que corresponda al costo de organizaci&#xF3;n de la respectiva comunidad de aguas o de obras de drenaje. El cobro del Certificado de Bonificaci&#xF3;n Anexo proceder&#xE1; si la comunidad bonificada de que se trate hubiere concluido su proceso de constituci&#xF3;n legal dentro del plazo m&#xE1;ximo de tres a&#xF1;os, contado desde la fecha de emisi&#xF3;n de dicho Certificado, plazo que podr&#xE1; ser prorrogado, hasta por un a&#xF1;o adicional, por motivos fundados calificados por la Comisi&#xF3;n. Tampoco proceder&#xE1; el cobro de dicho Certificado si el proyecto de riego o de obras de drenaje bonificado al cual &#xE9;ste accede hubiere sido declarado abandonado. La comunidad de aguas o de obras de drenaje se entender&#xE1; legalmente constituida una vez que &#xE9;sta se haya registrado en la Direcci&#xF3;n General de Aguas. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2011-07-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

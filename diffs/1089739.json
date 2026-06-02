@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2016-04-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-07-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9700709,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- F&#xED;janse las siguientes plantas de personal del Servicio de Impuestos Internos, que se indican a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57386.jpg\">.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- F&#xED;janse <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>las siguientes plantas de personal del Servicio de Impuestos Internos, que se indican a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57386.jpg\">.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero, N&#xBA; 2 Y 3, del DFL 19, Hacienda, publicado el 09.07.2018, crea un cargo de Director Regional, grado 5&#xB0;, en la Planta de personal de Directivos de Exclusiva Confianza del Servicio de Impuestos Internos y crea seis cargos de Jefe de Departamento, grado 8&#xB0;, en la Planta de personal de Directivos de Carrera.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2025-08-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9700709,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- F&#xED;janse <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>las siguientes plantas de personal del Servicio de Impuestos Internos, que se indican a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57386.jpg\">.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero, N&#xBA; 2 Y 3, del DFL 19, Hacienda, publicado el 09.07.2018, crea un cargo de Director Regional, grado 5&#xB0;, en la Planta de personal de Directivos de Exclusiva Confianza del Servicio de Impuestos Internos y crea seis cargos de Jefe de Departamento, grado 8&#xB0;, en la Planta de personal de Directivos de Carrera.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- F&#xED;janse <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>las siguientes plantas de personal del Servicio de Impuestos Internos, que se indican a continuaci&#xF3;n:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57386.jpg\">.</div><br><br><br><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero, N&#xBA; 2 Y 3, del DFL 19, Hacienda, publicado el 09.07.2018, crea un cargo de Director Regional, grado 5&#xB0;, en la Planta de personal de Directivos de Exclusiva Confianza del Servicio de Impuestos Internos y crea seis cargos de Jefe de Departamento, grado 8&#xB0;, en la Planta de personal de Directivos de Carrera.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1 del Decreto con Fuerza de Ley 2, Hacienda, publicado el 05.08.2025, modifica la presente norma en el sentido de crear: 1 cargo de Jefe de Departamento grado 5, a contar de la publicaci&#xF3;n de la citada norma y 2 cargos grado 8 a contar del 01 de enero de 2027, todos en la Planta de Directivos de Carrera afectos al art&#xED;culo 8&#xBA; del estatuto administrativo, de acuerdo a lo dispuesto en su letra A). Asimismo, el literal B) dispone crear 27 cargos de profesionales grado 8, 26 grado 9 y 29 grado 10, a contar de la publicaci&#xF3;n de la citada norma. Adem&#xE1;s, ordena crear 14 cargos de profesionales grado 8, 18 grado 9, 24 grado 10, 60 grado 12 y 1 grado 14, a contar del 01 de enero de 2026. Tambi&#xE9;n, crea 37 cargos de profesionales grado 8, 34 grado 9, 32 grado 10, 89 grado 11, 67 grado 12 y 35 grado 13 a contar del 01 de enero de 2027. Por su parte, el literal C), ordena crear 5 cargos de fiscalizadores grado 9, 20 grado 11, 36 grado 12, 27 grado 13, 47 grado 14 y 36 grado 15, a contar de la publicaci&#xF3;n de la citada norma. Adem&#xE1;s, ordena crear 56 cargos grado 9 a contar del 01 de enero de 2026, todos ellos en la Planta de Fiscalizadores. Igualmente, dispone crear en la misma Planta de Fiscalizadores 94 cargos grado 9 y 20 grado 10 a contar del 01 de enero de 2027. Por su parte, el literal D) ordena crear 7 cargos t&#xE9;cnicos grado 14 a contar de la publicaci&#xF3;n del presente decreto, adem&#xE1;s, crea 13 cargos grado 15, 25 grado 16 y 1 grado 18,&nbsp; contar del 01 de enero de 2026. Adicionalmente, crea 8 cargos grado 18 a contar del 01 de enero de 2027, todos ellos en la Planta de T&#xE9;cnicos. El literal E), crea 13 cargos administartivos grado 16 y 27 grado 17 a contar de la publicaci&#xF3;n de la citada norma y 53 cargos grado 19 a contar del 01 de enero de 2027, todos en la planta de Adminsitrativos. Finalmente, el literal F), ordena crear 10 cargos de auxiliares grado 19, en la Planta de Auxiliares, a contar del 01 de enero de 2027.</div></div>"
+        }
+      ]
+    }
+  }
+]

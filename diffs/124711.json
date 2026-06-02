@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1998-09-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-05-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6131495,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Reempl&#xE1;zase el art&#xED;culo 4&#xBA; del decreto alcaldicio Secc. 1ra. N&#xBA; 1.809, de 1982, referido a la &apos;&apos;Ordenanza Local para el Otorgamiento de Patentes de Alcoholes&apos;&apos;, por el siguiente texto:</div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;:</div><div class=\"p\">&nbsp; &nbsp;  &apos;&apos;Las Patentes Municipales se otorgar&#xE1;n en forma concordante con el uso de suelo establecido en la Planificaci&#xF3;n Urbana para la comuna de Las Condes. Se consideran actividades de funcionamiento nocturno aquellas que por su naturaleza puedan funcionar m&#xE1;s all&#xE1; de las 23:00 hrs. tales como, Dep&#xF3;sito de Bebidas Alcoh&#xF3;licas, Restaurantes, Cabaret, Pe&#xF1;as Folkl&#xF3;ricas, Cantinas, Bares, Tabernas, Drive Inn, Clubes Nocturnos, Expendio de Cerveza, Quintas de Recreo.</div><div class=\"p\">&nbsp; &nbsp;  No se consideran actividades de funcionamiento nocturno a los Supermercados, los hoteles y Apart Hotel.&apos;&apos; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: Reempl&#xE1;zase el art&#xED;culo 4&#xBA; del decreto alcaldicio Secc. 1ra. N&#xBA; 1.809, de 1982, referido a la &apos;&apos;Ordenanza Local para el Otorgamiento de Patentes de Alcoholes&apos;&apos;, por el siguiente texto: Art&#xED;culo 4&#xBA;: &apos;&apos;Las Patentes Municipales se otorgar&#xE1;n en forma concordante con el uso de suelo establecido en la Planificaci&#xF3;n Urbana para la comuna de Las Condes. Se consideran actividades de funcionamiento nocturno aquellas que por su naturaleza puedan funcionar m&#xE1;s all&#xE1; de las 22:30 hrs. tales como, Dep&#xF3;sito de Bebidas<span class=\"n\" id=\"n_0\">DTO 1137,<br>M. DE LAS CONDES<br>Art. 1&#xBA;<br>D.O. 10.05.1999</span> Alcoh&#xF3;licas, Restaurantes, Cabaret, Pe&#xF1;as Folkl&#xF3;ricas, Cantinas, Bares, Tabernas, Drive Inn, Clubes Nocturnos, Expendio de Cerveza, Quintas de Recreo. No se consideran actividades de funcionamiento nocturno a los Supermercados, los hoteles y Apart Hotel.&apos;&apos; </div></div>"
+        },
+        {
+          "part_id": 6131497,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Red&#xE1;ctese texto refundido por la Direcci&#xF3;n Jur&#xED;dica de la Ordenanza que por este decreto se modifica. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: DEROGADO.<span class=\"n\" id=\"n_1\">DTO 1.137,<br>M. DE LAS CONDES<br>Art. 3&#xBA;<br>D.O. 10.05.1999</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

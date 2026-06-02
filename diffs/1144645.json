@@ -1,0 +1,55 @@
+[
+  {
+    "fecha": "2020-04-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-09-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10116748,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Decl&#xE1;rase como de desempe&#xF1;o de excelencia para los a&#xF1;os 2020 y 2021 y, en consecuencia, beneficiarios de la subvenci&#xF3;n establecida en el <a href=\"https://www.leychile.cl/Navegar?idNorma=30777&amp;idParte=9047353&amp;idVersion=\">art&#xED;culo 15</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=30777&amp;idParte=&amp;idVersion=\">ley N&#xBA; 19.410</a>, a los siguientes establecimientos educacionales subvencionados que se individualizan en el listado contenido en el archivo con firma electr&#xF3;nica avanzada del CD con caratulado &quot;Copia de Base seleccionados SNED 2020-2021&quot;, firmado por el Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General, que se acompa&#xF1;a en anexo y que forma parte integrante de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Decl&#xE1;rase como de desempe&#xF1;o de excelencia para los a&#xF1;os 2020 y 2021 y, en consecuencia, beneficiarios de la subvenci&#xF3;n establecida en el art&#xED;culo 15 de la ley N&#xBA; 19.410, a los siguientes establecimientos educacionales subvencionados que se individualizan<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1149791&amp;idParte=10161567&amp;idVersion=2020-09-24\">Resoluci&#xF3;n 3683 EXENTA, <br>EDUCACI&#xD3;N<br>Art. 1&#xB0; a)<br>D.O. 24.09.2020</a></span> en los listados contenidos en los archivos con firma electr&#xF3;nica avanzada del CD con caratulado &apos;Copia de Base seleccionados SNED 2020-2021&apos; y del CD caratulado &apos;EE REX 1era modificaci&#xF3;n SNED RL&apos;, ambos firmados por el Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General, que se acompa&#xF1;an en anexo y que forman parte integrante de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        },
+        {
+          "part_id": 10116753,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;. Por razones de econom&#xED;a, eficiencia y de buen servicio, el anexo que contiene la n&#xF3;mina de establecimientos educacionales subvencionados beneficiarios de la subvenci&#xF3;n por desempe&#xF1;o de excelencia ser&#xE1; distribuido en formato digital, por medio de una copia del CD a que refiere el art&#xED;culo 1&#xBA;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;. Por razones de econom&#xED;a, eficiencia y de buen servicio, el anexo que contiene la n&#xF3;mina de establecimientos educacionales subvencionados beneficiarios de la subvenci&#xF3;n por desempe&#xF1;o de excelencia ser&#xE1; distribuido en formato digital, por medio de una<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1149791&amp;idParte=10161567&amp;idVersion=2020-09-24\">Resoluci&#xF3;n 3683 EXENTA, <br>EDUCACI&#xD3;N<br>Art. 1&#xB0; b)<br>D.O. 24.09.2020</a></span> copia de los CD a los que se refiere el Art&#xED;culo 1&#xB0; del presente acto administrativo.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1149791,
+      "fecha": "2020-09-24"
+    }
+  },
+  {
+    "fecha": "2020-12-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10116748,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Decl&#xE1;rase como de desempe&#xF1;o de excelencia para los a&#xF1;os 2020 y 2021 y, en consecuencia, beneficiarios de la subvenci&#xF3;n establecida en el art&#xED;culo 15 de la ley N&#xBA; 19.410, a los siguientes establecimientos educacionales subvencionados que se individualizan<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1149791&amp;idParte=10161567&amp;idVersion=2020-09-24\">Resoluci&#xF3;n 3683 EXENTA, <br>EDUCACI&#xD3;N<br>Art. 1&#xB0; a)<br>D.O. 24.09.2020</a></span> en los listados contenidos en los archivos con firma electr&#xF3;nica avanzada del CD con caratulado &apos;Copia de Base seleccionados SNED 2020-2021&apos; y del CD caratulado &apos;EE REX 1era modificaci&#xF3;n SNED RL&apos;, ambos firmados por el Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General, que se acompa&#xF1;an en anexo y que forman parte integrante de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Decl&#xE1;rase como de desempe&#xF1;o de excelencia para los a&#xF1;os 2020 y 2021 y, en consecuencia, beneficiarios de la subvenci&#xF3;n establecida en el art&#xED;culo 15 de la ley N&#xBA; 19.410, a los siguientes establecimientos educacionales subvencionados que se individualizan<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1149791&amp;idParte=10161567&amp;idVersion=2020-09-24\">Resoluci&#xF3;n 3683 EXENTA, <br>EDUCACI&#xD3;N<br>Art. 1&#xB0; a)<br>D.O. 24.09.2020</a></span> en los listados contenidos en los archivos con firma electr&#xF3;nica avanzada del CD con caratulado &apos;Copia de Base seleccionados SNED 2020-2021&apos; y del CD caratulado &apos;EE REX 1era modificaci&#xF3;n SNED RL&apos;, ambos firmados por el Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General, que se acompa&#xF1;an en anexo y que forman parte integrante de la presente resoluci&#xF3;n, adem&#xE1;s <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1153868&amp;idParte=10187489&amp;idVersion=2020-12-23\">Resoluci&#xF3;n 5093 EXENTA, <br>EDUCACI&#xD3;N<br>Art. 1<br>D.O. 23.12.2020</a></span>de los siguientes establecimientos educacionales:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/116965.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br></div>"
+        },
+        {
+          "part_id": 10116753,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;. Por razones de econom&#xED;a, eficiencia y de buen servicio, el anexo que contiene la n&#xF3;mina de establecimientos educacionales subvencionados beneficiarios de la subvenci&#xF3;n por desempe&#xF1;o de excelencia ser&#xE1; distribuido en formato digital, por medio de una<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1149791&amp;idParte=10161567&amp;idVersion=2020-09-24\">Resoluci&#xF3;n 3683 EXENTA, <br>EDUCACI&#xD3;N<br>Art. 1&#xB0; b)<br>D.O. 24.09.2020</a></span> copia de los CD a los que se refiere el Art&#xED;culo 1&#xB0; del presente acto administrativo.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;. Por razones de econom&#xED;a, eficiencia y de buen servicio, el anexo que contiene la n&#xF3;mina de establecimientos educacionales subvencionados beneficiarios de la subvenci&#xF3;n por desempe&#xF1;o de excelencia ser&#xE1; distribuido en formato digital, por medio de una<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1149791&amp;idParte=10161567&amp;idVersion=2020-09-24\">Resoluci&#xF3;n 3683 EXENTA, <br>EDUCACI&#xD3;N<br>Art. 1&#xB0; b)<br>D.O. 24.09.2020</a></span> copia de los CD a los que se refiere el Art&#xED;culo 1&#xB0; del presente acto administrativo.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1153868,
+      "fecha": "2020-12-23"
+    }
+  }
+]

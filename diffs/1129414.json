@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2019-03-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-10-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10004386,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;zcase como &#xE1;rea reglamentada por detecci&#xF3;n de la plaga Polilla del Racimo de la Vid (Lobesia botrana) en la Regi&#xF3;n de Atacama, el pol&#xED;gono que a continuaci&#xF3;n se detalla:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  PROVINCIA DE COPIAP&#xD3;:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  El Pol&#xED;gono involucra el Sector &quot;Los Arrayanes&quot; de la comuna de Copiap&#xF3; y est&#xE1; establecido por 34 v&#xE9;rtices, incluyendo las siguientes coordenadas UTM se&#xF1;aladas a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/90284.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. El pol&#xED;gono que determina el &#xE1;rea reglamentada incorpora parcialmente la comuna de Copiap&#xF3;.</div><div class=\"p\">&nbsp; &nbsp;  3. Apl&#xED;quense las medidas fitosanitarias, establecidas en la resoluci&#xF3;n N&#xB0;5.916 de 21 de octubre de 2016, y la resoluci&#xF3;n exenta N&#xB0; 3.213, que modifica la res. exenta N&#xB0;5.916 del Director Nacional del Servicio Agr&#xED;cola y Ganadero, en forma inmediata en el &#xE1;rea definida en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4. El Servicio Agr&#xED;cola y Ganadero podr&#xE1; determinar un plan de trabajo con metas parciales fijando las medidas, la oportunidad y la eficiencia necesaria para lograr su completa ejecuci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;zcase como &#xE1;rea reglamentada por detecci&#xF3;n de la plaga Polilla del Racimo de la Vid (Lobesia botrana) en la Regi&#xF3;n de Atacama, el pol&#xED;gono que a continuaci&#xF3;n se detalla:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  PROVINCIA DE COPIAP&#xD3;:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  El Pol&#xED;gono involucra el Sector &quot;Los Arrayanes&quot; de la comuna de Copiap&#xF3; y est&#xE1; establecido por 34 v&#xE9;rtices, incluyendo las siguientes coordenadas UTM se&#xF1;aladas a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1150393&amp;idParte=10164995&amp;idVersion=2020-10-07\">Resoluci&#xF3;n 418 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 07.10.2020</a></span><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/113867.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. El pol&#xED;gono que determina el &#xE1;rea reglamentada incorpora parcialmente la comuna de Copiap&#xF3;.</div><div class=\"p\">&nbsp; &nbsp;  3. Apl&#xED;quense las medidas fitosanitarias, establecidas en la resoluci&#xF3;n N&#xB0;5.916 de 21 de octubre de 2016, y la resoluci&#xF3;n exenta N&#xB0; 3.213, que modifica la res. exenta N&#xB0;5.916 del Director Nacional del Servicio Agr&#xED;cola y Ganadero, en forma inmediata en el &#xE1;rea definida en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4. El Servicio Agr&#xED;cola y Ganadero podr&#xE1; determinar un plan de trabajo con metas parciales fijando las medidas, la oportunidad y la eficiencia necesaria para lograr su completa ejecuci&#xF3;n.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1150393,
+      "fecha": "2020-10-07"
+    }
+  },
+  {
+    "fecha": "2021-06-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10004386,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;zcase como &#xE1;rea reglamentada por detecci&#xF3;n de la plaga Polilla del Racimo de la Vid (Lobesia botrana) en la Regi&#xF3;n de Atacama, el pol&#xED;gono que a continuaci&#xF3;n se detalla:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  PROVINCIA DE COPIAP&#xD3;:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  El Pol&#xED;gono involucra el Sector &quot;Los Arrayanes&quot; de la comuna de Copiap&#xF3; y est&#xE1; establecido por 34 v&#xE9;rtices, incluyendo las siguientes coordenadas UTM se&#xF1;aladas a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1150393&amp;idParte=10164995&amp;idVersion=2020-10-07\">Resoluci&#xF3;n 418 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 07.10.2020</a></span><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/113867.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. El pol&#xED;gono que determina el &#xE1;rea reglamentada incorpora parcialmente la comuna de Copiap&#xF3;.</div><div class=\"p\">&nbsp; &nbsp;  3. Apl&#xED;quense las medidas fitosanitarias, establecidas en la resoluci&#xF3;n N&#xB0;5.916 de 21 de octubre de 2016, y la resoluci&#xF3;n exenta N&#xB0; 3.213, que modifica la res. exenta N&#xB0;5.916 del Director Nacional del Servicio Agr&#xED;cola y Ganadero, en forma inmediata en el &#xE1;rea definida en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4. El Servicio Agr&#xED;cola y Ganadero podr&#xE1; determinar un plan de trabajo con metas parciales fijando las medidas, la oportunidad y la eficiencia necesaria para lograr su completa ejecuci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;zcase como &#xE1;rea reglamentada por detecci&#xF3;n de la plaga Polilla del Racimo de la Vid (Lobesia botrana) en la Regi&#xF3;n de Atacama, el pol&#xED;gono que a continuaci&#xF3;n se detalla:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  PROVINCIA DE COPIAP&#xD3;:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  El Pol&#xED;gono involucra el Sector &quot;<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>Los Arrayanes&quot; de la comuna de Copiap&#xF3; y est&#xE1; establecido por 34 v&#xE9;rtices, incluyendo las siguientes coordenadas UTM se&#xF1;aladas a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1150393&amp;idParte=10164995&amp;idVersion=2020-10-07\">Resoluci&#xF3;n 418 EXENTA,<br>AGRICULTURA<br>N&#xB0; 1<br>D.O. 07.10.2020</a></span><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/113867.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. El pol&#xED;gono que determina el &#xE1;rea reglamentada incorpora parcialmente la comuna de Copiap&#xF3;.</div><div class=\"p\">&nbsp; &nbsp;  3. Apl&#xED;quense las medidas fitosanitarias, establecidas en la resoluci&#xF3;n N&#xB0;5.916 de 21 de octubre de 2016, y la resoluci&#xF3;n exenta N&#xB0; 3.213, que modifica la res. exenta N&#xB0;5.916 del Director Nacional del Servicio Agr&#xED;cola y Ganadero, en forma inmediata en el &#xE1;rea definida en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4. El Servicio Agr&#xED;cola y Ganadero podr&#xE1; determinar un plan de trabajo con metas parciales fijando las medidas, la oportunidad y la eficiencia necesaria para lograr su completa ejecuci&#xF3;n.</div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los numerales 1 y 2 de la Resoluci&#xF3;n 232 Exenta, Agricultura. publicada el 15.06.2021, modifican la presente norma en el sentido de levantar las restricciones cuarentenarias por polilla del racimo de la vid (Lobesia botrana), en el &#xE1;rea reglamentada que incorpor&#xF3; parcialmente la comuna de Copiap&#xF3;, denominada &quot;Los Arrayanes&quot;, Regi&#xF3;n de Atacama, asimismo revoca parcialmente la presente norma en lo que dice relaci&#xF3;n a &#xE1;rea reglamentada para Lobesia botrana.</div></div>"
+        }
+      ]
+    }
+  }
+]

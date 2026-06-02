@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-05-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-06-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6568644,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO DE COMITES REGIONALES DE INNOVACION </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 26 de diciembre de 2005.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 159.- Visto:</div><br><div class=\"p\">1.&nbsp;  El Acuerdo de Consejo N&#xBA; 1.625, de 1992, que cre&#xF3; los Comit&#xE9;s Regionales de Fomento de la Producci&#xF3;n, reglamentados por resoluci&#xF3;n (A) N&#xBA; 48, de 1993.</div><div class=\"p\">2.&nbsp;  El acuerdo de Consejo N&#xBA; 2.381, de 2005, que reemplaza el Acuerdo N&#xBA; 1.625, de 1992 y crea Comit&#xE9;s Regionales de Innovaci&#xF3;n en las regiones que indica.</div><div class=\"p\">3.&nbsp;  Lo dispuesto en la ley N&#xBA; 6.640; en el DFL N&#xBA; 211, de 1960; en el Reglamento General de la Corporaci&#xF3;n; en la ley N&#xBA; 19.275, de 1993, y su reglamento, aprobado por decreto del Ministerio de Hacienda N&#xBA; 732, de 1994; y lo establecido en la resoluci&#xF3;n N&#xBA; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, cuyo texto refundido, coordinado y sistematizado fue fijado por resoluci&#xF3;n N&#xBA; 520, de 1996, y sus modificaciones posteriores, todas del mismo organismo,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA REGLAMENTO DE COMITES REGIONALES DE INNOVACION<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 26 de diciembre de 2005.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 159.- Visto:</div><br><div class=\"p\">1.&nbsp;  El Acuerdo de Consejo N&#xBA; 1.625, de 1992, que cre&#xF3; los Comit&#xE9;s Regionales de Fomento de la Producci&#xF3;n, reglamentados por resoluci&#xF3;n (A) N&#xBA; 48, de 1993.</div><div class=\"p\">2.&nbsp;  El acuerdo de Consejo N&#xBA; 2.381, de 2005, que reemplaza el Acuerdo N&#xBA; 1.625, de 1992 y crea Comit&#xE9;s Regionales de Innovaci&#xF3;n en las regiones que indica.</div><div class=\"p\">3.&nbsp;  Lo dispuesto en la ley N&#xBA; 6.640; en el DFL N&#xBA; 211, de 1960; en el Reglamento General de la Corporaci&#xF3;n; en la ley N&#xBA; 19.275, de 1993, y su reglamento, aprobado por decreto del Ministerio de Hacienda N&#xBA; 732, de 1994; y lo establecido en la resoluci&#xF3;n N&#xBA; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, cuyo texto refundido, coordinado y sistematizado fue fijado por resoluci&#xF3;n N&#xBA; 520, de 1996, y sus modificaciones posteriores, todas del mismo organismo,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La Res 194, Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, publicada el 09.06.2006, modifica la presente norma en el sentido de cambiar la denominaci&#xF3;n de los &quot;Comit&#xE9;s Regionales de Innovaci&#xF3;n&quot; en los t&#xE9;rminos que indica la citada norma.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

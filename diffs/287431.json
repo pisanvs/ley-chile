@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2009-02-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-10-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7435712,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;. Reaj&#xFA;stase el valor adicional del formato de la C&#xE9;dula de Identidad que otorgue el Servicio de Registro Civil e Identificaci&#xF3;n, se&#xF1;alado en el art&#xED;culo 8&#xBA; del decreto supremo N&#xBA; 1.154, de 2007, del Ministerio de Justicia, fij&#xE1;ndose su nuevo valor en $3.290.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;. Reaj&#xFA;stase el valor adicional del formato de la C&#xE9;dula de Identidad que otorgue el Servicio de Registro Civil e Identificaci&#xF3;n, se&#xF1;alado en el art&#xED;culo 8&#xBA; del decreto supremo N&#xBA; 1.154, de 2007, del Ministerio de Justicia, fij&#xE1;ndose su nuevo valor en $3.5<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1082008&amp;idParte=9637588&amp;idVersion=2015-09-21\">Decreto 2416 EXENTO,<br>JUSTICIA<br>Art. 4<br>D.O. 21.09.2015</a></span>10.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 7435713,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;. Reaj&#xFA;stanse los valores adicionales de los documentos se&#xF1;alados en el articulo 9&#xBA; del decreto supremo N&#xBA; 1.154, de 2007, del Ministerio de Justicia, fij&#xE1;ndose sus nuevos montos en las cantidades que se indican a continuaci&#xF3;n:</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/26565.jpg\"></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;. Reaj&#xFA;stanse los valores adicionales de los documentos se&#xF1;alados en el articulo 9&#xBA; del decreto supremo N&#xBA; 1.154, de 2007, del Ministerio de Justicia, fij&#xE1;ndose sus nuevos montos en las cantidades que se indican a continuaci&#xF3;n:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/26565.jpg\"></div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El articulo 4&#xB0; del Decreto 2416 Exento, Justicia, publicado el 21.09.2015, modifica la presente norma en el sentido de modificar los montos de valores adicionales del formato de Libreta del Nuevo Pasaporte de 32 paginas $ 82.180, formato de Libreta del Nuevo pasaportes 64 p&#xE1;ginas $ 82.260.</div></div>"
+        }
+      ]
+    }
+  }
+]

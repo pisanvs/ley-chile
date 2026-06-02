@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-06-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-08-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8675131,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;. Rech&#xE1;cese la solicitud de acceso a la informaci&#xF3;n p&#xFA;blica Folio Ak002P0000038, formulada por do&#xF1;a Helen del Pilar Gerber Contreras, individualizada en el Considerando 1&#xBA; de la presente resoluci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;. Decl&#xE1;rense reservados en su totalidad los domicilios consignados ante el Servicio, en virtud del art&#xED;culo 21, n&#xFA;mero 1 letra c) de la ley N&#xBA;20.285, sobre Acceso a la Informaci&#xF3;n P&#xFA;blica.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;. Rech&#xE1;cese la solicitud de acceso a la informaci&#xF3;n p&#xFA;blica Folio Ak002P0000038, formulada por do&#xF1;a Helen del Pilar Gerber Contreras, individualizada en el Considerando 1&#xBA; de la presente resoluci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;. DEROGADO.</div><br><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1004794&amp;idParte=8761897&amp;idVersion=2009-08-04\">Resolucion 2270 EXENTA,<br>JUSTICIA<br>D.O. 04.08.2009</a></span></div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1004794,
+      "fecha": "2009-08-04"
+    }
+  }
+]

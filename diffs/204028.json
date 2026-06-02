@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-10-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-11-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6401141,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n N&#xBA; 84, de fecha 12 de septiembre del a&#xF1;o 2002, se autoriz&#xF3; la existencia y aprob&#xF3; el estatuto de la &quot;Cooperativa de Trabajo Seno de Reloncav&#xED; Limitada&quot; de Puerto Montt, en los t&#xE9;rminos que da cuenta el Acta Constitutiva protocolizada ante el Notario de Puerto Montt, Edward Langlois Danks, bajo el N&#xBA; 1832-2002 de fecha 11 de junio del a&#xF1;o 2002 y el acta rectificatoria protocolizada al final del registro del mismo notario, bajo el N&#xBA; 2893-2002 de fecha 27 de agosto del a&#xF1;o 2002.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n N&#xBA; 84, de fecha 12 de septiembre del a&#xF1;o 2002, se autoriz&#xF3; la existencia y aprob&#xF3; el estatuto de la &quot;Cooperativa de Trabajo Seno del Reloncav&#xED; Limitada&quot; de Puerto Montt, en los t&#xE9;rminos<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 08.11.2002</span> que da cuenta el Acta Constitutiva protocolizada ante el Notario de Puerto Montt, Edward Langlois Danks, bajo el N&#xBA; 1832-2002 de fecha 11 de junio del a&#xF1;o 2002 y el acta rectificatoria protocolizada al final del registro del mismo notario, bajo el N&#xBA; 2893-2002 de fecha 27 de agosto del a&#xF1;o 2002. </div></div>"
+        }
+      ]
+    }
+  }
+]

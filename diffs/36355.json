@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-01-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-04-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8296006,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Por Resoluci&#xF3;n N&#xB0; 1.149, de 5 de Diciembre de 1994, de esta Subsecretar&#xED;a de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n autor&#xED;zase a don ANDRES JAVIER GUARACHE GOMEZ, R.U.T. N&#xB0; 13.195.434-4, para continuar desarrollando actividades pesqueras con la nave que se individualiza, en el litoral y respecto de los recursos hidrobiol&#xF3;gicos que m&#xE1;s adelante se se&#xF1;alan, de conformidad con la transferencia de que da cuenta la escritura p&#xFA;blica se&#xF1;alada en Visto:</div><div class=\"p\">&nbsp; &nbsp; La nave &quot;La Chimba&quot; se encuentra autorizada para desarrollar actividades extractivas en el litoral de la I y II Regi&#xF3;n, respecto de los recursos hidrobiol&#xF3;gicos Sardina espa&#xF1;ola, Anchoveta y Jurel.</div><div class=\"p\">&nbsp; &nbsp; En consecuencia, don Andr&#xE9;s Javier Guarache G&#xF3;mez podr&#xE1; capturar con cerco, con la nave individualizada precedentemente, en el &#xE1;rea de pesca correspondiente al litoral de la I y II Regi&#xF3;n, los recursos hidrobiol&#xF3;gicos Sardina espa&#xF1;ola, Anchoveta y Jurel.</div><div class=\"p\">&nbsp; &nbsp; La presente autorizaci&#xF3;n es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.</div><div class=\"p\">&nbsp; &nbsp; D&#xE9;jase sin efecto la Resoluci&#xF3;n N&#xB0; 410, de 1985, de esta Subsecretar&#xED;a, en cuanto autoriz&#xF3; a Jim&#xE9;nez y Compa&#xF1;&#xED;a S.A. para operar la nave &quot;La Chimba&quot;, en virtud de lo se&#xF1;alado en la escritura de transferencia indicada en Visto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Por Resoluci&#xF3;n N&#xB0; 1.149, de 5 de Diciembre de 1994, de esta Subsecretar&#xED;a de Pesca del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n autor&#xED;zase a don ANDRES JAVIER GUARACHE GOMEZ, R.U.T. N&#xB0; 13.195.434-4, para continuar desarrollando actividades pesqueras con la nave que se individualiza, en el litoral y respecto de los recursos hidrobiol&#xF3;gicos que m&#xE1;s adelante se se&#xF1;alan, de conformidad con la transferencia de que da cuenta la escritura p&#xFA;blica se&#xF1;alada en Visto:</div><div class=\"p\">&nbsp; &nbsp; La nave &quot;La Chimba&quot; se encuentra autorizada para desarrollar actividades extractivas en el litoral de la I y II Regi&#xF3;n, respecto de los recursos hidrobiol&#xF3;gicos Sardina espa&#xF1;ola, Anchoveta y Jurel.</div><div class=\"p\">&nbsp; &nbsp; En consecuencia, don Andr&#xE9;s Javier Guarache G&#xF3;mez podr&#xE1; capturar con cerco, con la nave individualizada precedentemente, en el &#xE1;rea de pesca correspondiente al litoral de la I y II Regi&#xF3;n, los recursos hidrobiol&#xF3;gicos Sardina espa&#xF1;ola, Anchoveta y Jurel.</div><div class=\"p\">&nbsp; &nbsp; La presente autorizaci&#xF3;n es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.</div><div class=\"p\">&nbsp; &nbsp; D&#xE9;jase sin efecto la Resoluci&#xF3;n N&#xB0; 410, de 1985, de esta Subsecretar&#xED;a, en cuanto autoriz&#xF3; a Jim&#xE9;nez y Compa&#xF1;&#xED;a S.A. para operar la nave &quot;La Chimba&quot;, en virtud de lo se&#xF1;alado en la escritura de transferencia indicada en Visto.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

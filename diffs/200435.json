@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2002-07-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-05-16",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8417066,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- En los llamados a<span class=\"n\" id=\"n_0\">RES 1354 EXENTA,<br>VIVIENDA<br>D.O. 16.05.2006</span> postulaci&#xF3;n del Sistema de Subsidio Habitacional Rural que regula el D.S. N&#xBA; 117 (V. y U.), de 2002, que se efect&#xFA;en durante el a&#xF1;o 2006, los postulantes de las comunas de Quinchao, Curaco de V&#xE9;lez y Quemchi, de la Provincia de Chilo&#xE9;, y de la comuna de Chait&#xE9;n de la Provincia de Palena, que para efectos de acreditar derechos sobre un terreno o un inmueble debieren recurrir al Conservador de Bienes Ra&#xED;ces de Achao, podr&#xE1;n acreditar dichos derechos mediante declaraci&#xF3;n jurada que cuente con el visto bueno de la Municipalidad respectiva, formulada por el postulante o su c&#xF3;nyuge o quien corresponda, conforme al inciso tercero del art&#xED;culo 4&#xBA; del D.S. N&#xBA; 117 referido.</div><div class=\"p\">&nbsp; &nbsp;  No obstante lo anterior, para los efectos del pago del respectivo Certificado de Subsidio, los postulantes que resulten seleccionados deber&#xE1;n presentar la totalidad de los documentos se&#xF1;alados en el inciso cuarto del art&#xED;culo 19 del D.S. N&#xBA; 117 aludido.</div><div class=\"p\">&nbsp; &nbsp;  Lo resuelto por esta disposici&#xF3;n transitoria podr&#xE1; aplicarse a postulantes de llamados del a&#xF1;o 2006, incluso si &#xE9;stos han sido efectuados con anterioridad a su fecha de publicaci&#xF3;n.</div><br><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2007-04-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8417066,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- En los llamados a<span class=\"n\" id=\"n_0\">RES 1354 EXENTA,<br>VIVIENDA<br>D.O. 16.05.2006</span> postulaci&#xF3;n del Sistema de Subsidio Habitacional Rural que regula el D.S. N&#xBA; 117 (V. y U.), de 2002, que se efect&#xFA;en durante el a&#xF1;o 2006, los postulantes de las comunas de Quinchao, Curaco de V&#xE9;lez y Quemchi, de la Provincia de Chilo&#xE9;, y de la comuna de Chait&#xE9;n de la Provincia de Palena, que para efectos de acreditar derechos sobre un terreno o un inmueble debieren recurrir al Conservador de Bienes Ra&#xED;ces de Achao, podr&#xE1;n acreditar dichos derechos mediante declaraci&#xF3;n jurada que cuente con el visto bueno de la Municipalidad respectiva, formulada por el postulante o su c&#xF3;nyuge o quien corresponda, conforme al inciso tercero del art&#xED;culo 4&#xBA; del D.S. N&#xBA; 117 referido.</div><div class=\"p\">&nbsp; &nbsp;  No obstante lo anterior, para los efectos del pago del respectivo Certificado de Subsidio, los postulantes que resulten seleccionados deber&#xE1;n presentar la totalidad de los documentos se&#xF1;alados en el inciso cuarto del art&#xED;culo 19 del D.S. N&#xBA; 117 aludido.</div><div class=\"p\">&nbsp; &nbsp;  Lo resuelto por esta disposici&#xF3;n transitoria podr&#xE1; aplicarse a postulantes de llamados del a&#xF1;o 2006, incluso si &#xE9;stos han sido efectuados con anterioridad a su fecha de publicaci&#xF3;n.</div><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- En los llamados a<span class=\"n\" id=\"n_0\">RES 1354 EXENTA,<br>VIVIENDA<br>D.O. 16.05.2006<br>RES 1974 EXENTA,<br>VIVIENDA<br>N&#xBA; 1<br>D.O. 23.04.2007</span> postulaci&#xF3;n del Sistema de Subsidio Habitacional Rural que regula el D.S. N&#xBA; 117 (V. y U.), de 2002, que se efect&#xFA;en durante los a&#xF1;os 2006 y 2007, los postulantes de las comunas de Quinchao, Curaco de V&#xE9;lez y Quemchi, de la Provincia de Chilo&#xE9;, y de la comuna de Chait&#xE9;n de la Provincia de Palena, que para efectos de acreditar derechos sobre un terreno o un inmueble debieren recurrir al Conservador de Bienes Ra&#xED;ces de Achao, podr&#xE1;n acreditar dichos derechos mediante declaraci&#xF3;n jurada que cuente con el visto bueno de la Municipalidad respectiva, formulada por el postulante o su c&#xF3;nyuge o quien corresponda, conforme al inciso tercero del art&#xED;culo 4&#xBA; del D.S. N&#xBA; 117 referido.</div><div class=\"p\">&nbsp; &nbsp;  No obstante lo anterior, para los efectos del pago del respectivo Certificado de Subsidio, los postulantes que resulten seleccionados deber&#xE1;n presentar la totalidad de los documentos se&#xF1;alados en el inciso cuarto del art&#xED;culo 19 del D.S. N&#xBA; 117 aludido.</div><div class=\"p\">&nbsp; &nbsp;  Lo resuelto por esta disposici&#xF3;n transitoria podr&#xE1; aplicarse a postulantes de llamados de los a&#xF1;os<span class=\"n\" id=\"n_1\">RES 1974 EXENTA,<br>VIVIENDA<br>N&#xBA; 2<br>D.O. 23.04.2007</span> 2006 y 2007, incluso si &#xE9;stos han sido efectuados con anterioridad a su fecha de publicaci&#xF3;n. </div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

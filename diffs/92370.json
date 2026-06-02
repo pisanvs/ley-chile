@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-01-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-04-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6091353,
+          "old": "<div><div class=\"p\">EXTRACTOS DE&nbsp; RESOLUCIONES N&#xBA;s. 1.041, 1.105 y 377 EXENTAS, DE 1997 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTOS DE&nbsp; RESOLUCIONES N&#xBA;s. 1.041, 1.105 y 377 EXENTAS, DE 1997</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

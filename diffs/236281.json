@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-03-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-02-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6518700,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 787 EXENTO, DE 2004 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 787 EXENTO, DE 2004</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

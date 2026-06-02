@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-02-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8316976,
+          "old": "<div><div class=\"p\">AUTORIZA A DON GONZALO VILLOUTA STENGL PARA INICIAR ACTIVIDADES PESQUERAS. CADUCA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON GONZALO VILLOUTA STENGL PARA INICIAR ACTIVIDADES PESQUERAS. CADUCA RESOLUCION QUE INDICA </div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1979-03-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1979-06-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8764967,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo transitorio.- Los actuales tenedores de armas y elementos de la naturaleza de los se&#xF1;alados en el art&#xED;culo 3&#xB0; de la ley N&#xB0; 17.798 tendr&#xE1;n el plazo de sesenta d&#xED;as, a contar de la fecha de publicaci&#xF3;n del presente decreto ley, para hacer entrega de ellos a las Comandancias de Guarnici&#xF3;n o a las Comisar&#xED;as, Tenencias o Retenes de Carabineros, quienes dispondr&#xE1;n su env&#xED;o a Arsenales de Guerra.</div><div class=\"p\">&nbsp; &nbsp; Transcurrido dicho plazo, su tenencia, a&#xFA;n cuando estuviere amparada por la respectiva inscripci&#xF3;n, ser&#xE1; sancionada de acuerdo con la ley.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo transitorio.- Los actuales tenedores de armas y elementos de la naturaleza de los se&#xF1;alados en el art&#xED;culo 3&#xB0; de la ley N&#xB0; 17.798 tendr&#xE1;n el plazo de ciento cuarenta d&#xED;as, a contar de la fecha de publicaci&#xF3;n<span class=\"n\" id=\"n_0\">DL 2696, DEFENSA<br>Art. &#xFA;nico<br>D.O. 29.06.1979</span> del presente decreto ley, para hacer entrega de ellos a las Comandancias de Guarnici&#xF3;n o a las Comisar&#xED;as, Tenencias o Retenes de Carabineros, quienes dispondr&#xE1;n su env&#xED;o a Arsenales de Guerra.</div><div class=\"p\">&nbsp; &nbsp; Transcurrido dicho plazo, su tenencia, a&#xFA;n cuando estuviere amparada por la respectiva inscripci&#xF3;n, ser&#xE1; sancionada de acuerdo con la ley.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

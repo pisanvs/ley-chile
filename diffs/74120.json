@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "1997-07-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-03-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8038588,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 21&#xBA;.- Sin perjuicio de las facultades que emanan de una Licencia Deportiva N&#xE1;utica de Navegaci&#xF3;n, en virtud de lo dispuesto por el presente t&#xED;tulo, le ser&#xE1;n aplicables al operador de una lancha a motor, jet, ski o moto acu&#xE1;tica, propulsados por motores de m&#xE1;s de 10 H.P., los requisitos exigidos por el inciso segundo del art&#xED;culo 42.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 21&#xBA;.- Sin perjuicio de las facultades que<span class=\"n\" id=\"n_0\">DTO 5,<br>DEFENSA NACIONAL<br>Art. SEGUNDO<br>D.O. 10.03.2004</span> emanan de una Licencia Deportiva N&#xE1;utica de Navegaci&#xF3;n, en virtud de lo dispuesto por el presente t&#xED;tulo, le ser&#xE1;n aplicables al operador de una lancha a motor, jet, ski o moto acu&#xE1;tica, los requisitos exigidos por el art&#xED;culo 42.</div><br></div>"
+        },
+        {
+          "part_id": 8038617,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 42&#xBA;.- Trat&#xE1;ndose del uso de embarcaciones a motor del tipo jet ski y motos acu&#xE1;ticas, adem&#xE1;s de los requisitos establecidos en el art&#xED;culo precedente, deber&#xE1;n cumplir con los siguientes:</div><br><br><div class=\"p\">a.-&nbsp; Edad m&#xED;nima 14 a&#xF1;os.</div><div class=\"p\">b.-&nbsp; Encontrarse inscrita la embarcaci&#xF3;n en el registro de matr&#xED;cula pertinente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 42&#xBA;.- Trat&#xE1;ndose del uso de embarcaciones a<span class=\"n\" id=\"n_1\">DTO 5, DEFENSA<br>NACIONAL<br>Art. PRIMERO<br>D.O. 10.03.2004</span> motor del tipo jet ski y motos acu&#xE1;ticas, &#xE9;stas deber&#xE1;n encontrarse inscritas en el registro de matr&#xED;cula correspondiente y cumplir con los requisitos indicados en el art&#xED;culo precedente. Sin perjuicio de lo anterior, se dar&#xE1; cumplimiento a las siguientes exigencias: a.-&nbsp;  Quienes posean la edad m&#xED;nima de 14 a&#xF1;os y</div><div class=\"p\">&nbsp; &nbsp; &nbsp; cuenten con la autorizaci&#xF3;n expresa y escrita</div><div class=\"p\">&nbsp; &nbsp; &nbsp; del padre, madre o tutor, podr&#xE1;n operar estas</div><div class=\"p\">&nbsp; &nbsp; &nbsp; embarcaciones, qued&#xE1;ndoles prohibido</div><div class=\"p\">&nbsp; &nbsp; &nbsp; transportar uno o m&#xE1;s pasajeros y/o remolcar.</div><div class=\"p\">b.-&nbsp;  Quienes cumplan con la edad m&#xED;nima de 18 a&#xF1;os,</div><div class=\"p\">&nbsp; &nbsp; &nbsp; podr&#xE1;n operar estas embarcaciones, sin las</div><div class=\"p\">&nbsp; &nbsp; &nbsp; restricciones del p&#xE1;rrafo precedente.</div><div class=\"p\">c.-&nbsp;  Ser&#xE1; responsabilidad del due&#xF1;o o arrendador</div><div class=\"p\">&nbsp; &nbsp; &nbsp; llevar a efecto y exigir el cumplimiento de</div><div class=\"p\">&nbsp; &nbsp; &nbsp; las disposiciones establecidas en las letras a.-</div><div class=\"p\">&nbsp; &nbsp; &nbsp; y b.- precedentes, como asimismo, la de</div><div class=\"p\">&nbsp; &nbsp; &nbsp; efectuar, previamente, una instrucci&#xF3;n de</div><div class=\"p\">&nbsp; &nbsp; &nbsp; familiarizaci&#xF3;n a quien las conduzca, lo que</div><div class=\"p\">&nbsp; &nbsp; &nbsp; incluir&#xE1; conocimiento de recomendaciones de</div><div class=\"p\">&nbsp; &nbsp; &nbsp; operaci&#xF3;n del fabricante y las disposiciones</div><div class=\"p\">&nbsp; &nbsp; &nbsp; de seguridad fijadas para estos tipos de</div><div class=\"p\">&nbsp; &nbsp; &nbsp; embarcaciones por la Autoridad Mar&#xED;tima&quot;.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2017-06-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

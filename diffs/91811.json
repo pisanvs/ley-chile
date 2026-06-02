@@ -1,0 +1,106 @@
+[
+  {
+    "fecha": "1956-03-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1958-03-12",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9049903,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 124. La utilidad neta&nbsp; de las Empresas de Gas se calcular&#xE1; deduciendo de las entradas de explotaci&#xF3;n todos los gastos de operaci&#xF3;n, conservaci&#xF3;n, administraci&#xF3;n y generales, los impuestos y las reservas para depreciaci&#xF3;n, castigos, accidentes y cr&#xE9;ditos dudosos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 124. La utilidad neta&nbsp; de las Empresas de Gas se calcular&#xE1; deduciendo de las entradas de explotaci&#xF3;n todos los gastos de operaci&#xF3;n, conservaci&#xF3;n, administraci&#xF3;n y generales, los impuestos y las reservas para depreciaci&#xF3;n, castigos, accidentes y cr&#xE9;ditos dudosos. Las Empresas de gas que efect&#xFA;en otros negocios<span class=\"n\" id=\"n_0\">DTO 1297<br>INTERIOR<br>D.O.12.03.1958</span> ajenos a la explotaci&#xF3;n del gas deber&#xE1;n presentar anualmente, al 31 de Diciembre de cada a&#xF1;o, a la Direcci&#xF3;n General de Servicios El&#xE9;ctricos y de Gas, adem&#xE1;s del Balance consolidado de la Empresa, otro balance en que consten separadamente los Activos, los Pasivos, las Entradas, los Gastos y las Utilidades, y todo otro an&#xE1;lisis contable que determine la direcci&#xF3;n que correspondan exclusiva o parcialmente al negocio del gas. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1965-04-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9049910,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 131. La Direcci&#xF3;n informar&#xE1; al gobierno la solicitud, no antes de que hayan transcurrido 15 d&#xED;as, a partir de la &#xFA;ltima publicaci&#xF3;n de la solicitud o del t&#xE9;rmino de los seis d&#xED;as fijados en el art&#xED;culo anterior. El informe dar&#xE1; cuenta de las observaciones que se hayan presentado, y propondr&#xE1; el nuevo pliego, justific&#xE1;ndolo con el c&#xE1;lculo estimativo de las entradas que &#xE9;l producir&#xE1; y de los gastos en que deber&#xE1; incurrir la Empresa.</div><div class=\"p\">&nbsp; &nbsp;  Ninguna cifra en el pliego que proponga la Direcci&#xF3;n podr&#xE1; ser superior a la cifra correspondiente que aparezca en la solicitud de la Empresa.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 131. La Direcci&#xF3;n informar&#xE1; al gobierno la solicitud, no antes de que hayan transcurrido 15 d&#xED;as, a partir de la &#xFA;ltima publicaci&#xF3;n de la solicitud o del t&#xE9;rmino de los seis d&#xED;as fijados en el art&#xED;culo anterior. El informe dar&#xE1; cuenta de las observaciones que se hayan presentado, y propondr&#xE1; el nuevo pliego, justific&#xE1;ndolo con el c&#xE1;lculo estimativo de las entradas que &#xE9;l producir&#xE1; y de los gastos en que deber&#xE1; incurrir la Empresa. En relaci&#xF3;n con las cifras del pliego presentado<span class=\"n\" id=\"n_1\">DTO 585<br>INTERIOR<br>D.O.10.04.1965</span> por la Empresa, la Direcci&#xF3;n podr&#xE1; proponer o el Gobierno fijar, en definitiva, cifras correspondientes que sean superiores a aqu&#xE9;llas, siempre que el promedio de las cifras que se propongan o fijen no sea superior al promedio de las que aparezcan en el pliego de la Empresa. En todo caso, las cifras correspondientes a<span class=\"n\" id=\"n_2\">DTO 585<br>INTERIOR<br>D.O.10.04.1965</span> determinadas tarifas, cuyos montos m&#xE1;ximos se regulan especialmente, en la Ley de Servicios de Gas o en este Reglamento, deber&#xE1;n calcularse de acuerdo con las disposiciones respectivas. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1967-04-12",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9049817,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 38. Las Empresas son responsables de los actos u omisiones contrarias a la ley o al presente Reglamento en que incurra el personal, sin que puedan declinar en &#xE9;ste su responsabilidad ante la Direcci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 38. Las Empresas son responsables de los actos u omisiones contrarias a la ley o al presente Reglamento en que incurra el personal, sin que puedan declinar en &#xE9;ste su responsabilidad ante la Direcci&#xF3;n. Las Empresas distribuidoras de gas licuado deber&#xE1;n<span class=\"n\" id=\"n_0\">DTO 423<br>INTERIOR<br>12.04.1967</span> obtener el visto bueno de la Direcci&#xF3;n de Servicios El&#xE9;ctricos y Gas para la contrataci&#xF3;n de los empleados y obreros que deban trabajar en las Plantas de Almacenamiento de Gas Licuado y llenado de cilindros. </div></div>"
+        },
+        {
+          "part_id": 9049903,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 124. La utilidad neta&nbsp; de las Empresas de Gas se calcular&#xE1; deduciendo de las entradas de explotaci&#xF3;n todos los gastos de operaci&#xF3;n, conservaci&#xF3;n, administraci&#xF3;n y generales, los impuestos y las reservas para depreciaci&#xF3;n, castigos, accidentes y cr&#xE9;ditos dudosos. Las Empresas de gas que efect&#xFA;en otros negocios<span class=\"n\" id=\"n_0\">DTO 1297<br>INTERIOR<br>D.O.12.03.1958</span> ajenos a la explotaci&#xF3;n del gas deber&#xE1;n presentar anualmente, al 31 de Diciembre de cada a&#xF1;o, a la Direcci&#xF3;n General de Servicios El&#xE9;ctricos y de Gas, adem&#xE1;s del Balance consolidado de la Empresa, otro balance en que consten separadamente los Activos, los Pasivos, las Entradas, los Gastos y las Utilidades, y todo otro an&#xE1;lisis contable que determine la direcci&#xF3;n que correspondan exclusiva o parcialmente al negocio del gas. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 124. La utilidad neta&nbsp; de las Empresas de Gas se calcular&#xE1; deduciendo de las entradas de explotaci&#xF3;n todos los gastos de operaci&#xF3;n, conservaci&#xF3;n, administraci&#xF3;n y generales, los impuestos y las reservas para depreciaci&#xF3;n, castigos, accidentes y cr&#xE9;ditos dudosos. Las Empresas de gas que efect&#xFA;en otros negocios<span class=\"n\" id=\"n_1\">DTO 1297<br>INTERIOR<br>D.O.12.03.1958</span> ajenos a la explotaci&#xF3;n del gas deber&#xE1;n presentar anualmente, al 31 de Diciembre de cada a&#xF1;o, a la Direcci&#xF3;n General de Servicios El&#xE9;ctricos y de Gas, adem&#xE1;s del Balance consolidado de la Empresa, otro balance en que consten separadamente los Activos, los Pasivos, las Entradas, los Gastos y las Utilidades, y todo otro an&#xE1;lisis contable que determine la direcci&#xF3;n que correspondan exclusiva o parcialmente al negocio del gas. </div></div>"
+        },
+        {
+          "part_id": 9049910,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 131. La Direcci&#xF3;n informar&#xE1; al gobierno la solicitud, no antes de que hayan transcurrido 15 d&#xED;as, a partir de la &#xFA;ltima publicaci&#xF3;n de la solicitud o del t&#xE9;rmino de los seis d&#xED;as fijados en el art&#xED;culo anterior. El informe dar&#xE1; cuenta de las observaciones que se hayan presentado, y propondr&#xE1; el nuevo pliego, justific&#xE1;ndolo con el c&#xE1;lculo estimativo de las entradas que &#xE9;l producir&#xE1; y de los gastos en que deber&#xE1; incurrir la Empresa. En relaci&#xF3;n con las cifras del pliego presentado<span class=\"n\" id=\"n_1\">DTO 585<br>INTERIOR<br>D.O.10.04.1965</span> por la Empresa, la Direcci&#xF3;n podr&#xE1; proponer o el Gobierno fijar, en definitiva, cifras correspondientes que sean superiores a aqu&#xE9;llas, siempre que el promedio de las cifras que se propongan o fijen no sea superior al promedio de las que aparezcan en el pliego de la Empresa. En todo caso, las cifras correspondientes a<span class=\"n\" id=\"n_2\">DTO 585<br>INTERIOR<br>D.O.10.04.1965</span> determinadas tarifas, cuyos montos m&#xE1;ximos se regulan especialmente, en la Ley de Servicios de Gas o en este Reglamento, deber&#xE1;n calcularse de acuerdo con las disposiciones respectivas. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 131. La Direcci&#xF3;n informar&#xE1; al gobierno la solicitud, no antes de que hayan transcurrido 15 d&#xED;as, a partir de la &#xFA;ltima publicaci&#xF3;n de la solicitud o del t&#xE9;rmino de los seis d&#xED;as fijados en el art&#xED;culo anterior. El informe dar&#xE1; cuenta de las observaciones que se hayan presentado, y propondr&#xE1; el nuevo pliego, justific&#xE1;ndolo con el c&#xE1;lculo estimativo de las entradas que &#xE9;l producir&#xE1; y de los gastos en que deber&#xE1; incurrir la Empresa. En relaci&#xF3;n con las cifras del pliego presentado<span class=\"n\" id=\"n_2\">DTO 585<br>INTERIOR<br>D.O.10.04.1965</span> por la Empresa, la Direcci&#xF3;n podr&#xE1; proponer o el Gobierno fijar, en definitiva, cifras correspondientes que sean superiores a aqu&#xE9;llas, siempre que el promedio de las cifras que se propongan o fijen no sea superior al promedio de las que aparezcan en el pliego de la Empresa. En todo caso, las cifras correspondientes a<span class=\"n\" id=\"n_3\">DTO 585<br>INTERIOR<br>D.O.10.04.1965</span> determinadas tarifas, cuyos montos m&#xE1;ximos se regulan especialmente, en la Ley de Servicios de Gas o en este Reglamento, deber&#xE1;n calcularse de acuerdo con las disposiciones respectivas. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1982-11-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9049807,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 28. El reemplazo de los envases agotados deber&#xE1; hacerse por las Empresas dentro de los plazos correspondientes a la capacidad del equipo alimentador de las instalaciones de consumo capacidad que deber&#xE1; ser suficiente, como m&#xED;nimo, para el consumo normal de 20 d&#xED;as. Si el agotamiento se produjere por alguna circunstancia excepcional antes de ese plazo, y el consumidor diere aviso de este hecho a la Empresa, &#xE9;sta deber&#xE1; hacer el reemplazo dentro de las 36 horas siguientes al aviso.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 28. DEROGADO<span class=\"n\" id=\"n_0\">DTO 1162<br>INTERIOR<br>ART 3<br>D.O.08.11.1982</span></div><br></div>"
+        },
+        {
+          "part_id": 9049817,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 38. Las Empresas son responsables de los actos u omisiones contrarias a la ley o al presente Reglamento en que incurra el personal, sin que puedan declinar en &#xE9;ste su responsabilidad ante la Direcci&#xF3;n. Las Empresas distribuidoras de gas licuado deber&#xE1;n<span class=\"n\" id=\"n_0\">DTO 423<br>INTERIOR<br>12.04.1967</span> obtener el visto bueno de la Direcci&#xF3;n de Servicios El&#xE9;ctricos y Gas para la contrataci&#xF3;n de los empleados y obreros que deban trabajar en las Plantas de Almacenamiento de Gas Licuado y llenado de cilindros. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 38. Las Empresas son responsables de los actos u omisiones contrarias a la ley o al presente Reglamento en que incurra el personal, sin que puedan declinar en &#xE9;ste su responsabilidad ante la Direcci&#xF3;n. Las Empresas distribuidoras de gas licuado deber&#xE1;n<span class=\"n\" id=\"n_1\">DTO 423<br>INTERIOR<br>12.04.1967</span> obtener el visto bueno de la Direcci&#xF3;n de Servicios El&#xE9;ctricos y Gas para la contrataci&#xF3;n de los empleados y obreros que deban trabajar en las Plantas de Almacenamiento de Gas Licuado y llenado de cilindros. </div></div>"
+        },
+        {
+          "part_id": 9049862,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 83. El suministro de gas licuado a instalaciones individuales de consumo se har&#xE1; en envases cuya capacidad corresponder&#xE1; como m&#xED;nimo al consumo medio normal de 20 d&#xED;as. La instalaci&#xF3;n&nbsp; se servir&#xE1; con un equipo compuesto como m&#xED;nimo de dos envases iguales, cada uno de los cuales deber&#xE1; tener la capacidad anteriormente indicada, o con bater&#xED;as compuestas de un n&#xFA;mero par de envases, debiendo corresponder la capacidad de cada media bater&#xED;a al consumo medio normal de 20 d&#xED;as.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 83. DEROGADO<span class=\"n\" id=\"n_2\">DTO 1162<br>INTERIOR<br>ART 3<br>D.O.08.11.1982</span> </div></div>"
+        },
+        {
+          "part_id": 9049903,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 124. La utilidad neta&nbsp; de las Empresas de Gas se calcular&#xE1; deduciendo de las entradas de explotaci&#xF3;n todos los gastos de operaci&#xF3;n, conservaci&#xF3;n, administraci&#xF3;n y generales, los impuestos y las reservas para depreciaci&#xF3;n, castigos, accidentes y cr&#xE9;ditos dudosos. Las Empresas de gas que efect&#xFA;en otros negocios<span class=\"n\" id=\"n_1\">DTO 1297<br>INTERIOR<br>D.O.12.03.1958</span> ajenos a la explotaci&#xF3;n del gas deber&#xE1;n presentar anualmente, al 31 de Diciembre de cada a&#xF1;o, a la Direcci&#xF3;n General de Servicios El&#xE9;ctricos y de Gas, adem&#xE1;s del Balance consolidado de la Empresa, otro balance en que consten separadamente los Activos, los Pasivos, las Entradas, los Gastos y las Utilidades, y todo otro an&#xE1;lisis contable que determine la direcci&#xF3;n que correspondan exclusiva o parcialmente al negocio del gas. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 124. La utilidad neta&nbsp; de las Empresas de Gas se calcular&#xE1; deduciendo de las entradas de explotaci&#xF3;n todos los gastos de operaci&#xF3;n, conservaci&#xF3;n, administraci&#xF3;n y generales, los impuestos y las reservas para depreciaci&#xF3;n, castigos, accidentes y cr&#xE9;ditos dudosos. Las Empresas de gas que efect&#xFA;en otros negocios<span class=\"n\" id=\"n_3\">DTO 1297<br>INTERIOR<br>D.O.12.03.1958</span> ajenos a la explotaci&#xF3;n del gas deber&#xE1;n presentar anualmente, al 31 de Diciembre de cada a&#xF1;o, a la Direcci&#xF3;n General de Servicios El&#xE9;ctricos y de Gas, adem&#xE1;s del Balance consolidado de la Empresa, otro balance en que consten separadamente los Activos, los Pasivos, las Entradas, los Gastos y las Utilidades, y todo otro an&#xE1;lisis contable que determine la direcci&#xF3;n que correspondan exclusiva o parcialmente al negocio del gas. </div></div>"
+        },
+        {
+          "part_id": 9049910,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 131. La Direcci&#xF3;n informar&#xE1; al gobierno la solicitud, no antes de que hayan transcurrido 15 d&#xED;as, a partir de la &#xFA;ltima publicaci&#xF3;n de la solicitud o del t&#xE9;rmino de los seis d&#xED;as fijados en el art&#xED;culo anterior. El informe dar&#xE1; cuenta de las observaciones que se hayan presentado, y propondr&#xE1; el nuevo pliego, justific&#xE1;ndolo con el c&#xE1;lculo estimativo de las entradas que &#xE9;l producir&#xE1; y de los gastos en que deber&#xE1; incurrir la Empresa. En relaci&#xF3;n con las cifras del pliego presentado<span class=\"n\" id=\"n_2\">DTO 585<br>INTERIOR<br>D.O.10.04.1965</span> por la Empresa, la Direcci&#xF3;n podr&#xE1; proponer o el Gobierno fijar, en definitiva, cifras correspondientes que sean superiores a aqu&#xE9;llas, siempre que el promedio de las cifras que se propongan o fijen no sea superior al promedio de las que aparezcan en el pliego de la Empresa. En todo caso, las cifras correspondientes a<span class=\"n\" id=\"n_3\">DTO 585<br>INTERIOR<br>D.O.10.04.1965</span> determinadas tarifas, cuyos montos m&#xE1;ximos se regulan especialmente, en la Ley de Servicios de Gas o en este Reglamento, deber&#xE1;n calcularse de acuerdo con las disposiciones respectivas. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 131. La Direcci&#xF3;n informar&#xE1; al gobierno la solicitud, no antes de que hayan transcurrido 15 d&#xED;as, a partir de la &#xFA;ltima publicaci&#xF3;n de la solicitud o del t&#xE9;rmino de los seis d&#xED;as fijados en el art&#xED;culo anterior. El informe dar&#xE1; cuenta de las observaciones que se hayan presentado, y propondr&#xE1; el nuevo pliego, justific&#xE1;ndolo con el c&#xE1;lculo estimativo de las entradas que &#xE9;l producir&#xE1; y de los gastos en que deber&#xE1; incurrir la Empresa. En relaci&#xF3;n con las cifras del pliego presentado<span class=\"n\" id=\"n_4\">DTO 585<br>INTERIOR<br>D.O.10.04.1965</span> por la Empresa, la Direcci&#xF3;n podr&#xE1; proponer o el Gobierno fijar, en definitiva, cifras correspondientes que sean superiores a aqu&#xE9;llas, siempre que el promedio de las cifras que se propongan o fijen no sea superior al promedio de las que aparezcan en el pliego de la Empresa. En todo caso, las cifras correspondientes a<span class=\"n\" id=\"n_5\">DTO 585<br>INTERIOR<br>D.O.10.04.1965</span> determinadas tarifas, cuyos montos m&#xE1;ximos se regulan especialmente, en la Ley de Servicios de Gas o en este Reglamento, deber&#xE1;n calcularse de acuerdo con las disposiciones respectivas. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2004-05-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1993-08-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-03-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1995-03-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9063694,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Instit&#xFA;yese el d&#xED;a 30 de noviembre como D&#xED;a del Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El Subsecretario de Educaci&#xF3;n y los Secretarios Regionales Ministeriales deber&#xE1;n, en ese d&#xED;a, organizar actos c&#xED;vicos dedicados a poner de relieve pol&#xED;ticas, programas y/o acciones educacionales de importancia nacional o regional.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico: Instit&#xFA;yese el d&#xED;a 30 de noviembre como D&#xED;a del Ministerio de Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El Subsecretario de Educaci&#xF3;n y los Secretarios Regionales Ministeriales deber&#xE1;n, en ese d&#xED;a, organizar actos c&#xED;vicos dedicados a poner de relieve pol&#xED;ticas, programas y/o acciones educacionales de importancia nacional o regional.</div><div class=\"p\">&nbsp; &nbsp; Las celebraciones pertinentes podr&#xE1;n realizarse en<span class=\"n\" id=\"n_0\">DS 18<br>EDUCACION<br>ART. UNICO<br>D.O. 06.03.1995</span> otra fecha por razones de servicio fundadas, calificadas por el Subsecretario de Educaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

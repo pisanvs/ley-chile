@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-09-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-11-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8417664,
+          "old": "<div><div class=\"p\">N&#xD3;MINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUER&#xCD;A JUREL X REGI&#xD3;N, INDIVIDUALIZADA EN EL ART&#xCD;CULO 1&#xBA; DEL DECRETO N&#xBA;545 DE 1998, DEL MINISTERIO DE ECONOM&#xCD;A, FOMENTO Y RECONSTRUCCI&#xD3;N </div></div>",
+          "new": "<div><div class=\"p\">N&#xD3;MINA DE ARMADORES INDUSTRIALES Y EMBARCACIONES HABILITADOS PARA REALIZAR ACTIVIDADES PESQUERAS EN LA UNIDAD DE PESQUER&#xCD;A JUREL X REGI&#xD3;N, INDIVIDUALIZADA EN EL ART&#xCD;CULO 1&#xBA; DEL DECRETO N&#xBA;545 DE 1998, DEL MINISTERIO DE ECONOM&#xCD;A, FOMENTO Y RECONSTRUCCI&#xD3;N </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

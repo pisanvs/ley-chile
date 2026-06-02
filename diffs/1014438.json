@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2010-06-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-06-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8933488,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1. Des&#xED;gnase a D. M&#xF3;nica Patricia Winckler Rietzsch, RUT 7.031.353-7, en el cargo de Secretaria Regional Ministerial de Salud de la Regi&#xF3;n de Los Lagos, grado 2&#xB0; EUS., 40% de asignaci&#xF3;n de responsabilidad superior, m&#xE1;s la asignaci&#xF3;n profesional correspondiente, de acuerdo al art&#xED;culo 19&#xBA; de la Ley N&#xBA; 19.185, a contar del 1 de abril de 2010.</div><div class=\"p\">&nbsp; &nbsp;  2. El desempe&#xF1;o de estas funciones est&#xE1; afecto a rendici&#xF3;n de fianza, y por razones impostergables de buen servicio, la persona asumir&#xE1; en la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp;  3.- Imp&#xFA;tese el gasto correspondiente al &#xCD;tem 21-01-001, del presupuesto del Ministerio de Salud.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>1. Des&#xED;gnase a D. M&#xF3;nica Patricia Winckler Rietzsch, RUT 7.031.353-7, en el cargo de Secretaria Regional Ministerial de Salud de la Regi&#xF3;n de Los Lagos, grado 2&#xB0; EUS., 40% de asignaci&#xF3;n de responsabilidad superior, m&#xE1;s la asignaci&#xF3;n profesional correspondiente, de acuerdo al art&#xED;culo 19&#xBA; de la Ley N&#xBA; 19.185, a contar del 1 de abril de 2010.</div><div class=\"p\">&nbsp; &nbsp;  2. El desempe&#xF1;o de estas funciones est&#xE1; afecto a rendici&#xF3;n de fianza, y por razones impostergables de buen servicio, la persona asumir&#xE1; en la fecha indicada, sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp;  3.- Imp&#xFA;tese el gasto correspondiente al &#xCD;tem 21-01-001, del presupuesto del Ministerio de Salud.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 1 del Decreto 51, Salud, publicado el 25.06.2010, complementa la presente norma, en el sentido de dejar establecido que la funcionaria se acoge a lo dispuesto en el art&#xED;culo 87&#xBA; letra e) del DFL 29 de2005 que fija el texto refundido, coordinado y sistematizado de la ley N&#xBA; 18.834, respecto del cargo titular de Director de Atenci&#xF3;n Primaria, 33 horas, que mantiene en el Servicio de Salud de Reloncav&#xED;.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2009-01-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-02-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8052638,
+          "old": "<div><div class=\"p\">COMPLEMENTO AL DECRETO N&#xBA; 1.031, DE 4 DE AGOSTO DEL 2008, PUBLICADO EL 6 DE OCTUBRE DEL 2008 </div></div>",
+          "new": "<div><div class=\"p\">COMPLEMENTO AL DECRETO N&#xBA; 1.031, DE 4 DE AGOSTO DEL 2008, PUBLICADO EL 8 DE OCTUBRE DEL 2008<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 20.02.2009</span></div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

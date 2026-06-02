@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "1998-06-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-07-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8331488,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Susp&#xE9;ndese la veda biol&#xF3;gica reproductiva del recurso Loco Concholepas concholepas establecida en la letra b) del art&#xED;culo 1&#xBA; del decreto exento N&#xBA; 268, de 1995, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, entre el 1 y el 20 de julio de 1998, ambas fechas inclusive, para la X y XI Regiones y entre el 1 y el 27 de julio de 1998, ambas fechas inclusive para la XII Regi&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Susp&#xE9;ndese la veda biol&#xF3;gica, reproductiva del recurso Loco Concholepas concholepas establecida en la letra b) del art&#xED;culo 1&#xBA; del decreto exento N&#xBA; 268, de 1995, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, entre el 1 y el 31 de julio de<span class=\"n\" id=\"n_0\">DTO 309 EXENTO<br>ECONOMIA<br>ART. UNICO<br>D.O.20.07.1998</span> 1998, ambas fechas inclusive, para la X y XI Regiones y entre el 1 y el 27 de julio de 1998, ambas fechas inclusive para la XII Regi&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1998-07-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8331488,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Susp&#xE9;ndese la veda biol&#xF3;gica, reproductiva del recurso Loco Concholepas concholepas establecida en la letra b) del art&#xED;culo 1&#xBA; del decreto exento N&#xBA; 268, de 1995, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, entre el 1 y el 31 de julio de<span class=\"n\" id=\"n_0\">DTO 309 EXENTO<br>ECONOMIA<br>ART. UNICO<br>D.O.20.07.1998</span> 1998, ambas fechas inclusive, para la X y XI Regiones y entre el 1 y el 27 de julio de 1998, ambas fechas inclusive para la XII Regi&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Susp&#xE9;ndese la veda biol&#xF3;gica, reproductiva del recurso Loco Concholepas concholepas establecida en la letra b) del art&#xED;culo 1&#xBA; del decreto exento N&#xBA; 268, de 1995, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, entre el 1 y el 31 de julio de 1998, ambas fechas inclusive, para la X y XI Regiones y entre el 1 de julio y el 11 de agosto de 1998, ambas<span class=\"n\" id=\"n_0\">DTO 320 EXENTO<br>ECONOMIA<br>ART. UNICO<br>D.O. 25.07.1998</span> fechas inclusive para la XII Regi&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1998-07-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8331488,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Susp&#xE9;ndese la veda biol&#xF3;gica, reproductiva del recurso Loco Concholepas concholepas establecida en la letra b) del art&#xED;culo 1&#xBA; del decreto exento N&#xBA; 268, de 1995, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, entre el 1 y el 31 de julio de 1998, ambas fechas inclusive, para la X y XI Regiones y entre el 1 de julio y el 11 de agosto de 1998, ambas<span class=\"n\" id=\"n_0\">DTO 320 EXENTO<br>ECONOMIA<br>ART. UNICO<br>D.O. 25.07.1998</span> fechas inclusive para la XII Regi&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Susp&#xE9;ndese la veda biol&#xF3;gica, reproductiva del recurso Loco Concholepas concholepas establecida en la letra b) del art&#xED;culo 1&#xBA; del decreto exento N&#xBA; 268, de 1995, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, entre<span class=\"n\" id=\"n_0\">DTO 322 EX.,ECONOMIA<br>ART. 1&#xBA;<br>D.O. 31.07.1998<br>DTO 320 EX.,ECONOMIA<br>ART. UNICO<br>D.O. 25.07.1998</span> el 1 de julio y el 7 de agosto de 1998, ambas fechas inclusive, para la X y XI Regiones y entre el 1 de julio y el 11 de agosto de 1998, ambas fechas inclusive para la XII Regi&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

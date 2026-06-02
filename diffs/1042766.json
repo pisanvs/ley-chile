@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2012-09-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-08-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9288539,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. F&#xED;jense los siguientes trazados que deber&#xE1;n utilizar los servicios de transporte p&#xFA;blico rural, efectuado por buses y minibuses, al interior de la zona urbana de la comuna de Pitrufqu&#xE9;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/27701.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2. La presente resoluci&#xF3;n entrar&#xE1; en vigencia en el plazo de 30 d&#xED;as a contar de su publicaci&#xF3;n en el Diario Oficial.</div><br><div class=\"p\">&nbsp; &nbsp;  3. Para dar cumplimiento a lo estipulado en el numeral anterior, una vez notificadas las empresas que prestan servicios desde o hacia la comuna de Pitrufqu&#xE9;n, &#xE9;stas deber&#xE1;n presentar la documentaci&#xF3;n respectiva en esta Secretar&#xED;a Regional Ministerial para modificar sus Certificados de Inscripci&#xF3;n en el Registro Nacional de Servicios de Transporte P&#xFA;blico, de modo de incluir la v&#xED;as de acceso y/o egreso, establecidas en esta resoluci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  4. Carabineros de Chile e inspectores municipales y del Ministerio de Transportes y Telecomunicaciones, fiscalizar&#xE1;n el fiel cumplimiento de lo dispuesto en la presente resoluci&#xF3;n.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. F&#xED;jense los siguientes trazados que deber&#xE1;n utilizar los servicios de transporte p&#xFA;blico rural, efectuado por buses y minibuses, al interior de la zona urbana de la comuna de Pitrufqu&#xE9;n<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1206001&amp;idParte=10513278&amp;idVersion=2024-08-20\">Resoluci&#xF3;n 709 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 20.08.2024</a></span>:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/186114.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2. La presente resoluci&#xF3;n entrar&#xE1; en vigencia en el plazo de 30 d&#xED;as a contar de su publicaci&#xF3;n en el Diario Oficial.</div><br><div class=\"p\">&nbsp; &nbsp;  3. Para dar cumplimiento a lo estipulado en el numeral anterior, una vez notificadas las empresas que prestan servicios desde o hacia la comuna de Pitrufqu&#xE9;n, &#xE9;stas deber&#xE1;n presentar la documentaci&#xF3;n respectiva en esta Secretar&#xED;a Regional Ministerial para modificar sus Certificados de Inscripci&#xF3;n en el Registro Nacional de Servicios de Transporte P&#xFA;blico, de modo de incluir la v&#xED;as de acceso y/o egreso, establecidas en esta resoluci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  4. Carabineros de Chile e inspectores municipales y del Ministerio de Transportes y Telecomunicaciones, fiscalizar&#xE1;n el fiel cumplimiento de lo dispuesto en la presente resoluci&#xF3;n.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1206001,
+      "fecha": "2024-08-20"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-01-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-02-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6461855,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- El Servicio Nacional de Pesca deber&#xE1; adoptar las medidas y efectuar los controles que sea necesarios para lograr un efectivo cumplimiento de las disposiciones del presente Decreto.</div><div class=\"p\">&nbsp; &nbsp;  Para tales efectos, el Servicio Nacional de Pesca, mediante resoluci&#xF3;n, podr&#xE1; establecer el procedimiento de control de las capturas el que podr&#xE1; incluir certificaci&#xF3;n de las mismas por una entidad auditora determinada por el Servicio y la fijaci&#xF3;n de puertos y horarios de desembarque.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- El Servicio Nacional de Pesca deber&#xE1; adoptar las medidas y efectuar los controles que sea necesarios para lograr un efectivo cumplimiento de las disposiciones del presente Decreto.</div><div class=\"p\">&nbsp; &nbsp;  INCISO DEROGADO<span class=\"n\" id=\"n_0\">DTO 161 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 18.02.2004</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

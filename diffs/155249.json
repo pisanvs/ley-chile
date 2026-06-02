@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-02-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1987-07-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6231638,
+          "old": "<div><div class=\"p\">AUTORIZA A DON MARIO KOTESKY LEAL PARA DESARROLLAR ACTIVIDADES PESQUERAS </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON MARIO KOTESKY LEAL PARA DESARROLLAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

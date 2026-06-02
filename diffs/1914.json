@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-05-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-01-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7104605,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO CIRCULAR N&#xB0; 20, DE 1995 </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO CIRCULAR N&#xB0; 20, DE 1995</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

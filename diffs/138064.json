@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1962-01-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1981-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9050912,
+          "old": "<div><div class=\"p\">Ley n&#xFA;m. 14.837</div><br><div class=\"p\">FACULTA AL COLEGIO DE PERIODISTAS PARA FIJAR ARANCELES PARA EL EJERCICIO DE LA PROFESION DE PERIODISTA</div><br><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Ley n&#xFA;m. 14.837</div><br><div class=\"p\">&nbsp; &nbsp;  FACULTA AL COLEGIO DE PERIODISTAS PARA FIJAR ARANCELES PARA EL EJERCICIO DE LA PROFESION DE PERIODISTA </div><div class=\"p\">&nbsp; &nbsp;  Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9050914,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o Los periodistas colegiados, solamente en cuanto ejerzan funciones propias de su profesi&#xF3;n, tendr&#xE1;n derecho a que sus servicios prestados en virtud de contrato de trabajo para empresas period&#xED;sticas, agencias informativas, radiodifusoras u otras empresas, sean retribuidos con sueldos m&#xED;nimos mensuales fijados anualmente por las Comisiones Mixtas de sueldos a que se refiere la ley N.o 7.295, de 22 de Octubre de 1942, considerando las distintas funciones period&#xED;sticas que desempe&#xF1;en, las categor&#xED;as o clases de las empresas empleadoras y, en su caso, el porcentaje de variaci&#xF3;n que hubiere experimentado el &#xED;ndice general de precios al consumidor que calcule la Direcci&#xF3;n General de Estad&#xED;stica y Censos, entre el mes de Diciembre del pen&#xFA;ltimo a&#xF1;o y el de Diciembre inmediatamente anterior al 1.o de Enero que corresponda. Para los efectos de lo dispuesto en el presente art&#xED;culo las Comisiones Provinciales Mixtas de Sueldos se integrar&#xE1;n, adem&#xE1;s, por dos representantes designados por los Consejos Regionales del Colegio de Periodistas y dos por las empresas empleadoras de la respectiva jurisdicci&#xF3;n territorial, y la Comisi&#xF3;n Central Mixta de Sueldos se integrar&#xE1;, en su caso, por dos representantes del Consejo Nacional del Colegio de Periodistas y dos en conjunto de la Asociaci&#xF3;n Nacional de la Prensa y de la Asociaci&#xF3;n de Radiodifusoras de Chile. En la misma forma designar&#xE1;n dos suplentes. Les ser&#xE1;n aplicables a estos miembros, lo dispuesto en los art&#xED;culos 7.o, 8.o, 9.o, 10.o y 16.o de la ley 7.295.</div><div class=\"p\">&nbsp; &nbsp;  Un reglamento dictado por el Presidente de la Rep&#xFA;blica determinar&#xE1; las normas a que se sujetar&#xE1;n las comisiones en el desempe&#xF1;o de sus cometidos y la forma en que se proceder&#xE1; a la designaci&#xF3;n de sus miembros.</div><div class=\"p\">&nbsp; &nbsp;  De los reclamos a que d&#xE9; lugar la aplicaci&#xF3;n y pago del sueldo m&#xED;nimo a que se refiere este art&#xED;culo conocer&#xE1; la respectiva Comisi&#xF3;n Mixta de Sueldos.</div><div class=\"p\">&nbsp; &nbsp;  Una Comisi&#xF3;n Tripartita integrada por dos representantes del Consejo Nacional del Colegio de Periodistas y dos en conjunto de la Asociaci&#xF3;n Nacional de la Prensa y de la Asociaci&#xF3;n de Radiodifusoras de Chile, presidida por el presidente de la Comisi&#xF3;n Central Mixta de Sueldos, elaborar&#xE1; el proyecto de reglamento a que se refiere el inciso anterior, en el plazo de sesenta d&#xED;as, y lo elevar&#xE1; a la consideraci&#xF3;n del Presidente de la Rep&#xFA;blica, quien deber&#xE1; dictar el reglamento en un plazo de treinta d&#xED;as contados desde la fecha en que reciba el respectivo proyecto.</div><div class=\"p\">&nbsp; &nbsp;  Las infracciones a la presente ley ser&#xE1;n sancionadas de acuerdo con las leyes N.os 7.295 y 12.045 y dem&#xE1;s disposiciones legales que penan las infracciones a las leyes del trabajo&quot;.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o DEROGADO<span class=\"n\" id=\"n_0\">LEY 18018<br>Art. 2&#xBA; f)<br>D.O. 14.08.1981</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

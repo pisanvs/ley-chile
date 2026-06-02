@@ -1,0 +1,77 @@
+[
+  {
+    "fecha": "1993-01-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-01-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7194793,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;: Sin perjuicio de lo dispuesto en la resoluci&#xF3;n N&#xB0; 1.129-81 del Ministerio de Transportes y Telecomunicaciones, en lo relativo a la publicidad interior en los veh&#xED;culos de transporte p&#xFA;blico de pasajeros, los buses y taxibuses no podr&#xE1;n exhibir en el exterior de su carrocer&#xED;a ninguna otra inscripci&#xF3;n, dibujo, se&#xF1;alizaci&#xF3;n o colores que los relativos a la individualizaci&#xF3;n de los servicios, con la excepci&#xF3;n del &#xE1;rea destinada a publicidad.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;: Sin perjuicio de lo dispuesto en la resoluci&#xF3;n N&#xB0; 1.129-81 del Ministerio de Transportes y Telecomunicaciones, en lo relativo a la publicidad interior en los veh&#xED;culos de transporte p&#xFA;blico de pasajeros, los buses y taxibuses no podr&#xE1;n exhibir en el exterior de su carrocer&#xED;a ninguna otra inscripci&#xF3;n, dibujo, se&#xF1;alizaci&#xF3;n o colores que los relativos a la individualizaci&#xF3;n de los servicios, con la excepci&#xF3;n del &#xE1;rea destinada a publicidad y el nombre y pictograma de<span class=\"n\" id=\"n_0\">RES 99, TRANSPORTES<br>N&#xBA; 1<br>D.O. 08.01.1994</span> la empresa. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1994-08-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7194794,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;: La combinaci&#xF3;n de color blanco y amarillo de los veh&#xED;culos a que hace referencia la presente resoluci&#xF3;n no podr&#xE1; ser utilizada por ning&#xFA;n otro veh&#xED;culo de locomoci&#xF3;n colectiva que preste servicio en la ciudad de Santiago.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;: La disposici&#xF3;n de color blanco y<span class=\"n\" id=\"n_1\">RES 211, TRANSPORTES<br>N&#xBA; 1<br>D.O. 29.08.1994</span> amarillo en los veh&#xED;culos a que hace referencia la presente Resoluci&#xF3;n, s&#xF3;lo podr&#xE1; ser utilizada por aquellos servicios autorizados para circular en v&#xED;as de la ciudad de Santiago, mediante el correspondiente proceso de licitaci&#xF3;n y de acuerdo a lo dispuesto por la Ley 18.696.</div><div class=\"p\">&nbsp; &nbsp; Los veh&#xED;culos no licitados igualmente podr&#xE1;n usar dichos colores, pero, en este caso, los colores blanco y amarillo, estar&#xE1;n separados por una franja de color rojo de 50 cent&#xED;metros de ancho situada a cinco cent&#xED;metros bajo las ventanas y a lo largo de todo el per&#xED;metro del veh&#xED;culo. El color rojo mencionado, est&#xE1; definido en la norma chilena NCH 1927.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1994-12-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7194792,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;: Los buses y taxibuses podr&#xE1;n exhibir en el exterior de su carrocer&#xED;a avisos publicitarios los que deber&#xE1;n inscribirse exclusivamente sobre el &#xE1;rea amarilla de su costado izquierdo dentro de un rect&#xE1;ngulo imaginario de dimensiones m&#xE1;ximas de 200 cm. de ancho y 100 cm. de alto, cuyo borde superior deber&#xE1; estar a 20 cm de la l&#xED;nea que divide la secci&#xF3;n amarilla de la blanca, y localizado aproximadamente en la parte central de dicha &#xE1;rea. Los avisos publicitarios s&#xF3;lo podr&#xE1;n ser de material flexible adhesivo o pintarse sobre la carrocer&#xED;a en el &#xE1;rea antes se&#xF1;alada, estando expresamente prohibido el uso de elementos r&#xED;gidos de tipo met&#xE1;lico, pl&#xE1;sticos, maderas u otros, adosados a ella.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;: Los buses y taxibuses podr&#xE1;n exhibir<span class=\"n\" id=\"n_0\">RES 297, TRANSPORTES<br>N&#xBA; 1<br>D.O. 05.12.1994</span> en el exterior de su carrocer&#xED;a avisos publicitarios, los que deber&#xE1;n inscribirse exclusivamente sobre el &#xE1;rea amarilla de su costado izquierdo dentro de un rect&#xE1;ngulo imaginario de dimensiones m&#xE1;ximas de 200 cm. de ancho y 100 cm. de alto, o dentro de un rect&#xE1;ngulo imaginario de dimensiones m&#xE1;ximas de 300 cm. de ancho y 60 cm. de alto, cuyo borde superior deber&#xE1; estar a 20 cm. de la l&#xED;nea que divide la secci&#xF3;n amarilla de la blanca, y localizado aproximadamente en la parte central de dicha &#xE1;rea. Los avisos publicitarios s&#xF3;lo podr&#xE1;n ser de material flexible adhesivo o pintarse sobre la carrocer&#xED;a en el &#xE1;rea se&#xF1;alada, estando expresamente prohibido el uso de elementos r&#xED;gidos de tipo met&#xE1;lico, pl&#xE1;sticos, maderas u otros, adosados a ella. Adem&#xE1;s, en los mismos veh&#xED;culos podr&#xE1; exhibirse en el exterior de su carrocer&#xED;a, sobre el &#xE1;rea amarilla de su costado izquierdo el nombre de la empresa y pictograma o logotipo, dentro de un rect&#xE1;ngulo imaginario de dimensiones de 30 cm. de alto y de 154 cm. de ancho, localizado a 20 cm. de la l&#xED;nea que divide la secci&#xF3;n amarilla de la blanca y a 30 cm. del final del bus. El nombre de la empresa deber&#xE1; ser de 13 cms. de alto, con un m&#xE1;ximo de 120 cms. de largo. Dentro del rect&#xE1;ngulo imaginario pueden haber dos l&#xED;neas de 13 cm. de alto separada por 4 cm.</div><div class=\"p\">&nbsp; &nbsp; El texto debe ir siempre alineado a la derecha.</div><div class=\"p\">&nbsp; &nbsp; El pictograma deber&#xE1; ser de 30 cm. por lado, y estar&#xE1; a la derecha del nombre de la empresa separado por 4 cm. (1)</div><br></div>"
+        },
+        {
+          "part_id": 7194793,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;: Sin perjuicio de lo dispuesto en la resoluci&#xF3;n N&#xB0; 1.129-81 del Ministerio de Transportes y Telecomunicaciones, en lo relativo a la publicidad interior en los veh&#xED;culos de transporte p&#xFA;blico de pasajeros, los buses y taxibuses no podr&#xE1;n exhibir en el exterior de su carrocer&#xED;a ninguna otra inscripci&#xF3;n, dibujo, se&#xF1;alizaci&#xF3;n o colores que los relativos a la individualizaci&#xF3;n de los servicios, con la excepci&#xF3;n del &#xE1;rea destinada a publicidad y el nombre y pictograma de<span class=\"n\" id=\"n_0\">RES 99, TRANSPORTES<br>N&#xBA; 1<br>D.O. 08.01.1994</span> la empresa. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;: Sin perjuicio de lo dispuesto en la resoluci&#xF3;n N&#xB0; 1.129-81 del Ministerio de Transportes y Telecomunicaciones, en lo relativo a la publicidad interior en los veh&#xED;culos de transporte p&#xFA;blico de pasajeros, los buses y taxibuses no podr&#xE1;n exhibir en el exterior de su carrocer&#xED;a ninguna otra inscripci&#xF3;n, dibujo, se&#xF1;alizaci&#xF3;n o colores que los relativos a la individualizaci&#xF3;n de los servicios, con la excepci&#xF3;n del &#xE1;rea destinada a publicidad y el nombre y pictograma de<span class=\"n\" id=\"n_1\">RES 99, TRANSPORTES<br>N&#xBA; 1<br>D.O. 08.01.1994</span> la empresa. </div></div>"
+        },
+        {
+          "part_id": 7194794,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;: La disposici&#xF3;n de color blanco y<span class=\"n\" id=\"n_1\">RES 211, TRANSPORTES<br>N&#xBA; 1<br>D.O. 29.08.1994</span> amarillo en los veh&#xED;culos a que hace referencia la presente Resoluci&#xF3;n, s&#xF3;lo podr&#xE1; ser utilizada por aquellos servicios autorizados para circular en v&#xED;as de la ciudad de Santiago, mediante el correspondiente proceso de licitaci&#xF3;n y de acuerdo a lo dispuesto por la Ley 18.696.</div><div class=\"p\">&nbsp; &nbsp; Los veh&#xED;culos no licitados igualmente podr&#xE1;n usar dichos colores, pero, en este caso, los colores blanco y amarillo, estar&#xE1;n separados por una franja de color rojo de 50 cent&#xED;metros de ancho situada a cinco cent&#xED;metros bajo las ventanas y a lo largo de todo el per&#xED;metro del veh&#xED;culo. El color rojo mencionado, est&#xE1; definido en la norma chilena NCH 1927.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;: La disposici&#xF3;n de color blanco y<span class=\"n\" id=\"n_2\">RES 211, TRANSPORTES<br>N&#xBA; 1<br>D.O. 29.08.1994</span> amarillo en los veh&#xED;culos a que hace referencia la presente Resoluci&#xF3;n, s&#xF3;lo podr&#xE1; ser utilizada por aquellos servicios autorizados para circular en v&#xED;as de la ciudad de Santiago, mediante el correspondiente proceso de licitaci&#xF3;n y de acuerdo a lo dispuesto por la Ley 18.696.</div><div class=\"p\">&nbsp; &nbsp; Los veh&#xED;culos no licitados igualmente podr&#xE1;n usar dichos colores, pero, en este caso, los colores blanco y amarillo, estar&#xE1;n separados por una franja de color rojo de 50 cent&#xED;metros de ancho situada a cinco cent&#xED;metros bajo las ventanas y a lo largo de todo el per&#xED;metro del veh&#xED;culo. El color rojo mencionado, est&#xE1; definido en la norma chilena NCH 1927.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1997-06-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7194790,
+          "old": "<div><div class=\"p\">REGLAMENTA COLORES DE VEH&#xCD;CULOS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 100.- Santiago, 7 de octubre de 1992.- Visto: Lo dispuesto en el art&#xED;culo 56&#xBA; de la Ley de Tr&#xE1;nsito, </div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>",
+          "new": "<div><div class=\"p\">REGLAMENTA COLORES DE VEH&#xCD;CULOS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 100.- Santiago, 7 de octubre de 1992.- Visto: Lo dispuesto en el art&#xED;culo 56&#xBA; de la Ley de Tr&#xE1;nsito, </div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

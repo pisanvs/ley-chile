@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-02-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-02-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8642577,
+          "old": "<div><div class=\"p\">&#xA0;</div></div>",
+          "new": "<div><div class=\"p\">@@</div></div>"
+        }
+      ]
+    }
+  }
+]

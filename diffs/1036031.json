@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2012-01-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-12-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9226230,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; F&#xED;janse al interior de la zona urbana de la ciudad de San Carlos, los siguientes trazados que deber&#xE1;n utilizar los servicios de locomoci&#xF3;n colectiva rural prestados con buses, minibuses y taxis colectivos, para ingresar y salir de los terminales que se se&#xF1;alan:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/23508.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; D&#xE9;jense sin efecto las <a href=\"https://www.leychile.cl/Navegar?idNorma=1011165&amp;idParte=0&amp;idVersion=\">resoluciones exentas N&#xBA; 34, de 2 de febrero de 2010</a> y <a href=\"https://www.leychile.cl/Navegar?idNorma=1015216&amp;idParte=0&amp;idVersion=\">N&#xBA; 117, de 14 de junio de 2010</a>, ambas de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Regi&#xF3;n del Biob&#xED;o.</div><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; F&#xED;janse al interior de la zona urbana de la ciudad de San Carlos, los siguientes trazados que deber&#xE1;n utilizar los servicios de locomoci&#xF3;n colectiva rural prestados con buses, minibuses y taxis colectivos, para ingresar y salir de los terminales que se se&#xF1;alan:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/23508.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; D&#xE9;jense sin efecto las resoluciones exentas N&#xBA; 34, de 2 de febrero de 2010 y N&#xBA; 117, de 14 de junio de 2010, ambas de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Regi&#xF3;n del Biob&#xED;o.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El numeral 1 de la Resoluci&#xF3;n 668 Exenta, Transportes, publicada el 27.12.2018, modifica la presente norma en el sentido de incorporar a continuaci&#xF3;n del recuadro IV, correspondiente a terminal comercial de transporte San Carlos Ltda. el siguiente cuadro V. Terminal &quot;Sociedad de Transportes Comercial e Inversiones La Palmera Ltda.&quot; (Manuel Matta N&#xBA; 1433) de la manera que la citada norma indica.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2025-05-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9226230,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; F&#xED;janse al interior de la zona urbana de la ciudad de San Carlos, los siguientes trazados que deber&#xE1;n utilizar los servicios de locomoci&#xF3;n colectiva rural prestados con buses, minibuses y taxis colectivos, para ingresar y salir de los terminales que se se&#xF1;alan:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/23508.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; D&#xE9;jense sin efecto las resoluciones exentas N&#xBA; 34, de 2 de febrero de 2010 y N&#xBA; 117, de 14 de junio de 2010, ambas de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Regi&#xF3;n del Biob&#xED;o.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El numeral 1 de la Resoluci&#xF3;n 668 Exenta, Transportes, publicada el 27.12.2018, modifica la presente norma en el sentido de incorporar a continuaci&#xF3;n del recuadro IV, correspondiente a terminal comercial de transporte San Carlos Ltda. el siguiente cuadro V. Terminal &quot;Sociedad de Transportes Comercial e Inversiones La Palmera Ltda.&quot; (Manuel Matta N&#xBA; 1433) de la manera que la citada norma indica.<br></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; F&#xED;janse al interior de la zona urbana de la ciudad de San Carlos, los siguientes trazados que deber&#xE1;n utilizar los servicios de locomoci&#xF3;n colectiva rural prestados con buses, minibuses y taxis colectivos, para ingresar y salir de los terminales que se se&#xF1;alan:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div></div><br><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/23508.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; D&#xE9;jense sin efecto las resoluciones exentas N&#xBA; 34, de 2 de febrero de 2010 y N&#xBA; 117, de 14 de junio de 2010, ambas de la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones de la Regi&#xF3;n del Biob&#xED;o.</div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El numeral 1 de la Resoluci&#xF3;n 668 Exenta, Transportes, publicada el 27.12.2018, modifica la presente norma en el sentido de incorporar a continuaci&#xF3;n del recuadro IV, correspondiente a terminal comercial de transporte San Carlos Ltda. el siguiente cuadro V. Terminal &quot;Sociedad de Transportes Comercial e Inversiones La Palmera Ltda.&quot; (Manuel Matta N&#xBA; 1433) de la manera que la citada norma indica.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br> <br>&nbsp; &nbsp;  El numeral 1 de la Resoluci&#xF3;n 88 Exenta, Transportes, publicada el 14.04.2025, modifica la presente norma en el sentido de&nbsp; incorporar en la tabla correspondiente a terminales de buses y minibuses, a continuaci&#xF3;n del recuadro V, correspondiente al terminal &quot;Sociedad de Transportes Comercial e Inversiones La Palmera Ltda.&quot; (Manuel Matta N&#xB0; 1433), como numeral VI.&nbsp; &nbsp; </div></div>"
+        }
+      ]
+    }
+  }
+]

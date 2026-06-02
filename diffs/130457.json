@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-01-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8339447,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Conc&#xE9;dese, por gracia, a cada una de las siguientes personas: F&#xE9;lix Huentelaf Ala&#xF1;anco, Rut.</div><div class=\"p\">5.657.244-9; Heriberto Arnoldo Montes Le&#xF3;n, Rut.</div><div class=\"p\">16.855.938-0; Elba Rosa Silva Vel&#xE1;squez, Rut. 5.739.901-5;</div><div class=\"p\">Pr&#xF3;spero Urrutia Torres, Rut. 1.610.195-8; una pensi&#xF3;n equivalente a un ingreso m&#xED;nimo mensual.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Conc&#xE9;dese, por gracia, a cada una<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> de las siguientes personas: F&#xE9;lix Huentelaf Ala&#xF1;anco, Rut. 5.657.244-9; Heriberto Arnoldo Montes Le&#xF3;n, Rut. 16.855.938-0; Elba Rosa Silva Vel&#xE1;squez, Rut. 5.739.901-5; Pr&#xF3;spero Urrutia Torres, Rut. 1.610.195-8; una pensi&#xF3;n equivalente a un ingreso m&#xED;nimo mensual.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 68, Interior, publicado el 20.02.1999, facult&#xF3; a do&#xF1;a Ver&#xF3;nica de las Mercedes Le&#xF3;n Bustos, R.U.T. 7.278.521-5, para cobrar la referida pensi&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

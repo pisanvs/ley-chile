@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1998-07-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-08-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6122492,
+          "old": "<div><div class=\"p\">EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A MARCELO HOFMANN NIKLITSCHEK</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A MARCELO HOFMANN NIKLITSCHEK</div><br><br><br></div>"
+        },
+        {
+          "part_id": 6122493,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  La D&#xE9;cima Direcci&#xF3;n Regional Puerto Montt del Servicio de Impuestos Internos, por resoluci&#xF3;n N&#xBA; Ex. 893 de 17 de Julio de 1998, excepciona a contar del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n y hasta el 31 de julio de 1999, a Gonzalo Hofmann Niklitschek Rut N&#xBA; 7.929.427-6, del r&#xE9;gimen de cambio de sujeto del Impuesto al Valor Agregado, en las operaciones de ganado vivo, establecido en la resoluci&#xF3;n N&#xBA; Ex. 2.379/98 de la Direcci&#xF3;n Nacional, publicada en el Diario Oficial del 24.04.98, modificada por la resoluci&#xF3;n N&#xBA; Ex. 3.785/98, publicada en el Diario Oficial del d&#xED;a 30.06.98. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus operaciones de ganado vivo.-</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  La D&#xE9;cima Direcci&#xF3;n Regional Puerto Montt del Servicio de Impuestos Internos, por resoluci&#xF3;n N&#xBA; Ex. 893 de 17 de Julio de 1998, excepciona a contar del 1&#xBA; del mes siguiente al de esta publicaci&#xF3;n y hasta el 31 de julio de 1999, a Marcelo Hofmann Niklitschek<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 07.08.1998</span> Rut N&#xBA; 7.929.432-2, del r&#xE9;gimen de cambio de sujeto del Impuesto al Valor Agregado, en las operaciones de ganado vivo, establecido en la resoluci&#xF3;n N&#xBA; Ex. 2.379/98 de la Direcci&#xF3;n Nacional, publicada en el Diario Oficial del 24.04.98, modificada por la resoluci&#xF3;n N&#xBA; Ex. 3.785/98, publicada en el Diario Oficial del d&#xED;a 30.06.98. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus operaciones de ganado vivo.- </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-01-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-04-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8431581,
+          "old": "<div><div class=\"p\">DEFINE CRITERIOS RESPECTO DE LA ROTULACION DE LOS PRODUCTOS COSMETICOS DESTINADOS A LA PROTECCION SOLAR </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 193 exenta.- Santiago, 12 de enero de 2007.- Visto estos antecedentes: lo dispuesto en los art&#xED;culos 13&#xBA;, 28&#xBA; y 47&#xBA; del Reglamento del Sistema Nacional de Control de Cosm&#xE9;ticos; decreto supremo 239 de 2002, antecedentes cient&#xED;ficos de organismos internacionales reconocidos Diario Oficial de la Uni&#xF3;n Europea de 22 de septiembre de 2006 y la necesidad de establecer precauciones que deben observarse e instrucciones recomendadas para el empleo de productos de protecci&#xF3;n solar, las declaraciones que garanticen seguridad y eficacia de la protecci&#xF3;n solar y su eficacia y un rotulado sencillo y comprensible de modo que permita al consumidor elegir el producto m&#xE1;s adecuado, sin riesgo para su salud.</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: las disposiciones de los art&#xED;culos 94 y 102 del C&#xF3;digo Sanitario, del Reglamento del Sistema Nacional de Control de Cosm&#xE9;ticos; D.S. 239 de 2002, del Ministerio de Salud y en uso de las facultades que me confiere la letra b) del art&#xED;culo 39 del decreto ley N&#xBA; 2.763 de 1979, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DEFINE CRITERIOS RESPECTO DE LA ROTULACION DE LOS PRODUCTOS COSMETICOS DESTINADOS A LA PROTECCION SOLAR </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 193 exenta.- Santiago, 12 de enero de 2007.- Visto estos antecedentes: lo dispuesto en los art&#xED;culos 13&#xBA;, 28&#xBA; y 47&#xBA; del Reglamento del Sistema Nacional de Control de Cosm&#xE9;ticos; decreto supremo 239 de 2002, antecedentes cient&#xED;ficos de organismos internacionales reconocidos Diario Oficial de la Uni&#xF3;n Europea de 22 de septiembre de 2006 y la necesidad de establecer precauciones que deben observarse e instrucciones recomendadas para el empleo de productos de protecci&#xF3;n solar, las declaraciones que garanticen seguridad y eficacia de la protecci&#xF3;n solar y su eficacia y un rotulado sencillo y comprensible de modo que permita al consumidor elegir el producto m&#xE1;s adecuado, sin riesgo para su salud.</div><div class=\"p\">&nbsp; &nbsp;  Teniendo presente: las disposiciones de los art&#xED;culos 94 y 102 del C&#xF3;digo Sanitario, del Reglamento del Sistema Nacional de Control de Cosm&#xE9;ticos; D.S. 239 de 2002, del Ministerio de Salud y en uso de las facultades que me confiere la letra b) del art&#xED;culo 39 del decreto ley N&#xBA; 2.763 de 1979, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

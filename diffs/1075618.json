@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-03-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-06-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9582526,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA; transitorio: Las personas damnificadas beneficiadas con un subsidio sin aplicar en la modalidad de Construcci&#xF3;n en Sitio Propio por Autoconstrucci&#xF3;n y Vivienda Tipo en el marco del Plan de Reconstrucci&#xF3;n del terremoto del 27 de febrero de 2010, podr&#xE1;n optar a la homologaci&#xF3;n de dicho subsidio a las condiciones del DS N&#xBA; 49 (V. y U.), de 2011, y sus modificaciones.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA; transitorio: Las<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1104401&amp;idParte=9807734&amp;idVersion=2017-06-21\">Decreto 22, VIVIENDA<br>Art. 4<br>D.O. 21.06.2017</a></span> personas damnificadas beneficiadas con un subsidio sin aplicar en las modalidades de Construcci&#xF3;n en Sitio Propio, Autoconstrucci&#xF3;n Asistida y Proyecto Tipo, en el marco del Plan de Reconstrucci&#xF3;n del terremoto del 27 de febrero de 2010, podr&#xE1;n optar a la homologaci&#xF3;n de dicho subsidio a las condiciones del DS N&#xB0; 49, (V. y U.), de 2011, y sus modificaciones.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1104401,
+      "fecha": "2017-06-21"
+    }
+  }
+]

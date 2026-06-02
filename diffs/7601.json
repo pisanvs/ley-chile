@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-04-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-01-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9091031,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; CREA COMISION ORGANIZADORA DE LOS II JUEGOS DEL OCEANO PACIFICO 1998</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 17.- Santiago, 4 de marzo de 1996.- Visto: Lo dispuesto en los arts. 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, 2&#xB0; y 3&#xB0; letra a) de la Ley N&#xB0; 17.276, y 1&#xB0; N&#xB0; 98, del Decreto Supremo N&#xB0; 654, de 1994, del Ministerio del Interior, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;) Que Chile particip&#xF3;, junto a otros 27 pa&#xED;ses, durante los meses de junio y julio de 1995, en los Primeros Juegos del Oc&#xE9;ano Pac&#xED;fico, celebrados en Cali, Colombia.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;) Que en esa ocasi&#xF3;n, la unanimidad de los participantes design&#xF3; a nuestro pa&#xED;s para que organizara los II de estos Juegos, a realizarse en el a&#xF1;o 1998, y 3&#xB0;) Que el Supremo Gobierno tiene especial inter&#xE9;s en que la realizaci&#xF3;n de los Juegos en nuestra capital sea un completo &#xE9;xito y que demuestre, una vez m&#xE1;s, la tradicional capacidad del pa&#xED;s para organizar y desarrollar eventos deportivos de car&#xE1;cter internacional de gran envergadura; raz&#xF3;n por la que se ha estimado indispensable crear una Comisi&#xF3;n que tenga a su cargo tan importante tarea.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; CREA COMISION ORGANIZADORA DE LOS II JUEGOS DEL OCEANO PACIFICO 1998</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 17.- Santiago, 4 de marzo de 1996.- Visto: Lo dispuesto en los arts. 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, 2&#xB0; y 3&#xB0; letra a) de la Ley N&#xB0; 17.276, y 1&#xB0; N&#xB0; 98, del Decreto Supremo N&#xB0; 654, de 1994, del Ministerio del Interior, y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;) Que Chile particip&#xF3;, junto a otros 27 pa&#xED;ses, durante los meses de junio y julio de 1995, en los Primeros Juegos del Oc&#xE9;ano Pac&#xED;fico, celebrados en Cali, Colombia.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;) Que en esa ocasi&#xF3;n, la unanimidad de los participantes design&#xF3; a nuestro pa&#xED;s para que organizara los II de estos Juegos, a realizarse en el a&#xF1;o 1998, y 3&#xB0;) Que el Supremo Gobierno tiene especial inter&#xE9;s en que la realizaci&#xF3;n de los Juegos en nuestra capital sea un completo &#xE9;xito y que demuestre, una vez m&#xE1;s, la tradicional capacidad del pa&#xED;s para organizar y desarrollar eventos deportivos de car&#xE1;cter internacional de gran envergadura; raz&#xF3;n por la que se ha estimado indispensable crear una Comisi&#xF3;n que tenga a su cargo tan importante tarea.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

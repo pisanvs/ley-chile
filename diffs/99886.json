@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-06-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-12-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7233443,
+          "old": "<div><div class=\"p\">AUTORIZA CIRCULACION EN DIAS Y HORAS INHABILES, EXIME DE OBLIGACION DE LLEVAR DISTINTIVO ESTATAL DE VEHICULOS QUE INDICA Y MODIFICA DECRETOS N&#xBA;86, DE 1992, Y N&#xBA;66, DE 1997</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 15 de mayo de 1998.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 44 exento.- Visto: el oficio N&#xBA;330, de 1998, de la Corporaci&#xF3;n Nacional Forestal; lo dispuesto en el decreto ley N&#xBA;799, de 1974 y sus modificaciones; el decreto N&#xBA;654, de 1994, del Ministerio del Interior; el D.F.L. N&#xBA;294, de 1960; la resoluci&#xF3;n N&#xBA;520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica y los art&#xED;culos 32&#xBA;, N&#xBA;8, y 35&#xBA; de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que la Corporaci&#xF3;n Nacional Forestal debe destinar veh&#xED;culos para recepci&#xF3;n y traslado de representantes y delegaciones de pa&#xED;ses y organismos internacionales, control de quemas, combate de incendios forestales, labores de fiscalizaci&#xF3;n en Parques Nacionales, Reservas Forestales y Reservas Nacionales, acciones de fiscalizaci&#xF3;n de cortas ilegales y trabajos de expertos extranjeros, sin sujeci&#xF3;n a las limitaciones establecidas en el D.L. N&#xBA;799, de 1974.</div><div class=\"p\">Que es&nbsp; necesario otorgar autorizaciones a veh&#xED;culos que reemplazan a aquellos que cumplieron su vida &#xFA;til o porque se agregaron al cumplimiento de las funciones indicadas,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA CIRCULACION EN DIAS Y HORAS INHABILES, EXIME DE OBLIGACION DE LLEVAR DISTINTIVO ESTATAL DE VEHICULOS QUE INDICA Y MODIFICA DECRETOS N&#xBA;86, DE 1992, Y N&#xBA;66, DE 1997</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 15 de mayo de 1998.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 44 exento.- Visto: el oficio N&#xBA;330, de 1998, de la Corporaci&#xF3;n Nacional Forestal; lo dispuesto en el decreto ley N&#xBA;799, de 1974 y sus modificaciones; el decreto N&#xBA;654, de 1994, del Ministerio del Interior; el D.F.L. N&#xBA;294, de 1960; la resoluci&#xF3;n N&#xBA;520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica y los art&#xED;culos 32&#xBA;, N&#xBA;8, y 35&#xBA; de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que la Corporaci&#xF3;n Nacional Forestal debe destinar veh&#xED;culos para recepci&#xF3;n y traslado de representantes y delegaciones de pa&#xED;ses y organismos internacionales, control de quemas, combate de incendios forestales, labores de fiscalizaci&#xF3;n en Parques Nacionales, Reservas Forestales y Reservas Nacionales, acciones de fiscalizaci&#xF3;n de cortas ilegales y trabajos de expertos extranjeros, sin sujeci&#xF3;n a las limitaciones establecidas en el D.L. N&#xBA;799, de 1974.</div><div class=\"p\">Que es&nbsp; necesario otorgar autorizaciones a veh&#xED;culos que reemplazan a aquellos que cumplieron su vida &#xFA;til o porque se agregaron al cumplimiento de las funciones indicadas,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

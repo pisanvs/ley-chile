@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-03-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6511041,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 2: Podr&#xE1;n instalarse este tipo de establecimientos comerciales a partir de la calle Santos Dumont hacia el norte, excluy&#xE9;ndose toda la zona comunal desde la calle Santos Dumont hacia el sur. Se considerar&#xE1; como l&#xED;mite para cada una de las &#xE1;reas, a las aceras norte y sur de la calle Santos Dumont. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art. 2: Podr&#xE1;n instalarse este tipo de<span class=\"n\" id=\"n_0\">DTO 1832 EXENTO,<br>M. DE RECOLETA<br>N&#xBA; 1<br>D.O. 31.03.2006</span> establecimientos comerciales a partir de la calle Santos Dumont hacia el Norte, excluyendo por ende, toda la zona sur de la comuna desde esa calle. En esta &#xFA;ltima zona no podr&#xE1;n otorgarse, transferirse ni arrendarse en lo sucesivo, patentes de alcohol para ese giro. Se considerar&#xE1; como l&#xED;mite para cada una de las &#xE1;reas, a las aceras norte y sur de la calle mencionada, vale decir, la zona sur comienza en la acera sur de Santos Dumont, y la zona norte en la acera norte de esta calle.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

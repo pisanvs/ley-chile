@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2008-03-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-05-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8133014,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Lo dispuesto en el art&#xED;culo 116 bis D) de la Ley General de Urbanismo y Construcciones, ser&#xE1; aplicable a las zonas decretadas zona afectada por cat&#xE1;strofe, por un plazo de 6 a&#xF1;os, aun cuando no se encuentren vigentes los respectivos decretos. </div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1039656&amp;idParte=9254483&amp;idVersion=2012-05-04\">Ley 20582<br>Art. 4<br>D.O. 04.05.2012</a></span>&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;. DEROGADO.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1039656,
+      "fecha": "2012-05-04"
+    }
+  }
+]

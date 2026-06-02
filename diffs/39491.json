@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-09-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-05-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6024116,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; COMPLEMENTA RESOLUCION EXENTA N&#xB0; 1.213, DE 1992 DOCUMENTOS, PUBLICACIONES, VALOR, SUBSECRETARIA, MINISTERIO TRANSPORTES, MODIFICACION</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.065 exenta.- Santiago, 14 de Septiembre de 1994.- Visto: El decreto ley N&#xB0; 2.136 de 1978 en su texto fijado por el art&#xED;culo 83 de la Ley N&#xB0; 18.768.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; COMPLEMENTA RESOLUCION EXENTA N&#xB0; 1.213, DE 1992 DOCUMENTOS, PUBLICACIONES, VALOR, SUBSECRETARIA, MINISTERIO TRANSPORTES, MODIFICACION</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.065 exenta.- Santiago, 14 de Septiembre de 1994.- Visto: El decreto ley N&#xB0; 2.136 de 1978 en su texto fijado por el art&#xED;culo 83 de la Ley N&#xB0; 18.768.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

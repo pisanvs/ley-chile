@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1997-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-01-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8819933,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 85.- Ser&#xE1; aplicada en todo el territorio de la comuna de La Reina. Podr&#xE1; extenderse este &#xE1;mbito por acuerdo expreso entre entes locales que contribuyan a la aplicaci&#xF3;n del contenido de esta Ordenanza.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1010070&amp;idParte=8820289&amp;idVersion=2010-01-12\">Aviso S/N,<br>M. DE SANTA BARBARA<br>D.O. 12.01.2010</a></span>&nbsp; &nbsp;  Art. 85.- Ser&#xE1; aplicada en todo el territorio de la comuna de Santa B&#xE1;rbara. Podr&#xE1; extenderse este &#xE1;mbito por acuerdo expreso entre entes locales que contribuyan a la aplicaci&#xF3;n del contenido de esta Ordenanza.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1010070,
+      "fecha": "2010-01-12"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-10-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-03-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8350973,
+          "old": "<div><div class=\"p\">&#xA0;</div></div>",
+          "new": "<div><div class=\"p\">,</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1965-10-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-05-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8817693,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE LA LEGITIMACION ADOPTIVA Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  MINISTERIO DE JUSTICIA</div><div class=\"p\">&nbsp; &nbsp;  LEY NUM. 16.346</div><div class=\"p\">&nbsp; &nbsp;  DEROGADA<span class=\"n\" id=\"n_0\">LEY 18703<br>ART. 53</span></div><br><div class=\"p\">&nbsp; &nbsp; ESTABLECE LA LEGITIMACION ADOPTIV<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div>A</div><div class=\"p\">&nbsp; &nbsp; (Publicada en el Diario Oficial N&#xB0; 26.269, de 20 d<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 2</a></div>e octubre de 1965)</div><div class=\"p\">&nbsp; &nbsp; Por cuanto el Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente</div><div class=\"p\">&nbsp; &nbsp; Proyecto de ley:</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El art&#xED;culo 53 de la ley N&#xB0; 18.703, publicada en el &quot;Diario Oficial&quot; de 10 de mayo de 1988, dispuso lo siguiente: Der&#xF3;gase la ley N&#xB0; 16.346. Sin embargo, sus disposiciones continuar&#xE1;n aplic&#xE1;ndose a las solicitudes de legitimaci&#xF3;n adoptiva que se encontraren en tramitaci&#xF3;n con anterioridad a la vigencia de esa ley.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El texto de esta ley derogada se encuentra en una cinta de textos derogados (BDTA).<br></div></div>"
+        }
+      ]
+    }
+  }
+]

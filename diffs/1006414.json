@@ -1,0 +1,55 @@
+[
+  {
+    "fecha": "2009-09-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-04-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8785022,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Dest&#xED;nese las bandas de frecuencias detalladas en el art&#xED;culo siguiente, para la operaci&#xF3;n de equipos digitales de radiocomunicaci&#xF3;n destinados a acceso fijo inal&#xE1;mbrico, autorizados mediante concesi&#xF3;n de servicio intermedio de telecomunicaciones, en adelante el servicio.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1024874&amp;idParte=9135677&amp;idVersion=2011-04-29\">Resoluci&#xF3;n 1825 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 29.04.2011</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Dest&#xED;nese las bandas de frecuencias detalladas en el art&#xED;culo siguiente, para la operaci&#xF3;n de equipos digitales de radiocomunicaci&#xF3;n destinados a acceso inal&#xE1;mbrico, autorizados mediante concesi&#xF3;n de servicio intermedio de telecomunicaciones, en adelante el servicio.</div><br></div>"
+        },
+        {
+          "part_id": 8785027,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Las concesionarias del servicio podr&#xE1;n ubicar las estaciones terminales en cualquier parte dentro de la zona de servicio autorizada y podr&#xE1;n reubicarlas de acuerdo a la demanda, constituyendo radioestaciones m&#xF3;viles para efectos de lo dispuesto en el numeral 2 del inciso segundo del art&#xED;culo 14&#xBA; de la Ley General de Telecomunicaciones. Para el caso de las modificaciones de concesi&#xF3;n del servicio, se requerir&#xE1; en forma previa a la instalaci&#xF3;n de las estaciones base, de una autorizaci&#xF3;n otorgada mediante resoluci&#xF3;n exenta de la Subsecretar&#xED;a de Telecomunicaciones, en adelante la Subsecretar&#xED;a.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Las concesionarias del servicio podr&#xE1;n ubicar las estaciones terminales de los sistemas de acceso inal&#xE1;mbrico fijo en cualquier parte dentro de la zona de servicio autorizada y podr&#xE1;n reubicarlas de acuerdo a la demanda, constituyendo radioestaciones m&#xF3;viles para efectos de lo dispuesto<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1024874&amp;idParte=9135677&amp;idVersion=2011-04-29\">Resoluci&#xF3;n 1825 EXENTA,<br>TRANSPORTES<br>N&#xBA; 2<br>D.O. 29.04.2011</a></span> en el numeral 2 del inciso segundo del art&#xED;culo 14&#xBA; de la Ley General de Telecomunicaciones. Para el caso de las modificaciones de concesi&#xF3;n del servicio, se requerir&#xE1; en forma previa a la instalaci&#xF3;n de las estaciones base, de una autorizaci&#xF3;n otorgada mediante resoluci&#xF3;n exenta de la Subsecretar&#xED;a de Telecomunicaciones, en adelante la Subsecretar&#xED;a.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1024874,
+      "fecha": "2011-04-29"
+    }
+  },
+  {
+    "fecha": "2013-05-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8785023,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Para el servicio se asignar&#xE1;n, excepto en la Regi&#xF3;n Metropolitana, los bloques de frecuencias que a continuaci&#xF3;n se indican:</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; Bandas de Frecuencias&nbsp;  Bandas de Frecuencias</div><div class=\"p\"> BLOQUE&nbsp; Recepci&#xF3;n Estaciones&nbsp; &nbsp; Base Transmisi&#xF3;n </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (MHz)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Estaciones Base</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  (MHz)</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </div><div class=\"p\">&nbsp;  A&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  902-907&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 947-952</div><div class=\"p\">&nbsp;  B&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  908-913&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 953-958</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- Para el servicio se asignar&#xE1;n, excepto en la Regi&#xF3;n Metropolitana, los bloques de frecuencias que a continuaci&#xF3;n se indican:</div><br><br><div class=\"p\"> <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1051318&amp;idParte=9354466&amp;idVersion=2013-05-25\">Resoluci&#xF3;n 1763 EXENTA,<br>TRANSPORTES<br>Art. &#xDA;NICO<br>D.O. 25.05.2013</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/33017.jpg\"></div><br><br><br></div>"
+        },
+        {
+          "part_id": 8785027,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Las concesionarias del servicio podr&#xE1;n ubicar las estaciones terminales de los sistemas de acceso inal&#xE1;mbrico fijo en cualquier parte dentro de la zona de servicio autorizada y podr&#xE1;n reubicarlas de acuerdo a la demanda, constituyendo radioestaciones m&#xF3;viles para efectos de lo dispuesto<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1024874&amp;idParte=9135677&amp;idVersion=2011-04-29\">Resoluci&#xF3;n 1825 EXENTA,<br>TRANSPORTES<br>N&#xBA; 2<br>D.O. 29.04.2011</a></span> en el numeral 2 del inciso segundo del art&#xED;culo 14&#xBA; de la Ley General de Telecomunicaciones. Para el caso de las modificaciones de concesi&#xF3;n del servicio, se requerir&#xE1; en forma previa a la instalaci&#xF3;n de las estaciones base, de una autorizaci&#xF3;n otorgada mediante resoluci&#xF3;n exenta de la Subsecretar&#xED;a de Telecomunicaciones, en adelante la Subsecretar&#xED;a.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Las concesionarias del servicio podr&#xE1;n ubicar las estaciones terminales de los sistemas de acceso inal&#xE1;mbrico fijo en cualquier parte dentro de la zona de servicio autorizada y podr&#xE1;n reubicarlas de acuerdo a la demanda, constituyendo radioestaciones m&#xF3;viles para efectos de lo dispuesto<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1024874&amp;idParte=9135677&amp;idVersion=2011-04-29\">Resoluci&#xF3;n 1825 EXENTA,<br>TRANSPORTES<br>N&#xBA; 2<br>D.O. 29.04.2011</a></span> en el numeral 2 del inciso segundo del art&#xED;culo 14&#xBA; de la Ley General de Telecomunicaciones. Para el caso de las modificaciones de concesi&#xF3;n del servicio, se requerir&#xE1; en forma previa a la instalaci&#xF3;n de las estaciones base, de una autorizaci&#xF3;n otorgada mediante resoluci&#xF3;n exenta de la Subsecretar&#xED;a de Telecomunicaciones, en adelante la Subsecretar&#xED;a.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1051318,
+      "fecha": "2013-05-25"
+    }
+  }
+]

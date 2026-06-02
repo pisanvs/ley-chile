@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2004-07-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-07-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6488242,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 4.644 EXENTA, DE 2004 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 4.644 EXENTA, DE 2004 </div><br><br></div>"
+        },
+        {
+          "part_id": 6488244,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Eduardo Dom&#xED;nguez Olivares, Jefe Departamento de Capacitaci&#xF3;n en Empresas.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Eduardo Rodr&#xED;guez Olivares, Jefe Departamento de<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 23.07.2004</span> Capacitaci&#xF3;n en Empresas.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

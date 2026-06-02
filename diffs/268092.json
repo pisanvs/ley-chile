@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-01-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-01-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7360880,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Establ&#xE9;cese la siguiente prorrata para las empresas que se mencionan para el financiamiento del presupuesto del Panel de Expertos y la contribuci&#xF3;n expresada en pesos chilenos que a cada empresa corresponde enterar, seg&#xFA;n la aplicaci&#xF3;n de dicha prorrata, para el pago de la suma de $ 1.120.152.185, monto que se agrega al remanente del presupuesto de 2007 de $26.774.815.-, para cubrir el total del presupuesto de 2008 por $ 1.146.927.000.</div><br><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 04.01.2008, P&#xC1;GINA 6. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Establ&#xE9;cese la siguiente prorrata para<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> las empresas que se mencionan para el financiamiento del presupuesto del Panel de Expertos y la contribuci&#xF3;n expresada en pesos chilenos que a cada empresa corresponde enterar, seg&#xFA;n la aplicaci&#xF3;n de dicha prorrata, para el pago de la suma de $ 1.120.152.185, monto que se agrega al remanente del presupuesto de 2007 de $26.774.815.-, para cubrir el total del presupuesto de 2008 por $ 1.146.927.000.</div><br><br><div class=\"p\">&nbsp; &nbsp;  VER DIARIO OFICIAL DE 04.01.2008, P&#xC1;GINA 6.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la RES 19 Exenta, Miner&#xED;a, publicada el 11.01.2008, rectifica la tabla publicada en la presente norma. Por restricciones t&#xE9;cnicas temporales no se ha incorporado la citada modificaci&#xF3;n en el presente texto actualizado. </div></div>"
+        }
+      ]
+    }
+  }
+]

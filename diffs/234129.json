@@ -1,0 +1,77 @@
+[
+  {
+    "fecha": "2004-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-01-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6510933,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- El monto mensual que corresponder&#xE1; a cada funcionario por concepto de la asignaci&#xF3;n, podr&#xE1; ser de hasta un 12% de la suma de las siguientes remuneraciones: sueldo base, asignaci&#xF3;n de fiscalizaci&#xF3;n del art&#xED;culo 6&#xBA; del decreto ley N&#xBA; 3.551, de 1980, y asignaci&#xF3;n &#xFA;nica del art&#xED;culo 4&#xBA; de la ley N&#xBA; 18.717.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2021-08-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6510918,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese, para el personal de planta y a contrata de la Direcci&#xF3;n del Trabajo, con excepci&#xF3;n del jefe superior del servicio, una asignaci&#xF3;n de est&#xED;mulo y desempe&#xF1;o, asociada a la calidad de los servicios prestados a los usuarios de la instituci&#xF3;n y en su condici&#xF3;n de servicio fiscalizador.</div><div class=\"p\">&nbsp; &nbsp;  Corresponder&#xE1; esta asignaci&#xF3;n permanente al personal que haya prestado servicios, sin soluci&#xF3;n de continuidad, en la Direcci&#xF3;n del Trabajo, durante a lo menos seis meses del a&#xF1;o objeto de la evaluaci&#xF3;n, y que se encuentre, adem&#xE1;s, en servicio en dicha instituci&#xF3;n a la fecha del pago de la respectiva cuota de la asignaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 1&#xBA;. Derog<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1158983&amp;idParte=10223434&amp;idVersion=2021-10-01\">Ley 21327<br>Art. 11<br>D.O. 30.04.2021</a></span>ado.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 6510919,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &quot;TITULO I</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp;  Asignaci&#xF3;n de est&#xED;mulo y desempe&#xF1;o</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"> <span class=\"n\" id=\"n_0\">Ley 21327<br>Art. 11<br>D.O. 30.04.2021</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &quot;TITULO I</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp;  Asignaci&#xF3;n de est&#xED;mulo y desempe&#xF1;o</div><div class=\"p\">&nbsp; Derogado.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 6510920,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Para efectos de otorgar la asignaci&#xF3;n se&#xF1;alada en los art&#xED;culos precedentes, se aplicar&#xE1;n las reglas siguientes:</div><div class=\"p\">&nbsp; &nbsp;  1.- El Director del Trabajo, antes del 15 de octubre de cada a&#xF1;o, propondr&#xE1; al Ministro del Trabajo y Previsi&#xF3;n Social, un programa de mejoramiento de la calidad de los servicios prestados a los usuarios, indicando las metas que se cumplir&#xE1;n con sus correspondientes indicadores y ponderadores y la modalidad de cumplimiento de las mismas. Esta modalidad podr&#xE1; ser institucional o por equipos de trabajo o considerando ambas modalidades simult&#xE1;neamente.</div><div class=\"p\">&nbsp; &nbsp;  Las metas deber&#xE1;n estar asociadas a indicadores representativos, de manera que permitan medir objetivamente su grado de cumplimiento.</div><div class=\"p\">&nbsp; &nbsp;  2.- En el proceso de fijaci&#xF3;n de las metas se deber&#xE1; considerar mecanismos de participaci&#xF3;n, consulta e informaci&#xF3;n a las asociaciones de funcionarios de la instituci&#xF3;n que se hayan constituido conforme a las normas establecidas en la ley N&#xBA; 19.296.</div><div class=\"p\">&nbsp; &nbsp;  3.- A m&#xE1;s tardar el 30 de noviembre de cada a&#xF1;o, el Director del Trabajo suscribir&#xE1; con el Ministro del Trabajo y Previsi&#xF3;n Social, un convenio en que se determinar&#xE1;n las metas con sus correspondientes indicadores y ponderadores y la modalidad en que se cumplir&#xE1;n las mismas. El convenio se aprobar&#xE1; mediante un decreto del Ministerio del Trabajo y Previsi&#xF3;n Social, expedido bajo la f&#xF3;rmula &quot;por orden del Presidente de la Rep&#xFA;blica&quot;.</div><div class=\"p\">&nbsp; &nbsp;  4.- La evaluaci&#xF3;n del nivel de cumplimiento de las metas fijadas se efectuar&#xE1; por la Unidad de Auditor&#xED;a Interna del Ministerio del Trabajo y Previsi&#xF3;n Social en coordinaci&#xF3;n con el Consejo de Auditor&#xED;a Interna General de Gobierno, creado por decreto supremo N&#xBA; 12, de 1997, del Ministerio Secretar&#xED;a General de la Presidencia. Para estos efectos, se considerar&#xE1; la informaci&#xF3;n que proporcione la Unidad de Auditor&#xED;a Interna de la Direcci&#xF3;n del Trabajo o aquella que cumpla tales funciones. Esta evaluaci&#xF3;n se formalizar&#xE1; en un decreto del Ministerio del Trabajo y Previsi&#xF3;n Social, expedido bajo la misma f&#xF3;rmula del numeral anterior, el que deber&#xE1; dictarse a m&#xE1;s tardar el 31 de enero del a&#xF1;o calendario siguiente al que se cumplieron las metas.</div><div class=\"p\">&nbsp; &nbsp;  5.- Durante el mes de febrero del a&#xF1;o siguiente al del cumplimiento de las metas, por decreto del Ministerio del Trabajo y Previsi&#xF3;n Social, expedido bajo la f&#xF3;rmula &quot;por orden del Presidente de la Rep&#xFA;blica&quot;, se fijar&#xE1;n los porcentajes a pagar en cada a&#xF1;o por concepto de la asignaci&#xF3;n de est&#xED;mulo y desempe&#xF1;o, seg&#xFA;n sea el nivel de cumplimiento de los objetivos o metas comprometidas, los que podr&#xE1;n ser diferenciados entre las distintas plantas de personal o equipos de trabajo. En todo caso, el pago del beneficio no proceder&#xE1; de haberse cumplido menos del 75% de las metas fijadas, en el &#xE1;mbito correspondiente a la modalidad de cumplimiento de ellas.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 3&#xBA;.- Derog<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1158983&amp;idParte=10223434&amp;idVersion=2021-10-01\">Ley 21327<br>Art. 11<br>D.O. 30.04.2021</a></span>ado.</div><br><br></div>"
+        },
+        {
+          "part_id": 6510921,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- La asignaci&#xF3;n de est&#xED;mulo y desempe&#xF1;o se pagar&#xE1; en cuatro cuotas, en los meses de marzo, junio, septiembre y diciembre de cada a&#xF1;o. El monto a pagar en cada cuota ser&#xE1; el valor acumulado en el trimestre respectivo como resultado de la aplicaci&#xF3;n mensual del porcentaje establecido en el numeral 5 del art&#xED;culo anterior.</div><div class=\"p\">&nbsp; &nbsp;  Esta asignaci&#xF3;n tendr&#xE1; el car&#xE1;cter de imponible para pensiones y salud. Para determinar las imposiciones e impuestos a que se encuentre afecta, se distribuir&#xE1; su monto en forma proporcional a los meses que comprenda el per&#xED;odo que corresponda y los cuocientes se sumar&#xE1;n a las respectivas remuneraciones mensuales. Con todo, las imposiciones se deducir&#xE1;n de la parte que, sumada a las respectivas remuneraciones mensuales, no exceda del l&#xED;mite m&#xE1;ximo de imponibilidad.</div><div class=\"p\">&nbsp; &nbsp;  La asignaci&#xF3;n de est&#xED;mulo y desempe&#xF1;o no servir&#xE1; de base de c&#xE1;lculo de ninguna otra remuneraci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 4&#xBA;.- Derog<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1158983&amp;idParte=10223434&amp;idVersion=2021-10-01\">Ley 21327<br>Art. 11<br>D.O. 30.04.2021</a></span>ado. </div><br><br></div>"
+        },
+        {
+          "part_id": 6510922,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- A contar del a&#xF1;o 2006, los recursos que se destinar&#xE1;n al pago de la asignaci&#xF3;n de est&#xED;mulo y desempe&#xF1;o ser&#xE1; del 9,5% del producto que se obtenga de multiplicar por 12 la suma que por concepto de sueldo base, asignaci&#xF3;n de fiscalizaci&#xF3;n del art&#xED;culo 6&#xBA; del decreto ley N&#xBA; 3.551, de 1980, y asignaci&#xF3;n &#xFA;nica del art&#xED;culo 4&#xBA; de la ley N&#xBA; 18.717, haya pagado la Direcci&#xF3;n del Trabajo a sus funcionarios en el mes diciembre del a&#xF1;o objeto de la evaluaci&#xF3;n, excluido el jefe superior del servicio y los funcionarios que no se hayan desempe&#xF1;ado en la instituci&#xF3;n durante a lo menos seis meses de ese mismo a&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp;  Durante el mes de febrero de cada a&#xF1;o, por decreto del Ministerio del Trabajo y Previsi&#xF3;n Social, expedido bajo la f&#xF3;rmula &quot;por orden del Presidente de la Rep&#xFA;blica&quot;, el que tambi&#xE9;n ser&#xE1; suscrito por el Ministro de Hacienda, se fijar&#xE1; la cantidad m&#xE1;xima de recursos presupuestarios que anualmente se destinar&#xE1;n al pago de la asignaci&#xF3;n de est&#xED;mulo y desempe&#xF1;o, conforme lo establecido en el inciso anterior.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 5&#xBA;.- Derog<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1158983&amp;idParte=10223434&amp;idVersion=2021-10-01\">Ley 21327<br>Art. 11<br>D.O. 30.04.2021</a></span>ado.</div><br><br></div>"
+        },
+        {
+          "part_id": 6510923,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Dentro de los 60 d&#xED;as siguientes a la publicaci&#xF3;n de la presente ley, deber&#xE1; dictarse un reglamento expedido por el Ministerio del Trabajo y Previsi&#xF3;n Social, el que adem&#xE1;s deber&#xE1; ser suscrito por el Ministro de Hacienda, que establecer&#xE1; los procedimientos destinados a la definici&#xF3;n de los objetivos o metas con sus correspondientes indicadores y ponderadores; los mecanismos necesarios para la implementaci&#xF3;n de la modalidad que se utilizar&#xE1; para el cumplimiento de las metas; los m&#xE9;todos que se utilizar&#xE1;n para la participaci&#xF3;n, consulta e informaci&#xF3;n a las asociaciones de funcionarios; los procedimientos que permitir&#xE1;n conocer la opini&#xF3;n de los usuarios respecto de la calidad de los servicios que otorga la Direcci&#xF3;n del Trabajo; los mecanismos de control, evaluaci&#xF3;n y verificaci&#xF3;n del cumplimiento de las metas que se hayan fijado con sus correspondientes indicadores y ponderadores; la forma de determinar los porcentajes a pagar anualmente; el cronograma de los procedimientos necesarios para el otorgamiento del beneficio, y toda otra norma pertinente para la adecuada aplicaci&#xF3;n de la asignaci&#xF3;n de est&#xED;mulo y desempe&#xF1;o.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 6&#xBA;.- Deroga<span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1158983&amp;idParte=10223434&amp;idVersion=2021-10-01\">Ley 21327<br>Art. 11<br>D.O. 30.04.2021</a></span>do.</div><br><br></div>"
+        },
+        {
+          "part_id": 6510924,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- En los concursos internos de promoci&#xF3;n a que se refiere el art&#xED;culo 48 de la ley N&#xBA; 18.834, que se realicen en la Direcci&#xF3;n del Trabajo para proveer en propiedad los cargos vacantes en las plantas de directivos de carrera, de profesionales, de fiscalizadores y de t&#xE9;cnicos, podr&#xE1;n participar los funcionarios de este Servicio, sean de planta o a contrata, nombrados o contratados en algunos de los cinco grados inferiores al de la vacante convocada, cualquiera sea la planta a la que pertenezcan o est&#xE9;n asimilados, o en alg&#xFA;n grado superior al de la vacante trat&#xE1;ndose de funcionarios a contrata. Los funcionarios de planta o a contrata que postulen a los concursos de promoci&#xF3;n deber&#xE1;n cumplir con los requisitos correspondientes para el desempe&#xF1;o del respectivo cargo y encontrarse calificados en lista N&#xBA; 1, de distinci&#xF3;n, o en lista N&#xBA;2, buena. Adem&#xE1;s, en el caso de los empleos a contrata, se requerir&#xE1; haberse desempe&#xF1;ado en tal calidad en dicha Direcci&#xF3;n, a lo menos, durante cuatro a&#xF1;os inmediatamente previos al concurso.</div><div class=\"p\">&nbsp; &nbsp;  En lo no previsto en el inciso anterior, estos concursos de promoci&#xF3;n se regular&#xE1;n por las normas establecidas para ellos en la ley N&#xBA; 18.834.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 7&#xBA;.- Derog<span class=\"n\" id=\"n_8\"><a href=\"navegar?idNorma=1158983&amp;idParte=10223434&amp;idVersion=2021-10-01\">Ley 21327<br>Art. 11<br>D.O. 30.04.2021</a></span>ado.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 6510925,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  TITULO II</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; Concursos en la Direcci&#xF3;n del Trabajo</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"> <span class=\"n\" id=\"n_7\">Ley 21327<br>Art. 11<br>D.O. 30.04.2021</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TITULO II</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; Concursos en la Direcci&#xF3;n del Trabajo</div><div class=\"p\">&nbsp; Derogado.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 6510933,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- El monto mensual que corresponder&#xE1; a cada funcionario por concepto de la asignaci&#xF3;n, podr&#xE1; ser de hasta un 12% de la suma de las siguientes remuneraciones: sueldo base, asignaci&#xF3;n de fiscalizaci&#xF3;n del art&#xED;culo 6&#xBA; del decreto ley N&#xBA; 3.551, de 1980, y asignaci&#xF3;n &#xFA;nica del art&#xED;culo 4&#xBA; de la ley N&#xBA; 18.717.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 2&#xBA;.- Derog<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1158983&amp;idParte=10223434&amp;idVersion=2021-10-01\">Ley 21327<br>Art. 11<br>D.O. 30.04.2021</a></span>ado.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

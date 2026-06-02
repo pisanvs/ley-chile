@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2012-01-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-06-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9229193,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Resoluci&#xF3;n 3.832, del 7 de noviembre de 2011, del Ministerio de Defensa Nacional, Subsecretar&#xED;a para las Fuerzas Armadas, otorg&#xF3; a Cultivos Marinos del Pac&#xED;fico S.A., sociedad chilena, RUT 96.633.150-K, con domicilio en El Golf 99, piso N&#xBA; 10, Santiago, concesi&#xF3;n de acuicultura de porci&#xF3;n de agua y fondo de mar, solicitud 205103133, del 24 de junio de 2005, ubicada al Sureste de Isla Quenac, Sector 4, comuna de Quinchao, provincia de Chilo&#xE9;, X Regi&#xF3;n de Los Lagos, individualizada en la ubicaci&#xF3;n se&#xF1;alada en los Planos 881-2011/AC y 882-2011/AC, visados por la Autoridad Mar&#xED;tima de Tongoy.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Superficie 42,67 hect&#xE1;reas, delimitada por las siguientes coordenadas geogr&#xE1;ficas:</div><br><div class=\"p\">&nbsp; &nbsp;  Referidas a Carta SHOA 7390 (Datum WGS-84)</div><br><div class=\"p\">V&#xE9;rtice A&nbsp;  Lat. 42&#xBA;29&apos;44,86718&quot; S.&nbsp;  Long. 73&#xBA;18&apos;10,88457&quot; W.</div><div class=\"p\">V&#xE9;rtice B&nbsp;  Lat. 42&#xBA;29&apos;44,68143&quot; S.&nbsp;  Long. 73&#xBA;17&apos;58,35611&quot; W.</div><div class=\"p\">V&#xE9;rtice C&nbsp;  Lat. 42&#xBA;30&apos;34,74496&quot; S.&nbsp;  Long. 73&#xBA;17&apos;56,99890&quot; W.</div><div class=\"p\">V&#xE9;rtice D&nbsp;  Lat. 42&#xBA;30&apos;31,48001&quot; S.&nbsp;  Long. 73&#xBA;18&apos;09,62353&quot; W.</div><br><div class=\"p\">&nbsp; &nbsp; 3.- Esta concesi&#xF3;n de acuicultura tiene por objeto &#xFA;nico la realizaci&#xF3;n de actividades de cultivo en el &#xE1;rea concedida y deber&#xE1; amparar la instalaci&#xF3;n y operaci&#xF3;n de un cultivo del grupo de especies mit&#xED;lidos.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Resoluci&#xF3;n 3.832, del 7 de noviembre de 2011, del Ministerio de Defensa Nacional, Subsecretar&#xED;a para las Fuerzas Armadas, otorg&#xF3; a Cultivos Marinos del Pac&#xED;fico S.A., sociedad chilena, RUT 96.633.150-K, con domicilio en El Golf 99, piso N&#xBA; 10, Santiago, concesi&#xF3;n de acuicultura de porci&#xF3;n de agua <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1041421&amp;idParte=9270518&amp;idVersion=2012-06-30\">Aviso S/N, DEFENSA<br>N&#xBA; 1<br>D.O. 30.06.2012</a></span>y fondo de mar, solicitud 205103133, del 24 de junio de 2005, ubicada al Sureste de Isla Quenac, Sector 4, comuna de Quinchao, provincia de Chilo&#xE9;, X Regi&#xF3;n de Los Lagos, individualizada en la ubicaci&#xF3;n se&#xF1;alada en los Planos 881-2011/AC y 882-2011/AC, visados por la Autoridad Mar&#xED;tima de Achao.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Superficie 42,67 hect&#xE1;reas, delimitada por las siguientes coordenadas geogr&#xE1;ficas:</div><br><div class=\"p\">&nbsp; &nbsp;  Referidas a Carta SHOA 7390 (Datum WGS-84)</div><br><div class=\"p\">V&#xE9;rtice A&nbsp;  Lat. 42&#xBA;29&apos;44,86718&quot; S.&nbsp;  Long. 73&#xBA;18&apos;10,88457&quot; W.</div><div class=\"p\">V&#xE9;rtice B&nbsp;  Lat. 42&#xBA;29&apos;44,68143&quot; S.&nbsp;  Long. 73&#xBA;17&apos;58,35611&quot; W.</div><div class=\"p\">V&#xE9;rtice C&nbsp;  Lat. 42&#xBA;30&apos;34,74496&quot; S.&nbsp;  Long. 73&#xBA;17&apos;56,99890&quot; W.</div><div class=\"p\">V&#xE9;rtice D&nbsp;  Lat. 42&#xBA;30&apos;31,48001&quot; S.&nbsp;  Long. 73&#xBA;18&apos;09,62353&quot; W.</div><br><div class=\"p\">&nbsp; &nbsp; 3.- Esta concesi&#xF3;n de acuicultura tiene por objeto &#xFA;nico la realizaci&#xF3;n de actividades de cultivo en el &#xE1;rea concedida y deber&#xE1; amparar la instalaci&#xF3;n y operaci&#xF3;n de un cultivo del grupo de especies mit&#xED;lidos.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1041421,
+      "fecha": "2012-06-30"
+    }
+  }
+]

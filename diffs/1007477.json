@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-01-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-10-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8793829,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14: La venta de alcohol a menores de edad ser&#xE1; sancionada seg&#xFA;n lo dispuesto por el Art. n&#xBA; 29 de la ley 19.925, Ley de Alcoholes.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1018547&amp;idParte=9027497&amp;idVersion=2010-10-30\">Decreto 1879,<br>M. DE ARAUCO<br>N&#xB0; 1 c)<br>D.O. 30.10.2010</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14: La venta de bebidas alcoh&#xF3;licas a menores de edad ser&#xE1; sancionada seg&#xFA;n lo dispuesto en el art&#xED;culo 42 de la ley 19.925.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1018547,
+      "fecha": "2010-10-30"
+    }
+  }
+]

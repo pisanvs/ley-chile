@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-08-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-01-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8682492,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ACUERDA LOS PROCEDIMIENTOS DE APROBACION DE INSTRUMENTOS DE DEUDA EMITIDOS O GARANTIZADOS POR ESTADOS EXTRANJEROS, BANCOS CENTRALES O ENTIDADES BANCARIAS EXTRANJERAS O INTERNACIONALES, ACCIONES Y BONOS EMITIDOS POR EMPRESAS EXTRANJERAS, CUOTAS DE PARTICIPACION EMITIDAS POR FONDOS MUTUOS Y DE INVERSION EXTRANJEROS, Y DE LAS OPERACIONES DE COBERTURA DE RIESGO FINANCIERO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 10.- Santiago, 27 de Julio de 1995.</div><div class=\"p\">&nbsp; &nbsp; La Comisi&#xF3;n Clasificadora de Riesgo, en uso de las facultades establecidas en el art&#xED;culo 99, incisos sexto y s&#xE9;ptimo del art&#xED;culo 105, e inciso noveno del art&#xED;culo 106 del D.L. N&#xB0; 3.500, de 1980, acord&#xF3; en la septuag&#xE9;simo novena reuni&#xF3;n ordinaria realizada con fecha 27 de Julio de 1995 lo siguiente:</div><br></div>",
+          "new": "<div><div class=\"p\">ACUERDA LOS PROCEDIMIENTOS DE APROBACION DE INSTRUMENTOS DE DEUDA EMITIDOS O GARANTIZADOS POR ESTADOS EXTRANJEROS, BANCOS CENTRALES O ENTIDADES BANCARIAS EXTRANJERAS O INTERNACIONALES, ACCIONES Y BONOS EMITIDOS POR EMPRESAS EXTRANJERAS, CUOTAS DE PARTICIPACION EMITIDAS POR FONDOS MUTUOS Y DE INVERSION EXTRANJEROS, Y DE LAS OPERACIONES DE COBERTURA DE RIESGO FINANCIERO</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 10.- Santiago, 27 de Julio de 1995.</div><br><div class=\"p\">&nbsp; &nbsp; La Comisi&#xF3;n Clasificadora de Riesgo, en uso de las facultades establecidas en el art&#xED;culo 99, incisos sexto y s&#xE9;ptimo del art&#xED;culo 105, e inciso noveno del art&#xED;culo 106 del D.L. N&#xB0; 3.500, de 1980, acord&#xF3; en la septuag&#xE9;simo novena reuni&#xF3;n ordinaria realizada con fecha 27 de Julio de 1995 lo siguiente:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

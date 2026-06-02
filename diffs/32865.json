@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-01-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-11-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6005213,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DESIGNA A PERSONA QUE INDICA EN EL CARGO QUE SE&#xD1;ALA Santiago, 12 de Enero de 1995.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 76.- Vistos: el Art. 5&#xB0; letras e) y g) del D.F.L. N&#xB0; 1, de 1994, del Ministerio de Hacienda, el T&#xED;tulo V del Libro III del C&#xF3;digo Tributario y la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><div class=\"p\">&nbsp; &nbsp; dicto la siguiente R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DESIGNA A PERSONA QUE INDICA EN EL CARGO QUE SE&#xD1;ALA Santiago, 12 de Enero de 1995.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 76.- Vistos: el Art. 5&#xB0; letras e) y g) del D.F.L. N&#xB0; 1, de 1994, del Ministerio de Hacienda, el T&#xED;tulo V del Libro III del C&#xF3;digo Tributario y la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><div class=\"p\">&nbsp; &nbsp; dicto la siguiente R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

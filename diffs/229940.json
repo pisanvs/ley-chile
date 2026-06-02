@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2004-09-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-10-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7314371,
+          "old": "<div><div class=\"p\">APRUEBA AVISO QUE INDICA PARA SER EXHIBIDO EN BUSES DE LOCOMOCION COLECTIVA URBANA DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.199 exenta.- Santiago, 27 de agosto de 2004.- Visto: lo dispuesto en el art&#xED;culo 4&#xBA; de la resoluci&#xF3;n N&#xBA; 18 de 1997 y en el art&#xED;culo 1&#xBA;, numeral 5.3, de la resoluci&#xF3;n exenta N&#xBA;1.018 de 2003, ambas del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, y la carta N&#xBA; 561 de la Jefatura Zona Metropolitana Este de Carabineros de Chile, de fecha 12 de agosto de 2004,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA AVISO QUE INDICA PARA SER EXHIBIDO EN BUSES DE LOCOMOCION COLECTIVA URBANA DE SANTIAGO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.199 exenta.- Santiago, 27 de agosto de 2004.- Visto: lo dispuesto en el art&#xED;culo 4&#xBA; de la resoluci&#xF3;n N&#xBA; 18 de 1997 y en el art&#xED;culo 1&#xBA;, numeral 5.3, de la resoluci&#xF3;n exenta N&#xBA;1.018 de 2003, ambas del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes, y la carta N&#xBA; 561 de la Jefatura Zona Metropolitana Este de Carabineros de Chile, de fecha 12 de agosto de 2004,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        },
+        {
+          "part_id": 7314372,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base, a petici&#xF3;n de la Jefatura Zona Metropolitana Este de Carabineros de Chile, el aviso que a continuaci&#xF3;n se indica, para ser exhibido en el costado derecho de la carrocer&#xED;a de buses que prestan servicios de locomoci&#xF3;n colectiva urbana en la ciudad de Santiago a los que se aplica la resoluci&#xF3;n exenta N&#xBA; 1.018 de 2003, citada en Visto:</div><br><div class=\"p\">- &quot;Si un adulto te maltrata pide ayuda. Construyamos un futuro m&#xE1;s sano y pr&#xF3;spero. Cuidemos a los ni&#xF1;os hoy&quot;.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El aviso indicado precedentemente se acompa&#xF1;ar&#xE1; de la expresi&#xF3;n &quot;147 Fono Ni&#xF1;os&quot;, pudiendo incluirse los logotipos de la Federaci&#xF3;n Nacional de Empresas de Buses y Taxibuses F.G., del Instituto de Seguridad del Trabajo y de Carabineros de Chile.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Los avisos que se instalen deber&#xE1;n cumplir con las exigencias establecidas en el art&#xED;culo 4&#xBA; de la resoluci&#xF3;n N&#xBA; 18, de 1997, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;.- La presente resoluci&#xF3;n deber&#xE1; ser publicada en el Diario Oficial con cargo a la referida instituci&#xF3;n policial.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base, a petici&#xF3;n de la Jefatura Zona Metropolitana Este de Carabineros de Chile, el aviso que a continuaci&#xF3;n se indica, para ser exhibido en el costado derecho de la carrocer&#xED;a de buses que prestan servicios de locomoci&#xF3;n colectiva urbana en la ciudad de Santiago a los que se aplica la resoluci&#xF3;n exenta N&#xBA; 1.018 de 2003, citada en Visto:</div><br><div class=\"p\">- &quot;Si un adulto te maltrata pide ayuda. Construyamos un futuro m&#xE1;s sano y pr&#xF3;spero. Cuidemos a los ni&#xF1;os hoy&quot;.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El aviso indicado precedentemente se acompa&#xF1;ar&#xE1; de la expresi&#xF3;n &quot;147 Fono Ni&#xF1;os&quot;, pudiendo incluirse los logotipos de la Federaci&#xF3;n Nacional de Empresas de Buses y Taxibuses F.G., del Instituto de Seguridad del Trabajo y de Carabineros de Chile.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Los avisos que se instalen deber&#xE1;n cumplir con las exigencias establecidas en el art&#xED;culo 4&#xBA; de la resoluci&#xF3;n N&#xBA; 18, de 1997, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;.- La presente resoluci&#xF3;n deber&#xE1; ser publicada en el Diario Oficial con cargo al presupuesto vigente de la<span class=\"n\" id=\"n_0\">RES 1538 EXENTA,<br>TRANSPORTES<br>D.O. 25.10.2004</span> Subsecretar&#xED;a de Transportes.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

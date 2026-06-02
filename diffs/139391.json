@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1999-09-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-08-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8774419,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1005514&amp;idParte=8774302&amp;idVersion=2009-08-29\">Decreto 108, ECONOMIA<br>Art. UNICO<br>D.O. 29.08.2009</a></span>&nbsp; &nbsp;  Art&#xED;culo 4&#xBA; bis: La precalificaci&#xF3;n que realiza el jefe directo estar&#xE1; constituida por los conceptos, notas, las cuales deber&#xE1;n ser debidamente fundamentadas, y antecedentes que &#xE9;ste deber&#xE1; proporcionar por escrito, consider&#xE1;ndose para este efecto las anotaciones efectuadas en la hoja de vida durante el respectivo per&#xED;odo de calificaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Los funcionarios precalificadores, con el objeto de cumplir con dicha obligaci&#xF3;n principal, conservando la debida garant&#xED;a de los derechos funcionarios, deber&#xE1;n emitir dos informes de desempe&#xF1;o del personal de su dependencia en el respectivo per&#xED;odo de calificaciones, el primero comprendiendo desde el 1&#xBA; de septiembre hasta el 28 o 29 de febrero, en su caso, y el segundo, considerando el desempe&#xF1;o del funcionario desde el 1&#xBA; de marzo hasta el 30 de junio.</div><div class=\"p\">&nbsp; &nbsp;  Los informes de desempe&#xF1;o deber&#xE1;n ser notificados de acuerdo a lo dispuesto en el art&#xED;culo 19 del decreto N&#xBA;1.825, de 1998, del Ministerio del Interior, que Aprueba el Reglamento de Calificaciones del Personal Afecto al Estatuto Administrativo, para que el funcionario formule los descargos y observaciones que estime pertinentes, de conformidad con lo previsto en la referida norma.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, el Instituto Nacional de Estad&#xED;sticas podr&#xE1; utilizar otros instrumentos auxiliares para fundamentar y apoyar el sistema de evaluaci&#xF3;n del desempe&#xF1;o, de modo de contribuir a su necesaria objetividad.</div><div class=\"p\">&nbsp; &nbsp;  Para realizar la precalificaci&#xF3;n, la oficina encargada del personal, o la que haga sus veces, deber&#xE1; entregar al jefe directo, dentro de los primeros tres d&#xED;as del mes de septiembre de cada a&#xF1;o, las hojas de vida del personal de su dependencia.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1005514,
+      "fecha": "2009-08-29"
+    }
+  }
+]

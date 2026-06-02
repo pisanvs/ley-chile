@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1978-05-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1978-05-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9036681,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;- Decl&#xE1;rase, precisando el sentido de la ley, que el plazo administrativo se&#xF1;alado en el inciso tercero del art&#xED;culo 67 de la ley N&#xB0; 16.640, para asignar las tierras adquiridas por la Corporaci&#xF3;n de la Reforma Agraria, no tiene el car&#xE1;cter de plazo fatal y se refiere &#xFA;nicamente a las asignaciones autorizadas en los dos incisos anteriores de esa misma disposici&#xF3;n y que, por consiguiente, transcurrido dicho plazo se mantienen &#xED;ntegramente los efectos de la respectiva expropiaci&#xF3;n y la facultad de la Corporaci&#xF3;n para dar a dichas tierras cualquiera de los destinos autorizados por la ley.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Decl&#xE1;rase, precisando el sentido de<span class=\"n\" id=\"n_0\">RECTIFICADO<br>D. OF.<br>23-MAY-78</span> la ley, que el plazo administrativo se&#xF1;alado en el inciso tercero del art&#xED;culo 67 de la ley N&#xB0; 16.640, para asignar las tierras adquiridas por la Corporaci&#xF3;n de la Reforma Agraria, no tiene el car&#xE1;cter de plazo fatal y se refiere &#xFA;nicamente a las asignaciones autorizadas en los dos incisos anteriores de esa misma disposici&#xF3;n y que, por consiguiente, transcurrido dicho plazo se mantienen &#xED;ntegramente los efectos de la respectiva expropiaci&#xF3;n y la facultad de la Corporaci&#xF3;n para dar a dichas tierras cualquiera de los destinos autorizados por la ley.</div><br></div>"
+        },
+        {
+          "part_id": 9036682,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;- Decl&#xE1;rase, asimismo, v&#xE1;lidas todas las destinaciones efectuadas por la Corporaci&#xF3;n de la Reforma Agraria.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Decl&#xE1;rase, asimismo, v&#xE1;lidas todas las destinaciones efectuadas por la Corporaci&#xF3;n de la Reforma Agraria.</div><br></div>"
+        },
+        {
+          "part_id": 9036683,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;- No obstante lo dispuesto en el art&#xED;culo 1&#xB0;, las tierras adquiridas y no asignadas por la Corporaci&#xF3;n de la Reforma Agraria, con anterioridad a la publicaci&#xF3;n de este decreto ley, y respecto de las cuales hubiere transcurrido el plazo establecido en el inciso tercero del art&#xED;culo 67 de la ley N&#xB0; 16.640, podr&#xE1;n serlo de acuerdo a lo dispuesto en sus dos primeros incisos durante el plazo de dos a&#xF1;os, contado desde igual fecha y destinadas, sin l&#xED;mite de tiempo, a cualquiera de las finalidades se&#xF1;aladas en las letras a) a g) del mismo art&#xED;culo, as&#xED; como en el art&#xED;culo 70 de la misma ley y en cualquier otro precepto legal que permita disponer de predios expropiados por la Corporaci&#xF3;n de la Reforma Agraria. Los predios que no se hayan asignado de acuerdo a los incisos primero y segundo del referido art&#xED;culo 67 durante esos dos a&#xF1;os, s&#xF3;lo podr&#xE1;n serlo previo decreto supremo que autorice la respectiva asignaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- No obstante lo dispuesto en el art&#xED;culo 1&#xB0;, las tierras adquiridas y no asignadas por la Corporaci&#xF3;n de la Reforma Agraria, con anterioridad a la publicaci&#xF3;n de este decreto ley, y respecto de las cuales hubiere transcurrido el plazo establecido en el inciso tercero del art&#xED;culo 67 de la ley N&#xB0; 16.640, podr&#xE1;n serlo de acuerdo a lo dispuesto en sus dos primeros incisos durante el plazo de dos a&#xF1;os, contado desde igual fecha y destinadas, sin l&#xED;mite de tiempo, a cualquiera de las finalidades se&#xF1;aladas en las letras a) a g) del mismo art&#xED;culo, as&#xED; como en el art&#xED;culo 70 de la misma ley y en cualquier otro precepto legal que permita disponer de predios expropiados por la Corporaci&#xF3;n de la Reforma Agraria. Los predios que no se hayan asignado de acuerdo a los incisos primero y segundo del referido art&#xED;culo 67 durante esos dos a&#xF1;os, s&#xF3;lo podr&#xE1;n serlo previo decreto supremo que autorice la respectiva asignaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 9036684,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;- Se declara que las normas contenidas en este decreto ley no producir&#xE1;n efectos respecto de las sentencias judiciales ejecutoriadas que se hubieran dictado en relaci&#xF3;n con la interpretaci&#xF3;n del art&#xED;culo 67 de la ley N&#xB0; 16.640.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Se declara que las normas contenidas en este decreto ley no producir&#xE1;n efectos respecto de las sentencias judiciales ejecutoriadas que se hubieran dictado en relaci&#xF3;n con la interpretaci&#xF3;n del art&#xED;culo 67 de la ley N&#xB0; 16.640.</div><br></div>"
+        },
+        {
+          "part_id": 9036685,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea de Chile.- CESAR MENDOZA DURAN, General Director de Carabineros.- Alfonso M&#xE1;rquez de la Plata Irarr&#xE1;zaval, Ministro de Agricultura.</div><div class=\"p\">&nbsp; &nbsp; Lo que transcribo para su conocimiento.- Mario Duvauchelle Rodr&#xED;guez, Capit&#xE1;n de Nav&#xED;o (JT), Secretario de Legislaci&#xF3;n de la Junta de Gobierno.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Reg&#xED;strese en la Contralor&#xED;a General de la Rep&#xFA;blica, publ&#xED;quese en el Diario Oficial e ins&#xE9;rtese en la Recopilaci&#xF3;n Oficial de dicha Contralor&#xED;a.- AUGUSTO PINOCHET UGARTE, General de Ej&#xE9;rcito, Presidente de la Rep&#xFA;blica.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza A&#xE9;rea de Chile.- CESAR MENDOZA DURAN, General Director de Carabineros.- Alfonso M&#xE1;rquez de la Plata Irarr&#xE1;zaval, Ministro de Agricultura.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

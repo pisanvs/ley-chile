@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-11-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-01-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9386635,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Las estaciones bases de concesionarias de servicio p&#xFA;blico de telefon&#xED;a m&#xF3;vil y del mismo tipo, de servicio p&#xFA;blico de transmisi&#xF3;n de datos y de servicios intermedios de telecomunicaciones que provean medios a las citadas concesionarias de servicio p&#xFA;blico, que se instalen con objeto cubrir aumentos de demanda espor&#xE1;dicos o estacionales, tales como eventos masivos, emergencias y usos en temporada alta, se denominar&#xE1;n estaciones bases temporales y se entender&#xE1; que constituyen, dada su temporalidad, radioestaciones m&#xF3;viles para efectos de lo dispuesto en el numeral 2 del inciso segundo del art&#xED;culo 14&#xBA; de la ley, requiri&#xE9;ndose para su instalaci&#xF3;n, y en forma previa, autorizaci&#xF3;n mediante simple resoluci&#xF3;n de la Subsecretar&#xED;a. La autorizaci&#xF3;n tendr&#xE1; una duraci&#xF3;n equivalente a la del evento, emergencia o temporada alta y en ning&#xFA;n caso no podr&#xE1; exceder del plazo de 90 d&#xED;as corridos.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;. Las estaciones bases de concesionarias de servicio p&#xFA;blico de telefon&#xED;a m&#xF3;vil y del mismo tipo, de servicio p&#xFA;blico de transmisi&#xF3;n de datos y de servicios intermedios de telecomunicaciones que provean medios a las citadas concesionarias de servicio p&#xFA;blico, que se instalen con objeto cubrir aumentos de demanda espor&#xE1;dicos o estacionales, tales como eventos masivos, emergencias y usos en temporada alta, se denominar&#xE1;n estaciones bases temporales y se entender&#xE1; que constituyen, dada su temporalidad, radioestaciones m&#xF3;viles para efectos de lo dispuesto en el numeral 2 del inciso segundo del art&#xED;culo 14&#xBA; de la ley, requiri&#xE9;ndose para su instalaci&#xF3;n, y en forma previa, autorizaci&#xF3;n mediante simple resoluci&#xF3;n de la Subsecretar&#xED;a. La autorizaci&#xF3;n tendr&#xE1; una<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1057899&amp;idParte=9397033&amp;idVersion=2014-01-07\">Resoluci&#xF3;n 5022 EXENTA,<br>TRANSPORTES<br>D.O. 07.01.2014</a></span> duraci&#xF3;n equivalente a la del evento, emergencia o temporada alta y en ning&#xFA;n caso podr&#xE1; exceder del plazo de 90 d&#xED;as corridos.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1057899,
+      "fecha": "2014-01-07"
+    }
+  }
+]

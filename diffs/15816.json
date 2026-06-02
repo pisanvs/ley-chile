@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1996-10-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-11-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10377957,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1184027&amp;idParte=10377943&amp;idVersion=2022-11-09\">Decreto 145,<br>EDUCACI&#xD3;N<br>Art. segundo<br>D.O. 09.11.2022</a></span>rt&#xED;culo 3&#xB0; Para la selecci&#xF3;n de establecimientos correspondientes al a&#xF1;o 2024, no se considerar&#xE1; el resultado Simce del a&#xF1;o 2022.&nbsp; &nbsp;  </div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1184027,
+      "fecha": "2022-11-09"
+    }
+  }
+]

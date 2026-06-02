@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-01-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8233598,
+          "old": "<div><div class=\"p\">ESTABLECE NORMAS TECNICO ADMINISTRATIVAS PARA LA APLICACION DEL ARANCEL DEL REGIMEN DE PRESTACIONES DE SALUD DE LA LEY N&#xBA; 18.469 EN LA MODALIDAD DE LIBRE ELECCION</div><br><div class=\"p\">&nbsp; &nbsp;  (Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 6 exenta.- Santiago, 9 Enero de 1998.- Visto: Lo establecido en el art&#xED;culo 13&#xBA; de la Ley N&#xBA; 18.469; en la letra b) del art&#xED;culo 4&#xBA; y en el inciso segundo del art&#xED;culo 6&#xBA; del Decreto Ley N&#xBA; 2.763 de 1979; lo dispuesto en la Resoluci&#xF3;n N&#xBA; 5, del 9 de Enero de 1998, de&nbsp; los Ministerios de Salud y de Hacienda, que aprob&#xF3; el Arancel del R&#xE9;gimen de Prestaciones de Salud, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\"> ESTABLECE NORMAS TECNICO ADMINISTRATIVAS PARA LA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\"> APLICACION DEL ARANCEL DEL REGIMEN DE PRESTACIONES DE</div><div class=\"p\"> SALUD DE LA LEY N&#xBA; 18.469 EN LA MODALIDAD DE LIBRE</div><div class=\"p\">ELECCION</div><br><div class=\"p\">&nbsp; &nbsp;  (Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 6 exenta.- Santiago, 9 Enero de 1998.- Visto: Lo establecido en el art&#xED;culo 13&#xBA; de la Ley N&#xBA; 18.469; en la letra b) del art&#xED;culo 4&#xBA; y en el inciso segundo del art&#xED;culo 6&#xBA; del Decreto Ley N&#xBA; 2.763 de 1979; lo dispuesto en la Resoluci&#xF3;n N&#xBA; 5, del 9 de Enero de 1998, de&nbsp; los Ministerios de Salud y de Hacienda, que aprob&#xF3; el Arancel del R&#xE9;gimen de Prestaciones de Salud, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  La RES 177 EXENTA, Salud, publicada el 08.02.1999 derog&#xF3; la presente resoluci&#xF3;n.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-09-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-09-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8369382,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18&#xBA;: Ser&#xE1; responsabilidad de los Directores Regionales en aquellas regiones en que deban constituirse Juntas Calificadoras, el comunicar la n&#xF3;mina de integrantes de las respectivas Juntas al Director Nacional.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18&#xBA;: Existir&#xE1;n Juntas Calificadoras<span class=\"n\" id=\"n_0\">DTO 474, INTERIOR<br>D.O. 01.09.2005</span> Regionales, que elaborar&#xE1;n las calificaciones de sus funcionarios, cuando el numero de &#xE9;stos en la regi&#xF3;n sea igual o superior a 25 funcionarios. Dichas Juntas estar&#xE1;n integradas por los tres funcionarios de m&#xE1;s alto nivel jer&#xE1;rquico del Servicio en la regi&#xF3;n y por un representante del personal elegido para cada estamento.</div><div class=\"p\">&nbsp; &nbsp;  En las regiones en que el Servicio tenga menos de 25 funcionarios y en la Direcci&#xF3;n Regional Metropolitana, las calificaciones ser&#xE1;n realizadas por la Junta Calificadora Central. Le corresponder&#xE1; asimismo a &#xE9;sta evaluar a los integrantes de las Juntas Calificadoras Regionales</div><div class=\"p\">&nbsp; &nbsp; Ser&#xE1; responsabilidad de los Directores Regionales en aquellas regiones en que deban constituirse Juntas Calificadoras, el comunicar la n&#xF3;mina de integrantes de las respectivas Juntas al Director Nacional.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-01-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-08-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9546976,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Autor&#xED;zase, en m&#xE9;rito de la aprobaci&#xF3;n anterior, a Islandia, para exportar a Chile ovas de especies salm&#xF3;nidas, hasta el 31 de julio de 2015, bajo las siguientes condiciones:</div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; S&#xF3;lo podr&#xE1;n ser objeto de importaci&#xF3;n a Chile ovas de Salm&#xF3;n del Atl&#xE1;ntico procedentes de los siguientes centros de cultivo:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/46452.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Se reconocen los Programas Sanitarios Oficiales implementados por la Autoridad Competente de Islandia, The Icelandic Food and Veterinary Authority (MAST).</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; De conformidad con lo se&#xF1;alado en el numeral precedente, las condiciones de certificaci&#xF3;n para cada env&#xED;o, independiente del centro de origen, ser&#xE1;n las siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/46453.jpg\">.</div><br><div class=\"p\"> </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Autor&#xED;zase, en m&#xE9;rito de la aprobaci&#xF3;n anterior, a Islandia, para exportar a Chile ovas de especies salm&#xF3;nidas, hasta el<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> 31 de julio de 2015, bajo las siguientes condiciones:</div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; S&#xF3;lo podr&#xE1;n ser objeto de importaci&#xF3;n a Chile ovas de Salm&#xF3;n del Atl&#xE1;ntico procedentes de los siguientes centros de cultivo:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/46452.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Se reconocen los Programas Sanitarios Oficiales implementados por la Autoridad Competente de Islandia, The Icelandic Food and Veterinary Authority (MAST).</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; De conformidad con lo se&#xF1;alado en el numeral precedente, las condiciones de certificaci&#xF3;n para cada env&#xED;o, independiente del centro de origen, ser&#xE1;n las siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/46453.jpg\">.</div><br><br><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 6434 Exenta, Econom&#xED;a, publicada el 04.08.2015. modifica la presente norma en el sentido de prorrogar el plazo otorgado hasta el 31 de octubre de 2015.</div></div>"
+        }
+      ]
+    }
+  }
+]

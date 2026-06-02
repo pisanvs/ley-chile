@@ -1,0 +1,38 @@
+[
+  {
+    "fecha": "2000-06-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-09-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8442876,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;: El Servicio, en la medida que sus recursos lo permitan, deber&#xE1; otorgar a sus afiliados y cargas familiares reconocidas, los siguientes beneficios:</div><div class=\"p\">&nbsp; &nbsp;  a) Consulta m&#xE9;dica, consulta m&#xE9;dica domiciliaria, interconsulta y junta m&#xE9;dica.</div><div class=\"p\">&nbsp; &nbsp;  b) Intervenciones quir&#xFA;rgicas, atenci&#xF3;n de anestesistas y arsenaleras.</div><div class=\"p\">&nbsp; &nbsp;  c) Hospitalizaciones.</div><div class=\"p\">&nbsp; &nbsp;  d) Ex&#xE1;menes de laboratorio, rayos X, histopatol&#xF3;gicos y especializados de car&#xE1;cter m&#xE9;dico.</div><div class=\"p\">&nbsp; &nbsp;  e) Atenci&#xF3;n odontol&#xF3;gica.</div><div class=\"p\">&nbsp; &nbsp;  f) Medicamentos.</div><div class=\"p\">&nbsp; &nbsp;  g) Implantes.</div><div class=\"p\">&nbsp; &nbsp;  h) Marcapasos.</div><div class=\"p\">&nbsp; &nbsp;  i) Tratamientos m&#xE9;dicos especializados.</div><div class=\"p\">&nbsp; &nbsp;  j) Consultas y tratamientos especializados para la recuperaci&#xF3;n de la salud, efectuados por personal profesional, o t&#xE9;cnico autorizado de colaboraci&#xF3;n m&#xE9;dica.</div><div class=\"p\">&nbsp; &nbsp;  k) Adquisici&#xF3;n de anteojos, lentes de contactos, aud&#xED;fonos y aparatos ortop&#xE9;dicos.</div><div class=\"p\">&nbsp; &nbsp;  l) Toma de muestra de ex&#xE1;menes a domicilio.</div><div class=\"p\">&nbsp; &nbsp;  m) Atenci&#xF3;n de urgencia, primeros auxilios y enfermer&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  n) Atenci&#xF3;n obst&#xE9;trica.</div><div class=\"p\">&nbsp; &nbsp;  o) Traslados de enfermos.</div><div class=\"p\">&nbsp; &nbsp;  p) Insumos necesarios para el otorgamiento de las prestaciones de las letras b), d), g), h), i), j), m) precedentes.</div><div class=\"p\">&nbsp; &nbsp;  El monto de estos beneficios ser&#xE1; determinado anualmente por el Consejo.</div><div class=\"p\">&nbsp; &nbsp;  Igualmente, podr&#xE1; el Servicio de Bienestar<span class=\"n\" id=\"n_0\">DTO 55, TRABAJO<br>Art. &#xFA;nico<br>D.O. 12.09.2005</span> contratar y financiar con cargo a sus propios recursos, de acuerdo a sus disponibilidades presupuestarias, seguros de vida para sus afiliados y seguros de salud para solventar los gastos de salud de sus afiliados y/o sus cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio que los propios beneficiarios puedan concurrir a sufragar dichos seguros.</div><br></div>"
+        },
+        {
+          "part_id": 8442877,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  De los Beneficios</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": 8442858,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;: El Servicio, en la medida que sus recursos lo permitan, deber&#xE1; otorgar a sus afiliados y cargas familiares reconocidas, los siguientes beneficios:</div><div class=\"p\">&nbsp; &nbsp;  a) Consulta m&#xE9;dica, consulta m&#xE9;dica domiciliaria, interconsulta y junta m&#xE9;dica.</div><div class=\"p\">&nbsp; &nbsp;  b) Intervenciones quir&#xFA;rgicas, atenci&#xF3;n de anestesistas y arsenaleras.</div><div class=\"p\">&nbsp; &nbsp;  c) Hospitalizaciones.</div><div class=\"p\">&nbsp; &nbsp;  d) Ex&#xE1;menes de laboratorio, rayos X, histopatol&#xF3;gicos y especializados de car&#xE1;cter m&#xE9;dico.</div><div class=\"p\">&nbsp; &nbsp;  e) Atenci&#xF3;n odontol&#xF3;gica.</div><div class=\"p\">&nbsp; &nbsp;  f) Medicamentos.</div><div class=\"p\">&nbsp; &nbsp;  g) Implantes.</div><div class=\"p\">&nbsp; &nbsp;  h) Marcapasos.</div><div class=\"p\">&nbsp; &nbsp;  i) Tratamientos m&#xE9;dicos especializados.</div><div class=\"p\">&nbsp; &nbsp;  j) Consultas y tratamientos especializados para la recuperaci&#xF3;n de la salud, efectuados por personal profesional, o t&#xE9;cnico autorizado de colaboraci&#xF3;n m&#xE9;dica.</div><div class=\"p\">&nbsp; &nbsp;  k) Adquisici&#xF3;n de anteojos, lentes de contactos, aud&#xED;fonos y aparatos ortop&#xE9;dicos.</div><div class=\"p\">&nbsp; &nbsp;  l) Toma de muestra de ex&#xE1;menes a domicilio.</div><div class=\"p\">&nbsp; &nbsp;  m) Atenci&#xF3;n de urgencia, primeros auxilios y enfermer&#xED;a.</div><div class=\"p\">&nbsp; &nbsp;  n) Atenci&#xF3;n obst&#xE9;trica.</div><div class=\"p\">&nbsp; &nbsp;  o) Traslados de enfermos.</div><div class=\"p\">&nbsp; &nbsp;  p) Insumos necesarios para el otorgamiento de las prestaciones de las letras b), d), g), h), i), j), m) precedentes.</div><div class=\"p\">&nbsp; &nbsp;  El monto de estos beneficios ser&#xE1; determinado anualmente por el Consejo.</div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8442859,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; T I T U L O&nbsp; IV</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  De los Beneficios</div><br><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

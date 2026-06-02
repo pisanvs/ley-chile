@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-06-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-08-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6427962,
+          "old": "<div><div class=\"p\">DEROGA DECRETO N&#xBA; 173, DE 2002 Y FIJA ORDEN DE SUBROGACION VICEPRESIDENTE EJECUTIVO DE LA CORPORACION DE FOMENTO DE LA PRODUCCION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 26.- Santiago, 31 de enero de 2003.- Visto: La facultad que me confiere la letra a) del Art. 75&#xBA; del Estatuto Administrativo aprobado por la ley N&#xBA; 18.834; decreto N&#xBA; 173, de 2002, de Econom&#xED;a, y Ord. N&#xBA; 464 de 2003, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DEROGA DECRETO N&#xBA; 173, DE 2002 Y FIJA ORDEN DE SUBROGACION VICEPRESIDENTE EJECUTIVO DE LA CORPORACION DE FOMENTO DE LA PRODUCCION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 26.- Santiago, 31 de enero de 2003.- Visto: La facultad que me confiere la letra a) del Art. 75&#xBA; del Estatuto Administrativo aprobado por la ley N&#xBA; 18.834; decreto N&#xBA; 173, de 2002, de Econom&#xED;a, y Ord. N&#xBA; 464 de 2003, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

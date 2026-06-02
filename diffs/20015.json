@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-07-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-01-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7160369,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; EXTRACTO DE DECRETO EXENTO N&#xB0; 73, DE 1991 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO EXENTO N&#xB0; 73, DE 1991</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

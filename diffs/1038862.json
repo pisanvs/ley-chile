@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2012-04-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-06-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9248229,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Dest&#xED;nanse para uso de las unidades dependientes de la Subsecretar&#xED;a del Interior del Ministerio del Interior y Seguridad P&#xFA;blica, los veh&#xED;culos que incluye la n&#xF3;mina que se se&#xF1;ala a continuaci&#xF3;n, la cual forma parte integrante del presente decreto.</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25397.jpg\"></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Dest&#xED;nanse para uso de las unidades dependientes de la Subsecretar&#xED;a del Interior del Ministerio del Interior y Seguridad P&#xFA;blica, los veh&#xED;culos que incluye la n&#xF3;mina que se se&#xF1;ala a continuaci&#xF3;n,&nbsp; <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>la cual forma parte integrante del presente decreto.</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25397.jpg\"></div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del Decreto 1992 Exento, Interior publicado el 12.06.2012, modifica la presente norma en el sentido de agregar el veh&#xED;culo Autom&#xF3;vil Hyundai Genesis GLS 3.3 Aut., color negro, a&#xF1;o 2012, Placa Patente DWZC.67-1.</div></div>"
+        }
+      ]
+    }
+  }
+]

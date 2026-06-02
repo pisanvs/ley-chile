@@ -1,0 +1,28 @@
+[
+  {
+    "fecha": "1996-01-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-03-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8924024,
+          "old": null,
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xB0; 6.145, DE 1995</div><br><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": null,
+          "old": "<div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  }
+]

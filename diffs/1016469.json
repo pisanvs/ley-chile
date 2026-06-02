@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2010-08-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8968021,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Apru&#xE9;base la siguiente Norma T&#xE9;cnica N&#xBA; 117 sobre &quot;Inspecci&#xF3;n M&#xE9;dico Veterinaria de Aves de Corral y de sus Carnes&quot;, cuyo texto forma parte integrante de este decreto y deber&#xE1; ser publicada en la p&#xE1;gina web del Ministerio de Salud www.minsal.cl para su adecuado conocimiento y difusi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Una copia debidamente visada de este decreto y su Norma T&#xE9;cnica se mantendr&#xE1; en el Departamento de Asesor&#xED;a Jur&#xED;dica del Ministerio de Salud y en el Departamento de Alimentos y Nutrici&#xF3;n dependiente de la Subsecretar&#xED;a de Salud P&#xFA;blica.</div><br><div class=\"p\">&nbsp; &nbsp; </div><br><div class=\"ab\"><a href=\"Navegar/pdf/PDF/51373.PDF\">Descargar Texto Norma (PDF, 1 M)</a></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Apru&#xE9;base la siguiente Norma <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>T&#xE9;cnica N&#xBA; 117 sobre &quot;Inspecci&#xF3;n M&#xE9;dico Veterinaria de Aves de Corral y de sus Carnes&quot;, cuyo texto forma parte integrante de este decreto y deber&#xE1; ser publicada en la p&#xE1;gina web del Ministerio de Salud www.minsal.cl para su adecuado conocimiento y difusi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Una copia debidamente visada de este decreto y su Norma T&#xE9;cnica se mantendr&#xE1; en el Departamento de Asesor&#xED;a Jur&#xED;dica del Ministerio de Salud y en el Departamento de Alimentos y Nutrici&#xF3;n dependiente de la Subsecretar&#xED;a de Salud P&#xFA;blica.</div><br><br><br><div class=\"p\">&nbsp; &nbsp; </div><br><br><div class=\"ab\"><a href=\"Navegar/pdf/PDF/51373.PDF\">Descargar Texto Norma (PDF, 1 M)</a></div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; del Decreto 446 Exento, salud, publicado el 19.12.2017, modifica la presente norma en el sentido sustituir el Anexo N&#xB0; 2 &quot;Agentes sanitizantes a utilizar en carcasas y menudencias de aves&quot; por el que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

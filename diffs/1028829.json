@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2011-08-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-02-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9169474,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;. Designaci&#xF3;n Secretario Ejecutivo del Consejo y sus atribuciones. El Ministro de Vivienda y Urbanismo designar&#xE1; a un Secretario Ejecutivo que tendr&#xE1; las siguientes funciones y atribuciones:</div><br><div class=\"p\">a)&nbsp;  Comunicar al Consejo la citaci&#xF3;n a sesiones ordinarias y extraordinarias, seg&#xFA;n corresponda;</div><div class=\"p\">b)&nbsp;  Recibir las comunicaciones de asistencia e inasistencia a las respectivas sesiones que emitan los integrantes del Consejo;</div><div class=\"p\">c)&nbsp;  Comunicar al Presidente del Consejo si se ha cumplido el qu&#xF3;rum requerido para sesionar;</div><div class=\"p\">d)&nbsp;  Actuar como Ministro de fe;</div><div class=\"p\">e)&nbsp; &nbsp; Levantar Acta de cada sesi&#xF3;n que celebre el Consejo, mantener al d&#xED;a los Libros de Actas, de correspondencia y otros que pudiesen estimarse necesarios e insertar en un archivo especial la documentaci&#xF3;n que el Consejo determine incluir y conservar;</div><div class=\"p\">f)&nbsp;  Entregar a los miembros del Consejo una copia del Acta suscrita por el Presidente, y</div><div class=\"p\">g)&nbsp;  Desarrollar las dem&#xE1;s tareas espec&#xED;ficas que, en el marco de esta resoluci&#xF3;n, le encomiende el Presidente y el Consejo.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1074881&amp;idParte=9568101&amp;idVersion=2015-02-18\">Resoluci&#xF3;n 965 EXENTA, <br>VIVIENDA<br>N&#xB0; 2<br>D.O. 18.02.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;. Derogado</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1074881,
+      "fecha": "2015-02-18"
+    }
+  },
+  {
+    "fecha": "2015-05-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

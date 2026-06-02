@@ -1,0 +1,67 @@
+[
+  {
+    "fecha": "1999-06-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-02-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6173197,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  A contar del 1&#xBA; de enero del a&#xF1;o 2000, los buses y taxibuses, que presten servicios de transporte p&#xFA;blico de pasajeros de car&#xE1;cter urbano o rural no licitados, en la provincia de Santiago y las comunas de San Bernardo y Puente Alto, de las provincias de Maipo y Cordillera, respectivamente, deber&#xE1;n tener una antig&#xFC;edad que no sea superior a 12 a&#xF1;os.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A contar del 1&#xBA; de enero del a&#xF1;o 2000, los buses y taxibuses, que presten servicios de transporte p&#xFA;blico de pasajeros de car&#xE1;cter urbano o rural no licitados, en la provincia de Santiago y las comunas de San Bernardo y Puente Alto, de las provincias de Maipo y Cordillera, respectivamente, deber&#xE1;n tener una antig&#xFC;edad que no sea superior a 12 a&#xF1;os. Se except&#xFA;an de esta norma los buses<span class=\"n\" id=\"n_0\">RES 47, TRANSPORTES<br>D.O. 02.02.2000</span> que posean caracter&#xED;sticas de Pullman, los que para prestar los se&#xF1;alados servicios en la provincia y comunas mencionadas no podr&#xE1;n tener una antig&#xFC;edad superior a 18 a&#xF1;os. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2000-06-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6173197,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  A contar del 1&#xBA; de enero del a&#xF1;o 2000, los buses y taxibuses, que presten servicios de transporte p&#xFA;blico de pasajeros de car&#xE1;cter urbano o rural no licitados, en la provincia de Santiago y las comunas de San Bernardo y Puente Alto, de las provincias de Maipo y Cordillera, respectivamente, deber&#xE1;n tener una antig&#xFC;edad que no sea superior a 12 a&#xF1;os. Se except&#xFA;an de esta norma los buses<span class=\"n\" id=\"n_0\">RES 47, TRANSPORTES<br>D.O. 02.02.2000</span> que posean caracter&#xED;sticas de Pullman, los que para prestar los se&#xF1;alados servicios en la provincia y comunas mencionadas no podr&#xE1;n tener una antig&#xFC;edad superior a 18 a&#xF1;os. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A contar del 1&#xBA; de enero del a&#xF1;o 2000, los buses y taxibuses, que presten servicios de transporte p&#xFA;blico de pasajeros de car&#xE1;cter urbano o rural no licitados, en la provincia de Santiago y las comunas de San Bernardo y Puente Alto, de las provincias de Maipo y Cordillera, respectivamente, deber&#xE1;n tener una antig&#xFC;edad que no sea superior a 12 a&#xF1;os. Se except&#xFA;an de esta norma los buses<span class=\"n\" id=\"n_0\">RES 47, TRANSPORTES<br>D.O. 02.02.2000</span> que posean caracter&#xED;sticas de Pullman, los que para prestar los se&#xF1;alados servicios en la provincia y comunas mencionadas no podr&#xE1;n tener una antig&#xFC;edad superior a 18 a&#xF1;os. A contar del 1 de julio de 2000, s&#xF3;lo podr&#xE1;n<span class=\"n\" id=\"n_1\">RES 38, TRANSPORTES<br>D.O. 24.06.2000</span> incorporarse a la prestaci&#xF3;n de cualquiera de los servicios rurales se&#xF1;alados precedentemente, veh&#xED;culos de una antiguedad no superior a 10 a&#xF1;os. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2000-11-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6173197,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  A contar del 1&#xBA; de enero del a&#xF1;o 2000, los buses y taxibuses, que presten servicios de transporte p&#xFA;blico de pasajeros de car&#xE1;cter urbano o rural no licitados, en la provincia de Santiago y las comunas de San Bernardo y Puente Alto, de las provincias de Maipo y Cordillera, respectivamente, deber&#xE1;n tener una antig&#xFC;edad que no sea superior a 12 a&#xF1;os. Se except&#xFA;an de esta norma los buses<span class=\"n\" id=\"n_0\">RES 47, TRANSPORTES<br>D.O. 02.02.2000</span> que posean caracter&#xED;sticas de Pullman, los que para prestar los se&#xF1;alados servicios en la provincia y comunas mencionadas no podr&#xE1;n tener una antig&#xFC;edad superior a 18 a&#xF1;os. A contar del 1 de julio de 2000, s&#xF3;lo podr&#xE1;n<span class=\"n\" id=\"n_1\">RES 38, TRANSPORTES<br>D.O. 24.06.2000</span> incorporarse a la prestaci&#xF3;n de cualquiera de los servicios rurales se&#xF1;alados precedentemente, veh&#xED;culos de una antiguedad no superior a 10 a&#xF1;os. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A contar del 1&#xBA; de enero del a&#xF1;o 2000, los buses y taxibuses, que presten servicios de transporte p&#xFA;blico de pasajeros de car&#xE1;cter urbano o rural no licitados, en la provincia de Santiago y las comunas de San Bernardo y Puente Alto, de las provincias de Maipo y Cordillera, respectivamente, deber&#xE1;n tener una antig&#xFC;edad que no sea superior a 12 a&#xF1;os. Se except&#xFA;an de esta norma los buses<span class=\"n\" id=\"n_0\">RES 47, TRANSPORTES<br>D.O. 02.02.2000</span> que posean caracter&#xED;sticas de Pullman, los que para prestar los se&#xF1;alados servicios en la provincia y comunas mencionadas no podr&#xE1;n tener una antig&#xFC;edad superior a 18 a&#xF1;os. A contar del 1&#xBA; de julio de 2001 y del 1&#xBA; de julio<span class=\"n\" id=\"n_1\">RES 63, TRANSPORTES<br>D.O. 10.11.2000</span> de 2002, los se&#xF1;alados veh&#xED;culos, para prestar los servicios antes indicados, deber&#xE1;n tener una antig&#xFC;edad no superior a 11 a&#xF1;os y 10 a&#xF1;os respectivamente. A contar del 1 de julio de 2000, s&#xF3;lo podr&#xE1;n<span class=\"n\" id=\"n_2\">RES 38, TRANSPORTES<br>D.O. 24.06.2000</span> incorporarse a la prestaci&#xF3;n de cualquiera de los servicios rurales se&#xF1;alados precedentemente, veh&#xED;culos de una antiguedad no superior a 10 a&#xF1;os. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-08-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6173197,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  A contar del 1&#xBA; de enero del a&#xF1;o 2000, los buses y taxibuses, que presten servicios de transporte p&#xFA;blico de pasajeros de car&#xE1;cter urbano o rural no licitados, en la provincia de Santiago y las comunas de San Bernardo y Puente Alto, de las provincias de Maipo y Cordillera, respectivamente, deber&#xE1;n tener una antig&#xFC;edad que no sea superior a 12 a&#xF1;os. Se except&#xFA;an de esta norma los buses<span class=\"n\" id=\"n_0\">RES 47, TRANSPORTES<br>D.O. 02.02.2000</span> que posean caracter&#xED;sticas de Pullman, los que para prestar los se&#xF1;alados servicios en la provincia y comunas mencionadas no podr&#xE1;n tener una antig&#xFC;edad superior a 18 a&#xF1;os. A contar del 1&#xBA; de julio de 2001 y del 1&#xBA; de julio<span class=\"n\" id=\"n_1\">RES 63, TRANSPORTES<br>D.O. 10.11.2000</span> de 2002, los se&#xF1;alados veh&#xED;culos, para prestar los servicios antes indicados, deber&#xE1;n tener una antig&#xFC;edad no superior a 11 a&#xF1;os y 10 a&#xF1;os respectivamente. A contar del 1 de julio de 2000, s&#xF3;lo podr&#xE1;n<span class=\"n\" id=\"n_2\">RES 38, TRANSPORTES<br>D.O. 24.06.2000</span> incorporarse a la prestaci&#xF3;n de cualquiera de los servicios rurales se&#xF1;alados precedentemente, veh&#xED;culos de una antiguedad no superior a 10 a&#xF1;os. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A contar del 1&#xBA; de enero del a&#xF1;o 2000, los buses y taxibuses, que presten servicios de transporte p&#xFA;blico de pasajeros de car&#xE1;cter urbano o rural no licitados, en la provincia de Santiago y las comunas de San Bernardo y Puente Alto, de las provincias de Maipo y Cordillera, respectivamente, deber&#xE1;n tener una antig&#xFC;edad que no sea superior a 12 a&#xF1;os. Se except&#xFA;an de esta norma los buses<span class=\"n\" id=\"n_0\">RES 47, TRANSPORTES<br>D.O. 02.02.2000</span> que posean caracter&#xED;sticas de Pullman, los que para prestar los se&#xF1;alados servicios en la provincia y comunas mencionadas no podr&#xE1;n tener una antig&#xFC;edad superior a 18 a&#xF1;os. A contar del 1&#xBA; de julio de 2001 y del 1&#xBA; de julio<span class=\"n\" id=\"n_1\">RES 63, TRANSPORTES<br>D.O. 10.11.2000</span> de 2002, los se&#xF1;alados veh&#xED;culos, para prestar los servicios antes indicados, deber&#xE1;n tener una antig&#xFC;edad no superior a 11 a&#xF1;os y 10 a&#xF1;os respectivamente. A contar del 15 de agosto del a&#xF1;o 2003, s&#xF3;lo<span class=\"n\" id=\"n_2\">RES 60, TRANSPORTES<br>D.O. 13.08.2003</span> podr&#xE1;n incorporarse a la prestaci&#xF3;n de servicios rurales en la provincia y comunas antes se&#xF1;aladas, veh&#xED;culos nuevos, entendi&#xE9;ndose por &#xE9;stos, aquellos cuyo a&#xF1;o de fabricaci&#xF3;n anotado en el Registro Nacional de Veh&#xED;culos Motorizados, que mantiene el Registro Civil, corresponda al mismo a&#xF1;o en que se solicita su incorporaci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

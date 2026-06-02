@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-07-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-11-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8941838,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- N&#xF3;mbrase, a contar del 19 de abril de 2010, a don Gustavo Alejandro Alfaro Jarpa, RUT 9.854.708-8, en el cargo de Secretario Regional Ministerial del Trabajo y Previsi&#xF3;n Social en la Regi&#xF3;n Metropolitana, en el grado 4&#xBA; de la E.U.S., en la ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  2.- Por razones impostergables de buen servicio, la persona que se nombra asumir&#xE1; sus funciones en la fecha antes se&#xF1;alada, de conformidad con lo dispuesto por el art&#xED;culo 16&#xBA; de la ley N&#xBA; 18.834, sin esperar la total tramitaci&#xF3;n del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  3.- Imp&#xFA;tese el gasto que demande el presente decreto al &#xCD;tem 15.01.01.21.01.001 &quot;Personal de Planta&quot;, del presupuesto vigente de la Subsecretar&#xED;a del Trabajo para el a&#xF1;o 2010.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- N&#xF3;mbrase, a contar del 19 de abril de 2010, a don Gustavo Alejandro Alfaro Jarpa, RUT 10.987.125-7,<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1031990&amp;idParte=9201135&amp;idVersion=2011-11-03\">Decreto 72, TRABAJO<br>N&#xB0; 1<br>D.O. 03.11.2011</a></span> en el cargo de Secretario Regional Ministerial del Trabajo y Previsi&#xF3;n Social en la Regi&#xF3;n Metropolitana, en el grado 4&#xBA; de la E.U.S., en la ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  2.- Por razones impostergables de buen servicio, la persona que se nombra asumir&#xE1; sus funciones en la fecha antes se&#xF1;alada, de conformidad con lo dispuesto por el art&#xED;culo 16&#xBA; de la ley N&#xBA; 18.834, sin esperar la total tramitaci&#xF3;n del presente decreto.</div><div class=\"p\">&nbsp; &nbsp;  3.- Imp&#xFA;tese el gasto que demande el presente decreto al &#xCD;tem 15.01.01.21.01.001 &quot;Personal de Planta&quot;, del presupuesto vigente de la Subsecretar&#xED;a del Trabajo para el a&#xF1;o 2010.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1031990,
+      "fecha": "2011-11-03"
+    }
+  }
+]

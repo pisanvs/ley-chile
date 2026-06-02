@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-10-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-04-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7240618,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO ESPECIAL DE CALIFICACIONES DEL PERSONAL DEL SERVICIO AGRICOLA Y GANADERO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 8 de septiembre de 1998.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 324.- Visto: Lo dispuesto en los art&#xED;culos 47&#xBA; y 49&#xBA; de la ley N&#xBA;18.575, Org&#xE1;nica Constitucional de Bases Generales de la Administraci&#xF3;n del Estado, y en el P&#xE1;rrafo 3&#xBA; del T&#xED;tulo II de la ley N&#xBA;18.834, sustituido por la ley N&#xBA;19.165; la ley N&#xBA;18.755, Org&#xE1;nica del Servicio Agr&#xED;cola y Ganadero; el Reglamento General de Calificaciones en vigencia; la circular N&#xBA;84, de 1993, del Ministerio del Interior; el art&#xED;culo 32&#xBA;, n&#xFA;mero 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que el Servicio Agr&#xED;cola y Ganadero, por sus especiales caracter&#xED;sticas funcionales, ha estimado oportuno dictar un Reglamento Especial de Calificaciones y regirse supletoriamente, en aquellas materias no contempladas en &#xE9;ste, por el Reglamento General de Calificaciones del personal afecto al Estatuto Administrativo, ley N&#xBA;18.834,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento Especial de Calificaciones para el personal del Servicio Agr&#xED;cola y Ganadero, el cual tendr&#xE1; por objeto evaluar el desempe&#xF1;o y las aptitudes de sus funcionarios y servir de base para los ascensos, est&#xED;mulos y eliminaci&#xF3;n de la instituci&#xF3;n:</div><br><br><div class=\"p\">REGLAMENTO ESPECIAL DE CALIFICACIONES PARA EL PERSONAL DEL SERVICIO AGRICOLA Y GANADERO</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA REGLAMENTO ESPECIAL DE CALIFICACIONES DEL PERSONAL DEL SERVICIO AGRICOLA Y GANADERO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 8 de septiembre de 1998.- Hoy se decret&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 324.- Visto: Lo dispuesto en los art&#xED;culos 47&#xBA; y 49&#xBA; de la ley N&#xBA;18.575, Org&#xE1;nica Constitucional de Bases Generales de la Administraci&#xF3;n del Estado, y en el P&#xE1;rrafo 3&#xBA; del T&#xED;tulo II de la ley N&#xBA;18.834, sustituido por la ley N&#xBA;19.165; la ley N&#xBA;18.755, Org&#xE1;nica del Servicio Agr&#xED;cola y Ganadero; el Reglamento General de Calificaciones en vigencia; la circular N&#xBA;84, de 1993, del Ministerio del Interior; el art&#xED;culo 32&#xBA;, n&#xFA;mero 8, de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica, y</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Que el Servicio Agr&#xED;cola y Ganadero, por sus especiales caracter&#xED;sticas funcionales, ha estimado oportuno dictar un Reglamento Especial de Calificaciones y regirse supletoriamente, en aquellas materias no contempladas en &#xE9;ste, por el Reglamento General de Calificaciones del personal afecto al Estatuto Administrativo, ley N&#xBA;18.834,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento Especial de Calificaciones para el personal del Servicio Agr&#xED;cola y Ganadero, el cual tendr&#xE1; por objeto evaluar el desempe&#xF1;o y las aptitudes de sus funcionarios y servir de base para los ascensos, est&#xED;mulos y eliminaci&#xF3;n de la instituci&#xF3;n:</div><br><div class=\"p\">REGLAMENTO ESPECIAL DE CALIFICACIONES PARA EL PERSONAL DEL SERVICIO AGRICOLA Y GANADERO</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

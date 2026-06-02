@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2012-10-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-12-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9308583,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art. 13&#xBA;.- Ser&#xE1; eliminado como representante del Consejo, aquel miembro del mismo que sin motivo justificado deje de asistir a tres reuniones consecutivas.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1057487&amp;idParte=9393725&amp;idVersion=2013-12-20\">Resoluci&#xF3;n 2952 EXENTA,<br>SALUD<br>A)<br>D.O. 20.12.2013</a></span>&nbsp; &nbsp;  Art. 13&#xBA;- Ser&#xE1; eliminado como Representante del Consejo, aquel miembro del mismo que sin motivo justificado deje de asistir a tres reuniones consecutivas.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-01-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9308583,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1057487&amp;idParte=9393725&amp;idVersion=2013-12-20\">Resoluci&#xF3;n 2952 EXENTA,<br>SALUD<br>A)<br>D.O. 20.12.2013</a></span>&nbsp; &nbsp;  Art. 13&#xBA;- Ser&#xE1; eliminado como Representante del Consejo, aquel miembro del mismo que sin motivo justificado deje de asistir a tres reuniones consecutivas.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1058147&amp;idParte=9399509&amp;idVersion=2014-01-11\">Resoluci&#xF3;n 3110 EXENTA,<br>SALUD<br>Art. UNO<br>D.O. 11.01.2014</a></span>&nbsp; &nbsp;  Art. 13&#xBA;.- Aquel miembro del Consejo que, sin motivo justificado, deje de asistir a dos reuniones consecutivas, ser&#xE1; notificado en relaci&#xF3;n a que manifieste si continuar&#xE1; o no como miembro del mismo.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1058147,
+      "fecha": "2014-01-11"
+    }
+  }
+]

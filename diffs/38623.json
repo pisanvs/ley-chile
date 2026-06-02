@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-02-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-01-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8958867,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE LA OBLIGACION DE DECLARAR AL SERVICIO AGRICOLA Y GANADERO LA EXISTENCIA Y PRODUCCION DE MOSTOS SULFITADOS Y MUDOS A GRANEL</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 240 exenta.- Santiago, 19 de febrero de 1992.- Vistos: Lo dispuesto en el art&#xED;culo 3&#xB0; de la Ley N&#xB0; 18.755, el art&#xED;culo 4&#xB0; de la Ley N&#xB0; 18.455, y en las resoluciones N&#xB0;s. 138 de 1986 y 365 de 1991, ambas de este Servicio; y</div><div class=\"p\">&nbsp; &nbsp; Considerando: Que para facilitar la fiscalizaci&#xF3;n del cumplimiento de las normas de la Ley N&#xB0; 18.455, es necesario ampliar las declaraciones establecidas en la Resoluci&#xF3;n N&#xB0; 365 de 1991, citada en los vistos, con los antecedentes de producci&#xF3;n y existencia de Mostos Sulfitados y Mudos a granel.</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE LA OBLIGACION DE DECLARAR AL SERVICIO AGRICOLA Y GANADERO LA EXISTENCIA Y PRODUCCION DE MOSTOS SULFITADOS Y MUDOS A GRANEL</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 240 exenta.- Santiago, 19 de febrero de 1992.- Vistos: Lo dispuesto en el art&#xED;culo 3&#xB0; de la Ley N&#xB0; 18.755, el art&#xED;culo 4&#xB0; de la Ley N&#xB0; 18.455, y en las resoluciones N&#xB0;s. 138 de 1986 y 365 de 1991, ambas de este Servicio; y</div><div class=\"p\">&nbsp; &nbsp; Considerando: Que para facilitar la fiscalizaci&#xF3;n del cumplimiento de las normas de la Ley N&#xB0; 18.455, es necesario ampliar las declaraciones establecidas en la Resoluci&#xF3;n N&#xB0; 365 de 1991, citada en los vistos, con los antecedentes de producci&#xF3;n y existencia de Mostos Sulfitados y Mudos a granel.</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

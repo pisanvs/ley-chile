@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-03-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-09-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7265712,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Introd&#xFA;cense las siguientes modificaciones al decreto supremo N&#xBA;53 de 1984, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes:</div><div class=\"p\">&nbsp; &nbsp;  1.- Agr&#xE9;gase al art&#xED;culo 2&#xBA; el siguiente inciso quinto:</div><div class=\"p\">&nbsp; &nbsp;  &apos;&apos;La combinaci&#xF3;n de dos letras y cuatro d&#xED;gitos a que se refiere el inciso primero, destinadas a ser usadas en veh&#xED;culos motorizados de cuatro o m&#xE1;s ruedas, se sustituir&#xE1; a contar del 1&#xBA; de septiembre de 2000 por la composici&#xF3;n de combinaciones de tres letras y tres d&#xED;gitos, dispuestos de izquierda a derecha, en el mismo orden, separados por el Escudo Nacional impreso en tonos grises&apos;&apos;.</div><div class=\"p\">&nbsp; &nbsp;  2.- Incorp&#xF3;rase el siguiente art&#xED;culo 8&#xBA;:</div><div class=\"p\">&nbsp; &nbsp;  &apos;&apos;Art&#xED;culo 8&#xBA;; Las placas patentes ser&#xE1;n confeccionadas por la Casa de Moneda de Chile, conforme a las disposiciones del presente decreto, pudiendo dicha instituci&#xF3;n incorporarles medidas adicionales de seguridad, previa aprobaci&#xF3;n del Ministerio de Transportes y Telecomunicaciones, las que no ser&#xE1;n p&#xFA;blicas a fin de garantizar la eficacia de las mismas&apos;&apos;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Introd&#xFA;cense las siguientes modificaciones al decreto supremo N&#xBA;53 de 1984, del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes: 1.- DEROGADO<span class=\"n\" id=\"n_0\">DTO 174, TRANSPORTES<br>N&#xB0;2<br>D.O. 06.09.2000</span></div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; 2.- Incorp&#xF3;rase el siguiente art&#xED;culo 8&#xBA;:</div><div class=\"p\">&nbsp; &nbsp;  &apos;&apos;Art&#xED;culo 8&#xBA;; Las placas patentes ser&#xE1;n</div><div class=\"p\">confeccionadas por la Casa de Moneda de Chile, conforme</div><div class=\"p\">a las disposiciones del presente decreto, pudiendo dicha</div><div class=\"p\">instituci&#xF3;n incorporarles medidas adicionales de</div><div class=\"p\">seguridad, previa aprobaci&#xF3;n del Ministerio de</div><div class=\"p\">Transportes y Telecomunicaciones, las que no ser&#xE1;n</div><div class=\"p\">p&#xFA;blicas a fin de garantizar la eficacia de las</div><div class=\"p\">mismas&apos;&apos;.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

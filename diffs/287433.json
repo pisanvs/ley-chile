@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2009-02-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-12-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7435720,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Primero: Establ&#xE9;cese como fecha de inicio de la exigencia de estudios de bioequivalencia el d&#xED;a 2 de abril de 2009, a los productos farmac&#xE9;uticos monodroga que contienen los principios activos Ciclosporina en c&#xE1;psulas blandas de 10 mg, 25 mg, 50 mg y 100 mg, Diclofenaco s&#xF3;dico en comprimidos con recubrimiento ent&#xE9;rico de 25 mg y 50 mg, y en grageas con recubrimiento ent&#xE9;rico de 50 mg y Diclofenaco pot&#xE1;sico en comprimidos con recubrimiento ent&#xE9;rico de 12,5 mg, 25 mg y 50 mg y en grageas de 25 mg y 50 mg, Cloxacilina S&#xF3;dica en c&#xE1;psulas de 250 mg y 500 mg y Zidovudina en c&#xE1;psulas de 100 mg y 250 mg y en comprimidos recubiertos de 300 mg.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Primero: Establ&#xE9;cese como fecha de inicio de la exigencia de estudios de bioequivalencia el d&#xED;a 2 de abril de 2009, a los productos farmac&#xE9;uticos monodroga que contienen los principios activos Ciclosporina en c&#xE1;psulas blandas de 10 mg, 25 mg, 50 mg y 100 mg, Diclofenaco<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> s&#xF3;dico en comprimidos con recubrimiento ent&#xE9;rico de 25 mg y 50 mg, y en grageas con recubrimiento ent&#xE9;rico de 50 mg y Diclofenaco pot&#xE1;sico en comprimidos con recubrimiento ent&#xE9;rico de 12,5 mg, 25 mg y 50 mg y en grageas de 25 mg y 50 mg, Cloxacilina S&#xF3;dica en c&#xE1;psulas de 250 mg y 500 mg y Zidovudina en c&#xE1;psulas de 100 mg y 250 mg y en comprimidos recubiertos de 300 mg.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Las letras a) y b) del N&#xBA; 1 de la Resoluci&#xF3;n Exenta 5555, Salud, publicada el 09.12.2009, modifica la presente norma en el sentido de suspender la exigencia de estudios de bioequivalencia a los productos monodroga que contienen el principio activo Diclofenaco S&#xF3;dico en comprimidos con recubrimiento ent&#xE9;rico en potencias de 25 mg y 50 mg; y aquellos que contienen el principio activo Diclofenaco Pot&#xE1;sico en comprimidos con recubrimiento ent&#xE9;rico en potencias de 12,5 mg, 25 mg y 50 mg.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2012-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

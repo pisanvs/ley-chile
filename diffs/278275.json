@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-09-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-12-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6660221,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Trasl&#xE1;dase provisionalmente la Notar&#xED;a - Conservador y Archivero Judicial de Chait&#xE9;n, a la comuna de Futaleuf&#xFA;, en tanto dure la declaraci&#xF3;n de zona afectada por cat&#xE1;strofe, de conformidad a lo establecido en el decreto supremo N&#xBA; 588, de 2008, del Ministerio del Interior.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Trasl&#xE1;dase provisionalme<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>nte la Notar&#xED;a - Conservador y Archivero Judicial de Chait&#xE9;n, a la comuna de Futaleuf&#xFA;, en tanto dure la declaraci&#xF3;n de zona afectada por cat&#xE1;strofe, de conformidad a lo establecido en el decreto supremo N&#xBA; 588, de 2008, del Ministerio del Interior.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 2932 exento, Justicia, publicado el 15.12.2014, pone t&#xE9;rmino al funcionamiento provisional de la Notar&#xED;a, Conservador y Archivero Judicial de Chait&#xE9;n en la comuna de Futaleuf&#xFA;, dispuesto mediante la presente norma, y ordena su reinstalaci&#xF3;n en la comuna de Chait&#xE9;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-06-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-08-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8648850,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- En una misma zona geogr&#xE1;fica el servicio podr&#xE1; ser suministrado hasta por tres concesionarias. La zona de servicio de cada concesi&#xF3;n podr&#xE1; abarcar todo el territorio nacional.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- En una misma zona geogr&#xE1;fica el servicio podr&#xE1; ser suministrado hasta por tres concesionarias. La zona de servicio de cada concesi&#xF3;n podr&#xE1; abarcar todo el territorio de una regi&#xF3;n.<span class=\"n\" id=\"n_0\">RES 990 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 26.08.2003</span> </div></div>"
+        }
+      ]
+    }
+  }
+]

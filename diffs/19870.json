@@ -1,0 +1,33 @@
+[
+  {
+    "fecha": "1996-03-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-03-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9393827,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo s&#xE9;ptimo: Las falsas<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1057500&amp;idParte=9393810&amp;idVersion=2013-12-21\">Decreto 4167 EXENTO<br>Art. PRIMERO d)<br>D.O. 21.12.2013</a></span> alarmas reiteradas generadas por una misma empresa podr&#xE1;n ser consideradas por la Autoridad Fiscalizadora respectiva como antecedente suficiente para decidir la aplicaci&#xF3;n de lo previsto en el art&#xED;culo 17&#xBA; del decreto supremo N&#xBA; 93, de 1985, del Ministerio de Defensa Nacional.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8271480,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo primero: Autorizase a las personas naturales y jur&#xED;dicas prestadoras de servicios t&#xE9;cnicos de seguridad privada, previstas en el art&#xED;culo 5&#xB0; bis del D.L. N&#xB0; 3.607, para conectar sus sistemas de alarmas directamente o por intermedio de centrales propias, a las centrales de comunicaciones de Reparticiones y Unidades de Carabineros, con el fin de entregar o recibir informaci&#xF3;n &#xFA;til a decisiones y acciones policiales relacionadas con la seguridad que proporcionan.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1057500&amp;idParte=9393810&amp;idVersion=2013-12-21\">Decreto 4167 EXENTO<br>Art. PRIMERO a), b)<br>D.O. 21.12.2013</a></span>&nbsp; &nbsp; Art&#xED;culo primero: Determ&#xED;nase que para su funcionamiento las personas naturales y jur&#xED;dicas prestadoras de servicios t&#xE9;cnicos de seguridad privada, previstas en el art&#xED;culo 5&#xB0; bis del D.L. N&#xB0; 3.607, deber&#xE1;n conectar sus sistemas de alarmas directamente o por intermedio de centrales propias, a las centrales de comunicaciones de Reparticiones y Unidades de Carabineros, con el fin de entregar o recibir informaci&#xF3;n &#xFA;til a decisiones y acciones policiales relacionadas con la seguridad que proporcionan.</div><br><br></div>"
+        },
+        {
+          "part_id": 8271483,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo cuarto: Autor&#xED;zase a Carabineros de Chile para cobrar por el servicio privado que otorga a los usuarios para conectar sus sistemas a las centrales de comunicaciones o cuarteles de Carabineros los siguientes valores:</div><div class=\"p\"> 1.- Renta mensual por cada 100 usuarios o cifra inferior a ella : 3 U.F.</div><div class=\"p\"> 2.- Falsas alarmas: 0,5 U.F.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo cuarto: Autor&#xED;zase a Carabineros de Chile para cobrar por el servicio privado que otorga a los usuarios para conectar sus sistemas a las centrales de comunicaciones o cuarteles de Carabineros los siguientes valores:</div><div class=\"p\"> 1.- Fal<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1057500&amp;idParte=9393810&amp;idVersion=2013-12-21\">Decreto 4167 EXENTO<br>Art. PRIMERO c)<br>D.O. 21.12.2013</a></span>sas alarmas: 0,5 U.F.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

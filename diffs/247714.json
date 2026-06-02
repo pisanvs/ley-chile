@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2006-03-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-01-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8653679,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0; La informaci&#xF3;n que los prestadores deber&#xE1;n ingresar al STI se encuentra establecida en los Anexos 1 a 9, seg&#xFA;n corresponda, los que se encontrar&#xE1;n disponibles en el sitio Web del sistema y se entender&#xE1;n formar parte integrante de la presente Resoluci&#xF3;n. En caso que se modifique alguno de los referidos Anexos, ser&#xE1; debidamente comunicado a los prestadores a trav&#xE9;s del sitio Web del sistema, con una antelaci&#xF3;n no inferior a 30 d&#xED;as desde la fecha en que comience a regir.</div><div class=\"p\">&nbsp;  La integridad, veracidad y exactitud de la informaci&#xF3;n proporcionada por los prestadores ser&#xE1; de exclusiva responsabilidad de &#xE9;stos.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0; La informaci&#xF3;n que los prestadores deber&#xE1;n ingresar al STI que se encontrar&#xE1;n disponibles<span class=\"n\" id=\"n_0\">RES 1619 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico N&#xBA; 1<br>D.O. 06.01.2007</span> en el sitio Web del sistema y se entender&#xE1;n formar parte integrante de la presente Resoluci&#xF3;n. En caso que se modifique alguno de los referidos Anexos, ser&#xE1; debidamente comunicado a los prestadores a trav&#xE9;s del sitio Web del sistema, con una antelaci&#xF3;n no inferior a 30 d&#xED;as desde la fecha en que comience a regir.</div><div class=\"p\">&nbsp;  La integridad, veracidad y exactitud de la informaci&#xF3;n proporcionada por los prestadores ser&#xE1; de exclusiva responsabilidad de &#xE9;stos.</div><br></div>"
+        },
+        {
+          "part_id": 8653683,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA; D&#xE9;jese sin efecto todo requerimiento formulado por la Subsecretar&#xED;a, que disponga la entrega de informaci&#xF3;n de igual contenido que la indicada en los Anexos 1 a 9, a partir del 31 de mayo del a&#xF1;o 2006. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA; D&#xE9;jese sin efecto todo requerimiento formulado por la Subsecretar&#xED;a, que disponga la entrega de informaci&#xF3;n de igual contenido que la indicada en los Anexos, a partir del 31 de mayo del a&#xF1;o 2006.<span class=\"n\" id=\"n_1\">RES 1619 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico N&#xBA; 2<br>D.O. 06.01.2007</span></div><div class=\"p\"> </div></div>"
+        }
+      ]
+    }
+  }
+]

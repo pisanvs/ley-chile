@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-06-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6283109,
+          "old": "<div><div class=\"p\">MODIFICA COMITE ASESOR PARA LA LIBERACION DE ORGANISMOS TRANSGENICOS</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.495 exenta.- Santiago, 14 de junio de 2000.- Vistos: Lo dispuesto en la ley N&#xBA; 18.755 y la resoluci&#xF3;n del Servicio Agr&#xED;cola y Ganadero N&#xBA; 269, de 26 de enero de 1999, que crea el Comit&#xE9; Asesor para la Liberaci&#xF3;n de Organismos Transg&#xE9;nicos,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA COMITE ASESOR PARA LA LIBERACION DE ORGANISMOS TRANSGENICOS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.495 exenta.- Santiago, 14 de junio de 2000.- Vistos: Lo dispuesto en la ley N&#xBA; 18.755 y la resoluci&#xF3;n del Servicio Agr&#xED;cola y Ganadero N&#xBA; 269, de 26 de enero de 1999, que crea el Comit&#xE9; Asesor para la Liberaci&#xF3;n de Organismos Transg&#xE9;nicos,</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

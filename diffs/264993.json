@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2007-09-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-03-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8891348,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1011558&amp;idParte=8891017&amp;idVersion=2010-03-06\">Rectificaci&#xF3;n 99<br>D.O. 06.03.2010</a></span>CONTRALOR&#xCD;A GENERAL DE LA REP&#xDA;BLICA</div><br><div class=\"p\">&nbsp; &nbsp;  Divisi&#xF3;n de la Vivienda y Urbanismo y Obras P&#xFA;blicas y Transportes</div><br><div class=\"p\">&nbsp; &nbsp;  Subdivisi&#xF3;n Jur&#xED;dica</div><br><div class=\"p\">&nbsp; &nbsp;  Cursa con alcance decreto N&#xBA; 414, de 2007, del Ministerio de Obras P&#xFA;blicas</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xBA; 40.538.- Santiago, 6 de septiembre de 2007.</div><br><div class=\"p\">&nbsp; &nbsp;  La Contralor&#xED;a General ha dado curso regular al documento de la suma, que aprueba el convenio complementario N&#xBA; 1 que modifica el contrato de concesi&#xF3;n de la obra p&#xFA;blica fiscal denominada &quot;Terminal de Pasajeros Aeropuerto Chacalluta de Arica, I Regi&#xF3;n&quot;, pero cumple se&#xF1;alar que, en lo sucesivo, el Servicio deber&#xE1; arbitrar las medidas para someter oportunamente a toma de raz&#xF3;n los decretos que sancionen esa clase de acuerdos en lo que se refiere a las inversiones en obras ya realizadas, por cuanto dicho tr&#xE1;mite implica un control previo de juridicidad de los actos de la Administraci&#xF3;n, incompatible con un examen sobre la base de situaciones jur&#xED;dicas ya consolidadas.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, corresponde manifestar que el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N&#xBA; 164, de 1991, Ley de Concesiones de Obras P&#xFA;blicas; se encuentra contenido en el decreto N&#xBA; 900, de 1996, del Ministerio de Obras P&#xFA;blicas; y no como se indica en el punto N&#xBA; 1.1 de la cl&#xE1;usula primera de la convenci&#xF3;n que el instrumento del rubro aprueba.</div><br><div class=\"p\">&nbsp; &nbsp;  Saluda atentamente a US, Ramiro Mendoza Z&#xFA;&#xF1;iga, Contralor General de la Rep&#xFA;blica</div><br><div class=\"p\">Al se&#xF1;or</div><div class=\"p\">Ministro de Obras P&#xFA;blicas</div><div class=\"p\">Presente.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1011558,
+      "fecha": "2010-03-06"
+    }
+  }
+]

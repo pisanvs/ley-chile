@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-03-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-01-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8316628,
+          "old": "<div><div class=\"p\">AUTORIZA A DON LUIS ISAFOR REYES CHAVEZ PARA INICIAR ACTIVIDADES PESQUERAS. DECLARA CADUCIDAD RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON LUIS ISAFOR REYES CHAVEZ PARA INICIAR ACTIVIDADES PESQUERAS. DECLARA CADUCIDAD RESOLUCION QUE INDICA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

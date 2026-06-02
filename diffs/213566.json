@@ -1,0 +1,38 @@
+[
+  {
+    "fecha": "2003-08-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-09-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6435444,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xB0;. Existir&#xE1; en la Secretar&#xED;a Regional<span class=\"n\" id=\"n_4\">DTO 174, SALUD<br>Art. 1&#xBA; N&#xBA; 5<br>D.O. 20.09.2005</span> Ministerial de Salud de la Regi&#xF3;n Metropolitana una Junta Calificadora Regional que evaluar&#xE1; el desempe&#xF1;o de su personal, integrada por los tres funcionarios de m&#xE1;s alto nivel jer&#xE1;rquico, por un representante del personal elegido por &#xE9;ste, seg&#xFA;n el estamento a calificar y por un delegado de la asociaci&#xF3;n de funcionarios con mayor representaci&#xF3;n de la instituci&#xF3;n, el que s&#xF3;lo tendr&#xE1; derecho a voz. Los integrantes de esta Junta Calificadora ser&#xE1;n calificados por la Junta Calificadora Central.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6435434,
+          "old": "<div><div class=\"p\">APRUEBA REGLAMENTO ESPECIAL DE CALIFICACIONES PARA EL PERSONAL DE LA SUBSECRETARIA DE SALUD</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 292.- Santiago, 24 de octubre de 2002.- Visto: Lo dispuesto en el art&#xED;culo 49 de la ley N&#xBA;18.575, Org&#xE1;nica Constitucional sobre Bases Generales de la Administraci&#xF3;n del Estado, los art&#xED;culos 27 al 47 de la ley N&#xBA;18.834, y los art&#xED;culos 31 y 32 N&#xBA; 8 de la Constituci&#xF3;n Pol&#xED;tica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento Especial de Calificaciones para el Personal de la Subsecretar&#xED;a de Salud.</div><br></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA REGLAMENTO ESPECIAL DE CALIFICACIONES PARA EL<span class=\"n\" id=\"n_0\">DTO 174, SALUD<br>Art. 1&#xBA; N&#xBA; 1<br>D.O. 20.09.2005</span></div><div class=\"p\">PERSONAL DE LA SUBSECRETAR&#xCD;A DE SALUD P&#xDA;BLICA Y DE</div><div class=\"p\">LA SUBSECRETAR&#xCD;A DE REDES ASISTENCIALES.</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 292.- Santiago, 24 de octubre de 2002.- Visto: Lo dispuesto en el art&#xED;culo 49 de la ley N&#xBA;18.575, Org&#xE1;nica Constitucional sobre Bases Generales de la Administraci&#xF3;n del Estado, los art&#xED;culos 27 al 47 de la ley N&#xBA;18.834, y los art&#xED;culos 31 y 32 N&#xBA; 8 de la Constituci&#xF3;n Pol&#xED;tica de Chile,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente Reglamento Especial de<span class=\"n\" id=\"n_1\">DTO 174, SALUD<br>Art. 1&#xBA; N&#xBA; 2<br>D.O. 20.09.2005</span> Calificaciones para el Personal de la Subsecretar&#xED;a de Salud P&#xFA;blica y de la Subsecretar&#xED;a de Redes Asistenciales.</div><br></div>"
+        },
+        {
+          "part_id": 6435435,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Este reglamento establece las normas especiales sobre la calificaci&#xF3;n del personal de la Subsecretar&#xED;a de Salud. En lo no previsto, rigen en forma supletoria las normas contenidas en el decreto supremo N&#xBA;1.825 de 1998 del Ministerio del Interior, que contiene el Reglamento de Calificaciones del Personal Afecto al Estatuto Administrativo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Este reglamento establece las normas especiales sobre la calificaci&#xF3;n del personal de la Subsecretar&#xED;a de Salud P&#xFA;blica y de la Subsecretar&#xED;a de<span class=\"n\" id=\"n_2\">DTO 174, SALUD<br>Art. 1&#xBA; N&#xBA; 3<br>D.O. 20.09.2005</span> Redes Asistenciales. En lo no previsto, rigen en forma supletoria las normas contenidas en el decreto supremo N&#xBA;1.825 de 1998 del Ministerio del Interior, que contiene el Reglamento de Calificaciones del Personal Afecto al Estatuto Administrativo.</div><br></div>"
+        },
+        {
+          "part_id": 6435436,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- El Subsecretario de Salud aprobar&#xE1; mediante resoluci&#xF3;n el dise&#xF1;o de los siguientes documentos:</div><br><div class=\"p\">-&nbsp; &nbsp; Hoja de vida</div><div class=\"p\">-&nbsp; &nbsp; Hoja de calificaciones</div><div class=\"p\">-&nbsp; &nbsp; Hoja de seguimiento</div><div class=\"p\">-&nbsp; &nbsp; Hoja de evaluaciones parciales de desempe&#xF1;o</div><div class=\"p\">&nbsp; &nbsp; (semestral) y</div><div class=\"p\">-&nbsp; &nbsp; Hoja de observaci&#xF3;n.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- El Subsecretario de Salud P&#xFA;blica y<span class=\"n\" id=\"n_3\">DTO 174, SALUD<br>Art. 1&#xBA; N&#xBA; 4<br>D.O. 20.09.005</span> el Subsecretario de Redes Asistenciales, aprobar&#xE1;n mediante respectivas resoluciones, el dise&#xF1;o de los siguientes documentos:</div><br><div class=\"p\">-&nbsp; &nbsp; Hoja de vida</div><div class=\"p\">-&nbsp; &nbsp; Hoja de calificaciones</div><div class=\"p\">-&nbsp; &nbsp; Hoja de seguimiento</div><div class=\"p\">-&nbsp; &nbsp; Hoja de evaluaciones parciales de desempe&#xF1;o</div><div class=\"p\">&nbsp; &nbsp; (semestral) y</div><div class=\"p\">-&nbsp; &nbsp; Hoja de observaci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

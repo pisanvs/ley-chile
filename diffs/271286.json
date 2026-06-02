@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-03-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8694699,
+          "old": "<div><div class=\"p\">DESIGNA SUBROGANCIA A FUNCIONARIOS QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 77.- Santiago, 26 de marzo de 2008.- Vistos: Los art&#xED;culos 4&#xBA; y 81 de la ley N&#xBA; 18.834, el D.F.L. 161 de 1978, del Ministerio de Relaciones Exteriores; la resoluci&#xF3;n N&#xBA; 70, de 2004, de esta Secretar&#xED;a de Estado; las resoluciones N&#xBA;s. 55, de 1992 y 520, de 1996, ambas de la Contralor&#xED;a General de la Rep&#xFA;blica, y Considerando: Que para un mejor ordenamiento, se hace necesario establecer un nuevo orden de subrogaci&#xF3;n del Director General Administrativo, en los per&#xED;odos que por cualquier causa, su titular se encuentre impedido de desempe&#xF1;ar el cargo,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">DESIGNA SUBROGANCIA A FUNCIONARIOS QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 77.- Santiago, 26 de marzo de 2008.- Vistos: Los art&#xED;culos 4&#xBA; y 81 de la ley N&#xBA; 18.834, el D.F.L. 161 de 1978, del Ministerio de Relaciones Exteriores; la resoluci&#xF3;n N&#xBA; 70, de 2004, de esta Secretar&#xED;a de Estado; las resoluciones N&#xBA;s. 55, de 1992 y 520, de 1996, ambas de la Contralor&#xED;a General de la Rep&#xFA;blica, y Considerando: Que para un mejor ordenamiento, se hace necesario establecer un nuevo orden de subrogaci&#xF3;n del Director General Administrativo, en los per&#xED;odos que por cualquier causa, su titular se encuentre impedido de desempe&#xF1;ar el cargo,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

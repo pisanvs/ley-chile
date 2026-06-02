@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2007-08-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-08-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8663784,
+          "old": "<div><div class=\"p\">CREA COMITE FINANCIERO SE&#xD1;ALADO EN LA LEY N&#xBA; 21.128 </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 621.- Santiago, 8 de mayo de 2007.- Vistos: El art&#xED;culo 32 n&#xFA;mero 6 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica y los art&#xED;culos 12 y 13 de la ley N&#xBA; 20.128, sobre Responsabilidad Fiscal, dicto el siguiente, </div><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><br><div class=\"p\">CREA COMITE FINANCIERO SE&#xD1;ALADO EN LA LEY N&#xBA; 20.128<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 28.08.2007</span></div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 621.- Santiago, 8 de mayo de 2007.- Vistos: El art&#xED;culo 32 n&#xFA;mero 6 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica y los art&#xED;culos 12 y 13 de la ley N&#xBA; 20.128, sobre Responsabilidad Fiscal, dicto el siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-08-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8663788,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Los integrantes del Comit&#xE9; Financiero estar&#xE1;n sujetos a las siguientes obligaciones:</div><div class=\"p\">&nbsp; &nbsp;  a) Para efectos de las recomendaciones que efect&#xFA;en, deber&#xE1;n utilizar s&#xF3;lo informaci&#xF3;n que est&#xE9; disponible en el mercado.</div><div class=\"p\">&nbsp; &nbsp;  b) Deber&#xE1;n guardar estricta reserva y no utilizar en beneficio propio o ajeno la informaci&#xF3;n a la que tengan acceso en raz&#xF3;n de su participaci&#xF3;n en el Comit&#xE9; Financiero.</div><div class=\"p\">&nbsp; &nbsp;  c) Deber&#xE1;n abstenerse del debate y de la votaci&#xF3;n que se refieran a asuntos que los involucren o en que puedan tener inter&#xE9;s, de acuerdo a las normas y procedimientos que se establezcan sobre esta materia en el reglamento interno.</div><div class=\"p\">&nbsp; &nbsp;  Cualquier incumplimiento de las obligaciones anteriores ser&#xE1; causal de cesaci&#xF3;n en el cargo y har&#xE1; exigibles las responsabilidades civiles o penales que pudieren corresponder a quienes contravengan lo se&#xF1;alado en el inciso anterior, sin perjuicio de las sanciones administrativas que puedan ser procedentes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Los integrantes del Comit&#xE9; Financiero estar&#xE1;n sujetos a las siguientes obligaciones:</div><div class=\"p\">&nbsp; &nbsp;  a) Para efectos de las recomendaciones que efect&#xFA;en, deber&#xE1;n utilizar s&#xF3;lo informaci&#xF3;n que est&#xE9; disponible en el mercado.</div><div class=\"p\">&nbsp; &nbsp;  b) Deber&#xE1;n guardar estricta reserva y no utilizar en beneficio propio o ajeno la informaci&#xF3;n a la que tengan acceso en raz&#xF3;n de su participaci&#xF3;n en el Comit&#xE9; Financiero.</div><div class=\"p\">&nbsp; &nbsp;  c) Deber&#xE1;n abstenerse del debate y de la votaci&#xF3;n que se refieran a asuntos que los involucren o en que puedan tener inter&#xE9;s, de acuerdo a las normas y procedimientos que se establezcan sobre esta materia en el reglamento interno.</div><div class=\"p\">&nbsp; &nbsp;  Cualquier incumplimiento de las obligaciones anteriores ser&#xE1; causal de cesaci&#xF3;n en el cargo y har&#xE1; exigibles las responsabilidades civiles o penales que pudieren corresponder a quienes contravengan lo se&#xF1;alado en el inciso anterior, sin perjuicio de las sanciones administrativas que puedan ser procedentes. Sin <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1065693&amp;idParte=9499409&amp;idVersion=2014-08-22\">Decreto 1251,<br>HACIENDA<br>D.O. 22.08.2014</a></span>perjuicio de lo anterior cualquier integrante del Comit&#xE9; cesar&#xE1; en el cargo por disposici&#xF3;n del Ministro de Hacienda manifestada mediante resoluci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1065693,
+      "fecha": "2014-08-22"
+    }
+  }
+]

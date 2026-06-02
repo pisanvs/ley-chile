@@ -1,0 +1,60 @@
+[
+  {
+    "fecha": "2011-06-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-07-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9152378,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Para los efectos de lo dispuesto en el <a href=\"https://www.leychile.cl/Navegar?idNorma=1026260&amp;idParte=9147807&amp;idVersion=\">art&#xED;culo 63 del DS N&#xBA; 1 (V. y U.), de 2011</a>, establ&#xE9;cese que el puntaje de la Ficha de Protecci&#xF3;n Social para postular a este T&#xED;tulo no podr&#xE1; ser superior a los 13.484 puntos.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Para el c&#xE1;lculo del puntaje por Caracterizaci&#xF3;n Socioecon&#xF3;mica, a que se refiere la <a href=\"https://www.leychile.cl/Navegar?idNorma=1026260&amp;idParte=9147809&amp;idVersion=\">letra b) del art&#xED;culo 65 del DS N&#xBA; 1 (V. y U.), de 2011</a>, se considerar&#xE1; el puntaje se&#xF1;alado en el resuelvo anterior.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Para los efectos de lo dispuesto en el art&#xED;culo 63 del DS N&#xBA; 1 (V. y U.), de 2011, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053055&amp;idParte=9366312&amp;idVersion=2013-07-23\">Resoluci&#xF3;n 5172 EXENTA, VIVIENDA<br>N&#xB0; 1<br>D.O. 23.07.2013</a></span>establ&#xE9;cese que los puntajes de la Ficha de Protecci&#xF3;n Social para postular a los tramos de este T&#xED;tulo, no podr&#xE1;n ser superiores a los siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  a)&nbsp;  Tramo 1: 11.734 puntos.</div><br><div class=\"p\">&nbsp; &nbsp;  b)&nbsp;  Tramo 2: 13.484 puntos.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Para el c&#xE1;lculo del puntaje por Caracterizaci&#xF3;n Socioecon&#xF3;mica, a que se refiere la letra b) del art&#xED;culo 65 del DS N&#xBA; 1 (V. y U.), de 2011, se considerar&#xE1;n los puntajes se&#xF1;<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1053055&amp;idParte=9366312&amp;idVersion=2013-07-23\">Resoluci&#xF3;n 5172 EXENTA, VIVIENDA<br>N&#xB0; 2<br>D.O. 23.07.2013</a></span>alados en el resuelvo anterior, seg&#xFA;n corresponda.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1053055,
+      "fecha": "2013-07-23"
+    }
+  },
+  {
+    "fecha": "2015-05-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9152378,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Para los efectos de lo dispuesto en el art&#xED;culo 63 del DS N&#xBA; 1 (V. y U.), de 2011, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053055&amp;idParte=9366312&amp;idVersion=2013-07-23\">Resoluci&#xF3;n 5172 EXENTA, VIVIENDA<br>N&#xB0; 1<br>D.O. 23.07.2013</a></span>establ&#xE9;cese que los puntajes de la Ficha de Protecci&#xF3;n Social para postular a los tramos de este T&#xED;tulo, no podr&#xE1;n ser superiores a los siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  a)&nbsp;  Tramo 1: 11.734 puntos.</div><br><div class=\"p\">&nbsp; &nbsp;  b)&nbsp;  Tramo 2: 13.484 puntos.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Para el c&#xE1;lculo del puntaje por Caracterizaci&#xF3;n Socioecon&#xF3;mica, a que se refiere la letra b) del art&#xED;culo 65 del DS N&#xBA; 1 (V. y U.), de 2011, se considerar&#xE1;n los puntajes se&#xF1;<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1053055&amp;idParte=9366312&amp;idVersion=2013-07-23\">Resoluci&#xF3;n 5172 EXENTA, VIVIENDA<br>N&#xB0; 2<br>D.O. 23.07.2013</a></span>alados en el resuelvo anterior, seg&#xFA;n corresponda.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Para los efectos de lo dispuesto en el art&#xED;culo 63 del DS N&#xBA; 1 (V. y U.), de 2011, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053055&amp;idParte=9366312&amp;idVersion=2013-07-23\">Resoluci&#xF3;n 5172 EXENTA, VIVIENDA<br>N&#xB0; 1<br>D.O. 23.07.2013</a></span>establ&#xE9;cese que los puntajes de la Ficha de Protecci&#xF3;n Social para postular a los tramos de este T&#xED;tulo, no podr&#xE1;n ser superiores a los siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  a)&nbsp;  Tramo 1: 11.734 puntos.</div><br><div class=\"p\">&nbsp; &nbsp;  b)&nbsp;  Tramo 2: 13.484 puntos.</div><br><div class=\"p\">&nbsp; &nbsp;  En caso <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1077876&amp;idParte=9602174&amp;idVersion=2015-05-27\">Resoluci&#xF3;n 3602 EXENTA,<br>VIVIENDA<br>D.O. 27.05.2015</a></span>que el postulante tuviese 60 o m&#xE1;s a&#xF1;os de edad, considerando al que los cumple durante el a&#xF1;o calendario del llamado a postulaci&#xF3;n, el puntaje de la Ficha de Protecci&#xF3;n Social para postular a los tramos se&#xF1;alados en las letras a) y b) del inciso anterior, no podr&#xE1; ser superior a 14.557 puntos.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Para el c&#xE1;lculo del puntaje por Caracterizaci&#xF3;n Socioecon&#xF3;mica, a que se refiere la letra b) del art&#xED;culo 65 del DS N&#xBA; 1 (V. y U.), de 2011, se considerar&#xE1;n los puntajes se&#xF1;ala<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1053055&amp;idParte=9366312&amp;idVersion=2013-07-23\">Resoluci&#xF3;n 5172 EXENTA, VIVIENDA<br>N&#xB0; 2<br>D.O. 23.07.2013</a></span>dos en el resuelvo anterior, seg&#xFA;n corresponda.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2016-03-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9152378,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Para los efectos de lo dispuesto en el art&#xED;culo 63 del DS N&#xBA; 1 (V. y U.), de 2011, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053055&amp;idParte=9366312&amp;idVersion=2013-07-23\">Resoluci&#xF3;n 5172 EXENTA, VIVIENDA<br>N&#xB0; 1<br>D.O. 23.07.2013</a></span>establ&#xE9;cese que los puntajes de la Ficha de Protecci&#xF3;n Social para postular a los tramos de este T&#xED;tulo, no podr&#xE1;n ser superiores a los siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  a)&nbsp;  Tramo 1: 11.734 puntos.</div><br><div class=\"p\">&nbsp; &nbsp;  b)&nbsp;  Tramo 2: 13.484 puntos.</div><br><div class=\"p\">&nbsp; &nbsp;  En caso <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1077876&amp;idParte=9602174&amp;idVersion=2015-05-27\">Resoluci&#xF3;n 3602 EXENTA,<br>VIVIENDA<br>D.O. 27.05.2015</a></span>que el postulante tuviese 60 o m&#xE1;s a&#xF1;os de edad, considerando al que los cumple durante el a&#xF1;o calendario del llamado a postulaci&#xF3;n, el puntaje de la Ficha de Protecci&#xF3;n Social para postular a los tramos se&#xF1;alados en las letras a) y b) del inciso anterior, no podr&#xE1; ser superior a 14.557 puntos.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Para el c&#xE1;lculo del puntaje por Caracterizaci&#xF3;n Socioecon&#xF3;mica, a que se refiere la letra b) del art&#xED;culo 65 del DS N&#xBA; 1 (V. y U.), de 2011, se considerar&#xE1;n los puntajes se&#xF1;ala<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1053055&amp;idParte=9366312&amp;idVersion=2013-07-23\">Resoluci&#xF3;n 5172 EXENTA, VIVIENDA<br>N&#xB0; 2<br>D.O. 23.07.2013</a></span>dos en el resuelvo anterior, seg&#xFA;n corresponda.</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Para los efectos de lo dispuesto en el art&#xED;culo 63 del DS N&#xBA; 1 (V. y U.), de 2011, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053055&amp;idParte=9366312&amp;idVersion=2013-07-23\">Resoluci&#xF3;n 5172 EXENTA, VIVIENDA<br>N&#xB0; 1<br>D.O. 23.07.2013</a></span>establ&#xE9;cese que los puntajes de la Ficha de Protecci&#xF3;n Social para postular a los tramos de este T&#xED;tulo, no podr&#xE1;n ser superiores a los siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  a)&nbsp;  Tramo 1: 12.665 puntos.</div><br><div class=\"p\">&nbsp; &nbsp;  b)&nbsp;  Tramo 2: 14.235 <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1088834&amp;idParte=9689543&amp;idVersion=2016-03-30\">Resoluci&#xF3;n 1829 EXENTA,<br>VIVIENDA<br>D.O. 30.03.2016</a></span>puntos.</div><br><div class=\"p\">&nbsp; &nbsp;  En caso que el postulante tuviese 60 o m&#xE1;s a&#xF1;os de edad, considerando al que los cumple durante el a&#xF1;o calendario del llamado a postulaci&#xF3;n, el puntaje de la Ficha de Protecci&#xF3;n Social para postular a los tramos se&#xF1;alados en las letras a) y b) del inciso anterior, no podr&#xE1; ser superior a 14.596 puntos.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Para el c&#xE1;lculo del puntaje por Caracterizaci&#xF3;n Socioecon&#xF3;mica, a que se refiere la letra b) del art&#xED;culo 65 del DS N&#xBA; 1 (V. y U.), de 2011, se considerar&#xE1;n los puntajes se&#xF1;alados<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1053055&amp;idParte=9366312&amp;idVersion=2013-07-23\">Resoluci&#xF3;n 5172 EXENTA, VIVIENDA<br>N&#xB0; 2<br>D.O. 23.07.2013</a></span> en el resuelvo anterior, seg&#xFA;n corresponda.</div><br><br><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1088834,
+      "fecha": "2016-03-30"
+    }
+  }
+]

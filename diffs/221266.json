@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-02-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-11-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6464567,
+          "old": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A CLIFT Y SEGUEL LTDA.</div><br></div>",
+          "new": "<div><div class=\"p\">OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A CLIFT Y SEGUEL LTDA.</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

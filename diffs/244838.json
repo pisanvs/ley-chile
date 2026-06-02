@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-12-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-08-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8497557,
+          "old": "<div><div class=\"p\">EXTRACTO RESOLUCION (A) N&#xBA; 117, DE 2005 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO RESOLUCION (A) N&#xBA; 117, DE 2005</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

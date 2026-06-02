@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-04-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-10-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8373720,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Modif&#xED;case el art&#xED;culo segundo del decreto exento N&#xBA; 1.222, de 2004, de Interior, en el sentido que el veh&#xED;culo placa patente XE-9667-K, deber&#xE1; guardarse en el estacionamiento de Servicios P&#xFA;blicos de la Gobernaci&#xF3;n Provincial de Chilo&#xE9;, calle Gamboa interior s/n, de la comuna de Castro y, excepcionalmente, en el domicilio de la se&#xF1;ora Gobernadora Provincial, calle Nerc&#xF3;n s/n, de la comuna de Castro, adopt&#xE1;ndose por su responsable los resguardos correspondientes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Modif&#xED;case el art&#xED;culo segundo del decreto exento N&#xBA; 1.222, de 2004, de Interior, en el sentido que el veh&#xED;culo placa patente XE-9667-K, deber&#xE1; guardarse en el estacionamiento de Servicios P&#xFA;blicos de la Gobernaci&#xF3;n Provincial de Chilo&#xE9;, calle Gamboa interior s/n, de la comuna<span class=\"n\" id=\"n_0\">DTO 1801 EXENTO,<br>INTERIOR<br>Art. &#xFA;nico<br>D.O. 23.10.2006</span> de Castro y, excepcionalmente, en el domicilio de la se&#xF1;ora Gobernadora Provincial, sector Huitauque de la comuna de Chonchi, adopt&#xE1;ndose por su responsable los resguardos correspondientes.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-08-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-10-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6536830,
+          "old": "<div><div class=\"p\">APRUEBA LISTADO OFICIAL DE SOLUCIONES CONSTRUCTIVAS PARA AISLAMIENTO ACUSTICO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de agosto de 2005.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.815 exenta.- Visto: Lo dispuesto en el nuevo texto del art&#xED;culo 4.1.6. del DS N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones, intercalado por el DS N&#xBA; 87 (V. y U.), de 2004; y las facultades que me otorga el DL N&#xBA; 1.305 de 1975, dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA LISTADO OFICIAL DE SOLUCIONES CONSTRUCTIVAS PARA AISLAMIENTO ACUSTICO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de agosto de 2005.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 2.815 exenta.- Visto: Lo dispuesto en el nuevo texto del art&#xED;culo 4.1.6. del DS N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones, intercalado por el DS N&#xBA; 87 (V. y U.), de 2004; y las facultades que me otorga el DL N&#xBA; 1.305 de 1975, dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

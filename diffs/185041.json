@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2001-05-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-06-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6334079,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- El Premio se otorgar&#xE1; luego de una selecci&#xF3;n que efectuar&#xE1; un Consejo especialmente creado para tal efecto, integrado de la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  a) El Ministro del Trabajo y Previsi&#xF3;n Social, quien lo presidir&#xE1;;</div><div class=\"p\">&nbsp; &nbsp;  b) El Presidente de la Comisi&#xF3;n del Trabajo de la Honorable C&#xE1;mara de Diputados, que integrar&#xE1; por especial invitaci&#xF3;n del Presidente de la Rep&#xFA;blica sin que en dicha participaci&#xF3;n represente o comprometa al H. Congreso Nacional;</div><div class=\"p\">&nbsp; &nbsp;  c) El Subsecretario del Trabajo;</div><div class=\"p\">&nbsp; &nbsp;  d) El Director del Trabajo, y</div><div class=\"p\">&nbsp; &nbsp;  e) Tres representantes de los trabajadores, designados para tal efecto por el Presidente de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- El Premio se otorgar&#xE1; luego de una selecci&#xF3;n que efectuar&#xE1; un Consejo especialmente creado para tal efecto, integrado de la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  a) El Ministro del Trabajo y Previsi&#xF3;n Social, quien lo presidir&#xE1;;</div><div class=\"p\">&nbsp; &nbsp;  b) El Presidente de la Comisi&#xF3;n del Trabajo de la Honorable C&#xE1;mara de Diputados, que integrar&#xE1; por especial invitaci&#xF3;n del Presidente de la Rep&#xFA;blica sin que en dicha participaci&#xF3;n represente o comprometa al H. Congreso Nacional;</div><div class=\"p\">&nbsp; &nbsp;  c) El Subsecretario del Trabajo;</div><div class=\"p\">&nbsp; &nbsp;  d) El Director del Trabajo, y</div><div class=\"p\">&nbsp; &nbsp;  e) Tres <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1078804&amp;idParte=9615503&amp;idVersion=2015-06-25\">Decreto 17, TRABAJO<br>N&#xB0; 1<br>D.O. 25.06.2015</a></span>representantes del sector laboral elegidos por las tres organizaciones sindicales de mayor grado de car&#xE1;cter nacional m&#xE1;s representativas de los trabajadores.</div><br><br></div>"
+        },
+        {
+          "part_id": 6334081,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Para discernir el Premio, el Jurado ser&#xE1; convocado por su Presidente a m&#xE1;s tardar el 10 de abril de cada a&#xF1;o, y emitir&#xE1; su decisi&#xF3;n fundada, en el plazo m&#xE1;ximo de 15 d&#xED;as.</div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1078804&amp;idParte=9615503&amp;idVersion=2015-06-25\">Decreto 17, TRABAJO<br>N&#xB0; 2<br>D.O. 25.06.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Derogado</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1078804,
+      "fecha": "2015-06-25"
+    }
+  }
+]

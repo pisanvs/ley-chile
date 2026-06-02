@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2012-07-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-11-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9275640,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  ART&#xCD;CULO 5&#xB0;.- REQUISITOS DE POSTULACI&#xD3;N</div><br><div class=\"p\">&nbsp; &nbsp;  Los requisitos para postular a los recursos del Fondo de Equipamiento Cient&#xED;fico Tecnol&#xF3;gico ser&#xE1;n los siguientes:</div><br><div class=\"p\">i)&nbsp;  Tratarse de Universidades que se encuentren acreditadas por la Comisi&#xF3;n Nacional de Acreditaci&#xF3;n a la fecha de postulaci&#xF3;n del concurso;</div><div class=\"p\">ii)&nbsp; Acreditar fehacientemente que desarrollan actividades de investigaci&#xF3;n, conforme a los medios de verificaci&#xF3;n que se soliciten en las bases de concurso;</div><div class=\"p\">iii) Presentar un proyecto destinado a obtener recursos para la adquisici&#xF3;n y/o actualizaci&#xF3;n de equipamiento cient&#xED;fico y tecnol&#xF3;gico para actividades de investigaci&#xF3;n, el que deber&#xE1; contener los objetivos espec&#xED;ficos a financiar y ser presentado de acuerdo a los formularios de postulaci&#xF3;n espec&#xED;ficos para el concurso.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  ART&#xCD;CULO 5&#xB0;.- REQUISITOS DE POSTULACI&#xD3;N</div><br><div class=\"p\">&nbsp; &nbsp;  Los requisitos para postular a los recursos del Fondo de Equipamiento Cient&#xED;fico Tecnol&#xF3;gico ser&#xE1;n los siguientes:</div><br><div class=\"p\">i)&nbsp;  Tratarse <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1138423&amp;idParte=10067028&amp;idVersion=2019-11-08\">Decreto 154,<br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 08.11.2019</a></span>de Universidades que se encuentren acreditadas por la Comisi&#xF3;n Nacional de Acreditaci&#xF3;n a la fecha del concurso, o Instituciones que desarrollen actividades de investigaci&#xF3;n con personalidad jur&#xED;dica sin fines de lucro, con a lo menos 3 a&#xF1;os de antig&#xFC;edad;</div><div class=\"p\">ii)&nbsp; Acreditar fehacientemente que desarrollan actividades de investigaci&#xF3;n, conforme a los medios de verificaci&#xF3;n que se soliciten en las bases de concurso;</div><div class=\"p\">iii) Presentar un proyecto destinado a obtener recursos para la adquisici&#xF3;n y/o actualizaci&#xF3;n de equipamiento cient&#xED;fico y tecnol&#xF3;gico para actividades de investigaci&#xF3;n, el que deber&#xE1; contener los objetivos espec&#xED;ficos a financiar y ser presentado de acuerdo a los formularios de postulaci&#xF3;n espec&#xED;ficos para el concurso.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1138423,
+      "fecha": "2019-11-08"
+    }
+  }
+]

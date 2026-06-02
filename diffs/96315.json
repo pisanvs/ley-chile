@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-02-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-05-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6102652,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Estos establecimientos deber&#xE1;n consultar tres &#xE1;reas totalmente separadas una de la otra. La primera, estar&#xE1; destinada al p&#xFA;blico en general y al funcionamiento de oficinas de ventas de pasajes y servicios. La segunda consistente en una losa compuesta de andenes de embarque y patio de maniobras, ser&#xE1; de uso exclusivo de los pasajeros, del personal de los servicios de locomoci&#xF3;n colectiva no urbana y sus veh&#xED;culos, la cual deber&#xE1; contar con un techo que cubra a lo menos un tercio del bus que se encuentre estacionado. Y la tercera &#xE1;rea, destinada al estacionamiento de veh&#xED;culos particulares y taxis, para tomar y dejar pasajeros.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Estos establecimientos deber&#xE1;n consultar tres &#xE1;reas totalmente separadas una de la otra. La primera, estar&#xE1; destinada al p&#xFA;blico en general y al funcionamiento de oficinas de ventas de pasajes y servicios. La segunda consistente en una losa compuesta de andenes de embarque y patio de maniobras, ser&#xE1; de uso exclusivo de los pasajeros, del personal de los servicios de locomoci&#xF3;n colectiva no urbana y sus veh&#xED;culos, la cual deber&#xE1; contar con un techo que cubra a lo menos un tercio del bus que se encuentre estacionado. Y la tercera &#xE1;rea, destinada al estacionamiento de veh&#xED;culos particulares y taxis, para tomar y dejar pasajeros. No obstante lo anterior, y conforme a las<span class=\"n\" id=\"n_0\">DTO 132,<br>M. DE VICTORIA<br>Art. 1&#xB0;<br>D.O. 20.05.1999</span> disposiciones del Plan Regulador Comunal de la ciudad de Victoria, todo terminal deber&#xE1;, para prestar su servicio, contar con un predio de 1.200 metros cuadrados como superficie m&#xED;nima. Dicho recinto deber&#xE1; poseer un cierre perimetral permanente, confeccionado de acuerdo a especificaciones t&#xE9;cnicas autorizadas por la Direcci&#xF3;n de Obras de la Municipalidad de Victoria. Adem&#xE1;s, deber&#xE1; poseer un port&#xF3;n de entrada y salida de veh&#xED;culos, independientes uno de otro. Las disposiciones del inciso anterior, regir&#xE1;n tanto para los terminales de buses a instalarse, como as&#xED; tambi&#xE9;n para los ya establecidos. Para el caso de estos &#xFA;ltimos, se conceder&#xE1; un plazo de sesenta d&#xED;as para adecuar sus instalaciones a esta nueva normativa, a contar de la entrada en vigencia de este decreto. </div></div>"
+        }
+      ]
+    }
+  }
+]

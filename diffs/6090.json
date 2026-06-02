@@ -1,0 +1,77 @@
+[
+  {
+    "fecha": "1974-05-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-06-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8989627,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5.- Reajustanse, a contar del 1 Mayo de 1974, en un 30%, los sueldos bases mensuales de las escalas fijadas en el art&#xED;culo 3&#xB0; del decreto ley N&#xB0; 234, de 1973, y en el art&#xED;culo 6&#xB0; del decreto ley N&#xB0; 260, de 1974. Este reajuste no podra ser inferior a E&#xB0; 5.800, cantidad en que se aumentar&#xE1;n, en consecuencia, los sueldosbases de los grados 6&#xB0; a 8&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; Las remuneraciones adicionales que sean porcentajes de dichos sueldos bases se aplicar&#xE1;n, a contar de igual fecha, sobre los sueldos bases reajustados.</div><div class=\"p\">&nbsp; &nbsp; Fijanse, a contar de las misma fecha, en E&#xB0; 5.200, el monto mensual de la asignaci&#xF3;n de rancho compensada en dinero a que se refieren la letra g) del art&#xED;culo 114 del D.F.L. 1, de Guerra, y laletra h) del art&#xED;culo 46 del D.F.L. 2, de Interior, ambos de 1968.</div><div class=\"p\">&nbsp; &nbsp; Facultase al Presidente de la Junta de Gobierno para otorgar, en casos calificados, por decreto supremo con las firmas de los Ministros de Defensa Nacional y de Hacienda, sin perjuicio de la asignaci&#xF3;n fijada en el inciso anterior, a los personales regidos pordichos decretos con fuerza de ley, una asignaci&#xF3;n adicional de hasta dos tercios de la asignaci&#xF3;n mensual de rancho, por funcionario y porcarga familiar reconocida. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5.- Reajustanse, a contar del 1 Mayo de 1974, en un 30%, los sueldos bases mensuales de las escalas fijadas en el art&#xED;culo 3&#xB0; del decreto ley N&#xB0; 234, de 1973, y en el art&#xED;culo 6&#xB0; del decreto ley N&#xB0; 260, de 1974. Este reajuste no podra ser inferior a E&#xB0; 5.800, cantidad en que se aumentar&#xE1;n, en consecuencia, los sueldosbases de los grados 6&#xB0; a 8&#xB0;.</div><div class=\"p\">&nbsp; &nbsp; Las remuneraciones adicionales que sean porcentajes de dichos sueldos bases se aplicar&#xE1;n, a contar de igual fecha, sobre los sueldos bases reajustados.</div><div class=\"p\">&nbsp; &nbsp; Fijanse, a contar de las misma fecha, en E&#xB0; 5.200, el monto mensual de la asignaci&#xF3;n de rancho compensada en dinero a que se refieren la letra g) del art&#xED;culo 114 del D.F.L. 1, de Guerra, y laletra h) del art&#xED;culo 46 del D.F.L. 2, de Interior, ambos de 1968.</div><div class=\"p\">&nbsp; &nbsp; Fac&#xFA;ltase al Presidente de la Junta de Gobierno para<span class=\"n\" id=\"n_0\">DL 535, ECONOMIA<br>Art. &#xFA;nico<br>D.O. 22.06.1974</span> otorgar, en casos calificados, por decreto supremo con las firmas de los Ministros de Defensa Nacional y de Hacienda, sin perjuicio de la asignaci&#xF3;n fijada en el inciso anterior, a los personales regidos por dichos decretos con fuerza de ley, una asignaci&#xF3;n adicional de hasta dos tercios de la asignaci&#xF3;n mensual de rancho, por funcionario y por carga familiar reconocida.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1974-06-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8989668,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 43.- El&#xE9;vase, a partir del 1&#xB0; de Mayo de 1974, a E&#xB0; 4.000 mensuales, el monto de la asignaci&#xF3;n familiar, fijado por el art&#xED;culo 5&#xB0; transitorio del decreto ley N&#xB0; 307 de 1974.</div><div class=\"p\">&nbsp; &nbsp; Establ&#xE9;cese, a partir de la fecha indicada en el inciso anterior, una sobretasa transitoria de 9% de las remuneraciones imponibles en favor del Fondo Unico de Prestaciones Familiares, la que se regir&#xE1; por todas las disposiciones aplicables a la tasa ordinaria fijada por el art&#xED;culo 5&#xB0; transitorio del decreto ley N&#xB0; 307, de 1974.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 43.- El&#xE9;vase, a partir del 1&#xB0; de Mayo de<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> 1974, a E&#xB0; 4.000 mensuales, el monto de la asignaci&#xF3;n familiar, fijado por el art&#xED;culo 5&#xB0; transitorio del decreto ley N&#xB0; 307 de 1974.</div><div class=\"p\">&nbsp; &nbsp; Establ&#xE9;cese, a partir de la fecha indicada en el inciso anterior, una sobretasa transitoria de 9% de las remuneraciones imponibles en favor del Fondo Unico de Prestaciones Familiares, la que se regir&#xE1; por todas las disposiciones aplicables a la tasa ordinaria fijada por el art&#xED;culo 5&#xB0; transitorio del decreto ley N&#xB0; 307, de 1974.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 39 del DL 550, Hacienda, publicado el 29.06.1974, elev&#xF3; a contar del 1&#xBA; de julio de 1974, a E&#xBA; 5.000 mensuales, el monto de la asignaci&#xF3;n familiar establecida por este art&#xED;culo.<br>NOTA 1:<br>&nbsp; &nbsp; El Art. 1&#xBA; del DL 2062, Trabajo, publicado el 19.12.1977, suprimi&#xF3; la sobretasa transitoria establecida en este inciso.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1974-07-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8989636,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13.- La parte de las remuneraciones consistentes en comisiones o porcentajes que exceda de 25 sueldos vitales mensuales del departamento de Santiago, se gravar&#xE1; en un 25% a favor del Fondo de Reconstrucci&#xF3;n Nacional y la parte que exceda de 35 sueldos vitales se gravar&#xE1; con un 50% a favor del mismo Fondo.</div><div class=\"p\">&nbsp; &nbsp; La contribuci&#xF3;n al Fondo de Reconstrucci&#xF3;n Nacional a que se refiere el inciso anterior no sera imponible ni considerada renta para ningun efecto legal.</div><div class=\"p\">&nbsp; &nbsp; No se aplicar&#xE1; lo dispuesto en este art&#xED;culo a las personas cuya actividad se rige por el decreto supremo N&#xB0; 2.098, de fecha 20 de Diciembre de 1967, del Ministerio de Hacienda.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13.- DEROGADO<span class=\"n\" id=\"n_1\">DL 676, TRABAJO<br>Art. 9&#xBA;<br>D.O. 09.10.1974</span></div><div class=\"p\"><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">&nbsp; &nbsp; La modificaci&#xF3;n introducida al presente art&#xED;culo</a></div></div><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">&nbsp; &nbsp; La modificaci&#xF3;n introducida al presente art&#xED;culo</a> <br> rige a contar del 1&#xBA; de julio de 1974.<br></div><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA</a> <br> </div></div>"
+        },
+        {
+          "part_id": 8989668,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 43.- El&#xE9;vase, a partir del 1&#xB0; de Mayo de<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> 1974, a E&#xB0; 4.000 mensuales, el monto de la asignaci&#xF3;n familiar, fijado por el art&#xED;culo 5&#xB0; transitorio del decreto ley N&#xB0; 307 de 1974.</div><div class=\"p\">&nbsp; &nbsp; Establ&#xE9;cese, a partir de la fecha indicada en el inciso anterior, una sobretasa transitoria de 9% de las remuneraciones imponibles en favor del Fondo Unico de Prestaciones Familiares, la que se regir&#xE1; por todas las disposiciones aplicables a la tasa ordinaria fijada por el art&#xED;culo 5&#xB0; transitorio del decreto ley N&#xB0; 307, de 1974.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 39 del DL 550, Hacienda, publicado el 29.06.1974, elev&#xF3; a contar del 1&#xBA; de julio de 1974, a E&#xBA; 5.000 mensuales, el monto de la asignaci&#xF3;n familiar establecida por este art&#xED;culo.<br>NOTA 1:<br>&nbsp; &nbsp; El Art. 1&#xBA; del DL 2062, Trabajo, publicado el 19.12.1977, suprimi&#xF3; la sobretasa transitoria establecida en este inciso.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 43.- El&#xE9;vase, a partir del 1&#xB0; de Mayo de<div class=\"n rnp\" id=\"rnp4\"><a href=\"#np4\">NOTA:</a></div> 1974, a E&#xB0; 4.000 mensuales, el monto de la asignaci&#xF3;n familiar, fijado por el art&#xED;culo 5&#xB0; transitorio del decreto ley N&#xB0; 307 de 1974.</div><div class=\"p\">&nbsp; &nbsp; Establ&#xE9;cese, a partir de la fecha indicada en el inciso anterior, una sobretasa transitoria de 9% de las remuneraciones imponibles en favor del Fondo Unico de Prestaciones Familiares, la que se regir&#xE1; por todas las disposiciones aplicables a la tasa ordinaria fijada por el art&#xED;culo 5&#xB0; transitorio del decreto ley N&#xB0; 307, de 1974.</div><br><div class=\"np\" id=\"np4\"><a href=\"#rnp4\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 39 del DL 550, Hacienda, publicado el 29.06.1974, elev&#xF3; a contar del 1&#xBA; de julio de 1974, a E&#xBA; 5.000 mensuales, el monto de la asignaci&#xF3;n familiar establecida por este art&#xED;culo.<br>NOTA 1:<br>&nbsp; &nbsp; El Art. 1&#xBA; del DL 2062, Trabajo, publicado el 19.12.1977, suprimi&#xF3; la sobretasa transitoria establecida en este inciso.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1976-12-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8989654,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 30.- Lo dispuesto en el art&#xED;culo 2&#xB0; de la ley N&#xB0; 17.907 se aplicar&#xE1; tambi&#xE9;n a quienes hubier&#xE9;n jubilado con posterioridad al 1&#xB0; de Julio de 1972 y hasta el 30 de Abril de 1974.</div><div class=\"p\">&nbsp; &nbsp; Los pensionados que no cumplan con los requisitos de edad exigidos en la disposici&#xF3;n citada en el inciso anterior, tendr&#xE1;n derecho a una pensi&#xF3;n m&#xED;nima de E&#xB0; 10.000 mensuales; con todo, los pensionados estar&#xE1;n afectos a las limitaciones establecidas en el inciso final del art&#xED;culo 26&#xB0; de la ley N&#xB0; 15.386, referidas, en lo pertinente, a este m&#xED;nimo especial.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 30.- Lo dispuesto en el art&#xED;culo 2&#xB0; de la ley N&#xB0; 17.907 se aplicar&#xE1; tambi&#xE9;n a quienes hubier&#xE9;n jubilado con posterioridad al 1&#xB0; de Julio de 1972 y hasta el 30 de Abril de 1974.</div><div class=\"p\">&nbsp; &nbsp; Los pensionados que no cumplan con los requisitos<div class=\"n rnp\" id=\"rnp4\"><a href=\"#np4\">NOTA:</a></div> de edad exigidos en la disposici&#xF3;n citada en el inciso anterior, tendr&#xE1;n derecho a una pensi&#xF3;n m&#xED;nima de E&#xB0; 10.000 mensuales; con todo, los pensionados estar&#xE1;n afectos a las limitaciones establecidas en el inciso final del art&#xED;culo 26&#xB0; de la ley N&#xB0; 15.386, referidas, en lo pertinente, a este m&#xED;nimo especial.</div><br><div class=\"np\" id=\"np4\"><a href=\"#rnp4\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. 18&#xBA; del DL 958, Trabajo, publicado el 05.04.1975, dispuso que las pensiones m&#xED;nimas contempladas en este inciso, tendr&#xE1;n, a partir del 1&#xB0; de Marzo de 1975, un monto de E&#xB0; 35.600 mensuales.<br>NOTA 1:<br>&nbsp; &nbsp;  El Art. 12 del DL 1607, Hacienda, publicado el 07.12.1976, dispuso que las pensiones m&#xED;nimas especiales a que se refiere este inciso tendr&#xE1;n, a contar de la fecha que indica, un incremento de $ 36.<br></div></div>"
+        },
+        {
+          "part_id": 8989668,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 43.- El&#xE9;vase, a partir del 1&#xB0; de Mayo de<div class=\"n rnp\" id=\"rnp4\"><a href=\"#np4\">NOTA:</a></div> 1974, a E&#xB0; 4.000 mensuales, el monto de la asignaci&#xF3;n familiar, fijado por el art&#xED;culo 5&#xB0; transitorio del decreto ley N&#xB0; 307 de 1974.</div><div class=\"p\">&nbsp; &nbsp; Establ&#xE9;cese, a partir de la fecha indicada en el inciso anterior, una sobretasa transitoria de 9% de las remuneraciones imponibles en favor del Fondo Unico de Prestaciones Familiares, la que se regir&#xE1; por todas las disposiciones aplicables a la tasa ordinaria fijada por el art&#xED;culo 5&#xB0; transitorio del decreto ley N&#xB0; 307, de 1974.</div><br><div class=\"np\" id=\"np4\"><a href=\"#rnp4\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 39 del DL 550, Hacienda, publicado el 29.06.1974, elev&#xF3; a contar del 1&#xBA; de julio de 1974, a E&#xBA; 5.000 mensuales, el monto de la asignaci&#xF3;n familiar establecida por este art&#xED;culo.<br>NOTA 1:<br>&nbsp; &nbsp; El Art. 1&#xBA; del DL 2062, Trabajo, publicado el 19.12.1977, suprimi&#xF3; la sobretasa transitoria establecida en este inciso.<br></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 43.- El&#xE9;vase, a partir del 1&#xB0; de Mayo de<div class=\"n rnp\" id=\"rnp5\"><a href=\"#np5\">NOTA:</a></div> 1974, a E&#xB0; 4.000 mensuales, el monto de la asignaci&#xF3;n familiar, fijado por el art&#xED;culo 5&#xB0; transitorio del decreto ley N&#xB0; 307 de 1974.</div><div class=\"p\">&nbsp; &nbsp; Establ&#xE9;cese, a partir de la fecha indicada en el inciso anterior, una sobretasa transitoria de 9% de las remuneraciones imponibles en favor del Fondo Unico de Prestaciones Familiares, la que se regir&#xE1; por todas las disposiciones aplicables a la tasa ordinaria fijada por el art&#xED;culo 5&#xB0; transitorio del decreto ley N&#xB0; 307, de 1974.</div><br><div class=\"np\" id=\"np5\"><a href=\"#rnp5\">NOTA:</a> <br>&nbsp; &nbsp;  El Art. 39 del DL 550, Hacienda, publicado el 29.06.1974, elev&#xF3; a contar del 1&#xBA; de julio de 1974, a E&#xBA; 5.000 mensuales, el monto de la asignaci&#xF3;n familiar establecida por este art&#xED;culo.<br>NOTA 1:<br>&nbsp; &nbsp; El Art. 1&#xBA; del DL 2062, Trabajo, publicado el 19.12.1977, suprimi&#xF3; la sobretasa transitoria establecida en este inciso.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

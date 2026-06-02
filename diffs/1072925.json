@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-12-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9544026,
+          "old": "<div><br><div class=\"p\">EXTRACTO DE RESOLUCI&#xD3;N N&#xBA; 767 EXENTA, DE 1014</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1073043&amp;idParte=9544858&amp;idVersion=2014-12-31\">Rectificaci&#xF3;n 651<br>D.O. 31.12.2014</a></span></div><div class=\"p\">EXTRACTO DE RESOLUCI&#xD3;N N&#xBA; 767 EXENTA, DE 2014</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1073043,
+      "fecha": "2014-12-31"
+    }
+  }
+]

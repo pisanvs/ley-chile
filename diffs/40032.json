@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-12-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6025656,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA VALORES TARIFARIOS A LOS APARTADOS POSTALES N&#xFA;m. 1.968 exenta.- Santiago, diciembre 21 de 1995.- Vistos: El D.F.L. N&#xB0; 10, de 1981 y, el art&#xED;culo 5&#xB0; del Decreto N&#xB0; 2 de 1995, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones, la necesidad de fijar tarifas a las prestaciones postales complementarias; la resoluci&#xF3;n exenta N&#xB0; 62 de 1995 de esta Empresa, que contempla el Sistema Tarifario y fija los valores que indica, la resoluci&#xF3;n exenta N&#xB0; 1.652 de 1994 que contiene tarifas de Apartados Postales; el Acuerdo N&#xB0; 136 del Directorio de la Empresa, adoptado en la sesi&#xF3;n vig&#xE9;simo primera ordinaria, del 7 de diciembre de 1995; la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica y, en uso de las atribuciones que me confieren las Resoluciones N&#xB0; 233 de 1994 y N&#xB0; 1.861 del 4 de diciembre de 1995, ambas de la Empresa de Correos de Chile, vengo en dictar la siguiente:</div><div class=\"p\">&nbsp; &nbsp; R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">FIJA VALORES TARIFARIOS A LOS APARTADOS POSTALES </div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.968 exenta.- Santiago, diciembre 21 de 1995.- Vistos: El D.F.L. N&#xB0; 10, de 1981 y, el art&#xED;culo 5&#xB0; del Decreto N&#xB0; 2 de 1995, ambos del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones, la necesidad de fijar tarifas a las prestaciones postales complementarias; la resoluci&#xF3;n exenta N&#xB0; 62 de 1995 de esta Empresa, que contempla el Sistema Tarifario y fija los valores que indica, la resoluci&#xF3;n exenta N&#xB0; 1.652 de 1994 que contiene tarifas de Apartados Postales; el Acuerdo N&#xB0; 136 del Directorio de la Empresa, adoptado en la sesi&#xF3;n vig&#xE9;simo primera ordinaria, del 7 de diciembre de 1995; la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica y, en uso de las atribuciones que me confieren las Resoluciones N&#xB0; 233 de 1994 y N&#xB0; 1.861 del 4 de diciembre de 1995, ambas de la Empresa de Correos de Chile, vengo en dictar la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp; R e s o l u c i &#xF3; n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

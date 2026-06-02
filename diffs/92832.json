@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-01-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-05-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6092601,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Distrib&#xFA;yase los Recursos Regionales destinados para la atenci&#xF3;n del 2&#xBA; Llamado 1997 del Sistema de Subsidio Habitacional para la atenci&#xF3;n del Sector Rural T&#xED;tulo I de la&nbsp; siguiente forma:</div><br><div class=\"p\">Provincia&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  U.F.</div><br><div class=\"p\">Cardenal Caro&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1.304.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Distrib&#xFA;yase los Recursos Regionales para la adquisici&#xF3;n o construcci&#xF3;n viviendas rurales, emplazadas en asentamientos poblacionales T&#xED;tulo II de la siguiente forma:</div><br><div class=\"p\">Provincia&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  U.F.</div><br><div class=\"p\">Cachapoal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.220.</div><div class=\"p\">Colchagua&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 7.920.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Distrib&#xFA;yase los Recursos Regionales destinados para la atenci&#xF3;n del 2&#xBA; Llamado 1997 del Sistema de Subsidio Habitacional para la atenci&#xF3;n del Sector Rural T&#xED;tulo I de la&nbsp; siguiente forma:</div><br><div class=\"p\">Provincia&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  U.F.</div><br><div class=\"p\">Cardenal Caro&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1.304.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Distrib&#xFA;yase los Recursos Regionales para la<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> adquisici&#xF3;n o construcci&#xF3;n viviendas rurales, emplazadas en asentamientos poblacionales T&#xED;tulo II de la siguiente forma:</div><br><div class=\"p\">Provincia&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  U.F.</div><br><div class=\"p\">Cachapoal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.220.</div><div class=\"p\">Colchagua&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 7.920.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La resoluci&#xF3;n 494 de Vivienda, publicada en el D.O. de 30.05.1998, dej&#xF3; sin efecto el punto N&#xBA;2 de la presente resoluci&#xF3;n<br></div></div>"
+        }
+      ]
+    }
+  }
+]

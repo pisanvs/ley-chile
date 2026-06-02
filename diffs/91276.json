@@ -1,0 +1,77 @@
+[
+  {
+    "fecha": "1998-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-10-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7225909,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16. El Servicio de Bienestar propender&#xE1; al progreso social, cultural, educacional, deportivo y art&#xED;stico de sus afiliados y familiares, utilizando al m&#xE1;ximo los recursos y facilidades que otras entidades o la comunidad puedan proporcionarles.</div><div class=\"p\">&nbsp; &nbsp;  Con este objeto, el Servicio de Bienestar podr&#xE1; conceder ayudas a los jardines infantiles, clubes escolares, colonias de vacaciones, hogares sociales, casinos de personal, clubes deportivos y, en general, otras actividades que propendan a los fines se&#xF1;alados en el inciso anterior y que beneficie directamente a sus afiliados. El Consejo Administrativo fijar&#xE1;&nbsp; el porcentaje del presupuesto que deber&#xE1; destinarse para estos efectos.</div><div class=\"p\">&nbsp; &nbsp;  El Servicio de Bienestar podr&#xE1; adem&#xE1;s, administrar colonias, refugios, casas de hu&#xE9;spedes, bibliotecas, videotecas y otras instalaciones que le sean asignadas para el uso de sus beneficiarios, quedando expresamente excluida de dicha facultad la de contratar personal, la que corresponder&#xE1; al respectivo Servicio de Salud. Asimismo, los Servicios de Bienestar podr&#xE1;n celebrar convenios entre ellos, con el objeto que sus afiliados puedan hacer uso de las instalaciones que administren otros Servicios de Bienestar.</div><br></div>"
+        },
+        {
+          "part_id": 7225910,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  T I T U L O&nbsp; VI</div><br></div>"
+        },
+        {
+          "part_id": 7225911,
+          "old": null,
+          "new": "<div><div class=\"p\">P&#xE1;rrafo Cuarto<span class=\"n\" id=\"n_0\">DTO 70 TRABAJO<br>D.O. 24.10.1998</span></div><div class=\"p\">De la atenci&#xF3;n social, cultural y deportiva</div><br><br></div>"
+        },
+        {
+          "part_id": 7225912,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA;: Los afiliados tendr&#xE1;n derecho a<span class=\"n\" id=\"n_1\">DTO 70, TRABAJO<br>D.O. 24.10.1998</span> percibir los beneficios m&#xE9;dicos, a partir del primer mes de aprobada la solicitud de ingreso. Los dem&#xE1;s beneficios podr&#xE1;n solicitarse 5 meses despu&#xE9;s que el afiliado se incorpore al Servicio, o dentro de los plazos especiales establecidos en el presente Reglamento.</div><br></div>"
+        },
+        {
+          "part_id": 7225913,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18&#xBA;: Corresponder&#xE1; al Consejo<span class=\"n\" id=\"n_2\">DTO 70, TRABAJO<br>D.O. 24.10.1998</span> Administrativo determinar los procedimientos y documentos que los afiliados deber&#xE1;n presentar para la obtenci&#xF3;n de cualquier beneficio establecido en este Reglamento.</div><br></div>"
+        },
+        {
+          "part_id": 7225914,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 19&#xBA;: El derecho a solicitar los beneficios<span class=\"n\" id=\"n_3\">DTO 70, TRABAJO<br>D.O. 24.10.1998</span> que concede el Servicio, caducar&#xE1; luego de transcurrido seis meses desde la fecha en que se declare la calidad de pensionado, para los beneficios causados en el per&#xED;odo comprendido entre esta fecha y la del cese de sus funciones.</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": 7225903,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16&#xBA;: Los afiliados tendr&#xE1;n derecho a percibir los beneficios m&#xE9;dicos, a partir del primer mes de aprobada la solicitud de ingreso. Los dem&#xE1;s beneficios podr&#xE1;n solicitarse 5 meses despu&#xE9;s que el afiliado se incorpore al Servicio, o dentro de los plazos especiales establecidos en el presente Reglamento.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 7225904,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  T I T U L O&nbsp; VI</div><br><div class=\"p\">&nbsp; &nbsp;  Disposiciones&nbsp; generales</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 7225905,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA;: Corresponder&#xE1; al Consejo Administrativo determinar los procedimientos y documentos que los afiliados deber&#xE1;n presentar para la obtenci&#xF3;n de cualquier beneficio establecido en este Reglamento.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 7225906,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18&#xBA;: El derecho a solicitar los beneficios que concede el Servicio, caducar&#xE1; luego de transcurrido seis meses desde la fecha en que se declare la calidad de pensionado, para los beneficios causados en el per&#xED;odo comprendido entre esta fecha y la del cese de sus funciones.</div></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2022-04-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

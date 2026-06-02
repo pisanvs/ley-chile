@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-08-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8425527,
+          "old": "<div><div class=\"p\">IMPLEMENTA PRODUCTO INTRA-REGIONAL EN LA CUARTA REGION Y COMPLEMENTA SISTEMA TARIFARIO</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.206 exenta.- Santiago, 4 de agosto de 1998.- Visto: El D.F.L. N&#xBA; 10 de 1981 y el art&#xED;culo N&#xBA; 5 del decreto N&#xBA; 91 de 1998, ambos del Ministerio de Transportes y Telecomunicaciones, la necesidad de fijar tarifas a un producto intra-regional en la Cuarta Regi&#xF3;n, el Acuerdo de Directorio N&#xBA; 071/97, la resoluci&#xF3;n exenta N&#xBA; 520 de 1996 de la Contralor&#xED;a General de la Rep&#xFA;blica y las facultades que me confieren las resoluciones N&#xBA; 233 de 1994 y N&#xBA; 1.861 del a&#xF1;o 1995, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">IMPLEMENTA PRODUCTO INTRA-REGIONAL EN LA CUARTA REGION Y COMPLEMENTA SISTEMA TARIFARIO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.206 exenta.- Santiago, 4 de agosto de 1998.- Visto: El D.F.L. N&#xBA; 10 de 1981 y el art&#xED;culo N&#xBA; 5 del decreto N&#xBA; 91 de 1998, ambos del Ministerio de Transportes y Telecomunicaciones, la necesidad de fijar tarifas a un producto intra-regional en la Cuarta Regi&#xF3;n, el Acuerdo de Directorio N&#xBA; 071/97, la resoluci&#xF3;n exenta N&#xBA; 520 de 1996 de la Contralor&#xED;a General de la Rep&#xFA;blica y las facultades que me confieren las resoluciones N&#xBA; 233 de 1994 y N&#xBA; 1.861 del a&#xF1;o 1995, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

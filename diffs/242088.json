@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-09-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-11-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7323029,
+          "old": "<div><div class=\"p\">MODIFICA TARIFAS GENERALES DE LA SOCIEDAD CHILENA DEL DERECHO DE AUTOR (SCD), POR ACUERDO DE SU CONSEJO DIRECTIVO N&#xBA; 354/05, EN SESION DE 23 DE AGOSTO DE 2005 </div></div>",
+          "new": "<div><div class=\"p\">MODIFICA TARIFAS GENERALES DE LA SOCIEDAD CHILENA DEL DERECHO DE AUTOR (SCD), POR ACUERDO DE SU CONSEJO DIRECTIVO N&#xBA; 353/05, EN SESION DE 23 DE AGOSTO DE 2005<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 16.09.2005</span> </div><div class=\"p\">&nbsp; &nbsp; </div></div>"
+        }
+      ]
+    }
+  }
+]

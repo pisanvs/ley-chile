@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-03-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-11-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8342532,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese las siguientes &#xE1;reas de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos, en los sectores de la III Regi&#xF3;n que a continuaci&#xF3;n se indican:</div><br><br><div class=\"p\">1)&nbsp;  En el sector denominado Punta Copiap&#xF3;, un &#xE1;rea inscrita en la figura irregular, entre la l&#xED;nea de la costa y los v&#xE9;rtices cuyas coordenadas son las siguientes:</div><br><div class=\"p\">(CARTA SHOA N&#xBA; 303; ESC. 1:80.000; 4&#xAA; ED. 1956) </div><div class=\"p\">V&#xE9;rtice&nbsp; &nbsp;  Latitud S.&nbsp; &nbsp;  Longitud W.</div><div class=\"p\">&nbsp; &nbsp; A&nbsp; &nbsp; &nbsp; 27&#xB0;20&apos;37,30&quot;&nbsp;  70&#xB0;57&apos;02,92&quot; B&nbsp; &nbsp; &nbsp; 27&#xB0;20&apos;00,00&quot;&nbsp;  70&#xB0;57&apos;39,00&quot; C&nbsp; &nbsp; &nbsp; 27&#xB0;21&apos;10,00&quot;&nbsp;  70&#xB0;57&apos;39,00&quot; D&nbsp; &nbsp; &nbsp; 27&#xB0;21&apos;10,00&quot;&nbsp;  70&#xB0;57&apos;26,80&quot;</div><br><div class=\"p\">2)&nbsp;  En el sector denominado Bah&#xED;a Huasco, un &#xE1;rea inscrita en la figura irregular y sus v&#xE9;rtices cuyas coordenadas son las siguientes:</div><br><div class=\"p\">(CARTA SHOA N&#xBA; 3210; ESC. 1:10.000; 7&#xAA; ED. 1994) </div><div class=\"p\">V&#xE9;rtice&nbsp; &nbsp;  Latitud S.&nbsp; &nbsp; Longitud W.</div><div class=\"p\">&nbsp; &nbsp; A&nbsp; &nbsp;  28&#xB0;27&apos;34,00&quot;&nbsp;  71&#xB0;13&apos;12,74&quot; B&nbsp; &nbsp;  28&#xB0;27&apos;41,20&quot;&nbsp;  71&#xB0;13&apos;20,10&quot; C&nbsp; &nbsp;  28&#xB0;27&apos;47,64&quot;&nbsp;  71&#xB0;13&apos;11,96&quot; D&nbsp; &nbsp;  28&#xB0;27&apos;40,35&quot;&nbsp;  71&#xB0;13&apos;03,76&quot; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese las siguientes &#xE1;reas de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos, en los sectores de la III Regi&#xF3;n que a continuaci&#xF3;n se indican:</div><br><br><div class=\"p\">1)&nbsp;  En el sector denominado Punta Copiap&#xF3;, un &#xE1;rea inscrita en la figura irregular, entre la l&#xED;nea de la costa y los v&#xE9;rtices cuyas coordenadas son las</div><div class=\"p\">&nbsp; &nbsp;  siguientes:</div><div class=\"p\">CARTA IGM 2715-7045; 1&#xAA; ED. 1973; ESC. 1:50.000<span class=\"n\" id=\"n_0\">DTO 1296 EXENTO,</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ECONOMIA</div><div class=\"p\">&nbsp; &nbsp;  Puntos&nbsp; &nbsp;  Latitud&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Longitud<span class=\"n\" id=\"n_1\">Art. 3&#xBA;</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp;  A&nbsp; &nbsp; &nbsp; 27&#xBA;20&apos;12.21&quot;&nbsp; &nbsp;  70&#xBA;56&apos;44.89&quot;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D.O. 17.11.2006</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  B&nbsp; &nbsp; &nbsp; 27&#xBA;20&apos;11.96&quot;&nbsp; &nbsp;  70&#xBA;57&apos;02.96&quot;</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  C&nbsp; &nbsp; &nbsp; 27&#xBA;19&apos;07.90&quot;&nbsp; &nbsp;  70&#xBA;57&apos;02.96&quot;</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  D&nbsp; &nbsp; &nbsp; 27&#xBA;19&apos;45.16&quot;&nbsp; &nbsp;  70&#xBA;56&apos;26.84&quot;</div><div class=\"p\">2)&nbsp;  En el sector denominado Bah&#xED;a Huasco, un &#xE1;rea inscrita en la figura irregular y sus v&#xE9;rtices cuyas coordenadas son las siguientes:</div><br><div class=\"p\">(CARTA SHOA N&#xBA; 3210; ESC. 1:10.000; 7&#xAA; ED. 1994) </div><div class=\"p\">V&#xE9;rtice&nbsp; &nbsp;  Latitud S.&nbsp; &nbsp; Longitud W.</div><div class=\"p\">&nbsp; &nbsp; A&nbsp; &nbsp;  28&#xB0;27&apos;34,00&quot;&nbsp;  71&#xB0;13&apos;12,74&quot; B&nbsp; &nbsp;  28&#xB0;27&apos;41,20&quot;&nbsp;  71&#xB0;13&apos;20,10&quot; C&nbsp; &nbsp;  28&#xB0;27&apos;47,64&quot;&nbsp;  71&#xB0;13&apos;11,96&quot; D&nbsp; &nbsp;  28&#xB0;27&apos;40,35&quot;&nbsp;  71&#xB0;13&apos;03,76&quot; </div></div>"
+        }
+      ]
+    }
+  }
+]

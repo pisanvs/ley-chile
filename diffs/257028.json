@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-12-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-01-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8431491,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO TRANSITORIO.- Las modificaciones a la Resoluci&#xF3;n N&#xB0;533 (V. y U.), de 1997, dispuestas por la presente resoluci&#xF3;n regir&#xE1;n para los llamados a postulaci&#xF3;n que se efect&#xFA;en a partir de la fecha de su publicaci&#xF3;n en el Diario Oficial, conforme a los decretos supremos N&#xB0;117, de 2002 y N&#xB0;174, de 2005, ambos de Vivienda y Urbanismo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO TRANSITORIO.- Las modificaciones a la Resoluci&#xF3;n N&#xB0;533 (V. y U.), de 1997, dispuestas por la presente resoluci&#xF3;n regir&#xE1;n para las selecciones<span class=\"n\" id=\"n_0\">RES 688, VIVIENDA<br>Art. &#xFA;nico<br>D.O. 08.01.2007</span> de proyectos que se efect&#xFA;en a partir de la fecha de su publicaci&#xF3;n en el Diario Oficial, conforme a los decretos supremos N&#xB0;117, de 2002 y N&#xB0;174, de 2005, ambos de Vivienda y Urbanismo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-05-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-03-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8855006,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA RESOLUCION N&#xB0; 392, DE 1995, EN PUNTOS QUE INDICA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 456.- Puerto Montt, 13 de Abril de 1995.- Vistos estos antecedentes: La necesidad de modificar la Resoluci&#xF3;n Sanitaria N&#xB0; 0392 del 16 de Marzo de 1995, en los puntos 5, 6 y 9, debido a la disminuci&#xF3;n de la extracci&#xF3;n y comercializaci&#xF3;n de mariscos bivalvos, por t&#xE9;rmino de la Semana Santa y liberar los puertos de desembarco, manteniendo los controles rutinarios para evitar el riesgo de consumo de productos contaminados con el fen&#xF3;meno de Marea Roja; y teniendo presente: lo dispuesto en el Decreto Ley N&#xB0; 2763/79, Decreto Supremo N&#xB0; 42/86, Org&#xE1;nico de los Servicios de Salud, y lo previsto en el Art&#xED;culo 3, 108, y siguientes del C&#xF3;digo Sanitario y Art&#xED;culos 2, 3, 9 y 12 del Reglamento Sanitario de los Alimentos aprobado por Decreto Supremo N&#xB0; 60 de 1982 del Ministerio de Salud, dicto la siguiente,</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xB0; 392, DE 1995, EN PUNTOS QUE INDICA</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 456.- Puerto Montt, 13 de Abril de 1995.- Vistos estos antecedentes: La necesidad de modificar la Resoluci&#xF3;n Sanitaria N&#xB0; 0392 del 16 de Marzo de 1995, en los puntos 5, 6 y 9, debido a la disminuci&#xF3;n de la extracci&#xF3;n y comercializaci&#xF3;n de mariscos bivalvos, por t&#xE9;rmino de la Semana Santa y liberar los puertos de desembarco, manteniendo los controles rutinarios para evitar el riesgo de consumo de productos contaminados con el fen&#xF3;meno de Marea Roja; y teniendo presente: lo dispuesto en el Decreto Ley N&#xB0; 2763/79, Decreto Supremo N&#xB0; 42/86, Org&#xE1;nico de los Servicios de Salud, y lo previsto en el Art&#xED;culo 3, 108, y siguientes del C&#xF3;digo Sanitario y Art&#xED;culos 2, 3, 9 y 12 del Reglamento Sanitario de los Alimentos aprobado por Decreto Supremo N&#xB0; 60 de 1982 del Ministerio de Salud, dicto la siguiente,</div><br><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

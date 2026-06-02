@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-11-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-07-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8934821,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA INSTITUCION OFICIAL DE CONTROL TECNICO DE CALIDAD DE LOS MATERIALES Y ELEMENTOS INDUSTRIALES PARA LA CONSTRUCCION</div><div class=\"p\">&nbsp; &nbsp; Santiago, 26 de Septiembre de 1995.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 410.- Visto: Lo dispuesto en el art&#xED;culo 5.5.1. del D.S. N&#xB0; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones; las facultades que me otorga el D.L. N&#xB0; 1.305 de 1976, y la Resoluci&#xF3;n N&#xB0; 317 (V. y U.) de 1995, dicto la siguiente</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA INSTITUCION OFICIAL DE CONTROL TECNICO DE CALIDAD DE LOS MATERIALES Y ELEMENTOS INDUSTRIALES PARA LA CONSTRUCCION</div><div class=\"p\">&nbsp; &nbsp; Santiago, 26 de Septiembre de 1995.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 410.- Visto: Lo dispuesto en el art&#xED;culo 5.5.1. del D.S. N&#xB0; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones; las facultades que me otorga el D.L. N&#xB0; 1.305 de 1976, y la Resoluci&#xF3;n N&#xB0; 317 (V. y U.) de 1995, dicto la siguiente</div><div class=\"p\">&nbsp; &nbsp; Resoluci&#xF3;n:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

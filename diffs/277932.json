@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2008-09-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-01-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6659539,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;. Para los efectos previstos en esta ordenanza, las actividades que se desarrollen en la Avenida del Mar se clasificar&#xE1;n en Masivas, entendi&#xE9;ndose por tales aquellas que puedan convocar a m&#xE1;s de dos mil personas o que convocando a un menor n&#xFA;mero de personas se estime que se desarrollar&#xE1;n con niveles de ruido superiores al m&#xE1;ximo permitido para zonas residenciales (actualmente 55 decibeles) y no Masivas entendi&#xE9;ndose por tales aquellas no comprendidas en la definici&#xF3;n anterior.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1010135&amp;idParte=8822222&amp;idVersion=2010-01-15\">Decreto 4580,<br>M. DE LA SERENA<br>N&#xBA; 1 A.-<br>D.O. 15.01.2010</a></span>&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;. Para los efectos previstos en esta Ordenanza, las actividades que se desarrollen en la Avenida del Mar se clasificar&#xE1;n en Masivas, entendi&#xE9;ndose por tales aquellas que puedan convocar a m&#xE1;s de dos mil personas, y No Masivas, entendi&#xE9;ndose por tales aquellas no comprendidas en la definici&#xF3;n anterior.</div><br></div>"
+        },
+        {
+          "part_id": 6659541,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;. Las actividades Masivas que se instalen en bien nacional de uso p&#xFA;blico deber&#xE1;n ubicarse al norte del Faro Monumental de La Serena. </div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1010135&amp;idParte=8822222&amp;idVersion=2010-01-15\">Decreto 4580,<br>M. DE LA SERENA<br>N&#xBA; 1 B.-<br>D.O. 15.01.2010</a></span>&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;. Las actividades Masivas que se instalen en bien nacional de uso p&#xFA;blico deber&#xE1;n ubicarse al norte del faro monumental de La Serena, salvo que en consideraci&#xF3;n a la importancia de la actividad el alcalde autorice su instalaci&#xF3;n en otro sector de la Avenida del Mar, lo que har&#xE1; mediante la dictaci&#xF3;n del respectivo decreto.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1010135,
+      "fecha": "2010-01-15"
+    }
+  }
+]

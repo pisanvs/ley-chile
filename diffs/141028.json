@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-08-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-11-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8348378,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: Conc&#xE9;dese, por gracia, a cada una de las siguientes personas: Omar Aquiles Antonio Astete Larenas, Rut. 2.801.853-3; Juan Segundo Lincoqueo Manquean, Rut. 2.787.939-K; Nylandor Domingo Rubio Baeza, Rut. 4.339.064-3; Mar&#xED;a Antonia San Mart&#xED;n Guti&#xE9;rrez, Rut. 6.152.641-2; Marcelo Daniel Soto Allende, Rut. 16.143.986-8, una pensi&#xF3;n equivalente al 75% de un ingreso m&#xED;nimo mensual.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: Conc&#xE9;dese, por gracia, a cada una<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> de las siguientes personas: Omar Aquiles Antonio Astete Larenas, Rut. 2.801.853-3; Juan Segundo Lincoqueo Manquean, Rut. 2.787.939-K; Nylandor Domingo Rubio Baeza, Rut. 4.339.064-3; Mar&#xED;a Antonia San Mart&#xED;n Guti&#xE9;rrez, Rut. 6.152.641-2; Marcelo Daniel Soto Allende, Rut. 16.143.986-8, una pensi&#xF3;n equivalente al 75% de un ingreso m&#xED;nimo mensual.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; Por DTO 6936, Interior, publicado el 25.11.1999, se facult&#xF3; a do&#xF1;a Pilar del Carmen Lazo Coldeira para cobrar pensi&#xF3;n por gracia de don Nylandor Domingo Rubio Baeza.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

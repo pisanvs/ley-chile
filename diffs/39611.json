@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-08-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-05-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8104398,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA ARSENAL FARMACOLOGICO BASICO DE LOS CONSULTORIOS DE ATENCION PRIMARIA DEL SERVICIO DE SALUD MAULE</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.212 exenta.- Santiago, 23 de julio de 1996.- Visto: Lo dispuesto en el N&#xB0; 2, p&#xE1;rrafo 2.1. de la Resoluci&#xF3;n N&#xB0; 1.717, de 1985, del Ministerio de Salud, que determina entre otros aspectos que los medicamentos contenidos en el arsenal farmacol&#xF3;gico de los Consultorios ser&#xE1;n gratuitos en la atenci&#xF3;n que en ellos se proporcione a los beneficiarios;</div><div class=\"p\">&nbsp; &nbsp; Considerando: La necesidad de determinar los productos farmac&#xE9;uticos que deben estar disponibles para las atenciones de salud que se otorgan en los Consultorios de Atenci&#xF3;n Primaria situados dentro del territorio de competencia del Servicio de Salud Maule, y Teniendo Presente: Lo propuesto en el Oficio Ord. N&#xB0; 8.277, de 1995, del Director del Servicio de Salud Maule, y las facultades normativas que me confieren los art&#xED;culos 4&#xB0; y 6&#xB0;, del Decreto Ley N&#xB0; 2.763, de 1979, dicto la siguiente</div><div class=\"p\">&nbsp; &nbsp; R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA ARSENAL FARMACOLOGICO BASICO DE LOS CONSULTORIOS DE ATENCION PRIMARIA DEL SERVICIO DE SALUD MAULE</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.212 exenta.- Santiago, 23 de julio de 1996.- Visto: Lo dispuesto en el N&#xB0; 2, p&#xE1;rrafo 2.1. de la Resoluci&#xF3;n N&#xB0; 1.717, de 1985, del Ministerio de Salud, que determina entre otros aspectos que los medicamentos contenidos en el arsenal farmacol&#xF3;gico de los Consultorios ser&#xE1;n gratuitos en la atenci&#xF3;n que en ellos se proporcione a los beneficiarios;</div><div class=\"p\">&nbsp; &nbsp; Considerando: La necesidad de determinar los productos farmac&#xE9;uticos que deben estar disponibles para las atenciones de salud que se otorgan en los Consultorios de Atenci&#xF3;n Primaria situados dentro del territorio de competencia del Servicio de Salud Maule, y Teniendo Presente: Lo propuesto en el Oficio Ord. N&#xB0; 8.277, de 1995, del Director del Servicio de Salud Maule, y las facultades normativas que me confieren los art&#xED;culos 4&#xB0; y 6&#xB0;, del Decreto Ley N&#xB0; 2.763, de 1979, dicto la siguiente</div><div class=\"p\">&nbsp; &nbsp; R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

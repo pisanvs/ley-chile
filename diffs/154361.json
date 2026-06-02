@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-12-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8549023,
+          "old": "<div><div class=\"p\">AUTORIZA A EMPRESA DE CULTIVOS Y EXPLOTACION DE PRODUCTOS DEL MAR LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><div class=\"p\">(Extracto) </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A EMPRESA DE CULTIVOS Y EXPLOTACION DE PRODUCTOS DEL MAR LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

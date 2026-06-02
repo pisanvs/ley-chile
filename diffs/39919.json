@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1991-10-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-06-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8855126,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ESTABLECE NORMAS SOBRE COMUNICACIONES DE DIAGNOSTICOS PECUARIO</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.698 exenta.- Santiago, 22 de Octubre de 1991.- Vistos: Lo dispuesto en la letra b) del art&#xED;culo 3&#xB0; de la Ley N&#xB0; 18.755 que contiene el Estatuto Org&#xE1;nico del Servicio Agr&#xED;cola y Ganadero; y</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1.- Que de acuerdo con la norma legal citada en los vistos, es funci&#xF3;n del Servicio Agr&#xED;cola y Ganadero mantener un sistema de vigilancia y diagn&#xF3;stico de las enfermedades de los animales que existan en el pa&#xED;s o susceptibles de presentarse en el mismo;</div><div class=\"p\">&nbsp; &nbsp; 2.- Que dicho sistema de vigilancia debe incluir un conocimiento permanente de los diagn&#xF3;sticos realizados por los laboratorios pecuarios que identifican enfermedades de los animales, lo que permite formular los programas de acci&#xF3;n correspondientes a que alude la letra c) de la norma legal citada;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">ESTABLECE NORMAS SOBRE COMUNICACIONES DE DIAGNOSTICOS PECUARIO</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.698 exenta.- Santiago, 22 de Octubre de 1991.- Vistos: Lo dispuesto en la letra b) del art&#xED;culo 3&#xB0; de la Ley N&#xB0; 18.755 que contiene el Estatuto Org&#xE1;nico del Servicio Agr&#xED;cola y Ganadero; y</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; 1.- Que de acuerdo con la norma legal citada en los vistos, es funci&#xF3;n del Servicio Agr&#xED;cola y Ganadero mantener un sistema de vigilancia y diagn&#xF3;stico de las enfermedades de los animales que existan en el pa&#xED;s o susceptibles de presentarse en el mismo;</div><div class=\"p\">&nbsp; &nbsp; 2.- Que dicho sistema de vigilancia debe incluir un conocimiento permanente de los diagn&#xF3;sticos realizados por los laboratorios pecuarios que identifican enfermedades de los animales, lo que permite formular los programas de acci&#xF3;n correspondientes a que alude la letra c) de la norma legal citada;</div><br><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

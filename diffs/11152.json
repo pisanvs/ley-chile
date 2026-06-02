@@ -1,0 +1,391 @@
+[
+  {
+    "fecha": "1981-01-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1985-03-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8774145,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0; Bis. El empleo de equipos modems que no<span class=\"n\" id=\"n_1\">DTO 9, TRANSPORTES<br>ART. UNICO N&#xB0; b)<br>D.O. 04.03.1985</span> cumplan con las Recomendaciones del CCITT (Tomo VIII- Fasc&#xED;culo VIII-1), se regir&#xE1; por las siguientes normas:</div><br><div class=\"p\">&nbsp; &nbsp; 1.- S&#xF3;lo se conectar&#xE1;n en circuitos arrendados de tipo telef&#xF3;nico en transmisiones punto a punto y en las velocidades especificadas en el art&#xED;culo anterior.</div><div class=\"p\">&nbsp; &nbsp; 2.- Deber&#xE1; adherirse a estos modems una placa permanente, en un lugar visible, que advierta que no cumplen con las citadas recomendaciones.</div><div class=\"p\">&nbsp; &nbsp; 3.- Su homologaci&#xF3;n se har&#xE1; de acuerdo a la norma espec&#xED;fica de dise&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; En las redes conmutadas de datos s&#xF3;lo se aceptar&#xE1;n equipos modems que cumplan con las Recomendaciones del CCITT.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8774121,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 12&#xBA; Detalle de las especificaciones.</div><br><div class=\"p\">MODEM DE 200/300 b.p.s</div><div class=\"p\">a) Velocidad de modulaci&#xF3;n: 200 baudios; 300 baudios.</div><div class=\"p\">b) Recomendaci&#xF3;n del CCITT: V.21 (Tomo VIII.1).</div><br><div class=\"p\">MODEM DE 600/1.200 b.p.s.</div><div class=\"p\">a) Velocidad de modulaci&#xF3;n: 600 baudios; 1.200 baudios.</div><div class=\"p\">b) Recomendaci&#xF3;n del CCITT: V-23 (Tomo VIIl.1).</div><br><div class=\"p\">INTERFAZ</div><div class=\"p\">a) Caracter&#xED;sticas el&#xE9;ctricas de los circuitos de enlace: De acuerdo a la recomendaci&#xF3;n V-28 del CCITT (Tomo VIII. 1).</div><div class=\"p\">b) Funciones l&#xF3;gicas de los circuitos de enlace: De acuerdo a recomendaci&#xF3;n V-24 del CCITT (Tomo VIII.l) c) Conectar de la interfaz:</div><div class=\"p\">Enchufes tipo Cannon DB-25.</div><div class=\"p\">Los niveles de transmisi&#xF3;n en l&#xED;nea deber&#xE1;n ser los establecidos en el Plan de Transmisi&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12&#xB0; Las velocidades de modulaci&#xF3;n, las<span class=\"n\" id=\"n_2\">DTO 9, TRANSPORTES<br>ART. UNICO c)<br>D.O. 04.03.1985</span> caracter&#xED;sticas el&#xE9;ctricas de los circuitos de enlace y las funciones l&#xF3;gicas de los equipos modems, deber&#xE1;n corresponder a las indicadas en el Tomo VIII-1 del CCITT.</div><div class=\"p\">&nbsp; &nbsp; Los niveles de transmisi&#xF3;n en l&#xED;nea ser&#xE1;n los establecidos en el Plan de Transmisi&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 8774143,
+          "old": "<div><div class=\"p\">DECRETO N&#xB0; 220, DE 5 DE DICIEMBRE DE 1980</div><br><div class=\"p\">&nbsp; &nbsp; Aprueba reglamento de homologaci&#xF3;n de aparatos telef&#xF3;nicos</div><br><div class=\"p\">&nbsp; &nbsp; NUM. 220.- Santiago, 5 de diciembre de 1980.- Vistos: lo dispuesto en los art&#xED;culos 72&#xB0;, N&#xB0; 2 de la Constituci&#xF3;n Pol&#xED;tica y 10&#xB0; N&#xB0; 1 del decreto ley 527 de 1956, el decreto con fuerza de ley 4 de 1959, el decreto ley 1.762 de 1977 y el decreto 423 de 1978 que fij&#xF3; la Pol&#xED;tica Nacional de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que es necesario materializar en cuerpos normativos espec&#xED;ficos las pol&#xED;ticas dispuestas por el Supremo Gobierno con relaci&#xF3;n a facilitar la participaci&#xF3;n amplia de todos los sectores en las &#xE1;reas de los servicios p&#xFA;blicos de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; Que es factible mediante una clara y coordinada acci&#xF3;n normalizadora, que el usuario o abonado de los servicios p&#xFA;blicos telef&#xF3;nicos, pueda decidir personalmente acerca del equipo telef&#xF3;nico que desea instalar.</div><br><div class=\"p\">&nbsp; &nbsp; DECRETO:</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES SUBSECRETARIA DE TELECOMUNICACIONES</div><div class=\"p\">&nbsp; &nbsp; DECRETO N&#xB0; 220, DE 5 DE DICIEMBRE DE 1980 Aprueba reglamento de homologaci&#xF3;n de aparatos telef&#xF3;nicos</div><div class=\"p\">&nbsp; &nbsp; (Publicado en el &quot;Diario Oficial&quot; N&#xB0; 30.859, de 8 de enero de 1981)</div><div class=\"p\">&nbsp; &nbsp; NUM. 220.- Santiago, 5 de diciembre de 1980.- Vistos: lo dispuesto en los art&#xED;culos 72&#xB0;, N&#xB0; 2 de la Constituci&#xF3;n Pol&#xED;tica y 10&#xB0; N&#xB0; 1 del decreto ley 527 de 1956, el decreto con fuerza de ley 4 de 1959, el decreto ley 1.762 de 1977 y el decreto 423 de 1978 que fij&#xF3; la Pol&#xED;tica Nacional de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que es necesario materializar en cuerpos normativos espec&#xED;ficos las pol&#xED;ticas dispuestas por el Supremo Gobierno con relaci&#xF3;n a facilitar la participaci&#xF3;n amplia de todos los sectores en las &#xE1;reas de los servicios p&#xFA;blicos de Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp; Que es factible mediante una clara y coordinada acci&#xF3;n normalizadora, que el usuario o abonado de los servicios p&#xFA;blicos telef&#xF3;nicos, pueda decidir personalmente acerca del equipo telef&#xF3;nico que desea instalar.</div><div class=\"p\">&nbsp; &nbsp; DECRETO:</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1993-11-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8774110,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 4&#xB0; Las especificaciones que se indicar&#xE1;n a continuaci&#xF3;n tienen por objeto describir las caracter&#xED;sticas b&#xE1;sicas que deber&#xE1;n reunir los aparatos de tel&#xE9;fonos que se conecten a dos hilos y operen con bater&#xED;a central, de una central autom&#xE1;tica o manual de la red telef&#xF3;nica nacional.</div><div class=\"p\">&nbsp; &nbsp; El aparato telef&#xF3;nico se compone de:</div><div class=\"p\">&nbsp; &nbsp; - El aparato mismo.</div><div class=\"p\">&nbsp; &nbsp; - El equipo accesorio.</div><div class=\"p\">&nbsp; &nbsp; El aparato telef&#xF3;nico es un conjunto de equipos que incluye elemento transmisor, elemento receptor, conmutador de l&#xED;nea, indicador de llamada, selector de cifras y todos los componentes y cableados directamente asociados.</div><div class=\"p\">&nbsp; &nbsp; El equipo accesorio lo constituyen todas aquellas partes adicionales asociadas al aparato telef&#xF3;nico del suscriptor y cuya posibilidad de falla no debe afectar las condiciones de transmisi&#xF3;n del aparato mismo.</div><div class=\"p\">&nbsp; &nbsp; Los equipos accesorios pueden ser, entre otros, los</div><div class=\"p\">siguientes:</div><div class=\"p\">&nbsp; &nbsp; - Indicador total y parcial de llamadas.</div><div class=\"p\">&nbsp; &nbsp; - Llaves de cambio.</div><div class=\"p\">&nbsp; &nbsp; - Enchufes.</div><div class=\"p\">&nbsp; &nbsp; - Timbre de extensi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El equipo telef&#xF3;nico y el accesorio, deber&#xE1;n cumplir las normas correspondientes de los Planes Fundamentales.</div><div class=\"p\">&nbsp; &nbsp; Cuando el equipo accesorio utilice energ&#xED;a el&#xE9;ctrica de la red p&#xFA;blica, deber&#xE1; cumplir con las normas el&#xE9;ctricas correspondientes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 4&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_0\">DTO 354, TRANSPORTES<br>D.O. 29.11.1993</span></div><br></div>"
+        },
+        {
+          "part_id": 8774112,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 5&#xB0; Detalles de las especificaciones.</div><div class=\"p\">&nbsp; &nbsp; El aparato telef&#xF3;nico deber&#xE1; cumplir con todas las recomendaciones del CCITT y en particular las que se indican en este reglamento:</div><div class=\"p\">&nbsp; &nbsp; a) Ancho de Banda: La banda de frecuencia transmitida por los aparatos deber&#xE1; corresponder a la especificada en el Plan Nacional de Transmisi&#xF3;n que est&#xE1; comprendida de 300 a 3.400 HZ.</div><div class=\"p\">&nbsp; &nbsp; b) Nivel de Ruido: El ruido que aporte a la l&#xED;nea el aparato telef&#xF3;nico deber&#xE1; ser lo m&#xE1;s bajo posible con el objeto de satisfacer las normas correspondientes a ruido en el Plan Nacional de Transmisi&#xF3;n. Este valor no podr&#xE1; ser superior a -73 dbmOp.</div><div class=\"p\">&nbsp; &nbsp; c) Toma de L&#xED;nea: El aparato no debe retener o acusar toma de l&#xED;nea, excepto cuando est&#xE9; en operaci&#xF3;n; en estas condiciones, el aparato no debe presentar una resistencia mayor de 250 ohms. en corriente continua.</div><div class=\"p\">&nbsp; &nbsp; d) Alimentaci&#xF3;n: Los tel&#xE9;fonos a disco deber&#xE1;n ser capaces, a lo menos, de trabajar con los siguientes puentes de alimentaci&#xF3;n:</div><div class=\"p\"> - 2 x 220 ohms, 48 v c.c nominal; + 4v c.c</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -</div><div class=\"p\"> - 2 x 200 ohms, 48 v c.c nominal; + 4v c.c</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -</div><div class=\"p\"> - 2 x 250 ohms, 48 v c.c nominal; + 4v c.c</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -</div><div class=\"p\">&nbsp; &nbsp; El aparato telef&#xF3;nico se alimentar&#xE1; de la corriente normal suministrada en el bucle de abonado.</div><div class=\"p\">&nbsp; &nbsp; e) Microtel&#xE9;fono: El perfil t&#xED;pico del microtel&#xE9;fono debe procurar ce&#xF1;irse a la recomendaci&#xF3;n P. 48 del CCITT, Tomo V, Libro Naranja. Dicha recomendaci&#xF3;n especifica el sistema intermedio de referencia (SIR) para definir los &#xED;ndices de sonoridad.</div><div class=\"p\">&nbsp; &nbsp; El dise&#xF1;o de la caja debe impedir que el microtel&#xE9;fono salga de su alojamiento y adem&#xE1;s, tener la forma m&#xE1;s adecuada para el manejo del aparato.</div><div class=\"p\">&nbsp; &nbsp; Se debe evitar que la corriente de llamada circule por los elementos de trasmisi&#xF3;n y recepci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El elemento transmisor deber&#xE1; estar protegido contra la humedad y corrosi&#xF3;n. Su funcionamiento deber&#xE1; ser estable para cualquier inclinaci&#xF3;n del microtel&#xE9;fono.</div><div class=\"p\">&nbsp; &nbsp; La respuesta de frecuencia t&#xED;pica del elemento transmisor debe corresponder a la mostrada en la Figura 1.</div><div class=\"p\">&nbsp; &nbsp; El elemento receptor deber&#xE1; estar protegido contra la humedad y la corrosi&#xF3;n y, adem&#xE1;s, deber&#xE1; estar equipado con una unidad de protecci&#xF3;n contra chasquidos.</div><div class=\"p\">&nbsp; &nbsp; La respuesta t&#xED;pica de frecuencia del elemento receptor debe corresponder a la mostrada en la Figura 2.</div><div class=\"p\">&nbsp; &nbsp; El elemento receptor debe tener un corte bajo los 250 Hz. para reducir las interferencias de baja frecuencia; y deber&#xE1; adem&#xE1;s, tener la posibilidad de introducir un filtro para evitar inducciones de radio-frecuencia perjudiciales, en caso necesario.</div><div class=\"p\">&nbsp; &nbsp; f) Disco: La numeraci&#xF3;n del disco deber&#xE1; ser del 1 al 9 y 0 (cero) en el sentido contrario al movimiento de los punteros del reloj. Los n&#xFA;meros deben estar a prueba de roces y ser de grabaci&#xF3;n indeleble.</div><div class=\"p\">&nbsp; &nbsp; Cuando el disco no se utilice (por ejemplo, caso de tel&#xE9;fonos conectados a centrales manuales), se deber&#xE1; cubrir el &#xE1;rea del disco con una tapa o disco falso.</div><div class=\"p\">&nbsp; &nbsp; El disco deber&#xE1; estar provisto de elementos de cortocircuiten el receptor durante el discado.</div><div class=\"p\">&nbsp; &nbsp; El disco deber&#xE1; cumplir las siguientes condiciones:</div><div class=\"p\">&nbsp; &nbsp; - La velocidad nominal deber&#xE1; ser de 10 impulsos por segundos con una tolerancia mejor de +- 1 impulso por segundo, y de +- 1.5 impulsos por segundo al t&#xE9;rmino de su vida &#xFA;til.</div><div class=\"p\">&nbsp; &nbsp; - El rango nominal de impulsaci&#xF3;n debe estar comprendido entre 60 y 66.6% en apertura y entre 40 y 33.3% en cierre. Esta condici&#xF3;n implica que la raz&#xF3;n entre apertura y cierre debe estar comprendida entre 1.5 y 2.0.</div><div class=\"p\">&nbsp; &nbsp; - La pausa interdigital deber&#xE1; tener un valor superior a los 500 ms., tiempo requerido por la central durante la operaci&#xF3;n de discar.</div><div class=\"p\">&nbsp; &nbsp; - Deber&#xE1; poder funcionar sin defecto un mill&#xF3;n de veces como m&#xED;nimo.</div><div class=\"p\">&nbsp; &nbsp; Deber&#xE1; ser posible ajustar el rango y la velocidad de impulsaci&#xF3;n del disco, dentro de los l&#xED;mites de su tolerancia, este ajuste no deber&#xE1; ser accesible desde la parte externa del tel&#xE9;fono.</div><div class=\"p\">&nbsp; &nbsp; g) Timbre: El timbre o indicador de llamada deber&#xE1; ser del tipo de alta impedancia, con el objeto de evitar desbalances y p&#xE9;rdidas excesivas cuando varios timbres se conecten en paralelo o entre hilo y tierra.</div><div class=\"p\">&nbsp; &nbsp; Se podr&#xE1;n conectar hasta tres timbres en paralelo.</div><div class=\"p\">&nbsp; &nbsp; El indicador de llamada deber&#xE1; activarse al recibir la corriente de llamada, consistente en un tono de 16 2/3 o de 20 Hz. en el caso de sevicio p&#xFA;blico y, de las mismas caracter&#xED;sticas u otras, en caso de centrales privadas autom&#xE1;ticas.</div><div class=\"p\">&nbsp; &nbsp; El timbre deber&#xE1; estar protegido conra la humedad y deben existir elementos que eviten su falsa operaci&#xF3;n con se&#xF1;ales transitorias.</div><div class=\"p\">&nbsp; &nbsp; La campanilla no debe tener m&#xE1;s de un movimiento por cada digito cuando se marque desde otro tel&#xE9;fono conectado al mismo bucle.</div><div class=\"p\">&nbsp; &nbsp; El aparato telef&#xF3;nico deber&#xE1; disponer de un elemento accionable desde el exterior que permita regular, pero no silenciar completamente la potencia ac&#xFA;stica radiada por el timbre.</div><div class=\"p\">&nbsp; &nbsp; h) Elementos de contacto del tel&#xE9;fono:</div><div class=\"p\">&nbsp; &nbsp; Los elementos que efect&#xFA;en alg&#xFA;n tipo de contacto o conmutaci&#xF3;n deber&#xE1;n estar protegidos contra falsos contactos. Estos elementos pueden ser:</div><div class=\"p\">&nbsp; &nbsp; - Conmutador de gancho.</div><div class=\"p\">&nbsp; &nbsp; - Disco o teclado de selecci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; - Contacto de c&#xE1;psulas transmisoras y receptoras.</div><div class=\"p\">&nbsp; &nbsp; - Otros.</div><div class=\"p\">&nbsp; &nbsp; Los juegos de contacto deber&#xE1;n asegurar un elevado n&#xFA;mero de operaciones sin falla.</div><div class=\"p\">&nbsp; &nbsp; i) Materiales: La elecci&#xF3;n de las caracter&#xED;sticas de durabilidad y calidad de los materiales que formen parte de los elementos que no realizan funciones el&#xE9;ctricas y/o mec&#xE1;nicas, ser&#xE1; una decisi&#xF3;n que deber&#xE1; tomar el usuario y no corresponde dictar normas al respecto, por ejemplo: Z&#xF3;calo, soporte, forma y aspecto est&#xE9;tico de la carcaza, etc.</div><div class=\"p\">&nbsp; &nbsp; j) Conductores: Los cordones de tel&#xE9;fono y accesorios sujetos a manipulaci&#xF3;n, deber&#xE1;n ser flexibles a fin de soportar las solicitaciones mec&#xE1;nicas y evitar su ruptura. Cuando el cord&#xF3;n del microtel&#xE9;fono est&#xE1; estirado, su tensi&#xF3;n no debe provocar movimiento del aparato cuando &#xE9;ste reposa sobre una superficie lisa o pulida; dicho cord&#xF3;n no debe retorcerse al volver a su posici&#xF3;n pasiva.</div><div class=\"p\">&nbsp; &nbsp; k) Regulaci&#xF3;n del modo de transmisi&#xF3;n: El tel&#xE9;fono deber&#xE1; estar provisto de un regulador autom&#xE1;tico de transmisi&#xF3;n, con el objeto de reducir la sensibilidad del transmisor y receptor en l&#xED;neas cortas de abonado y adaptar autom&#xE1;ticamente su impedancia; o sea, debe ser ecualizado.</div><div class=\"p\">&nbsp; &nbsp; El nivel de transmisi&#xF3;n, dentro de ciertos l&#xED;mites deber&#xE1; ser relativamente constante e independiente de la longitud de la l&#xED;nea de abonado. En conversaci&#xF3;n, el tel&#xE9;fono deber&#xE1; funcionar satisfactoriamente con una corriente tan baja como 20mA c.c.</div><div class=\"p\">&nbsp; &nbsp; l) Equivalente de Referencia: El valor del Equivalente de Referencia de los aparatos telef&#xF3;nicos entre 0 y 1200 ohms. del bucle de abonado en el caso de la transmisi&#xF3;n, deber&#xE1; estar situado dentro de la zona sombreada de la Figura 3. Asimismo, para la recepci&#xF3;n, dicho valor deber&#xE1; estar comprendido dentro de la zona sombreada de la Figura 4. No obstante lo anterior, y para evitar que un aparato telef&#xF3;nico pueda tener, simult&#xE1;neamente, los valores de los equivalentes de referencia mencionados, ubicados en los l&#xED;mites de menor calidad de dichas figuras, la suma de los valores de transmisi&#xF3;n y recepci&#xF3;n del aparato, adicionalmente, deber&#xE1; estar situada en la zona sombreada de la Figura 5.</div><div class=\"p\">&nbsp; &nbsp; El equivalente de referencia del efecto local deber&#xE1; estar en la zona sombreada de la Figura 6.</div><div class=\"p\">&nbsp; &nbsp; Los valores de equivalentes de referencia de las figuras mencionadas corresponden a un puente de alimentaci&#xF3;n de 2 x 200 ohmios, 48v c.c., y a un bucleno pupinizado de 0,4 mm. de di&#xE1;metro de conductor con una resistencia de 286 ohms por Km. con una capacitancia de 50 nanofaradios por Km. En caso de condiciones distintas a las indicadas deber&#xE1;n hacerse las correcciones necesarias.</div><div class=\"p\">&nbsp; &nbsp; m) Diagrama Esquem&#xE1;tico: Cada aparato telef&#xF3;nico de suscriptor deber&#xE1; tener un diagrama esquem&#xE1;tico de alambrado y la informaci&#xF3;n necesaria para su instalaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; n) Impedancia del Aparato: La impedancia del aparato telef&#xF3;nico debe ajustarse autom&#xE1;ticamente, de manera tal, que se asemeje a la impedancia de la l&#xED;nea y ocasione un m&#xED;nimo de p&#xE9;rdida por reflexi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &#xF1;) Condiciones Clim&#xE1;ticas de Funcionamiento: Las caracter&#xED;sticas de transmisi&#xF3;n del aparato telef&#xF3;nico deber&#xE1;n permanecer dentro de las normas cuando el aparato est&#xE1; expuesto a temperaturas ambientes entre 0&#xB0;C y 40&#xB0;C; sin embargo, las otras propiedades de orden f&#xED;sicas y mec&#xE1;nicas del aparato mismo, deber&#xE1;n tolerar temperaturas comprendidas entre -10&#xB0;C y 50&#xB0;C.</div><div class=\"p\">&nbsp; &nbsp; En ambiente de humedad, se aceptar&#xE1; un l&#xED;mite de temperatura de 35&#xB0;C con 75% de humedad relativa.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 5&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_1\">DTO 354, TRANSPORTES<br>D.O. 29.11.1993</span></div><br></div>"
+        },
+        {
+          "part_id": 8774113,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 6&#xB0; Deben cumplir con todas las disposiciones indicadas para el tel&#xE9;fono a disco, salvo aquellas que se reemplazan espec&#xED;ficamente. Se agregan las que son propias del tel&#xE9;fono a teclado.</div><div class=\"p\">&nbsp; &nbsp; Los dispositivos del teclado se pueden alimentar de la corriente normal suministrada en el bucle de abonado y deben contar con una protecci&#xF3;n de polaridad en caso de que fuese necesario.</div><div class=\"p\">&nbsp; &nbsp; Este aparato s&#xF3;lo se conectar&#xE1; a centrales autom&#xE1;ticas con bater&#xED;a central.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 6&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_2\">DTO 354, TRANSPORTES<br>D.O. 29.11.1993</span></div><br></div>"
+        },
+        {
+          "part_id": 8774115,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 7&#xB0; Detalle de las especificaciones.</div><div class=\"p\">&nbsp; &nbsp; El usuario deber&#xE1; informarse en la Compa&#xF1;&#xED;a de Tel&#xE9;fonos que corresponda si la central de conmutaci&#xF3;n autom&#xE1;tica a la cual se conectar&#xE1; el aparato, es capaz de recibir c&#xF3;digo multifrecuencia. En el caso de no ser as&#xED;, es responsabilidad del usuario proveer la conversi&#xF3;n necesaria a c&#xF3;digo de pulsos decimales.</div><div class=\"p\">&nbsp; &nbsp; En el caso de c&#xF3;digo multifrecuencia se deber&#xE1; cumplir las recomendaciones Q.23 y Q.16 del CCITT, Libro Naranja, Tomo VI.1.</div><div class=\"p\">&nbsp; &nbsp; En el caso de c&#xF3;digo de pulsos decimales, el convertidor deber&#xE1; tener una capacidad m&#xED;nima de almacenamiento de 14 d&#xED;gitos y sus se&#xF1;ales de env&#xED;o deben satisfacer todas las especificaciones correspondientes para los aparatos telef&#xF3;nicos. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 7&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_3\">DTO 354, TRANSPORTES<br>D.O. 29.11.1993</span></div><br></div>"
+        },
+        {
+          "part_id": 8774116,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 8&#xB0; El discador autom&#xE1;tico substituye en forma autom&#xE1;tica las funciones del disco o teclado del tel&#xE9;fono. Esta substituci&#xF3;n se realiza a voluntad del usuario. Por lo tanto, en su conjunto, el discador autom&#xE1;tico deber&#xE1; cumplir con las normas de homologaci&#xF3;n correspondientes.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 8&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_4\">DTO 354, TRANSPORTES<br>D.O. 29.11.1993</span></div><br></div>"
+        },
+        {
+          "part_id": 8774118,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 9&#xB0; Estas especificaciones tienen por objeto definir las caracter&#xED;sticas que deben cumplir los contestadores autom&#xE1;ticos telef&#xF3;nicos.</div><div class=\"p\">&nbsp; &nbsp; El contestador autom&#xE1;tico en un aparato que se conecta a la l&#xED;nea telef&#xF3;nica como accesorio al tel&#xE9;fono y que tiene un mensaje grabado para ser transmitido en ausencia del abonado llamado.</div><div class=\"p\">&nbsp; &nbsp; El contestador autom&#xE1;tico podr&#xE1; tener la posibilidad de grabar las llamadas entrantes s&#xF3;lo cuando el abonado llamado no atienda dicha llamada. En ning&#xFA;n caso, se podr&#xE1;n grabar las llamadas cuando el aparato telef&#xF3;nico asociado al contestador, se encuentre en posici&#xF3;n de trabajo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 9&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_5\">DTO 354, TRANSPORTES<br>D.O. 29.11.1993</span></div><br></div>"
+        },
+        {
+          "part_id": 8774120,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 10&#xB0; Detalle de las especificaciones.</div><div class=\"p\">&nbsp; &nbsp; - Los sistemas para la grabaci&#xF3;n de mensajes telef&#xF3;nicos deben cumplir todas las recomendaciones del CCITT; y en particular, la E.180, Tomo II.2 y la P.32 Tomo V, Libro Naranja.</div><div class=\"p\">&nbsp; &nbsp; - El contestador debe activarse al recibir la corriente de llamada de 16 2/3 &#xF3; 20 Hz. de la central telef&#xF3;nica.</div><div class=\"p\">&nbsp; &nbsp; - El nivel de emisi&#xF3;n del mensaje grabado que el aparato entregue a la l&#xED;nea debe cumplir las normas de homologaci&#xF3;n del aparato telef&#xF3;nico.</div><div class=\"p\">&nbsp; &nbsp; - Cuando el contestador autom&#xE1;tico requiera el uso de energ&#xED;a el&#xE9;ctrica de la red p&#xFA;blica, deber&#xE1; cumplir con las normas el&#xE9;ctricas correspondientes.</div><div class=\"p\">&nbsp; &nbsp; - El contestador autom&#xE1;tico debe presentar una impedancia de entrada equivalente a la del aparato telef&#xF3;nico que reemplaza.</div><div class=\"p\">&nbsp; &nbsp; - El contestador autom&#xE1;tico debe conectarse o liberar la l&#xED;nea cuando se presenten cualquiera de las siguientes condiciones:</div><div class=\"p\">&nbsp; &nbsp; 1. Al completarse la llamada.</div><div class=\"p\">&nbsp; &nbsp; 2. Al terminarse el tiempo prefijado para la<span class=\"n\" id=\"n_0\">Rectificac.<br>D. O.<br>16-ENE-1981.</span> duraci&#xF3;n del mensaje a ser grabado, el cual no debe exceder de 3 minutos.</div><div class=\"p\">&nbsp; &nbsp; - El contestador autom&#xE1;tico con posibilidad de grabaci&#xF3;n no debe grabar llamadas cuando el tiempo de grabaci&#xF3;n disponible sea menor de 3 minutos.</div><div class=\"p\">&nbsp; &nbsp; - Un mensaje grabado con la mayor ganancia posible no debe ser inteligible cuando el volumen de los sonidos vocales sea por lo menos 55 dB inferior al volumen de referencia.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 10&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_6\">DTO 354, TRANSPORTES<br>D.O. 29.11.1993</span></div><br></div>"
+        },
+        {
+          "part_id": 8774121,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12&#xB0; Las velocidades de modulaci&#xF3;n, las<span class=\"n\" id=\"n_2\">DTO 9, TRANSPORTES<br>ART. UNICO c)<br>D.O. 04.03.1985</span> caracter&#xED;sticas el&#xE9;ctricas de los circuitos de enlace y las funciones l&#xF3;gicas de los equipos modems, deber&#xE1;n corresponder a las indicadas en el Tomo VIII-1 del CCITT.</div><div class=\"p\">&nbsp; &nbsp; Los niveles de transmisi&#xF3;n en l&#xED;nea ser&#xE1;n los establecidos en el Plan de Transmisi&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12&#xB0; Las velocidades de modulaci&#xF3;n, las<span class=\"n\" id=\"n_8\">DTO 9, TRANSPORTES<br>ART. UNICO c)<br>D.O. 04.03.1985</span> caracter&#xED;sticas el&#xE9;ctricas de los circuitos de enlace y las funciones l&#xF3;gicas de los equipos modems, deber&#xE1;n corresponder a las indicadas en el Tomo VIII-1 del CCITT.</div><div class=\"p\">&nbsp; &nbsp; Los niveles de transmisi&#xF3;n en l&#xED;nea ser&#xE1;n los establecidos en el Plan de Transmisi&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 8774145,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0; Bis. El empleo de equipos modems que no<span class=\"n\" id=\"n_1\">DTO 9, TRANSPORTES<br>ART. UNICO N&#xB0; b)<br>D.O. 04.03.1985</span> cumplan con las Recomendaciones del CCITT (Tomo VIII- Fasc&#xED;culo VIII-1), se regir&#xE1; por las siguientes normas:</div><br><div class=\"p\">&nbsp; &nbsp; 1.- S&#xF3;lo se conectar&#xE1;n en circuitos arrendados de tipo telef&#xF3;nico en transmisiones punto a punto y en las velocidades especificadas en el art&#xED;culo anterior.</div><div class=\"p\">&nbsp; &nbsp; 2.- Deber&#xE1; adherirse a estos modems una placa permanente, en un lugar visible, que advierta que no cumplen con las citadas recomendaciones.</div><div class=\"p\">&nbsp; &nbsp; 3.- Su homologaci&#xF3;n se har&#xE1; de acuerdo a la norma espec&#xED;fica de dise&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; En las redes conmutadas de datos s&#xF3;lo se aceptar&#xE1;n equipos modems que cumplan con las Recomendaciones del CCITT.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0; Bis. El empleo de equipos modems que no<span class=\"n\" id=\"n_7\">DTO 9, TRANSPORTES<br>ART. UNICO N&#xB0; b)<br>D.O. 04.03.1985</span> cumplan con las Recomendaciones del CCITT (Tomo VIII- Fasc&#xED;culo VIII-1), se regir&#xE1; por las siguientes normas:</div><br><div class=\"p\">&nbsp; &nbsp; 1.- S&#xF3;lo se conectar&#xE1;n en circuitos arrendados de tipo telef&#xF3;nico en transmisiones punto a punto y en las velocidades especificadas en el art&#xED;culo anterior.</div><div class=\"p\">&nbsp; &nbsp; 2.- Deber&#xE1; adherirse a estos modems una placa permanente, en un lugar visible, que advierta que no cumplen con las citadas recomendaciones.</div><div class=\"p\">&nbsp; &nbsp; 3.- Su homologaci&#xF3;n se har&#xE1; de acuerdo a la norma espec&#xED;fica de dise&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; En las redes conmutadas de datos s&#xF3;lo se aceptar&#xE1;n equipos modems que cumplan con las Recomendaciones del CCITT.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1994-01-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8774123,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 13&#xB0; Estas especificaciones tienen por objeto describir las caracter&#xED;sticas principales que deber&#xE1;n reunir los equipos para transmisi&#xF3;n facs&#xED;mil que se conecten a la red de la compa&#xF1;&#xED;a telef&#xF3;nica, mediante el uso de circuitos punto a punto.</div><div class=\"p\">&nbsp; &nbsp; Los equipos facs&#xED;mil ser&#xE1;n utilizados para la transmisi&#xF3;n de im&#xE1;genes tales como fotograf&#xED;as, mapas, dibujos, documentos, mensajes manuscritos o impresos, etc., a trav&#xE9;s de circuitos normales, y en general deber&#xE1;n ce&#xF1;irse a las recomendaciones de la serie T del CCITT del Tomo VII.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 13&#xB0; DEROGADO<span class=\"n\" id=\"n_9\">DTO 309, TRANSPORTES<br>D.O. 11.01.1994</span></div><br></div>"
+        },
+        {
+          "part_id": 8774125,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 14&#xB0; Detalle de las especificaciones.</div><div class=\"p\">&nbsp; &nbsp; Exteriormente los aparatos se presentar&#xE1;n completamente cerrados, no permiti&#xE9;ndose que tengan elementos de circuitos a la vista, salvo los controles de operaci&#xF3;n, indicadores luminosos y conectores.</div><div class=\"p\">&nbsp; &nbsp; En lo posible ning&#xFA;n elemento componente deber&#xE1; fijarse a la cubierta protectora de la caja del equipo.</div><div class=\"p\">&nbsp; &nbsp; El material aislante de las tarjetas de circuitos impresos deber&#xE1; tener caracter&#xED;sticas de incombustibilidad.</div><div class=\"p\">&nbsp; &nbsp; La impresi&#xF3;n de la imagen deber&#xE1; ser en blanco y negro con una gama de medios tonos tal, que la resoluci&#xF3;n de la reproducci&#xF3;n de la carta de prueba normalizada por el CCITT, resulte una imagen clara y bien definida.</div><div class=\"p\">&nbsp; &nbsp; El sistema de reproducci&#xF3;n deber&#xE1; ser del tipo que no provoque olores ni emanaciones en el medio ambiente, y utilizar&#xE1; un papel que no humedezca ni tizne una vez impreso.</div><div class=\"p\">&nbsp; &nbsp; Cuando el equipo facs&#xED;mil requiera el uso de energ&#xED;a de la red p&#xFA;blica, deber&#xE1; cumplir con las normas el&#xE9;ctricas correspondientes.</div><div class=\"p\">&nbsp; &nbsp; La forma de impresi&#xF3;n, esto es, material o tipo de papel, caracter&#xED;sticas de la impresi&#xF3;n (por voltaje o temperatura), velocidad de la impresi&#xF3;n y otras caracter&#xED;sticas de estos equipos, no ser&#xE1;n especificados y ser&#xE1;n de la elecci&#xF3;n de los usuarios.</div><div class=\"p\">&nbsp; &nbsp; Los niveles de transmisi&#xF3;n en l&#xED;nea deber&#xE1;n ser los establecidos en el Plan de Transmisi&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 14&#xB0; DEROGADO<span class=\"n\" id=\"n_10\">DTO 309, TRANSPORTES<br>D.O. 11.01.1994</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1995-03-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8774144,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 11&#xB0; Esta especificaci&#xF3;n tiene por objeto describir las caracter&#xED;sticas que deben cumplir los equipos modems para transmisi&#xF3;n de datos en circuitos punto a punto.</div><div class=\"p\">&nbsp; &nbsp; Para conectar el equipo modems y el terminal de datos se debe disponer de un equipo interfaz.</div><div class=\"p\">&nbsp; &nbsp; Las velocidades de transmisi&#xF3;n de los equipos modems<span class=\"n\" id=\"n_7\">DTO 9, TRANSPORTES<br>ART. UNICO a)<br>1985</span> deber&#xE1;n ser compatibles con las caracter&#xED;sticas de las redes telef&#xF3;nicas de las Compa&#xF1;&#xED;as Telef&#xF3;nicas, no pudiendo ser superiores a 9.600 bit/s.</div><div class=\"p\">&nbsp; &nbsp; El dise&#xF1;o de los modems y de la interfaz entre el modems y los equipos terminales de datos, deber&#xE1; cumplir en cada caso con las recomendaciones de la serie V del CCITT del Tomo VIII.1.</div><div class=\"p\">&nbsp; &nbsp; Deber&#xE1;n estar provistos de controles adecuados para una f&#xE1;cil operaci&#xF3;n y de l&#xE1;mparas indicadoras acerca del estado de la alimentaci&#xF3;n y de los circuitos de enlace m&#xE1;s significativos.</div><div class=\"p\">&nbsp; &nbsp; Exteriormente, los equipos, deber&#xE1;n estar completamente cerrados y protegidos, no permiti&#xE9;ndose que tengan elementos de circuitos a la vista, salvo, los controles de operaci&#xF3;n, indicadores luminosos y conectores de los circuitos de interconexi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Ning&#xFA;n componente deber&#xE1; fijarse a la cubierta protectora de la caja del modems y todos ellos deber&#xE1;n estar protegidos adecuadamente contra la humedad y la corrosi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El material aislante de las tarjetas de circuitos impresos, deber&#xE1; ser incombustible.</div><div class=\"p\">&nbsp; &nbsp; Cuando el equipo requiera el uso de energ&#xED;a el&#xE9;ctrica de la red p&#xFA;blica, deber&#xE1; cumplir con las normas el&#xE9;ctricas correspondientes.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8774121,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12&#xB0; Las velocidades de modulaci&#xF3;n, las<span class=\"n\" id=\"n_8\">DTO 9, TRANSPORTES<br>ART. UNICO c)<br>D.O. 04.03.1985</span> caracter&#xED;sticas el&#xE9;ctricas de los circuitos de enlace y las funciones l&#xF3;gicas de los equipos modems, deber&#xE1;n corresponder a las indicadas en el Tomo VIII-1 del CCITT.</div><div class=\"p\">&nbsp; &nbsp; Los niveles de transmisi&#xF3;n en l&#xED;nea ser&#xE1;n los establecidos en el Plan de Transmisi&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12&#xB0; Las velocidades de modulaci&#xF3;n, las<span class=\"n\" id=\"n_9\">DTO 9, TRANSPORTES<br>ART. UNICO c)<br>D.O. 04.03.1985</span> caracter&#xED;sticas el&#xE9;ctricas de los circuitos de enlace y las funciones l&#xF3;gicas de los equipos modems, deber&#xE1;n corresponder a las indicadas en el Tomo VIII-1 del CCITT.</div><div class=\"p\">&nbsp; &nbsp; Los niveles de transmisi&#xF3;n en l&#xED;nea ser&#xE1;n los establecidos en el Plan de Transmisi&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 8774123,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 13&#xB0; DEROGADO<span class=\"n\" id=\"n_9\">DTO 309, TRANSPORTES<br>D.O. 11.01.1994</span></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 13&#xB0; DEROGADO<span class=\"n\" id=\"n_10\">DTO 309, TRANSPORTES<br>D.O. 11.01.1994</span></div><br></div>"
+        },
+        {
+          "part_id": 8774125,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 14&#xB0; DEROGADO<span class=\"n\" id=\"n_10\">DTO 309, TRANSPORTES<br>D.O. 11.01.1994</span></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 14&#xB0; DEROGADO<span class=\"n\" id=\"n_11\">DTO 309, TRANSPORTES<br>D.O. 11.01.1994</span></div><br></div>"
+        },
+        {
+          "part_id": 8774145,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0; Bis. El empleo de equipos modems que no<span class=\"n\" id=\"n_7\">DTO 9, TRANSPORTES<br>ART. UNICO N&#xB0; b)<br>D.O. 04.03.1985</span> cumplan con las Recomendaciones del CCITT (Tomo VIII- Fasc&#xED;culo VIII-1), se regir&#xE1; por las siguientes normas:</div><br><div class=\"p\">&nbsp; &nbsp; 1.- S&#xF3;lo se conectar&#xE1;n en circuitos arrendados de tipo telef&#xF3;nico en transmisiones punto a punto y en las velocidades especificadas en el art&#xED;culo anterior.</div><div class=\"p\">&nbsp; &nbsp; 2.- Deber&#xE1; adherirse a estos modems una placa permanente, en un lugar visible, que advierta que no cumplen con las citadas recomendaciones.</div><div class=\"p\">&nbsp; &nbsp; 3.- Su homologaci&#xF3;n se har&#xE1; de acuerdo a la norma espec&#xED;fica de dise&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; En las redes conmutadas de datos s&#xF3;lo se aceptar&#xE1;n equipos modems que cumplan con las Recomendaciones del CCITT.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0; Bis. El empleo de equipos modems que no<span class=\"n\" id=\"n_8\">DTO 9, TRANSPORTES<br>ART. UNICO N&#xB0; b)<br>D.O. 04.03.1985</span> cumplan con las Recomendaciones del CCITT (Tomo VIII- Fasc&#xED;culo VIII-1), se regir&#xE1; por las siguientes normas:</div><br><div class=\"p\">&nbsp; &nbsp; 1.- S&#xF3;lo se conectar&#xE1;n en circuitos arrendados de tipo telef&#xF3;nico en transmisiones punto a punto y en las velocidades especificadas en el art&#xED;culo anterior.</div><div class=\"p\">&nbsp; &nbsp; 2.- Deber&#xE1; adherirse a estos modems una placa permanente, en un lugar visible, que advierta que no cumplen con las citadas recomendaciones.</div><div class=\"p\">&nbsp; &nbsp; 3.- Su homologaci&#xF3;n se har&#xE1; de acuerdo a la norma espec&#xED;fica de dise&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; En las redes conmutadas de datos s&#xF3;lo se aceptar&#xE1;n equipos modems que cumplan con las Recomendaciones del CCITT.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2008-01-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8774146,
+          "old": null,
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; Para los fines del presente reglamento<span class=\"n\" id=\"n_1\">DTO 73, TRANSPORTES<br>Art. segundo<br>Nos. 2 y 3<br>D.O. 21.01.2008</span> se entender&#xE1; por homologaci&#xF3;n el acto por el cual se reconoce que las especificaciones de un aparato o accesorio telef&#xF3;nico cumple con las disposiciones establecidas en la norma t&#xE9;cnica de homologaci&#xF3;n respectiva.</div><br></div>"
+        },
+        {
+          "part_id": 8774147,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 3&#xB0; Las normas de homologaci&#xF3;n tendr&#xE1;n por objeto establecer las especificaciones t&#xE9;cnicas aplicables a los aparatos y accesorios telef&#xF3;nicos, para asegurar su compatibilidad con la red p&#xFA;blica telef&#xF3;nica.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8774148,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 4&#xB0; Los aparatos y accesorios telef&#xF3;nicos<span class=\"n\" id=\"n_2\">DTO 73, TRANSPORTES<br>Art. segundo<br>Nos. 5 y 6<br>D.O. 21.01.2008</span> respecto de los cuales exista norma de homologaci&#xF3;n, deber&#xE1;n contar con un certificado de homologaci&#xF3;n otorgado por la Subsecretar&#xED;a o por quien ella designe o por alguna Administraci&#xF3;n de Telecomunicaciones, o por quien ella designe, de alg&#xFA;n pa&#xED;s con el cual se haya suscrito un acuerdo de reconocimiento mutuo en materia de homologaci&#xF3;n. La Subsecretar&#xED;a publicar&#xE1; en su sitio web los pa&#xED;ses con los cuales se han suscrito tales acuerdos.</div><br></div>"
+        },
+        {
+          "part_id": 8774149,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 5&#xB0;&nbsp; La Subsecretar&#xED;a establecer&#xE1; las disposiciones que deber&#xE1;n cumplir los laboratorios que realicen las pruebas de certificaci&#xF3;n, los cuales deber&#xE1;n contar con los medios t&#xE9;cnicos y con el personal adecuado, seg&#xFA;n se establezca para tal efecto.</div><div class=\"p\">&nbsp; &nbsp; La Subsecretar&#xED;a aprobar&#xE1; y acreditar&#xE1; los citados laboratorios en el pa&#xED;s.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8774150,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Aparato telef&#xF3;nico a teclado</div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 6&#xB0;&nbsp; Toda divergencia que se produzca<span class=\"n\" id=\"n_3\">DTO 73, TRANSPORTES<br>Art. segundo N&#xBA; 8<br>D.O. 21.01.2008</span> entre personas o entidades y que derive directamente de la interpretaci&#xF3;n o aplicaci&#xF3;n de las disposiciones contenidas en el presente Reglamento, ser&#xE1; resuelta por la Subsecretar&#xED;a, en el ejercicio de sus atribuciones interpretativas de car&#xE1;cter t&#xE9;cnico.</div><br></div>"
+        },
+        {
+          "part_id": 8774151,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 7&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_4\">DTO 73, TRANSPORTES<br>Art. segundo N&#xBA; 9<br>D.O. 21.01.2008</span> </div></div>"
+        },
+        {
+          "part_id": 8774152,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; </div><br><div class=\"p\">&nbsp; &nbsp;  ARTICULO 8&#xB0;&nbsp; DEROGADO&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  DTO 73, TRANSPORTES</div><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8774153,
+          "old": null,
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  ARTICULO 9&#xBA; DEROGADO </div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8774154,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  ARTICULO 10&#xBA; DEROGADO<span class=\"n\" id=\"n_5\">DTO 73, TRANSPORTES<br>Art. segundo N&#xBA; 9<br>D.O. 21.01.2008</span> </div></div>"
+        },
+        {
+          "part_id": 8774155,
+          "old": null,
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp; &nbsp; ARTICULO 11&#xBA; DEROGADO<span class=\"n\" id=\"n_6\">DTO 73, TRANSPORTES<br>Art. segundo N&#xBA; 10<br>D.O. 21.01.2008</span></div><br></div>"
+        },
+        {
+          "part_id": 8774156,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 12&#xBA; DEROGADO<span class=\"n\" id=\"n_8\">DTO 73, TRANSPORTES<br>Art. segundo N&#xBA; 10<br>D.O. 21.01.2008</span> </div></div>"
+        },
+        {
+          "part_id": 8774157,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 13&#xBA; DEROGADO<span class=\"n\" id=\"n_9\">DTO 73, TRANSPORTES<br>Art. segundo N&#xBA; 11<br>D.O. 21.01.2008</span> </div></div>"
+        },
+        {
+          "part_id": 8774158,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 14&#xBA; DEROGADO<span class=\"n\" id=\"n_10\">DTO 73, TRANSPORTES<br>Art. segundo N&#xBA; 11<br>D.O. 21.01.2008</span> </div></div>"
+        },
+        {
+          "part_id": 8774159,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 15&#xBA; DEROGADO<span class=\"n\" id=\"n_11\">DTO 73, TRANSPORTES<br>Art. segundo N&#xBA; 12<br>D.O. 21.01.2008</span> </div></div>"
+        },
+        {
+          "part_id": 8774160,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 16&#xBA; DEROGADO<span class=\"n\" id=\"n_12\">DTO 73, TRANSPORTES<br>Art. segundo N&#xBA; 12<br>D.O. 21.01.2008</span> </div></div>"
+        },
+        {
+          "part_id": 8774161,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 17&#xBA; DEROGADO<span class=\"n\" id=\"n_13\">DTO 73, TRANSPORTES<br>Art. segundo N&#xBA; 13<br>D.O. 21.01.2008</span> </div></div>"
+        },
+        {
+          "part_id": 8774162,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 18&#xBA; DEROGADO<span class=\"n\" id=\"n_14\">DTO 73, TRANSPORTES<br>Art. segundo N&#xBA; 13<br>D.O. 21.01.2008</span> </div></div>"
+        },
+        {
+          "part_id": 8774163,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 19&#xBA; DEROGADO<span class=\"n\" id=\"n_15\">DTO 73, TRANSPORTES<br>Art. segundo N&#xBA; 13<br>D.O. 21.01.2008</span> </div></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": 8774107,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 2&#xB0; Las presentes disposiciones se refieren a:</div><div class=\"p\">&nbsp; &nbsp; - Normas de Homologaci&#xF3;n de aparatos y accesorios telef&#xF3;nicos.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774108,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Objetivos de las presentes disposiciones</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774109,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 3&#xB0; Estas Normas de Homologaci&#xF3;n tienen por objeto establecer las especificaciones que deber&#xE1;n cumplir los aparatos y accesorios telef&#xF3;nicos, para que puedan ser conectados, mediante las instalaciones telef&#xF3;nicas internas a las redes p&#xFA;blicas de las compa&#xF1;&#xED;as, quedando incluidos como aparatos y accesorios telef&#xF3;nicos, entre otros, los siguientes:</div><div class=\"p\">&nbsp; &nbsp; - Los aparatos telef&#xF3;nicos a disco.</div><div class=\"p\">&nbsp; &nbsp; - Los aparatos telef&#xF3;nicos a teclado.</div><div class=\"p\">&nbsp; &nbsp; - Discador autom&#xE1;tico.</div><div class=\"p\">&nbsp; &nbsp; - Contestador autom&#xE1;tico.</div><div class=\"p\">&nbsp; &nbsp; - Equipos Modems para la transmisi&#xF3;n de datos.</div><div class=\"p\">&nbsp; &nbsp; - Equipos para Facs&#xED;mil.</div><div class=\"p\">&nbsp; &nbsp; - Centrales privadas autom&#xE1;ticas.</div><div class=\"p\">&nbsp; &nbsp; - Equipos multil&#xED;neas y secretarial.</div><div class=\"p\">&nbsp; &nbsp; Las especificaciones se refieren solamente a las madidas de protecci&#xF3;n en cuanto a da&#xF1;os a las personas que pudiera ser causada por el aparato telef&#xF3;nico y a caracter&#xED;sticas de compatibilidad con las redes de la Compa&#xF1;&#xED;a.</div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774110,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 4&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_0\">DTO 354, TRANSPORTES<br>D.O. 29.11.1993</span></div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774111,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Aparato telef&#xF3;nico a disco</div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774112,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 5&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_1\">DTO 354, TRANSPORTES<br>D.O. 29.11.1993</span></div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774113,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 6&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_2\">DTO 354, TRANSPORTES<br>D.O. 29.11.1993</span></div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774114,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Aparato telef&#xF3;nico a teclado </div></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774115,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 7&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_3\">DTO 354, TRANSPORTES<br>D.O. 29.11.1993</span></div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774116,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 8&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_4\">DTO 354, TRANSPORTES<br>D.O. 29.11.1993</span></div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774117,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Discador autom&#xE1;tico </div></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774118,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 9&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_5\">DTO 354, TRANSPORTES<br>D.O. 29.11.1993</span></div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774119,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Contestador autom&#xE1;tico </div></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774120,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 10&#xB0;&nbsp; DEROGADO<span class=\"n\" id=\"n_6\">DTO 354, TRANSPORTES<br>D.O. 29.11.1993</span></div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774121,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12&#xB0; Las velocidades de modulaci&#xF3;n, las<span class=\"n\" id=\"n_9\">DTO 9, TRANSPORTES<br>ART. UNICO c)<br>D.O. 04.03.1985</span> caracter&#xED;sticas el&#xE9;ctricas de los circuitos de enlace y las funciones l&#xF3;gicas de los equipos modems, deber&#xE1;n corresponder a las indicadas en el Tomo VIII-1 del CCITT.</div><div class=\"p\">&nbsp; &nbsp; Los niveles de transmisi&#xF3;n en l&#xED;nea ser&#xE1;n los establecidos en el Plan de Transmisi&#xF3;n.</div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774123,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  ARTICULO 13&#xB0; DEROGADO<span class=\"n\" id=\"n_10\">DTO 309, TRANSPORTES<br>D.O. 11.01.1994</span></div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774124,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Equipos para transmisi&#xF3;n facs&#xED;mil </div></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774125,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 14&#xB0; DEROGADO<span class=\"n\" id=\"n_11\">DTO 309, TRANSPORTES<br>D.O. 11.01.1994</span></div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774126,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 15&#xB0; Estas especificaciones cubren las caracter&#xED;sticas m&#xED;nimas requeridas para las Centrales Privadas Autom&#xE1;ticas que se conectan a la red p&#xFA;blica telef&#xF3;nica. El objetivo de estas especificaciones es:</div><div class=\"p\">&nbsp; &nbsp; - Garantizar una calidad m&#xED;nima para las comunicaciones que provengan desde o hacia la red p&#xFA;blica y se cursen a trav&#xE9;s de la Central Privada.</div><div class=\"p\">&nbsp; &nbsp; - Salvaguardar la operaci&#xF3;n y buen funcionamiento de la red en caso de falla de la Central Privada.</div><div class=\"p\">&nbsp; &nbsp; Las centrales consideradas deben estas preparadas para operar conectadas a equipo de conmutaci&#xF3;n autom&#xE1;tica que formen parte de la red p&#xFA;blica nacional. Tambi&#xE9;n podr&#xE1;n conectarse con otras centrales privadas.</div><div class=\"p\">&nbsp; &nbsp; Como norma general, en caso de que se presenten discordancias entre las caracter&#xED;sticas t&#xE9;cnicas de una central privada autom&#xE1;tica y las de la administraci&#xF3;n telef&#xF3;nica, ser&#xE1; la central privada autom&#xE1;tica la que deber&#xE1; adaptarse a las condiciones de la red p&#xFA;blica tanto actual como cuando &#xE9;sta evolucione.</div><div class=\"p\">&nbsp; &nbsp; Las facilidades m&#xED;nimas de servicio con que debe contar la central privada autom&#xE1;tica son:</div><div class=\"p\">&nbsp; &nbsp; - Identificaci&#xF3;n de anexo ocupado o descolgado.</div><div class=\"p\">&nbsp; &nbsp; - Posibilidad de discado directo de salida por anexo.</div><div class=\"p\">&nbsp; &nbsp; - Categor&#xED;a de abonado (libre, semilibre y bloqueado).</div><div class=\"p\">&nbsp; &nbsp; - Transferencia autom&#xE1;tica de troncales en caso de falla de energ&#xED;a. - Puesto de operadora.</div><div class=\"p\">&nbsp; &nbsp; - Retenci&#xF3;n de llamadas de entrada.</div><div class=\"p\">&nbsp; &nbsp; - Transferencia a la operadora de llamadas que</div><div class=\"p\">tengan falsa operaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; - Reponer todos los circuitos, a posici&#xF3;n normal cuando se termina la comunicaci&#xF3;n.</div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774127,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Centrales privadas autom&#xE1;ticas</div><br></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774128,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 16&#xB0; Detalle de las especificaciones.</div><div class=\"p\">&nbsp; &nbsp; a) Equipo de l&#xED;nea troncal.</div><div class=\"p\">&nbsp; &nbsp; - L&#xED;mite de resistencia de la l&#xED;nea troncal: 1.200 ohms.</div><div class=\"p\">&nbsp; &nbsp; - Condiciones de se&#xF1;alizaci&#xF3;n: Deben ser compatibles con las de la central p&#xFA;blica a las que se interconecta.</div><div class=\"p\">&nbsp; &nbsp; - Condiciones de aislaci&#xF3;n entre hilo y tierra:</div><div class=\"p\">20.000 ohms m&#xED;nimo.</div><div class=\"p\">&nbsp; &nbsp; b) Equipo de l&#xED;nea de anexo.</div><div class=\"p\">&nbsp; &nbsp; - Los l&#xED;mites y condiciones de se&#xF1;alizaci&#xF3;n de este equipo, deber&#xE1;n estar de acuerdo con las caracter&#xED;sticas de la red o equipo privado interno al que se le dar&#xE1; servicio.</div><div class=\"p\">&nbsp; &nbsp; - Las condiciones de aislaci&#xF3;n ser&#xE1;n las siguientes:</div><div class=\"p\">&nbsp; &nbsp; Entre hilo y tierra: 20.000 ohms m&#xED;nimo.</div><div class=\"p\">&nbsp; &nbsp; Los anexos deben cumplir con las normas de homologaci&#xF3;n correspondiente.</div><div class=\"p\">&nbsp; &nbsp; c) Operaci&#xF3;n de Troncales.</div><div class=\"p\">&nbsp; &nbsp; Los circuitos troncales deber&#xE1;n posibilitar la operaci&#xF3;n de grupos de troncales en modalidad de: unidireccionales, bidireccionales o mixtas.</div><div class=\"p\">&nbsp; &nbsp; La central autom&#xE1;tica privada deber&#xE1; tener suficiente capacidad para poder dimensionar las troncales con una p&#xE9;rdida m&#xE1;xima de 1% para cursar el tr&#xE1;fico entrante en la hora cargada.</div><div class=\"p\">&nbsp; &nbsp; d) Se&#xF1;alizaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; La se&#xF1;alizaci&#xF3;n para tomas de equipo de oficina central e impulsaci&#xF3;n decimal es por cambio de estado de bucle, pudiendo tambi&#xE9;n contar con las facilidades necesarias al incorporar se&#xF1;alizaci&#xF3;n en c&#xF3;digo de multifrecuencia para teclado (recomendaci&#xF3;n Q.23 del CCITT).</div><div class=\"p\">&nbsp; &nbsp; Tanto el env&#xED;o de numeraci&#xF3;n multifrecuencia (Q.23) y el env&#xED;o de impulsaci&#xF3;n decimal deber&#xE1; cumplir con las normas de homologaci&#xF3;n correspondientes para los tel&#xE9;fonos de disco y teclado.</div><div class=\"p\">&nbsp; &nbsp; Los requisitos necesarios para la selecci&#xF3;n directa hacia anexos (indialing) se definir&#xE1;n una vez que dicho servicio pueda ser implementado por las empresas telef&#xF3;nicas.</div><div class=\"p\">&nbsp; &nbsp; e) Caracter&#xED;sticas de Transmisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Las comunicaciones realizadas a trav&#xE9;s de una central privada hacia o desde la red p&#xFA;blica deber&#xE1;n satisfacer las normas establecidas en el Plan de Transmisi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; La diafon&#xED;a entre dos conexiones cualquiera a trav&#xE9;s de la central privada no deber&#xE1; ser inferior a 70dB, medida a 1.100 Hz.</div><div class=\"p\">&nbsp; &nbsp; En una central privada el ruido ponderado medido en la hora cargada de una conexi&#xF3;n a trav&#xE9;s de esa central, no debe exceder de -67dBmop.</div><div class=\"p\">&nbsp; &nbsp; El balance longitudinal para una conexi&#xF3;n externa no debe ser inferior a 55dB en el rango de 300 a 3.400 ciclos.</div><div class=\"p\">&nbsp; &nbsp; f) Plan de Numeraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; - No deber&#xE1;n asignarse a los anexos de la central privada c&#xF3;digos que correspondan a los servicios especiales en el Plan Nacional de Numeraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; - La capacidad de env&#xED;o de d&#xED;gitos de la central privada hacia la central p&#xFA;blica debe ser id&#xE9;ntica a la definida para los aparatos telef&#xF3;nicos.</div><div class=\"p\">&nbsp; &nbsp; g) Equipo de Energ&#xED;a.</div><div class=\"p\">&nbsp; &nbsp; Las caracter&#xED;sticas de la fuente de energ&#xED;a el&#xE9;ctrica de &quot;entrada&quot; debe ser compatible con las vigentes en el pa&#xED;s, (tensi&#xF3;n monof&#xE1;sica, regulaci&#xF3;n de tensi&#xF3;n, frecuencia, etc.).</div><div class=\"p\">&nbsp; &nbsp; h) La continuidad del servicio, en caso de falla de energ&#xED;a el&#xE9;ctrica es una decisi&#xF3;n a tomar por el usuario y no corresponde dictar normas al respecto.</div><div class=\"p\">&nbsp; &nbsp; i) Generador de Tonos.</div><div class=\"p\">&nbsp; &nbsp; - Las centrales privadas autom&#xE1;ticas deben contar con sistemas de generadores de tonos.</div><div class=\"p\">&nbsp; &nbsp; - Deben ser duplicados, a lo menos, aquellos generadores de tono cuyo mal funcionamiento afecte la red p&#xFA;blica.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774129,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 17&#xB0; Las especificaciones que deber&#xE1;n cumplir los equipos multil&#xED;neas y secretariales se indican a continuaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Los equipos multil&#xED;neas y secretariales permiten originar y recibir llamadas desde centrales p&#xFA;blicas y/o privadas y adem&#xE1;s comunicaciones internas entre los tel&#xE9;fonos asociados. Est&#xE1;n compuestos por una unidad b&#xE1;sica y tel&#xE9;fonos conectados a &#xE9;sta. La unidad b&#xE1;sica podr&#xE1; estar incorporada al aparato telef&#xF3;nico o estar separada de &#xE9;l.</div><div class=\"p\">&nbsp; &nbsp; La unidad b&#xE1;sica tiene por objeto obtener energ&#xED;a mediante la red el&#xE9;ctrica para permitir la intercomunicaci&#xF3;n y proveer la se&#xF1;alizaci&#xF3;n audible y luminosa para los tel&#xE9;fonos. La unidad b&#xE1;sica deber&#xE1; cumplir con las normas el&#xE9;ctricas correspondientes.</div><div class=\"p\">&nbsp; &nbsp; Los aparatos telef&#xF3;nicos pueden ser a disco o teclado y a ellos pueden llegar las l&#xED;neas de la red telef&#xF3;nica y los circuitos de intercomunicaci&#xF3;n, los que son controlados mediante botones ubicados en los tel&#xE9;fonos mismos.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774130,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Equipos multil&#xED;neas y secretariales</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774131,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 18&#xB0; Detalle de las especificaciones.</div><div class=\"p\">&nbsp; &nbsp; a) Los aparatos telef&#xF3;nicos deber&#xE1;n cumplir las especificaciones correspondientes a tel&#xE9;fonos de disco o de teclado, seg&#xFA;n sea el caso.</div><div class=\"p\">&nbsp; &nbsp; b) Toda llamada entrante podr&#xE1; llegar a algunos o a todos los tel&#xE9;fonos asociados, debiendo &#xE9;stos tener la posibilidad de retener y transferir la llamada cuando se estime necesario.</div><div class=\"p\">&nbsp; &nbsp; c) El sistema deber&#xE1; disponer de la se&#xF1;alizaci&#xF3;n necesaria (luminosa o audible) para determinar el estado de las l&#xED;neas telef&#xF3;nicas (libre, retenida u ocupada).</div><div class=\"p\">&nbsp; &nbsp; d) En el caso de corte de la energ&#xED;a el&#xE9;ctrica que alimenta la unidad b&#xE1;sica, el sistema debe poder seguir recibiendo llamadas desde la red telef&#xF3;nica siendo anunciadas, en este caso, con se&#xF1;alizaci&#xF3;n audible.</div><div class=\"p\">&nbsp; &nbsp; Debe existir secreto total (privacidad) en las comunicaciones y la posibilidad de anular dicha condici&#xF3;n, si los requerimientos del usuario as&#xED; lo determinan.</div><div class=\"p\">&nbsp; &nbsp; e) Los circuitos de comunicaci&#xF3;n interna deben ser independientes de las l&#xED;neas de la red telef&#xF3;nica y no deber&#xE1;n afectar al funcionamiento de estas &#xFA;ltimas.</div><div class=\"p\">&nbsp; &nbsp; f) Las facilidades adicionales que podr&#xE1;n tener eventualmente, estos equipos, ser&#xE1;n de incumbencia de los usuarios siempre que tales aditamentos no afecten las caracter&#xED;sticas de funcionamiento de los equipos. </div></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774132,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 19&#xB0; La interpretaci&#xF3;n de este reglamento corresponder&#xE1; a la Subsecretar&#xED;a de Telecomunicaciones; asimismo, toda divergencia que se produzca entre las personas o entidades involucradas, ser&#xE1; resuelta por &#xE9;sta.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 8774144,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 11&#xB0; Esta especificaci&#xF3;n tiene por objeto describir las caracter&#xED;sticas que deben cumplir los equipos modems para transmisi&#xF3;n de datos en circuitos punto a punto.</div><div class=\"p\">&nbsp; &nbsp; Para conectar el equipo modems y el terminal de datos se debe disponer de un equipo interfaz.</div><div class=\"p\">&nbsp; &nbsp; Las velocidades de transmisi&#xF3;n de los equipos modems<span class=\"n\" id=\"n_7\">DTO 9, TRANSPORTES<br>ART. UNICO a)<br>1985</span> deber&#xE1;n ser compatibles con las caracter&#xED;sticas de las redes telef&#xF3;nicas de las Compa&#xF1;&#xED;as Telef&#xF3;nicas, no pudiendo ser superiores a 9.600 bit/s.</div><div class=\"p\">&nbsp; &nbsp; El dise&#xF1;o de los modems y de la interfaz entre el modems y los equipos terminales de datos, deber&#xE1; cumplir en cada caso con las recomendaciones de la serie V del CCITT del Tomo VIII.1.</div><div class=\"p\">&nbsp; &nbsp; Deber&#xE1;n estar provistos de controles adecuados para una f&#xE1;cil operaci&#xF3;n y de l&#xE1;mparas indicadoras acerca del estado de la alimentaci&#xF3;n y de los circuitos de enlace m&#xE1;s significativos.</div><div class=\"p\">&nbsp; &nbsp; Exteriormente, los equipos, deber&#xE1;n estar completamente cerrados y protegidos, no permiti&#xE9;ndose que tengan elementos de circuitos a la vista, salvo, los controles de operaci&#xF3;n, indicadores luminosos y conectores de los circuitos de interconexi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Ning&#xFA;n componente deber&#xE1; fijarse a la cubierta protectora de la caja del modems y todos ellos deber&#xE1;n estar protegidos adecuadamente contra la humedad y la corrosi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El material aislante de las tarjetas de circuitos impresos, deber&#xE1; ser incombustible.</div><div class=\"p\">&nbsp; &nbsp; Cuando el equipo requiera el uso de energ&#xED;a el&#xE9;ctrica de la red p&#xFA;blica, deber&#xE1; cumplir con las normas el&#xE9;ctricas correspondientes.</div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": [
+        {
+          "part_id": 8774106,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 1&#xB0; F&#xED;janse las Normas de Homologaci&#xF3;n de los aparatos telef&#xF3;nicos que los abonados o suscriptores podr&#xE1;n conectar a las redes de las compa&#xF1;&#xED;as concesionarias de servicio p&#xFA;blico telef&#xF3;nico. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; ARTICULO 1&#xB0; F&#xED;janse las disposiciones reglamentarias<span class=\"n\" id=\"n_0\">DTO 73, TRANSPORTES<br>Art. segundo N&#xBA; 1<br>D.O. 21.01.2008</span> sobre homologaci&#xF3;n de los aparatos y accesorios telef&#xF3;nicos para los cuales exista la correspondiente norma t&#xE9;cnica de homologaci&#xF3;n dictada por la Subsecretar&#xED;a de Telecomunicaciones, en adelante e indistintamente la Subsecretar&#xED;a.</div><br></div>"
+        },
+        {
+          "part_id": 8774140,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 26&#xB0; Responsabilidad del usuario.</div><div class=\"p\">&nbsp; &nbsp; El abonado ser&#xE1; responsable de mantener informada a la compa&#xF1;&#xED;a telef&#xF3;nica de los aparatos que ellos conecten a las instalaciones telef&#xF3;nicas de su propiedad.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 26&#xBA; DEROGADO<span class=\"n\" id=\"n_16\">DTO 73, TRANSPORTES<br>Art. segundo N&#xBA; 14<br>D.O. 21.01.2008</span> </div></div>"
+        },
+        {
+          "part_id": 8774145,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0; Bis. El empleo de equipos modems que no<span class=\"n\" id=\"n_8\">DTO 9, TRANSPORTES<br>ART. UNICO N&#xB0; b)<br>D.O. 04.03.1985</span> cumplan con las Recomendaciones del CCITT (Tomo VIII- Fasc&#xED;culo VIII-1), se regir&#xE1; por las siguientes normas:</div><br><div class=\"p\">&nbsp; &nbsp; 1.- S&#xF3;lo se conectar&#xE1;n en circuitos arrendados de tipo telef&#xF3;nico en transmisiones punto a punto y en las velocidades especificadas en el art&#xED;culo anterior.</div><div class=\"p\">&nbsp; &nbsp; 2.- Deber&#xE1; adherirse a estos modems una placa permanente, en un lugar visible, que advierta que no cumplen con las citadas recomendaciones.</div><div class=\"p\">&nbsp; &nbsp; 3.- Su homologaci&#xF3;n se har&#xE1; de acuerdo a la norma espec&#xED;fica de dise&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; En las redes conmutadas de datos s&#xF3;lo se aceptar&#xE1;n equipos modems que cumplan con las Recomendaciones del CCITT.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0; Bis. El empleo de equipos modems que no<span class=\"n\" id=\"n_7\">DTO 9, TRANSPORTES<br>ART. UNICO N&#xB0; b)<br>D.O. 04.03.1985</span> cumplan con las Recomendaciones del CCITT (Tomo VIII- Fasc&#xED;culo VIII-1), se regir&#xE1; por las siguientes normas:</div><br><div class=\"p\">&nbsp; &nbsp; 1.- S&#xF3;lo se conectar&#xE1;n en circuitos arrendados de tipo telef&#xF3;nico en transmisiones punto a punto y en las velocidades especificadas en el art&#xED;culo anterior.</div><div class=\"p\">&nbsp; &nbsp; 2.- Deber&#xE1; adherirse a estos modems una placa permanente, en un lugar visible, que advierta que no cumplen con las citadas recomendaciones.</div><div class=\"p\">&nbsp; &nbsp; 3.- Su homologaci&#xF3;n se har&#xE1; de acuerdo a la norma espec&#xED;fica de dise&#xF1;o.</div><div class=\"p\">&nbsp; &nbsp; En las redes conmutadas de datos s&#xF3;lo se aceptar&#xE1;n equipos modems que cumplan con las Recomendaciones del CCITT.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

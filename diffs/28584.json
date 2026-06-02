@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1967-04-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-01-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8919101,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14&#xB0;.- Agr&#xE9;gase al inciso primero del art&#xED;culo 30&#xB0; de la ley n&#xFA;mero 15.840, la siguiente frase a continuaci&#xF3;n del punto: &quot;No obstante, la Direcci&#xF3;n General de Obras P&#xFA;blicas podr&#xE1; emitir los documentos de cr&#xE9;dito que sean necesarios por la suma correspondiente al saldo insoluto, aunque &#xE9;stos se refieran a per&#xED;odos que excedan del a&#xF1;o presupuestario, previa aprobaci&#xF3;n del Ministro de Hacienda y del Banco Central de Chile&quot;. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 14&#xB0;.- DEROGADO<span class=\"n\" id=\"n_0\">DL 233, HACIENDA<br>Art. 29<br>D.O. 02.01.1974</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

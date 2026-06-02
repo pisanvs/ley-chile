@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-06-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-01-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8345946,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Conc&#xE9;dese por gracia, a cada una de las siguientes personas: Luis Germ&#xE1;n Cofr&#xE9; Cofr&#xE9;, Rut. 4.445.162-K; Hern&#xE1;n Valent&#xED;n Gonz&#xE1;lez Monsalve, Rut. 2.864.377-2; Inelia del Carmen Munita Barrios, Rut.</div><div class=\"p\">3.738.153-5; Santalina Luc&#xED;a N&#xFA;&#xF1;ez Mart&#xED;nez, Rut.</div><div class=\"p\">3.101.537-5; Zofia del Carmen Quezada Cerda, Rut.</div><div class=\"p\">4.676.053-0; C&#xE9;sar Alfonso Sandoval Tapia, Rut. 405.583-7; Jorge Rosamel Tapia Jorquera, Rut.</div><div class=\"p\">3.742.796-9; Olga Velasco Flores, Rut. 1.151.661-0; una pensi&#xF3;n equivalente al 50% de un ingreso m&#xED;nimo mensual. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Conc&#xE9;dese por gracia, a cada una<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> de las siguientes personas: Luis Germ&#xE1;n Cofr&#xE9; Cofr&#xE9;, Rut. 4.445.162-K; Hern&#xE1;n Valent&#xED;n Gonz&#xE1;lez Monsalve, Rut. 2.864.377-2; Inelia del Carmen Munita Barrios, Rut. 3.738.153-5; Santalina Luc&#xED;a N&#xFA;&#xF1;ez Mart&#xED;nez, Rut. 3.101.537-5; Zofia del Carmen Quezada Cerda, Rut. 4.676.053-0; C&#xE9;sar Alfonso Sandoval Tapia, Rut. 405.583-7; Jorge Rosamel Tapia Jorquera, Rut. 3.742.796-9; Olga Velasco Flores, Rut. 1.151.661-0; una pensi&#xF3;n equivalente al 50% de un ingreso m&#xED;nimo mensual.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 1 del DTO 1234, Interior, publicado el 12.01.2004, modifica el presente art&#xED;culo, en el sentido de facultar a don Manuel Alberto Ram&#xED;rez Flores, RUT 2.445.910-1, c&#xF3;nyuge de la beneficiaria, para cobrar la pensi&#xF3;n de gracia de do&#xF1;a Santalina Luc&#xED;a N&#xFA;&#xF1;ez Mart&#xED;nez, RUT 3.101.537-5.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

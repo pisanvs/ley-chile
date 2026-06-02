@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "2006-04-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-04-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6566355,
+          "old": "<div><div class=\"p\">CONVOCA AL 2&#xBA; CONCURSO NACIONAL DEL PROGRAMA DEL FONDO SOLIDARIO DE VIVIENDAS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 103 exenta.- Rancagua, 29 de marzo de 2006.- Vistos:</div><div class=\"p\">a).-&nbsp;  Lo dispuesto en el D.S. N&#xBA; 174 (V. y U.) de 2005, que reglamenta el Programa del Fondo Solidario de Viviendas;</div><div class=\"p\">b).-&nbsp;  La resoluci&#xF3;n exenta N&#xBA; 890 de fecha 29.03.2006 de la Sra. Ministra de Vivienda y Urbanismo, que exime el cumplimiento de requisitos en los llamados a concurso del Programa Fondo Solidario de Vivienda regulado por el D.S. N&#xBA; 174 (V. y U.) de 2005, durante el a&#xF1;o 2006, que indica;</div><div class=\"p\">c).-&nbsp;  El D.S. N&#xBA; 90, de fecha 1 de abril de 2003, que me designa como Secretario Regional Ministerial para la Regi&#xF3;n del Libertador Bernardo O&apos;Higgins,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">CONVOCA AL 2&#xBA; CONCURSO NACIONAL DEL PROGRAMA DEL FONDO SOLIDARIO DE VIVIENDAS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 103 exenta.- Rancagua, 29 de marzo de 2006.- Vistos:</div><br><div class=\"p\">a).-&nbsp;  Lo dispuesto en el D.S. N&#xBA; 174 (V. y U.) de 2005, que reglamenta el Programa del Fondo Solidario de Viviendas;</div><div class=\"p\">b).-&nbsp;  La resoluci&#xF3;n exenta N&#xBA; 890 de fecha 29.03.2006 de la Sra. Ministra de Vivienda y Urbanismo, que exime el cumplimiento de requisitos en los llamados a concurso del Programa Fondo Solidario de Vivienda regulado por el D.S. N&#xBA; 174 (V. y U.) de 2005, durante el a&#xF1;o 2006, que indica;</div><div class=\"p\">c).-&nbsp;  El D.S. N&#xBA; 90, de fecha 1 de abril de 2003, que me designa como Secretario Regional Ministerial para la Regi&#xF3;n del Libertador Bernardo O&apos;Higgins,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>"
+        },
+        {
+          "part_id": 6566356,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Conv&#xF3;case al 2&#xBA; Concurso Nacional del Programa del Fondo Solidario de Viviendas de acuerdo a las siguientes condiciones:</div><br><div class=\"p\">a).-&nbsp;  Puntaje de Corte Ficha CAS: 532 puntos.</div><div class=\"p\">b).-&nbsp;  Fecha l&#xED;mite de recepci&#xF3;n de proyectos: 7 de abril de 2006, a las 13:30 hrs.</div><div class=\"p\">c).-&nbsp;  Fecha m&#xE1;xima de presentaci&#xF3;n de las respuestas a las observaciones: 12 de mayo de 2006, a las 13:30 hrs.</div><div class=\"p\"> d).-&nbsp;  Ponderaci&#xF3;n asignada Criterios de Selecci&#xF3;n</div><br><div class=\"p\">Factores&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Puntajes</div><div class=\"p\">Vulnerabilidad&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  15</div><div class=\"p\">Condici&#xF3;n de pobreza&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  10</div><div class=\"p\">Mayor monto promedio de aportes</div><div class=\"p\">adicionales&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  5</div><div class=\"p\">Plan de Habilitaci&#xF3;n Social&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 20</div><div class=\"p\">Menor monto promedio de subsidio&nbsp; &nbsp;  20</div><div class=\"p\">Calidad del Proyecto&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  30</div><div class=\"p\">Total&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  100</div><br><div class=\"p\">e).-&nbsp;  Recursos asignados 127.378 UF.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Conv&#xF3;case al 2&#xBA; Concurso Nacional del Programa del Fondo Solidario de Viviendas de acuerdo a las siguientes condiciones:</div><br><div class=\"p\">a).-&nbsp; &nbsp; Puntaje de Corte Ficha CAS: 532 puntos.</div><div class=\"p\">b).-&nbsp; &nbsp; Fecha l&#xED;mite de recepci&#xF3;n de proyectos: 21 de<span class=\"n\" id=\"n_0\">RES 114 EXENTA,<br>VIVIENDA<br>N&#xBA; 1<br>D.O. 28.04.2006</span> abril de 2006, a las 13.30 hrs. En Of 208, 2&#xBA; piso, Alameda 176, Rancagua.</div><div class=\"p\">c).-&nbsp; &nbsp; Fecha m&#xE1;xima de presentaci&#xF3;n de las respuestas a las observaciones: 26 de mayo de 2006, a las 13.30 hrs. en Of. 208, 2&#xBA; piso, Alameda 176, Rancagua.</div><div class=\"p\">d).-&nbsp; &nbsp; Ponderaci&#xF3;n asignada Criterios de Selecci&#xF3;n</div><br><div class=\"p\">Factores&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Puntajes</div><div class=\"p\">Vulnerabilidad&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  15</div><div class=\"p\">Condici&#xF3;n de pobreza&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  10</div><div class=\"p\">Mayor monto promedio de aportes</div><div class=\"p\">adicionales&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  5</div><div class=\"p\">Plan de Habilitaci&#xF3;n Social&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 20</div><div class=\"p\">Menor monto promedio de subsidio&nbsp; &nbsp;  20</div><div class=\"p\">Calidad del Proyecto&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  30</div><div class=\"p\">Total&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  100</div><br><div class=\"p\">e).-&nbsp;  Recursos asignados 127.378 UF.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2006-07-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6566355,
+          "old": "<div><div class=\"p\">CONVOCA AL 2&#xBA; CONCURSO NACIONAL DEL PROGRAMA DEL FONDO SOLIDARIO DE VIVIENDAS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 103 exenta.- Rancagua, 29 de marzo de 2006.- Vistos:</div><br><div class=\"p\">a).-&nbsp;  Lo dispuesto en el D.S. N&#xBA; 174 (V. y U.) de 2005, que reglamenta el Programa del Fondo Solidario de Viviendas;</div><div class=\"p\">b).-&nbsp;  La resoluci&#xF3;n exenta N&#xBA; 890 de fecha 29.03.2006 de la Sra. Ministra de Vivienda y Urbanismo, que exime el cumplimiento de requisitos en los llamados a concurso del Programa Fondo Solidario de Vivienda regulado por el D.S. N&#xBA; 174 (V. y U.) de 2005, durante el a&#xF1;o 2006, que indica;</div><div class=\"p\">c).-&nbsp;  El D.S. N&#xBA; 90, de fecha 1 de abril de 2003, que me designa como Secretario Regional Ministerial para la Regi&#xF3;n del Libertador Bernardo O&apos;Higgins,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">CONVOCA AL 2&#xBA; CONCURSO NACIONAL DEL PROGRAMA DEL FONDO SOLIDARIO DE VIVIENDAS</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 103 exenta.- Rancagua, 29 de marzo de 2006.- Vistos:</div><br><div class=\"p\">a).-&nbsp;  Lo dispuesto en el D.S. N&#xBA; 174 (V. y U.) de 2005, que reglamenta el Programa del Fondo Solidario de Viviendas;</div><div class=\"p\">b).-&nbsp;  La resoluci&#xF3;n exenta N&#xBA; 890 de fecha 29.03.2006 de la Sra. Ministra de Vivienda y Urbanismo, que exime el cumplimiento de requisitos en los llamados a concurso del Programa Fondo Solidario de Vivienda regulado por el D.S. N&#xBA; 174 (V. y U.) de 2005, durante el a&#xF1;o 2006, que indica;</div><div class=\"p\">c).-&nbsp;  El D.S. N&#xBA; 90, de fecha 1 de abril de 2003, que me designa como Secretario Regional Ministerial para la Regi&#xF3;n del Libertador Bernardo O&apos;Higgins,</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-03-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-12-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6110369,
+          "old": "<div><div class=\"p\">IMPLEMENTA PRODUCTO INTRA-REGIONAL EN LA PRIMERA REGION Y COMPLEMENTA SISTEMA TARIFARIO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 343 exenta.- Santiago, marzo 10 de 1998.- Vistos: El&nbsp;  D.F.L. N&#xBA;10, de 1981, y el art&#xED;culo N&#xBA;5 del decreto N&#xBA;21 de 1997, ambos del Ministerio de Transportes y Telecomunicaciones; la necesidad de crear tarifas a un producto de car&#xE1;cter intra-regional en la Primera Regi&#xF3;n; el acuerdo de directorio N&#xBA;020 de 1998 de la Empresa de Correos de Chile; la resoluci&#xF3;n exenta N&#xBA;310 de 1998; la resoluci&#xF3;n N&#xBA;520 de 1996 de la Contralor&#xED;a General de la Rep&#xFA;blica y las facultades que me confieren las resoluciones N&#xBA;233 de 1994 y N&#xBA;1.861 de 1995, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br></div>",
+          "new": "<div><div class=\"p\">IMPLEMENTA PRODUCTO INTRA-REGIONAL EN LA PRIMERA REGION Y COMPLEMENTA SISTEMA TARIFARIO</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 343 exenta.- Santiago, marzo 10 de 1998.- Vistos: El&nbsp;  D.F.L. N&#xBA;10, de 1981, y el art&#xED;culo N&#xBA;5 del decreto N&#xBA;21 de 1997, ambos del Ministerio de Transportes y Telecomunicaciones; la necesidad de crear tarifas a un producto de car&#xE1;cter intra-regional en la Primera Regi&#xF3;n; el acuerdo de directorio N&#xBA;020 de 1998 de la Empresa de Correos de Chile; la resoluci&#xF3;n exenta N&#xBA;310 de 1998; la resoluci&#xF3;n N&#xBA;520 de 1996 de la Contralor&#xED;a General de la Rep&#xFA;blica y las facultades que me confieren las resoluciones N&#xBA;233 de 1994 y N&#xBA;1.861 de 1995, ambas de la Empresa de Correos de Chile, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i &#xF3; n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

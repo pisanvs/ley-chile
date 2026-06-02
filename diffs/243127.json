@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2005-10-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-05-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6544774,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Monumento Hist&#xF3;rico el inmueble ubicado en calle Londres N&#xBA; 40 (ex Londres N&#xBA; 38, conocido como Cuartel Yucat&#xE1;n), de la comuna y provincia de Santiago, Regi&#xF3;n Metropolitana. </div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida se delimita por el pol&#xED;gono se&#xF1;alado con las letras A-B-C-D-A, seg&#xFA;n se indica en plano adjunto y que forma parte del presente decreto. </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Monumento Hist&#xF3;rico el inmueble ubicado en calle Londres N&#xBA; 40 (ex Londres N&#xBA; 38, conocido como Cuartel Yucat&#xE1;n), de la comuna y provincia de Santiago, Regi&#xF3;n Metropolitana.</div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1090490&amp;idParte=9702183&amp;idVersion=2016-05-17\">Decreto 131, EDUCACI&#xD3;N<br>Art. 1<br>D.O. 17.05.2016</a></span>protegida tiene una superficie aproximada de 271,17 mts.2 seg&#xFA;n se delimita por el pol&#xED;gono A - B - C - D - E - A del plano adjunto que forma parte del presente decreto.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  .<img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57902.jpg\">. </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1090490,
+      "fecha": "2016-05-17"
+    }
+  },
+  {
+    "fecha": "2021-10-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6544774,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Decl&#xE1;rase Monumento Hist&#xF3;rico el inmueble ubicado en calle Londres N&#xBA; 40 (ex Londres N&#xBA; 38, conocido como Cuartel Yucat&#xE1;n), de la comuna y provincia de Santiago, Regi&#xF3;n Metropolitana.</div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1090490&amp;idParte=9702183&amp;idVersion=2016-05-17\">Decreto 131, EDUCACI&#xD3;N<br>Art. 1<br>D.O. 17.05.2016</a></span>protegida tiene una superficie aproximada de 271,17 mts.2 seg&#xFA;n se delimita por el pol&#xED;gono A - B - C - D - E - A del plano adjunto que forma parte del presente decreto.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  .<img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57902.jpg\">. </div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Decl&#xE1;rase <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>Monumento Hist&#xF3;rico el inmueble ubicado en calle Londres N&#xBA; 40 (ex Londres N&#xBA; 38, conocido como Cuartel Yucat&#xE1;n), de la comuna y provincia de Santiago, Regi&#xF3;n Metropolitana.</div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1090490&amp;idParte=9702183&amp;idVersion=2016-05-17\">Decreto 131, EDUCACI&#xD3;N<br>Art. 1<br>D.O. 17.05.2016</a></span>protegida tiene una superficie aproximada de 271,17 mts.2 seg&#xFA;n se delimita por el pol&#xED;gono A - B - C - D - E - A del plano adjunto que forma parte del presente decreto.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  .<img class=\"img-responsive\" src=\"Navegar/imagen/JPG/57902.jpg\">. </div><br><br><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 25, Culturas, artes y patrimonio, publicado el 07.10.2021, modifica el presente decreto en el sentido de reemplazar su nombre por &quot;Londres 38. Espacio de Memorias. Ex centro clandestino de detenci&#xF3;n, tortura, ejecuci&#xF3;n y desaparici&#xF3;n forzada&quot;; de reconocer los valores patrimoniales, significados de memoria y derechos humanos, y atributos patrimoniales, establecidos en las actas de las sesiones extraordinarias del Consejo de Monumentos Nacionales de fecha 17 de marzo y 16 de junio, ambas del a&#xF1;o 2021; y de delimitar el Monumento Hist&#xF3;rico, seg&#xFA;n lo establecido en el plano de l&#xED;mites oficial N&#xBA; 006-2021.</div></div>"
+        }
+      ]
+    }
+  }
+]

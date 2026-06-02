@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "1998-02-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-05-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7227948,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Segundo.- No estar&#xE1;n afectos a este cobro las dos copias que el Servicio entrega a las personas jur&#xED;dicas cuando solicitan su c&#xE9;dula de Rol Unico Tributario por primera vez.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Segundo.- No estar&#xE1;n afectos a este cobro las dos<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> copias que el Servicio entrega a las personas jur&#xED;dicas cuando solicitan su c&#xE9;dula de Rol Unico Tributario por primera vez.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 49 Exenta, Hacienda, publicada el 20.05.2005, modifica la presente norma, estableciendo que no estar&#xE1; afecto al cobro de los $1.500 (un mil quinientos pesos), el ejemplar que el Servicio entrega a las personas jur&#xED;dicas y personas naturales extranjeras, cuando solicitan su c&#xE9;dula de Rol Unico Tributario por primera vez.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2016-07-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

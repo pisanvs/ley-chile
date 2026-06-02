@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2010-08-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-10-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8966527,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Der&#xF3;gase el <a href=\"https://www.leychile.cl/Navegar?idNorma=187630&amp;idParte=6342633&amp;idVersion=\">art&#xED;culo 14 de la resoluci&#xF3;n N&#xBA; 1.523 de 2001</a> que establece normas para la internaci&#xF3;n e introducci&#xF3;n al medio ambiente de organismos vegetales vivos modificados de propagaci&#xF3;n.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Reempl&#xE1;zase el art&#xED;culo 14 de la<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1018451&amp;idParte=9024262&amp;idVersion=2010-10-26\">Resoluci&#xF3;n 6229 EXENTA<br>AGRICULTURA<br>D.O. 26.10.2010</a></span> resoluci&#xF3;n N&#xBA; 1.523 de 2001, debiendo quedar con el siguiente texto:</div><br><div class=\"p\">&nbsp; &nbsp;  &quot;Art&#xED;culo 14.- La informaci&#xF3;n contenida en la solicitud y en los documentos anexos, s&#xF3;lo ser&#xE1; empleada en la evaluaci&#xF3;n para autorizar la internaci&#xF3;n y su correspondiente introducci&#xF3;n al Medio Ambiente del Organismo, modificado importado o desarrollado en el pa&#xED;s. El Servicio resguardar&#xE1; la informaci&#xF3;n se&#xF1;alada en este art&#xED;culo, seg&#xFA;n lo establecido en la legislaci&#xF3;n vigente.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1018451,
+      "fecha": "2010-10-26"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "1997-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-01-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8946316,
+          "old": "<div><div class=\"p\">T I T U L O&nbsp; III</div><br><div class=\"p\">Derechos por Comercio Ambulante</div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- El permiso para el ejercicio del comercio ambulante en la comuna, cancelar&#xE1; los siguientes derechos municipales:</div><br><br><div class=\"p\">1.-&nbsp; Comerciantes ambulantes que carguen personalmente</div><div class=\"p\">&nbsp; &nbsp;  canastos, maletas o carretillas.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  5% U.T.M. diario</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  15% mensual</div><div class=\"p\">2.-&nbsp; Comerciantes ambulantes que carguen veh&#xED;culos a</div><div class=\"p\">&nbsp; &nbsp;  tracci&#xF3;n animal.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  6% U.T.M. diario</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 20% U.T.M. mensual</div><div class=\"p\">3.-&nbsp; Comerciantes ambulantes con veh&#xED;culos</div><div class=\"p\">&nbsp; &nbsp;  motorizados.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 35% mensual</div><div class=\"p\">4.-&nbsp; Comerciantes motorizados estacionados en</div><div class=\"p\">&nbsp; &nbsp;  la v&#xED;a p&#xFA;blica.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5% U.T.M. diario</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 20% U.T.M. mensual</div><div class=\"p\">5.-&nbsp; Ferias artesanales de juguetes, libros,</div><div class=\"p\">&nbsp; &nbsp;  vestuarios promocionales y similares.&nbsp; &nbsp; &nbsp; &nbsp; 5% U.T.M. diario</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 20% U.T.M. mensual</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  TITULO III</div><div class=\"p\">&nbsp; &nbsp;  Derechos por Comercio Ambulante</div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;.- El permiso para el ejercicio<span class=\"n\" id=\"n_0\">DTO 1072 EXENTO,<br>MUN. DE COCHAMO<br>D.O. 24.01.2003</span> del comercio ambulante en la comuna, cancelar&#xE1; los siguientes derechos municipales:</div><div class=\"p\">1.-&nbsp; Comerciantes ambulantes que</div><div class=\"p\">&nbsp; &nbsp;  carguen personalmente</div><div class=\"p\">&nbsp; &nbsp;  canastos, maletas o carretillas&nbsp; 7% U.T.M. diario</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  16% U.T.M. mensual</div><div class=\"p\">2.-&nbsp; Comerciantes ambulantes que</div><div class=\"p\">&nbsp; &nbsp;  utilicen veh&#xED;culos a tracci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp;  animal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  8% U.T.M. diario</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  25% U.T.M. mensual</div><div class=\"p\">3.-&nbsp; Comerciantes Ambulantes con</div><div class=\"p\">&nbsp; &nbsp;  veh&#xED;culos motorizados&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  15% U.T.M. diario</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  40% U.T.M. mensual</div><div class=\"p\">4.-&nbsp; Comerciantes ambulantes</div><div class=\"p\">&nbsp; &nbsp;  motorizados, estacionados en</div><div class=\"p\">&nbsp; &nbsp;  la v&#xED;a p&#xFA;blica&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  7% U.T.M. diario</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  25% U.T.M. mensual</div><div class=\"p\">5.-&nbsp; Ferias artesanales de</div><div class=\"p\">&nbsp; &nbsp;  juguetes, libros, vestuarios,</div><div class=\"p\">&nbsp; &nbsp;  promocionales y similares</div><div class=\"p\">&nbsp; &nbsp;  como de comercializaci&#xF3;n de</div><div class=\"p\">&nbsp; &nbsp;  platos t&#xED;picos de la zona,</div><div class=\"p\">&nbsp; &nbsp;  hortalizas, artesan&#xED;a en</div><div class=\"p\">&nbsp; &nbsp;  madera, g&#xE9;nero, telar, miel,</div><div class=\"p\">&nbsp; &nbsp;  queso y otros&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5% U.T.M. diario</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  15% U.T.M. mensual</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2013-10-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9379070,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; T&#xCD;TULO IX</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Sanciones por da&#xF1;os a los bienes de uso p&#xFA;blico y del&nbsp; medio ambiente</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15.- Las<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1055304&amp;idParte=9379064&amp;idVersion=2013-10-18\">Decreto 3883 EXENTO,<br>M. DE COCHAMO<br>D.O. 18.10.2013</a></span> responsabilidades por da&#xF1;os provocados por personas naturales o jur&#xED;dicas, a edificios p&#xFA;blicos, obras de arte, se&#xF1;al&#xE9;ticas, &#xE1;reas verdes, parques de juegos en general, plazas y plazoletas ser&#xE1;n denunciadas a las entidades judiciales correspondientes por Carabineros de la comuna de Cocham&#xF3; y las multas ser&#xE1;n determinadas de acuerdo a la evaluaci&#xF3;n de los da&#xF1;os provocados, los que ser&#xE1;n determinados por la Direcci&#xF3;n de Obras Municipales y aplicadas por el tribunal competente.</div><div class=\"p\">&nbsp; &nbsp;  Estas sanciones podr&#xE1;n fluctuar entre 0 y 50 UTM, seg&#xFA;n se determine.</div></div>"
+        },
+        {
+          "part_id": 9379071,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Art&#xED;culo 16.- En lo relativo<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1055304&amp;idParte=9379064&amp;idVersion=2013-10-18\">Decreto 3883 EXENTO,<br>M. DE COCHAMO<br>D.O. 18.10.2013</a></span> al medio ambiente ser&#xE1;n sancionadas todas las intervenciones al medio natural que sean realizadas por personas naturales o jur&#xED;dicas en la comuna de Cocham&#xF3; sin la debida autorizaci&#xF3;n de los organismos competentes vinculados al Ministerio del Medio Ambiente y la Autoridad Sanitaria. Las denuncias de estos hechos podr&#xE1;n ser efectuadas por cualquier ciudadano a la Municipalidad de Cocham&#xF3;, la que a su vez demandar&#xE1; las sanciones correspondientes a los tribunales ordinarios y/o medioambientales, como tambi&#xE9;n a la autoridad sanitaria.</div><div class=\"p\">&nbsp; &nbsp;  Estas sanciones podr&#xE1;n fluctuar entre 0 y 500 UTM.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1055304,
+      "fecha": "2013-10-18"
+    }
+  }
+]

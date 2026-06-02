@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2014-10-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-12-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9518846,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Radicaci&#xF3;n preferente</div><div class=\"p\">&nbsp; &nbsp;  Encontr&#xE1;ndose actualmente capacitadas en materia concursal las juezas titulares del Segundo y Tercer Juzgado de Letras de La Serena, do&#xF1;a Ghislaine Louisette Landerretche Sotomayor y do&#xF1;a Nora Cecilia Rojas Nogerol, respectivamente, se establece un mecanismo de radicaci&#xF3;n preferente, entre dichos dos tribunales, procurando, al efecto, una repartici&#xF3;n de trabajo aleatoria y equitativa al efectuar la distribuci&#xF3;n de las causas sobre procedimiento concursal que se presenten a la secretar&#xED;a de esta Corte, de acuerdo al sistema automatizado previamente establecido.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1085122&amp;idParte=9655997&amp;idVersion=2015-12-11\">Acuerdo 108,<br>CORTE APELACIONES DE LA SERENA<br>D.O. 11.12.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo segundo: Derogado</div></div>"
+        },
+        {
+          "part_id": 9518847,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Distribuci&#xF3;n excepcional al Primer Juzgado de Letras de La Serena</div><div class=\"p\">&nbsp; &nbsp;  Atendido lo dispuesto en el inciso quinto del art&#xED;culo 3&#xBA; de la ley N&#xBA; 20.720, en forma excepcional y por circunstancias derivadas del sistema de distribuci&#xF3;n de trabajo, en especial reflejado a trav&#xE9;s de las cargas que vayan generando los ingresos de procedimiento concursales en los tribunales con radicaci&#xF3;n preferente, el Primer Juzgado de Letras de La Serena, como tribunal competente, estar&#xE1; habilitado para conocer de asuntos concursales en el marco de sus atribuciones, cuando resulte necesario, lo que ser&#xE1; resuelto por la Presidencia previa cuenta dada por el secretario, de acuerdo a lo dispuesto en el inciso segundo del art&#xED;culo 176 del C&#xF3;digo Org&#xE1;nico de Tribunales y, en consecuencia, ser&#xE1; designado para el conocimiento de estos asunto, al efectuar las distribuci&#xF3;n de las causas presentadas ante la secretar&#xED;a de esta Corte.</div><div class=\"p\">&nbsp; &nbsp;  Para los efectos precedentemente dispuestos, el secretario llevar&#xE1; un control estad&#xED;stico, mensual, por tribunal con radicaci&#xF3;n preferente, de los procedimientos concursales ingresados ante la secretar&#xED;a de esta Corte y distribuidos a cada uno de ellos para su conocimiento.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1085122&amp;idParte=9655997&amp;idVersion=2015-12-11\">Acuerdo 108,<br>CORTE APELACIONES DE LA SERENA<br>D.O. 11.12.2015</a></span>&nbsp; &nbsp;  Art&#xED;culo tercero: Derogado</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1085122,
+      "fecha": "2015-12-11"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2017-07-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-10-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9819992,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Post&#xE9;rguese el otorgamiento de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones en las zonas: ZU2-A y ZR1, del Plan Regulador Comunal de Chiguayante Vigente por un plazo de tres meses, a partir de la fecha de su publicaci&#xF3;n en el Diario Oficial de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese el presente decreto en el Diario Oficial de la Rep&#xFA;blica y en un diario de los de mayor circulaci&#xF3;n en la comuna.-</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Post&#xE9;rguese el otorgamiento de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones en las zonas: ZU2-A y ZR1, del Plan Regulador Comunal de Chiguayante Vigente por un plazo <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>de tres meses, a partir de la fecha de su publicaci&#xF3;n en el Diario Oficial de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese el presente decreto en el Diario Oficial de la Rep&#xFA;blica y en un diario de los de mayor circulaci&#xF3;n en la comuna.-</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 1097 Exenta, Vivienda, publicado el 26.10.2017, modifica la presente norma en el sentido de prorrogar a partir del 29 de octubre de 2017, por nueve meses o hasta la fecha de entrada en vigencia de la Modificaci&#xF3;n al Plan Regulador Comunal de Chiguayante en tr&#xE1;mite, siempre que no exceda dicho plazo, la postergaci&#xF3;n de otorgamiento de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y construcciones, en las zonas ZU2-A y ZR1, del Plan Regulador Comunal de Chiguayante vigente.</div></div>"
+        }
+      ]
+    }
+  }
+]

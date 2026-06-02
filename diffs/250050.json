@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2006-06-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-06-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7330096,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Los solicitantes deber&#xE1;n acreditar el cumplimiento de los requisitos y ser encuestados mediante la aplicaci&#xF3;n de la Encuesta de Estratificaci&#xF3;n Social a que se refiere el Reglamento sobre Subsidio Familiar o el instrumento que la reemplace.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Los solicitantes deber&#xE1;n acreditar el cumplimiento de los requisitos y ser encuestados mediante la aplicaci&#xF3;n de la Ficha de Protecci&#xF3;n Social<span class=\"n\" id=\"n_0\">DTO 26, TRABAJO<br>N&#xBA; 1<br>D.O. 27.06.2007</span> a que se refiere el DS N&#xBA; 291, de 2006, del Ministerio de Planificaci&#xF3;n, o el documento que la reemplace. </div></div>"
+        },
+        {
+          "part_id": 7330097,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Las pensiones asistenciales a que tengan derecho las personas carentes de recursos conforme al decreto ley N&#xBA; 869, de 1979, ser&#xE1;n otorgadas a aquellas que re&#xFA;nan los requisitos del art&#xED;culo 1&#xBA; de dicho decreto ley y que por aplicaci&#xF3;n de la encuesta se&#xF1;alada en el art&#xED;culo anterior obtengan un puntaje igual o inferior a 550 puntos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Las pensiones asistenciales a que tengan derecho las personas carentes de recursos conforme al decreto ley N&#xBA; 869, de 1979, ser&#xE1;n otorgadas a aquellas que re&#xFA;nan los requisitos del art&#xED;culo 1&#xBA; de dicho decreto ley y que por aplicaci&#xF3;n de la encuesta se&#xF1;alada en el art&#xED;culo anterior obtengan un puntaje igual o inferior a 8.500 puntos.<span class=\"n\" id=\"n_1\">DTO 26, TRABAJO<br>N&#xBA; 2<br>D.O. 27.06.2007</span></div><div class=\"p\"> </div></div>"
+        }
+      ]
+    }
+  }
+]

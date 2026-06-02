@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2004-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-05-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6479940,
+          "old": "<div><div class=\"p\">RECTIFICA TASA DE INTERES CORRIENTE PARA OPERACIONES REAJUSTABLES EN MONEDA NACIONAL DE UN A&#xD1;O O MAS Y SUPERIORES AL EQUIVALENTE DE 2.000 UF. (CERTIFICADO N&#xBA;2004/5) </div></div>",
+          "new": "<div><div class=\"p\">RECTIFICA TASA DE INTERES CORRIENTE PARA OPERACIONES REAJUSTABLES EN MONEDA NACIONAL DE UN A&#xD1;O O MAS Y SUPERIORES AL EQUIVALENTE DE 2.000 UF. (CERTIFICADO N&#xBA;2004/5)</div><br><br></div>"
+        },
+        {
+          "part_id": 6479941,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  La tasa de inter&#xE9;s corriente para operaciones reajustables en moneda nacional de un a&#xF1;o o m&#xE1;s y superiores al equivalente de 2.000 U.F., publicada en el Diario Oficial de 11 de mayo de 2004, dice 3,80% anual, y debe decir 4,50% anual.</div><br><div class=\"p\">&nbsp; &nbsp;  La tasa de inter&#xE9;s m&#xE1;ximo convencional para operaciones reajustables en moneda nacional de un a&#xF1;o o m&#xE1;s y superiores al equivalente de 2.000 U.F., publicada en el Diario Oficial de 9 de octubre de 2001, dice de 5,70% anual, y debe decir 6,75% anual.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  La tasa de inter&#xE9;s corriente para operaciones reajustables en moneda nacional de un a&#xF1;o o m&#xE1;s y superiores al equivalente de 2.000 U.F., publicada en el Diario Oficial de 11 de mayo de 2004, dice 3,80% anual, y debe decir 4,50% anual.</div><br><div class=\"p\">&nbsp; &nbsp;  La tasa de inter&#xE9;s m&#xE1;ximo convencional para operaciones reajustables en moneda nacional de un a&#xF1;o o m&#xE1;s y superiores al equivalente de 2.000 U.F., publicada en el Diario Oficial de 11 de mayo de 2004, dice de<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 20.05.2004</span> 5,70% anual, y debe decir 6,75% anual.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

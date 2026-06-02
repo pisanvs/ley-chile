@@ -1,0 +1,122 @@
+[
+  {
+    "fecha": "1982-06-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-12-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8285078,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Fac&#xFA;ltase a las municipalidades para elaborar, desarrollar y ejecutar programas de construcci&#xF3;n de viviendas econ&#xF3;micas y de infraestructuras sanitarias, destinados a resolver problemas de marginalidad habitacional, durante los a&#xF1;os 1982 y 1983.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Fac&#xFA;ltase a las municipalidades para elaborar, desarrollar y ejecutar programas de construcci&#xF3;n de viviendas econ&#xF3;micas y de infraestructuras sanitarias, destinados a resolver problemas de marginalidad habitacional, durante los a&#xF1;os<span class=\"n\" id=\"n_0\">LEY 18196<br>ART. 37<br>D.O. 29.12.1982</span> 1982 a 1987.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1983-09-16",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8285080,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Para el cumplimiento de las funciones establecidas en el art&#xED;culo 1&#xB0;, las municipalidades podr&#xE1;n destinar inmuebles de su dominio; adquirir y enajenar terrenos, y llamar a licitaciones p&#xFA;blicas y adjudicarlas, fijando las bases generales y especiales que sean necesarias. Asimismo, podr&#xE1;n celebrar contratos de construcci&#xF3;n; asignar y vender las viviendas e infraestructuras sanitarias que se construyan; celebrar contratos de compraventa, de mutuo, de hipoteca y de seguro; recaudar, por cuenta propia o delegando en terceros, las cuotas de saldo de precio o dividendos y cuanto se les adeudare por estos conceptos y, en general, ejecutar los actos y celebrar los contratos que sean necesarios.</div><div class=\"p\">&nbsp; &nbsp; A la adquisici&#xF3;n y a la disposici&#xF3;n de inmuebles por parte de las municipalidades, en cumplimiento de los programas que regula esta ley, no les ser&#xE1;n aplicables las normas del decreto ley N&#xB0; 1.289, de 1975, ni las del decreto con fuerza de ley N&#xB0; 789, de 1978, del Ministerio de Bienes Nacionales.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Para el cumplimiento de las funciones establecidas en el art&#xED;culo 1&#xB0;, las municipalidades podr&#xE1;n destinar inmuebles de su dominio; adquirir y enajenar terrenos, y llamar a licitaciones p&#xFA;blicas y adjudicarlas, fijando las bases generales y especiales que sean necesarias. Asimismo, podr&#xE1;n celebrar contratos de construcci&#xF3;n; asignar y vender las viviendas e infraestructuras sanitarias que se construyan; celebrar contratos de compraventa, de mutuo, de hipoteca y de seguro; recaudar, por cuenta propia o delegando en terceros, las cuotas de saldo de precio o dividendos y cuanto se les adeudare por estos conceptos y, en general, ejecutar los actos y celebrar los contratos que sean necesarios.</div><div class=\"p\">&nbsp; &nbsp; A la adquisici&#xF3;n y a la disposici&#xF3;n de inmuebles por parte de las municipalidades, en cumplimiento de los programas que regula esta ley, no les ser&#xE1;n aplicables las normas del decreto ley N&#xB0; 1.289, de 1975, ni las del decreto con fuerza de ley N&#xB0; 789, de 1978, del Ministerio de Bienes Nacionales.</div><div class=\"p\">&nbsp; &nbsp; Las Municipalidades podr&#xE1;n ejecutar los programas<span class=\"n\" id=\"n_1\">LEY 18244<br>ART. 5<br>D.O. 16.09.1983</span> a que se refiere el art&#xED;culo 1&#xB0; en terrenos de propiedad de los mismos pobladores.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1987-01-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8285078,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Fac&#xFA;ltase a las municipalidades para elaborar, desarrollar y ejecutar programas de construcci&#xF3;n de viviendas econ&#xF3;micas y de infraestructuras sanitarias, destinados a resolver problemas de marginalidad habitacional, durante los a&#xF1;os<span class=\"n\" id=\"n_0\">LEY 18196<br>ART. 37<br>D.O. 29.12.1982</span> 1982 a 1987.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Fac&#xFA;ltase a las municipalidades para elaborar, desarrollar y ejecutar programas de construcci&#xF3;n de viviendas econ&#xF3;micas y de infraestructuras sanitarias, destinados a resolver problemas de marginalidad habitacional, durante los a&#xF1;os<span class=\"n\" id=\"n_0\">LEY 18591<br>ART. 1<br>D.O. 03.01.1987</span> a&#xF1;os 1982 a 1990.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8285080,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Para el cumplimiento de las funciones establecidas en el art&#xED;culo 1&#xB0;, las municipalidades podr&#xE1;n destinar inmuebles de su dominio; adquirir y enajenar terrenos, y llamar a licitaciones p&#xFA;blicas y adjudicarlas, fijando las bases generales y especiales que sean necesarias. Asimismo, podr&#xE1;n celebrar contratos de construcci&#xF3;n; asignar y vender las viviendas e infraestructuras sanitarias que se construyan; celebrar contratos de compraventa, de mutuo, de hipoteca y de seguro; recaudar, por cuenta propia o delegando en terceros, las cuotas de saldo de precio o dividendos y cuanto se les adeudare por estos conceptos y, en general, ejecutar los actos y celebrar los contratos que sean necesarios.</div><div class=\"p\">&nbsp; &nbsp; A la adquisici&#xF3;n y a la disposici&#xF3;n de inmuebles por parte de las municipalidades, en cumplimiento de los programas que regula esta ley, no les ser&#xE1;n aplicables las normas del decreto ley N&#xB0; 1.289, de 1975, ni las del decreto con fuerza de ley N&#xB0; 789, de 1978, del Ministerio de Bienes Nacionales.</div><div class=\"p\">&nbsp; &nbsp; Las Municipalidades podr&#xE1;n ejecutar los programas<span class=\"n\" id=\"n_1\">LEY 18244<br>ART. 5<br>D.O. 16.09.1983</span> a que se refiere el art&#xED;culo 1&#xB0; en terrenos de propiedad de los mismos pobladores.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Para el cumplimiento de las funciones establecidas en el art&#xED;culo 1&#xB0;, las municipalidades podr&#xE1;n destinar inmuebles de su dominio; adquirir y enajenar terrenos, y llamar a licitaciones p&#xFA;blicas y adjudicarlas, fijando las bases generales y especiales que sean necesarias. Asimismo, podr&#xE1;n celebrar contratos de construcci&#xF3;n; asignar y vender las viviendas e infraestructuras sanitarias que se construyan; celebrar contratos de compraventa, de mutuo, de hipoteca y de seguro; recaudar, por cuenta propia o delegando en terceros, las cuotas de saldo de precio o dividendos y cuanto se les adeudare por estos conceptos y, en general, ejecutar los actos y celebrar los contratos que sean necesarios.</div><div class=\"p\">&nbsp; &nbsp; A la adquisici&#xF3;n y a la disposici&#xF3;n de inmuebles por parte de las municipalidades, en cumplimiento de los programas que regula esta ley, no les ser&#xE1;n aplicables las normas del decreto ley N&#xB0; 1.289, de 1975, ni las del decreto con fuerza de ley N&#xB0; 789, de 1978, del Ministerio de Bienes Nacionales.</div><div class=\"p\">&nbsp; &nbsp; Las Municipalidades podr&#xE1;n ejecutar los programas<span class=\"n\" id=\"n_1\">LEY 18244<br>ART. 5<br>D.O. 16.09.1983<br>LEY 18591<br>ART. 12<br>D.O. 03.01.1987</span> a que se refiere el art&#xED;culo 1&#xB0; en terrenos de propiedad de los mismos pobladores. En tal caso, el valor del terreno y las obras existentes que sean aprovechables para la construcci&#xF3;n de la infraestructura sanitaria, se considerar&#xE1;n como ahorro previo del propietario, abon&#xE1;ndose al precio final de construcci&#xF3;n.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8285083,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El reglamento determinar&#xE1; las definiciones, normas t&#xE9;cnicas, de urbanizaci&#xF3;n m&#xED;nima, condiciones generales financieras y procedimientos necesarios para llevar a cabo los programas materia de esta ley.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El reglamento determinar&#xE1; las definiciones, normas t&#xE9;cnicas, de urbanizaci&#xF3;n m&#xED;nima, condiciones generales financieras y procedimientos necesarios para llevar a cabo los programas materia de esta ley.</div><div class=\"p\">&nbsp; &nbsp; En el caso de nuevos loteos, destinados a programas<span class=\"n\" id=\"n_2\">LEY 18591<br>ART. 12<br>D.O. 03.01.1987</span> de erradicaci&#xF3;n, la urbanizaci&#xF3;n m&#xED;nima a que se refiere el art&#xED;culo 2&#xB0; se sujetar&#xE1; a las normas que contiene la Ley General de Urbanismo y Construcciones, la Ordenanza General y el Reglamento Especial de Viviendas Econ&#xF3;micas.</div><div class=\"p\">&nbsp; &nbsp; En los restantes programas, la urbanizaci&#xF3;n m&#xED;nima ser&#xE1; la que se defina en el Reglamento.</div><div class=\"p\">&nbsp; &nbsp; Con todo, durante el a&#xF1;o 1987, podr&#xE1;n aprobarse los planos de loteo y subdivisiones de predios en los cuales existan de hecho, al 31 de diciembre de 1986, poblaciones de tipo social de habitaci&#xF3;n permanente, como asimismo, cursarse la recepci&#xF3;n definitiva de estos loteos y subdivisiones a&#xFA;n cuando los predios no cuenten con la urbanizaci&#xF3;n y dem&#xE1;s requisitos exigidos por la Ordenanza General de Construcciones y Urbanizaci&#xF3;n o las Ordenanzas Municipales respectivas; todo ello sin perjuicio de la responsabilidad criminal correspondiente. En el caso que el predio se encuentre ubicado fuera del radio urbano, se deber&#xE1; recabar la autorizaci&#xF3;n del art&#xED;culo 55 de la Ley General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp; El procedimiento a utilizar deber&#xE1; ajustarse a lo se&#xF1;alado en el art&#xED;culo 43 del decreto supremo N&#xB0; 104, del a&#xF1;o 1977, del Ministerio del Interior.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1987-12-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8285083,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El reglamento determinar&#xE1; las definiciones, normas t&#xE9;cnicas, de urbanizaci&#xF3;n m&#xED;nima, condiciones generales financieras y procedimientos necesarios para llevar a cabo los programas materia de esta ley.</div><div class=\"p\">&nbsp; &nbsp; En el caso de nuevos loteos, destinados a programas<span class=\"n\" id=\"n_2\">LEY 18591<br>ART. 12<br>D.O. 03.01.1987</span> de erradicaci&#xF3;n, la urbanizaci&#xF3;n m&#xED;nima a que se refiere el art&#xED;culo 2&#xB0; se sujetar&#xE1; a las normas que contiene la Ley General de Urbanismo y Construcciones, la Ordenanza General y el Reglamento Especial de Viviendas Econ&#xF3;micas.</div><div class=\"p\">&nbsp; &nbsp; En los restantes programas, la urbanizaci&#xF3;n m&#xED;nima ser&#xE1; la que se defina en el Reglamento.</div><div class=\"p\">&nbsp; &nbsp; Con todo, durante el a&#xF1;o 1987, podr&#xE1;n aprobarse los planos de loteo y subdivisiones de predios en los cuales existan de hecho, al 31 de diciembre de 1986, poblaciones de tipo social de habitaci&#xF3;n permanente, como asimismo, cursarse la recepci&#xF3;n definitiva de estos loteos y subdivisiones a&#xFA;n cuando los predios no cuenten con la urbanizaci&#xF3;n y dem&#xE1;s requisitos exigidos por la Ordenanza General de Construcciones y Urbanizaci&#xF3;n o las Ordenanzas Municipales respectivas; todo ello sin perjuicio de la responsabilidad criminal correspondiente. En el caso que el predio se encuentre ubicado fuera del radio urbano, se deber&#xE1; recabar la autorizaci&#xF3;n del art&#xED;culo 55 de la Ley General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp; El procedimiento a utilizar deber&#xE1; ajustarse a lo se&#xF1;alado en el art&#xED;culo 43 del decreto supremo N&#xB0; 104, del a&#xF1;o 1977, del Ministerio del Interior.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El reglamento determinar&#xE1; las definiciones, normas t&#xE9;cnicas, de urbanizaci&#xF3;n m&#xED;nima, condiciones generales financieras y procedimientos necesarios para llevar a cabo los programas materia de esta ley.</div><div class=\"p\">&nbsp; &nbsp; En el caso de nuevos loteos, destinados a programas<span class=\"n\" id=\"n_2\">LEY 18591<br>ART. 12<br>D.O. 03.01.1987</span> de erradicaci&#xF3;n, la urbanizaci&#xF3;n m&#xED;nima a que se refiere el art&#xED;culo 2&#xB0; se sujetar&#xE1; a las normas que contiene la Ley General de Urbanismo y Construcciones, la Ordenanza General y el Reglamento Especial de Viviendas Econ&#xF3;micas.</div><div class=\"p\">&nbsp; &nbsp; En los restantes programas, la urbanizaci&#xF3;n m&#xED;nima ser&#xE1; la que se defina en el Reglamento.</div><div class=\"p\">&nbsp; &nbsp; Con todo, durante los a&#xF1;os 1987 y 1988, podr&#xE1;n<span class=\"n\" id=\"n_3\">LEY 18681<br>ART. 18<br>D.O. 31.12.1987</span> aprobarse los planos de loteo y subdivisiones de predios en los cuales existan de hecho, al 31 de diciembre de 1986, poblaciones de tipo social de habitaci&#xF3;n permanente, como asimismo, cursarse la recepci&#xF3;n definitiva de estos loteos y subdivisiones a&#xFA;n cuando los predios no cuenten con la urbanizaci&#xF3;n y dem&#xE1;s requisitos exigidos por la Ordenanza General de Construcciones y Urbanizaci&#xF3;n o las Ordenanzas Municipales respectivas; todo ello sin perjuicio de la responsabilidad criminal correspondiente. En el caso que el predio se encuentre ubicado fuera del radio urbano, se deber&#xE1; recabar la autorizaci&#xF3;n del art&#xED;culo 55 de la Ley General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp; El procedimiento a utilizar deber&#xE1; ajustarse a lo se&#xF1;alado en el art&#xED;culo 43 del decreto supremo N&#xB0; 104, del a&#xF1;o 1977, del Ministerio del Interior.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1988-12-29",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8285083,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El reglamento determinar&#xE1; las definiciones, normas t&#xE9;cnicas, de urbanizaci&#xF3;n m&#xED;nima, condiciones generales financieras y procedimientos necesarios para llevar a cabo los programas materia de esta ley.</div><div class=\"p\">&nbsp; &nbsp; En el caso de nuevos loteos, destinados a programas<span class=\"n\" id=\"n_2\">LEY 18591<br>ART. 12<br>D.O. 03.01.1987</span> de erradicaci&#xF3;n, la urbanizaci&#xF3;n m&#xED;nima a que se refiere el art&#xED;culo 2&#xB0; se sujetar&#xE1; a las normas que contiene la Ley General de Urbanismo y Construcciones, la Ordenanza General y el Reglamento Especial de Viviendas Econ&#xF3;micas.</div><div class=\"p\">&nbsp; &nbsp; En los restantes programas, la urbanizaci&#xF3;n m&#xED;nima ser&#xE1; la que se defina en el Reglamento.</div><div class=\"p\">&nbsp; &nbsp; Con todo, durante los a&#xF1;os 1987 y 1988, podr&#xE1;n<span class=\"n\" id=\"n_3\">LEY 18681<br>ART. 18<br>D.O. 31.12.1987</span> aprobarse los planos de loteo y subdivisiones de predios en los cuales existan de hecho, al 31 de diciembre de 1986, poblaciones de tipo social de habitaci&#xF3;n permanente, como asimismo, cursarse la recepci&#xF3;n definitiva de estos loteos y subdivisiones a&#xFA;n cuando los predios no cuenten con la urbanizaci&#xF3;n y dem&#xE1;s requisitos exigidos por la Ordenanza General de Construcciones y Urbanizaci&#xF3;n o las Ordenanzas Municipales respectivas; todo ello sin perjuicio de la responsabilidad criminal correspondiente. En el caso que el predio se encuentre ubicado fuera del radio urbano, se deber&#xE1; recabar la autorizaci&#xF3;n del art&#xED;culo 55 de la Ley General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp; El procedimiento a utilizar deber&#xE1; ajustarse a lo se&#xF1;alado en el art&#xED;culo 43 del decreto supremo N&#xB0; 104, del a&#xF1;o 1977, del Ministerio del Interior.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El reglamento determinar&#xE1; las definiciones, normas t&#xE9;cnicas, de urbanizaci&#xF3;n m&#xED;nima, condiciones generales financieras y procedimientos necesarios para llevar a cabo los programas materia de esta ley.</div><div class=\"p\">&nbsp; &nbsp; En el caso de nuevos loteos, destinados a programas<span class=\"n\" id=\"n_2\">LEY 18591<br>ART. 12<br>D.O. 03.01.1987</span> de erradicaci&#xF3;n, la urbanizaci&#xF3;n m&#xED;nima a que se refiere el art&#xED;culo 2&#xB0; se sujetar&#xE1; a las normas que contiene la Ley General de Urbanismo y Construcciones, la Ordenanza General y el Reglamento Especial de Viviendas Econ&#xF3;micas.</div><div class=\"p\">&nbsp; &nbsp; En los restantes programas, la urbanizaci&#xF3;n m&#xED;nima ser&#xE1; la que se defina en el Reglamento.</div><div class=\"p\">&nbsp; &nbsp; Con todo, durante los a&#xF1;os 1987, 1988 y 1989,<span class=\"n\" id=\"n_3\">LEY 18768<br>ART. 132<br>D.O. 29.12.1988</span> podr&#xE1;n aprobarse los planos de loteo y subdivisiones de predios en los cuales existan de hecho, al 31 de diciembre de 1986, poblaciones de tipo social de habitaci&#xF3;n permanente, como asimismo, cursarse la recepci&#xF3;n definitiva de estos loteos y subdivisiones a&#xFA;n cuando los predios no cuenten con la urbanizaci&#xF3;n y dem&#xE1;s requisitos exigidos por la Ordenanza General de Construcciones y Urbanizaci&#xF3;n o las Ordenanzas Municipales respectivas; todo ello sin perjuicio de la responsabilidad criminal correspondiente. En el caso que el predio se encuentre ubicado fuera del radio urbano, se deber&#xE1; recabar la autorizaci&#xF3;n del art&#xED;culo 55 de la Ley General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp; El procedimiento a utilizar deber&#xE1; ajustarse a lo se&#xF1;alado en el art&#xED;culo 43 del decreto supremo N&#xB0; 104, del a&#xF1;o 1977, del Ministerio del Interior.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1990-12-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8285078,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Fac&#xFA;ltase a las municipalidades para elaborar, desarrollar y ejecutar programas de construcci&#xF3;n de viviendas econ&#xF3;micas y de infraestructuras sanitarias, destinados a resolver problemas de marginalidad habitacional, durante los a&#xF1;os<span class=\"n\" id=\"n_0\">LEY 18591<br>ART. 1<br>D.O. 03.01.1987</span> a&#xF1;os 1982 a 1990.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 1&#xB0;.- Fac&#xFA;ltase a las municipalidades para elaborar, desarrollar y ejecutar programas de construcci&#xF3;n de viviendas econ&#xF3;micas y de infraestructuras sanitarias, destinados a resolver problemas de marginalidad habitacional.<span class=\"n\" id=\"n_0\">LEY 19022<br>ART. 1<br>D.O. 27.12.1990</span></div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1991-01-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8285083,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El reglamento determinar&#xE1; las definiciones, normas t&#xE9;cnicas, de urbanizaci&#xF3;n m&#xED;nima, condiciones generales financieras y procedimientos necesarios para llevar a cabo los programas materia de esta ley.</div><div class=\"p\">&nbsp; &nbsp; En el caso de nuevos loteos, destinados a programas<span class=\"n\" id=\"n_2\">LEY 18591<br>ART. 12<br>D.O. 03.01.1987</span> de erradicaci&#xF3;n, la urbanizaci&#xF3;n m&#xED;nima a que se refiere el art&#xED;culo 2&#xB0; se sujetar&#xE1; a las normas que contiene la Ley General de Urbanismo y Construcciones, la Ordenanza General y el Reglamento Especial de Viviendas Econ&#xF3;micas.</div><div class=\"p\">&nbsp; &nbsp; En los restantes programas, la urbanizaci&#xF3;n m&#xED;nima ser&#xE1; la que se defina en el Reglamento.</div><div class=\"p\">&nbsp; &nbsp; Con todo, durante los a&#xF1;os 1987, 1988 y 1989,<span class=\"n\" id=\"n_3\">LEY 18768<br>ART. 132<br>D.O. 29.12.1988</span> podr&#xE1;n aprobarse los planos de loteo y subdivisiones de predios en los cuales existan de hecho, al 31 de diciembre de 1986, poblaciones de tipo social de habitaci&#xF3;n permanente, como asimismo, cursarse la recepci&#xF3;n definitiva de estos loteos y subdivisiones a&#xFA;n cuando los predios no cuenten con la urbanizaci&#xF3;n y dem&#xE1;s requisitos exigidos por la Ordenanza General de Construcciones y Urbanizaci&#xF3;n o las Ordenanzas Municipales respectivas; todo ello sin perjuicio de la responsabilidad criminal correspondiente. En el caso que el predio se encuentre ubicado fuera del radio urbano, se deber&#xE1; recabar la autorizaci&#xF3;n del art&#xED;culo 55 de la Ley General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp; El procedimiento a utilizar deber&#xE1; ajustarse a lo se&#xF1;alado en el art&#xED;culo 43 del decreto supremo N&#xB0; 104, del a&#xF1;o 1977, del Ministerio del Interior.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El reglamento determinar&#xE1; las definiciones, normas t&#xE9;cnicas, de urbanizaci&#xF3;n m&#xED;nima, condiciones generales financieras y procedimientos necesarios para llevar a cabo los programas materia de esta ley.</div><div class=\"p\">&nbsp; &nbsp; En el caso de nuevos loteos, destinados a programas<span class=\"n\" id=\"n_2\">LEY 18591<br>ART. 12<br>D.O. 03.01.1987</span> de erradicaci&#xF3;n, la urbanizaci&#xF3;n m&#xED;nima a que se refiere el art&#xED;culo 2&#xB0; se sujetar&#xE1; a las normas que contiene la Ley General de Urbanismo y Construcciones, la Ordenanza General y el Reglamento Especial de Viviendas Econ&#xF3;micas.</div><div class=\"p\">&nbsp; &nbsp; En los restantes programas, la urbanizaci&#xF3;n m&#xED;nima ser&#xE1; la que se defina en el Reglamento.</div><div class=\"p\">&nbsp; &nbsp; Con todo podr&#xE1;n aprobarse los planos de loteo<span class=\"n\" id=\"n_3\">LEY 19018<br>ART. 2<br>D.O. 04.01.1991</span> y subdivisiones de predios en los cuales existan y hubieran existido de hecho al 31 de Marzo de 1990, poblaciones de tipo social de habitaci&#xF3;n permanente, como asimismo, cursarse la recepci&#xF3;n definitiva de estos loteos y subdivisiones a&#xFA;n cuando los predios no cuenten con la urbanizaci&#xF3;n y dem&#xE1;s requisitos exigidos por la Ordenanza General de Construcciones y Urbanizaci&#xF3;n o las Ordenanzas Municipales respectivas; todo ello sin perjuicio de la responsabilidad criminal correspondiente. En el caso que el predio se encuentre ubicado fuera del radio urbano, se deber&#xE1; recabar la autorizaci&#xF3;n del art&#xED;culo 55 de la Ley General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp; El procedimiento a utilizar deber&#xE1; ajustarse a lo se&#xF1;alado en el art&#xED;culo 43 del decreto supremo N&#xB0; 104, del a&#xF1;o 1977, del Ministerio del Interior.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

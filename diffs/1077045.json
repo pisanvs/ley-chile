@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2015-05-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-04-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9593517,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Prorr&#xF3;gase por un a&#xF1;o el plazo fijado por la <a href=\"https://www.leychile.cl/Navegar?idNorma=1061904&amp;idParte=&amp;idVersion=\">RE N&#xBA; 1.171</a>, citada en visto, publicada en el Diario Oficial con fecha 6 de mayo de 2014.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Prorr&#xF3;gase por un a&#xF1;o el plazo fijado <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>por la RE N&#xBA; 1.171, citada en visto, publicada en el Diario Oficial con fecha 6 de mayo de 2014.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo primero de la Resoluci&#xF3;n 2976 Exenta, Econom&#xED;a, publicada el 30.04.2016, prorrog&#xF3; por un a&#xF1;o el plazo fijado por la Resoluci&#xF3;n N&#xBA; 2207.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2017-05-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9593517,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Prorr&#xF3;gase por un a&#xF1;o el plazo fijado <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>por la RE N&#xBA; 1.171, citada en visto, publicada en el Diario Oficial con fecha 6 de mayo de 2014.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo primero de la Resoluci&#xF3;n 2976 Exenta, Econom&#xED;a, publicada el 30.04.2016, prorrog&#xF3; por un a&#xF1;o el plazo fijado por la Resoluci&#xF3;n N&#xBA; 2207.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Prorr&#xF3;gase por un a&#xF1;o el plazo fijado <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>por la RE N&#xBA; 1.171, citada en visto, publicada en el Diario Oficial con fecha 6 de mayo de 2014.</div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Art&#xED;culo primero de la Resoluci&#xF3;n 2976 Exenta, Econom&#xED;a, publicada el 30.04.2016, prorrog&#xF3; por un a&#xF1;o el plazo fijado por la Resoluci&#xF3;n N&#xBA; 2207 de 2015.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 1579 Exenta, Econom&#xED;a, publicada el 05.05.2017, modifica la presente norma en el sentido de prorrogar por un a&#xF1;o el plazo fijado por la resoluci&#xF3;n 2976 de 2016.</div></div>"
+        }
+      ]
+    }
+  }
+]

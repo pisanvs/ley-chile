@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-04-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-07-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10347812,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  C<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1178440&amp;idParte=10347804&amp;idVersion=2022-07-12\">Aviso S/N,<br>MEDIO AMBIENTE<br>D.O. 12.07.2022</a></span>ONTRALOR&#xCD;A GENERAL DE LA REP&#xDA;BLICA</div><div class=\"p\">&nbsp; &nbsp;  Divisi&#xF3;n Jur&#xED;dica</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Cursa con alcance el decreto N&#xBA; 43, de 2021, del Ministerio del Medio Ambiente</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; E202199/2022.- Santiago, 7 de abril de 2022.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Esta Contralor&#xED;a General ha dado curso al documento del ep&#xED;grafe, que declara santuario de la naturaleza Playa Tunqu&#xE9;n-Quebrada Seca, ubicado en las comunas de Algarrobo y Casablanca, provincias de San Antonio y Valpara&#xED;so, respectivamente, Regi&#xF3;n de Valpara&#xED;so, por encontrarse ajustado a derecho.</div><div class=\"p\">&nbsp; &nbsp;  No obstante, cumple con hacer presente que, atendido que la creaci&#xF3;n de &#xE1;reas protegidas trae aparejada como obligaci&#xF3;n esencial que el administrador elabore un plan de manejo en el plazo que indica, esta Contralor&#xED;a General entiende que la corporaci&#xF3;n o fundaci&#xF3;n a que se refiere el art&#xED;culo 4&#xBA; de su parte dispositiva, debe crearse a la brevedad para tales efectos, correspondiendo a esa Secretar&#xED;a de Estado velar por esos fines.</div><div class=\"p\">&nbsp; &nbsp;  Con el alcance que antecede se ha tomado raz&#xF3;n del decreto de la suma.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Saluda atentamente a Ud., Jorge Berm&#xFA;dez Soto, Contralor General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">A la se&#xF1;ora</div><div class=\"p\">Ministra del Medio Ambiente</div><div class=\"p\">Presente.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1178440,
+      "fecha": "2022-07-12"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-01-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-07-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7306951,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 26 Bis: Las organizaciones deportivas con<span class=\"n\" id=\"n_0\">RES 2,<br>M. DE LONCOCHE<br>N&#xBA; 1<br>D.O. 28.07.2005</span> personalidad jur&#xED;dica vigente conforme a la ley N&#xBA; 19.712, Ley del Deporte, quedar&#xE1;n exentas del pago de todos los derechos municipales contemplados en la presente Ordenanza.<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div></div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 2 de la RES 2, M. de Loncoche, publicada el 28.07.2005, dispone que el nuevo art&#xED;culo 26 bis, comenzar&#xE1; a regir a contar del 1 de enero de 2006.<br></div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

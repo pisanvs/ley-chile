@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-09-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1996-03-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9041244,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DELEGA FACULTAD PARA CONVENIR CON DEUDORES HIPOTECARIOS, ACTOS, CONTRATOS, ART. 4&#xB0; LEY 19.229 N&#xFA;m. 1.053.- Santiago, 23 de Agosto de 1995.- Vistos: lo dispuesto en el art. 4&#xB0; de la Ley N&#xB0; 19.229; en el D.S. N&#xB0; 1853, de 1994, suscrito por los se&#xF1;ores Ministros de Bienes Nacionales y Hacienda; el D.L. N&#xB0; 3274, de 1980; y, en el art. 43&#xB0; de la Ley N&#xB0; 18.575, Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DELEGA FACULTAD PARA CONVENIR CON DEUDORES HIPOTECARIOS, ACTOS, CONTRATOS, ART. 4&#xB0; LEY 19.229</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  D E R O G A D O .-<span class=\"n\" id=\"n_0\">DS 14<br>BIENES,1996</span></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.053.- Santiago, 23 de Agosto de 1995.-</div><div class=\"p\">Vistos: lo dispuesto en el art. 4&#xB0; de la Ley N&#xB0; 19.229;<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 1</a></div> en el D.S. N&#xB0; 1853, de 1994, suscrito por los se&#xF1;ores<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA:&nbsp; 2</a></div> Ministros de Bienes Nacionales y Hacienda; el D.L. N&#xB0; 3274, de 1980; y, en el art. 43&#xB0; de la Ley N&#xB0; 18.575, Decreto:</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El D.S. N&#xB0; 14, del Ministerio de Bienes Nacionales, publicado en el &quot;Diario Oficial&quot; de 18 de Marzo de 1996, deroga el presente Decreto Supremo, as&#xED; como el D.S. N&#xB0; 1.681, de 1995, del mismo Ministerio, y delega la facultad para convenir con deudores hipotecarios, actos, contratos, art. 4&#xB0; Ley 19.229.<br></div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El texto del presente Decreto Supremo se encuentra en una cinta de normas derogadas BDTO.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "fecha": "1983-01-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-08-21",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9046786,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- Cr&#xE9;ase en la Presidencia de la Rep&#xFA;blica una Secretar&#xED;a General, organismo que depender&#xE1; directamente del Jefe del Estado y que estar&#xE1; encargado de asesorarlo en el ejercicio de sus funciones administrativas y colegisladoras, y en los dem&#xE1;s casos en que &#xE9;ste lo requiera, proporcion&#xE1;ndole la informaci&#xF3;n necesaria para la adopci&#xF3;n de las decisiones que procedan.</div><div class=\"p\">&nbsp; &nbsp; Le corresponder&#xE1;, igualmente, disponer las medidas atinentes a la pronta ejecuci&#xF3;n de las decisiones presidenciales, cuando el Presidente de la Rep&#xFA;blica as&#xED; lo determine.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_0\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046787,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- En los actos administrativos que requieran de la dictaci&#xF3;n de decreto supremo, la Secretar&#xED;a General de la Presidencia se relacionar&#xE1; con el Supremo Gobierno, a trav&#xE9;s del Ministerio del Interior.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_1\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046788,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- La Secretar&#xED;a General de la Presidencia de la Rep&#xFA;blica estar&#xE1; a cargo de un funcionario que, con el t&#xED;tulo de Secretario General de la Presidencia, tendr&#xE1; la calidad de jefe superior de servicio y, adem&#xE1;s, el rango de Ministro de Estado.</div><div class=\"p\">&nbsp; &nbsp; Las normas para la subrogaci&#xF3;n del Secretario General ser&#xE1;n establecidas por decreto supremo. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_2\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046789,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- En el ejercicio de sus funciones, el Secretario General asignar&#xE1; y administrar&#xE1; los recursos presupuestarios del organismo y ejecutar&#xE1; y celebrar&#xE1; los actos y contratos necesarios para el cumplimiento de sus fines.</div><div class=\"p\">&nbsp; &nbsp; El Secretario General podr&#xE1; firmar, bajo la f&#xF3;rmula &quot;por orden del Presidente de la Rep&#xFA;blica&quot;, los oficios y comunicaciones que incidan en las materias o actuaciones que por decreto supremo establezca el Jefe del Estado.</div><div class=\"p\">&nbsp; &nbsp; El Secretario General podr&#xE1; delegar parte de sus atribuciones en funcionarios de su dependencia. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_3\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046790,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Para el cumplimiento de sus funciones, la Secretar&#xED;a General de la Presidencia de la Rep&#xFA;blica podr&#xE1; requerir de todos los ministerios, servicios y organismos de la Administraci&#xF3;n Civil del Estado, como asimismo, de aquellas entidades en que el Estado, sus empresas, sociedades o instituciones tengan aportes, participaci&#xF3;n o representaci&#xF3;n, toda la informaci&#xF3;n y antecedentes que estime necesarios, relacionados con materias propias de sus respectivas esferas de competencia. Ser&#xE1; obligatorio para los Jefes de los referidos servicios, organismos y entidades proporcionar oportunamente la informaci&#xF3;n y antecedentes requeridos.</div><div class=\"p\">&nbsp; &nbsp; La informaci&#xF3;n y antecedentes que la Secretar&#xED;a General requiera de los Ministerios deber&#xE1;n ser solicitados al Ministro de Estado respectivo, el la forma se&#xF1;alada en el inciso segundo del art&#xED;culo anterior.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_4\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046791,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- El personal de la Secretar&#xED;a General formar&#xE1; parte de la Planta del Personal de la Presidencia de la Rep&#xFA;blica, en la que deber&#xE1; consultarse un t&#xED;tulo separado para tales servidores.</div><div class=\"p\">&nbsp; &nbsp; Dicho personal ser&#xE1; de la exclusiva confianza del Presidente de la Rep&#xFA;blica, estar&#xE1; afecto al decreto con fuerza de ley N&#xB0; 338, de 1960, y al decreto ley N&#xB0; 249, de 1974, y sus normas complementarias. Incl&#xFA;yese a la Secretar&#xED;a General de la Presidencia de la Rep&#xFA;blica en la enumeraci&#xF3;n contemplada en el art&#xED;culo 1&#xB0; de este &#xFA;ltimo cuerpo legal. En consecuencia, las remuneraciones de este personal ser&#xE1;n las del se&#xF1;alado decreto ley N&#xB0; 249, de 1974, comprendidas todas las asignaciones, cualesquiera que fueren sus denominaciones y fechas de vigencia, que beneficien al personal acogido a sus disposiciones.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_5\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046792,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- El nombramiento del personal ubicado hasta el grado 9&#xB0;, inclusive, de la Escala Unica de Sueldos, se har&#xE1; por decreto supremo, y el del resto del personal por resoluci&#xF3;n del Secretario General de la Presidencia.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_6\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046793,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- Lo dispuesto en el art&#xED;culo 13 del decreto ley N&#xB0; 1.608, de 1976, ser&#xE1; aplicable a la Secretar&#xED;a General de la Presidencia de la Rep&#xFA;blica. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_7\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046794,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- El Presidente de la Rep&#xFA;blica podr&#xE1; requerir, para el cumplimiento de labores de cualquiera naturaleza en el organismo, las comisiones de servicio que estime convenientes respecto de funcionarios de la Administraci&#xF3;n del Estado, incluidos aquellos servicios p&#xFA;blicos que, de acuerdo con sus estatutos y leyes org&#xE1;nicas, no se consideren integrantes de dicha Administraci&#xF3;n ni les sean aplicables las normas del sector p&#xFA;blico.</div><div class=\"p\">&nbsp; &nbsp; Las comisiones de servicio dispuestas en conformidad con el inciso anterior, se regir&#xE1;n por lo previsto en el decreto ley N&#xB0; 577, de 1974.</div><div class=\"p\">&nbsp; &nbsp; Lo establecido en este art&#xED;culo no se aplicar&#xE1; a la Contralor&#xED;a General de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_8\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046795,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10.- La Ley de Presupuestos contemplar&#xE1; anualmente, en forma separada, dentro del Presupuesto de la Presidencia de la Rep&#xFA;blica, los recursos necesarios para el funcionamiento de la Secretar&#xED;a General de la Presidencia de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 10&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_9\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046796,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11.- Para todos los efectos legales, la Secretar&#xED;a General de la Presidencia de la Rep&#xFA;blica ser&#xE1; la continuadora del Estado Mayor Presidencial y del Comit&#xE9; Asesor Presidencial. En consecuencia, las referencias que la legislaci&#xF3;n y reglamentaci&#xF3;n vigentes hacen a algunos de estos &#xFA;ltimos organismos o a sus jefes, deber&#xE1;n entenderse hechas a la primera o al Secretario General de la Presidencia de la Rep&#xFA;blica, seg&#xFA;n corresponda.</div><div class=\"p\">&nbsp; &nbsp; Del mismo modo, las referencias que la legislaci&#xF3;n y reglamentaci&#xF3;n vigentes al 13 de noviembre de 1981 hac&#xED;an a la ex Comisi&#xF3;n Nacional de la Reforma Administrativa, deber&#xE1;n entenderse hechas al Ministerio del Interior, el que ser&#xE1; su continuador legal en los t&#xE9;rminos del art&#xED;culo 12 de esta ley.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11.- INCISO PRIMERO.- DEROGADO.<span class=\"n\" id=\"n_10\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><div class=\"p\">&nbsp; &nbsp; Del mismo modo, las referencias que la legislaci&#xF3;n y reglamentaci&#xF3;n vigentes al 13 de noviembre de 1981 hac&#xED;an a la ex Comisi&#xF3;n Nacional de la Reforma Administrativa, deber&#xE1;n entenderse hechas al Ministerio del Interior, el que ser&#xE1; su continuador legal en los t&#xE9;rminos del art&#xED;culo 12 de esta ley.</div><br></div>"
+        },
+        {
+          "part_id": 9046797,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12.- Corresponder&#xE1; al Ministerio del Interior estudiar la racionalizaci&#xF3;n de las estructuras, funciones y procedimientos de las instituciones y organismos que integran la Administraci&#xF3;n Civil del Estado, con el fin de mantenerlas permanentemente adecuadas a las necesidades del pa&#xED;s, formulando al Presidente de la Rep&#xFA;blica las proposiciones que sean pertinentes.</div><div class=\"p\">&nbsp; &nbsp; Le corresponder&#xE1;, asimismo, sin perjuicio de las funciones propias del Ministerio de Relaciones Exteriores, representar al Gobierno ante los Organismos Internacionales en materia de reforma administrativa.</div><div class=\"p\">&nbsp; &nbsp; Para el ejercicio de las funciones a que se refieren los incisos anteriores, el Ministerio del Interior tendr&#xE1; la facultad oontemplada en el art&#xED;culo 5&#xB0; de la presente ley.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 12.- Corresponder&#xE1; al Ministerio del Interior estudiar la racionalizaci&#xF3;n de las estructuras, funciones y procedimientos de las instituciones y organismos que integran la Administraci&#xF3;n Civil del Estado, con el fin de mantenerlas permanentemente adecuadas a las necesidades del pa&#xED;s, formulando al Presidente de la Rep&#xFA;blica las proposiciones que sean pertinentes.</div><div class=\"p\">&nbsp; &nbsp; Le corresponder&#xE1;, asimismo, sin perjuicio de las funciones propias del Ministerio de Relaciones Exteriores, representar al Gobierno ante los Organismos Internacionales en materia de reforma administrativa.</div><div class=\"p\">&nbsp; &nbsp; Para el ejercicio de las funciones a que se refieren<span class=\"n\" id=\"n_11\">LEY 18993<br>Art. 16 b)<br>D.O. 21.08.1990</span> los incisos anteriores, el Ministerio del Interior, actuando por orden del Presidente de la Rep&#xFA;blica, tendr&#xE1; la facultad de solicitar de los dem&#xE1;s Ministerios, Servicios y Organismos de la Administraci&#xF3;n del Estado, como tambi&#xE9;n de aquellas entidades en que el Estado, sus empresas, sociedades o instituciones tengan aportes, participaci&#xF3;n o representaci&#xF3;n mayoritarios, las informaciones y antecedentes que estime necesarios.</div><br></div>"
+        },
+        {
+          "part_id": 9046798,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13.- Der&#xF3;ganse la ley N&#xB0; 18.061, el decreto con fuerza de ley N&#xB0; 1-18.061, de 1982, y el decreto N&#xB0; 233, de 1977, del Ministerio del Interior.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_12\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046799,
+          "old": "<div><div class=\"p\"> Art&#xED;culo 1&#xB0;.- Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que, dentro del plazo de sesenta d&#xED;as, y por decreto expedido por intermedio del Ministerio del Interior, el que deber&#xE1; ser tambi&#xE9;n firmado por el Ministro de Hacienda, modifique la planta y dotaci&#xF3;n del personal de la Presidencia de la la Rep&#xFA;blica, fijada por el art&#xED;culo 10 del decreto ley N&#xB0; 3.529, de 1980, con el objeto de incorporar en ella el t&#xED;tulo del personal de la Secretar&#xED;a General de dicha Presidencia, pudiendo, en uso de esta facultad, efectuar en la planta vigente las adecuaciones que sean necesarias con tal fin.</div><div class=\"p\">&nbsp; &nbsp; Fac&#xFA;ltase igualmente, al Presidente de la Rep&#xFA;blica para que, del mismo modo y en igual plazo, modifique la Planta del Personal del Ministerio del Interior, con el objeto de aumentar el n&#xFA;mero de empleos en ella contemplados, pudiendo, en uso de esta atribuci&#xF3;n, efectuar en dicha planta las adecuaciones necesarias para el cumplimiento de las funciones a que se refiere el art&#xED;culo 12 de esta ley y crear un t&#xED;tulo especial y diferenciado para el personal que deba ser encasillado de acuerdo con el art&#xED;culo siguiente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_13\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046801,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Dentro del plazo de treinta d&#xED;as, contado desde que entren en vigencia los decretos a que se refiere el art&#xED;culo anterior, el Presidente de la Rep&#xFA;blica podr&#xE1; encasillar y reencasillar, seg&#xFA;n corresponda, discrecionalmente, y en uno o m&#xE1;s actos, en la Planta de la Presidencia de la Rep&#xFA;blica, dentro del t&#xED;tulo Secretar&#xED;a General, y en los nuevos empleos del Ministerio del Interior, a todo o parte del personal del Comit&#xE9; Asesor Presidencial que se encuentre en funciones a la fecha de practicarse dichos actos de encasillamiento. Del mismo modo y en el mismo plazo, el Presidente de la Rep&#xFA;blica podr&#xE1; encasillar o reencasillar, seg&#xFA;n corresponda, en la Planta del Personal de la Presidencia de la Rep&#xFA;blica, dentro del t&#xED;tulo Secretar&#xED;a General, al personal que, en cualquier calidad, preste servicios en el Estado Mayor Presidencial.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_14\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046802,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- En tanto no se efect&#xFA;en los encasillamientos a que se refiere el art&#xED;culo anterior, el personal a que alude dicho art&#xED;culo continuar&#xE1; en funciones, bajo la dependencia de la Secretar&#xED;a General de la Presidencia de la Rep&#xFA;blica, sea de planta, a contrata o contratado sobre la base de honorarios. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_15\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046803,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- El personal a que se refiere el art&#xED;culo 2&#xB0; transitorio que deba cesar en funciones como consecuencia de no ser encasillado, y que no cumpla con los requisitos para acogerse a jubilaci&#xF3;n, tendr&#xE1; derecho a la indemnizaci&#xF3;n especial establecida en la letra e) del art&#xED;culo 29 del decreto ley N&#xB0; 2.879, de 1979.</div><div class=\"p\">&nbsp; &nbsp; El personal que fuere encasillado en un cargo con una remuneraci&#xF3;n mensual inferior a la que se encontrare percibiendo, tendr&#xE1; derecho a que se le pague la diferencia respectiva por planilla suplementaria, en la forma prevista en la letra d) del art&#xED;culo 29 del decreto ley N&#xB0; 2.879, de 1979.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_16\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046804,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Las comisiones de servicio que, a la fecha de vigencia de esta ley, se est&#xE9;n cumpliendo en el Estado Mayor Presidencial y en el Comit&#xE9; Asesor Presidencial continuar&#xE1;n desempe&#xF1;&#xE1;ndose, por el solo ministerio de la ley y sin soluci&#xF3;n de continuidad, en la Secretar&#xED;a General de la Presidencia de la Rep&#xFA;blica o en el Ministerio del Interior, seg&#xFA;n lo determine el Presidente de la Rep&#xFA;blica, y se sujetar&#xE1;n a lo previsto en el art&#xED;culo 9&#xB0;.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_17\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046805,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- Dentro de los ciento ochenta d&#xED;as siguientes a la publicaci&#xF3;n de la presente ley en el Diario Oficial, el personal que sea encasillado en las plantas de la Secretar&#xED;a General de la Presidencia de la Rep&#xFA;blica o del Ministerio del Interior y que se encuentre actualmente afiliado al Servicio de Bienestar Social de la Junta de Gobierno, cesar&#xE1; en su afiliaci&#xF3;n al mencionado servicio.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_18\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046806,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- Trasp&#xE1;sanse los recursos presupuestarios del Comit&#xE9; Asesor Presidencial a los Presupuestos de la Presidencia de la Rep&#xFA;blica y del Ministerio del Interior, en conformidad con lo dispuesto en el inciso siguiente.</div><div class=\"p\">&nbsp; &nbsp; Por decreto expedido por intermedio del Ministerio del Interior, el que deber&#xE1; llevar tambi&#xE9;n la firma del Ministro de Hacienda, se indicar&#xE1; el monto de los recursos que se traspasen, y la forma en que ellos se distribuir&#xE1;n entre las respectivas entidades. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 7&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_19\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        },
+        {
+          "part_id": 9046807,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para que, dentro del plazo de noventa d&#xED;as, contado desde la fecha de publicaci&#xF3;n de esta ley, y por decreto expedido por intermedio del Ministerio de Hacienda, efect&#xFA;e las modificaciones necesarias en la Ley de Presupuestos, en lo que se refiere a los fondos asignados a la Presidencia de la Rep&#xFA;blica y al Comit&#xE9; Asesor Presidencial, con el fin de atender a los gastos que demande el funcionamiento de la Secretar&#xED;a General de la Presidencia de la Rep&#xFA;blica, mientras la Ley de Presupuestos no contemple expresamente dicha asignaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Fac&#xFA;ltasele, igualmente, para adecuar los gastos del Ministerio del Interior, con el fin de dar cumplimiento a las disposiciones de la presente ley.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- DEROGADO.<span class=\"n\" id=\"n_20\">LEY 18993<br>Art. 16 a)<br>D.O. 21.08.1990</span></div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1990-08-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

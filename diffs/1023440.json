@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-03-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-03-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9117954,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Disp&#xF3;nese, de acuerdo al informe t&#xE9;cnico adjunto, que las siguientes estaciones de monitoreo correspondientes a la red Ventanas, como estaciones monitoras con representatividad de los recursos naturales (EMRRN), esto &#xFA;ltimo para efectos de evaluar el cumplimiento de la norma de concentraci&#xF3;n ambiental de SO2 establecidas en el DS N&#xBA; 22, en el &#xE1;rea circundante a la fuente fija Codelco Divisi&#xF3;n Ventanas y AES Gener S.A.:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/16834.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Las estaciones de monitoreo de calidad de aire deber&#xE1;n cumplir con la metodolog&#xED;a de medici&#xF3;n de la concentraci&#xF3;n de di&#xF3;xido de azufre establecida en el D.S. N&#xBA; 22/2010, utilizando para la medici&#xF3;n alguno de los m&#xE9;todos establecidos en el art&#xED;culo 8&#xBA; de dicho decreto.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Disp&#xF3;nese, de acuerdo al informe t&#xE9;cnico adjunto, que las siguientes estaciones de monitoreo correspondientes a la red Ventanas, como estaciones monitoras con representatividad de los recursos naturales (EMRRN), esto &#xFA;ltimo para efectos de evaluar el cumplimiento de la norma de concentraci&#xF3;n ambiental de SO2 establecidas en el DS N&#xBA; 22, en el &#xE1;rea circundante a la fuente fija Codelco Divisi&#xF3;n Ventanas y AES Gener S.A.:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/16834.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Las estaciones de monitoreo de calidad de aire deber&#xE1;n cumplir con la metodolog&#xED;a de medici&#xF3;n de la concentraci&#xF3;n de di&#xF3;xido de azufre establecida en el D.S. N&#xBA; 22/2010, utilizando para la medici&#xF3;n alguno de los m&#xE9;todos establecidos en el art&#xED;culo 8&#xBA; de dicho decreto.</div><div class=\"p\">&nbsp; &nbsp; </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 2170 Exenta, Agricultura, publicada el 19.03.2013 modifica el cuadro inserto en la presente norma, en lo referente a la estaci&#xF3;n Quintero, respecto de la ubicaci&#xF3;n de dicha estaci&#xF3;n y el criterio de representatividad de los recursos naturales de la misma, de la manera que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

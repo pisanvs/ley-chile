@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-01-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8340156,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese una veda biol&#xF3;gica de reclutamiento para el recurso Jurel (Trachurus murphyi), en el &#xE1;rea mar&#xED;tima comprendida entre el l&#xED;mite norte de la III Regi&#xF3;n y el l&#xED;mite sur de la X Regi&#xF3;n, la que regir&#xE1; desde las 0:00 horas del d&#xED;a 30 de enero de 1999 hasta las 24:00 horas del d&#xED;a 15 de febrero de 1999, ambas fechas inclusive. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese una veda biol&#xF3;gica de reclutamiento para el recurso Jurel (Trachurus murphyi), en el &#xE1;rea mar&#xED;tima comprendida entre el l&#xED;mite norte de la III Regi&#xF3;n y el l&#xED;mite sur de la X Regi&#xF3;n, la que regir&#xE1; desde las 0:00 horas del d&#xED;a 30 de enero de 1999 hasta las 24:00 horas del d&#xED;a 15 de marzo de 1999,<span class=\"n\" id=\"n_0\">DTO 116 Exento,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 05.02.1999</span> ambas fechas inclusive. </div></div>"
+        }
+      ]
+    }
+  }
+]

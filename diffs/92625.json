@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-10-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8322076,
+          "old": "<div><br><div class=\"p\">AUTORIZA A DON EZAU COCIO MANCILLA PARA INICIAR ACTIVIDADES PESQUERAS</div><br></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A DON EZAU COCIO MANCILLA PARA INICIAR ACTIVIDADES PESQUERAS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

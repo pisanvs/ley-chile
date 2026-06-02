@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1999-02-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6153842,
+          "old": "<div><div class=\"p\">APRUEBA REFORMAS DE ESTATUTOS DE CORPBANCA </div></div>",
+          "new": "<div><div class=\"p\">APRUEBA REFORMAS DE ESTATUTOS DE CORPBANCA</div><br><br><br></div>"
+        },
+        {
+          "part_id": 6153843,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Certifico que por resoluci&#xF3;n N&#xBA; 9, de 29 de enero de 1999, se aprobaron las reformas introducidas a los estatutos de Corpbanca, en la Junta Extraordinaria de Accionistas celebrada el 22 de diciembre de 1998, cuya acta fue reducida a escritura p&#xFA;blica el d&#xED;a 29 del mismo mes y a&#xF1;o, en la Notar&#xED;a de Santiago de don Kamel Saquel Zaror.</div><br><div class=\"p\">Extracto de la reforma:</div><br><div class=\"p\">&nbsp; &nbsp;  Se aument&#xF3; el capital social a la suma de $116.918.482.216 representado por 165.203.786.894 acciones.</div><div class=\"p\">&nbsp; &nbsp;  El n&#xFA;mero de capital se entera mediante la emisi&#xF3;n de 66.561.651.170 acciones de pago de la serie A o simplemente acciones ordinarias sin serie, si la emisi&#xF3;n se efectuare despu&#xE9;s del canje de las acciones series A, B y C. Dichas acciones deber&#xE1;n quedar emitidas, suscritas y pagadas dentro del plazo de tres a&#xF1;os contado desde la resoluci&#xF3;n que aprob&#xF3; este aumento. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Certifico que por resoluci&#xF3;n N&#xBA; 9, de 29 de enero de 1999, se aprobaron las reformas introducidas a los estatutos de Corpbanca, en la Junta Extraordinaria de Accionistas celebrada el 22 de diciembre de 1998, cuya acta fue reducida a escritura p&#xFA;blica el d&#xED;a 29 del mismo mes y a&#xF1;o, en la Notar&#xED;a de Santiago de don Kamel Saquel Zaror. Extracto de la reforma: Se aument&#xF3; el capital social a la suma de $116.918.482.216 representado por 165.203.786.894 acciones. El aumento de capital se entera mediante la emisi&#xF3;n<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 18.02.1999</span> de 66.561.651.170 acciones de pago de la serie A o simplemente acciones ordinarias sin serie, si la emisi&#xF3;n se efectuare despu&#xE9;s del canje de las acciones series A, B y C. Dichas acciones deber&#xE1;n quedar emitidas, suscritas y pagadas dentro del plazo de tres a&#xF1;os contado desde la resoluci&#xF3;n que aprob&#xF3; este aumento. </div></div>"
+        }
+      ]
+    }
+  }
+]

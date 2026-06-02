@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-02-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-10-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8021364,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Modif&#xED;case el Decreto Exento N&#xB0; 240 de 2006, de este Ministerio, que estableci&#xF3; el R&#xE9;gimen Artesanal de Extracci&#xF3;n por organizaciones de pescadores artesanales para las pesquer&#xED;as artesanales de Anchoveta Engraulis ringens, Sardina com&#xFA;n Strangomera bentincki y Jurel Trachurus murphyi correspondientes a la X Regi&#xF3;n, en el sentido de incorporar a la Asociaci&#xF3;n Gremial de Armadores Cerqueros de la Regi&#xF3;n de los R&#xED;os ACER A.G., Registro de Asociaciones Gremiales 3793 de 2007, como organizaci&#xF3;n de pescadores artesanales habilitada para operar en el marco de dicho R&#xE9;gimen en el &#xE1;rea mar&#xED;tima de la XIV Regi&#xF3;n, antes denominada &#xC1;rea Norte de la X Regi&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Art&#xED;culo &#xFA;nico.- Modif&#xED;case el Decreto Exento N&#xB0; 240 de 2006, de este Ministerio, que estableci&#xF3; el R&#xE9;gimen Artesanal de Extracci&#xF3;n por organizaciones de pescadores artesanales para las pesquer&#xED;as artesanales de Anchoveta Engraulis ringens, Sardina com&#xFA;n Strangomera bentincki y Jurel Trachurus murphyi correspondientes a la X Regi&#xF3;n, en el sentido de incorporar a la Asociaci&#xF3;n Gremial de Armadores Cerqueros de la Regi&#xF3;n de los R&#xED;os ACER A.G., Registro de Asociaciones Gremiales 3793 de 2007, como organizaci&#xF3;n de pescadores artesanales habilitada para operar en el marco de dicho R&#xE9;gimen en el &#xE1;rea mar&#xED;tima de la XIV Regi&#xF3;n, antes denominada &#xC1;rea Norte de la X Regi&#xF3;n.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp;  El art&#xED;culo 1&#xB0;, letras a y b, del Decreto&nbsp; 1470, Econom&#xED;a, publicado el 07.10.2009, introduce diversas modificaciones al Decreto 1161, Econom&#xED;a, publicado el 20.07.2009, modificatoria de la presente norma, en el sentido indicar las fechas entre las cuales deber&#xE1;n desarrollarse la veda biol&#xF3;gica reproductiva para las especies en que ella se indican.</div></div>"
+        }
+      ]
+    }
+  }
+]

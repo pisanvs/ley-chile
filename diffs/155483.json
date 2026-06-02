@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-02-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-05-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6232219,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 2.228, DE 1999</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 194.- Valpara&#xED;so, 26 de enero de 2000.- Visto: Lo solicitado por Sociedad Pesquera Coloso S.A.; lo informado por la Divisi&#xF3;n de Desarrollo Pesquero de esta Subsecretar&#xED;a en memor&#xE1;ndum N&#xBA; 879, de 28 de noviembre de 1999; lo dispuesto en el DFL N&#xBA; 5, de 1983; la ley N&#xBA; 18.892 y sus modificaciones cuyo texto refundido, coordinado y sistematizado fue fijado por el DS N&#xBA; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, la resoluci&#xF3;n N&#xBA; 2.228 de 1999, de esta Subsecretar&#xED;a.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 2.228, DE 1999</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 194.- Valpara&#xED;so, 26 de enero de 2000.- Visto: Lo solicitado por Sociedad Pesquera Coloso S.A.; lo informado por la Divisi&#xF3;n de Desarrollo Pesquero de esta Subsecretar&#xED;a en memor&#xE1;ndum N&#xBA; 879, de 28 de noviembre de 1999; lo dispuesto en el DFL N&#xBA; 5, de 1983; la ley N&#xBA; 18.892 y sus modificaciones cuyo texto refundido, coordinado y sistematizado fue fijado por el DS N&#xBA; 430, de 1991, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, la resoluci&#xF3;n N&#xBA; 2.228 de 1999, de esta Subsecretar&#xED;a.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

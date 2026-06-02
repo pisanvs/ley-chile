@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2009-02-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-03-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8084526,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xB0;. Los prestadores individuales de salud que ser&#xE1;n inscritos en el Registro Nacional de Prestadores Individuales de Salud ser&#xE1;n los que se encuentren habilitados por el t&#xED;tulo profesional respectivo para ejercer legalmente en el pa&#xED;s alguna de las profesiones que se enumeran a continuaci&#xF3;n:</div><br><div class=\"p\">1)&nbsp; &nbsp;  M&#xE9;dicos Cirujanos;</div><div class=\"p\">2)&nbsp; &nbsp;  Dentistas o Cirujanos Dentistas;</div><div class=\"p\">3)&nbsp; &nbsp;  Enfermeros;</div><div class=\"p\">4)&nbsp; &nbsp;  Matrones;</div><div class=\"p\">5)&nbsp; &nbsp;  Tecn&#xF3;logos M&#xE9;dicos;</div><div class=\"p\">6)&nbsp; &nbsp;  Psic&#xF3;logos;</div><div class=\"p\">7)&nbsp; &nbsp;  Kinesi&#xF3;logos;</div><div class=\"p\">8)&nbsp; &nbsp;  Farmac&#xE9;uticos y Qu&#xED;mico Farmac&#xE9;uticos;</div><div class=\"p\">9)&nbsp; &nbsp;  Bioqu&#xED;micos;</div><div class=\"p\">10)&nbsp; &nbsp; Nutricionistas;</div><div class=\"p\">11)&nbsp; &nbsp; Fonoaudi&#xF3;logos;</div><div class=\"p\">12)&nbsp; &nbsp; Terapeutas Ocupacionales;</div><div class=\"p\">13)&nbsp; &nbsp; Los profesionales auxiliares se&#xF1;alados en el</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  inciso segundo del art&#xED;culo 112 del C&#xF3;digo</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  Sanitario.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xB0;. Los prestadores individuales de salud que ser&#xE1;n inscritos en el Registro Nacional de Prestadores Individuales de Salud ser&#xE1;n los que se encuentren habilitados por el t&#xED;tulo profesional respectivo para ejercer legalmente en el pa&#xED;s alguna de las profesiones que se enumeran a continuaci&#xF3;n:</div><br><div class=\"p\">1)&nbsp; &nbsp;  M&#xE9;dicos Cirujanos;</div><div class=\"p\">2)&nbsp; &nbsp;  Dentistas o Cirujanos Dentistas;</div><div class=\"p\">3)&nbsp; &nbsp;  Enfermeros;</div><div class=\"p\">4)&nbsp; &nbsp;  Matrones;</div><div class=\"p\">5)&nbsp; &nbsp;  Tecn&#xF3;logos M&#xE9;dicos;</div><div class=\"p\">6)&nbsp; &nbsp;  Psic&#xF3;logos;</div><div class=\"p\">7)&nbsp; &nbsp;  Kinesi&#xF3;logos;</div><div class=\"p\">8)&nbsp; &nbsp;  Farmac&#xE9;uticos y Qu&#xED;mico Farmac&#xE9;uticos;</div><div class=\"p\">9)&nbsp; &nbsp;  Bioqu&#xED;micos;</div><div class=\"p\">10)&nbsp; &nbsp; Nutricionistas;</div><div class=\"p\">11)&nbsp; &nbsp; Fonoaudi&#xF3;logos;</div><div class=\"p\">12)&nbsp; &nbsp; Terapeutas Ocupacionales;</div><div class=\"p\">13)&nbsp; &nbsp; Los profesionales auxiliares se&#xF1;alados en el</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  inciso segundo del art&#xED;culo 112 del C&#xF3;digo</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  Sanitario<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1156473&amp;idParte=10207054&amp;idVersion=2021-03-02\">Decreto 12, SALUD<br>Art. &#xDA;NICO, N&#xB0; 1 y N&#xB0; 2<br>D.O. 02.03.2021</a></span>;</div><div class=\"p\">14)&nbsp; &nbsp; Opt&#xF3;metras que cuenten con t&#xED;tulo obtenido </div><div class=\"p\">&nbsp; &nbsp; &nbsp;  en el extranjero, convalidado ante la </div><div class=\"p\">&nbsp; &nbsp; &nbsp;  Universidad de Chile, de conformidad con </div><div class=\"p\">&nbsp; &nbsp; &nbsp;  lo dispuesto en el decreto con fuerza de </div><div class=\"p\">&nbsp; &nbsp; &nbsp;  ley N&#xBA; 3, de 2007, del Ministerio de </div><div class=\"p\">&nbsp; &nbsp; &nbsp;  Educaci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1156473,
+      "fecha": "2021-03-02"
+    }
+  }
+]

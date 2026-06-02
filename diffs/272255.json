@@ -1,0 +1,92 @@
+[
+  {
+    "fecha": "2008-06-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-06-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8765222,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA; Las concesionarias establecer&#xE1;n las interconexiones con la red p&#xFA;blica telef&#xF3;nica y con las redes de servicios p&#xFA;blicos del mismo tipo que les permitan establecer las comunicaciones seg&#xFA;n el procedimiento, condiciones y plazo establecido por la normativa t&#xE9;cnica dictada al efecto por la Subsecretar&#xED;a de Telecomunicaciones de conformidad por lo dispuesto en el inciso primero del art&#xED;culo 25 de la ley. Los precios o tarifas aplicados entre los concesionarios por los servicios prestados a trav&#xE9;s de las interconexiones, ser&#xE1;n fijados de acuerdo a lo establecido en los art&#xED;culos 30&#xBA; a 30&#xBA; J de la ley. </div><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1059429&amp;idParte=9406485&amp;idVersion=2014-02-13\">Decreto 18, TRANSPORTES<br>Art. 75<br>D.O. 13.02.2014</a></span>&nbsp; &nbsp;  Art&#xED;culo 8&#xBA; Derogado. </div><br></div>"
+        },
+        {
+          "part_id": 8765224,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xBA; La calidad de suscriptor de una concesionaria de servicio p&#xFA;blico de Voz sobre Internet se adquiere por la celebraci&#xF3;n de un contrato de suministro de servicio p&#xFA;blico de Voz sobre Internet, el que podr&#xE1; ser acordado por v&#xED;a electr&#xF3;nica, papel o a trav&#xE9;s de plataformas comerciales telef&#xF3;nicas, mediante la suscripci&#xF3;n de cualquier acto o contrato que, conforme a las normas generales del derecho, transfiera o transmita, a cualquier t&#xED;tulo, tal calidad.</div><div class=\"p\">&nbsp; &nbsp;  La concesionaria no podr&#xE1; condicionar en ning&#xFA;n caso la contrataci&#xF3;n del suministro del Servicio a la adquisici&#xF3;n, arriendo o mantenci&#xF3;n del equipo respectivo.</div><div class=\"p\">&nbsp; &nbsp;  El suscriptor podr&#xE1; poner t&#xE9;rmino unilateralmente al contrato referido precedentemente previo aviso a la concesionaria, la cual deber&#xE1; dar curso a dicho requerimiento dentro del plazo de 10 d&#xED;as a contar del aviso.</div><div class=\"p\">&nbsp; &nbsp;  En el caso de la adquisici&#xF3;n de la calidad de suscriptor por sucesi&#xF3;n por causa de muerte -y para efectos de ejercitar el derecho previsto en el inciso anterior- bastar&#xE1; que la comunidad hereditaria en su conjunto o mediante el otorgamiento de un poder simple a uno de sus miembros o a un tercero, acompa&#xF1;e a su aviso de t&#xE9;rmino de contrato, el certificado de defunci&#xF3;n del suscriptor fallecido y copia de la libreta de familia correspondiente.</div><br><br></div>",
+          "new": "<div><div class=\"p\">Arti<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1059429&amp;idParte=9406485&amp;idVersion=2014-02-13\">Decreto 18, TRANSPORTES<br>Art. 75<br>D.O. 13.02.2014</a></span>culo 10&#xB0;.- Derogado.</div><br><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8765225,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; T&#xCD;TULO III</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp;  DE LOS SUSCRIPTORES Y USUARIOS</div><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1059429&amp;idParte=9406485&amp;idVersion=2014-02-13\">Decreto 18, TRANSPORTES<br>Art. 75<br>D.O. 13.02.2014</a></span>TITULO III DE LOS SUSCRIPTORES Y USUARIOS Derogado.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8765226,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA; Todos los actos relativos al proceso de solicitud, suscripci&#xF3;n, modificaci&#xF3;n y aviso de t&#xE9;rminos del contrato de suministro del servicio p&#xFA;blico de Voz sobre Internet, podr&#xE1;n realizarse a trav&#xE9;s de t&#xE9;cnicas y medios electr&#xF3;nicos, siempre que se encuentre debidamente garantizada la autor&#xED;a, integridad y no repudio en los t&#xE9;rminos previstos en la Ley N&#xBA; 19.799 sobre documentos electr&#xF3;nicos, firma electr&#xF3;nica y servicios de certificaci&#xF3;n de dicha firma y en el art&#xED;culo 12 A de la Ley N&#xBA; 19.496 sobre Protecci&#xF3;n de los Derechos de los Consumidores.</div></div>",
+          "new": "<div><div class=\"p\">Arti<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1059429&amp;idParte=9406485&amp;idVersion=2014-02-13\">Decreto 18, TRANSPORTES<br>Art. 75<br>D.O. 13.02.2014</a></span>culo 11&#xB0;.- Derogado.</div><br><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8765227,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA; Las responsabilidades y obligaciones derivadas de la provisi&#xF3;n del servicio p&#xFA;blico de Voz sobre Internet a los usuarios, ser&#xE1;n exclusivamente de la concesionaria de dicho servicio y no afectar&#xE1; ni comprometer&#xE1; directa ni indirectamente al proveedor del servicio de acceso a Internet y viceversa, por cuanto el acceso y la conexi&#xF3;n a Internet del usuario no constituyen parte de la concesi&#xF3;n de servicio p&#xFA;blico de Voz sobre Internet.</div><div class=\"p\">&nbsp; &nbsp;  Para los efectos de utilizar el servicio p&#xFA;blico de Voz sobre Internet el suscriptor deber&#xE1; contratar o proveerse bajo su responsabilidad del servicio de acceso a Internet, por lo que la relaci&#xF3;n jur&#xED;dico- comercial concerniente a dicho acceso y todas las responsabilidades que de ella deriven, se circunscribir&#xE1;n al suscriptor y al proveedor de acceso referido, con independencia del v&#xED;nculo existente entre la concesionaria con el suscriptor.</div><div class=\"p\">&nbsp; &nbsp;  Las concesionarias ser&#xE1;n responsables de la provisi&#xF3;n del Servicio en cuanto a las condiciones, oportunidad y calidad en los t&#xE9;rminos ofrecidos y/o contratados, siempre que el usuario y/o suscriptor se provea del Servicio de Acceso a Internet con las caracter&#xED;sticas y condiciones m&#xED;nimas necesarias requeridas por la concesionaria para su provisi&#xF3;n, siendo responsabilidad de &#xE9;sta &#xFA;ltima informar previamente a los suscriptores y/o usuarios respecto de dichas caracter&#xED;sticas.</div><div class=\"p\">&nbsp; &nbsp;  Las concesionarias de este servicio no podr&#xE1;n discriminar en la calidad de las comunicaciones que se realicen con usuarios y/o suscriptores de la red p&#xFA;blica telef&#xF3;nica, respecto de la que proveen para las comunicaciones entre sus propios suscriptores y/o usuarios.</div></div>",
+          "new": "<div><div class=\"p\">Arti<span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1059429&amp;idParte=9406485&amp;idVersion=2014-02-13\">Decreto 18, TRANSPORTES<br>Art. 75<br>D.O. 13.02.2014</a></span>culo 12&#xB0;.- Derogado.</div><br><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8765228,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xBA; Las concesionarias deber&#xE1;n informar oportuna y adecuadamente al p&#xFA;blico en general respecto a la calidad de servicio que son capaces de entregar y las condiciones de prestaci&#xF3;n &#xF3;ptima para ello. En todo caso, los contratos de suscripci&#xF3;n que las concesionarias celebren, deber&#xE1;n establecer exhaustivamente las condiciones de funcionamiento y calidad con que se obligan a prestar el Servicio. </div></div>",
+          "new": "<div><div class=\"p\">Arti<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1059429&amp;idParte=9406485&amp;idVersion=2014-02-13\">Decreto 18, TRANSPORTES<br>Art. 75<br>D.O. 13.02.2014</a></span>culo 13&#xB0;.- Derogado.</div><br><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8765229,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xBA; Las concesionarias estar&#xE1;n obligadas a dar acceso gratuito a sus suscriptores y/o usuarios, a las comunicaciones destinadas a los niveles especiales de servicios de emergencia conectados a los concesionarios del servicio p&#xFA;blico telef&#xF3;nico y en la localizaci&#xF3;n en la cual se encuentra el usuario, dando estricto cumplimiento a lo preceptuado para esta categor&#xED;a de servicios en el Plan T&#xE9;cnico Fundamental de Numeraci&#xF3;n Telef&#xF3;nica y las normas t&#xE9;cnicas dictadas al efecto.</div><div class=\"p\">&nbsp; &nbsp;  Toda suspensi&#xF3;n del servicio p&#xFA;blico de Voz sobre Internet, por no pago del mismo, deber&#xE1; efectuarse de manera que no impida cursar comunicaciones a dichos niveles de emergencia. </div></div>",
+          "new": "<div><div class=\"p\">Arti<span class=\"n\" id=\"n_6\"><a href=\"navegar?idNorma=1059429&amp;idParte=9406485&amp;idVersion=2014-02-13\">Decreto 18, TRANSPORTES<br>Art. 75<br>D.O. 13.02.2014</a></span>culo 14&#xB0;.- Derogado.</div><br><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8765230,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xBA; Los reclamos que se formulen por, entre o en contra de las concesionarias del servicio p&#xFA;blico de Voz sobre Internet y los usuarios o suscriptores de sus servicios, estar&#xE1;n sujetas al Reglamento Sobre Tramitaci&#xF3;n y Resoluci&#xF3;n de Reclamos de Servicios de Telecomunicaciones, Decreto Supremo N&#xB0; 556, de 1997, del Ministerio de Transportes y Telecomunicaciones, en lo que corresponda.</div></div>",
+          "new": "<div><div class=\"p\">Arti<span class=\"n\" id=\"n_7\"><a href=\"navegar?idNorma=1059429&amp;idParte=9406485&amp;idVersion=2014-02-13\">Decreto 18, TRANSPORTES<br>Art. 75<br>D.O. 13.02.2014</a></span>culo 15&#xB0;.- Derogado.</div><br><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8765231,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16&#xBA; Las concesionarias deber&#xE1;n emitir un documento de cobro o cuenta a sus suscriptores. </div></div>",
+          "new": "<div><div class=\"p\">Arti<span class=\"n\" id=\"n_8\"><a href=\"navegar?idNorma=1059429&amp;idParte=9406485&amp;idVersion=2014-02-13\">Decreto 18, TRANSPORTES<br>Art. 75<br>D.O. 13.02.2014</a></span>culo 16&#xB0;.- Derogado</div><br><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8765232,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA; La cuenta emitida por las concesionarias deber&#xE1; incluir los cargos correspondientes a las comunicaciones efectuadas por sus suscriptores, ya sean las comunicaciones de Voz sobre Internet cuando corresponda, las comunicaciones destinadas a las redes de servicios p&#xFA;blicos telef&#xF3;nicos local o m&#xF3;vil o a otros servicios p&#xFA;blicos del mismo tipo y las comunicaciones a los servicios complementarios, si se hubieren habilitado por el suscriptor. Sin perjuicio de lo anterior, la concesionaria podr&#xE1; incluir el cobro de otras prestaciones, siempre que &#xE9;stos permitan al suscriptor pagar la cuenta en forma separada. El concesionario no podr&#xE1; interrumpir el servicio por falta de pago de las prestaciones adicionales antes se&#xF1;aladas.</div></div>",
+          "new": "<div><div class=\"p\">Arti<span class=\"n\" id=\"n_9\"><a href=\"navegar?idNorma=1059429&amp;idParte=9406485&amp;idVersion=2014-02-13\">Decreto 18, TRANSPORTES<br>Art. 75<br>D.O. 13.02.2014</a></span>culo 17&#xB0;.- Derogado.</div><br><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8765233,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18&#xBA; La cuenta debe ser emitida mensualmente y no podr&#xE1; incluir cargos correspondientes a prestaciones suministradas con una anterioridad superior a 3 meses, contados desde su fecha de emisi&#xF3;n. No obstante, deber&#xE1; incluir los cargos totales o parciales por concepto de saldos impagos, seg&#xFA;n lo establecido por el proveedor del servicio correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  El cumplimiento de los plazos anteriores ser&#xE1; de la exclusiva responsabilidad del concesionario o proveedor del servicio respectivo.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, las prestaciones suministradas con anterioridad a dichos plazos podr&#xE1;n ser cobradas por medios distintos de la cuenta. Asimismo, podr&#xE1;n ser incluidas en la cuenta, con la autorizaci&#xF3;n expresa del suscriptor.</div></div>",
+          "new": "<div><div class=\"p\">Arti<span class=\"n\" id=\"n_10\"><a href=\"navegar?idNorma=1059429&amp;idParte=9406485&amp;idVersion=2014-02-13\">Decreto 18, TRANSPORTES<br>Art. 75<br>D.O. 13.02.2014</a></span>culo 18&#xB0;.- Derogado.</div><br><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8765234,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 19&#xBA; La cuenta debe ser pagada dentro del plazo establecido por la concesionaria para su pago. En caso de aceptarse pagos parciales, no se admitir&#xE1;n discriminaciones de ninguna especie. </div></div>",
+          "new": "<div><div class=\"p\">Arti<span class=\"n\" id=\"n_11\"><a href=\"navegar?idNorma=1059429&amp;idParte=9406485&amp;idVersion=2014-02-13\">Decreto 18, TRANSPORTES<br>Art. 75<br>D.O. 13.02.2014</a></span>culo 19&#xB0;.- Derogado.</div><br><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8765235,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 20&#xBA; Dicha cuenta debe ser entregada al suscriptor, a lo menos, con 10 d&#xED;as de anticipaci&#xF3;n a la fecha de vencimiento del plazo establecido para su pago.</div><div class=\"p\">&nbsp; &nbsp;  Previo aviso de a lo menos 15 d&#xED;as al suscriptor, la concesionaria podr&#xE1; descontinuar el suministro del servicio p&#xFA;blico de Voz sobre Internet a los suscriptores que, cumplida la fecha de vencimiento del plazo establecido para su pago, no hayan pagado la cuenta. El corte del servicio impedir&#xE1; realizar comunicaciones de voz a trav&#xE9;s del servicio contratado, exceptuadas las comunicaciones exentas de pago a que se refiere el Art&#xED;culo 14&#xBA; de este Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  El criterio que la concesionaria emplee para la aplicaci&#xF3;n del corte del servicio deber&#xE1; ser conocido por sus suscriptores y no deber&#xE1; ser discriminatorio. La reposici&#xF3;n del servicio se efectuar&#xE1; dentro del plazo m&#xE1;ximo del d&#xED;a h&#xE1;bil siguiente a la fecha en que se pague la cuenta impaga.</div><div class=\"p\">&nbsp; &nbsp;  El no pago de la cuenta, dentro de los 120 d&#xED;as siguientes a su fecha de emisi&#xF3;n, faculta a la concesionaria para poner t&#xE9;rmino al contrato de suministro correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, transcurridos 60 d&#xED;as del lapso se&#xF1;alado en el inciso precedente, la concesionaria podr&#xE1; reconfigurar la prestaci&#xF3;n del servicio para que contin&#xFA;e operando o reanude su operaci&#xF3;n en r&#xE9;gimen de prepago, previo consentimiento dado en cualquier tiempo anterior por el suscriptor. En este caso, no proceder&#xE1; el corte de servicio o deber&#xE1; ser &#xE9;ste repuesto, seg&#xFA;n corresponda; dejar&#xE1;n desde ese momento de devengarse los intereses moratorios y se suspender&#xE1; el plazo de 120 d&#xED;as a que hace referencia el ya citado inciso.</div><div class=\"p\">&nbsp; &nbsp;  En caso de que el suscriptor pague los montos adeudados de su cuenta, gozar&#xE1; del derecho de opci&#xF3;n a mantener un r&#xE9;gimen de prepago o retornar al r&#xE9;gimen ordinario.</div></div>",
+          "new": "<div><div class=\"p\">Arti<span class=\"n\" id=\"n_12\"><a href=\"navegar?idNorma=1059429&amp;idParte=9406485&amp;idVersion=2014-02-13\">Decreto 18, TRANSPORTES<br>Art. 75<br>D.O. 13.02.2014</a></span>culo 20&#xB0;.- Derogado.</div><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8765236,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21&#xBA; La concesionaria deber&#xE1; aceptar el pago atrasado de la cuenta, sin perjuicio de los intereses que aplique cada proveedor de servicio, cuyos montos ser&#xE1;n incluidos en la cuenta m&#xE1;s pr&#xF3;xima.</div></div>",
+          "new": "<div><div class=\"p\">Arti<span class=\"n\" id=\"n_13\"><a href=\"navegar?idNorma=1059429&amp;idParte=9406485&amp;idVersion=2014-02-13\">Decreto 18, TRANSPORTES<br>Art. 75<br>D.O. 13.02.2014</a></span>culo 21&#xB0;.- Derogado.</div><br><br><br><br><br><br></div>"
+        },
+        {
+          "part_id": 8765237,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22&#xBA; En todo lo no regulado en este T&#xED;tulo, deber&#xE1;n considerarse para los suscriptores y usuarios el cumplimiento del mismo r&#xE9;gimen normativo de los derechos y obligaciones vigente para los usuarios del servicio p&#xFA;blico telef&#xF3;nico, en lo que resulte aplicable seg&#xFA;n la naturaleza del servicio.</div><div class=\"p\">&nbsp; &nbsp;  En caso de duda respecto de la forma en que deben entenderse y aplicarse los derechos y obligaciones mencionados en el p&#xE1;rrafo anterior, o de las excepciones que debieran considerarse dada la naturaleza del servicio, resolver&#xE1; la Subsecretar&#xED;a de Telecomunicaciones, de oficio o a petici&#xF3;n de parte, en el ejercicio de sus facultades legales, en especial las conferidas por los art&#xED;culos 6&#xBA;, 7&#xBA; y 28&#xBA; bis de la ley.</div></div>",
+          "new": "<div><div class=\"p\">Arti<span class=\"n\" id=\"n_14\"><a href=\"navegar?idNorma=1059429&amp;idParte=9406485&amp;idVersion=2014-02-13\">Decreto 18, TRANSPORTES<br>Art. 75<br>D.O. 13.02.2014</a></span>culo 22&#xB0;.- Derogado.</div><br><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

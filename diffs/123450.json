@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-01-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-02-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8526591,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA CENTAURUS S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA CENTAURUS S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE RESOLUCION QUE INDICA</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

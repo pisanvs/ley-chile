@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-02-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-07-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8328477,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Conc&#xE9;dese, por gracia, a los Sres. Manuel Jes&#xFA;s Acu&#xF1;a Urrutia, Jos&#xE9; Ra&#xFA;l Aldea Figueroa, Isidro Arce Ibarra, Jos&#xE9; Omar Barriga Mondaca, Sergio Andr&#xE9;s Bascu&#xF1;&#xE1;n Castro, Jos&#xE9; Leonardo Briones Riquelme, Jos&#xE9; Luis Cabrera Villarroel, Luis Alfredo Candia Carrasco, Ricardo Enrique Castro N&#xFA;&#xF1;ez, Edmundo Honorio Contreras, Fernando Antonio Figueroa Sep&#xFA;lveda, Jos&#xE9; Arnaldo Guti&#xE9;rrez Sandoval, Luis Alfonso Maldonado Romero, Luis Alberto Palacios M&#xE9;ndez, Manuel Jes&#xFA;s Parra Encina, Salustio del Carmen S&#xE1;nchez Contreras, Luis Humberto Seguel Olate, Jos&#xE9; Hern&#xE1;n Sep&#xFA;lveda Guajardo, Francisco del Tr&#xE1;nsito Ulloa Riquelme, Laudelino Valdebenito Quilodr&#xE1;n, Jos&#xE9; Orosimbo Vega Vega, una pensi&#xF3;n de gracia equivalente a un ingreso m&#xED;nimo mensual a cada uno de ellos, debiendo considerarse que el monto del ingreso m&#xED;nimo para estos efectos, es aquel a que se hace referencia en el inciso 1&#xBA;, del art&#xED;culo 5 de la ley N&#xBA; 18.647, que se emplea para fines no remuneracionales.</div><div class=\"p\">&nbsp; &nbsp;  El gasto que demande el presente decreto supremo, se imputar&#xE1; al &#xED;tem &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: Conc&#xE9;dese, por gracia, a los Sres. Manuel Jes&#xFA;s Acu&#xF1;a Urrutia, Jos&#xE9; Ra&#xFA;l Aldea Figueroa, Isidro Arce Ibarra, Jos&#xE9; Omar Barriga Moncada, Sergio<span class=\"n\" id=\"n_0\">DTO 1182, INTERIOR<br>D.O. 09.07.1998</span> Andr&#xE9;s Bascu&#xF1;&#xE1;n Castro, Jos&#xE9; Leonardo Briones Riquelme, Jos&#xE9; Luis Cabrera Villarroel, Luis Alfredo Candia Carrasco, Ricardo Enrique Castro N&#xFA;&#xF1;ez, Edmundo Honorio Contreras, Fernando Antonio Figueroa Sep&#xFA;lveda, Jos&#xE9; Arnaldo Guti&#xE9;rrez Sandoval, Luis Alfonso Maldonado Romero, Luis Alberto Palacios M&#xE9;ndez, Manuel Jes&#xFA;s Parra Encina, Salustio del Carmen S&#xE1;nchez Contreras, Luis Humberto Seguel Olate, Jos&#xE9; Hern&#xE1;n Sep&#xFA;lveda Guajardo, Francisco del Tr&#xE1;nsito Ulloa Riquelme, Laudelino Valdebenito Quilodr&#xE1;n, Jos&#xE9; Orosimbo Vega Vega, una pensi&#xF3;n de gracia equivalente a un ingreso m&#xED;nimo mensual a cada uno de ellos, debiendo considerarse que el monto del ingreso m&#xED;nimo para estos efectos, es aquel a que se hace referencia en el inciso 1&#xBA;, del art&#xED;culo 5 de la ley N&#xBA; 18.647, que se emplea para fines no remuneracionales. El gasto que demande el presente decreto supremo, se imputar&#xE1; al &#xED;tem &quot;Jubilaciones, Pensiones y Montep&#xED;os&quot;, del Programa Operaciones Complementarias del Presupuesto vigente del Tesoro P&#xFA;blico. </div></div>"
+        }
+      ]
+    }
+  }
+]

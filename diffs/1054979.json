@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2013-10-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-11-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9377033,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Autor&#xED;zase a la Secretar&#xED;a Regional Ministerial de la Regi&#xF3;n del Biob&#xED;o para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elecci&#xF3;n de Vivienda, en la alternativa de postulaci&#xF3;n colectiva con proyecto vinculado, en la tipolog&#xED;a de Construcci&#xF3;n en Nuevos Terrenos, para la Regi&#xF3;n de Biob&#xED;o, por un monto total de 110.000 Unidades de Fomento.</div><div class=\"p\">&nbsp; &nbsp;  2. Perm&#xED;tase a la Secretar&#xED;a Regional Ministerial de la Regi&#xF3;n del Biob&#xED;o, para el llamado autorizado mediante resuelvo precedente, modificar y/o definir, mediante resoluciones fundadas, condiciones diferentes a las establecidas en el <a href=\"https://www.leychile.cl/Navegar?idNorma=1039424&amp;idParte=&amp;idVersion=\">DS N&#xBA; 49 (V. y U.), de 2011</a>, salvo por las indicadas en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. No obstante lo anterior, los grupos postulantes a este llamado deber&#xE1;n ser ingresados a la plataforma inform&#xE1;tica que este Ministerio ha dispuesto para dichos efectos, debiendo quedar en estado h&#xE1;bil con anterioridad al cierre de dicho llamado, el que no podr&#xE1; superar el 15 de octubre de 2013. As&#xED; mismo, y con hasta la misma fecha, los proyectos asociados a los grupos postulantes deber&#xE1;n haber sido calificados en el Banco de Proyectos del mismo sistema inform&#xE1;tico.</div><div class=\"p\">&nbsp; &nbsp;  4. El n&#xFA;mero de grupos seleccionados alcanzar&#xE1; hasta el n&#xFA;mero de subsidios susceptibles de financiar con los recursos previsto para el presente concurso, incluidos sus respectivos servicios de asistencia t&#xE9;cnica, inspecci&#xF3;n t&#xE9;cnica de obra y los subsidios complementarios, si corresponde.</div><div class=\"p\">&nbsp; &nbsp;  5. Para los efectos de determinar el n&#xFA;mero de subsidios a financiar se considerar&#xE1;n los montos de subsidios referenciales contemplados en los proyectos calificados a los cuales se encuentran vinculados los grupos postulantes. El monto definitivo a considerar para la aplicaci&#xF3;n del subsidio ser&#xE1; determinado al momento de la adscripci&#xF3;n a &#xE9;ste por parte del postulante seleccionado.</div><div class=\"p\">&nbsp; &nbsp;  6. Mediante resoluci&#xF3;n de la Secretar&#xED;a Regional Ministerial de la Regi&#xF3;n del Biob&#xED;o, que se deber&#xE1; publicar en el Diario Oficial, se aprobar&#xE1; la n&#xF3;mina de grupos seleccionados, la que deber&#xE1; ser informada a la Divisi&#xF3;n de Pol&#xED;tica Habitacional de este Ministerio. La difusi&#xF3;n de dicha n&#xF3;mina podr&#xE1; realizarse en un peri&#xF3;dico de circulaci&#xF3;n regional o nacional u otro medio de comunicaci&#xF3;n p&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  7. Imp&#xFA;tase el monto total de 110.000 Unidades de Fomento, asignado en esta resoluci&#xF3;n, a los recursos autorizados a la Regi&#xF3;n del Biob&#xED;o para el Programa Fondo Solidario de Elecci&#xF3;n de Vivienda del a&#xF1;o 2013.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. Autor&#xED;zase a la Secretar&#xED;a Regional Ministerial de la Regi&#xF3;n del Biob&#xED;o para llamar a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elecci&#xF3;n de Vivienda, en la alternativa de postulaci&#xF3;n colectiva con proyecto vinculado, en la tipolog&#xED;a de Construcci&#xF3;n en Nuevos Terrenos, para la Regi&#xF3;n de Biob&#xED;o, por un monto total de 110.000 Unidades de Fomento.</div><div class=\"p\">&nbsp; &nbsp;  2. Perm&#xED;tase a la Secretar&#xED;a Regional Ministerial de la Regi&#xF3;n del Biob&#xED;o, para el llamado autorizado mediante resuelvo precedente, modificar y/o definir, mediante resoluciones fundadas, condiciones diferentes a las establecidas en el DS N&#xBA; 49 (V. y U.), de 2011, salvo por las indicadas en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3. No obstante lo anterior, los grupos postulantes a este llamado deber&#xE1;n ser ingresados a la plataforma inform&#xE1;tica que este Ministerio ha dispuesto para dichos efectos, debiendo quedar en estado h&#xE1;bil con anterioridad al cierre de dicho llamado, el que no podr&#xE1; superar el<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1056001&amp;idParte=9384936&amp;idVersion=2013-11-13\">Resoluci&#xF3;n 8017 EXENTA,<br>VIVIENDA<br>N&#xBA; 1<br>D.O. 13.11.2013</a></span>&nbsp; 11 de noviembre de 2013. As&#xED; mismo, y con hasta la misma fecha, los proyectos asociados a los grupos postulantes deber&#xE1;n haber sido calificados en el Banco de Proyectos del mismo sistema inform&#xE1;tico.</div><div class=\"p\">&nbsp; &nbsp;  4. El n&#xFA;mero de grupos seleccionados alcanzar&#xE1; hasta el n&#xFA;mero de subsidios susceptibles de financiar con los recursos previsto para el presente concurso, incluidos sus respectivos servicios de asistencia t&#xE9;cnica, inspecci&#xF3;n t&#xE9;cnica de obra y los subsidios complementarios, si corresponde.</div><div class=\"p\">&nbsp; &nbsp;  5. Para los efectos de determinar el n&#xFA;mero de subsidios a financiar se considerar&#xE1;n los montos de subsidios referenciales contemplados en los proyectos calificados a los cuales se encuentran vinculados los grupos postulantes. El monto definitivo a considerar para la aplicaci&#xF3;n del subsidio ser&#xE1; determinado al momento de la adscripci&#xF3;n a &#xE9;ste por parte del postulante seleccionado.</div><div class=\"p\">&nbsp; &nbsp;  6. Mediante resoluci&#xF3;n de la Secretar&#xED;a Regional Ministerial de la Regi&#xF3;n del Biob&#xED;o, que se deber&#xE1; publicar en el Diario Oficial, se aprobar&#xE1; la n&#xF3;mina de grupos seleccionados, la que deber&#xE1; ser informada a la Divisi&#xF3;n de Pol&#xED;tica Habitacional de este Ministerio. La difusi&#xF3;n de dicha n&#xF3;mina podr&#xE1; realizarse en un peri&#xF3;dico de circulaci&#xF3;n regional o nacional u otro medio de comunicaci&#xF3;n p&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  7. Imp&#xFA;tase el monto total de 110.000 Unidades de Fomento, asignado en esta resoluci&#xF3;n, a los recursos autorizados a la Regi&#xF3;n del Biob&#xED;o para el Programa Fondo Solidario de Elecci&#xF3;n de Vivienda del a&#xF1;o 2013.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1056001,
+      "fecha": "2013-11-13"
+    }
+  },
+  {
+    "fecha": "2014-02-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

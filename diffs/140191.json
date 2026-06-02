@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1967-04-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1982-04-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7251175,
+          "old": "<div><div class=\"p\">SOBRE CALIFICACIONES DEL PERSONAL DE LA DIRECCION GENERAL DE OBRAS PUBLICAS Y SERVICIOS DEPENDIENTES </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 6 de Febrero de 1967.- S. E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 140.- Vistas las necesidades del Servicio; lo dispuesto en los art&#xED;culos 16 letra n) y 21 de la ley N&#xBA; 16.582, en el Art. 121 de la ley N&#xBA; 16.617 y en el p&#xE1;rrafo 2&#xBA; del T&#xED;tulo II del DFL. 338, de 1960; y en uso de las atribuciones que me confiere el Art. 72 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">SOBRE CALIFICACIONES DEL PERSONAL DE LA DIRECCION GENERAL DE OBRAS PUBLICAS Y SERVICIOS DEPENDIENTES </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 6 de Febrero de 1967.- S. E. decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 140.- Vistas las necesidades del Servicio; lo dispuesto en los art&#xED;culos 16 letra n) y 21 de la ley N&#xBA; 16.582, en el Art. 121 de la ley N&#xBA; 16.617 y en el p&#xE1;rrafo 2&#xBA; del T&#xED;tulo II del DFL. 338, de 1960; y en uso de las atribuciones que me confiere el Art. 72 de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

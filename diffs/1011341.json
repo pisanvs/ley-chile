@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2010-02-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-07-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8887186,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cense por regi&#xF3;n, los montos que correspondan por aplicaci&#xF3;n del mecanismo de subsidio dispuesto en la Ley N&#xB0;20.378, y la distribuci&#xF3;n que procede, por aplicaci&#xF3;n del decretos N&#xB0; 5, de 2010, del Ministerio de Transportes y Telecomunicaciones, para cada una de las regiones, de acuerdo al siguiente cuadro:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/10945.jpg\"></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cense por regi<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&#xF3;n, los montos que correspondan por aplicaci&#xF3;n del mecanismo de subsidio dispuesto en la Ley N&#xB0;20.378, y la distribuci&#xF3;n que procede, por aplicaci&#xF3;n del decretos N&#xB0; 5, de 2010, del Ministerio de Transportes y Telecomunicaciones, para cada una de las regiones, de acuerdo al siguiente cuadro:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"https://nuevo.leychile.cl/Navegar/imagen/JPG/10945.jpg\"></div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 1 del Decreto 865 Exento, Transportes, publicado el 20.07.2010, modifica la presente norma en el sentido de complementarla, estableciendo la distribuci&#xF3;n que procede, por aplicaci&#xF3;n de los decretos supremos N&#xBA;s. 1, 2 y 4 de 2010, todos del Ministerio de Transportes y Telecomunicaciones, para cada una de las regiones, en conformidad al cuadro que en dicha disposici&#xF3;n se incluye.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2010-12-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8887186,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cense por regi<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&#xF3;n, los montos que correspondan por aplicaci&#xF3;n del mecanismo de subsidio dispuesto en la Ley N&#xB0;20.378, y la distribuci&#xF3;n que procede, por aplicaci&#xF3;n del decretos N&#xB0; 5, de 2010, del Ministerio de Transportes y Telecomunicaciones, para cada una de las regiones, de acuerdo al siguiente cuadro:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"https://nuevo.leychile.cl/Navegar/imagen/JPG/10945.jpg\"></div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 1 del Decreto 865 Exento, Transportes, publicado el 20.07.2010, modifica la presente norma en el sentido de complementarla, estableciendo la distribuci&#xF3;n que procede, por aplicaci&#xF3;n de los decretos supremos N&#xBA;s. 1, 2 y 4 de 2010, todos del Ministerio de Transportes y Telecomunicaciones, para cada una de las regiones, en conformidad al cuadro que en dicha disposici&#xF3;n se incluye.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cense por regi<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&#xF3;n, los montos que correspondan por aplicaci&#xF3;n del mecanismo de subsidio dispuesto en la Ley N&#xB0;20.378, y la distribuci&#xF3;n que procede, por aplicaci&#xF3;n del decretos N&#xB0; 5, de 2010, del Ministerio de Transportes <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>y Telecomunicaciones, para cada una de las regiones, de acuerdo al siguiente cuadro:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/10945.jpg\"></div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 1 del Decreto 865 Exento, Transportes, publicado el 20.07.2010, modifica la presente norma en el sentido de complementarla, estableciendo la distribuci&#xF3;n que procede, por aplicaci&#xF3;n de los decretos supremos N&#xBA;s. 1, 2 y 4 de 2010, todos del Ministerio de Transportes y Telecomunicaciones, para cada una de las regiones, en conformidad al cuadro que en dicha disposici&#xF3;n se incluye.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; I del Decreto 789 Exento, Transportes, publicado el 13.12.2010, complementa la presente norma en el sentido de establecer la distribuci&#xF3;n que procede, por aplicaci&#xF3;n de los decretos supremos N&#xBA;s 1, 2 y 4, de 2010, todos del Ministerio de Transportes y Telecomunicaciones, para cada una de las regiones, en conformidad al cuadro que en dicha disposici&#xF3;n se incluye.</div></div>"
+        }
+      ]
+    }
+  }
+]

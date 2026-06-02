@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2000-06-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-09-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6283185,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;: La precalificaci&#xF3;n que realiza el Jefe Directo estar&#xE1; constituida por los conceptos, notas y antecedentes que &#xE9;ste deber&#xE1; proporcionar por escrito, consider&#xE1;ndose para este efecto las anotaciones efectuadas en la hoja de vida durante el respectivo per&#xED;odo de calificaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Para realizar la precalificaci&#xF3;n, la oficina encargada de Recursos Humanos deber&#xE1; entregar al Jefe Directo dentro de los primeros 3 d&#xED;as del mes de septiembre de cada a&#xF1;o, las hojas de vida del personal de su dependencia y los Informes de Desempe&#xF1;o Funcionario que se aplicar&#xE1; 2 veces en el a&#xF1;o cada cinco meses (septiembre - enero) y (febrero - junio), las que ser&#xE1;n notificadas en su oportunidad al interesado.</div><div class=\"p\">&nbsp; &nbsp;  La oficina de Recursos Humanos tendr&#xE1; un plazo de 3 d&#xED;as h&#xE1;biles, una vez finalizado cada per&#xED;odo en el cual se aplique el Informe de Desempe&#xF1;o Funcionario, para hacer llegar la documentaci&#xF3;n al Jefe Directo, a su vez &#xE9;ste tendr&#xE1; un plazo de 5 d&#xED;as h&#xE1;biles siguientes para emitir el informe y notificar. Los funcionarios podr&#xE1;n emitir observaciones a los informes.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;: La precalificaci&#xF3;n que realiza el Jefe Directo estar&#xE1; constituida por los conceptos, notas y antecedentes que &#xE9;ste deber&#xE1; proporcionar por escrito, consider&#xE1;ndose para este efecto las anotaciones efectuadas en la hoja de vida durante el respectivo per&#xED;odo de calificaci&#xF3;n. Para realizar la precalificaci&#xF3;n, la oficina<span class=\"n\" id=\"n_0\">DTO 178, SALUD<br>Art. &#xFA;nico<br>D.O. 20.09.2005</span> encargada de Recursos Humanos deber&#xE1; entregar al Jefe Directo, dentro de los primeros tres d&#xED;as del mes de septiembre de cada a&#xF1;o, las hojas de vida del personal de su dependencia y los informes de Desempe&#xF1;o Funcionario que se deban considerar; el primero de los cuales comprender&#xE1; el per&#xED;odo que corre entre el 1&#xBA; de septiembre y el &#xFA;ltimo d&#xED;a h&#xE1;bil de febrero, y el segundo, el per&#xED;odo comprendido entre el 1&#xBA; de marzo y el 30 de junio. Las precalificaciones ser&#xE1;n notificadas en su oportunidad al interesado. La oficina de Recursos Humanos tendr&#xE1; un plazo de 3 d&#xED;as h&#xE1;biles, una vez finalizado cada per&#xED;odo en el cual se aplique el Informe de Desempe&#xF1;o Funcionario, para hacer llegar la documentaci&#xF3;n al Jefe Directo, a su vez &#xE9;ste tendr&#xE1; un plazo de 5 d&#xED;as h&#xE1;biles siguientes para emitir el informe y notificar. Los funcionarios podr&#xE1;n emitir observaciones a los informes. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-12-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

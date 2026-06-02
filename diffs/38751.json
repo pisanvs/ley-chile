@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-02-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1994-03-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6021915,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA DESIGNACION DE REPRESENTANTES QUE INDICA EN EL CONSEJO NACIONAL DEL LIBRO Y LA LECTURA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 312 exenta.- Santigo, 17 de Enero de 1994.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, la Ley N&#xB0; 19.227 ha creado el Fondo Nacional de Fomento del Libro y la Lectura y en su art&#xED;culo 5&#xB0;, el Consejo Nacional del Libro y la Lectura, se&#xF1;alando su composici&#xF3;n y atribuciones.</div><div class=\"p\">&nbsp; &nbsp; Que, dicho Consejo est&#xE1; integrado -entre otros personeros- por escritores, editores, distribuidores y libreros, educadores y bibliotecarios, cuya designaci&#xF3;n se sanciona en la forma prevista en el art&#xED;culo 6&#xB0; del decreto supremo de Educaci&#xF3;n N&#xB0;587 de 1993, que reglamenta la Ley N&#xB0; 19.227 de Fomento del Libro y la Lectura.</div><div class=\"p\">&nbsp; &nbsp; Que, se ha acreditado por las instituciones se&#xF1;aladas en las las letras e), f), g) y h) del art&#xED;culo 5&#xB0; de la Ley ya mencionada, que son las m&#xE1;s representativas y han procedido a designar a los integrantes correspondientes ante dicho Consejo; y, Visto: Lo dispuesto en la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica; la glosa 15 de la Ley N&#xB0; 19.182 de 1992, Ley N&#xB0; 19.227 de 1993, Decreto Supremo de Educaci&#xF3;n N&#xB0; 587 de 1993 y en los art&#xED;culos 32 N&#xB0; 08 y 35 de la Constituci&#xF3;n de la Rep&#xFA;blica de Chile;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA DESIGNACION DE REPRESENTANTES QUE INDICA EN EL CONSEJO NACIONAL DEL LIBRO Y LA LECTURA</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 312 exenta.- Santigo, 17 de Enero de 1994.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que, la Ley N&#xB0; 19.227 ha creado el Fondo Nacional de Fomento del Libro y la Lectura y en su art&#xED;culo 5&#xB0;, el Consejo Nacional del Libro y la Lectura, se&#xF1;alando su composici&#xF3;n y atribuciones.</div><div class=\"p\">&nbsp; &nbsp; Que, dicho Consejo est&#xE1; integrado -entre otros personeros- por escritores, editores, distribuidores y libreros, educadores y bibliotecarios, cuya designaci&#xF3;n se sanciona en la forma prevista en el art&#xED;culo 6&#xB0; del decreto supremo de Educaci&#xF3;n N&#xB0;587 de 1993, que reglamenta la Ley N&#xB0; 19.227 de Fomento del Libro y la Lectura.</div><div class=\"p\">&nbsp; &nbsp; Que, se ha acreditado por las instituciones se&#xF1;aladas en las las letras e), f), g) y h) del art&#xED;culo 5&#xB0; de la Ley ya mencionada, que son las m&#xE1;s representativas y han procedido a designar a los integrantes correspondientes ante dicho Consejo; y, Visto: Lo dispuesto en la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica; la glosa 15 de la Ley N&#xB0; 19.182 de 1992, Ley N&#xB0; 19.227 de 1993, Decreto Supremo de Educaci&#xF3;n N&#xB0; 587 de 1993 y en los art&#xED;culos 32 N&#xB0; 08 y 35 de la Constituci&#xF3;n de la Rep&#xFA;blica de Chile;</div><div class=\"p\">&nbsp; &nbsp; Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

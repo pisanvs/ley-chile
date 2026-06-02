@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-05-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-11-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6170462,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; F&#xED;jase como fecha de cumplimiento del art&#xED;culo N&#xBA; 45 del decreto citado en Visto, relacionado con el cumplimiento y acreditaci&#xF3;n de terminales de locomoci&#xF3;n colectiva urbana, el 1 de diciembre del a&#xF1;o 2001, para los servicios de Coyhaique y Puerto Ays&#xE9;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; F&#xED;jase como fecha de cumplimiento del art&#xED;culo N&#xBA; 45 del decreto citado en Visto, relacionado con el cumplimiento y acreditaci&#xF3;n de terminales de locomoci&#xF3;n colectiva urbana, el 1 de diciembre de 2005, para<span class=\"n\" id=\"n_0\">RES 176 EXENTA,<br>TRANSPORTES<br>D.O. 23.11.2001</span> los servicios de Coyhaique y Puerto Ays&#xE9;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

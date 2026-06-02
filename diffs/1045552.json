@@ -1,0 +1,40 @@
+[
+  {
+    "fecha": "2012-11-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-02-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9311440,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5: El procedimiento para la declaraci&#xF3;n de Zona de Inter&#xE9;s Tur&#xED;stico se iniciar&#xE1; con la solicitud de la parte interesada, la que deber&#xE1; ser presentada ante la Secretar&#xED;a Regional Ministerial competente.</div><div class=\"p\">&nbsp; &nbsp;  Si el &#xE1;rea que se pretende declarar comprende territorios situados en m&#xE1;s de una Regi&#xF3;n, la solicitud deber&#xE1; ser presentada ante la Subsecretar&#xED;a. Para los efectos anteriores, la Subsecretar&#xED;a deber&#xE1; informar a la o las Secretar&#xED;as Regionales Ministeriales cuyos territorios se encuentren comprendidos en la solicitud.</div><div class=\"p\">&nbsp; &nbsp;  La Subsecretar&#xED;a elaborar&#xE1; formularios para estos efectos, los que estar&#xE1;n a disposici&#xF3;n de los interesados en su sitio.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5: El procedimiento para la declaraci&#xF3;n de Zona de Inter&#xE9;s Tur&#xED;stico se iniciar&#xE1; con la solicitud de la parte interesada, la que deber&#xE1; ser presentada ante la Secretar&#xED;a Regional Ministerial competente.</div><div class=\"p\">&nbsp; &nbsp;  Si el &#xE1;rea que se pretende declarar comprende territorios situados en m&#xE1;s de una Regi&#xF3;n, la solicitud deber&#xE1; ser presentada ante la Subsecretar&#xED;a. Para los efectos anteriores, la Subsecretar&#xED;a deber&#xE1; informar a la o las Secretar&#xED;as Regionales Ministeriales cuyos territorios se encuentren comprendidos en la solicitud.</div><div class=\"p\">&nbsp; &nbsp;  La Subsecretar&#xED;a<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1048768&amp;idParte=9332665&amp;idVersion=2013-02-09\">Rectificaci&#xF3;n 240<br>a)<br>D.O. 09.02.2013</a></span> elaborar&#xE1; formularios para estos efectos, los que estar&#xE1;n a disposici&#xF3;n de los interesados en su sitio web.</div><br></div>"
+        },
+        {
+          "part_id": 9311468,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 31: D&#xE9;jense sin efecto los <a href=\"https://www.leychile.cl/Navegar?idNorma=13923&amp;idParte=9010324&amp;idVersion=\">art&#xED;culos 3 Nos 22, 25, 26, 27, 28 y 29 del decreto N&#xBA; 515, de 1977, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n</a>.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 31: D&#xE9;jense sin ef<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1048768&amp;idParte=9332665&amp;idVersion=2013-02-09\">Rectificaci&#xF3;n 240<br>b)<br>D.O. 09.02.2013</a></span>ecto los art&#xED;culos 3 N&#xBA; 22; 25; 26; 27; 28; y 29 del decreto N&#xBA; 515, de 1977, del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1048768,
+      "fecha": "2013-02-09"
+    }
+  },
+  {
+    "fecha": "2016-12-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

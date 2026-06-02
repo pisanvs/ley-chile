@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2012-03-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-07-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9245114,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- F&#xED;jase la siguiente planta de personal de la Subsecretar&#xED;a de Servicios Sociales, que se indica a continuaci&#xF3;n:</div><br><div class=\"p\">A)&nbsp;  PLANTA DE DIRECTIVOS</div><br><div class=\"p\">&nbsp; &nbsp;  I.- Autoridades de Gobierno</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25167.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  II.- Directivos de exclusiva confianza</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25168.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  III.- Directivos afectos al art&#xED;culo 8&#xB0; de la Ley N&#xB0; 18.834, cuyo texto refundido, coordinado y sistematizado fue fijado por el Decreto con Fuerza de Ley N&#xB0; 29 de 2004, del Ministerio de Hacienda.</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25169.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  IV.- Jefes de Secci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25170.jpg\"></div><br><div class=\"p\">B)&nbsp;  PLANTA DE PROFESIONALES</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25172.jpg\"></div><br><div class=\"p\">C)&nbsp;  PLANTA DE T&#xC9;CNICOS</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25173.jpg\"></div><br><div class=\"p\">D)&nbsp;  PLANTA DE ADMINISTRATIVOS</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25174.jpg\"></div><br><div class=\"p\">E)&nbsp;  PLANTA DE AUXILIARES</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25175.jpg\"></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- F&#xED;jase la siguiente planta de personal de la Subsecretar&#xED;a de Servicios Sociales, que se indica a continuaci&#xF3;n:</div><br><div class=\"p\">A)&nbsp;  PLANTA DE DIRECTIVOS</div><br><div class=\"p\">&nbsp; &nbsp;  I.- Autoridades de Gobierno</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25167.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  II.- Directivos de exclusiva confianza<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25168.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  III.- Directivos afectos al art&#xED;culo 8&#xB0; de la Ley N&#xB0; 18.834, cuyo texto refundido, coordinado y sistematizado fue fijado por el Decreto con Fuerza de Ley N&#xB0; 29 de 2004, del Ministerio de Hacienda.</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25169.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  IV.- Jefes de Secci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25170.jpg\"></div><br><div class=\"p\">B)&nbsp;  PLANTA DE PROFESIONALES</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25172.jpg\"></div><br><div class=\"p\">C)&nbsp;  PLANTA DE T&#xC9;CNICOS</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25173.jpg\"></div><br><div class=\"p\">D)&nbsp;  PLANTA DE ADMINISTRATIVOS</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25174.jpg\"></div><br><div class=\"p\">E)&nbsp;  PLANTA DE AUXILIARES</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/25175.jpg\"></div><br><br><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del Decreto con Fuerza de Ley 6, Hacienda, publicado el 09.07.2018, crea un cargo de Secretario Regional Ministerial, grado 4&#xB0;, en la planta de personal de Directivos de Exclusiva Confianza de la Subsecretar&#xED;a de Servicios Sociales.</div></div>"
+        }
+      ]
+    }
+  }
+]

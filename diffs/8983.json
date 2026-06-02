@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-04-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-09-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7137048,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA PLANES Y PROGRAMAS DE ESTUDIO PARA ATENDER TRASTORNOS ESPECIFICOS DE APRENDIZAJE</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 88 exento.- Santiago, 5 de Marzo de 1990.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que los resultados de las &#xFA;ltimas investigaciones han modificado los aspectos conceptuales de los denominados trastornos espec&#xED;ficos del Aprendizaje;</div><div class=\"p\">&nbsp; &nbsp; Que las mayores dificultades en el rendimiento escolar de los alumnos de la Educaci&#xF3;n General B&#xE1;sica se relacionan con el aprendizaje de la lectura, escritura y c&#xE1;lculo;</div><div class=\"p\">&nbsp; &nbsp; Que los resultados de la evaluaci&#xF3;n de los planes y programas que aplican los grupos diferenciales, indican la conveniencia de reactualizar el enfoque metodol&#xF3;gico de estos planes y programas que aseguren la atenci&#xF3;n del alumno, sin marginarlo de su escolaridad regular; y Visto: Lo dispuesto en los decretos supremos de Educaci&#xF3;n N&#xB0;s. 2.039 y 9.555, ambos de 1980, Resoluci&#xF3;n N&#xB0; 1.050, de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica, y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA PLANES Y PROGRAMAS DE ESTUDIO PARA ATENDER TRASTORNOS ESPECIFICOS DE APRENDIZAJE</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 88 exento.- Santiago, 5 de Marzo de 1990.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; Que los resultados de las &#xFA;ltimas investigaciones han modificado los aspectos conceptuales de los denominados trastornos espec&#xED;ficos del Aprendizaje;</div><div class=\"p\">&nbsp; &nbsp; Que las mayores dificultades en el rendimiento escolar de los alumnos de la Educaci&#xF3;n General B&#xE1;sica se relacionan con el aprendizaje de la lectura, escritura y c&#xE1;lculo;</div><div class=\"p\">&nbsp; &nbsp; Que los resultados de la evaluaci&#xF3;n de los planes y programas que aplican los grupos diferenciales, indican la conveniencia de reactualizar el enfoque metodol&#xF3;gico de estos planes y programas que aseguren la atenci&#xF3;n del alumno, sin marginarlo de su escolaridad regular; y Visto: Lo dispuesto en los decretos supremos de Educaci&#xF3;n N&#xB0;s. 2.039 y 9.555, ambos de 1980, Resoluci&#xF3;n N&#xB0; 1.050, de 1980, de la Contralor&#xED;a General de la Rep&#xFA;blica, y en los art&#xED;culos 32 N&#xB0; 8 y 35 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, </div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

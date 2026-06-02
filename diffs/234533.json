@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-01-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-11-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7317494,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: As&#xED;gnase a la Secretar&#xED;a Ministerial de Educaci&#xF3;n de la XII Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena, el veh&#xED;culo que se indica a continuaci&#xF3;n:</div><div class=\"p\"> Veh&#xED;culo&nbsp; :&nbsp; &nbsp;  Autom&#xF3;vil</div><div class=\"p\">&nbsp; Marca&nbsp; :&nbsp; &nbsp; &nbsp; &nbsp; Nissan</div><div class=\"p\">&nbsp; Modelo&nbsp; :&nbsp; &nbsp; &nbsp;  DATALCAB15EHANDR</div><div class=\"p\">&nbsp; A&#xF1;o</div><div class=\"p\">&nbsp; fabricaci&#xF3;n&nbsp; :&nbsp; 2004</div><div class=\"p\">&nbsp; N&#xBA; Motor&nbsp; :&nbsp; &nbsp;  QG18794825R</div><div class=\"p\">&nbsp; N&#xBA; Chasis&nbsp; :&nbsp; &nbsp; 3N1CB51S2ZL025361</div><div class=\"p\">&nbsp; Reg. Nacional Veh&#xED;culos</div><div class=\"p\">&nbsp; Motorizados&nbsp; :&nbsp; XV.2896-4 Placa &#xFA;nica&nbsp; :&nbsp; XV.2896-4</div><div class=\"p\"> </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: DEROGADO<span class=\"n\" id=\"n_0\">DTO 1375 EXENTO,<br>EDUCACION<br>Art. Segundo<br>D.O. 03.11.2007</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

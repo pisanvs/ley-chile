@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2000-10-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-08-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6304293,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cese a contar del 15 de octubre de 2000, en 10 a&#xF1;os la antig&#xFC;edad m&#xE1;xima que deber&#xE1;n tener los buses para incorporarse a los servicios de locomoci&#xF3;n colectiva urbana en la ciudad de Ovalle.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cese a contar del 15 de octubre de 2000, en 12 <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1053568&amp;idParte=9370032&amp;idVersion=2013-08-13\">Resoluci&#xF3;n 290 EXENTA,<br>TRANSPORTES<br>D.O. 13.08.2013</a></span>a&#xF1;os la antig&#xFC;edad m&#xE1;xima que deber&#xE1;n tener los buses para incorporarse a los servicios de locomoci&#xF3;n colectiva urbana en la ciudad de Ovalle.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1053568,
+      "fecha": "2013-08-13"
+    }
+  }
+]

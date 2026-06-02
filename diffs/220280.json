@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-01-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-02-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6459789,
+          "old": "<div><div class=\"p\">APRUEBA METODOLOGIA DE SELECCION QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  Copiap&#xF3;, 14 de enero de 2004.- Con esta fecha se ha dictado la siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 19 exenta.- Visto y considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  a) El decreto supremo N&#xBA; 235 de (V. y U.) de 1985, que Reglamenta el Sistema de participaci&#xF3;n de las instituciones del sector vivienda en Programas Especiales, en especial lo establecido en el inciso sexto del art&#xED;culo N&#xBA; 23 y sus modificaciones posteriores;</div><div class=\"p\">&nbsp; &nbsp;  b) La circular N&#xBA; 160 de fecha 28 de noviembre de 2003 de Subsecretar&#xED;a de Vivienda y Urbanismo, donde comunica el Programa Habitacional para el a&#xF1;o 2004 y da las instrucciones al respecto;</div><div class=\"p\">&nbsp; &nbsp;  c) La resoluci&#xF3;n N&#xBA; 520 del 15 de noviembre de 1996 de la Contralor&#xED;a General de la Rep&#xFA;blica, las facultades conferidas en el DL N&#xBA; 1.305 de fecha 26 de diciembre de 1976, el DS N&#xBA; 397 del 24 de noviembre de 1976 y DS N&#xBA; 112 del 31 de marzo de 2000, todos de Vivienda y Urbanismo;</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n </div></div>",
+          "new": "<div><div class=\"p\">APRUEBA METODOLOGIA DE SELECCION QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  Copiap&#xF3;, 14 de enero de 2004.- Con esta fecha se ha dictado la siguiente:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 19 exenta.- Visto y considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  a) El decreto supremo N&#xBA; 235 de (V. y U.) de 1985, que Reglamenta el Sistema de participaci&#xF3;n de las instituciones del sector vivienda en Programas Especiales, en especial lo establecido en el inciso sexto del art&#xED;culo N&#xBA; 23 y sus modificaciones posteriores;</div><div class=\"p\">&nbsp; &nbsp;  b) La circular N&#xBA; 160 de fecha 28 de noviembre de 2003 de Subsecretar&#xED;a de Vivienda y Urbanismo, donde comunica el Programa Habitacional para el a&#xF1;o 2004 y da las instrucciones al respecto;</div><div class=\"p\">&nbsp; &nbsp;  c) La resoluci&#xF3;n N&#xBA; 520 del 15 de noviembre de 1996 de la Contralor&#xED;a General de la Rep&#xFA;blica, las facultades conferidas en el DL N&#xBA; 1.305 de fecha 26 de diciembre de 1976, el DS N&#xBA; 397 del 24 de noviembre de 1976 y DS N&#xBA; 112 del 31 de marzo de 2000, todos de Vivienda y Urbanismo;</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

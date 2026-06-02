@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1999-07-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-01-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6176093,
+          "old": "<div><div class=\"p\">DECLARA INSTITUCION OFICIAL DE CONTROL TECNICO DE CALIDAD DE LOS MATERIALES Y ELEMENTOS INDUSTRIALES PARA LA CONSTRUCCION</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 19 de mayo de 1999.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">N&#xFA;m. 254.- Visto: Lo dispuesto en el art&#xED;culo 5.5.1. del D.S. N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones; las facultades que me otorga el D.L. N&#xBA; 1.305 de 1976 y la resoluci&#xF3;n N&#xBA; 317, (V. y U.), de 1995, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i o n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DECLARA INSTITUCION OFICIAL DE CONTROL TECNICO DE CALIDAD DE LOS MATERIALES Y ELEMENTOS INDUSTRIALES PARA LA CONSTRUCCION</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 19 de mayo de 1999.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">N&#xFA;m. 254.- Visto: Lo dispuesto en el art&#xED;culo 5.5.1. del D.S. N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones; las facultades que me otorga el D.L. N&#xBA; 1.305 de 1976 y la resoluci&#xF3;n N&#xBA; 317, (V. y U.), de 1995, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  R e s o l u c i o n:</div><br><br></div>"
+        },
+        {
+          "part_id": 6176094,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Decl&#xE1;rase Instituci&#xF3;n Oficial de Control T&#xE9;cnico de Calidad de los Materiales y Elementos Industriales para la Construcci&#xF3;n al laboratorio Dictuc S.A., con domicilio en Alvarez N&#xBA; 2132, ciudad de Vi&#xF1;a del Mar, en las siguientes &#xE1;reas y especialidades:</div><br><div class=\"p\">Area&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Especialidad</div><br><div class=\"p\">Mec&#xE1;nica de Sueldos&nbsp; &nbsp; &nbsp; Pavimentos</div><div class=\"p\">Hormig&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Obras de Edificaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  y Pavimentaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Tendr&#xE1; la calidad de responsable de la Instituci&#xF3;n y de las distintas &#xE1;reas la Sra. Lilian Berr&#xED;os Ugarte, Ingeniero Civil.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Der&#xF3;gase la resoluci&#xF3;n N&#xBA; 522 del 17 de noviembre de 1995, de este Ministerio, publicada en el Diario Oficial el d&#xED;a 23 de diciembre de 1995.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Decl&#xE1;rase Instituci&#xF3;n Oficial de Control<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> T&#xE9;cnico de Calidad de los Materiales y Elementos Industriales para la Construcci&#xF3;n al laboratorio Dictuc S.A., con domicilio en Alvarez N&#xBA; 2132, ciudad de Vi&#xF1;a del Mar, en las siguientes &#xE1;reas y especialidades:</div><br><div class=\"p\">Area&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Especialidad</div><br><div class=\"p\">Mec&#xE1;nica de Sueldos&nbsp; &nbsp; &nbsp; Pavimentos</div><div class=\"p\">Hormig&#xF3;n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Obras de Edificaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; y Pavimentaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Tendr&#xE1; la calidad de responsable de la Instituci&#xF3;n y de las distintas &#xE1;reas la Sra. Lilian Berr&#xED;os Ugarte, Ingeniero Civil.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Der&#xF3;gase la resoluci&#xF3;n N&#xBA; 522 del 17 de noviembre de 1995, de este Ministerio, publicada en el Diario Oficial el d&#xED;a 23 de diciembre de 1995.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; La RES 662, Vivienda, publicada el 24.01.2004, modifica la presente norma, en el sentido de incorporar a don Carlos Videla Cifuentes, ingeniero civil, como profesional responsable del Area Hormig&#xF3;n y Mec&#xE1;nica de Suelos.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

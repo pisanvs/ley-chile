@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-09-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-05-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6132123,
+          "old": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.461.- Santiago, 4 de septiembre de 1998.- Vistos: Estos antecedentes, oficio del Instituto Nacional de Normalizaci&#xF3;n Ref. 13796-300 de 13 de julio de 1998, el oficio de la Superintendencia de Servicios Sanitarios, Ord. N&#xBA; 1.688 de 11 de agosto de 1998, el oficio de la Direcci&#xF3;n General de Obras P&#xFA;blicas Ord. N&#xBA; 1.265 de 17 de agosto de 1998, y lo dispuesto en el D.S. N&#xBA; 654 de 1994, del Ministerio del Interior,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DECLARA NORMA OFICIAL DE LA REPUBLICA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1.461.- Santiago, 4 de septiembre de 1998.- Vistos: Estos antecedentes, oficio del Instituto Nacional de Normalizaci&#xF3;n Ref. 13796-300 de 13 de julio de 1998, el oficio de la Superintendencia de Servicios Sanitarios, Ord. N&#xBA; 1.688 de 11 de agosto de 1998, el oficio de la Direcci&#xF3;n General de Obras P&#xFA;blicas Ord. N&#xBA; 1.265 de 17 de agosto de 1998, y lo dispuesto en el D.S. N&#xBA; 654 de 1994, del Ministerio del Interior,</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

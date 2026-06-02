@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-11-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-02-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6139241,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 1&#xBA;: N&#xF3;mbrase a contar del 1&#xBA; de septiembre de 1998, a don Luis Francisco Olivares Mel&#xE9;ndez, R.U.T. N&#xBA; 2.870.594-8, como Rector Subrogante de la Universidad de Valpara&#xED;so, Grado 1&#xBA;, quien ejercer&#xE1; el cargo hasta el 31 de diciembre del presente a&#xF1;o o hasta el nombramiento de Rector Titular, si ello ocurre con anterioridad a dicha fecha.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; Art&#xED;culo 1&#xBA;: N&#xF3;mbrase a contar del 1&#xBA; de septiembre de 1998, a don Luis Francisco Olivares Mel&#xE9;ndez, R.U.T. N&#xBA; 2.870.594-8, como Rector Subrogante de la Universidad de Valpara&#xED;so, Grado 1&#xBA;, quien ejercer&#xE1; el cargo hasta el 31 de diciembre del presente a&#xF1;o o hasta el nombramiento de Rector Titular,<span class=\"n\" id=\"n_0\">DTO 743, EDUCACION<br>Art Unico<br>D.O. 17.02.1999</span> </div></div>"
+        }
+      ]
+    }
+  }
+]

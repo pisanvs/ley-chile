@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-04-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-06-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6420186,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto exento N&#xBA; 165 de fecha 20 de marzo de 2003, de Educaci&#xF3;n, recon&#xF3;cese oficialmente a la Universidad de Puerto Varas de la ciudad de Puerto Varas, inscrita en el Registro de Universidades bajo el folio C-N&#xBA; 79 de fecha 5 de junio de 2001.</div><br><div class=\"p\">&nbsp; &nbsp;  La Universidad de Puerto Varas podr&#xE1; iniciar sus actividades acad&#xE9;micas, a contar del a&#xF1;o 2003, impartiendo las carreras profesionales, grados acad&#xE9;micos y t&#xED;tulos profesionales que se indican:</div><br><div class=\"p\">Carrera&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : Ingenier&#xED;a Comercial (jornada</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  diurna)</div><div class=\"p\">Grado Acad&#xE9;mico&nbsp;  : Licenciado en Ciencias en la</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Administraci&#xF3;n de Empresas.</div><div class=\"p\">T&#xED;tulo Profesional: Ingeniero Comercial.</div><br><div class=\"p\">Carrera&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : Arquitectura (jornada diurna)</div><div class=\"p\">Grado Acad&#xE9;mico&nbsp;  : Licenciado en Arquitectura.</div><div class=\"p\">T&#xED;tulo Profesional: Arquitecto.</div><br><div class=\"p\">Carrera&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : Ingenier&#xED;a Civil de Industrias</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  (jornada diurna)</div><div class=\"p\">Grado Acad&#xE9;mico&nbsp;  : Licenciado&nbsp; en&nbsp; Ciencias de la</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ingenier&#xED;a.</div><div class=\"p\">T&#xED;tulo Profesional: Ingeniero Civil Industrial.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto exento N&#xBA; 165 de fecha 20 de marzo de 2003, de Educaci&#xF3;n, recon&#xF3;cese oficialmente a la Universidad de Puerto Varas de la ciudad de Puerto Varas, inscrita en el Registro de Universidades bajo el folio C-N&#xBA; 79 de fecha 5 de junio de 2001.</div><br><div class=\"p\">&nbsp; &nbsp;  La Universidad de Puerto Varas podr&#xE1; iniciar sus actividades acad&#xE9;micas, a contar del a&#xF1;o 2003, impartiendo las carreras profesionales, grados acad&#xE9;micos y t&#xED;tulos profesionales que se indican:</div><br><div class=\"p\">Carrera&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : Ingenier&#xED;a Comercial (jornada</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; diurna)</div><div class=\"p\">Grado Acad&#xE9;mico&nbsp;  : Licenciado en Ciencias en la</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Administraci&#xF3;n de Empresas.</div><div class=\"p\">T&#xED;tulo Profesional: Ingeniero Comercial.</div><br><div class=\"p\">Carrera&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : Arquitectura (jornada diurna)</div><div class=\"p\">Grado Acad&#xE9;mico&nbsp;  : Licenciado en Arquitectura.</div><div class=\"p\">T&#xED;tulo Profesional: Arquitecto.</div><br><div class=\"p\">Carrera&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : Ingenier&#xED;a Civil de Industrias</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (jornada diurna)</div><div class=\"p\">Grado Acad&#xE9;mico&nbsp;  : Licenciado en Ciencias de la</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ingenier&#xED;a.</div><div class=\"p\">T&#xED;tulo Profesional: Ingeniero Civil de Industrias.<span class=\"n\" id=\"n_0\">DTO 328 EXENTO,<br>EDUCACION<br>D.O. 07.06.2003</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

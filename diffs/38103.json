@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-01-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-04-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6020034,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA A LA SOCIEDAD CHILENA PULLMAN CARGO S.A. PARA EFECTUAR TRANSPORTE INTERNACIONAL TERRESTRE DE PASAJEROS </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; AUTORIZA A LA SOCIEDAD CHILENA PULLMAN CARGO S.A. PARA EFECTUAR TRANSPORTE INTERNACIONAL TERRESTRE DE PASAJEROS</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

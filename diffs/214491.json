@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-09-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6438918,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Autor&#xED;zase el enriquecimiento de los productos alimenticios en base a cereales &quot;Avena; Avena, Nuez y Miel; Cereal con Frutas; Muesli con Frutas; Salvado y Multi Grano 7 tipos&quot;, marca &quot;President&apos;s Choice&quot;, los cuales ser&#xE1;n importados a Chile por la empresa D &amp; S S.A. y cuya porci&#xF3;n de consumo habitual es de 30 g, en la forma que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp;  Por cada 100 g de producto:</div><br><div class=\"p\">NOTA: VER D.O. DEL 08.09.2003, PAGINA 3</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Autor&#xED;zase el enriquecimiento de los productos alimenticios en base a cereales &quot;Avena; Avena, Nuez y Miel; Cereal con Frutas; Muesli con Frutas; Salvado y Multi Grano 7 tipos&quot;, marca &quot;President&apos;s Choice&quot;, los cuales ser&#xE1;n importados a Chile por la empresa D &amp; S S.A. y cuya porci&#xF3;n de consumo habitual es de 30 g, en la forma que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp;  Por cada 100 g de producto:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA: La RES 961 exenta, del Ministerio de Salud,</a> <br> publicada en el D.O. del 24.09.2003 ha modificado la presente norma, modificaci&#xF3;n que no ha podido incorporarse por razones t&#xE9;cnicas temporales.<br><br><br></div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\"> NOTA: VER D.O. DEL 08.09.2003, PAGINA 3&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NOTA</a> <br> </div></div>"
+        }
+      ]
+    }
+  }
+]

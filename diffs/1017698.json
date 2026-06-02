@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2010-10-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-04-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9015838,
+          "old": "<div><br><div class=\"p\">CREA Y REGLAMENTA EL SERVICIO POSTAL DENOMINADO &quot;SERVICIO DE DISTRIBUCI&#xD3;N DE ENCOMIENDA EXPRESA DE CORREOSCHILE&quot;</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 66 exenta.- Santiago, 4 de octubre de 2010.- Vistos y considerando: El art&#xED;culo 2&#xBA; del DFL N&#xBA; 10 de 1981 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; el decreto N&#xBA; 5.037 de 1960 y el decreto N&#xBA; 748 de 1962, ambos del Ministerio del Interior; el Acuerdo N&#xBA; 74/2010 del Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n Cuatrig&#xE9;sima Ordinaria de fecha 6 de septiembre de 2010; la resoluci&#xF3;n N&#xBA; 1.600 de 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las facultades que me confiere la resoluci&#xF3;n N&#xBA; 1 de 2002, de la Empresa de Correos de Chile, y la resoluci&#xF3;n exenta N&#xBA; 44 de 2010, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div></div>",
+          "new": "<div><br><div class=\"p\">CREA Y REGLAMENTA EL SERVICIO POSTAL DENOMINADO &quot;SERVICIO DE DISTRIBUCI&#xD3;N DE ENCOMIENDA EXPRESA DE CORREOSCHILE&quot; <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 66 exenta.- Santiago, 4 de octubre de 2010.- Vistos y considerando: El art&#xED;culo 2&#xBA; del DFL N&#xBA; 10 de 1981 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; el decreto N&#xBA; 5.037 de 1960 y el decreto N&#xBA; 748 de 1962, ambos del Ministerio del Interior; el Acuerdo N&#xBA; 74/2010 del Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n Cuatrig&#xE9;sima Ordinaria de fecha 6 de septiembre de 2010; la resoluci&#xF3;n N&#xBA; 1.600 de 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las facultades que me confiere la resoluci&#xF3;n N&#xBA; 1 de 2002, de la Empresa de Correos de Chile, y la resoluci&#xF3;n exenta N&#xBA; 44 de 2010, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 13 exenta, Transportes, publicada el 09.04.2011 modifica la presente norma en su numeral 1 de la manera que en ella se indica.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2011-08-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9015838,
+          "old": "<div><br><div class=\"p\">CREA Y REGLAMENTA EL SERVICIO POSTAL DENOMINADO &quot;SERVICIO DE DISTRIBUCI&#xD3;N DE ENCOMIENDA EXPRESA DE CORREOSCHILE&quot; <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 66 exenta.- Santiago, 4 de octubre de 2010.- Vistos y considerando: El art&#xED;culo 2&#xBA; del DFL N&#xBA; 10 de 1981 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; el decreto N&#xBA; 5.037 de 1960 y el decreto N&#xBA; 748 de 1962, ambos del Ministerio del Interior; el Acuerdo N&#xBA; 74/2010 del Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n Cuatrig&#xE9;sima Ordinaria de fecha 6 de septiembre de 2010; la resoluci&#xF3;n N&#xBA; 1.600 de 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las facultades que me confiere la resoluci&#xF3;n N&#xBA; 1 de 2002, de la Empresa de Correos de Chile, y la resoluci&#xF3;n exenta N&#xBA; 44 de 2010, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 13 exenta, Transportes, publicada el 09.04.2011 modifica la presente norma en su numeral 1 de la manera que en ella se indica.</div></div>",
+          "new": "<div><br><div class=\"p\">CREA Y REGLAMENTA EL SERVICIO POSTAL DENOMINADO &quot;SERVICIO DE DISTRIBUCI&#xD3;N DE ENCOMIENDA EXPRESA DE CORREOSCHILE&quot; <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 66 exenta.- Santiago, 4 de octubre de 2010.- Vistos y considerando: El art&#xED;culo 2&#xBA; del DFL N&#xBA; 10 de 1981 del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Telecomunicaciones; el decreto N&#xBA; 5.037 de 1960 y el decreto N&#xBA; 748 de 1962, ambos del Ministerio del Interior; el Acuerdo N&#xBA; 74/2010 del Directorio de la Empresa de Correos de Chile, adoptado en la Sesi&#xF3;n Cuatrig&#xE9;sima Ordinaria de fecha 6 de septiembre de 2010; la resoluci&#xF3;n N&#xBA; 1.600 de 2008, de la Contralor&#xED;a General de la Rep&#xFA;blica; y en uso de las facultades que me confiere la resoluci&#xF3;n N&#xBA; 1 de 2002, de la Empresa de Correos de Chile, y la resoluci&#xF3;n exenta N&#xBA; 44 de 2010, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 13 exenta, Transportes, publicada el 09.04.2011 modifica la presente norma en su numeral 1 de la manera que en ella se indica.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El N&#xFA;mero II de la Resoluci&#xF3;n 58 exenta, Correos de Chile, publicada el 20.08.2011 modifica la presente norma en el sentido que en ella se indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

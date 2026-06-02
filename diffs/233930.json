@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2004-12-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-12-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8652127,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17.- Los hijos de las v&#xED;ctimas de violaciones a los derechos humanos individualizadas en los anexos &quot;Listado de Prisioneros Pol&#xED;ticos y Torturados&quot; y &quot;Menores de Edad Nacidos en Prisi&#xF3;n o Detenidos con sus Padres&quot; de la N&#xF3;mina de Personas Reconocidas como V&#xED;ctimas, que forma parte del Informe de la Comisi&#xF3;n Nacional sobre Prisi&#xF3;n Pol&#xED;tica y Tortura, y que as&#xED; lo decidan, estar&#xE1;n exentos de realizar el Servicio Militar Obligatorio.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1008867&amp;idParte=8813363&amp;idVersion=2009-12-10\">Ley 20405<br>Art. 13<br>D.O. 10.12.2009</a></span>&nbsp; &nbsp;  Art&#xED;culo 17.- Los parientes hasta segundo grado en la l&#xED;nea recta y hasta cuarto en la l&#xED;nea colateral, inclusive, de las v&#xED;ctimas de violaciones a los derechos humanos individualizadas en los anexos &quot;Listado de Prisioneros Pol&#xED;ticos y Torturados&quot; y &quot;Menores de Edad Nacidos en Prisi&#xF3;n o Detenidos con sus Padres&quot; de la N&#xF3;mina de Personas Reconocidas como V&#xED;ctimas, que forma parte del Informe de la Comisi&#xF3;n Nacional sobre Prisi&#xF3;n Pol&#xED;tica y Tortura, y de aqu&#xE9;llas individualizadas como tales conforme a leyes posteriores, y que as&#xED; lo decidan, estar&#xE1;n exentos de realizar el Servicio Militar Obligatorio.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1008867,
+      "fecha": "2009-12-10"
+    }
+  }
+]

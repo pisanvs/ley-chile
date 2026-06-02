@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-01-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-08-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5850719,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA DERECHOS MUNICIPALES POR PERMISOS, CONCESIONES Y SERVICIOS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.- Pedro Aguirre Cerda, 25 de Enero de 1994.- Vistos: La necesidad de reactualizar la Ordenanza Municipal N&#xB0; 01, de fecha 31 de Diciembre de 1991; los art&#xED;culos 41, 42 y 43 del Decreto Ley N&#xB0; 3.063 de 1979, sobre Rentas Municipales y teniendo presente las facultades que me confiere la Ley N&#xB0; 18.695, Org&#xE1;nica Constitucional de Municipalidades y, el acuerdo del Concejo Municipal adoptado en sesi&#xF3;n extraordinaria N&#xB0; 01, de fecha 24 de Enero de 1994, vengo en</div><div class=\"p\">&nbsp; &nbsp; dictar la siguiente:</div><div class=\"p\">&nbsp; &nbsp; Ordenanza </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA DERECHOS MUNICIPALES POR PERMISOS, CONCESIONES Y SERVICIOS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.- Pedro Aguirre Cerda, 25 de Enero de 1994.- Vistos: La necesidad de reactualizar la Ordenanza Municipal <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>N&#xB0; 01, de fecha 31 de Diciembre de 1991; los art&#xED;culos 41, 42 y 43 del Decreto Ley N&#xB0; 3.063 de 1979, sobre Rentas Municipales y teniendo presente las facultades que me confiere la Ley N&#xB0; 18.695, Org&#xE1;nica Constitucional de Municipalidades y, el acuerdo del Concejo Municipal adoptado en sesi&#xF3;n extraordinaria N&#xB0; 01, de fecha 24 de Enero de 1994, vengo en</div><div class=\"p\">&nbsp; &nbsp; dictar la siguiente:</div><br><br><div class=\"p\">&nbsp; &nbsp; Ordenanza </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 2049 Exento, Municipalidad de Pedro Aguirre Cerda, publicado el 05.08.2017, modifica la presente norma, sin embargo, dichas actualizaciones no se han efectuado por no disponer de los textos para construir su versi&#xF3;n actualizada.</div></div>"
+        }
+      ]
+    }
+  }
+]

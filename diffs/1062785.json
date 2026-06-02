@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-05-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-08-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9476395,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Ac&#xF3;gese la solicitud de inscripci&#xF3;n de la entidad denominada &quot;Partido Ecologista Verde&quot; en las Regiones I de Tarapac&#xE1;, II de Antofagasta, III de Atacama, Metropolitana de Santiago, VIII del Biob&#xED;o, XIV de Los R&#xED;os, X de Los Lagos y XI de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo.</div><div class=\"p\">&nbsp; &nbsp;  2.- Inscr&#xED;base al partido en el Registro de Partidos Pol&#xED;ticos una vez transcurrido el plazo contemplado en el art&#xED;culo 14 de la mencionada ley.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1065643&amp;idParte=9499314&amp;idVersion=2014-08-21\">Resoluci&#xF3;n 2387,<br>SERVICIO ELECTORAL<br>D.O. 21.08.2014</a></span>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Ac&#xF3;gese la solicitud de inscripci&#xF3;n de la entidad denominada &quot;Partido Ecologista Verde&quot; en las Regiones I de Tarapac&#xE1;, II de Antofagasta, III de Atacama, IV Regi&#xF3;n de Coquimbo, Metropolitana de Santiago, VIII del Biob&#xED;o, XIV de Los R&#xED;os, X de Los Lagos y XI de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo.</div><div class=\"p\">&nbsp; &nbsp;  2.- Inscr&#xED;base al partido en el Registro de Partidos Pol&#xED;ticos una vez transcurrido el plazo contemplado en el art&#xED;culo 14 de la mencionada ley.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1065643,
+      "fecha": "2014-08-21"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1998-08-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-11-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7237637,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: N&#xF3;mbrase, a contar del 17 de agosto de 1998, a don Ubaldo Amable Z&#xFA;&#xF1;iga Quintanilla, R.U.T. N&#xBA; 5.537.312-6, como Rector de la Universidad de Santiago de Chile, Grado 1&#xBA;, por un per&#xED;odo legal de cuatro a&#xF1;os. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;: N&#xF3;mbrase, a contar del 17 de agosto de 1998, a don Ubaldo Amable Z&#xFA;&#xF1;iga Quintanilla, R.U.T. N&#xBA;<span class=\"n\" id=\"n_0\">DTO 482, EDUCACION<br>Art. Unico<br>D.O. 04.11.1998</span> 5.357.312-6, como Rector de la Universidad de Santiago de Chile, Grado 1&#xBA;, por un per&#xED;odo legal de cuatro a&#xF1;os. </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2002-10-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2002-12-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6398787,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 552 EXENTA, DE 2002 </div></div>",
+          "new": "<div><br><div class=\"p\">EXTRACTO DE RESOLUCION N&#xBA; 552 EXENTA, DE 2002<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> </div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; L a presente norma fue derogada por la RES 655 Exenta, Hacienda, publicada el 03.12.2002. Sin embargo, la RES-S/N, Hacienda, publicada el 07.03.2005, la modifica.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

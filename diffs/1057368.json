@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-01-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9392914,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por Decreto M.O.P. (Exento) N&#xBA; 2315, de 29 de noviembre de 2013, y en base a la facultad otorgada por los art&#xED;culos 3&#xBA; letra a), 14 letra e) y 105 del D.F.L. M.O.P. N&#xBA;850, de 1997, que fij&#xF3; el texto refundido, coordinado y sistematizado de la Ley N&#xBA;15.840 y del DFL. MOP. N&#xBA;206, de 1960, se expropiaron los lotes de terreno N&#xBA;s. 70, 71, 72, 73 y 74, para la obra: &quot;CONSTRUCCI&#xD3;N EMBALSE PUNILLA, REGI&#xD3;N DEL BIOB&#xCD;O&quot;, que figuran a nombre de CONTRERAS GARRIDO SILVIA ROSA, HENNING CONTRERAS RENE LEONEL Y OT, GONZALEZ MELENDEZ JOSE SANTOS y ALVAREZ RODRIGUEZ JOSE Y OTRO, roles de aval&#xFA;o 59-196, 59-8, 59-74 y 59-58, Comuna de SAN FABI&#xC1;N, VIII Regi&#xF3;n del B&#xED;o B&#xED;o, superficies 36.418 m2, 75.132 m2, 12.454 m2, 19.462 m2 y 11.071 m2. respectivamente. La Comisi&#xF3;n de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, MAR&#xCD;A ISABEL DE JES&#xDA;S R&#xCD;OS MARCUELLO y NORMAN ESTANISLAO CALDER&#xD3;N PONTIGGIA, mediante informe de tasaci&#xF3;n de 04 de diciembre de 2013, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $8.506.500.-, para el lote N&#xBA;70, $44.588.650.-, para el lote N&#xBA;71, $4.726.750.-, para el lote N&#xBA;72, $11.137.800.- para el lote N&#xBA;73 y $10.674.400.- para el lote N&#xBA;74. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1057714&amp;idParte=9395533&amp;idVersion=2014-01-02\">Aviso S/N,<br>OBRAS P&#xDA;BLICAS<br>D.O. 02.01.2014</a></span>&nbsp; &nbsp;  Por Decreto M.O.P. (Exento) N&#xBA; 2315 de 9 de diciembre de 2013, y en base a la facultad otorgada por los art&#xED;culos 3&#xBA; letra a), 14 letra e) y 105 del D.F.L. M.O.P. N&#xBA;850, de 1997, que fij&#xF3; el texto refundido, coordinado y sistematizado de la Ley N&#xBA;15.840 y del DFL. MOP. N&#xBA;206, de 1960, se expropiaron los lotes de terreno N&#xBA;s. 70, 71, 72, 73 y 74, para la obra: &quot;CONSTRUCCI&#xD3;N EMBALSE PUNILLA, REGI&#xD3;N DEL BIOB&#xCD;O&quot;, que figuran a nombre de CONTRERAS GARRIDO SILVIA ROSA, HENNING CONTRERAS RENE LEONEL Y OT, GONZALEZ MELENDEZ JOSE SANTOS y ALVAREZ RODRIGUEZ JOSE Y OTRO, roles de aval&#xFA;o 59-196, 59-8, 59-74 y 59-58, Comuna de SAN FABI&#xC1;N, VIII Regi&#xF3;n del B&#xED;o B&#xED;o, superficies 36.418 m2, 75.132 m2, 12.454 m2, 19.462 m2 y 11.071 m2. respectivamente. La Comisi&#xF3;n de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, MAR&#xCD;A ISABEL DE JES&#xDA;S R&#xCD;OS MARCUELLO y NORMAN ESTANISLAO CALDER&#xD3;N PONTIGGIA, mediante informe de tasaci&#xF3;n de 04 de diciembre de 2013, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $8.506.500.-, para el lote N&#xBA;70, $44.588.650.-, para el lote N&#xBA;71, $4.726.750.-, para el lote N&#xBA;72, $11.137.800.- para el lote N&#xBA;73 y $10.674.400.- para el lote N&#xBA;74. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1057714,
+      "fecha": "2014-01-02"
+    }
+  }
+]

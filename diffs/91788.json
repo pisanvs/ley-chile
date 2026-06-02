@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1989-06-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-12-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8320715,
+          "old": "<div><div class=\"p\">AUTORIZA A SABROPESCA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS.</div><div class=\"p\">DENIEGA AUTORIZACIONES QUE INDICA. MODIFICA RESOLUCION QUE SE&#xD1;ALA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SABROPESCA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS.DENIEGA AUTORIZACIONES QUE INDICA. MODIFICA RESOLUCION QUE SE&#xD1;ALA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

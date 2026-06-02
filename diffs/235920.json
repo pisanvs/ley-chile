@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-02-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-06-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7318182,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto. El presente decreto con fuerza de ley regir&#xE1;, a contar del 1&#xBA; de enero de 2005 o del primer d&#xED;a del mes siguiente a la de su publicaci&#xF3;n en el Diario Oficial, si esta fecha es posterior. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto. El presente decreto con fuerza de<span class=\"n\" id=\"n_0\">RES 325 EXENTA,<br>SALUD<br>D.O. 17.06.2005</span></div><div class=\"p\">ley regir&#xE1; a contar del 1&#xBA; de enero de 2005.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

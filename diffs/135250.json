@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "1999-04-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-08-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7247796,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Cr&#xE9;anse los establecimientos penitenciarios que se mencionan a continuaci&#xF3;n, ubicados en el camino La P&#xF3;lvora esquina Miguel Angel, del Cerro Florida, en la comuna y provincia de Valpara&#xED;so, V Regi&#xF3;n, cuya direcci&#xF3;n y administraci&#xF3;n corresponder&#xE1; a la Direcci&#xF3;n Regional de Valpara&#xED;so de Gendarmer&#xED;a de Chile. Ellos son los siguientes:</div><br><div class=\"p\">A)&nbsp;  Centro de Detenci&#xF3;n Preventiva (CDP);</div><div class=\"p\">B)&nbsp;  Centro de Cumplimiento Penitenciario (CCP);</div><div class=\"p\">C)&nbsp;  Centro Penitenciario Femenino (CPF);</div><div class=\"p\">D)&nbsp;  Unidad Especial de Alta Seguridad (UEAS);</div><div class=\"p\">E)&nbsp;  Unidad de Cuidados Especiales (UCE);</div><div class=\"p\">F)&nbsp;  Centro Penitenciario de Menores (CPM);</div><div class=\"p\">G)&nbsp;  Centro de Educaci&#xF3;n y Trabajo (CET);</div><div class=\"p\">H)&nbsp;  Centro Abierto (CA).</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Cr&#xE9;anse los establecimientos<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> penitenciarios que se mencionan a continuaci&#xF3;n, ubicados en el camino La P&#xF3;lvora esquina Miguel Angel, del Cerro Florida, en la comuna y provincia de Valpara&#xED;so, V Regi&#xF3;n, cuya direcci&#xF3;n y administraci&#xF3;n corresponder&#xE1; a la Direcci&#xF3;n Regional de Valpara&#xED;so de Gendarmer&#xED;a de Chile. Ellos son los siguientes:</div><br><div class=\"p\">A)&nbsp;  Centro de Detenci&#xF3;n Preventiva (CDP);</div><div class=\"p\">B)&nbsp;  Centro de Cumplimiento Penitenciario (CCP);</div><div class=\"p\">C)&nbsp;  Centro Penitenciario Femenino (CPF);</div><div class=\"p\">D)&nbsp;  Unidad Especial de Alta Seguridad (UEAS);</div><div class=\"p\">E)&nbsp;  Unidad de Cuidados Especiales (UCE);</div><div class=\"p\">F)&nbsp;  Centro Penitenciario de Menores (CPM);</div><div class=\"p\">G)&nbsp;  Centro de Educaci&#xF3;n y Trabajo (CET);</div><div class=\"p\">H)&nbsp;  Centro Abierto (CA).</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 486, Justicia, publicado el 11.08.2005, modifica la presente norma, en el sentido que a contar de esta fecha se denominar&#xE1;: &quot;Centro de Educaci&#xF3;n y Trabajo Camino La P&#xF3;lvora, con domicilio el ubicado en Camino La P&#xF3;lvora N&#xBA; 665, Cerro Florida, Valpara&#xED;so, y operar&#xE1; con el RUT N&#xBA; 61.969.000-1.<br></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-05-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7247796,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Cr&#xE9;anse los establecimientos<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> penitenciarios que se mencionan a continuaci&#xF3;n, ubicados en el camino La P&#xF3;lvora esquina Miguel Angel, del Cerro Florida, en la comuna y provincia de Valpara&#xED;so, V Regi&#xF3;n, cuya direcci&#xF3;n y administraci&#xF3;n corresponder&#xE1; a la Direcci&#xF3;n Regional de Valpara&#xED;so de Gendarmer&#xED;a de Chile. Ellos son los siguientes:</div><br><div class=\"p\">A)&nbsp;  Centro de Detenci&#xF3;n Preventiva (CDP);</div><div class=\"p\">B)&nbsp;  Centro de Cumplimiento Penitenciario (CCP);</div><div class=\"p\">C)&nbsp;  Centro Penitenciario Femenino (CPF);</div><div class=\"p\">D)&nbsp;  Unidad Especial de Alta Seguridad (UEAS);</div><div class=\"p\">E)&nbsp;  Unidad de Cuidados Especiales (UCE);</div><div class=\"p\">F)&nbsp;  Centro Penitenciario de Menores (CPM);</div><div class=\"p\">G)&nbsp;  Centro de Educaci&#xF3;n y Trabajo (CET);</div><div class=\"p\">H)&nbsp;  Centro Abierto (CA).</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 486, Justicia, publicado el 11.08.2005, modifica la presente norma, en el sentido que a contar de esta fecha se denominar&#xE1;: &quot;Centro de Educaci&#xF3;n y Trabajo Camino La P&#xF3;lvora, con domicilio el ubicado en Camino La P&#xF3;lvora N&#xBA; 665, Cerro Florida, Valpara&#xED;so, y operar&#xE1; con el RUT N&#xBA; 61.969.000-1.<br></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Cr&#xE9;anse los establecimientos<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:</a></div> penitenciarios que se mencionan a continuaci&#xF3;n, ubicados en el camino La P&#xF3;lvora esquina Miguel Angel, del Cerro Florida, en la comuna y provincia de Valpara&#xED;so, V Regi&#xF3;n, cuya direcci&#xF3;n y administraci&#xF3;n corresponder&#xE1; a la Direcci&#xF3;n Regional de Valpara&#xED;so de Gendarmer&#xED;a de Chile. Ellos son los siguientes:</div><br><div class=\"p\">A)&nbsp;  Centro de Detenci&#xF3;n Preventiva (CDP);</div><div class=\"p\">B)&nbsp;  Centro de Cumplimiento Penitenciario (CCP);</div><div class=\"p\">C)&nbsp;  Centro Penitenciario Femenino (CPF);</div><div class=\"p\">D)&nbsp;  Unidad Especial de Alta Seguridad (UEAS);</div><div class=\"p\">E)&nbsp;  Sup<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1175526&amp;idParte=10330334&amp;idVersion=2022-05-03\">Decreto 45, JUSTICIA<br>N&#xB0; I<br>D.O. 03.05.2022</a></span>rimido;</div><div class=\"p\">F)&nbsp;  Suprimido;</div><div class=\"p\">G)&nbsp;  Centro de Educaci&#xF3;n y Trabajo (CET);</div><div class=\"p\">H)&nbsp;  Suprimido.</div><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 486, Justicia, publicado el 11.08.2005, modifica la presente norma, en el sentido que a contar de esta fecha se denominar&#xE1;: &quot;Centro de Educaci&#xF3;n y Trabajo Camino La P&#xF3;lvora, con domicilio el ubicado en Camino La P&#xF3;lvora N&#xBA; 665, Cerro Florida, Valpara&#xED;so, y operar&#xE1; con el RUT N&#xBA; 61.969.000-1.<br></div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1175526,
+      "fecha": "2022-05-03"
+    }
+  }
+]

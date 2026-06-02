@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-12-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-06-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9977380,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Por Decreto Exento MOP N&#xBA; 1690 de 21 de noviembre de 2018, y en base a la facultad otorgada por los art&#xED;culos 3&#xBA; letra a), 10&#xBA; letra c), 14 letra e) y 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y DFL MOP N&#xBA; 206, de 1960, se expropi&#xF3; los lotes de terreno N&#xBA; 1 y N&#xBA; 2 para la obra: CONCESION INTERNACIONAL RUTA 5. TRAMO: TALCA - CHILLAN. SECTOR: CALLE DE SERVICIO PONIENTE LAS TINAJAS. KM. 348.960,00 AL KM. 350.050,00, Regi&#xF3;n del Maule, que figuran a nombre de SUC. GUTIERREZ SALDANA LUIS ALBERTO en los dos casos, roles de aval&#xFA;o 838-17 y 839-132 de la comuna de Parral, superficies 5.671 m2 y 15.588 m2, respectivamente. La comisi&#xF3;n de peritos, nombrada por Resoluci&#xF3;n Expropiaciones Fiscal&#xED;a Exenta N&#xBA; 565 de 13 de septiembre de 2018, integrada por Eduardo Alejandro Silva Aracena, Valentina Andrea Chacaltana Sims y Maximiliano Cort&#xE9;s Caiozzi, fij&#xF3; con fecha 2 de octubre de 2018, el valor provisional de las indemnizaciones en las cantidades de $14.873.900 para el lote N&#xFFFD; 1 y $38.648.400 para el lote N&#xBA; 2. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978. </div></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Por Decreto Exento MOP N&#xBA; 1690 de 21 de noviembre de 2018, y en base a la facultad otorgada por los art&#xED;culos 3&#xBA; letra a), 10&#xBA; letra c), 14 letra e) y 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y DFL MOP N&#xBA; 206, de 1960, se expropi&#xF3; los lotes de terreno N&#xBA; 1 y <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>N&#xBA; 2 para la obra: CONCESION INTERNACIONAL RUTA 5. TRAMO: TALCA - CHILLAN. SECTOR: CALLE DE SERVICIO PONIENTE LAS TINAJAS. KM. 348.960,00 AL KM. 350.050,00, Regi&#xF3;n del Maule, que figuran a nombre de SUC. GUTIERREZ SALDANA LUIS ALBERTO en los dos casos, roles de aval&#xFA;o 838-17 y 839-132 de la comuna de Parral, superficies 5.671 m2 y 15.588 m2, respectivamente. La comisi&#xF3;n de peritos, nombrada por Resoluci&#xF3;n Expropiaciones Fiscal&#xED;a Exenta N&#xBA; 565 de 13 de septiembre de 2018, integrada por Eduardo Alejandro Silva Aracena, Valentina Andrea Chacaltana Sims y Maximiliano Cort&#xE9;s Caiozzi, fij&#xF3; con fecha 2 de octubre de 2018, el valor provisional de las indemnizaciones en las cantidades de $14.873.900 para el lote N&#xBA; 1 y $38.648.400 para el lote N&#xBA; 2. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA; 2186, de 1978. </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 364 Exento, Obras P&#xFA;blicas, publicado el 15.06.2020, se tuvo por desistida la expropiaci&#xF3;n del lote de terreno N&#xBA;s 2, para la obra &quot;Concesi&#xF3;n internacional Ruta 5, Tramo: Talca - Chill&#xE1;n. Sector: Calle de Servicio Poniente Las Tinajas. Km. 348.960,00 al Km. 350.050,00&quot;, Regi&#xF3;n del Maule, comuna de Parral</div></div>"
+        }
+      ]
+    }
+  }
+]

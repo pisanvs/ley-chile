@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-02-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-08-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8910068,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo &#xFA;nico.- Conc&#xE9;dese la nacionalidad chilena, por especial gracia, a la religiosa italiana Sor Ana P&#xED;a Favero Pellizari.&quot;.</div><div class=\"p\">&nbsp; &nbsp; Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto prom&#xFA;lguese y ll&#xE9;vese a efecto como Ley de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo &#xFA;nico.- Conc&#xE9;dese la nacionalidad chilena,<span class=\"n\" id=\"n_0\">LEY 19576<br>ART. UNICO<br>D.O. 03.08.1998</span> por especial gracia, a la religiosa italiana Giovanna Favero Pellizzari.</div><div class=\"p\">&nbsp; &nbsp; Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto prom&#xFA;lguese y ll&#xE9;vese a efecto como Ley de la Rep&#xFA;blica.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

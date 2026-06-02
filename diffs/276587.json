@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2008-08-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-02-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6657754,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Autor&#xED;zase la circulaci&#xF3;n del veh&#xED;culo de la Subsecretar&#xED;a de Agricultura de la Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena en horario inh&#xE1;bil y en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, sin sujeci&#xF3;n a la jornada ordinaria de trabajo, que a continuaci&#xF3;n se individualiza:</div><br><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp; : Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp;  : Jeep</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp; : Compass 4x4 2.2 Aut.</div><div class=\"p\">N&#xBA; motor&nbsp; &nbsp; : S/N&#xBA;</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp;  : 2008</div><div class=\"p\">N&#xBA; vin&nbsp; &nbsp; &nbsp; : 1J8FFF7W18D615210</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp;  : Verde met&#xE1;lico</div><div class=\"p\">Patente&nbsp; &nbsp;  : BKTC.26-9.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Autor&#xED;zase la circulaci&#xF3;n del veh&#xED;culo de la Subsecretar&#xED;a de Agricultura de la Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena en horario inh&#xE1;bil y en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, sin sujeci&#xF3;n a la jornada ordinaria de trabajo, que a continuaci&#xF3;n se individualiza<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><br><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp; : Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp;  : Jeep</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp; : Compass 4x4 2.2 Aut.</div><div class=\"p\">N&#xBA; motor&nbsp; &nbsp; : S/N&#xBA;</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp;  : 2008</div><div class=\"p\">N&#xBA; vin&nbsp; &nbsp; &nbsp; : 1J8FFF7W18D615210</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp;  : Verde met&#xE1;lico</div><div class=\"p\">Patente&nbsp; &nbsp;  : BKTC.26-9.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral&nbsp; 1 del Decreto 330 Exento, Agricultura, publicado el 28.02.2014 modifica la presente norma en el sentido de establecer que la fecha de t&#xE9;rmino de la autorizaci&#xF3;n otorgada por este decreto, ser&#xE1; el 10 de marzo de 2014.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-04-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6657754,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Autor&#xED;zase la circulaci&#xF3;n del veh&#xED;culo de la Subsecretar&#xED;a de Agricultura de la Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena en horario inh&#xE1;bil y en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, sin sujeci&#xF3;n a la jornada ordinaria de trabajo, que a continuaci&#xF3;n se individualiza<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><br><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp; : Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp;  : Jeep</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp; : Compass 4x4 2.2 Aut.</div><div class=\"p\">N&#xBA; motor&nbsp; &nbsp; : S/N&#xBA;</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp;  : 2008</div><div class=\"p\">N&#xBA; vin&nbsp; &nbsp; &nbsp; : 1J8FFF7W18D615210</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp;  : Verde met&#xE1;lico</div><div class=\"p\">Patente&nbsp; &nbsp;  : BKTC.26-9.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral&nbsp; 1 del Decreto 330 Exento, Agricultura, publicado el 28.02.2014 modifica la presente norma en el sentido de establecer que la fecha de t&#xE9;rmino de la autorizaci&#xF3;n otorgada por este decreto, ser&#xE1; el 10 de marzo de 2014.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Autor&#xED;zase la circulaci&#xF3;n del veh&#xED;culo de la Subsecretar&#xED;a de Agricultura de la Regi&#xF3;n de Magallanes y Ant&#xE1;rtica Chilena en horario inh&#xE1;bil y en d&#xED;as s&#xE1;bados en la tarde, domingos y festivos, sin sujeci&#xF3;n a la jornada ordinaria de trabajo, que a continuaci&#xF3;n se individ<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>ualiza<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>:</div><br><div class=\"p\">Veh&#xED;culo&nbsp; &nbsp; : Station Wagon</div><div class=\"p\">Marca&nbsp; &nbsp; &nbsp;  : Jeep</div><div class=\"p\">Modelo&nbsp; &nbsp; &nbsp; : Compass 4x4 2.2 Aut.</div><div class=\"p\">N&#xBA; motor&nbsp; &nbsp; : S/N&#xBA;</div><div class=\"p\">A&#xF1;o&nbsp; &nbsp; &nbsp; &nbsp;  : 2008</div><div class=\"p\">N&#xBA; vin&nbsp; &nbsp; &nbsp; : 1J8FFF7W18D615210</div><div class=\"p\">Color&nbsp; &nbsp; &nbsp;  : Verde met&#xE1;lico</div><div class=\"p\">Patente&nbsp; &nbsp;  : BKTC.26-9.</div><div class=\"p\"> </div><br><br><div class=\"p\">&nbsp; </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 330 Exento, Agricultura, publicado el 28.02.2014 modifica la presente norma en el sentido de establecer que la fecha de t&#xE9;rmino de la autorizaci&#xF3;n otorgada por este decreto, ser&#xE1; el 10 de marzo de 2014. </div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 74 Exento, Agricultura, publicado el 14.04.2014 modifica la presente norma en el sentido de establecer que el t&#xE9;rmino de la autorizaci&#xF3;n otorgada por este decreto, ser&#xE1; hasta que se d&#xE9; de baja el veh&#xED;culo de conformidad a derecho.</div></div>"
+        }
+      ]
+    }
+  }
+]

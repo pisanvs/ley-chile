@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "1980-12-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1990-01-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9037226,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Para los efectos de lo dispuesto en el art&#xED;culo 106 del decreto con fuerza de ley N&#xB0; 252, de 1960, las obligaciones hipotecarias pactadas con el sistema de reajuste establecido en el T&#xED;tulo V de la ley N&#xB0; 16.807 y en el T&#xED;tulo V del decreto con fuerza de ley N&#xB0; 205, de 1960, se entender&#xE1;n l&#xED;quidas, si la liquidaci&#xF3;n de la deuda, suscrita por el Gerente General de la Asociaci&#xF3;n Nacional de Ahorro y Pr&#xE9;stamo y autorizada por el Contralor de dicho organismo, en car&#xE1;cter de Ministro de fe, no fuere objetada dentro del plazo fatal de diez d&#xED;as, contados desde la notificaci&#xF3;n del requerimiento judicial a que se refiere el inciso primero del art&#xED;culo 98 del decreto con fuerza de ley N&#xB0; 252, de 1960.</div><div class=\"p\">&nbsp; &nbsp; La objeci&#xF3;n del deudor hipotecario debe ser fundada y basada en documentos fidedignos, referidos a sumas o partidas concretas de la liquidaci&#xF3;n de la Asociaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; El Tribunal rechazar&#xE1; la objeci&#xF3;n de plano si el deudor no la fundamentare, no acompa&#xF1;are los documentos en que se funda o no se refiere en ella a sumas o partidas concretas.</div><div class=\"p\">&nbsp; &nbsp; El Tribunal deber&#xE1; ordenar el remate de la propiedad o su entrega en prenda pretoria, para que la Asociaci&#xF3;n se pague de aquella parte del cr&#xE9;dito no objetada, a menos que la objeci&#xF3;n, debidamente fundada, se refiera al total de la liquidaci&#xF3;n. El remanente del remate, pagada la Asociaci&#xF3;n de la parte no objetada, se depositar&#xE1; en la cuenta del Tribunal a la espera de las resultas de este juicio.</div><div class=\"p\">&nbsp; &nbsp; La objeci&#xF3;n del deudor hipotecario se substanciar&#xE1; en la forma establecida para los incidentes. La apelaci&#xF3;n se conceder&#xE1; en ambos efectos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Para los efectos de lo dispuesto en el<span class=\"n\" id=\"n_0\">LEY 18900<br>Art. 9&#xB0;</span> art&#xED;culo 106 del decreto con fuerza de ley N&#xB0; 252, de 1960, las obligaciones hipotecarias pactadas con el sistema de reajuste establecido en el T&#xED;tulo V de la ley N&#xB0; 16.807 y en el T&#xED;tulo V del decreto con fuerza de ley N&#xB0; 205, de 1960, se entender&#xE1;n l&#xED;quidas, si la liquidaci&#xF3;n del cr&#xE9;dito suscrita por el Gerente General de la Asociaci&#xF3;n Nacional de Ahorro y Pr&#xE9;stamo o por el cesionario y cuya respectiva firma deber&#xE1; ser autorizada ante notario, no fuera objetada dentro del plazo fatal de 10 d&#xED;as, contado desde la notificaci&#xF3;n del requerimiento judicial a que se refiere el inciso primero del art&#xED;culo 98, del decreto con fuerza de ley N&#xB0; 252, de 1960.</div><div class=\"p\">&nbsp; &nbsp; La objeci&#xF3;n del deudor hipotecario debe ser fundada y basada en documentos fidedignos, referidos a sumas o partidas concretas de la liquidaci&#xF3;n de la Asociaci&#xF3;n o del cesionario.</div><div class=\"p\">&nbsp; &nbsp; El Tribunal rechazar&#xE1; la objeci&#xF3;n de plano si el deudor no la fundamentare, no acompa&#xF1;are los documentos en que se funda o no se refiere en ella a sumas o partidas concretas.</div><div class=\"p\">&nbsp; &nbsp; El tribunal deber&#xE1; ordenar el remate de la propiedad o su entrega en prenda pretoria, para que la Asociaci&#xF3;n o el cesionario se pague de aquella parte del cr&#xE9;dito no objetada, a menos que la objeci&#xF3;n, debidamente fundada, se refiera al total de la liquidaci&#xF3;n. El remanente del remate, pagada la Asociaci&#xF3;n o cesionario de la parte no objetada, se depositar&#xE1; en la cuenta del Tribunal a la espera de las resultas de este juicio.</div><div class=\"p\">&nbsp; &nbsp; La objeci&#xF3;n del deudor hipotecario se substanciar&#xE1; en la forma establecida para los incidentes. La apelaci&#xF3;n se conceder&#xE1; en ambos efectos.</div><br></div>"
+        },
+        {
+          "part_id": 9037227,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- En las ejecuciones seguidas por la Asociaci&#xF3;n Nacional de Ahorro y Pr&#xE9;stamo, se aplicar&#xE1; lo dispuesto en los art&#xED;culos 13 y 23 de la ley N&#xB0; 17.635. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- En las ejecuciones seguidas por la<span class=\"n\" id=\"n_1\">LEY 18900<br>Art. 9&#xB0;</span> Asociaci&#xF3;n Nacional de Ahorro y Pr&#xE9;stamo o su cesionario, se aplicar&#xE1; lo dispuesto en los art&#xED;culos 13 y 23 de la ley N&#xB0; 17.635.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

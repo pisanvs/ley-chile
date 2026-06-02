@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-11-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-09-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8353679,
+          "old": "<div><div class=\"p\">RECTIFICA DECRETO COMPLEMENTARIO N&#xBA;410, de 1999, QUE MODIFICA LAS FORMULAS TARIFARIAS PARA LA EMPRESA DE SERVICIOS SANITARIOS DE COQUIMBO S.A.</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 627.- Santiago, 26 de octubre de 1999.- Visto: Lo dispuesto en el decreto con fuerza de ley N&#xBA; 70 de 1988 del Ministerio de Obras P&#xFA;blicas y sus modificaciones contenidas en la ley N&#xBA; 19.549; el decreto supremo N&#xBA; 453 del 12 de diciembre de 1989, modificado por decreto N&#xBA;109 del 10 de marzo de 1998, ambos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, el art&#xED;culo 10&#xBA; de la ley N&#xBA; 10.336; la ley N&#xBA; 18.902, el decreto del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n N&#xBA; 458/96, complementado por D.S. Minecon N&#xBA; 345/97 y D.S. Minecon N&#xBA; 410/99 y el Estudio de Reasignaci&#xF3;n de Cargos Fijos realizado por la Superintendencia de Servicios Sanitarios.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, en el decreto N&#xBA;410/99, que aprob&#xF3; una modificaci&#xF3;n de las f&#xF3;rmulas tarifarias de la empresa Essco S.A., se incurri&#xF3; en un error de hecho al considerarse como parte integrante de los polinomios de indexaci&#xF3;n, a que se refieren los puntos N&#xBA;s. 1.5, 1.6 y 1.7 de dicho decreto, la variaci&#xF3;n del Indice del Costo de la Mano de Obra (I.C.M.) en vez de considerar la variaci&#xF3;n del Indice de Precios al Consumidor (I.P.C.). Que, en estas circunstancias, se hace necesario rectificar en el decreto los polinomios de indexaci&#xF3;n referidos.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br></div>",
+          "new": "<div><div class=\"p\">RECTIFICA DECRETO COMPLEMENTARIO N&#xBA;410, DE 1999, QUE MODIFICA LAS FORMULAS TARIFARIAS PARA LA EMPRESA DE SERVICIOS SANITARIOS DE COQUIMBO S.A.</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 627.- Santiago, 26 de octubre de 1999.- Visto: Lo dispuesto en el decreto con fuerza de ley N&#xBA; 70 de 1988 del Ministerio de Obras P&#xFA;blicas y sus modificaciones contenidas en la ley N&#xBA; 19.549; el decreto supremo N&#xBA; 453 del 12 de diciembre de 1989, modificado por decreto N&#xBA;109 del 10 de marzo de 1998, ambos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, el art&#xED;culo 10&#xBA; de la ley N&#xBA; 10.336; la ley N&#xBA; 18.902, el decreto del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n N&#xBA; 458/96, complementado por D.S. Minecon N&#xBA; 345/97 y D.S. Minecon N&#xBA; 410/99 y el Estudio de Reasignaci&#xF3;n de Cargos Fijos realizado por la Superintendencia de Servicios Sanitarios.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, en el decreto N&#xBA;410/99, que aprob&#xF3; una modificaci&#xF3;n de las f&#xF3;rmulas tarifarias de la empresa Essco S.A., se incurri&#xF3; en un error de hecho al considerarse como parte integrante de los polinomios de indexaci&#xF3;n, a que se refieren los puntos N&#xBA;s. 1.5, 1.6 y 1.7 de dicho decreto, la variaci&#xF3;n del Indice del Costo de la Mano de Obra (I.C.M.) en vez de considerar la variaci&#xF3;n del Indice de Precios al Consumidor (I.P.C.). Que, en estas circunstancias, se hace necesario rectificar en el decreto los polinomios de indexaci&#xF3;n referidos.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

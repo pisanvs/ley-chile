@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1975-07-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-10-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8371243,
+          "old": "<div><div class=\"p\">INSTITUYE DIA NACIONAL DE LA JUVENTUD</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 11 de Julio de 1975.- El Presidente de la Rep&#xFA;blica decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 908.- Visto: lo dispuesto en los art&#xED;culos 9&#xBA; y 10&#xBA;, N&#xBA; 1 del decreto ley N&#xBA; 527, de 1974, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- El esp&#xED;ritu libertario expresado en reiteradas ocasiones por la Juventud Chilena, en su constante lucha por los valores espirituales que conforman nuestra nacionalidad, cooperando al destierro definitivo del territorio patrio de doctrinas extranjerizantes, contrarias a nuetra idiosincracia.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El cumplimiento irrestricto por parte de la juventud de las obligaciones contra&#xED;das con la Patria, que se simboliza en la figura del Subteniente don Luis Cruz Mart&#xED;nez, que ofrend&#xF3; su vida en el cumplimiento del deber.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- El deseo del Supremo Gobierno de realzar la importancia de su juventud y de reconocer los relevantes servicios prestados a la Patria,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">INSTITUYE DIA NACIONAL DE LA JUVENTUD</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 11 de Julio de 1975.- El Presidente de la Rep&#xFA;blica decret&#xF3; hoy lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 908.- Visto: lo dispuesto en los art&#xED;culos 9&#xBA; y 10&#xBA;, N&#xBA; 1 del decreto ley N&#xBA; 527, de 1974, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- El esp&#xED;ritu libertario expresado en reiteradas ocasiones por la Juventud Chilena, en su constante lucha por los valores espirituales que conforman nuestra nacionalidad, cooperando al destierro definitivo del territorio patrio de doctrinas extranjerizantes, contrarias a nuetra idiosincracia.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El cumplimiento irrestricto por parte de la juventud de las obligaciones contra&#xED;das con la Patria, que se simboliza en la figura del Subteniente don Luis Cruz Mart&#xED;nez, que ofrend&#xF3; su vida en el cumplimiento del deber.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- El deseo del Supremo Gobierno de realzar la importancia de su juventud y de reconocer los relevantes servicios prestados a la Patria,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

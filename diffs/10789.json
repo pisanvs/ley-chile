@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1980-06-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1983-09-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7141037,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 23&#xB0; El Libro de Inscripci&#xF3;n deber&#xE1; ser<span class=\"n\" id=\"n_0\">DS 172,<br>AGR. 1980<br>N&#xB0; 2</span> foliado.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1990-12-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7140949,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 9&#xB0;.- Junto con la solicitud, los interesados deber&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp; a) Acompa&#xF1;ar antecedentes documentados que acrediten que cumplen con las exigencias del art&#xED;culo 7&#xB0; y que crediten, adem&#xE1;s, el origen de la variedad. Si se trata de una variedad protegida o patentada en el extranjero el interesado deber&#xE1; acreditar el t&#xED;tulo mediante el cual la obtuvo o la representaci&#xF3;n formal de sus creadores o descubridores.</div><div class=\"p\">&nbsp; &nbsp; b) Hacer entrega al Director del Registro de una o m&#xE1;s muestras representativas de materia de propagaci&#xF3;n de la variedad cuya inscripci&#xF3;n se solicita, en las cantidades o tama&#xF1;o que determine el Comit&#xE9; T&#xE9;cnico Calificador;</div><div class=\"p\">&nbsp; &nbsp; c) Pagar los costos que originen las inspecciones, as&#xED; como los de los ensayos y pruebas que sean dispuestas por el Comit&#xE9; T&#xE9;cnico Calificador y los que deriven de la mantenci&#xF3;n anual de cada variedad en las parcelas de prueba, y</div><div class=\"p\">&nbsp; &nbsp; d) Comprometerse al pago del derecho anual que se establezca, mientras la inscripci&#xF3;n est&#xE9; vigente. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 9&#xB0; Junto con la solicitud, los interesados deber&#xE1;n:</div><div class=\"p\">&nbsp; &nbsp; a) Acompa&#xF1;ar antecedentes documentados que acrediten que cumplen con las exigencias del art&#xED;culo 7&#xB0; y que acrediten, adem&#xE1;s, el origen de la variedad. Si se trata de una variedad protegida o patentada en el extranjero, el interesado deber&#xE1; acreditar el t&#xED;tulo mediante el cual la obtuvo o la representaci&#xF3;n formal de sus creadores o descubridores;</div><div class=\"p\">&nbsp; &nbsp; b) Hacer entrega al Director del Registro de una o m&#xE1;s muestras representativas de materia de propagaci&#xF3;n de la variedad cuya inscripci&#xF3;n se solicita, en las cantidades o tama&#xF1;os que determine el Comit&#xE9; T&#xE9;cnico Calificador;</div><div class=\"p\">&nbsp; &nbsp; c) Pagar los costos que demande la inscripci&#xF3;n, as&#xED;<span class=\"n\" id=\"n_0\">DTO 147, AGRICULTURA<br>D.O. 21.12.1990</span> como los que deriven de la mantenci&#xF3;n anual de cada cultivar en las parcelas de pruebas, y</div><div class=\"p\">&nbsp; &nbsp; d) Comprometerse al pago del derecho anual que se establezca, mientras la inscripci&#xF3;n est&#xE9; vigente.</div><br></div>"
+        },
+        {
+          "part_id": 7141037,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 23&#xB0; El Libro de Inscripci&#xF3;n deber&#xE1; ser<span class=\"n\" id=\"n_0\">DS 172,<br>AGR. 1980<br>N&#xB0; 2</span> foliado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; ARTICULO 23&#xB0; El Libro de Inscripci&#xF3;n deber&#xE1; ser<span class=\"n\" id=\"n_1\">DS 172,<br>AGR. 1980<br>N&#xB0; 2</span> foliado.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

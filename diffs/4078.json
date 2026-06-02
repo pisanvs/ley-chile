@@ -1,0 +1,226 @@
+[
+  {
+    "fecha": "1983-04-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1993-06-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7115676,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o- Se entiende por fertilizante toda substancia o producto destinado a mejorar la productividad del suelo o las condiciones nutritivas de las plantas. Dentro de los fertilizantes se comprenden las enmiendas y los abonos, productos que modifican las condiciones f&#xED;sicas y qu&#xED;micas, respectivamente, del suelo y sirven como nutrientes a las plantas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_0\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115677,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o- Podr&#xE1;n ser bonificadas con cargo fiscal hasta el 50% del valor de las enmiendas que los agricultores empleen efectivamente cada a&#xF1;o en sus cultivos que sean declarados esenciales por el Ministerio de Agricultura.</div><div class=\"p\">&nbsp; &nbsp; Esta bonificaci&#xF3;n se decretar&#xE1; anualmente por decreto supremo expedido por el Ministerio de Hacienda y con la firma del Ministro de Agricultura.</div><div class=\"p\">&nbsp; &nbsp; Podr&#xE1;n fijarse porcentajes de bonificaci&#xF3;n superiores al 50% del valor antes se&#xF1;alado para los abonos nacionales, siempre que los fabricantes de aqu&#xE9;llos cumplan con las especificaciones y metas de producci&#xF3;n que se&#xF1;ale el Ministerio de Agricultura por decreto supremo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_1\">DL 3557 1980<br>Art 47 a)</span></div></div>"
+        },
+        {
+          "part_id": 7115678,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3.o- El Ministerio de Agricultura aplicar&#xE1; todas las normas contempladas en este decreto y dem&#xE1;s que sean necesarias para el fomento y control de la importaci&#xF3;n, distribuci&#xF3;n y venta de fertilizantes agr&#xED;colas. Le corresponder&#xE1;, especialmente, a dicho Ministerio:</div><div class=\"p\">&nbsp; &nbsp; a) Estudiar y adoptar todas las medidas destinadas a intensificar el uso de fertilizantes en la agricultura, fomentar la producci&#xF3;n de fertilizantes de alta calidad para el abastecimiento amplio de las necesidades del pa&#xED;s, reducir los costos de producci&#xF3;n y los precios al consumidor;</div><div class=\"p\">&nbsp; &nbsp; b) Proponer planes de reconocimiento y financiamiento de nuevas explotaciones de materias primas destinadas a la fabricaci&#xF3;n de fertilizantes simples y compuestos, seg&#xFA;n lo aconsejen las exigencias del consumo nacional;</div><div class=\"p\">&nbsp; &nbsp; c) Estudiar y adoptar las medidas destinadas a impulsar en el pa&#xED;s la fabricaci&#xF3;n de fertilizantes compuestos adaptables a las condiciones de los terrenos;</div><div class=\"p\">&nbsp; &nbsp; d) Intensificar el estudio de los terrenos agr&#xED;colas e impulsar la propaganda relacionada con el consumo de fertilizantes y la explotaci&#xF3;n cient&#xED;fica de los terrenos;</div><div class=\"p\">&nbsp; &nbsp; e) Velar por el cumplimiento de las disposiciones del presente decreto e informar al Ministerio de Miner&#xED;a las exigencias que deban contemplarse en los decretos de concesiones de covaderas que dicte dicho Ministerio.</div><div class=\"p\">&nbsp; &nbsp; f) Aprobar las bases de los contratos que se celebren con el Fisco para la producci&#xF3;n, distribuci&#xF3;n y venta de fertilizantes, cuya materia prima sea de propiedad fiscal o cuyos productores o distribuidores reciban cr&#xE9;ditos o aportes de instituciones fiscales, semifiscales o de administraci&#xF3;n aut&#xF3;noma, para estos objetivos;</div><div class=\"p\">&nbsp; &nbsp; g) Adoptar las medidas necesarias a fin de asegurar el aprovisionamiento de fertilizantes para satisfacer las exigencias del consumo;</div><div class=\"p\">&nbsp; &nbsp; h) Estudiar e informar las solicitudes de cr&#xE9;ditos relacionadas con la producci&#xF3;n de fertilizantes que se presenten a la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n, Banco del Estado de Chile, u otros organismos de cr&#xE9;ditos, sean fiscales, semifiscales o de administraci&#xF3;n aut&#xF3;noma.</div><div class=\"p\">&nbsp; &nbsp; i) Aprobar como aptos para el consumo en la agricultura los fertilizantes que se produzcan, importen o comercien en el pa&#xED;s. Sin este requisito no podr&#xE1; producirse o venderse fertilizante alguno, materiales, sales o elementos destinados a aplicarse al suelo con fines de mejorar la producci&#xF3;n agr&#xED;cola, y</div><div class=\"p\">&nbsp; &nbsp; j) Fiscalizar la propaganda que efect&#xFA;en las organizaciones particulares vendedores o productores de fertilizantes, en la forma que determine el Reglamento. Cualquier clase de propaganda recomendando el empleo de un fertilizante deber&#xE1; ser previamente autorizadas por el Ministerio de Agricultura.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;.- Corresponder&#xE1; al Ministerio de<span class=\"n\" id=\"n_2\">DL 3557 1980<br>Art 47 a)</span> Agricultura informar al Ministerio de Miner&#xED;a las exigencias que deban contemplarse en los decretos de concesiones de covaderas que dicte dicho Ministerio.</div></div>"
+        },
+        {
+          "part_id": 7115679,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.o- Para los efectos del presente decreto, se entender&#xE1;n por: Fertilizante comercial, toda materia fertilizante que se expenda bajo una marca comercial registrada en conformidad a la ley respectiva;</div><div class=\"p\">&nbsp; &nbsp; Unidad fertilizante, un kilogrado de cada uno de los siguientes constituyentes qu&#xED;micos contenidos en los fertilizantes: Nitr&#xF3;geno (N) total; anh&#xED;drido fosf&#xF3;rico (P2O5) total; &#xF3;xido de potasio (K2O) soluble en agua; &#xF3;xido de calcio (CaO) total;&nbsp; &#xF3;xido de magnesio (MgO) total, azufre expresado en % de (S); y, otros que por decreto supremo fundado, y previo informe de la Direcci&#xF3;n de Agricultura y Pesca, puedan agregarse.</div><div class=\"p\">&nbsp; &nbsp; Elementos menores, constituyentes qu&#xED;micos tales como boro, cobre, manganeso, zinc, molibdeno, cobalto, que podr&#xE1;n ser agregados a sus productos por los fabricantes o importadores de abonos. La adici&#xF3;n de dichos elementos deber&#xE1; se&#xF1;alarse en la etiqueta o en el envase.</div><div class=\"p\">&nbsp; &nbsp; Muestra oficial, una muestra de fertilizante comercial tomada por el Departamento de Defensa Agr&#xED;cola de la Direcci&#xF3;n de Agricultura y Pesca, en conformidad a las normas que establece el presente decreto y su Reglamento.</div><div class=\"p\">&nbsp; &nbsp; Porcentaje m&#xED;nimo garantizado, el n&#xFA;mero de unidades fertilizantes registrado para cada fertilizante por los fabricantes o importadores, que est&#xE1; obligado a entregar al consumidor. Cualquier aumento sobre este porcentaje m&#xED;nimo no podr&#xE1; ser cobrado por los fabricantes o importadores.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_3\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115680,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5.o- Los abonos y enmiendas se vender&#xE1;n con certificados de an&#xE1;lisis qu&#xED;micos y f&#xED;sicos, en los que se indicar&#xE1;n la proporci&#xF3;n centesimal de elementos fertilizantes que contengan.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_4\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115681,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.o- El precio de venta de los fertilizantes se fijar&#xE1; exclusivamente por el valor que se asigne a cada kilo del o de los elementos fertilizantes que se contengan en cien kilos del producto que se ofrece en venta.</div><div class=\"p\">&nbsp; &nbsp; Se except&#xFA;a del principio anterior, la venta del salitre, de guano fresco proveniente de animales o de aves, desperdicios de ciudades o mercados, residuos de mataderos o f&#xE1;bricas, plantas marinas, conchas, cenizas u otras semejantes, que podr&#xE1;n venderse al volumen o peso. En esta excepci&#xF3;n no se comprenden los huesos ni las conchas elaboradas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_5\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115682,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7.o- No ser&#xE1; obligatoria la indicaci&#xF3;n previa de la cantidad exacta de los elementos fertilizantes, si el precio de ellos se estipula sobre la base del resultado que arroje el an&#xE1;lisis que se practique en la muestra del producto tomada al momento de su entrega, computado el precio de los elementos fertilizantes en la forma que indica el art&#xED;culo 8.o.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_6\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115683,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8.o- El vendedor de fertilizantes deber&#xE1; fijar en un lugar visible del local de expendio y dar a conocer al comprador:</div><div class=\"p\">&nbsp; &nbsp; a) El an&#xE1;lisis qu&#xED;mico y f&#xED;sico en que se indique la composici&#xF3;n centesimal de los elementos &#xFA;tiles que el producto contenga;</div><div class=\"p\">&nbsp; &nbsp; b) El origen, entendi&#xE9;ndose por tal el lugar de donde se extrae o donde funciona la f&#xE1;brica que lo elabora;</div><div class=\"p\">&nbsp; &nbsp; c) Si se trata de un producto natural o industrial;</div><div class=\"p\">&nbsp; &nbsp; d) El nombre del fertilizante que se vende, el que debe estar en relaci&#xF3;n con sus componentes;</div><div class=\"p\">&nbsp; &nbsp; e) El nombre registrado, si se trata de mezclas de productos industriales, y</div><div class=\"p\">&nbsp; &nbsp; f) El estado de molienda, si se trata de huesos molidos, fosfatos naturales, etc.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_7\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115684,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9.o- Tanto el certificado de an&#xE1;lisis a que se refiere el art&#xED;culo 5.o, como las condiciones establecidas en el art&#xED;culo 6.o, deber&#xE1;n estamparse en la factura de cancelaci&#xF3;n que se entregue al comprador, sin perjuicio de lo dispuesto en el art&#xED;culo 7.o.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_8\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115685,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10.- Se proh&#xED;be la mezcla de los fosfatos minerales con los abonos fosfatados. En caso de mezclarse los fosfatos minerales con otros abonos, deber&#xE1; ello indicarse claramente en la factura.</div><div class=\"p\">&nbsp; &nbsp; No obstante, con autorizaci&#xF3;n de la Direcci&#xF3;n de Agricultura y Pesca, previo informe favorable del Departamento de Defensa Agr&#xED;cola, podr&#xE1; permitirse cualquier clase de mezclas cuando las necesidades del pa&#xED;s lo requieran.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_9\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115686,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11.-&nbsp; Tanto los fabricantes como los importadores de fertilizantes, antes de iniciar sus operaciones, deber&#xE1;n estar premunidos de un permiso especial concedido por el Ministerio de Agricultura. Adem&#xE1;s deber&#xE1;n dar cuenta cada seis meses a la Direcci&#xF3;n de Agricultura y Pesca de la cantidad de cada uno de los fertilizantes vendidos en el semestre.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0;.- Los fabricantes, importadores y<span class=\"n\" id=\"n_10\">DL 3557 1980<br>Art 47 b)</span> distribuidores de fertilizantes estar&#xE1;n obligados a comunicar al Servicio la iniciaci&#xF3;n de sus actividades con indicaci&#xF3;n del lugar de ubicaci&#xF3;n de los establecimientos que operen.</div></div>"
+        },
+        {
+          "part_id": 7115687,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12.- Cada saco o envase de fertilizante deber&#xE1; llevar adherida de la boca una etiqueta en la que se indicar&#xE1; el nombre del vendedor y del producto, la fecha de fabricaci&#xF3;n, el peso neto del fertilizante contenido en el saco o envase, y los datos anal&#xED;ticos que sirvan para fijarle el precio.</div><div class=\"p\">&nbsp; &nbsp; El vendedor de fertilizantes incurrir&#xE1; en una multa equivalente al valor de un mil&#xE9;simo de un sueldo vital mensual para empleado particular de la industria y del comercio del departamento de Santiago por cada saco o envase que no llevare la correspondiente etiqueta.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_11\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115688,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13.- El vendedor ser&#xE1; responsable de las p&#xE9;rdidas de peso que se deban a la calidad del envase.</div><div class=\"p\">&nbsp; &nbsp; El reclamo a que d&#xE9; origen la disposici&#xF3;n del inciso anterior deber&#xE1; deducirse en el t&#xE9;rmino de ocho d&#xED;as, contados de la fecha de la recepci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_12\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115689,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14.- Los fabricantes o vendedores de fertilizantes deber&#xE1;n practicar an&#xE1;lisis mensuales de las existencias, cuyos resultados colocar&#xE1;n en sus carteles de venta y lo comunicar&#xE1;n a la Direcci&#xF3;n de Agricultura y Pesca para que lleguen a conocimiento de los funcionarios encargados de controlar el cumplimiento de este decreto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_13\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115690,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15.- El comprador tiene derecho a hacer analizar el producto que adquiera. Las muestras de control para estos an&#xE1;lisis se tomar&#xE1;n en el lugar y momento que convengan al comprador y vendedor, ya sea antes del despacho del fertilizante o en el lugar del destino.</div><div class=\"p\">&nbsp; &nbsp; En este &#xFA;ltimo caso, el an&#xE1;lisis deber&#xE1; practicarse dentro del plazo de treinta d&#xED;as, contados desde la fecha en que el producto haya sido expedido, y los reclamos a que hubiere lugar, formularse dentro de los quince d&#xED;as siguientes a la fecha del certificado de an&#xE1;lisis.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_14\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115691,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16.- Las muestras de control para el an&#xE1;lisis, que deber&#xE1;n sacarse por triplicado, se tomar&#xE1;n sin m&#xE1;s tr&#xE1;mite, por un Ingeniero Agr&#xF3;nomo del Departamento de Defensa Agr&#xED;cola.</div><div class=\"p\">&nbsp; &nbsp; Cuando no pudiere concurrir alguno de estos funcionarios, las muestras se tomar&#xE1;n en presencia del comprador y del vendedor, o de sus representantes autorizados por carta y de dos testigos, y para constancia firmar&#xE1;n todos los presentes en la car&#xE1;tula respectiva.</div><div class=\"p\">&nbsp; &nbsp; Una de las muestras quedar&#xE1; a disposici&#xF3;n del comprador, otra del vendedor y, la tercera, deber&#xE1; remitirse al Departamento de Defensa Agr&#xED;cola para los fines de comprobaci&#xF3;n a que hubiere lugar.</div><div class=\"p\">&nbsp; &nbsp; Se considerar&#xE1; Laboratorio Oficial de An&#xE1;lisis, para los efectos de este decreto, el que mantiene el Departamento de Defensa Agr&#xED;cola. Los procedimientos de an&#xE1;lisis que deber&#xE1; adoptar dicho Laboratorio ser&#xE1;n fijados por el Reglamento.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 16&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_15\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115692,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17.- Cualquiera diferencia debidamente comprobada en la composici&#xF3;n del fertilizante vendido, si &#xE9;ste hubiere sido remitido a su destino, dar&#xE1; derecho al comprador a una reducci&#xF3;n de precio equivalente al doble del estipulado para la unidad del o de los elementos fertilizantes vendidos.</div><div class=\"p\">&nbsp; &nbsp; Si la diferencia de la composici&#xF3;n se estableciere antes de que el producto haya sido entregado al comprador o despachado al lugar del destino, el comprador podr&#xE1; exigir la nulidad de la venta o la rebaja de precio correspondiente, sin perjuicio de la multa que determina el Art. 12 de este decreto, que se aplicar&#xE1; al vendedor o fabricante por la venta de un producto inferior al que establecen los carteles que exige el Art. 8.o.</div><div class=\"p\">&nbsp; &nbsp; Si la proporci&#xF3;n del elemento fertilizante principal fuere inferior al 25% del estipulado en el an&#xE1;lisis de la venta, el comprador tendr&#xE1; derecho a acogerse a lo dispuesto en el inciso anterior, y a exigir, en caso de que no hubiere aplicado el producto, la devoluci&#xF3;n de los gastos de fletes y otros en que hubiera incurrido.</div><div class=\"p\">&nbsp; &nbsp; Si el comprador hubiere aplicado el fertilizante, tendr&#xE1; derecho a la reducci&#xF3;n de precio establecida en el inciso primero y, adem&#xE1;s, al cobro de fletes, gastos de aplicaci&#xF3;n, y de los perjuicios comprobados que le hubiere causado el empleo del fertilizante de calidad inferior.</div><div class=\"p\">&nbsp; &nbsp; En los dos &#xFA;ltimos casos el vendedor incurrir&#xE1;, adem&#xE1;s, en una multa equivalente al valor de cinco sueldos vitales mensuales a un sueldo vital anual para empleado particular de la industria y del comercio del departamento de Santiago.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_16\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115693,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18.- Las cuestiones litigiosas a que hubiere lugar en los casos de los art&#xED;culos precedentes ser&#xE1;n substanciadas en juicio sumario, con arreglo a lo establecido en el T&#xED;tulo XI del Libro III del C&#xF3;digo de Procedimiento Civil, con excepci&#xF3;n del Art. 681 del mismo C&#xF3;digo.</div><div class=\"p\">&nbsp; &nbsp; La sentencia condenatoria se fijar&#xE1; en extracto en el Juzgado respectivo, y se publicar&#xE1; a costa del vendedor, por tres veces consecutivas en un diario de la localidad.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_17\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115694,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 19.- Los Ingenieros Agr&#xF3;nomos del Departamento de Defensa Agr&#xED;cola de la Direcci&#xF3;n de Agricultura y Pesca se considerar&#xE1;n Ministros de Fe para tomar las muestras y controlar el cumplimiento de este decreto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 19&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_18\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115695,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 20.- Ser&#xE1; penado con una multa equivalente al valor de uno a dos sueldos vitales mensuales para empleado particular de la industria y del comercio del departamento de Santiago el vendedor que infringiere lo dispuesto en los Arts. 6.o, 7.o, 8.o, 9.o, 10 y 11 de este decreto.</div><div class=\"p\">&nbsp; &nbsp; Si el incumplimiento de dichas disposiciones significara manifiestamente el prop&#xF3;sito de enga&#xF1;ar al comprador o de entregarle un producto diverso del ofrecido, se reputar&#xE1; que esta venta constituye delito de falsificaci&#xF3;n y ser&#xE1; sancionada con una multa equivalente al valor de cinco&nbsp; sueldos vitales mensuales a un sueldo vital anual para empleado particular de la industria y del comercio del departamento de Santiago, sin perjuicio de la pena que establece el Art. 473 del C&#xF3;digo Penal.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 20&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_19\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115696,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21.- Corresponder&#xE1; al Ministerio de Agricultura tomar a su cargo la explotaci&#xF3;n de los yacimientos de fertilizantes que sean de propiedad del Estado, en los casos y bajo las condiciones que autorice el Presidente de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 21&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_20\">DL 2886 1979<br>Art 3</span></div></div>"
+        },
+        {
+          "part_id": 7115697,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22.- El Ministerio de Agricultura podr&#xE1; conceder a particulares la explotaci&#xF3;n de yacimientos de fertilizantes de propiedad del Estado, si se ofrecieren condiciones m&#xE1;s ventajosas que aquellas que pudieran obtenerse de la explotaci&#xF3;n de dichos yacimientos por el Ministerio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_21\">DL 2886 1979<br>Art 3</span></div></div>"
+        },
+        {
+          "part_id": 7115698,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 23.- Res&#xE9;rvese al Estado los yacimientos de carbonato de calcio, fosfatos y sales pot&#xE1;sicas que se encuentren en terrenos fiscales o nacionales de uso p&#xFA;blico, o de las Municipalidades, siempre que sobre los dep&#xF3;sitos mencionados no se hubiere constituido, en conformidad a leyes anteriores, propiedad minera particular que estuviere vigente.</div><div class=\"p\">&nbsp; &nbsp; En consecuencia, no se podr&#xE1; constituir pertenencia minera sobre yacimientos que contengan las substancias indicadas en este art&#xED;culo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 23&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_22\">DL 2886 1979<br>Art 3</span></div></div>"
+        },
+        {
+          "part_id": 7115699,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 24.- Se autoriza al Presidente de la Rep&#xFA;blica para que, previo informe del Ministerio de Agricultura, declare de utilidad p&#xFA;blica y expropie los yacimientos de carbonato de calcio, fosfato y sales pot&#xE1;sicas que crea conveniente, con el fin de explotarlos por cuenta fiscal.</div><div class=\"p\">&nbsp; &nbsp; Para llevar a efecto la explotaci&#xF3;n, se nombrar&#xE1; una comisi&#xF3;n de dos peritos: uno lo designar&#xE1; el Presidente de la Rep&#xFA;blica, y deber&#xE1; ser Ingeniero de Minas, miembro del Ministerio de Miner&#xED;a; el otro ser&#xE1; designado por el propietario del yacimiento que se expropie.</div><div class=\"p\">&nbsp; &nbsp; Los dos peritos nombrar&#xE1;n, antes de actuar y de com&#xFA;n acuerdo, a un tercero. En caso de no producirse acuerdo con la designaci&#xF3;n del tercer perito, el nombramiento deber&#xE1; hacerse por el Juzgado Civil del departamento en que se halle ubicado el yacimiento, y que estuviere de turno al momento de la presentaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; Si los peritos nombrados por las partes no llegaren a acuerdo sobre el monto de la expropiaci&#xF3;n, actuar&#xE1; el tercero; y si el precio que &#xE9;ste fijare no fuere aceptado por las partes, se elevar&#xE1;n los antecedentes a la Corte de Apelaciones que corresponde. Este tribunal fallar&#xE1; en &#xFA;nica instancia, sirvi&#xE9;ndole de antecedentes los informes evacuados por los peritos. Las partes tendr&#xE1;n un plazo de quince d&#xED;as para ocurrir a la Corte de Apelaciones con el fin se&#xF1;alado precedentemente. Si no lo hicieren dentro de este plazo, se entender&#xE1; que aceptan el monto de la indemnizaci&#xF3;n fijada por el tercer perito.</div><div class=\"p\">&nbsp; &nbsp; Producido el fallo, el Ministerio de Agricultura podr&#xE1; tomar inmediatamente la posesi&#xF3;n material del yacimiento y de las instalaciones, si las hubiere, previo el pago del valor correspondiente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 24&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_23\">DL 2886 1979<br>Art 3</span></div></div>"
+        },
+        {
+          "part_id": 7115705,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 30.- El trazado de caminos o v&#xED;as f&#xE9;rreas que en alguno de sus puntos quede a una distancia inferior a dos kil&#xF3;metros de las covaderas, deber&#xE1; ser aprobado por el Ministerio de Agricultura, antes de procederse a la ejecuci&#xF3;n de las obras.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 30&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_24\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115706,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 31.- El Reglamento que se dicte considerar&#xE1; en forma especial las disposiciones convenientes a la multiplicaci&#xF3;n, conservaci&#xF3;n y cuidado de las aves guan&#xED;feras, y adoptar&#xE1; medidas procedentes de aumento del a&#xE9;rea de concurrencia de estas aves.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 31&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_25\">DL 3557 198<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115707,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 32.- Proh&#xED;bense las exportaciones de toda clase de guano de convaderas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 32&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_26\">Ley 18215<br>Art Unico</span></div></div>"
+        },
+        {
+          "part_id": 7115708,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 33.- Las concesiones para la explotaci&#xF3;n de cada covadera de guano blanco no podr&#xE1; otorgarse por un plazo mayor de un a&#xF1;o. El Reglamento que dicte el Presidente de la Rep&#xFA;blica fijar&#xE1; los plazos para las concesiones de guano rojo, las que no podr&#xE1;n otorgarse por un per&#xED;odo superior a cinco a&#xF1;os, plazo que podr&#xE1; extenderse hasta diez a&#xF1;os, cuando se trate de guanos concentrados por procedimientos autorizados por el Ministerio de Agricultura.</div><div class=\"p\">&nbsp; &nbsp; Las concesiones que se otorguen ser&#xE1;n reducidas a escritura p&#xFA;blica.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 33&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_27\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115709,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 34.- La explotaci&#xF3;n de las covaderas de guano blanco deber&#xE1; hacerse por rotaci&#xF3;n y en forma racional, debiendo dejarse una cantidad suficiente de guano para el anidamiento de las aves y la buena incubaci&#xF3;n de los huevos.</div><div class=\"p\">&nbsp; &nbsp; S&#xF3;lo podr&#xE1; extraerse la totalidad del guano blanco de una covadera, cuando el Ministerio de Agricultura lo autorice. Esta autorizaci&#xF3;n s&#xF3;lo podr&#xE1; otorgarse a indicaci&#xF3;n de la Direcci&#xF3;n de Agricultura y Pesca, despu&#xE9;s de constatar alguna enfermedad en las aves, que requiera el saneamiento.</div><div class=\"p\">&nbsp; &nbsp; No podr&#xE1; efectuarse extracci&#xF3;n de guano blanco en los meses comprendidos entre Octubre y Marzo, inclusive.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 34&#xB0;.- La explotaci&#xF3;n de las covaderas de guano blanco deber&#xE1; hacerse por rotaci&#xF3;n y en forma racional, debiendo dejarse una cantidad suficiente de guano para el anidamiento de las aves y la buena incubaci&#xF3;n de los huevos.</div><div class=\"p\">&nbsp; &nbsp; S&#xF3;lo podr&#xE1; extraerse la totalidad del guano blanco de una covadera cuando el Ministerio de Agricultura lo autorice. Esta autorizaci&#xF3;n s&#xF3;lo podr&#xE1; otorgarse a indicaci&#xF3;n de la Direcci&#xF3;n de Agricultura y Pesca, despu&#xE9;s de constatar alguna enfermedad en las aves, que requiera el saneamiento.</div><div class=\"p\">&nbsp; &nbsp; No podr&#xE1; efectuarse extracci&#xF3;n de guano blanco m&#xE1;<span class=\"n\" id=\"n_28\">DFL 15 (Hda)<br>1968<br>Art 5&#xB0; N&#xB0; 7</span>s de seis meses en cada a&#xF1;o calendario.</div><br></div>"
+        },
+        {
+          "part_id": 7115710,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 35.- El Ministerio de Agricultura determinar&#xE1;, dentro de cada a&#xF1;o, las covederas que se encuentren en estado de explotaci&#xF3;n. S&#xF3;lo autorizar&#xE1; la explotaci&#xF3;n de cada una de ellas, despu&#xE9;s de haber comprobado una acumulaci&#xF3;n de guano que estime suficiente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 35&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_29\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115711,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 36.- Los guanos se vender&#xE1;n por unidades fertilizantes. Los precios de venta a los interesados los fijar&#xE1; anualmente el Ministerio de Agricultura, tomando en cuenta los costos de producci&#xF3;n, transporte, distribuci&#xF3;n y el inter&#xE9;s de los consumidores.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 36&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_30\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115712,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 37.- Ser&#xE1;n sancionados con multas equivalentes de uno a doce sueldos vitales mensuales para empleado particular de la industria y del comercio del departamento de Santiago los infractores a lo dispuesto en las letras &quot;i&quot; y &quot;j&quot; del art&#xED;culo 3.o de este decreto.</div><div class=\"p\">&nbsp; &nbsp; Los infractores a lo dispuesto en los art&#xED;culos 25, 26 y 27 ser&#xE1;n sancionados con prisi&#xF3;n de cinco a sesenta d&#xED;as, inconmutables.</div><div class=\"p\">&nbsp; &nbsp; Los infractores a lo establecido en el inciso segundo del art&#xED;culo 27 sufrir&#xE1;n una multa de uno a cinco sueldos vitales mensuales para empleado particular de la industria y del comercio del departamento de Santiago.</div><div class=\"p\">&nbsp; &nbsp; Los que infrinjan las disposiciones del art&#xED;culo 28 ser&#xE1;n penados con multas equivalentes al valor de uno a cinco sueldos vitales mensuales para empleado particular de la industria y del comercio del departamento de Santiago, sin perjuicio de otras sanciones que las autoridades mar&#xED;timas o de aviaci&#xF3;n puedan aplicar a los infractores de las mismas, en conformidad a las leyes vigentes sobre navegaci&#xF3;n mar&#xED;tima o a&#xE9;rea.</div><div class=\"p\">&nbsp; &nbsp; La misma pena se&#xF1;alada en el inciso anterior se aplicar&#xE1; a los que infrinjan las disposiciones del art&#xED;culo 32 y, adem&#xE1;s, en todo caso, el comiso del cargamento de guano que se haya tratado de exportar.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 37&#xB0;.- Los infractores a lo<span class=\"n\" id=\"n_31\">DL 3557 1980<br>Art 47 c)</span> dispuesto en los art&#xED;culos 25&#xB0;, 26&#xB0;y 27&#xB0; ser&#xE1;n sancionados con prisi&#xF3;n de cinco a sesenta d&#xED;as, inconmutables.</div></div>"
+        },
+        {
+          "part_id": 7115713,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 38.- Los concesionarios de explotaciones de yacimientos de fertilizantes, que infrinjan las disposiciones de los contratos que hayan suscrito, o que suscriban ser&#xE1;n sancionados con la caducidad inmediata de los respectivos contratos, sin perjuicio del pago de las multas que en los mismos deber&#xE1;n estipularse. Los afectados por la caducidad podr&#xE1;n deducir ante los Tribunales de Justicia las acciones que correspondan en conformidad&nbsp; a las leyes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 38&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_32\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115714,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 39.- Para los efectos de este decreto se entiende por: Desinfectantes, aquellos productos que se emplean como microbicidas o bacterias de uso externo aplicables a cultivos agr&#xED;colas.</div><div class=\"p\">&nbsp; &nbsp; Pesticidas, todos los compuestos qu&#xED;micos org&#xE1;nicos o inorg&#xE1;nicos y las substancias naturales que se utilizan para combatir organismos capaces de causar perjuicios a cultivos agr&#xED;colas.</div><div class=\"p\">&nbsp; &nbsp; Son especies de pesticidas: los fungicidas, los insecticidas y los herbicidas, productos que atacan hongos, insectos y malezas, respectivamente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 39&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_33\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115715,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 40.- Corresponde al Ministerio de Agricultura adoptar las medidas que estime conveniente para evitar la introducci&#xF3;n al pa&#xED;s y la propagaci&#xF3;n dentro del territorio nacional de plagas de la agricultura y enfermedades del ganado, de las aves y de los peces, combatir las existentes y fomentar y controlar la producci&#xF3;n, comercializaci&#xF3;n, distribuci&#xF3;n y aplicaci&#xF3;n de los elementos y productos qu&#xED;micos y biol&#xF3;gicos destinados a prevenirlas y extirparlas, sin perjuicio de la aplicaci&#xF3;n de las disposiciones del C&#xF3;digo Sanitario.</div><div class=\"p\">&nbsp; &nbsp; En ejercicio de estas facultades el Ministerio podr&#xE1; declarar zonas infectadas, cuarentenas, ordenar vacunaciones y cualesquiera otras medidas de control obligatorio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 40&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_35\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115716,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 41.- Podr&#xE1;n ser bonificadas con cargo fiscal hasta el 50% del valor de los desinfectantes, herbicidas y pesticidas que los agricultores empleen efectivamente cada a&#xF1;o calendario en los cultivos que sean declarados esenciales por el Ministerio de Agricultura.</div><div class=\"p\">&nbsp; &nbsp; Esta bonificaci&#xF3;n se decretar&#xE1; anualmente por decreto supremo expedido por el Ministerio de Hacienda y con la firma del Ministerio de Agricultura.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 41&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_34\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115717,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 42.- Las bonificaciones a que se refieren los art&#xED;culos 2.o y 41 del presente decreto se financiar&#xE1;n con cargo a los fondos que las leyes anuales de presupuestos contemplen con tal objeto, en el Presupuesto del Ministerio de Agricultura.</div><div class=\"p\">&nbsp; &nbsp; Las mercader&#xED;as o productos bonificados deber&#xE1;n venderse al agricultor al precio que resulte deducida la bonificaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 42&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_36\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        },
+        {
+          "part_id": 7115718,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 43.- La aplicaci&#xF3;n y cobro de las multas establecidas en el presente decreto se sujetar&#xE1;n a las normas contempladas en las letras a), b), c), d) y e) del art&#xED;culo 50.o de la ley N.o 15.020, sobre Reforma Agraria.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 43&#xB0;.- Derogado.</div><div class=\"p\"><span class=\"n\" id=\"n_37\">DL 3557 1980<br>Art 47 c)</span></div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-09-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7115686,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 11&#xB0;.- Los fabricantes, importadores y<span class=\"n\" id=\"n_10\">DL 3557 1980<br>Art 47 b)</span> distribuidores de fertilizantes estar&#xE1;n obligados a comunicar al Servicio la iniciaci&#xF3;n de sus actividades con indicaci&#xF3;n del lugar de ubicaci&#xF3;n de los establecimientos que operen.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xB0;. Derog<span class=\"n\" id=\"n_10\"><a href=\"navegar?idNorma=1162023&amp;idParte=10246696&amp;idVersion=2022-09-27\">Ley 21349<br>Art. 18<br>D.O. 26.06.2021</a></span>ado.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1162023,
+      "fecha": "2022-09-27"
+    }
+  }
+]

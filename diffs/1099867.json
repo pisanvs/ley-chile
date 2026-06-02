@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2017-02-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-05-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9767195,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;bese &quot;Plano de descripci&#xF3;n territorio aplicaci&#xF3;n art&#xED;culo 117 Ley LGUC&quot;, el cual grafica las zonas afectas por la postergaci&#xF3;n selectiva de permisos en zonas o sectores de la comuna, por modificaci&#xF3;n N&#xBA; 3 al Plan Regulador Comunal (PRC) en desarrollo.</div><div class=\"p\">&nbsp; &nbsp;  2.- Apru&#xE9;bese la aplicaci&#xF3;n del art&#xED;culo 117 de la Ley General de Urbanismo y Construcciones y art&#xED;culo 1.4.18 de la Ordenanza General de la Ley General de Urbanismo y Construcciones, referido a la postergaci&#xF3;n de permisos de construcciones seg&#xFA;n altura de edificaci&#xF3;n, en dos zonas definidas por el Plan Regulador Comunal (PRC) vigente, ZONA RM1 y ZONA RM2, espec&#xED;ficamente para los casos que consulten altura de edificaci&#xF3;n superior a 3 pisos y/o 10,5 metros en todas las zonas RM1, as&#xED; como para los casos que consulten altura de edificaci&#xF3;n superior a 5 pisos y/o 17,5 metros en todas las zonas RM2, en el territorio de la comuna.</div><div class=\"p\">&nbsp; &nbsp;  3.- El Departamento de Relaciones P&#xFA;blicas deber&#xE1; publicar en el Diario Oficial y en un diario de circulaci&#xF3;n comunal el presente decreto alcaldicio.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;bese &quot;Plano de descripci&#xF3;n territorio aplicaci&#xF3;n art&#xED;culo 117 Ley LGUC&quot;, el cual grafica las zonas afectas por la postergaci&#xF3;n selectiva de permisos <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>en zonas o sectores de la comuna, por modificaci&#xF3;n N&#xBA; 3 al Plan Regulador Comunal (PRC) en desarrollo.</div><div class=\"p\">&nbsp; &nbsp;  2.- Apru&#xE9;bese la aplicaci&#xF3;n del art&#xED;culo 117 de la Ley General de Urbanismo y Construcciones y art&#xED;culo 1.4.18 de la Ordenanza General de la Ley General de Urbanismo y Construcciones, referido a la postergaci&#xF3;n de permisos de construcciones seg&#xFA;n altura de edificaci&#xF3;n, en dos zonas definidas por el Plan Regulador Comunal (PRC) vigente, ZONA RM1 y ZONA RM2, espec&#xED;ficamente para los casos que consulten altura de edificaci&#xF3;n superior a 3 pisos y/o 10,5 metros en todas las zonas RM1, as&#xED; como para los casos que consulten altura de edificaci&#xF3;n superior a 5 pisos y/o 17,5 metros en todas las zonas RM2, en el territorio de la comuna.</div><div class=\"p\">&nbsp; &nbsp;  3.- El Departamento de Relaciones P&#xFA;blicas deber&#xE1; publicar en el Diario Oficial y en un diario de circulaci&#xF3;n comunal el presente decreto alcaldicio.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 1303 Exenta, Vivienda, publicado el 05.05.2017, modifica la presente norma en el sentido de prorrogar por el plazo de siete meses la postergaci&#xF3;n de permisos de construcci&#xF3;n, correspondiente a las Zonas RM1 y RM2, espec&#xED;ficamente para los casos que consulten altura de edificaci&#xF3;n superior a 3 pisos y/o 10,5 metros en todas las Zonas RM1, as&#xED; como para los casos que consulten altura de edificaci&#xF3;n superior a 5 pisos y/o 17,5 metros en toda la Zona RM2, de acuerdo con los pol&#xED;gonos irregulares graficados en el &quot;Plano Descripci&#xF3;n Territorio Aplicaci&#xF3;n Art&#xED;culo N&#xB0; 117 L.G.U.C.&quot;, de diciembre de 2016.</div></div>"
+        }
+      ]
+    }
+  }
+]

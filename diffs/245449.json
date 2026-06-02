@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-12-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6554199,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- El presente decreto entrar&#xE1; en vigencia a partir del 1 de enero de 2006.</div><br><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

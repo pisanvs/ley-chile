@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2003-08-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-04-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6436000,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese la siguiente &#xE1;rea de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos, en el Sector de la II Regi&#xF3;n denominado Punta Campamento, en un &#xE1;rea inscrita en la figura irregular, entre la l&#xED;nea de la m&#xE1;s baja marea y sus v&#xE9;rtices cuyas coordenadas son las siguientes:</div><br><br><div class=\"p\"> (CARTA SHOA N&#xBA; 1330; ESC. 1:50.000; 9&#xAA; ED. 1982)</div><br><div class=\"p\">&nbsp; V&#xE9;rtices&nbsp; &nbsp;  Latitud S.&nbsp; &nbsp; &nbsp; Longitud W.</div><br><div class=\"p\">&nbsp; &nbsp;  A&nbsp; &nbsp;  23&#xB0; 01&apos; 17,40&quot;&nbsp; &nbsp;  070&#xB0; 30&apos; 53,03&quot;</div><div class=\"p\">&nbsp; &nbsp;  B&nbsp; &nbsp;  23&#xB0; 00&apos; 55,96&quot;&nbsp; &nbsp;  070&#xB0; 30&apos; 52,96&quot;</div><div class=\"p\">&nbsp; &nbsp;  C&nbsp; &nbsp;  23&#xB0; 02&apos; 21,40&quot;&nbsp; &nbsp;  070&#xB0; 32&apos; 00,00&quot;</div><div class=\"p\">&nbsp; &nbsp;  D&nbsp; &nbsp;  23&#xB0; 02&apos; 38,37&quot;&nbsp; &nbsp;  070&#xB0; 32&apos; 00,00&quot;</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese la siguiente &#xE1;rea de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos, en el Sector de la II Regi&#xF3;n denominado Punta Campamento, en un &#xE1;rea inscrita en la figura irregular, entre la l&#xED;nea de la m&#xE1;s baja marea y sus v&#xE9;rtices cuyas coordenadas son las siguientes:</div><div class=\"p\">(CARTA SHOA N&#xBA; 1330; ESC. 1:50.000; 9&#xAA; ED. 1982)</div><div class=\"p\">&nbsp;  V&#xE9;rtice&nbsp; &nbsp;  Latitud S.&nbsp; &nbsp; &nbsp; Longitud W.<span class=\"n\" id=\"n_0\">DTO 521 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 22.04.2005</span></div><div class=\"p\">&nbsp; &nbsp;  A&nbsp; &nbsp; &nbsp;  23&#xB0;01&apos;18,06&quot;&nbsp; &nbsp;  70&#xB0;30&apos;55,94&quot;</div><div class=\"p\">&nbsp; &nbsp;  B&nbsp; &nbsp; &nbsp;  23&#xB0;00&apos;55,96&quot;&nbsp; &nbsp;  70&#xB0;30&apos;55,94&quot;</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-08-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6436000,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese la siguiente &#xE1;rea de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos, en el Sector de la II Regi&#xF3;n denominado Punta Campamento, en un &#xE1;rea inscrita en la figura irregular, entre la l&#xED;nea de la m&#xE1;s baja marea y sus v&#xE9;rtices cuyas coordenadas son las siguientes:</div><div class=\"p\">(CARTA SHOA N&#xBA; 1330; ESC. 1:50.000; 9&#xAA; ED. 1982)</div><div class=\"p\">&nbsp;  V&#xE9;rtice&nbsp; &nbsp;  Latitud S.&nbsp; &nbsp; &nbsp; Longitud W.<span class=\"n\" id=\"n_0\">DTO 521 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 22.04.2005</span></div><div class=\"p\">&nbsp; &nbsp;  A&nbsp; &nbsp; &nbsp;  23&#xB0;01&apos;18,06&quot;&nbsp; &nbsp;  70&#xB0;30&apos;55,94&quot;</div><div class=\"p\">&nbsp; &nbsp;  B&nbsp; &nbsp; &nbsp;  23&#xB0;00&apos;55,96&quot;&nbsp; &nbsp;  70&#xB0;30&apos;55,94&quot;</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Establ&#xE9;cese la siguiente &#xE1;rea de manejo y explotaci&#xF3;n de recursos bent&#xF3;nicos, en el Sector de la II Regi&#xF3;n denominado Punta Campamento, en un &#xE1;rea inscrita en la figura irregular, entre la l&#xED;nea de la m&#xE1;s baja marea y sus v&#xE9;rtices cuyas coordenadas son las siguientes: <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div></div><div class=\"p\">(CARTA SHOA N&#xBA; 1330; ESC. 1:50.000; 9&#xAA; ED. 1982)</div><div class=\"p\">&nbsp;  V&#xE9;rtice&nbsp; &nbsp;  Latitud S.&nbsp; &nbsp; &nbsp; Longitud W.<span class=\"n\" id=\"n_0\">DTO 521 EXENTO,<br>ECONOMIA<br>Art. &#xFA;nico<br>D.O. 22.04.2005</span></div><div class=\"p\">&nbsp; &nbsp;  A&nbsp; &nbsp; &nbsp;  23&#xB0;01&apos;18,06&quot;&nbsp; &nbsp;  70&#xB0;30&apos;55,94&quot;</div><div class=\"p\">&nbsp; &nbsp;  B&nbsp; &nbsp; &nbsp;  23&#xB0;00&apos;55,96&quot;&nbsp; &nbsp;  70&#xB0;30&apos;55,94&quot;</div><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 408 Exento, Econom&#xED;a, publicado el 02.08.2014, modifica la presente norma en el sentido de regularizar su cartograf&#xED;a de acuerdo a lo indicado en la propia norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

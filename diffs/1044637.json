@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2012-10-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-10-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9305156,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Excl&#xFA;yanse del concurso p&#xFA;blico correspondiente al tercer cuatrimestre de 2012, en virtud de las disposiciones se&#xF1;aladas en los Considerandos, las frecuencias correspondientes a las concesiones de radiodifusi&#xF3;n sonora para las localidades que a continuaci&#xF3;n se indican:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/28747.jpg\">. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Excl&#xFA;yanse del concurso p&#xFA;blico <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>correspondiente al tercer cuatrimestre de 2012, en virtud de las disposiciones se&#xF1;aladas en los Considerandos, las frecuencias correspondientes a las concesiones de radiodifusi&#xF3;n sonora para las localidades que a continuaci&#xF3;n se indican:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/28747.jpg\">. </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 5164 Exenta, Transportes, publicada el 30.10.2012, viene a rectificar la presente resoluci&#xF3;n en el sentido excluir de la misma la localidad de Coronel, VIII Regi&#xF3;n, la que en consecuencia, estar&#xE1; disponible en el concurso del tercer cuatrimestre de 2012.</div></div>"
+        }
+      ]
+    }
+  }
+]

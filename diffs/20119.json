@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1994-06-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-05-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8271758,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA NORMAS OFICIALES DE LA REPUBLICA LAS QUE INDICA, APROBADAS POR EL INSTITUTO NACIONAL DE NORMALIZACION</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 92 exento.- Santiago, 30 de mayo de 1994.</div><div class=\"p\">&nbsp; &nbsp; Visto: Estos antecedentes; el oficio N&#xB0; 10584-400, de fecha 04-03-94 del Instituto Nacional de Normalizaci&#xF3;n; lo informado por el Sr. Superintendente de Electricidad y Combustibles mediante el Ord. N&#xB0; 1.512 de fecha 15.04.94 y por la Secretar&#xED;a Ejecutiva de la Comisi&#xF3;n Nacional de Energ&#xED;a, mediante el Ord. N&#xB0; 455-94 de fecha 25.05.94; el D.F.L. N&#xB0; 1 de 1988, de Miner&#xED;a; lo dispuesto en el art&#xED;culo 3&#xB0; N&#xB0; 14 y N&#xB0; 26 de la Ley N&#xB0; 18.410; el D.F.L. N&#xB0; 88, de Hacienda, de 1953, y lo previsto en el Decreto N&#xB0; 654, de 1994, del Ministerio del Interior y en la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DECLARA NORMAS OFICIALES DE LA REPUBLICA LAS QUE INDICA, APROBADAS POR EL INSTITUTO NACIONAL DE NORMALIZACION</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 92 exento.- Santiago, 30 de mayo de 1994.</div><div class=\"p\">&nbsp; &nbsp; Visto: Estos antecedentes; el oficio N&#xB0; 10584-400, de fecha 04-03-94 del Instituto Nacional de Normalizaci&#xF3;n; lo informado por el Sr. Superintendente de Electricidad y Combustibles mediante el Ord. N&#xB0; 1.512 de fecha 15.04.94 y por la Secretar&#xED;a Ejecutiva de la Comisi&#xF3;n Nacional de Energ&#xED;a, mediante el Ord. N&#xB0; 455-94 de fecha 25.05.94; el D.F.L. N&#xB0; 1 de 1988, de Miner&#xED;a; lo dispuesto en el art&#xED;culo 3&#xB0; N&#xB0; 14 y N&#xB0; 26 de la Ley N&#xB0; 18.410; el D.F.L. N&#xB0; 88, de Hacienda, de 1953, y lo previsto en el Decreto N&#xB0; 654, de 1994, del Ministerio del Interior y en la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

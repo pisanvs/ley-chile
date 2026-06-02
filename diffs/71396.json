@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1997-05-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-12-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7207358,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 348 EXENTO, DE 1996 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA; 348 EXENTO, DE 1996</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

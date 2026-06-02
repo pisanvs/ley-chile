@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-10-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-11-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6442585,
+          "old": "<div><div class=\"p\">RESOLUCION N&#xBA; 56 EXENTA DE 2003 </div></div>",
+          "new": "<div><div class=\"p\">RESOLUCION N&#xBA; 56 EXENTA DE 2003</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-06-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-05-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6283157,
+          "old": "<div><div class=\"p\">OTORGA CONCESION DE SERVICIO PUBLICO DE TRANSMISION DE DATOS FIJO POR SATELITE A TELEDESIC DE CHILE COMUNICACIONES LIMITADA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 12 de mayo de 2000.- Con esta fecha se ha decretado lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 230.- Vistos:</div><br><div class=\"p\">a)&nbsp;  El decreto ley N&#xBA; 1.762 de 1977.</div><div class=\"p\">b)&nbsp;  La ley N&#xBA; 18.168 de 1982, Ley General de Telecomunicaciones.</div><div class=\"p\">c)&nbsp;  El art&#xED;culo 1&#xBA; de la ley N&#xBA; 16.436 de 1966.</div><div class=\"p\">d)&nbsp;  El N&#xBA; 1 del art&#xED;culo 3 p&#xE1;rrafo III de la resoluci&#xF3;n N&#xBA; 55 de 1992, cuyo texto refundido, coordinado y sistematizado fue fijado por la resoluci&#xF3;n N&#xBA; 520 de 1996, ambas de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">e)&nbsp;  La resoluci&#xF3;n exenta N&#xBA; 1.753 del 13.12.99, que fij&#xF3; la Norma T&#xE9;cnica para el Servicio P&#xFA;blico de Transmisi&#xF3;n de Datos Fijo por Sat&#xE9;lite,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Lo solicitado por la interesada mediante ingreso Subtel N&#xBA; 24.517 del 03.11.98, </div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">OTORGA CONCESION DE SERVICIO PUBLICO DE TRANSMISION DE DATOS FIJO POR SATELITE A TELEDESIC DE CHILE COMUNICACIONES LIMITADA</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 12 de mayo de 2000.- Con esta fecha se ha decretado lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 230.- Vistos:</div><br><div class=\"p\">a)&nbsp;  El decreto ley N&#xBA; 1.762 de 1977.</div><div class=\"p\">b)&nbsp;  La ley N&#xBA; 18.168 de 1982, Ley General de Telecomunicaciones.</div><div class=\"p\">c)&nbsp;  El art&#xED;culo 1&#xBA; de la ley N&#xBA; 16.436 de 1966.</div><div class=\"p\">d)&nbsp;  El N&#xBA; 1 del art&#xED;culo 3 p&#xE1;rrafo III de la resoluci&#xF3;n N&#xBA; 55 de 1992, cuyo texto refundido, coordinado y sistematizado fue fijado por la resoluci&#xF3;n N&#xBA; 520 de 1996, ambas de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">e)&nbsp;  La resoluci&#xF3;n exenta N&#xBA; 1.753 del 13.12.99, que fij&#xF3; la Norma T&#xE9;cnica para el Servicio P&#xFA;blico de Transmisi&#xF3;n de Datos Fijo por Sat&#xE9;lite,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando: Lo solicitado por la interesada mediante ingreso Subtel N&#xBA; 24.517 del 03.11.98, </div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

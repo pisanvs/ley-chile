@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1993-07-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-04-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8922654,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 34.- Los ex&#xE1;menes m&#xE9;dicos y dental del contingente convocado al Servicio Militar Obligatorio deben ser lo suficientemente minuciosos como para garantizar que la salud f&#xED;sica y mental de los seleccionados para el acuartelamiento sea plenamente compatible con el Servicio y que s&#xF3;lo se excluya a aquellos cuya inaptitud f&#xED;sica sea afectiva.</div><div class=\"p\">&nbsp; &nbsp; Estos ex&#xE1;menes deber&#xE1;n realizarse en la forma que a continuaci&#xF3;n se se&#xF1;ala:</div><br><div class=\"p\"> a.&nbsp;  A todos los ciudadanos presentados a reconocer cuartel.</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  1) Examen M&#xE9;dico</div><div class=\"p\"> El examen m&#xE9;dico, en lo que a aspecto f&#xED;sico se refiere, consistir&#xE1; en lo siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; a)&nbsp; Examen oftalmol&#xF3;gico</div><div class=\"p\">&nbsp; &nbsp;  b)&nbsp; Examen de conformaci&#xF3;n del esqueleto y muscular</div><div class=\"p\">&nbsp; &nbsp;  c)&nbsp; Examen cardiovascular y vascular perif&#xE9;rico y del Sistema Circulatorio.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; d)&nbsp; Examen m&#xE9;dico general</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  2) Examen Dental</div><div class=\"p\">&nbsp; &nbsp; Debe ser efectuado personalmente por el Odont&#xF3;logo, en forma acuciosa a fin de determinar que no existan anomal&#xED;as graves, falta de piezas o caries de consideraci&#xF3;n.</div><div class=\"p\"> b.&nbsp;  A los ciudadanos seleccionados por el Jefe de la Comisi&#xF3;n para ser acuartelados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 1)&nbsp; Examen de Rayos X o Abreu.</div><div class=\"p\">&nbsp; &nbsp;  2)&nbsp; Examen de Sangre (Kahn St. y Pr., Grupo Sangu&#xED;neo y Rh.)</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  3)&nbsp; Examen de Orina.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 4)&nbsp; Examen de detecci&#xF3;n del SIDA.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 34.- Los ex&#xE1;menes m&#xE9;dicos y dental del contingente convocado al Servicio Militar Obligatorio deben ser lo suficientemente minuciosos como para garantizar que la salud f&#xED;sica y mental de los seleccionados para el acuartelamiento sea plenamente compatible con el Servicio y que s&#xF3;lo se excluya a aquellos cuya inaptitud f&#xED;sica sea afectiva.</div><div class=\"p\">&nbsp; &nbsp; Estos ex&#xE1;menes deber&#xE1;n realizarse en la forma que a continuaci&#xF3;n se se&#xF1;ala:</div><div class=\"p\"> a.&nbsp;  A todos los ciudadanos presentados a reconocer cuartel.</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  1) Examen M&#xE9;dico</div><div class=\"p\"> El examen m&#xE9;dico, en lo que a aspecto f&#xED;sico se refiere, consistir&#xE1; en lo siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; a)&nbsp; Examen oftalmol&#xF3;gico</div><div class=\"p\">&nbsp; &nbsp;  b)&nbsp; Examen de conformaci&#xF3;n del esqueleto y muscular</div><div class=\"p\">&nbsp; &nbsp; &nbsp; c)&nbsp; Examen cardiovascular y vascular perif&#xE9;rico y del Sistema Circulatorio.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; d)&nbsp; Examen m&#xE9;dico general</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  2) Examen Dental</div><div class=\"p\">&nbsp; &nbsp; Debe ser efectuado personalmente por el Odont&#xF3;logo, en forma acuciosa a fin de determinar que no existan anomal&#xED;as graves, falta de piezas o caries de consideraci&#xF3;n.</div><div class=\"p\"> b.&nbsp;  A los ciudadanos seleccionados por el Jefe de la Comisi&#xF3;n para ser acuartelados.</div><div class=\"p\">&nbsp; &nbsp;  1)&nbsp; Examen de Sangre (Kahn St. y Pr., Grupo<span class=\"n\" id=\"n_0\">DTO 74, DEFENSA<br>D.O. 20.04.2006</span> Sangu&#xED;neo y Rh.)</div><div class=\"p\">&nbsp; &nbsp; &nbsp; 2)&nbsp; Examen de Orina. 3)&nbsp; Examen de detecci&#xF3;n del SIDA.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2008-12-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8922608,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA &quot;REGLAMENTO DE SELECCION DE CONTINGENTE PARA LAS FUERZAS ARMADAS&quot;</div><div class=\"p\">&nbsp; &nbsp; Santiago, 4 de Junio de 1993.- Con esta fecha se ha decretado lo siguiente:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m 30.- Visto:</div><div class=\"p\">&nbsp; &nbsp; 1.- Lo se&#xF1;alado en el N&#xB0; 8 del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, 2.- Lo preceptuado en el art&#xED;culo 37 del Decreto Ley N&#xB0; 2.306 de 1978, que dicta &quot;Normas sobre Reclutamiento y Movilizaci&#xF3;n de las Fuerzas Armadas&quot;,</div><div class=\"p\">&nbsp; &nbsp; 3.- Lo dispuesto en los art&#xED;culos N&#xB0;s. 88, 89, 90 y 91 del D.S. N&#xB0; 244 (G) Reglamento Complementario del Decreto Ley N&#xB0; 2.306 de 1978, y</div><div class=\"p\">&nbsp; &nbsp; 4.- Lo propuesto por la Direcci&#xF3;n General de Movilizaci&#xF3;n Nacional.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; La necesidad de actualizar la normativa vigente sobre selecci&#xF3;n de contingente para las Fuerzas Armadas.</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA &quot;REGLAMENTO DE SELECCION DE CONTINGENTE PARA LAS FUERZAS ARMADAS&quot;</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 4 de Junio de 1993.- Con esta fecha se ha decretado lo siguiente:</div><br><div class=\"p\">&nbsp; &nbsp; N&#xFA;m 30.- Visto:</div><br><div class=\"p\">&nbsp; &nbsp; 1.- Lo se&#xF1;alado en el N&#xB0; 8 del art&#xED;culo 32 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica de Chile, 2.- Lo preceptuado en el art&#xED;culo 37 del Decreto Ley N&#xB0; 2.306 de 1978, que dicta &quot;Normas sobre Reclutamiento y Movilizaci&#xF3;n de las Fuerzas Armadas&quot;,</div><div class=\"p\">&nbsp; &nbsp; 3.- Lo dispuesto en los art&#xED;culos N&#xB0;s. 88, 89, 90 y 91 del D.S. N&#xB0; 244 (G) Reglamento Complementario del Decreto Ley N&#xB0; 2.306 de 1978, y</div><div class=\"p\">&nbsp; &nbsp; 4.- Lo propuesto por la Direcci&#xF3;n General de Movilizaci&#xF3;n Nacional.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; La necesidad de actualizar la normativa vigente sobre selecci&#xF3;n de contingente para las Fuerzas Armadas.</div><br><div class=\"p\">&nbsp; &nbsp; Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

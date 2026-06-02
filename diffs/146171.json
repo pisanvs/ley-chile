@@ -1,0 +1,455 @@
+[
+  {
+    "fecha": "1999-10-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-11-16",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7255338,
+          "old": null,
+          "new": "<div><div class=\"p\">Art&#xED;culo 49&#xBA;: * Con la finalidad de dar el<span class=\"n\" id=\"n_2\">RECTIFICACION<br>D.O. 16.11.1999</span> tratamiento que corresponde a los reclamos de la comunidad, &#xE9;stos deber&#xE1;n ser caratulados y numerados correlativamente cuando son ingresados al municipio.</div><div class=\"p\">*&nbsp; &nbsp; &nbsp; Se llevar&#xE1; un control de las fechas en que la carpeta del reclamo es enviada de un departamento a otro, debi&#xE9;ndose firmar tanto el env&#xED;o como la recepci&#xF3;n.</div><div class=\"p\">*&nbsp; &nbsp; &nbsp; Se tendr&#xE1; un control de los cumplimientos de las fechas (recepci&#xF3;n, env&#xED;o de la unidad involucrada, an&#xE1;lisis y alternativas de soluci&#xF3;n y env&#xED;o de respuesta a reclamante) para cada uno de los reclamos, actualizado y a disposici&#xF3;n del Alcalde y del Secretario Municipal.</div><br></div>"
+        },
+        {
+          "part_id": 7255341,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 59&#xBA;: Seg&#xFA;n lo dispuesto en el art&#xED;culo 58<span class=\"n\" id=\"n_12\">RECTIFICACION<br>D.O. 16.11.1999</span> letra N de la ley N&#xBA; 19.602 el municipio debe consultar a las organizaciones comunitarias territoriales (juntas de vecinos) acerca del otorgamiento, renovaci&#xF3;n y traslado de las patentes de alcoholes.</div><br></div>"
+        },
+        {
+          "part_id": 7255342,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 63&#xBA;: El resultado de las encuestas y<span class=\"n\" id=\"n_16\">RECTIFICACION<br>D.O. 16.11.1999</span> sondeos de opini&#xF3;n no ser&#xE1;n vinculantes para el municipio y s&#xF3;lo constituir&#xE1;n un elemento de apoyo para su toma de decisiones.</div><br></div>"
+        },
+        {
+          "part_id": 7255343,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 66&#xBA;: La Municipalidad fomentar&#xE1; la<span class=\"n\" id=\"n_19\">RECTIFICACION<br>D.O. 16.11.1999</span> generaci&#xF3;n de informaci&#xF3;n hacia los vecinos a trav&#xE9;s de radios locales, radios comunitarias, talleres de video, canales locales de cable, boletines informativos. Sin perjuicio de aquella que puedan obtener en las sesiones del Concejo a las que puede&nbsp; asistir cualquier ciudadano, salvo que los dos tercios de los concejales presentes acordaren que la sesi&#xF3;n sea secreta.</div><br></div>"
+        },
+        {
+          "part_id": 7255344,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 73&#xBA;: La Municipalidad y el beneficiario<span class=\"n\" id=\"n_26\">RECTIFICACION<br>D.O. 16.11.1999</span> celebrar&#xE1;n un convenio en que se establezcan las obligaciones de ambas partes, a menos que en las solicitudes de subvenci&#xF3;n se especifiquen claramente y el municipio la otorgue en esas condiciones.</div><br></div>"
+        },
+        {
+          "part_id": 7255345,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 79&#xBA;: Los proyectos que se financien por<span class=\"n\" id=\"n_32\">RECTIFICACION<br>D.O. 16.11.1999</span> medio de este fondo deben tener por objetivo &#xFA;nico el desarrollo comunitario. Sin perjuicio del Fondo de Desarrollo Vecinal, el Alcalde, con acuerdo del Concejo, podr&#xE1; establecer otras formas de participaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 7255346,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 80&#xBA;: El municipio arbitrar&#xE1; las medidas y<span class=\"n\" id=\"n_33\">RECTIFICACION<br>D.O. 16.11.1999</span> medios conducentes a que la comunidad local pueda participar en el diagn&#xF3;stico, las propuestas y la priorizaci&#xF3;n de proyectos de inter&#xE9;s comunal, para que en el proceso de formulaci&#xF3;n de los Planes de Desarrollo Comunales, de Educaci&#xF3;n y Plan Regulador se incluyan instancias, tales como:</div><br><div class=\"p\">a) Talleres por barrio, manzanas, pasajes, asentamientos habitacionales, estamentos, actividades&nbsp; relevantes, con el objeto de elaborar diagn&#xF3;sticos sobre las materias enunciadas en inciso 1&#xBA; de este art&#xED;culo.</div><div class=\"p\">b) Talleres con dirigentes de la comunidad local que les permita una visi&#xF3;n global de dichos planes.</div><div class=\"p\">c) Participaci&#xF3;n del Consejo Econ&#xF3;mico y Social Comunal junto con la Municipalidad en la elaboraci&#xF3;n de los instrumentos de planificaci&#xF3;n anual.</div><div class=\"p\">d) Fijaci&#xF3;n de un per&#xED;odo en el cual la Municipalidad reciba observaciones y consultas de la comunidad local, a partir de la presentaci&#xF3;n p&#xFA;blica de planes a largo plazo. Se podr&#xE1;n formular reclamos y observaciones sobre dichos planes, todo lo cual se recoger&#xE1; y se decidir&#xE1; por los &#xF3;rganos municipales resolutores.</div><div class=\"p\">e) Otras instancias contempladas en esta ordenanza, en las cuales la comunidad exprese sus opiniones en dichos planes.</div><br></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": 7255291,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 49&#xBA;: La comunidad local puede formar dos tipos de organizaciones comunitarias: las juntas de vecinos y las organizaciones comunitarias funcionales. </div></div>",
+          "new": null
+        },
+        {
+          "part_id": 7255294,
+          "old": "<div><div class=\"p\">e) De las respuestas </div></div>",
+          "new": null
+        },
+        {
+          "part_id": 7255305,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 59&#xBA;: Las encuestas, tendr&#xE1;n por objeto explorar las percepciones, sentimientos y proposiciones evaluativas de la comunidad hacia la gesti&#xF3;n municipal. Asimismo, podr&#xE1;n explorar la opini&#xF3;n de los vecinos (encuestas de opini&#xF3;n) para definir la acci&#xF3;n municipal en materias de inter&#xE9;s para el desarrollo de la comuna. Las encuestas podr&#xE1;n ir dirigidas a la comunidad local en general o a sectores y segmentos espec&#xED;ficos de ella. </div></div>",
+          "new": null
+        },
+        {
+          "part_id": 7255311,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 63&#xBA;: Todo ciudadano tiene el derecho constitucional de ser informado de las decisiones que adopte la autoridad comunal.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 7255316,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 66&#xBA;: Las organizaciones que cuenten con personalidad jur&#xED;dica vigente que no persigan fines de lucro, podr&#xE1;n proponer la ejecuci&#xF3;n de actividades propias de la competencia municipal con financiamiento compartido. Para este efecto podr&#xE1;n postular a subvenciones municipales.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 7255325,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 73&#xBA;: Seg&#xFA;n lo dispuesto en el art&#xED;culo 45&#xBA; de la ley N&#xBA; 19.418 sobre Juntas de Vecinos y dem&#xE1;s organizaciones comunitarias, existir&#xE1; un fondo municipal que debe destinarse a brindar apoyo financiero a proyectos espec&#xED;ficos de desarrollo comunitario, presentados por las juntas de vecinos a la Municipalidad, denominado Fondo de Desarrollo Vecinal (Fondeve). Dicho financiamiento deber&#xE1; estar incluido en el presupuesto anual y se regular&#xE1; por un reglamento interno aprobado por el concejo.</div></div>",
+          "new": null
+        },
+        {
+          "part_id": 7255333,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 79&#xBA;: El municipio arbitrar&#xE1; las medidas y medios conducentes a que la comunidad local pueda participar en el diagn&#xF3;stico, las propuestas y la priorizaci&#xF3;n de proyectos de inter&#xE9;s comunal, para que en el proceso de formulaci&#xF3;n de los Planes de Desarrollo Comunales, de Educaci&#xF3;n y Plan Regulador se incluyan instancias, tales como:</div><br><div class=\"p\">a) Talleres por barrio, manzanas, pasajes, asentamientos habitacionales, estamentos, actividades&nbsp; relevantes, con el objeto de elaborar diagn&#xF3;sticos sobre las materias enunciadas en inciso 1&#xBA; de este art&#xED;culo.</div><div class=\"p\">b) Talleres con dirigentes de la comunidad local que les permita una visi&#xF3;n global de dichos planes.</div><div class=\"p\">c) Participaci&#xF3;n del Consejo Econ&#xF3;mico y Social Comunal junto con la Municipalidad en la elaboraci&#xF3;n de los instrumentos de planificaci&#xF3;n anual.</div><div class=\"p\">d) Fijaci&#xF3;n de un per&#xED;odo en el cual la Municipalidad reciba observaciones y consultas de la comunidad local, a partir de la presentaci&#xF3;n p&#xFA;blica de planes a largo plazo. Se podr&#xE1;n formular reclamos y observaciones sobre dichos planes, todo lo cual se recoger&#xE1; y se decidir&#xE1; por los &#xF3;rganos municipales resolutores.</div><div class=\"p\">e) Otras instancias contempladas en esta ordenanza, en las cuales la comunidad exprese sus opiniones en dichos planes.</div><br></div>",
+          "new": null
+        }
+      ],
+      "changed": [
+        {
+          "part_id": 7255243,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;: El Director Regional del Servicio Electoral extender&#xE1; un certificado que acredite la inscripci&#xF3;n en los Registros Electorales del 10% de los ciudadanos que soliciten el plebiscito.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;: El Director Regional del Servicio<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 16.11.1999</span> Electoral extender&#xE1; un certificado estableciendo el n&#xFA;mero de vecinos que corresponde al 10% indicado en el art&#xED;culo anterior.</div><br></div>"
+        },
+        {
+          "part_id": 7255281,
+          "old": "<div><div class=\"p\">c) La Oficina de Partes, Reclamos e Informaciones</div></div>",
+          "new": "<div><div class=\"p\">d) La Oficina de Partes, Reclam<span class=\"n\" id=\"n_1\">DTO 8082 EXENTO<br>N&#xBA; 1<br>M. DE SAN BERNARDO<br>D.O. 26.12.2003</span>os e Informaciones</div><br><br></div>"
+        },
+        {
+          "part_id": 7255290,
+          "old": "<div><div class=\"p\">D) De las respuestas</div></div>",
+          "new": "<div><div class=\"p\">e) De las respuestas </div><br></div>"
+        },
+        {
+          "part_id": 7255295,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 50&#xBA;: Las organizaciones comunitarias son instancias de participaci&#xF3;n de los habitantes de la comuna; a trav&#xE9;s de ellas los vecinos pueden hacer llegar a las autoridades distintos proyectos, priorizaciones de intereses comunales, influir en las decisiones de las autoridades, gestionar o ejecutar obras o proyectos de incidencia en la unidad vecinal o en la comuna, etc.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 50&#xBA;: La comunidad local puede formar dos<span class=\"n\" id=\"n_3\">RECTIFICACION<br>D.O. 16.11.1999</span> tipos de organizaciones comunitarias: las juntas de vecinos y las organizaciones comunitarias funcionales. </div></div>"
+        },
+        {
+          "part_id": 7255297,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 51&#xBA;: Persiguen fines solidarios, por lo mismo no pueden perseguir ning&#xFA;n inter&#xE9;s de lucro. Las organizaciones comunitarias son organizaciones de cooperaci&#xF3;n entre los vecinos y entre &#xE9;stos con la Municipalidad para resolver problemas comunes de la unidad vecinal o de la comuna, con total gratuidad por esta gesti&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 51&#xBA;: Las organizaciones comunitarias son<span class=\"n\" id=\"n_4\">RECTIFICACION<br>D.O. 16.11.1999</span> instancias de participaci&#xF3;n de los habitantes de la comuna; a trav&#xE9;s de ellas los vecinos pueden hacer llegar a las autoridades distintos proyectos, priorizaciones de intereses comunales, influir en las decisiones de las autoridades, gestionar o ejecutar obras o proyectos de incidencia en la unidad vecinal o en la comuna, etc.</div><br></div>"
+        },
+        {
+          "part_id": 7255298,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 52&#xBA;: No son entidades pol&#xED;tico partidistas, esto es, en su seno no pueden representarse intereses de partidos pol&#xED;ticos, ni sus directivos actuar en el ejercicio de sus cargos como representantes de los intereses de &#xE9;stos.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 52&#xBA;: Persiguen fines solidarios, por lo<span class=\"n\" id=\"n_5\">RECTIFICACION<br>D.O. 16.11.1999</span> mismo no pueden perseguir ning&#xFA;n inter&#xE9;s de lucro. Las organizaciones comunitarias son organizaciones de cooperaci&#xF3;n entre los vecinos y entre &#xE9;stos con la Municipalidad para resolver problemas comunes de la unidad vecinal o de la comuna, con total gratuidad por esta gesti&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 7255299,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 53&#xBA;: Son personas jur&#xED;dicas de derecho privado y no constituyen entidades p&#xFA;blicas. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 53&#xBA;: No son entidades pol&#xED;tico<span class=\"n\" id=\"n_6\">RECTIFICACION<br>D.O. 16.11.1999</span> partidistas, esto es, en su seno no pueden representarse intereses de partidos pol&#xED;ticos, ni sus directivos actuar en el ejercicio de sus cargos como representantes de los intereses de &#xE9;stos.</div><br></div>"
+        },
+        {
+          "part_id": 7255300,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 54&#xBA;: Tienen un &#xE1;mbito territorial determinado, esto es, la unidad vecinal en el caso de las juntas de vecinos, o la comuna en el caso de las dem&#xE1;s organizaciones comunitarias.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 54&#xBA;: Son personas jur&#xED;dicas de derecho<span class=\"n\" id=\"n_7\">RECTIFICACION<br>D.O. 16.11.1999</span> privado y no constituyen entidades p&#xFA;blicas.</div><br></div>"
+        },
+        {
+          "part_id": 7255301,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 55&#xBA;: Dada su calidad de personas jur&#xED;dicas, tienen su propio patrimonio, el que no pertenece a los asociados individualmente considerados. Los efectos de los contratos y convenios que celebren, s&#xF3;lo crean derechos y obligaciones para ellas y no para los asociados.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 55&#xBA;: Tienen un &#xE1;mbito territorial<span class=\"n\" id=\"n_8\">RECTIFICACION<br>D.O. 16.11.1999</span> determinado, esto es, la unidad vecinal en el caso de las juntas de vecinos, o la comuna en el caso de las dem&#xE1;s organizaciones comunitarias.</div><br></div>"
+        },
+        {
+          "part_id": 7255302,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 56&#xBA;: Se constituyen a trav&#xE9;s de un procedimiento simplificado y obtienen su personalidad jur&#xED;dica con el s&#xF3;lo dep&#xF3;sito del acta constitutiva en la Secretar&#xED;a Municipal.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 56&#xBA;: Dada su calidad de personas<span class=\"n\" id=\"n_9\">RECTIFICACION<br>D.O. 16.11.1999</span> jur&#xED;dicas, tienen su propio patrimonio, el que no pertenece a los asociados individualmente considerados. Los efectos de los contratos y convenios que celebren, s&#xF3;lo crean derechos y obligaciones para ellas y no para los asociados.</div><br></div>"
+        },
+        {
+          "part_id": 7255303,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 57&#xBA;: Son entidades a las cuales se pueden afiliar y desafiliar voluntariamente las personas, es decir, el ingreso a ellas es un acto voluntario, personal, indelegable y a nadie que cumpla con los requisitos se le puede negar el ingreso a ellas. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 57&#xBA;: Se constituyen a trav&#xE9;s de un<span class=\"n\" id=\"n_10\">RECTIFICACION<br>D.O. 16.11.1999</span> procedimiento simplificado y obtienen su personalidad jur&#xED;dica con el s&#xF3;lo dep&#xF3;sito del acta constitutiva en la Secretar&#xED;a Municipal.</div><br></div>"
+        },
+        {
+          "part_id": 7255304,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 58&#xBA;: Seg&#xFA;n lo dispuesto en el art&#xED;culo 58 letra N de la ley N&#xBA; 19.602 el municipio debe consultar a las organizaciones comunitarias territoriales (juntas de vecinos) acerca del otorgamiento, renovaci&#xF3;n y traslado de las patentes de alcoholes.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 58&#xBA;: Son entidades a las cuales se pueden<span class=\"n\" id=\"n_11\">RECTIFICACION<br>D.O. 16.11.1999</span> afiliar y desafiliar voluntariamente las personas, es decir, el ingreso a ellas es un acto voluntario, personal, indelegable y a nadie que cumpla con los requisitos se le puede negar el ingreso a ellas.</div><br></div>"
+        },
+        {
+          "part_id": 7255308,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 60&#xBA;: Las encuestas ser&#xE1;n dispuestas por el Alcalde a trav&#xE9;s de un decreto alcaldicio, en el cual deber&#xE1; indicarse el objeto de la misma, el segmento o sector a la que est&#xE1; dirigida, y el per&#xED;odo en el cual ser&#xE1; ejecutada.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 60&#xBA;: Las encuestas, tendr&#xE1;n por objeto<span class=\"n\" id=\"n_13\">RECTIFICACION<br>D.O. 16.11.1999</span> explorar las percepciones, sentimientos y proposiciones evaluativas de la comunidad hacia la gesti&#xF3;n municipal. Asimismo, podr&#xE1;n explorar la opini&#xF3;n de los vecinos (encuestas de opini&#xF3;n) para definir la acci&#xF3;n municipal en materias de inter&#xE9;s para el desarrollo de la comuna. Las encuestas podr&#xE1;n ir dirigidas a la comunidad local en general o a sectores y segmentos espec&#xED;ficos de ella. </div></div>"
+        },
+        {
+          "part_id": 7255309,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 61&#xBA;: Las direcciones municipales podr&#xE1;n realizar estudios de sondeos de opini&#xF3;n para materias espec&#xED;ficas de su competencia, con el visto bueno previo del Alcalde.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 61&#xBA;: Las encuestas ser&#xE1;n dispuestas por el<span class=\"n\" id=\"n_14\">RECTIFICACION<br>D.O. 16.11.1999</span> Alcalde a trav&#xE9;s de un decreto alcaldicio, en el cual deber&#xE1; indicarse el objeto de la misma, el segmento o sector a la que est&#xE1; dirigida, y el per&#xED;odo en el cual ser&#xE1; ejecutada.</div><br></div>"
+        },
+        {
+          "part_id": 7255310,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 62&#xBA;: El resultado de las encuestas y sondeos de opini&#xF3;n no ser&#xE1;n vinculantes para el municipio y s&#xF3;lo constituir&#xE1;n un elemento de apoyo para su toma de decisiones.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 62&#xBA;: Las direcciones municipales podr&#xE1;n<span class=\"n\" id=\"n_15\">RECTIFICACION<br>D.O. 16.11.1999</span> realizar estudios de sondeos de opini&#xF3;n para materias espec&#xED;ficas de su competencia, con el visto bueno previo del Alcalde.</div><br></div>"
+        },
+        {
+          "part_id": 7255314,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 64&#xBA;: Ser&#xE1; misi&#xF3;n de la Municipalidad buscar el medio que considere adecuado para entregar la informaci&#xF3;n documentada de los asuntos p&#xFA;blicos en forma completa, oportuna y clara a quien la solicite. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 64&#xBA;: Todo ciudadano tiene el derecho<span class=\"n\" id=\"n_17\">RECTIFICACION<br>D.O. 16.11.1999</span> constitucional de ser informado de las decisiones que adopte la autoridad comunal. </div></div>"
+        },
+        {
+          "part_id": 7255315,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 65&#xBA;: La Municipalidad fomentar&#xE1; la generaci&#xF3;n de informaci&#xF3;n hacia los vecinos a trav&#xE9;s de radios locales, radios comunitarias, talleres de video, canales locales de cable, boletines informativos. Sin perjuicio de aquella que puedan obtener en las sesiones del Concejo a las que puede&nbsp; asistir cualquier ciudadano, salvo que los dos tercios de los concejales presentes acordaren que la sesi&#xF3;n sea secreta. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 65&#xBA;: Ser&#xE1; misi&#xF3;n de la Municipalidad<span class=\"n\" id=\"n_18\">RECTIFICACION<br>D.O. 16.11.1999</span> buscar el medio que considere adecuado para entregar la informaci&#xF3;n documentada de los asuntos p&#xFA;blicos en forma completa, oportuna y clara a quien la solicite.</div><br></div>"
+        },
+        {
+          "part_id": 7255319,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 67&#xBA;: Para lo anterior, las organizaciones podr&#xE1;n presentar programas y proyectos relativos a las funciones municipales vinculadas con necesidades sentidas de la comunidad, sea en el &#xE1;rea asistencial o en el &#xE1;rea de desarrollo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 67&#xBA;: Las organizaciones que cuenten con<span class=\"n\" id=\"n_20\">RECTIFICACION<br>D.O. 16.11.1999</span> personalidad jur&#xED;dica vigente que no persigan fines de lucro, podr&#xE1;n proponer la ejecuci&#xF3;n de actividades propias de la competencia municipal con financiamiento compartido. Para este efecto podr&#xE1;n postular a subvenciones municipales. </div></div>"
+        },
+        {
+          "part_id": 7255320,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 68&#xBA;: La colaboraci&#xF3;n municipal podr&#xE1; efectuarse v&#xED;a financiamiento o servicios traducidos en estudios.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 68&#xBA;: Para lo anterior, las organizaciones<span class=\"n\" id=\"n_21\">RECTIFICACION<br>D.O. 16.11.1999</span> podr&#xE1;n presentar programas y proyectos relativos a las funciones municipales vinculadas con necesidades sentidas de la comunidad, sea en el &#xE1;rea asistencial o en el &#xE1;rea de desarrollo.</div><br></div>"
+        },
+        {
+          "part_id": 7255321,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 69&#xBA;: El financiamiento compartido podr&#xE1; tener preferentemente los siguientes objetivos:</div><br><div class=\"p\">a)&nbsp; &nbsp;  Desarrollo de programas de financiamiento para</div><div class=\"p\">mejorar infraestructuras comunitarias, entre otros:</div><br><div class=\"p\">&nbsp; &nbsp;  -Pavimentaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp;  -Alumbrado p&#xFA;blico</div><div class=\"p\">&nbsp; &nbsp;  -Areas verdes, y</div><br><div class=\"p\">b)&nbsp; &nbsp;  Desarrollo de obras sociales, por ejemplo:</div><br><div class=\"p\">&nbsp; &nbsp;  -&nbsp; &nbsp;  Asistencia a menores</div><div class=\"p\">&nbsp; &nbsp;  -&nbsp; &nbsp;  Promoci&#xF3;n de actividades y programas para adultos mayores, etc.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 69&#xBA;: La colaboraci&#xF3;n municipal podr&#xE1;<span class=\"n\" id=\"n_22\">RECTIFICACION<br>D.O. 16.11.1999</span> efectuarse v&#xED;a financiamiento o servicios traducidos en estudios.</div><br></div>"
+        },
+        {
+          "part_id": 7255322,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 70&#xBA;: La Municipalidad proveer&#xE1; el equipo t&#xE9;cnico necesario para apoyar a la organizaci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 70&#xBA;: El financiamiento compartido podr&#xE1;<span class=\"n\" id=\"n_23\">RECTIFICACION<br>D.O. 16.11.1999</span> tener preferentemente los siguientes objetivos:</div><br><div class=\"p\">a)&nbsp; &nbsp;  Desarrollo de programas de financiamiento para mejorar infraestructuras comunitarias, entre otros:</div><br><div class=\"p\">&nbsp; &nbsp;  -Pavimentaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp;  -Alumbrado p&#xFA;blico</div><div class=\"p\">&nbsp; &nbsp;  -Areas verdes, y</div><br><div class=\"p\">b)&nbsp; &nbsp;  Desarrollo de obras sociales, por ejemplo:</div><br><div class=\"p\">&nbsp; &nbsp;  -&nbsp; &nbsp;  Asistencia a menores</div><div class=\"p\">&nbsp; &nbsp;  -&nbsp; &nbsp;  Promoci&#xF3;n de actividades y programas para adultos mayores, etc.</div><br></div>"
+        },
+        {
+          "part_id": 7255323,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 71&#xBA;: La Municipalidad estudiar&#xE1; la factibilidad t&#xE9;cnica del proyecto y lo evaluar&#xE1; en el marco del Plan Regulador, el Plan de Desarrollo Comunal y presupuesto.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 71&#xBA;: La Municipalidad proveer&#xE1; el equipo<span class=\"n\" id=\"n_24\">RECTIFICACION<br>D.O. 16.11.1999</span> t&#xE9;cnico necesario para apoyar a la organizaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 7255324,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 72&#xBA;: La Municipalidad y el beneficiario celebrar&#xE1;n un convenio en que se establezcan las obligaciones de ambas partes, a menos que en las solicitudes de subvenci&#xF3;n se especifiquen claramente y el municipio la otorgue en esas condiciones.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 72&#xBA;: La Municipalidad estudiar&#xE1; la<span class=\"n\" id=\"n_25\">RECTIFICACION<br>D.O. 16.11.1999</span> factibilidad t&#xE9;cnica del proyecto y lo evaluar&#xE1; en el marco del Plan Regulador, el Plan de Desarrollo Comunal y presupuesto.</div><br></div>"
+        },
+        {
+          "part_id": 7255328,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 74&#xBA;: Este fondo se conformar&#xE1; con aportes derivados de:</div><br><div class=\"p\">a) La Municipalidad, se&#xF1;alados en el respectivo presupuesto municipal.</div><div class=\"p\">b) Los se&#xF1;alados en la Ley de Presupuesto de la Naci&#xF3;n, en conformidad con la proporci&#xF3;n con que participe este municipio en el Fondo Com&#xFA;n Municipal.</div><div class=\"p\">c) Los aportes de vecinos y los beneficiarios de este fondo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 74&#xBA;: Seg&#xFA;n lo dispuesto en el art&#xED;culo 45&#xBA;<span class=\"n\" id=\"n_27\">RECTIFICACION<br>D.O. 16.11.1999</span> de la ley N&#xBA; 19.418 sobre Juntas de Vecinos y dem&#xE1;s organizaciones comunitarias, existir&#xE1; un fondo municipal que debe destinarse a brindar apoyo financiero a proyectos espec&#xED;ficos de desarrollo comunitario, presentados por las juntas de vecinos a la Municipalidad, denominado Fondo de Desarrollo Vecinal (Fondeve). Dicho financiamiento deber&#xE1; estar incluido en el presupuesto anual y se regular&#xE1; por un reglamento interno aprobado por el concejo. </div></div>"
+        },
+        {
+          "part_id": 7255329,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 75&#xBA;: Este es un fondo de administraci&#xF3;n municipal, es decir, la determinaci&#xF3;n y selecci&#xF3;n de los proyectos financiables, as&#xED; como la modalidad de control de su utilizaci&#xF3;n le corresponde a la Municipalidad, a trav&#xE9;s de un reglamento interno.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 75&#xBA;: Este fondo se conformar&#xE1; con aportes<span class=\"n\" id=\"n_28\">RECTIFICACION<br>D.O. 16.11.1999</span> derivados de:</div><br><div class=\"p\">a) La Municipalidad, se&#xF1;alados en el respectivo presupuesto municipal.</div><div class=\"p\">b) Los se&#xF1;alados en la Ley de Presupuesto de la Naci&#xF3;n, en conformidad con la proporci&#xF3;n con que participe este municipio en el Fondo Com&#xFA;n Municipal.</div><div class=\"p\">c) Los aportes de vecinos y los beneficiarios de este fondo.</div><br></div>"
+        },
+        {
+          "part_id": 7255330,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 76&#xBA;: El Fondeve financia proyectos de iniciativa de las juntas de vecinos, lo que implica que no pueden financiarse, directa ni indirectamente, iniciativas del municipio.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 76&#xBA;: Este es un fondo de administraci&#xF3;n<span class=\"n\" id=\"n_29\">RECTIFICACION<br>D.O. 16.11.1999</span> municipal, es decir, la determinaci&#xF3;n y selecci&#xF3;n de los proyectos financiables, as&#xED; como la modalidad de control de su utilizaci&#xF3;n le corresponde a la Municipalidad, a trav&#xE9;s de un reglamento interno.</div><br></div>"
+        },
+        {
+          "part_id": 7255331,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 77&#xBA;: Los proyectos deben ser espec&#xED;ficos, esto es, que en su formulaci&#xF3;n presenten acciones concretas a realizar.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 77&#xBA;: El Fondeve financia proyectos de<span class=\"n\" id=\"n_30\">RECTIFICACION<br>D.O. 16.11.1999</span> iniciativa de las juntas de vecinos, lo que implica que no pueden financiarse, directa ni indirectamente, iniciativas del municipio.</div><br></div>"
+        },
+        {
+          "part_id": 7255332,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 78&#xBA;: Los proyectos que se financien por medio de este fondo deben tener por objetivo &#xFA;nico el desarrollo comunitario. Sin perjuicio del Fondo de Desarrollo Vecinal, el Alcalde, con acuerdo del Concejo, podr&#xE1; establecer otras formas de participaci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 78&#xBA;: Los proyectos deben ser espec&#xED;ficos,<span class=\"n\" id=\"n_31\">RECTIFICACION<br>D.O. 16.11.1999</span> esto es, que en su formulaci&#xF3;n presenten acciones concretas a realizar.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2003-12-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7255356,
+          "old": null,
+          "new": "<div><div class=\"p\">Art&#xED;culo 49&#xBA;:<span class=\"n\" id=\"n_11\">M. DE SAN BERNARDO<br>D.O. 26.12.2003</span> .&nbsp; &nbsp; Con la finalidad de dar el tratamiento que corresponde a los reclamos de la comunidad, &#xE9;stos deber&#xE1;n ser caratulados y numerados correlativamente cuando son ingresados al municipio.</div><div class=\"p\">.&nbsp; &nbsp; Se llevar&#xE1; un control de las fechas en que la carpeta del reclamo es enviada de un departamento a otro, debi&#xE9;ndose firmar tanto el env&#xED;o como la recepci&#xF3;n.</div><div class=\"p\">.&nbsp; &nbsp; Se tendr&#xE1; un control de los cumplimientos de las fechas (recepci&#xF3;n, env&#xED;o de la unidad involucrada, an&#xE1;lisis y alternativas de soluci&#xF3;n y env&#xED;o de respuesta a reclamante) para cada uno de los reclamos, actualizado y a disposici&#xF3;n del Alcalde y del Secretario Municipal.</div><br><br></div>"
+        },
+        {
+          "part_id": 7255357,
+          "old": null,
+          "new": "<div><div class=\"p\">F) Del tratamiento administrativo<span class=\"n\" id=\"n_10\">DTO 8082 EXENTO<br>N&#xBA; 1</span></div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7255279,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 43&#xBA;: La Municipalidad habilitar&#xE1; y mantendr&#xE1; en funcionamiento una oficina de partes y reclamos abierta a la comunidad en general.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 43&#xBA;: La municipalidad habilitar&#xE1; y mantendr&#xE1; en funcionamiento una Oficina de Partes, Reclamos e Informaciones abierta a la comunidad en general.</div><br><br></div>"
+        },
+        {
+          "part_id": 7255282,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 44&#xBA;: Esta oficina tiene por objeto recoger las inquietudes de la ciudadan&#xED;a, adem&#xE1;s ingresar los formularios con las sugerencias y reclamos pertinentes. Cualquier persona podr&#xE1; hacer presentaciones. Estos reclamos pueden ser:</div><br><div class=\"p\">a)&nbsp; &nbsp;  Simples reclamos, o</div><div class=\"p\">b)&nbsp; &nbsp;  Reclamos de ilegalidad.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 44&#xBA;: Esta oficina tiene por objeto recoger<span class=\"n\" id=\"n_2\">DTO 8082 EXENTO<br>N&#xBA; 1<br>M. DE SAN BERNARDO<br>D.O. 26.12.2003</span> las inquietudes de la ciudadan&#xED;a, las que deber&#xE1;n ser formuladas por escrito y adem&#xE1;s ingresar los documentos, cartas, oficios, memor&#xE1;ndum, etc. con las sugerencias y reclamos pertinentes. Cualquier persona podr&#xE1; hacer presentaciones.</div><div class=\"p\">&nbsp; &nbsp;  Toda direcci&#xF3;n o departamento deben exhibir un aviso, visible a todo p&#xFA;blico, en el cual se se&#xF1;ale claramente que cualquier reclamo o sugerencia debe ser ingresado formalmente en la Oficina de Partes del Municipio, ubicada en Eyzaguirre 450, primer piso.</div><br><br></div>"
+        },
+        {
+          "part_id": 7255283,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 45&#xBA;: Las presentaciones deber&#xE1;n efectuarse por escrito en los formularios que para tal efecto tendr&#xE1; a disposici&#xF3;n de las personas, la Municipalidad, o, mediante el documento que determine el ocurrente.</div><br><div class=\"p\">*&nbsp; &nbsp; &nbsp; Los reclamos deber&#xE1;n ser formulados en t&#xE9;rminos claros, respetuosos y convenientes y adjuntarse los antecedentes en que se fundamenta, siempre que fuere procedente. A continuaci&#xF3;n deber&#xE1; explicarse la petici&#xF3;n que se pone en conocimiento y la decisi&#xF3;n que se pretende obtener.</div><div class=\"p\">*&nbsp; &nbsp; &nbsp; La presentaci&#xF3;n deber&#xE1; ser suscrita por el peticionario o por quien lo represente, en cuyo caso deber&#xE1; acreditarse la representatividad con documento simple, con la identificaci&#xF3;n, el domicilio completo, RUT, y el n&#xFA;mero telef&#xF3;nico, si procediere, de aqu&#xE9;l y del representante, en su caso.</div><div class=\"p\">*&nbsp; &nbsp; &nbsp; Las presentaciones deber&#xE1;n hacerse en duplicado, a fin de que el que la presente conserve una copia con timbre de ingresada en el municipio; indic&#xE1;ndose el domicilio, tel&#xE9;fono o fax donde el municipio pueda notificar o comunicar las resoluciones que se adopten.</div><div class=\"p\">*&nbsp; &nbsp; &nbsp; El funcionario que la recibe deber&#xE1; informar el curso que seguir&#xE1;, indicando el plazo en que se responder&#xE1;. El funcionario est&#xE1; obligado a recibir todos los reclamos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 45&#xBA;:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  M. DE SAN BERNARDO .&nbsp; &nbsp; Las presentaciones deber&#xE1;n efectuarse por escrito<span class=\"n\" id=\"n_3\">D.O. 26.12.2003</span> en los formularios que para tal efecto tendr&#xE1; a disposici&#xF3;n de las personas la municipalidad, o mediante el documento que determine el recurrente.</div><div class=\"p\">.&nbsp; &nbsp; La solicitud deber&#xE1; contener los siguientes datos o antecedentes:</div><br><div class=\"p\">&nbsp; &nbsp;  A) Nombre y apellidos del interesado y en su caso del Apoderado, as&#xED; como la forma de comunicaci&#xF3;n ya sea por carta o email o del lugar que se se&#xF1;ale, para los efectos de las respectivas notificaciones.</div><div class=\"p\">&nbsp; &nbsp;  B) Hechos, razones y peticiones en que consiste la solicitud.</div><div class=\"p\">&nbsp; &nbsp;  C) Lugar, fecha y hora de la presentaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  D) Firma del solicitante o acreditaci&#xF3;n de la autenticidad de su voluntad expresada y por cualquier medio habilitado.</div><br><div class=\"p\">.&nbsp; &nbsp; El procedimiento administrativo que origine la presentaci&#xF3;n formulada constar&#xE1; de tres etapas:</div><div class=\"p\">&nbsp; &nbsp;  Iniciaci&#xF3;n, instrucci&#xF3;n, finalizaci&#xF3;n.</div><br><div class=\"p\">.&nbsp; &nbsp; Todo procedimiento administrativo deber&#xE1; constar en un expediente escrito o electr&#xF3;nico en el que se asentar&#xE1;n los documentos presentados por los interesados, por terceros y por otros &#xF3;rganos p&#xFA;blicos con expresi&#xF3;n de la fecha y hora de su recepci&#xF3;n, respetando su orden de ingreso.</div><div class=\"p\">&nbsp; &nbsp;  Asimismo, se incorporar&#xE1;n las actuaciones y los documentos y resoluciones que el &#xF3;rgano administrativo remita a los interesados, a terceros o a otros &#xF3;rganos p&#xFA;blicos y las notificaciones y comunicaciones a que &#xE9;stas den lugar, con expresi&#xF3;n de la fecha y hora de su env&#xED;o, en estricto orden de ocurrencia o egreso.</div><div class=\"p\">&nbsp; &nbsp;  Adem&#xE1;s, deber&#xE1; llevarse un registro actualizado, escrito electr&#xF3;nico al que tendr&#xE1;n acceso permanente los interesados, en el que consten las actuaciones se&#xF1;aladas en el inciso precedente, con indicaciones de la fecha y hora de su presentaci&#xF3;n, ocurrencia o env&#xED;o.</div><br><div class=\"p\">.&nbsp; &nbsp; Las presentaciones deber&#xE1;n hacerse en duplicado, a fin de que el que la presente conserve una copia con timbre de ingresada en el municipio, indic&#xE1;ndose el domicilio, tel&#xE9;fono o fax donde el municipio pueda notificar o comunicar las resoluciones que se adopten.</div><br><div class=\"p\">.&nbsp; &nbsp; El funcionario que la recibe deber&#xE1; informar el curso que seguir&#xE1;, indicando el plazo en que se responder&#xE1;. El funcionario est&#xE1; obligado a recibir todos los reclamos.</div><br><br></div>"
+        },
+        {
+          "part_id": 7255284,
+          "old": "<div><div class=\"p\">A) De las formalidades</div></div>",
+          "new": "<div><div class=\"p\">A) De las formalidades</div><br></div>"
+        },
+        {
+          "part_id": 7255285,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 46&#xBA;: La Secretar&#xED;a Municipal enviar&#xE1; la petici&#xF3;n al funcionario que corresponda, seg&#xFA;n la materia de que se trate.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 46&#xBA;: El funcionario administrativo de la<span class=\"n\" id=\"n_5\">M. DE SAN BERNARDO<br>D.O. 26.12.2003</span> Oficina de Partes e Informaci&#xF3;n que reciba una solicitud, documento o expediente, deber&#xE1; hacerlo llegar a la oficina correspondiente a m&#xE1;s tardar dentro de las 24 horas siguientes de su recepci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Las Providencias de mero tr&#xE1;mite deber&#xE1;n dictarse por el jefe de la unidad correspondiente, dentro del plazo de 48 horas, contado desde la recepci&#xF3;n de la solicitud, documento o expediente.</div><div class=\"p\">&nbsp; &nbsp;  Los informes, dict&#xE1;menes u otras actuaciones similares, deber&#xE1;n evacuarse dentro del plazo de 10 d&#xED;as h&#xE1;biles contados desde la petici&#xF3;n de la diligencia.</div><div class=\"p\">&nbsp; &nbsp;  Si la solicitud no re&#xFA;ne los requisitos para ser atendido el requerimiento, se requerir&#xE1; por escrito al interesado para que en el plazo de 5 d&#xED;as h&#xE1;biles subsane la falta o acompa&#xF1;e los documentos que respalden su petici&#xF3;n, con indicaci&#xF3;n de que si as&#xED; no lo hiciere, se tendr&#xE1; por desistida su petici&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Las decisiones definitivas deber&#xE1;n expedirse dentro de los 20 d&#xED;as h&#xE1;biles siguientes contados desde que, a petici&#xF3;n del interesado, se certifique que el acto se encuentra en estado de resolverse. La prolongaci&#xF3;n injustificada de la certificaci&#xF3;n dar&#xE1; origen a responsabilidad administrativa.</div><br><br></div>"
+        },
+        {
+          "part_id": 7255286,
+          "old": "<div><div class=\"p\">B) Del tratamiento del reclamo</div></div>",
+          "new": "<div><div class=\"p\">B) Del tratamiento del reclamo<span class=\"n\" id=\"n_4\">DTO 8082 EXENTO<br>N&#xBA; 1</span></div><br></div>"
+        },
+        {
+          "part_id": 7255287,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 47&#xBA;: El plazo para contestar no podr&#xE1; ser superior a 15 d&#xED;as h&#xE1;biles, siempre que se presenten todos los antecedentes.</div><br><div class=\"p\">*&nbsp; &nbsp; &nbsp; El funcionario encargado de contestar la solicitud, tendr&#xE1; un plazo de 5 d&#xED;as h&#xE1;biles para requerir al peticionario que aclare o complete su solicitud, en caso de no haber acompa&#xF1;ado todos los antecedentes.</div><div class=\"p\">*&nbsp; &nbsp; &nbsp; El plazo de 15 d&#xED;as h&#xE1;biles correr&#xE1; desde que el peticionario subsane o complete los antecedentes.</div><div class=\"p\">*&nbsp; &nbsp; &nbsp; Si debe complentar estos antecedente, el plazo se ampl&#xED;a a 30 d&#xED;as.</div><div class=\"p\">*&nbsp; &nbsp; &nbsp; El funcionario comisionado para atender y responder la presentaci&#xF3;n, deber&#xE1; comunicar al interesado la pr&#xF3;rroga del plazo antes de su vencimiento, v&#xED;a fax o por carta certificada.</div><div class=\"p\">*&nbsp; &nbsp; &nbsp; El funcionario municipal encargado de atender el reclamo, estar&#xE1; obligado a responderlo oportuna y adecuadamente, para lo cual podr&#xE1; realizar las gestiones que estime conveniente para una pronta y expedita respuesta o soluci&#xF3;n, tales como:</div><br><div class=\"p\">&nbsp; &nbsp;  a)&nbsp; &nbsp;  Coordinarse o consultar a otros funcionarios</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; de otras unidades.</div><div class=\"p\">&nbsp; &nbsp;  b)&nbsp; &nbsp;  Citar al peticionario.</div><div class=\"p\">&nbsp; &nbsp;  c)&nbsp; &nbsp;  Realizar reuniones, etc.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 47&#xBA;:<span class=\"n\" id=\"n_7\">M. DE SAN BERNARDO<br>D.O. 26.12.2003</span> .&nbsp; &nbsp; El c&#xF3;mputo de los plazos de procedimiento administrativo son de d&#xED;as h&#xE1;biles, entendi&#xE9;ndose que son inh&#xE1;biles los d&#xED;as s&#xE1;bados, domingos y festivos.</div><div class=\"p\">.&nbsp; &nbsp; Los plazos se computar&#xE1;n desde el d&#xED;a siguiente a aquel en que se notifique o publique el acto en que se trate o se produzca su estimaci&#xF3;n o su desestimaci&#xF3;n en virtud del silencio administrativo.</div><div class=\"p\">.&nbsp; &nbsp; Cuando el &#xFA;ltimo d&#xED;a del plazo sea inh&#xE1;bil, &#xE9;ste se entender&#xE1; prorrogado al primer d&#xED;a h&#xE1;bil siguiente.</div><br><div class=\"p\">D) De la ampliaci&#xF3;n de los plazos:</div><br><div class=\"p\">.&nbsp; &nbsp; La ampliaci&#xF3;n de plazos establecidos, salvo disposici&#xF3;n en contrario, podr&#xE1; concederse, de oficio o a petici&#xF3;n de los interesados, siempre que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de terceros.</div><div class=\"p\">.&nbsp; &nbsp; Tanto la petici&#xF3;n de los interesados como la decisi&#xF3;n sobre la ampliaci&#xF3;n deber&#xE1; producirse, en todo caso, antes del vencimiento de que se trate.</div><div class=\"p\">.&nbsp; &nbsp; En ning&#xFA;n caso podr&#xE1; ser objeto de ampliaci&#xF3;n un plazo ya vencido.</div><br><br></div>"
+        },
+        {
+          "part_id": 7255288,
+          "old": "<div><div class=\"p\">C) De los plazos</div><br><br></div>",
+          "new": "<div><div class=\"p\">C) De los plazos<span class=\"n\" id=\"n_6\">DTO 8082 EXENTO<br>N&#xBA; 1</span></div><br></div>"
+        },
+        {
+          "part_id": 7255289,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 48&#xBA;: La respuesta se dar&#xE1; por escrito y se remitir&#xE1; por carta certificada, al domicilio que el interesado hubiere se&#xF1;alado en su presentaci&#xF3;n, o se pondr&#xE1; a su disposici&#xF3;n en la Oficina de Partes o Reclamo de la Municipalidad.</div><br><div class=\"p\">*&nbsp; &nbsp; &nbsp; El Alcalde responder&#xE1; todas las presentaciones, a&#xFA;n cuando la soluci&#xF3;n de los temas planteados no sea de su competencia.</div><div class=\"p\">*&nbsp; &nbsp; &nbsp; Si la presentaci&#xF3;n se refiere a alguna materia propia del &#xE1;mbito de su competencia del municipio y &#xE9;ste la considerara en su planificaci&#xF3;n y gesti&#xF3;n futura, ello le ser&#xE1; informado debidamente al ocurrente por el funcionario responsable del cumplimiento de la funci&#xF3;n con la cual se relaciona la materia.</div><div class=\"p\">*&nbsp; &nbsp; &nbsp; La oficina tambi&#xE9;n tendr&#xE1; por objeto entregar informaci&#xF3;n respecto a los diversos proyectos que est&#xE9;n en ejecuci&#xF3;n o en miras a realizarse.</div><div class=\"p\">E) Del tratamiento administrativo</div><br><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 48&#xBA;:<span class=\"n\" id=\"n_8\">M. DE SAN BERNARDO<br>D.O. 26.12.2003</span> .&nbsp; &nbsp; La respuesta se dar&#xE1; por escrito y se remitir&#xE1; por carta certificada al domicilio que el interesado hubiere se&#xF1;alado en su presentaci&#xF3;n, o se pondr&#xE1; a su disposici&#xF3;n en la Oficina de Partes, Informaciones y Reclamos de la Municipalidad o en la unidad que corresponda.</div><div class=\"p\">.&nbsp; &nbsp; El Alcalde responder&#xE1; todas las presentaciones, aun cuando la soluci&#xF3;n de los temas planteados no sea de su competencia.</div><div class=\"p\">.&nbsp; &nbsp; Si la presentaci&#xF3;n se refiere a alguna materia propia del &#xE1;mbito de su competencia del municipio y &#xE9;ste la considerara en su planificaci&#xF3;n y gesti&#xF3;n futura, ello le ser&#xE1; informado debidamente al ocurrente por el funcionario responsable del cumplimiento de la funci&#xF3;n con la cual se relaciona la materia.</div><div class=\"p\">.&nbsp; &nbsp; La oficina tambi&#xE9;n tendr&#xE1; por objeto entregar informaci&#xF3;n respecto a los diversos proyectos que est&#xE9;n en ejecuci&#xF3;n o proyectados.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 7255295,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 50&#xBA;: La comunidad local puede formar dos<span class=\"n\" id=\"n_3\">RECTIFICACION<br>D.O. 16.11.1999</span> tipos de organizaciones comunitarias: las juntas de vecinos y las organizaciones comunitarias funcionales. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 50&#xBA;: La comunidad local puede formar dos<span class=\"n\" id=\"n_12\">RECTIFICACION<br>D.O. 16.11.1999</span> tipos de organizaciones comunitarias: las juntas de vecinos y las organizaciones comunitarias funcionales. </div></div>"
+        },
+        {
+          "part_id": 7255297,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 51&#xBA;: Las organizaciones comunitarias son<span class=\"n\" id=\"n_4\">RECTIFICACION<br>D.O. 16.11.1999</span> instancias de participaci&#xF3;n de los habitantes de la comuna; a trav&#xE9;s de ellas los vecinos pueden hacer llegar a las autoridades distintos proyectos, priorizaciones de intereses comunales, influir en las decisiones de las autoridades, gestionar o ejecutar obras o proyectos de incidencia en la unidad vecinal o en la comuna, etc.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 51&#xBA;: Las organizaciones comunitarias son<span class=\"n\" id=\"n_13\">RECTIFICACION<br>D.O. 16.11.1999</span> instancias de participaci&#xF3;n de los habitantes de la comuna; a trav&#xE9;s de ellas los vecinos pueden hacer llegar a las autoridades distintos proyectos, priorizaciones de intereses comunales, influir en las decisiones de las autoridades, gestionar o ejecutar obras o proyectos de incidencia en la unidad vecinal o en la comuna, etc.</div><br></div>"
+        },
+        {
+          "part_id": 7255298,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 52&#xBA;: Persiguen fines solidarios, por lo<span class=\"n\" id=\"n_5\">RECTIFICACION<br>D.O. 16.11.1999</span> mismo no pueden perseguir ning&#xFA;n inter&#xE9;s de lucro. Las organizaciones comunitarias son organizaciones de cooperaci&#xF3;n entre los vecinos y entre &#xE9;stos con la Municipalidad para resolver problemas comunes de la unidad vecinal o de la comuna, con total gratuidad por esta gesti&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 52&#xBA;: Persiguen fines solidarios, por lo<span class=\"n\" id=\"n_14\">RECTIFICACION<br>D.O. 16.11.1999</span> mismo no pueden perseguir ning&#xFA;n inter&#xE9;s de lucro. Las organizaciones comunitarias son organizaciones de cooperaci&#xF3;n entre los vecinos y entre &#xE9;stos con la Municipalidad para resolver problemas comunes de la unidad vecinal o de la comuna, con total gratuidad por esta gesti&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 7255299,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 53&#xBA;: No son entidades pol&#xED;tico<span class=\"n\" id=\"n_6\">RECTIFICACION<br>D.O. 16.11.1999</span> partidistas, esto es, en su seno no pueden representarse intereses de partidos pol&#xED;ticos, ni sus directivos actuar en el ejercicio de sus cargos como representantes de los intereses de &#xE9;stos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 53&#xBA;: No son entidades pol&#xED;tico<span class=\"n\" id=\"n_15\">RECTIFICACION<br>D.O. 16.11.1999</span> partidistas, esto es, en su seno no pueden representarse intereses de partidos pol&#xED;ticos, ni sus directivos actuar en el ejercicio de sus cargos como representantes de los intereses de &#xE9;stos.</div><br></div>"
+        },
+        {
+          "part_id": 7255300,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 54&#xBA;: Son personas jur&#xED;dicas de derecho<span class=\"n\" id=\"n_7\">RECTIFICACION<br>D.O. 16.11.1999</span> privado y no constituyen entidades p&#xFA;blicas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 54&#xBA;: Son personas jur&#xED;dicas de derecho<span class=\"n\" id=\"n_16\">RECTIFICACION<br>D.O. 16.11.1999</span> privado y no constituyen entidades p&#xFA;blicas.</div><br></div>"
+        },
+        {
+          "part_id": 7255301,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 55&#xBA;: Tienen un &#xE1;mbito territorial<span class=\"n\" id=\"n_8\">RECTIFICACION<br>D.O. 16.11.1999</span> determinado, esto es, la unidad vecinal en el caso de las juntas de vecinos, o la comuna en el caso de las dem&#xE1;s organizaciones comunitarias.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 55&#xBA;: Tienen un &#xE1;mbito territorial<span class=\"n\" id=\"n_17\">RECTIFICACION<br>D.O. 16.11.1999</span> determinado, esto es, la unidad vecinal en el caso de las juntas de vecinos, o la comuna en el caso de las dem&#xE1;s organizaciones comunitarias.</div><br></div>"
+        },
+        {
+          "part_id": 7255302,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 56&#xBA;: Dada su calidad de personas<span class=\"n\" id=\"n_9\">RECTIFICACION<br>D.O. 16.11.1999</span> jur&#xED;dicas, tienen su propio patrimonio, el que no pertenece a los asociados individualmente considerados. Los efectos de los contratos y convenios que celebren, s&#xF3;lo crean derechos y obligaciones para ellas y no para los asociados.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 56&#xBA;: Dada su calidad de personas<span class=\"n\" id=\"n_18\">RECTIFICACION<br>D.O. 16.11.1999</span> jur&#xED;dicas, tienen su propio patrimonio, el que no pertenece a los asociados individualmente considerados. Los efectos de los contratos y convenios que celebren, s&#xF3;lo crean derechos y obligaciones para ellas y no para los asociados.</div><br></div>"
+        },
+        {
+          "part_id": 7255303,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 57&#xBA;: Se constituyen a trav&#xE9;s de un<span class=\"n\" id=\"n_10\">RECTIFICACION<br>D.O. 16.11.1999</span> procedimiento simplificado y obtienen su personalidad jur&#xED;dica con el s&#xF3;lo dep&#xF3;sito del acta constitutiva en la Secretar&#xED;a Municipal.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 57&#xBA;: Se constituyen a trav&#xE9;s de un<span class=\"n\" id=\"n_19\">RECTIFICACION<br>D.O. 16.11.1999</span> procedimiento simplificado y obtienen su personalidad jur&#xED;dica con el s&#xF3;lo dep&#xF3;sito del acta constitutiva en la Secretar&#xED;a Municipal.</div><br></div>"
+        },
+        {
+          "part_id": 7255304,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 58&#xBA;: Son entidades a las cuales se pueden<span class=\"n\" id=\"n_11\">RECTIFICACION<br>D.O. 16.11.1999</span> afiliar y desafiliar voluntariamente las personas, es decir, el ingreso a ellas es un acto voluntario, personal, indelegable y a nadie que cumpla con los requisitos se le puede negar el ingreso a ellas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 58&#xBA;: Son entidades a las cuales se pueden<span class=\"n\" id=\"n_20\">RECTIFICACION<br>D.O. 16.11.1999</span> afiliar y desafiliar voluntariamente las personas, es decir, el ingreso a ellas es un acto voluntario, personal, indelegable y a nadie que cumpla con los requisitos se le puede negar el ingreso a ellas.</div><br></div>"
+        },
+        {
+          "part_id": 7255308,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 60&#xBA;: Las encuestas, tendr&#xE1;n por objeto<span class=\"n\" id=\"n_13\">RECTIFICACION<br>D.O. 16.11.1999</span> explorar las percepciones, sentimientos y proposiciones evaluativas de la comunidad hacia la gesti&#xF3;n municipal. Asimismo, podr&#xE1;n explorar la opini&#xF3;n de los vecinos (encuestas de opini&#xF3;n) para definir la acci&#xF3;n municipal en materias de inter&#xE9;s para el desarrollo de la comuna. Las encuestas podr&#xE1;n ir dirigidas a la comunidad local en general o a sectores y segmentos espec&#xED;ficos de ella. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 60&#xBA;: Las encuestas, tendr&#xE1;n por objeto<span class=\"n\" id=\"n_22\">RECTIFICACION<br>D.O. 16.11.1999</span> explorar las percepciones, sentimientos y proposiciones evaluativas de la comunidad hacia la gesti&#xF3;n municipal. Asimismo, podr&#xE1;n explorar la opini&#xF3;n de los vecinos (encuestas de opini&#xF3;n) para definir la acci&#xF3;n municipal en materias de inter&#xE9;s para el desarrollo de la comuna. Las encuestas podr&#xE1;n ir dirigidas a la comunidad local en general o a sectores y segmentos espec&#xED;ficos de ella. </div></div>"
+        },
+        {
+          "part_id": 7255309,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 61&#xBA;: Las encuestas ser&#xE1;n dispuestas por el<span class=\"n\" id=\"n_14\">RECTIFICACION<br>D.O. 16.11.1999</span> Alcalde a trav&#xE9;s de un decreto alcaldicio, en el cual deber&#xE1; indicarse el objeto de la misma, el segmento o sector a la que est&#xE1; dirigida, y el per&#xED;odo en el cual ser&#xE1; ejecutada.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 61&#xBA;: Las encuestas ser&#xE1;n dispuestas por el<span class=\"n\" id=\"n_23\">RECTIFICACION<br>D.O. 16.11.1999</span> Alcalde a trav&#xE9;s de un decreto alcaldicio, en el cual deber&#xE1; indicarse el objeto de la misma, el segmento o sector a la que est&#xE1; dirigida, y el per&#xED;odo en el cual ser&#xE1; ejecutada.</div><br></div>"
+        },
+        {
+          "part_id": 7255310,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 62&#xBA;: Las direcciones municipales podr&#xE1;n<span class=\"n\" id=\"n_15\">RECTIFICACION<br>D.O. 16.11.1999</span> realizar estudios de sondeos de opini&#xF3;n para materias espec&#xED;ficas de su competencia, con el visto bueno previo del Alcalde.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 62&#xBA;: Las direcciones municipales podr&#xE1;n<span class=\"n\" id=\"n_24\">RECTIFICACION<br>D.O. 16.11.1999</span> realizar estudios de sondeos de opini&#xF3;n para materias espec&#xED;ficas de su competencia, con el visto bueno previo del Alcalde.</div><br></div>"
+        },
+        {
+          "part_id": 7255314,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 64&#xBA;: Todo ciudadano tiene el derecho<span class=\"n\" id=\"n_17\">RECTIFICACION<br>D.O. 16.11.1999</span> constitucional de ser informado de las decisiones que adopte la autoridad comunal. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 64&#xBA;: Todo ciudadano tiene el derecho<span class=\"n\" id=\"n_26\">RECTIFICACION<br>D.O. 16.11.1999</span> constitucional de ser informado de las decisiones que adopte la autoridad comunal. </div></div>"
+        },
+        {
+          "part_id": 7255315,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 65&#xBA;: Ser&#xE1; misi&#xF3;n de la Municipalidad<span class=\"n\" id=\"n_18\">RECTIFICACION<br>D.O. 16.11.1999</span> buscar el medio que considere adecuado para entregar la informaci&#xF3;n documentada de los asuntos p&#xFA;blicos en forma completa, oportuna y clara a quien la solicite.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 65&#xBA;: Ser&#xE1; misi&#xF3;n de la Municipalidad<span class=\"n\" id=\"n_27\">RECTIFICACION<br>D.O. 16.11.1999</span> buscar el medio que considere adecuado para entregar la informaci&#xF3;n documentada de los asuntos p&#xFA;blicos en forma completa, oportuna y clara a quien la solicite.</div><br></div>"
+        },
+        {
+          "part_id": 7255319,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 67&#xBA;: Las organizaciones que cuenten con<span class=\"n\" id=\"n_20\">RECTIFICACION<br>D.O. 16.11.1999</span> personalidad jur&#xED;dica vigente que no persigan fines de lucro, podr&#xE1;n proponer la ejecuci&#xF3;n de actividades propias de la competencia municipal con financiamiento compartido. Para este efecto podr&#xE1;n postular a subvenciones municipales. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 67&#xBA;: Las organizaciones que cuenten con<span class=\"n\" id=\"n_29\">RECTIFICACION<br>D.O. 16.11.1999</span> personalidad jur&#xED;dica vigente que no persigan fines de lucro, podr&#xE1;n proponer la ejecuci&#xF3;n de actividades propias de la competencia municipal con financiamiento compartido. Para este efecto podr&#xE1;n postular a subvenciones municipales. </div></div>"
+        },
+        {
+          "part_id": 7255320,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 68&#xBA;: Para lo anterior, las organizaciones<span class=\"n\" id=\"n_21\">RECTIFICACION<br>D.O. 16.11.1999</span> podr&#xE1;n presentar programas y proyectos relativos a las funciones municipales vinculadas con necesidades sentidas de la comunidad, sea en el &#xE1;rea asistencial o en el &#xE1;rea de desarrollo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 68&#xBA;: Para lo anterior, las organizaciones<span class=\"n\" id=\"n_30\">RECTIFICACION<br>D.O. 16.11.1999</span> podr&#xE1;n presentar programas y proyectos relativos a las funciones municipales vinculadas con necesidades sentidas de la comunidad, sea en el &#xE1;rea asistencial o en el &#xE1;rea de desarrollo.</div><br></div>"
+        },
+        {
+          "part_id": 7255321,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 69&#xBA;: La colaboraci&#xF3;n municipal podr&#xE1;<span class=\"n\" id=\"n_22\">RECTIFICACION<br>D.O. 16.11.1999</span> efectuarse v&#xED;a financiamiento o servicios traducidos en estudios.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 69&#xBA;: La colaboraci&#xF3;n municipal podr&#xE1;<span class=\"n\" id=\"n_31\">RECTIFICACION<br>D.O. 16.11.1999</span> efectuarse v&#xED;a financiamiento o servicios traducidos en estudios.</div><br></div>"
+        },
+        {
+          "part_id": 7255322,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 70&#xBA;: El financiamiento compartido podr&#xE1;<span class=\"n\" id=\"n_23\">RECTIFICACION<br>D.O. 16.11.1999</span> tener preferentemente los siguientes objetivos:</div><br><div class=\"p\">a)&nbsp; &nbsp;  Desarrollo de programas de financiamiento para mejorar infraestructuras comunitarias, entre otros:</div><br><div class=\"p\">&nbsp; &nbsp;  -Pavimentaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp;  -Alumbrado p&#xFA;blico</div><div class=\"p\">&nbsp; &nbsp;  -Areas verdes, y</div><br><div class=\"p\">b)&nbsp; &nbsp;  Desarrollo de obras sociales, por ejemplo:</div><br><div class=\"p\">&nbsp; &nbsp;  -&nbsp; &nbsp;  Asistencia a menores</div><div class=\"p\">&nbsp; &nbsp;  -&nbsp; &nbsp;  Promoci&#xF3;n de actividades y programas para adultos mayores, etc.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 70&#xBA;: El financiamiento compartido podr&#xE1;<span class=\"n\" id=\"n_32\">RECTIFICACION<br>D.O. 16.11.1999</span> tener preferentemente los siguientes objetivos:</div><br><div class=\"p\">a)&nbsp; &nbsp;  Desarrollo de programas de financiamiento para mejorar infraestructuras comunitarias, entre otros:</div><br><div class=\"p\">&nbsp; &nbsp;  -Pavimentaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp;  -Alumbrado p&#xFA;blico</div><div class=\"p\">&nbsp; &nbsp;  -Areas verdes, y</div><br><div class=\"p\">b)&nbsp; &nbsp;  Desarrollo de obras sociales, por ejemplo:</div><br><div class=\"p\">&nbsp; &nbsp;  -&nbsp; &nbsp;  Asistencia a menores</div><div class=\"p\">&nbsp; &nbsp;  -&nbsp; &nbsp;  Promoci&#xF3;n de actividades y programas para adultos mayores, etc.</div><br></div>"
+        },
+        {
+          "part_id": 7255323,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 71&#xBA;: La Municipalidad proveer&#xE1; el equipo<span class=\"n\" id=\"n_24\">RECTIFICACION<br>D.O. 16.11.1999</span> t&#xE9;cnico necesario para apoyar a la organizaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 71&#xBA;: La Municipalidad proveer&#xE1; el equipo<span class=\"n\" id=\"n_33\">RECTIFICACION<br>D.O. 16.11.1999</span> t&#xE9;cnico necesario para apoyar a la organizaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 7255324,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 72&#xBA;: La Municipalidad estudiar&#xE1; la<span class=\"n\" id=\"n_25\">RECTIFICACION<br>D.O. 16.11.1999</span> factibilidad t&#xE9;cnica del proyecto y lo evaluar&#xE1; en el marco del Plan Regulador, el Plan de Desarrollo Comunal y presupuesto.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 72&#xBA;: La Municipalidad estudiar&#xE1; la<span class=\"n\" id=\"n_34\">RECTIFICACION<br>D.O. 16.11.1999</span> factibilidad t&#xE9;cnica del proyecto y lo evaluar&#xE1; en el marco del Plan Regulador, el Plan de Desarrollo Comunal y presupuesto.</div><br></div>"
+        },
+        {
+          "part_id": 7255328,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 74&#xBA;: Seg&#xFA;n lo dispuesto en el art&#xED;culo 45&#xBA;<span class=\"n\" id=\"n_27\">RECTIFICACION<br>D.O. 16.11.1999</span> de la ley N&#xBA; 19.418 sobre Juntas de Vecinos y dem&#xE1;s organizaciones comunitarias, existir&#xE1; un fondo municipal que debe destinarse a brindar apoyo financiero a proyectos espec&#xED;ficos de desarrollo comunitario, presentados por las juntas de vecinos a la Municipalidad, denominado Fondo de Desarrollo Vecinal (Fondeve). Dicho financiamiento deber&#xE1; estar incluido en el presupuesto anual y se regular&#xE1; por un reglamento interno aprobado por el concejo. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 74&#xBA;: Seg&#xFA;n lo dispuesto en el art&#xED;culo 45&#xBA;<span class=\"n\" id=\"n_36\">RECTIFICACION<br>D.O. 16.11.1999</span> de la ley N&#xBA; 19.418 sobre Juntas de Vecinos y dem&#xE1;s organizaciones comunitarias, existir&#xE1; un fondo municipal que debe destinarse a brindar apoyo financiero a proyectos espec&#xED;ficos de desarrollo comunitario, presentados por las juntas de vecinos a la Municipalidad, denominado Fondo de Desarrollo Vecinal (Fondeve). Dicho financiamiento deber&#xE1; estar incluido en el presupuesto anual y se regular&#xE1; por un reglamento interno aprobado por el concejo. </div></div>"
+        },
+        {
+          "part_id": 7255329,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 75&#xBA;: Este fondo se conformar&#xE1; con aportes<span class=\"n\" id=\"n_28\">RECTIFICACION<br>D.O. 16.11.1999</span> derivados de:</div><br><div class=\"p\">a) La Municipalidad, se&#xF1;alados en el respectivo presupuesto municipal.</div><div class=\"p\">b) Los se&#xF1;alados en la Ley de Presupuesto de la Naci&#xF3;n, en conformidad con la proporci&#xF3;n con que participe este municipio en el Fondo Com&#xFA;n Municipal.</div><div class=\"p\">c) Los aportes de vecinos y los beneficiarios de este fondo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 75&#xBA;: Este fondo se conformar&#xE1; con aportes<span class=\"n\" id=\"n_37\">RECTIFICACION<br>D.O. 16.11.1999</span> derivados de:</div><br><div class=\"p\">a) La Municipalidad, se&#xF1;alados en el respectivo presupuesto municipal.</div><div class=\"p\">b) Los se&#xF1;alados en la Ley de Presupuesto de la Naci&#xF3;n, en conformidad con la proporci&#xF3;n con que participe este municipio en el Fondo Com&#xFA;n Municipal.</div><div class=\"p\">c) Los aportes de vecinos y los beneficiarios de este fondo.</div><br></div>"
+        },
+        {
+          "part_id": 7255330,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 76&#xBA;: Este es un fondo de administraci&#xF3;n<span class=\"n\" id=\"n_29\">RECTIFICACION<br>D.O. 16.11.1999</span> municipal, es decir, la determinaci&#xF3;n y selecci&#xF3;n de los proyectos financiables, as&#xED; como la modalidad de control de su utilizaci&#xF3;n le corresponde a la Municipalidad, a trav&#xE9;s de un reglamento interno.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 76&#xBA;: Este es un fondo de administraci&#xF3;n<span class=\"n\" id=\"n_38\">RECTIFICACION<br>D.O. 16.11.1999</span> municipal, es decir, la determinaci&#xF3;n y selecci&#xF3;n de los proyectos financiables, as&#xED; como la modalidad de control de su utilizaci&#xF3;n le corresponde a la Municipalidad, a trav&#xE9;s de un reglamento interno.</div><br></div>"
+        },
+        {
+          "part_id": 7255331,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 77&#xBA;: El Fondeve financia proyectos de<span class=\"n\" id=\"n_30\">RECTIFICACION<br>D.O. 16.11.1999</span> iniciativa de las juntas de vecinos, lo que implica que no pueden financiarse, directa ni indirectamente, iniciativas del municipio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 77&#xBA;: El Fondeve financia proyectos de<span class=\"n\" id=\"n_39\">RECTIFICACION<br>D.O. 16.11.1999</span> iniciativa de las juntas de vecinos, lo que implica que no pueden financiarse, directa ni indirectamente, iniciativas del municipio.</div><br></div>"
+        },
+        {
+          "part_id": 7255332,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 78&#xBA;: Los proyectos deben ser espec&#xED;ficos,<span class=\"n\" id=\"n_31\">RECTIFICACION<br>D.O. 16.11.1999</span> esto es, que en su formulaci&#xF3;n presenten acciones concretas a realizar.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 78&#xBA;: Los proyectos deben ser espec&#xED;ficos,<span class=\"n\" id=\"n_40\">RECTIFICACION<br>D.O. 16.11.1999</span> esto es, que en su formulaci&#xF3;n presenten acciones concretas a realizar.</div><br></div>"
+        },
+        {
+          "part_id": 7255338,
+          "old": "<div><div class=\"p\">Art&#xED;culo 49&#xBA;: * Con la finalidad de dar el<span class=\"n\" id=\"n_2\">RECTIFICACION<br>D.O. 16.11.1999</span> tratamiento que corresponde a los reclamos de la comunidad, &#xE9;stos deber&#xE1;n ser caratulados y numerados correlativamente cuando son ingresados al municipio.</div><div class=\"p\">*&nbsp; &nbsp; &nbsp; Se llevar&#xE1; un control de las fechas en que la carpeta del reclamo es enviada de un departamento a otro, debi&#xE9;ndose firmar tanto el env&#xED;o como la recepci&#xF3;n.</div><div class=\"p\">*&nbsp; &nbsp; &nbsp; Se tendr&#xE1; un control de los cumplimientos de las fechas (recepci&#xF3;n, env&#xED;o de la unidad involucrada, an&#xE1;lisis y alternativas de soluci&#xF3;n y env&#xED;o de respuesta a reclamante) para cada uno de los reclamos, actualizado y a disposici&#xF3;n del Alcalde y del Secretario Municipal.</div><br></div>",
+          "new": "<div><div class=\"p\">Art&#xED;culo 49&#xBA;: * Con la finalidad de dar el<span class=\"n\" id=\"n_9\">RECTIFICACION<br>D.O. 16.11.1999</span> tratamiento que corresponde a los reclamos de la comunidad, &#xE9;stos deber&#xE1;n ser caratulados y numerados correlativamente cuando son ingresados al municipio.</div><div class=\"p\">*&nbsp; &nbsp; &nbsp; Se llevar&#xE1; un control de las fechas en que la carpeta del reclamo es enviada de un departamento a otro, debi&#xE9;ndose firmar tanto el env&#xED;o como la recepci&#xF3;n.</div><div class=\"p\">*&nbsp; &nbsp; &nbsp; Se tendr&#xE1; un control de los cumplimientos de las fechas (recepci&#xF3;n, env&#xED;o de la unidad involucrada, an&#xE1;lisis y alternativas de soluci&#xF3;n y env&#xED;o de respuesta a reclamante) para cada uno de los reclamos, actualizado y a disposici&#xF3;n del Alcalde y del Secretario Municipal.</div><br></div>"
+        },
+        {
+          "part_id": 7255341,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 59&#xBA;: Seg&#xFA;n lo dispuesto en el art&#xED;culo 58<span class=\"n\" id=\"n_12\">RECTIFICACION<br>D.O. 16.11.1999</span> letra N de la ley N&#xBA; 19.602 el municipio debe consultar a las organizaciones comunitarias territoriales (juntas de vecinos) acerca del otorgamiento, renovaci&#xF3;n y traslado de las patentes de alcoholes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 59&#xBA;: Seg&#xFA;n lo dispuesto en el art&#xED;culo 58<span class=\"n\" id=\"n_21\">RECTIFICACION<br>D.O. 16.11.1999</span> letra N de la ley N&#xBA; 19.602 el municipio debe consultar a las organizaciones comunitarias territoriales (juntas de vecinos) acerca del otorgamiento, renovaci&#xF3;n y traslado de las patentes de alcoholes.</div><br></div>"
+        },
+        {
+          "part_id": 7255342,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 63&#xBA;: El resultado de las encuestas y<span class=\"n\" id=\"n_16\">RECTIFICACION<br>D.O. 16.11.1999</span> sondeos de opini&#xF3;n no ser&#xE1;n vinculantes para el municipio y s&#xF3;lo constituir&#xE1;n un elemento de apoyo para su toma de decisiones.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 63&#xBA;: El resultado de las encuestas y<span class=\"n\" id=\"n_25\">RECTIFICACION<br>D.O. 16.11.1999</span> sondeos de opini&#xF3;n no ser&#xE1;n vinculantes para el municipio y s&#xF3;lo constituir&#xE1;n un elemento de apoyo para su toma de decisiones.</div><br></div>"
+        },
+        {
+          "part_id": 7255343,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 66&#xBA;: La Municipalidad fomentar&#xE1; la<span class=\"n\" id=\"n_19\">RECTIFICACION<br>D.O. 16.11.1999</span> generaci&#xF3;n de informaci&#xF3;n hacia los vecinos a trav&#xE9;s de radios locales, radios comunitarias, talleres de video, canales locales de cable, boletines informativos. Sin perjuicio de aquella que puedan obtener en las sesiones del Concejo a las que puede&nbsp; asistir cualquier ciudadano, salvo que los dos tercios de los concejales presentes acordaren que la sesi&#xF3;n sea secreta.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 66&#xBA;: La Municipalidad fomentar&#xE1; la<span class=\"n\" id=\"n_28\">RECTIFICACION<br>D.O. 16.11.1999</span> generaci&#xF3;n de informaci&#xF3;n hacia los vecinos a trav&#xE9;s de radios locales, radios comunitarias, talleres de video, canales locales de cable, boletines informativos. Sin perjuicio de aquella que puedan obtener en las sesiones del Concejo a las que puede&nbsp; asistir cualquier ciudadano, salvo que los dos tercios de los concejales presentes acordaren que la sesi&#xF3;n sea secreta.</div><br></div>"
+        },
+        {
+          "part_id": 7255344,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 73&#xBA;: La Municipalidad y el beneficiario<span class=\"n\" id=\"n_26\">RECTIFICACION<br>D.O. 16.11.1999</span> celebrar&#xE1;n un convenio en que se establezcan las obligaciones de ambas partes, a menos que en las solicitudes de subvenci&#xF3;n se especifiquen claramente y el municipio la otorgue en esas condiciones.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 73&#xBA;: La Municipalidad y el beneficiario<span class=\"n\" id=\"n_35\">RECTIFICACION<br>D.O. 16.11.1999</span> celebrar&#xE1;n un convenio en que se establezcan las obligaciones de ambas partes, a menos que en las solicitudes de subvenci&#xF3;n se especifiquen claramente y el municipio la otorgue en esas condiciones.</div><br></div>"
+        },
+        {
+          "part_id": 7255345,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 79&#xBA;: Los proyectos que se financien por<span class=\"n\" id=\"n_32\">RECTIFICACION<br>D.O. 16.11.1999</span> medio de este fondo deben tener por objetivo &#xFA;nico el desarrollo comunitario. Sin perjuicio del Fondo de Desarrollo Vecinal, el Alcalde, con acuerdo del Concejo, podr&#xE1; establecer otras formas de participaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 79&#xBA;: Los proyectos que se financien por<span class=\"n\" id=\"n_41\">RECTIFICACION<br>D.O. 16.11.1999</span> medio de este fondo deben tener por objetivo &#xFA;nico el desarrollo comunitario. Sin perjuicio del Fondo de Desarrollo Vecinal, el Alcalde, con acuerdo del Concejo, podr&#xE1; establecer otras formas de participaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 7255346,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 80&#xBA;: El municipio arbitrar&#xE1; las medidas y<span class=\"n\" id=\"n_33\">RECTIFICACION<br>D.O. 16.11.1999</span> medios conducentes a que la comunidad local pueda participar en el diagn&#xF3;stico, las propuestas y la priorizaci&#xF3;n de proyectos de inter&#xE9;s comunal, para que en el proceso de formulaci&#xF3;n de los Planes de Desarrollo Comunales, de Educaci&#xF3;n y Plan Regulador se incluyan instancias, tales como:</div><br><div class=\"p\">a) Talleres por barrio, manzanas, pasajes, asentamientos habitacionales, estamentos, actividades&nbsp; relevantes, con el objeto de elaborar diagn&#xF3;sticos sobre las materias enunciadas en inciso 1&#xBA; de este art&#xED;culo.</div><div class=\"p\">b) Talleres con dirigentes de la comunidad local que les permita una visi&#xF3;n global de dichos planes.</div><div class=\"p\">c) Participaci&#xF3;n del Consejo Econ&#xF3;mico y Social Comunal junto con la Municipalidad en la elaboraci&#xF3;n de los instrumentos de planificaci&#xF3;n anual.</div><div class=\"p\">d) Fijaci&#xF3;n de un per&#xED;odo en el cual la Municipalidad reciba observaciones y consultas de la comunidad local, a partir de la presentaci&#xF3;n p&#xFA;blica de planes a largo plazo. Se podr&#xE1;n formular reclamos y observaciones sobre dichos planes, todo lo cual se recoger&#xE1; y se decidir&#xE1; por los &#xF3;rganos municipales resolutores.</div><div class=\"p\">e) Otras instancias contempladas en esta ordenanza, en las cuales la comunidad exprese sus opiniones en dichos planes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 80&#xBA;: El municipio arbitrar&#xE1; las medidas y<span class=\"n\" id=\"n_42\">RECTIFICACION<br>D.O. 16.11.1999</span> medios conducentes a que la comunidad local pueda participar en el diagn&#xF3;stico, las propuestas y la priorizaci&#xF3;n de proyectos de inter&#xE9;s comunal, para que en el proceso de formulaci&#xF3;n de los Planes de Desarrollo Comunales, de Educaci&#xF3;n y Plan Regulador se incluyan instancias, tales como:</div><br><div class=\"p\">a) Talleres por barrio, manzanas, pasajes, asentamientos habitacionales, estamentos, actividades&nbsp; relevantes, con el objeto de elaborar diagn&#xF3;sticos sobre las materias enunciadas en inciso 1&#xBA; de este art&#xED;culo.</div><div class=\"p\">b) Talleres con dirigentes de la comunidad local que les permita una visi&#xF3;n global de dichos planes.</div><div class=\"p\">c) Participaci&#xF3;n del Consejo Econ&#xF3;mico y Social Comunal junto con la Municipalidad en la elaboraci&#xF3;n de los instrumentos de planificaci&#xF3;n anual.</div><div class=\"p\">d) Fijaci&#xF3;n de un per&#xED;odo en el cual la Municipalidad reciba observaciones y consultas de la comunidad local, a partir de la presentaci&#xF3;n p&#xFA;blica de planes a largo plazo. Se podr&#xE1;n formular reclamos y observaciones sobre dichos planes, todo lo cual se recoger&#xE1; y se decidir&#xE1; por los &#xF3;rganos municipales resolutores.</div><div class=\"p\">e) Otras instancias contempladas en esta ordenanza, en las cuales la comunidad exprese sus opiniones en dichos planes.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

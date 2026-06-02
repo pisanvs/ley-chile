@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1964-03-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1966-05-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9045198,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;- El Consejo Directivo de la Instituci&#xF3;n ser&#xE1; presidido por el Ministro del Trabajo y Previsi&#xF3;n Social y estar&#xE1; compuesto, adem&#xE1;s, por el Tesorero General de la Rep&#xFA;blica, el Director de Salud, el Alcalde de Santiago, tres representantes de la Confederaci&#xF3;n Nacional de Municipalidades y cuatro de la Junta Nacional Ejecutiva de la Uni&#xF3;n de Obreros Municipales de Chile.</div><div class=\"p\">&nbsp; &nbsp; Los Consejeros representantes de las Municipalidades y de los imponentes ser&#xE1;n designados por el Presidente de la Rep&#xFA;blica en conformidad a las normas que determine el Reglamento.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0;- El Consejo de la Caja estar&#xE1;<span class=\"n\" id=\"n_0\">LEY 16478<br>ART 1&#xB0;.-</span> compuesto por el Ministro del Trabajo y Previsi&#xF3;n Social, quien lo presidir&#xE1;; el Vicepresidente Ejecutivo, quien lo presidir&#xE1; en ausencia del Ministro; el Subsecretario de Previsi&#xF3;n Social; el Tesorero General de la Rep&#xFA;blica; el Director del Servicio Nacional de Salud; el Alcalde de Santiago; dos representantes de la Confederaci&#xF3;n Nacional de Municipalidades; cuatro representantes de la Junta Nacional Ejecutiva de la Uni&#xF3;n de Obreros Municipales de Chile, y un representante de los jubilados. Integrar&#xE1; tambi&#xE9;n el Consejo el Superintendente de Seguridad Social en los t&#xE9;rminos se&#xF1;alados por la ley N&#xB0; 16.395.</div><div class=\"p\">&nbsp; &nbsp; El Tesorero General de la Rep&#xFA;blica, el Director de Salud y el Alcalde de Santiago podr&#xE1;n designar para que asistan al Consejo, en su representaci&#xF3;n, a alg&#xFA;n funcionario de su dependencia.</div><div class=\"p\">&nbsp; &nbsp; Los Consejeros representantes de las Municipalidades, de los imponentes y de los jubilados ser&#xE1;n designados por el Presidente de la Rep&#xFA;blica en conformidad a las normas que determine el Reglamento.</div><br></div>"
+        },
+        {
+          "part_id": 9045201,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;- El Servicio Nacional de Salud har&#xE1; las presentaciones m&#xE9;dicas y hospitalarias a los imponentes de la Caja de Previsi&#xF3;n Social de los Obreros Municipales de la Rep&#xFA;blica en las localidades que les sean solicitadas por la instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; En los casos anteriores, la atenci&#xF3;n que preste el Servicio Nacional de Salud ser&#xE1; limitada a las prestaciones y beneficios que se&#xF1;ala la ley n&#xFA;mero 10.383, y corresponder&#xE1; a la Caja de Previsi&#xF3;n mencionada efectuar los aportes que indiquen sus estatutos.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 6&#xB0;- El Servicio Nacional de Salud har&#xE1; las prestaciones m&#xE9;dicas y hospitalarias a los imponentes de la Caja de Previsi&#xF3;n Social de los Obreros Municipales de la Rep&#xFA;blica en las localidades que les sean solicitadas por la instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; En los casos anteriores, la atenci&#xF3;n que preste el Servicio Nacional de Salud ser&#xE1; limitada a las prestaciones y beneficios que se&#xF1;ala la ley n&#xFA;mero 10.383, y corresponder&#xE1; a la Caja de Previsi&#xF3;n mencionada efectuar los aportes que indiquen sus estatutos.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2000-10-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9045202,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo transitorio.- Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para dictar el estatuto definitivo de la Caja de Previsi&#xF3;n Social de los Obreros Municipales de la Rep&#xFA;blica, fijando los beneficios y aportes respectivos, en el plazo de seis meses.</div><div class=\"p\">&nbsp; &nbsp; El estatuto a que se refiere el inciso anterior deber&#xE1; mantener los actuales beneficios previsionales, asignaci&#xF3;n familiar, indemnizaci&#xF3;n por a&#xF1;os de servicio y reajustes de pensiones que establecen las normas vigentes, s&#xF3;lo respecto de los obreros municipales a los que les son aplicables a la fecha de publicaci&#xF3;n de esta ley.&quot; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo transitorio.- Fac&#xFA;ltase al Presidente de la Rep&#xFA;blica para dictar el estatuto definitivo de la Caja de Previsi&#xF3;n Social de los Obreros Municipales de la Republica, fijando los beneficios y aportes respectivos, en el plazo de seis meses.</div><div class=\"p\">&nbsp; &nbsp; El estatuto a que se refiere el inciso anterior deber&#xE1; mantener los actuales beneficios previsionales, asignaci&#xF3;n familiar, indemnizaci&#xF3;n por a&#xF1;os de servicio y reajustes de pensiones que establecen las normas vigentes, s&#xF3;lo respecto de los obreros municipales a los que les son aplicables a la fecha de publicaci&#xF3;n de esta ley.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

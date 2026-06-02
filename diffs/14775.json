@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1992-02-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-06-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9483509,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1063746&amp;idParte=9483235&amp;idVersion=2014-06-30\">Decreto 151, ECONOM&#xCD;A<br>Art. &#xDA;NICO<br>D.O. 30.06.2014</a></span>&nbsp; &nbsp;  Art&#xED;culo 13-. En el caso que el Servicio haya procedido a declarar la caducidad de la inscripci&#xF3;n artesanal de conformidad con lo dispuesto en el art&#xED;culo 55 de la Ley General de Pesca y Acuicultura, el interesado podr&#xE1; deducir la reclamaci&#xF3;n a que hace referencia dicha norma en el plazo de 3 meses contados desde la notificaci&#xF3;n de la citada resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  La reclamaci&#xF3;n podr&#xE1; ser presentada en un formulario que al efecto elaborar&#xE1; la Subsecretar&#xED;a de Pesca y Acuicultura, y que estar&#xE1; a disposici&#xF3;n de los interesados en la misma Subsecretar&#xED;a, en las Direcciones Zonales de Pesca y en las Direcciones Regionales del Servicio y en los sitios de dominio electr&#xF3;nico correspondientes.</div><div class=\"p\">&nbsp; &nbsp;  Una vez recepcionados los antecedentes, la Subsecretar&#xED;a podr&#xE1; solicitar al Servicio los informes que se juzguen necesarios para resolver, los que deber&#xE1;n ser evacuados en un plazo de 1 mes contado desde su requerimiento. Evacuado el citado informe, o habiendo transcurrido el plazo antes se&#xF1;alado sin que haya sido remitido, la Subsecretar&#xED;a de Pesca y Acuicultura dispondr&#xE1; de un plazo de 15 d&#xED;as h&#xE1;biles para resolver las reclamaciones presentadas mediante Resoluci&#xF3;n dictada al efecto.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1063746,
+      "fecha": "2014-06-30"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1999-06-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-11-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 6174289,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15 bis. Los negocios se&#xF1;alados en el<span class=\"n\" id=\"n_0\">DTO 1740 EXENTO<br>M. DE RETIRO<br>N&#xB0;1<br>D.O. 11.07.2000</span> Art. 4&#xBA; de la presente Ordenanza Local, esto es, Cabarets y Pe&#xF1;as Folcl&#xF3;ricas podr&#xE1;n extender su horario de funcionamiento en dos (2) horas, y los locales restantes, se&#xF1;alados en los Art&#xED;culos 1&#xBA;, 2&#xBA;, 3&#xBA;, 5&#xBA;, 6&#xBA;, 7&#xBA; y 8&#xBA;, en una (1) hora.</div><div class=\"p\">&nbsp; &nbsp;  La extensi&#xF3;n horaria se&#xF1;alada, s&#xF3;lo podr&#xE1; hacerse efectiva desde el segundo d&#xED;a domingo del mes de octubre de cada a&#xF1;o hasta el segundo d&#xED;a domingo del mes de marzo del a&#xF1;o siguiente, y as&#xED; sucesivamente.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

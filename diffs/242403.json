@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "1960-04-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-02-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9004964,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Autor&#xED;zase a la Fuerza A&#xE9;rea de Chile para transportar personas y carga ajenas a la Instituci&#xF3;n en sus aviones y helic&#xF3;pteros que vuelan por razones de servicio cuando existiendo cabida disponible, tenga que suplirse la insuficiencia o falta de servicio a&#xE9;reo a determinadas zonas del pa&#xED;s.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1.o Autor&#xED;zase a la Fuerza A&#xE9;rea de Chile para transportar personas y carga ajenas a la Instituci&#xF3;n en sus aviones y helic&#xF3;pteros que vuelan por razones de servicio y tengan cabida disponible, dentro<span class=\"n\" id=\"n_0\">DL 331, DEFENSA<br>Art. 1&#xBA; a)<br>D.O. 23.02.1974</span> del pa&#xED;s o al extranjero.</div><br></div>"
+        },
+        {
+          "part_id": 9004965,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o La Fuerza A&#xE9;rea cobrar&#xE1; por estos servicios las sumas que previamente se hayan determinado, a fin de compensar los gastos en que incurra por esta causa. Con este objeto, fac&#xFA;ltase al Comandante en Jefe de la Fuerza A&#xE9;rea para fijar esas sumas, tanto con respecto a transporte de personas como de carga. El Comando de Unidades de la Fuerza A&#xE9;rea estar&#xE1; encargado de cobrar y percibir su valor. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2.o La Fuerza A&#xE9;rea cobrar&#xE1; por estos servicios las sumas que previamente se hayan determinado, a fin de compensar los gastos en que incurra por esta causa. Con este objeto, fac&#xFA;ltase al Comandante en Jefe de la Fuerza A&#xE9;rea para fijar esas sumas, tanto con respecto a transporte de personas como de carga. El valor del transporte al extranjero se<span class=\"n\" id=\"n_1\">DL 331, DEFENSA<br>Art. 1&#xBA; b)<br>D.O. 23.02.1974</span> fijar&#xE1; en d&#xF3;lares. El Comandante en Jefe designar&#xE1; las autoridades encargadas de cobrar y percibir su valor, tanto en el pa&#xED;s como en el extranjero. Las cantidades que se perciban en d&#xF3;lares deber&#xE1;n ser remitidas a las Misiones A&#xE9;reas de Chile en el exterior, para su dep&#xF3;sito en la cuenta respectiva.</div><br></div>"
+        },
+        {
+          "part_id": 9004967,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.o Los fondos que se perciban en conformidad a lo dispuesto en el presente decreto con fuerza de ley ingresar&#xE1;n a una cuenta del Presupuesto de Entradas de la Naci&#xF3;n. En el Presupuesto de la Subsecretar&#xED;a de Aviaci&#xF3;n se consultar&#xE1; un &#xED;tem de gastos por el monto estimado de dichos ingresos. El gasto efectivo podr&#xE1; sobrepasar la cifra indicada pero no podr&#xE1; exceder del rendimiento de la cuenta de ingreso.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4.o SUPRIMIDO<span class=\"n\" id=\"n_2\">DL 331, DEFENSA<br>Art. 1&#xBA; c)<br>D.O. 23.02.1974</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

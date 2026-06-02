@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2003-12-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-10-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6455800,
+          "old": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA;831 EXENTO, DE 2003 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE DECRETO N&#xBA;831 EXENTO, DE 2003</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-02-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-11-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6234586,
+          "old": "<div><div class=\"p\">RECTIFICA DECRETO N&#xBA; 42, DE 1999, QUE PRORROGA FORMULAS TARIFARIAS PARA EMPRESA DE SERVICIOS DE AGUA VALLE ESCONDIDO S.A.</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 748.- Santiago, 22 de diciembre de 1999.- Visto: Lo dispuesto en el decreto con fuerza de ley N&#xBA; 70 de 1988 del Ministerio de Obras P&#xFA;blicas y sus modificaciones contenidas en la ley N&#xBA; 19.549; el decreto supremo N&#xBA; 453 del 12 de diciembre de 1989, modificado por decreto N&#xBA; 109 del 10 de marzo de 1998, ambos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, el art&#xED;culo 10&#xBA; de la ley N&#xBA; 10.336; la ley N&#xBA; 18.902, los decretos supremos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n N&#xBA; 470/94 y N&#xBA; 10/97 y el decreto del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n N&#xBA; 42/99.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, en el decreto N&#xBA; 42/99, que prorrog&#xF3; las f&#xF3;rmulas tarifarias de la Empresa de Servicios de Agua Valle Escondido S.A., se incurri&#xF3; en un error de hecho por una parte, al omitir el cargo fijo correspondiente a grifos contra incendio ubicados en propiedades particulares, sin derecho a consumo, y por otra, al considerarse como coeficiente a7 del polinomio de indexaci&#xF3;n IN7 el valor 0,31, en vez de considerar 0,32.</div><br><div class=\"p\">&nbsp; &nbsp;  Que, en estas circunstancias, se hace necesario rectificar en el decreto lo se&#xF1;alado anteriormente, </div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br></div>",
+          "new": "<div><div class=\"p\">RECTIFICA DECRETO N&#xBA; 42, DE 1999, QUE PRORROGA FORMULAS TARIFARIAS PARA EMPRESA DE SERVICIOS DE AGUA VALLE ESCONDIDO S.A.</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 748.- Santiago, 22 de diciembre de 1999.- Visto: Lo dispuesto en el decreto con fuerza de ley N&#xBA; 70 de 1988 del Ministerio de Obras P&#xFA;blicas y sus modificaciones contenidas en la ley N&#xBA; 19.549; el decreto supremo N&#xBA; 453 del 12 de diciembre de 1989, modificado por decreto N&#xBA; 109 del 10 de marzo de 1998, ambos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, el art&#xED;culo 10&#xBA; de la ley N&#xBA; 10.336; la ley N&#xBA; 18.902, los decretos supremos del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n N&#xBA; 470/94 y N&#xBA; 10/97 y el decreto del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n N&#xBA; 42/99.</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que, en el decreto N&#xBA; 42/99, que prorrog&#xF3; las f&#xF3;rmulas tarifarias de la Empresa de Servicios de Agua Valle Escondido S.A., se incurri&#xF3; en un error de hecho por una parte, al omitir el cargo fijo correspondiente a grifos contra incendio ubicados en propiedades particulares, sin derecho a consumo, y por otra, al considerarse como coeficiente a7 del polinomio de indexaci&#xF3;n IN7 el valor 0,31, en vez de considerar 0,32.</div><br><div class=\"p\">&nbsp; &nbsp;  Que, en estas circunstancias, se hace necesario rectificar en el decreto lo se&#xF1;alado anteriormente, </div><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

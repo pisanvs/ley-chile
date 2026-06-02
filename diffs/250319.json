@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-06-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-10-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6572281,
+          "old": "<div><div class=\"p\">REGLAMENTO DEL COMITE DENOMINADO &quot;AGENCIA REGIONAL DE DESARROLLO PRODUCTIVO DE LA REGION DEL BIO BIO&quot; </div><div class=\"p\">&nbsp; &nbsp;  Santiago, 23 de mayo de 2006.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 193.- Visto:</div><div class=\"p\">1.&nbsp;  El Acuerdo de Consejo N&#xB0; 2.118, de 2000, que crea el Comit&#xE9; Fondo de Innovaci&#xF3;n Tecnol&#xF3;gica de la Regi&#xF3;n del B&#xED;o B&#xED;o, cuyo Reglamento fue aprobado por Resoluci&#xF3;n (A) N&#xB0; 30, de 2001.</div><div class=\"p\">2.&nbsp;  El Acuerdo de Consejo N&#xB0; 2.391, de 2006, que crea el Comit&#xE9; denominado &quot;Agencia Regional de Desarrollo Productivo de la Regi&#xF3;n del B&#xED;o B&#xED;o&quot;.</div><div class=\"p\">3.&nbsp;  Las facultades que me confieren la Ley N&#xB0; 6.640, el D.F.L. N&#xB0;211, de 1960, y el Reglamento General de la Corporaci&#xF3;n, y lo establecido en la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, cuyo texto refundido, coordinado y sistematizado fue fijado mediante Resoluci&#xF3;n N&#xB0; 520, de 1996, y sus modificaciones posteriores, todas emanadas del mismo organismo, </div><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">REGLAMENTO DEL COMITE DENOMINADO &quot;AGENCIA REGIONAL DE DESARROLLO PRODUCTIVO DE LA REGION DEL BIO BIO&quot; </div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 23 de mayo de 2006.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 193.- Visto:</div><div class=\"p\">1.&nbsp;  El Acuerdo de Consejo N&#xB0; 2.118, de 2000, que crea el Comit&#xE9; Fondo de Innovaci&#xF3;n Tecnol&#xF3;gica de la Regi&#xF3;n del B&#xED;o B&#xED;o, cuyo Reglamento fue aprobado por Resoluci&#xF3;n (A) N&#xB0; 30, de 2001.</div><div class=\"p\">2.&nbsp;  El Acuerdo de Consejo N&#xB0; 2.391, de 2006, que crea el Comit&#xE9; denominado &quot;Agencia Regional de Desarrollo Productivo de la Regi&#xF3;n del B&#xED;o B&#xED;o&quot;.</div><div class=\"p\">3.&nbsp;  Las facultades que me confieren la Ley N&#xB0; 6.640, el D.F.L. N&#xB0;211, de 1960, y el Reglamento General de la Corporaci&#xF3;n, y lo establecido en la Resoluci&#xF3;n N&#xB0; 55, de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica, cuyo texto refundido, coordinado y sistematizado fue fijado mediante Resoluci&#xF3;n N&#xB0; 520, de 1996, y sus modificaciones posteriores, todas emanadas del mismo organismo, </div><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

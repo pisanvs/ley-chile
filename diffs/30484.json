@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1992-01-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-01-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7189270,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo &#xFA;nico.- Los Servicios de Salud, las Instituciones de Salud Previsional y las Cajas de Compensaci&#xF3;n de Asignaci&#xF3;n Familiar, deber&#xE1;n pagar a la respectiva Municipalidad o Corporaci&#xF3;n empleadora respecto de sus funcionarios regidos por la ley N&#xB0; 18.883 o de los profesionales de la educaci&#xF3;n regidos por el art&#xED;culo 36, inciso tercero, de la Ley N&#xB0; 19.070, acogidos a licencia m&#xE9;dica por enfermedad, una suma equivalente al subsidio que le habr&#xED;a correspondido al trabajador conforme con las disposiciones del decreto con fuerza de ley N&#xB0; 44, de 1978, del Ministerio del Trabajo y Previsi&#xF3;n Social.</div><div class=\"p\">&nbsp; &nbsp; Los pagos que correspondan conforme al inciso anterior deber&#xE1;n ser efectuados dentro de los diez primeros d&#xED;as del mes siguiente a aquel en que se haya ingresado la presentaci&#xF3;n de cobro respectiva.</div><div class=\"p\">&nbsp; &nbsp; Las cantidades que no se paguen oportunamente, se reajustar&#xE1;n en el mismo porcentaje en que hubiere variado el &#xED;ndice de precios al consumidor, determinado por el Instituto Nacional de Estad&#xED;sticas, entre el mes anterior a aquel en que debi&#xF3; efectuarse el pago y el precedente a aquel en que efectivamente se realice y devengar&#xE1;n inter&#xE9;s corriente.</div><div class=\"p\">&nbsp; &nbsp; Lo dispuesto en este art&#xED;culo se aplicar&#xE1; a los subsidios que se devenguen a contar de la fecha de publicaci&#xF3;n de esta ley, aunque correspondan a licencias m&#xE9;dicas iniciadas con anterioridad o constituyan pr&#xF3;rrogas de otras anteriores.</div><div class=\"p\">&nbsp; &nbsp; A las cantidades que perciban las Municipalidades por aplicaci&#xF3;n de los incisos anteriores, no les regir&#xE1; lo dispuesto en el art&#xED;culo 11 de la ley N&#xB0; 18.768. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo &#xFA;nico.- Los Servicios de Salud, las Instituciones de Salud Previsional y las Cajas de Compensaci&#xF3;n de Asignaci&#xF3;n Familiar, deber&#xE1;n pagar a la respectiva Municipalidad o Corporaci&#xF3;n empleadora respecto de sus funcionarios regidos por la ley N&#xB0; 18.883 o de los profesionales de la educaci&#xF3;n regidos por el art&#xED;culo 36, inciso tercero, de la Ley N&#xB0; 19.070, acogidos a licencia m&#xE9;dica por enfermedad, una suma equivalente al subsidio que le habr&#xED;a correspondido al trabajador conforme con las disposiciones del decreto con fuerza de ley N&#xB0; 44, de 1978, del Ministerio del Trabajo y Previsi&#xF3;n Social. Lo <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1086882&amp;idParte=9667820&amp;idVersion=2016-01-22\">Ley 20891<br>Art. 6<br>D.O. 22.01.2016</a></span>dispuesto en este art&#xED;culo se aplicar&#xE1; en los mismos t&#xE9;rminos respecto de los trabajadores antes se&#xF1;alados que hagan uso del permiso postnatal parental a que se refiere el art&#xED;culo 197 bis del C&#xF3;digo del Trabajo.</div><div class=\"p\">&nbsp; &nbsp; Los pagos que correspondan conforme al inciso anterior deber&#xE1;n ser efectuados dentro de los diez primeros d&#xED;as del mes siguiente a aquel en que se haya ingresado la presentaci&#xF3;n de cobro respectiva.</div><div class=\"p\">&nbsp; &nbsp; Las cantidades que no se paguen oportunamente, se reajustar&#xE1;n en el mismo porcentaje en que hubiere variado el &#xED;ndice de precios al consumidor, determinado por el Instituto Nacional de Estad&#xED;sticas, entre el mes anterior a aquel en que debi&#xF3; efectuarse el pago y el precedente a aquel en que efectivamente se realice y devengar&#xE1;n inter&#xE9;s corriente.</div><div class=\"p\">&nbsp; &nbsp; Lo dispuesto en este art&#xED;culo se aplicar&#xE1; a los subsidios que se devenguen a contar de la fecha de publicaci&#xF3;n de esta ley, aunque correspondan a licencias m&#xE9;dicas iniciadas con anterioridad o constituyan pr&#xF3;rrogas de otras anteriores.</div><div class=\"p\">&nbsp; &nbsp; A las cantidades que perciban las Municipalidades por aplicaci&#xF3;n de los incisos anteriores, no les regir&#xE1; lo dispuesto en el art&#xED;culo 11 de la ley N&#xB0; 18.768. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1086882,
+      "fecha": "2016-01-22"
+    }
+  }
+]
