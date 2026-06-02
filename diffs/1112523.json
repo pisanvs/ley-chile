@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2017-12-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-09-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9866293,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n N&#xBA; 3.370, de 5 de diciembre de 2017 del Serviu Regi&#xF3;n de Los Lagos, orden&#xF3; expropiaci&#xF3;n lote de terreno N&#xBA; 40 para la ejecuci&#xF3;n Proyecto &quot;Mejoramiento calle Regimiento, Puerto Montt&quot;, Provincia de Llanquihue, Regi&#xF3;n de Los Lagos, que figura a nombre de Alvarado Vivar Teresa del C., rol de aval&#xFA;o seg&#xFA;n SII N&#xBA; 2196-96, comuna de Puerto Montt, superficie 31,80 metros cuadrados. La comisi&#xF3;n de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Ra&#xFA;l Palma Larrea y Juan Samuel Barrientos Bahamonde designados por resoluci&#xF3;n exenta N&#xBA; 2.971 de 30 de octubre de 2017, fij&#xF3; con fecha 20 de noviembre de 2017, el valor provisional de la indemnizaci&#xF3;n en la suma de $1.586.680. La indemnizaci&#xF3;n provisional se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a conforme a lo dispuesto en el art&#xED;culo 7 del decreto ley N&#xBA; 2.186.- </div></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n N&#xBA; 3.370, de 5 de diciembre de 2017 del Serviu Regi&#xF3;n de Los Lagos, orden&#xF3; expropiaci&#xF3;n lote de terreno N&#xBA; 40 para la ejecuci&#xF3;n Proyecto &quot;Mejoramiento calle Regimiento, Puerto Montt&quot;, Provincia de Llanquihue, Regi&#xF3;n de Los Lagos, que figura a nombre de Alvarado Vivar Teresa del C., rol de aval&#xFA;o seg&#xFA;n SII N&#xBA; 2196-96<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>, comuna de Puerto Montt, superficie 31,80 metros cuadrados. La comisi&#xF3;n de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Ra&#xFA;l Palma Larrea y Juan Samuel Barrientos Bahamonde designados por resoluci&#xF3;n exenta N&#xBA; 2.971 de 30 de octubre de 2017, fij&#xF3; con fecha 20 de noviembre de 2017, el valor provisional de la indemnizaci&#xF3;n en la suma de $1.586.680. La indemnizaci&#xF3;n provisional se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a conforme a lo dispuesto en el art&#xED;culo 7 del decreto ley N&#xBA; 2.186.- </div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 1280 Exenta, Vivienda, publicada el 01.09.2021, dispone rectificar donde dice: &quot;Rol de aval&#xFA;o seg&#xFA;n el Servicio de Impuestos Internos N&#xBA; 3010-50, de la comuna de Puerto Montt&quot;, por &quot;Rol de aval&#xFA;o seg&#xFA;n el Servicio de Impuestos Internos N&#xBA; 3010-56, de la comuna de Puerto Montt&quot;, sin embargo, no se encuentra en el texto de la presente norma la referida frase para reemplazar.</div></div>"
+        }
+      ]
+    }
+  }
+]

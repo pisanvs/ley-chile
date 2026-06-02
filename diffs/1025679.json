@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-05-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-09-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9143601,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: F&#xED;jase, para el a&#xF1;o 2011, el arancel de cobro de las copias de los certificados aut&#xE9;nticos de calificaci&#xF3;n cinematogr&#xE1;fica en $5.300.- (cinco mil trescientos pesos).</div></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: F&#xED;jase, para <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> el a&#xF1;o 2011, el arancel de cobro de las copias de los certificados aut&#xE9;nticos de calificaci&#xF3;n cinematogr&#xE1;fica en $5.300.- (cinco mil trescientos pesos).</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 4591 Exenta, Educaci&#xF3;n, publicada el 02.09.2011, complementa la presente norma en el sentido de fijar el arancel, para las copias de certificados aut&#xE9;nticos de calificaci&#xF3;n de sinopsis, tendr&#xE1;n un valor de $2.400.- (dos mil cuatrocientos pesos).</div></div>"
+        }
+      ]
+    }
+  }
+]

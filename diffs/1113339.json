@@ -1,0 +1,71 @@
+[
+  {
+    "fecha": "2018-01-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-04-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9872826,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base la postergaci&#xF3;n del otorgamiento de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de edificaci&#xF3;n, por un plazo de tres meses en las zonas correspondientes a los terrenos ubicados en: ZC3, ZH2, ZH3, ZH6 y ZH1, individualizado en el <a href=\"https://www.leychile.cl/Navegar?idNorma=230744&amp;idParte=&amp;idVersion=\">Plan Regulador Comunal de Huechuraba</a>, se&#xF1;alados en el plano de postergaci&#xF3;n de permisos de fecha noviembre de 2017. Esto en atenci&#xF3;n al informe favorable de la Seremi de Vivienda y Urbanismo comunicado a este municipio mediante Ord. N&#xB0; 5.402, de fecha 19.12.2017.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base la postergaci&#xF3;n del otorgamiento de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de edificaci&#xF3;n, por un plazo de tres meses en las zonas correspondientes a los terrenos ubicados en las zonas: ZC3, ZH2, ZH3, ZH6 y nueva zona ZH10 y apertura tramo de calle Los Girasoles, en cuatro pol&#xED;gonos definidos especialmente <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1116772&amp;idParte=9902934&amp;idVersion=2018-04-05\">Decreto 773 EXENTO,<br>MUNICIPALIDAD <br>HUECHURABA<br>D.O. 05.04.2018</a></span>para estos efectos, los que se indican y se grafican en el plano ilustrativo denominado Plano Postergaci&#xF3;n de permisos Zona ZC3, ZH2, ZH3 y ZH6, nueva zona ZH10 y apertura tramo de calle Los Girasoles, de fecha noviembre 2017. Esto en atenci&#xF3;n al informe favorable de la Seremi de Vivienda y Urbanismo comunicado a este municipio mediante Ord. N&#xB0; 5.402, de fecha 19.12.2017.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1116772,
+      "fecha": "2018-04-05"
+    }
+  },
+  {
+    "fecha": "2018-04-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9872826,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base la postergaci&#xF3;n del otorgamiento de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de edificaci&#xF3;n, por un plazo de tres meses en las zonas correspondientes a los terrenos ubicados en las zonas: ZC3, ZH2, ZH3, ZH6 y nueva zona ZH10 y apertura tramo de calle Los Girasoles, en cuatro pol&#xED;gonos definidos especialmente <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1116772&amp;idParte=9902934&amp;idVersion=2018-04-05\">Decreto 773 EXENTO,<br>MUNICIPALIDAD <br>HUECHURABA<br>D.O. 05.04.2018</a></span>para estos efectos, los que se indican y se grafican en el plano ilustrativo denominado Plano Postergaci&#xF3;n de permisos Zona ZC3, ZH2, ZH3 y ZH6, nueva zona ZH10 y apertura tramo de calle Los Girasoles, de fecha noviembre 2017. Esto en atenci&#xF3;n al informe favorable de la Seremi de Vivienda y Urbanismo comunicado a este municipio mediante Ord. N&#xB0; 5.402, de fecha 19.12.2017.</div><br><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base la <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>postergaci&#xF3;n del otorgamiento de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de edificaci&#xF3;n, por un plazo de tres meses en las zonas correspondientes a los terrenos ubicados en las zonas: ZC3, ZH2, ZH3, ZH6 y nueva zona ZH10 y apertura tramo de calle Los Girasoles, en cuatro pol&#xED;gonos definidos especialmente <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1116772&amp;idParte=9902934&amp;idVersion=2018-04-05\">Decreto 773 EXENTO,<br>MUNICIPALIDAD <br>HUECHURABA<br>D.O. 05.04.2018</a></span>para estos efectos, los que se indican y se grafican en el plano ilustrativo denominado Plano Postergaci&#xF3;n de permisos Zona ZC3, ZH2, ZH3 y ZH6, nueva zona ZH10 y apertura tramo de calle Los Girasoles, de fecha noviembre 2017. Esto en atenci&#xF3;n al informe favorable de la Seremi de Vivienda y Urbanismo comunicado a este municipio mediante Ord. N&#xB0; 5.402, de fecha 19.12.2017.</div><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1133 Exenta, Vivienda, publicada el 09.04.2018, modifica la presente norma en el sentido de prorrogar por el plazo de tres meses la postergaci&#xF3;n de permisos de edificaci&#xF3;n dispuesta por la presente norma.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2018-07-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9872826,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base la <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>postergaci&#xF3;n del otorgamiento de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de edificaci&#xF3;n, por un plazo de tres meses en las zonas correspondientes a los terrenos ubicados en las zonas: ZC3, ZH2, ZH3, ZH6 y nueva zona ZH10 y apertura tramo de calle Los Girasoles, en cuatro pol&#xED;gonos definidos especialmente <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1116772&amp;idParte=9902934&amp;idVersion=2018-04-05\">Decreto 773 EXENTO,<br>MUNICIPALIDAD <br>HUECHURABA<br>D.O. 05.04.2018</a></span>para estos efectos, los que se indican y se grafican en el plano ilustrativo denominado Plano Postergaci&#xF3;n de permisos Zona ZC3, ZH2, ZH3 y ZH6, nueva zona ZH10 y apertura tramo de calle Los Girasoles, de fecha noviembre 2017. Esto en atenci&#xF3;n al informe favorable de la Seremi de Vivienda y Urbanismo comunicado a este municipio mediante Ord. N&#xB0; 5.402, de fecha 19.12.2017.</div><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1133 Exenta, Vivienda, publicada el 09.04.2018, modifica la presente norma en el sentido de prorrogar por el plazo de tres meses la postergaci&#xF3;n de permisos de edificaci&#xF3;n dispuesta por la presente norma.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base la <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>postergaci&#xF3;n del otorgamiento de permisos<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 1</a></div> de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de edificaci&#xF3;n, por un plazo de tres meses en las zonas correspondientes a los terrenos ubicados en las zonas: ZC3, ZH2, ZH3, ZH6 y nueva zona ZH10 y apertura tramo de calle Los Girasoles, en cuatro pol&#xED;gonos definidos especialmente <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1116772&amp;idParte=9902934&amp;idVersion=2018-04-05\">Decreto 773 EXENTO,<br>MUNICIPALIDAD <br>HUECHURABA<br>D.O. 05.04.2018</a></span>para estos efectos, los que se indican y se grafican en el plano ilustrativo denominado Plano Postergaci&#xF3;n de permisos Zona ZC3, ZH2, ZH3 y ZH6, nueva zona ZH10 y apertura tramo de calle Los Girasoles, de fecha noviembre 2017. Esto en atenci&#xF3;n al informe favorable de la Seremi de Vivienda y Urbanismo comunicado a este municipio mediante Ord. N&#xB0; 5.402, de fecha 19.12.2017.</div><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1133 Exenta, Vivienda, publicada el 09.04.2018, modifica la presente norma en el sentido de prorrogar por el plazo de tres meses la postergaci&#xF3;n de permisos de edificaci&#xF3;n dispuesta por la presente norma.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1880 Exenta, Vivienda, publicada el 09.07.2018, modifica la presente norma en el sentido de prorrogar por el plazo de tres meses la postergaci&#xF3;n de permisos de edificaci&#xF3;n dispuesta por la presente norma.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2018-10-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9872826,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base la <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>postergaci&#xF3;n del otorgamiento de permisos<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 1</a></div> de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de edificaci&#xF3;n, por un plazo de tres meses en las zonas correspondientes a los terrenos ubicados en las zonas: ZC3, ZH2, ZH3, ZH6 y nueva zona ZH10 y apertura tramo de calle Los Girasoles, en cuatro pol&#xED;gonos definidos especialmente <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1116772&amp;idParte=9902934&amp;idVersion=2018-04-05\">Decreto 773 EXENTO,<br>MUNICIPALIDAD <br>HUECHURABA<br>D.O. 05.04.2018</a></span>para estos efectos, los que se indican y se grafican en el plano ilustrativo denominado Plano Postergaci&#xF3;n de permisos Zona ZC3, ZH2, ZH3 y ZH6, nueva zona ZH10 y apertura tramo de calle Los Girasoles, de fecha noviembre 2017. Esto en atenci&#xF3;n al informe favorable de la Seremi de Vivienda y Urbanismo comunicado a este municipio mediante Ord. N&#xB0; 5.402, de fecha 19.12.2017.</div><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1133 Exenta, Vivienda, publicada el 09.04.2018, modifica la presente norma en el sentido de prorrogar por el plazo de tres meses la postergaci&#xF3;n de permisos de edificaci&#xF3;n dispuesta por la presente norma.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1880 Exenta, Vivienda, publicada el 09.07.2018, modifica la presente norma en el sentido de prorrogar por el plazo de tres meses la postergaci&#xF3;n de permisos de edificaci&#xF3;n dispuesta por la presente norma.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base la <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>postergaci&#xF3;n del otorgamiento de permisos<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 1</a></div> de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de edificaci&#xF3;n, por un plazo de tres meses en las zonas<div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA 2</a></div> correspondientes a los terrenos ubicados en las zonas: ZC3, ZH2, ZH3, ZH6 y nueva zona ZH10 y apertura tramo de calle Los Girasoles, en cuatro pol&#xED;gonos definidos especialmente <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1116772&amp;idParte=9902934&amp;idVersion=2018-04-05\">Decreto 773 EXENTO,<br>MUNICIPALIDAD <br>HUECHURABA<br>D.O. 05.04.2018</a></span>para estos efectos, los que se indican y se grafican en el plano ilustrativo denominado Plano Postergaci&#xF3;n de permisos Zona ZC3, ZH2, ZH3 y ZH6, nueva zona ZH10 y apertura tramo de calle Los Girasoles, de fecha noviembre 2017. Esto en atenci&#xF3;n al informe favorable de la Seremi de Vivienda y Urbanismo comunicado a este municipio mediante Ord. N&#xB0; 5.402, de fecha 19.12.2017.</div><br><br><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1133 Exenta, Vivienda, publicada el 09.04.2018, modifica la presente norma en el sentido de prorrogar por el plazo de tres meses la postergaci&#xF3;n de permisos de edificaci&#xF3;n dispuesta por la presente norma.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1880 Exenta, Vivienda, publicada el 09.07.2018, modifica la presente norma en el sentido de prorrogar por el plazo de tres meses la postergaci&#xF3;n de permisos de edificaci&#xF3;n dispuesta por la presente norma.</div><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 2832 Exenta, Vivienda, publicada el 08.10.2018, modifica la presente norma en el sentido de prorrogar por el plazo de tres meses la postergaci&#xF3;n de permisos de edificaci&#xF3;n dispuesta por la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

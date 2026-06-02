@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-07-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-12-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10144505,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;. Para el cumplimiento de su objeto, la Comisi&#xF3;n estar&#xE1; integrada por los siguientes miembros:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Miguel O&apos;Ryan Gallardo, c&#xE9;dula de identidad n&#xFA;mero 7.945.804-K.</div><div class=\"p\">&nbsp; &nbsp;  2. Alexis Kalergis Parra, c&#xE9;dula de identidad n&#xFA;mero 11.631.450-9.</div><div class=\"p\">&nbsp; &nbsp;  3. Mar&#xED;a Teresa Valenzuela Bravo, c&#xE9;dula de identidad n&#xFA;mero 5.608.586-6.</div><div class=\"p\">&nbsp; &nbsp;  4. Mario Rosemblatt Silber, c&#xE9;dula de identidad n&#xFA;mero 2.555.029-3.</div><div class=\"p\">&nbsp; &nbsp;  5. David Farcas Guendelman, c&#xE9;dula de identidad n&#xFA;mero 7.742.110-6.</div><div class=\"p\">&nbsp; &nbsp;  6. Mario Calvo Gil, c&#xE9;dula de identidad n&#xFA;mero 5.732.207-1.</div><div class=\"p\">&nbsp; &nbsp;  7. Carlos P&#xE9;rez Cort&#xE9;s, c&#xE9;dula de identidad n&#xFA;mero 7.980.053-8.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Los miembros de la Comisi&#xF3;n ejercer&#xE1;n sus funciones ad honorem y su desempe&#xF1;o no implicar&#xE1; la creaci&#xF3;n de un cargo p&#xFA;blico.&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;. <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1153095&amp;idParte=10182991&amp;idVersion=2020-12-10\">Decreto 18, CIENCIA <br>Art. &#xFA;nico<br>D.O. 10.12.2020</a></span>Para el cumplimiento de su objeto, la Comisi&#xF3;n estar&#xE1; integrada por los siguientes miembros:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Miguel O&apos;Ryan Gallardo, c&#xE9;dula de identidad n&#xFA;mero 7.945.804-K.</div><div class=\"p\">&nbsp; &nbsp;  2. Alexis Kalergis Parra, c&#xE9;dula de identidad n&#xFA;mero 11.631.450-9.</div><div class=\"p\">&nbsp; &nbsp;  3. Mario Rosemblatt Silber, c&#xE9;dula de identidad n&#xFA;mero 2.555.029-3.</div><div class=\"p\">&nbsp; &nbsp;  4. David Farcas Guendelman, c&#xE9;dula de identidad n&#xFA;mero 7.742.110-6.</div><div class=\"p\">&nbsp; &nbsp;  5. Mario Calvo Gil, c&#xE9;dula de identidad n&#xFA;mero 10.541.428-5.</div><div class=\"p\">&nbsp; &nbsp;  6. Carlos P&#xE9;rez Cort&#xE9;s, c&#xE9;dula de identidad n&#xFA;mero 7.980.053-8.</div><div class=\"p\">&nbsp; &nbsp;  7. Lorena Isabel Tapia Fa&#xFA;ndes, c&#xE9;dula de identidad n&#xFA;mero 13.191.492-K.</div><div class=\"p\">&nbsp; &nbsp;  8. Paula Andrea Mu&#xF1;oz Venturelli, c&#xE9;dula de identidad n&#xFA;mero 14.118.146-7.</div><div class=\"p\">&nbsp; &nbsp;  9. Stephania Astried Passalaqua Hidalgo, c&#xE9;dula de identidad n&#xFA;mero 15.759.609-8.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Los miembros de la Comisi&#xF3;n ejercer&#xE1;n sus funciones ad honorem y su desempe&#xF1;o no implicar&#xE1; la creaci&#xF3;n de un cargo p&#xFA;blico.&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1153095,
+      "fecha": "2020-12-10"
+    }
+  }
+]

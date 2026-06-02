@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2012-07-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-07-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9272335,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, comun&#xED;quese y arch&#xED;vese.- Miguel Becker Alvear, Alcalde.- Juan Araneda Navarro, Secretario Municipal.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, comun&#xED;quese y arch&#xED;vese.- Miguel Becker Alvear, Alcalde.- Juan Araneda Navarro, Secretario Municipal.</div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1041787&amp;idParte=9274834&amp;idVersion=2012-07-17\">Aviso S/N, M. DE TEMUCO<br>D.O. 14.07.2012</a></span></div><div class=\"p\">&nbsp; &nbsp;  ORD. N&#xBA; 142</div><div class=\"p\">&nbsp; &nbsp;  ANT. No hay</div><div class=\"p\">&nbsp; &nbsp;  MAT. Acuerdo Concejo</div><div class=\"p\">&nbsp; &nbsp;  Temuco, mayo 22 de 2012</div><br><div class=\"p\">&nbsp; &nbsp;  De: Secretario Municipal</div><div class=\"p\">&nbsp; &nbsp;  A: Sr. Jefe de Estudios - Planificaci&#xF3;n</div><div class=\"p\">&nbsp; &nbsp;  C.C. Director de Obras</div><br><div class=\"p\">&nbsp; &nbsp;  En Sesi&#xF3;n de fecha 15 de mayo de 2012, el Concejo Municipal acord&#xF3; aprobar Seccional Avda. Las Encinas, en el tramo M&#xE1;ximo Reyes - In&#xE9;s de Su&#xE1;rez.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

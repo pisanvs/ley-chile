@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "2013-06-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-07-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9361454,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Cuarto: Establ&#xE9;zcase que, en episodios de Pre-emergencia y Emergencia Ambiental, las prohibiciones establecidas precedentemente regir&#xE1;n desde las 18:00 hrs. hasta las 23:59 hrs. del d&#xED;a afectado. Para episodios continuos de Emergencia Ambiental, las prohibiciones comenzar&#xE1;n a regir desde las 00:00 hrs. del segundo d&#xED;a, hasta las 23:59 hrs. del mismo d&#xED;a.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Cuarto: Establ&#xE9;zcase que, en episodios de Pre-emergencia y <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Emergencia Ambiental, las prohibiciones establecidas precedentemente regir&#xE1;n desde las 18:00 hrs. hasta las 23:59 hrs. del d&#xED;a afectado. Para episodios continuos de Emergencia Ambiental, las prohibiciones comenzar&#xE1;n a regir desde las 00:00 hrs. del segundo d&#xED;a, hasta las 23:59 hrs. del mismo d&#xED;a.</div><br><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo segundo de la RES 10105 EXENTA, Salud, publicada el 03.07.2013, modifica el presente art&#xED;culo en el sentido de establecer que las prohibiciones a que refiere &#xE9;ste, en caso de episodios de Pre-emergencia y Emergencia Ambiental, regir&#xE1;n entre las 17:00 y las 23:00 horas.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2013-07-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9361452,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Segundo: En episodios de Pre-emergencia y Emergencia Ambiental, definidos en la parte considerativa de la presente resoluci&#xF3;n, las prohibiciones precedentes regir&#xE1;n en el Macro Sector Urbano Poniente de la comuna de Temuco, inserta en Plan de Descontaminaci&#xF3;n Atmosf&#xE9;rico (PDA), seg&#xFA;n el decreto supremo N&#xB0; 78, del a&#xF1;o 2009, del Ministerio Secretar&#xED;a General de la Presidencia, el que comprende: las Avenidas Prieto Norte - Caupolic&#xE1;n, Francisco Salazar, Manuel Recabarren, Pedro de Valdivia y Luis Dur&#xE1;n.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Segundo: En episodios de Pre-emergencia y Emergencia Ambiental, definidos en la parte considerativa de la presente resoluci&#xF3;n, las prohibiciones precedentes regir&#xE1;n en el Macro <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> Sector Urbano Poniente de la comuna de Temuco, inserta en Plan de Descontaminaci&#xF3;n Atmosf&#xE9;rico (PDA), seg&#xFA;n el decreto supremo N&#xB0; 78, del a&#xF1;o 2009, del Ministerio Secretar&#xED;a General de la Presidencia, el que comprende: las Avenidas Prieto Norte - Caupolic&#xE1;n, Francisco Salazar, Manuel Recabarren, Pedro de Valdivia y Luis Dur&#xE1;n.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El resuelvo primero de la Resoluci&#xF3;n 10609 Exenta, Salud, publicado el 10.07.2013, modifica la presente norma en el sentido de incorporar el siguiente nuevo per&#xED;metro: Francisco Salazar, Avenida Caupolic&#xE1;n, Manuel Montt, Avenida Prieto Norte, Avenida Pedro de Valdivia, Avenida Gabriela Mistral, Luis Dur&#xE1;n, Camino Puntillas del Maipo, incluido el Condominio Los Naranjos y Canal Aquelarre.</div></div>"
+        },
+        {
+          "part_id": 9361454,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Cuarto: Establ&#xE9;zcase que, en episodios de Pre-emergencia y <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Emergencia Ambiental, las prohibiciones establecidas precedentemente regir&#xE1;n desde las 18:00 hrs. hasta las 23:59 hrs. del d&#xED;a afectado. Para episodios continuos de Emergencia Ambiental, las prohibiciones comenzar&#xE1;n a regir desde las 00:00 hrs. del segundo d&#xED;a, hasta las 23:59 hrs. del mismo d&#xED;a.</div><br><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo segundo de la RES 10105 EXENTA, Salud, publicada el 03.07.2013, modifica el presente art&#xED;culo en el sentido de establecer que las prohibiciones a que refiere &#xE9;ste, en caso de episodios de Pre-emergencia y Emergencia Ambiental, regir&#xE1;n entre las 17:00 y las 23:00 horas.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Cuarto: Establ&#xE9;zcase que, en episodios de Pre-emergencia y <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>Emergencia Ambiental, las prohibiciones establecidas precedentemente regir&#xE1;n desde las 18:00 hrs. hasta las 23:59 hrs. del d&#xED;a afectado. Para episodios continuos de Emergencia Ambiental, las prohibiciones comenzar&#xE1;n a regir desde las 00:00 hrs. del segundo d&#xED;a, hasta las 23:59 hrs. del mismo d&#xED;a.</div><br><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo segundo de la RES 10105 EXENTA, Salud, publicada el 03.07.2013, modifica el presente art&#xED;culo en el sentido de establecer que las prohibiciones a que refiere &#xE9;ste, en caso de episodios de Pre-emergencia y Emergencia Ambiental, regir&#xE1;n entre las 17:00 y las 23:00 horas.</div></div>"
+        }
+      ]
+    }
+  }
+]

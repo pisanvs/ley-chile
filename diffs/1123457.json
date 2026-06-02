@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-09-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-12-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9951829,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados, desde el 3 de septiembre de 2018 y hasta el 2 de diciembre de 2018, en Camino Cruce G-78 - La Colonia - Cruce G-384 (Ruta G-394), entre Balmaceda (Ruta G-78) y Pe&#xF1;aflor, comuna de Pe&#xF1;aflor.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Podr&#xE1;n circular excepcionalmente en el tramo se&#xF1;alado los veh&#xED;culos de emergencia, los destinados a cumplir funciones en obras del proyecto de conservaci&#xF3;n mencionado y aquellos veh&#xED;culos que requieran ingresar o egresar hacia o desde su lugar de residencia o estacionamiento.</div><div class=\"p\">&nbsp; &nbsp;  2.- Dese estricto cumplimiento a las condiciones y especificaciones establecidas en el Ord. SM/AGD N&#xBA; 7037, de 14 de agosto de 2018, de esta Secretar&#xED;a Regional, el que se entiende formar parte integrante del presente instrumento.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL N&#xBA; 1, de 2007, citado en Vistos.</div><div class=\"p\">&nbsp; &nbsp;  4.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a partir de su publicaci&#xF3;n en el Diario Oficial.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Proh&#xED;base la circulaci&#xF3;n de todo tipo de veh&#xED;culos motorizados, desde el 3 de septiembre de 2018 y hasta el <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1126874&amp;idParte=9978750&amp;idVersion=2018-12-20\">Resoluci&#xF3;n 7595 EXENTA, <br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 20.12.2018</a></span>16 de enero de 2019, en Camino Cruce G-78 - La Colonia - Cruce G-384 (Ruta G-394), entre Balmaceda (Ruta G-78) y Pe&#xF1;aflor, comuna de Pe&#xF1;aflor.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Podr&#xE1;n circular excepcionalmente en el tramo se&#xF1;alado los veh&#xED;culos de emergencia, los destinados a cumplir funciones en obras del proyecto de conservaci&#xF3;n mencionado y aquellos veh&#xED;culos que requieran ingresar o egresar hacia o desde su lugar de residencia o estacionamiento.</div><div class=\"p\">&nbsp; &nbsp;  2.- Dese estricto cumplimiento a las condiciones y especificaciones establecidas en el Ord. SM/AGD N&#xBA; 7037, de 14 de agosto de 2018, de esta Secretar&#xED;a Regional, el que se entiende formar parte integrante del presente instrumento.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL N&#xBA; 1, de 2007, citado en Vistos.</div><div class=\"p\">&nbsp; &nbsp;  4.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a partir de su publicaci&#xF3;n en el Diario Oficial.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1126874,
+      "fecha": "2018-12-20"
+    }
+  }
+]

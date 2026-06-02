@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-06-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-09-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10128031,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;gase por un plazo de 9 (nueve) meses la postergaci&#xF3;n selectivos de los permisos de loteo, urbanizaci&#xF3;n y edificaci&#xF3;n de obra nueva y/o ampliaciones, dispuesto originalmente por <a href=\"https://www.leychile.cl/navegar?idNorma=1143552&amp;idVersion=2020-06-11\">decreto alcaldicio N&#xBA; 893, de fecha 12 de marzo de 2020, de la I. Municipalidad de Limache</a>, publicado en el Diario Oficial con fecha 18 de marzo de 2020, en pol&#xED;gono caracterizado por puntos georreferenciados especificados en el considerando 3 de esta resoluci&#xF3;n, seg&#xFA;n plano adjunto a Ord. municipal N&#xBA; 101, de 2020, a contar del plazo de expiraci&#xF3;n de la postergaci&#xF3;n de permisos vigente.</div><div class=\"p\">&nbsp; &nbsp;  2. La presente resoluci&#xF3;n deber&#xE1; ser publicada en el Diario Oficial y en uno de los diarios de mayor circulaci&#xF3;n de la comuna de Limache.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Prorr&#xF3;gase por un <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>plazo de 9 (nueve) meses la postergaci&#xF3;n selectivos de los permisos de loteo, urbanizaci&#xF3;n y edificaci&#xF3;n de obra nueva y/o ampliaciones, dispuesto originalmente por decreto alcaldicio N&#xBA; 893, de fecha 12 de marzo de 2020, de la I. Municipalidad de Limache, publicado en el Diario Oficial con fecha 18 de marzo de 2020, en pol&#xED;gono caracterizado por puntos georreferenciados especificados en el considerando 3 de esta resoluci&#xF3;n, seg&#xFA;n plano adjunto a Ord. municipal N&#xBA; 101, de 2020, a contar del plazo de expiraci&#xF3;n de la postergaci&#xF3;n de permisos vigente.</div><div class=\"p\">&nbsp; &nbsp;  2. La presente resoluci&#xF3;n deber&#xE1; ser publicada en el Diario Oficial y en uno de los diarios de mayor circulaci&#xF3;n de la comuna de Limache.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; del Decreto 2391, Municipalidad De Limache, publicado el 11.09.2020, modifica la presente norma en el sentido de suspender el plazo de postergaci&#xF3;n, que se encuentra corriendo, en m&#xE9;rito a lo dispuesto en la presente norma, atendido lo resuelto en la circular Ord. N&#xBA; 296, DDU 437, de fecha 20 de julio de 2020, de la Jefa de Divisi&#xF3;n de Desarrollo Urbano Minvu, en relaci&#xF3;n a la pandemia producida por el Covid-19. La suspensi&#xF3;n decretada se mantendr&#xE1;, en cuanto se mantenga vigente la Declaraci&#xF3;n de Estado de Excepci&#xF3;n Constitucional de Cat&#xE1;strofe por Calamidad P&#xFA;blica, en el Territorio de Chile, de tal forma, que seguir&#xE1; corriendo el plazo, al d&#xED;a siguiente en que se levante la referida Declaraci&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

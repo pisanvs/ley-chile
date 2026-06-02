@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-03-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-04-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10111388,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Recon&#xF3;zcase, en el marco del &quot;Acuerdo de Reconocimiento Mutuo de T&#xED;tulos Profesionales y Licenciaturas y T&#xED;tulos de Grado Universitarios entre la Rep&#xFA;blica de Chile y la Rep&#xFA;blica Argentina&quot;, suscrito el 16 de marzo de 2012, los t&#xED;tulos de pregrado obtenidos en las universidades argentinas que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/106736.jpg\">.&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/106737.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/106738.jpg\">.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Recon&#xF3;zcase, en el marco del &quot;Acuerdo de Reconocimiento Mutuo de T&#xED;tulos Profesionales y Licenciaturas y T&#xED;tulos de Grado Universitarios entre la Rep&#xFA;blica de Chile y la Rep&#xFA;blica Argentina&quot;, suscrito el 16 de marzo de 2012, los t&#xED;tulos de pregrado obtenidos en las universidades argentinas que se indican a continuaci&#xF3;n:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/106736.jpg\">.&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/106737.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/106738.jpg\">.</div><div class=\"p\"> </div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo segundo de la Resoluci&#xF3;n 1730 Exenta, Educaci&#xF3;n, publicada el 05.04.2021, modifica el presente art&#xED;culo en el sentido de rectificar en el N&#xBA; 39 del listado, en la parte que dice &quot;39.760.101&quot;, debiendo decir &quot;38.760.101&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

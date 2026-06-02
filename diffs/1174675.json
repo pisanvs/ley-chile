@@ -1,0 +1,116 @@
+[
+  {
+    "fecha": "2022-04-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-09-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10324435,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el d&#xED;a 30 de septiembre de 2022, sin perjuicio de la facultad de disponer su t&#xE9;rmino anticipado o su pr&#xF3;rroga, si las condiciones as&#xED; lo ameritan.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el d&#xED;a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1182132&amp;idParte=10369559&amp;idVersion=2022-09-30\">Decreto 77, SALUD<br>Art. 1&#xB0;<br>D.O. 30.09.2022</a></span>31 de diciembre de 2022, sin perjuicio de la facultad de disponer su t&#xE9;rmino anticipado o su pr&#xF3;rroga, si las condiciones as&#xED; lo ameritan.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-12-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10324435,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el d&#xED;a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1182132&amp;idParte=10369559&amp;idVersion=2022-09-30\">Decreto 77, SALUD<br>Art. 1&#xB0;<br>D.O. 30.09.2022</a></span>31 de diciembre de 2022, sin perjuicio de la facultad de disponer su t&#xE9;rmino anticipado o su pr&#xF3;rroga, si las condiciones as&#xED; lo ameritan.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el d&#xED;a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1187226&amp;idParte=10392531&amp;idVersion=2022-12-31\">Decreto 88, SALUD<br>Art. &#xFA;nico<br>D.O. 31.12.2022</a></span>31 de marzo de 2023, sin perjuicio de la facultad de disponer su t&#xE9;rmino anticipado o su pr&#xF3;rroga, si las condiciones as&#xED; lo ameritan.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2023-03-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10324435,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el d&#xED;a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1187226&amp;idParte=10392531&amp;idVersion=2022-12-31\">Decreto 88, SALUD<br>Art. &#xFA;nico<br>D.O. 31.12.2022</a></span>31 de marzo de 2023, sin perjuicio de la facultad de disponer su t&#xE9;rmino anticipado o su pr&#xF3;rroga, si las condiciones as&#xED; lo ameritan.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el d&#xED;a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1190517&amp;idParte=10416833&amp;idVersion=2023-03-23\">Decreto 7,<br>SALUD<br>Art. &#xFA;nico<br>D.O. 23.03.2023</a></span>30 de septiembre de 2023, sin perjuicio de la facultad de disponer su t&#xE9;rmino anticipado o su pr&#xF3;rroga, si las condiciones as&#xED; lo ameritan.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2023-09-26",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10324435,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el d&#xED;a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1190517&amp;idParte=10416833&amp;idVersion=2023-03-23\">Decreto 7,<br>SALUD<br>Art. &#xFA;nico<br>D.O. 23.03.2023</a></span>30 de septiembre de 2023, sin perjuicio de la facultad de disponer su t&#xE9;rmino anticipado o su pr&#xF3;rroga, si las condiciones as&#xED; lo ameritan.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el d&#xED;a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1196271&amp;idParte=10459459&amp;idVersion=2023-09-26\">Decreto 32,<br>SALUD<br>Art. &#xFA;nico<br>D.O. 26.09.2023</a></span>30 de abril de 2024, sin perjuicio de la facultad de disponer su t&#xE9;rmino anticipado o su pr&#xF3;rroga, si las condiciones as&#xED; lo ameritan.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2024-04-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10324435,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el d&#xED;a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1196271&amp;idParte=10459459&amp;idVersion=2023-09-26\">Decreto 32,<br>SALUD<br>Art. &#xFA;nico<br>D.O. 26.09.2023</a></span>30 de abril de 2024, sin perjuicio de la facultad de disponer su t&#xE9;rmino anticipado o su pr&#xF3;rroga, si las condiciones as&#xED; lo ameritan.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el d&#xED;a 30 de abril de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1203029&amp;idParte=10498464&amp;idVersion=2024-04-30\">Decreto 15, SALUD<br>Art. &#xFA;nico<br>D.O. 30.04.2024</a></span>2025, sin perjuicio de la facultad de disponer su t&#xE9;rmino anticipado o su pr&#xF3;rroga, si las condiciones as&#xED; lo ameritan.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2025-04-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10324435,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el d&#xED;a 30 de abril de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1203029&amp;idParte=10498464&amp;idVersion=2024-04-30\">Decreto 15, SALUD<br>Art. &#xFA;nico<br>D.O. 30.04.2024</a></span>2025, sin perjuicio de la facultad de disponer su t&#xE9;rmino anticipado o su pr&#xF3;rroga, si las condiciones as&#xED; lo ameritan.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el d&#xED;a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1212842&amp;idParte=10546516&amp;idVersion=2025-04-30\">Decreto 17,<br>SALUD<br>Art. &#xFA;nico<br>D.O. 30.04.2025</a></span>30 de abril de 2026, sin perjuicio de la facultad de disponer su t&#xE9;rmino anticipado o su pr&#xF3;rroga, si las condiciones as&#xED; lo ameritan.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2026-04-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10324435,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el d&#xED;a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1212842&amp;idParte=10546516&amp;idVersion=2025-04-30\">Decreto 17,<br>SALUD<br>Art. &#xFA;nico<br>D.O. 30.04.2025</a></span>30 de abril de 2026, sin perjuicio de la facultad de disponer su t&#xE9;rmino anticipado o su pr&#xF3;rroga, si las condiciones as&#xED; lo ameritan.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el d&#xED;a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1223660&amp;idParte=10593094&amp;idVersion=2026-04-30\">Decreto 50,<br>SALUD<br>Art. &#xFA;nico<br>D.O. 30.04.2026</a></span>30 de abril de 2027, sin perjuicio de la facultad de disponer su t&#xE9;rmino anticipado o su pr&#xF3;rroga, si las condiciones as&#xED; lo ameritan.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1223660,
+      "fecha": "2026-04-30"
+    }
+  }
+]

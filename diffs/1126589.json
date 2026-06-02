@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-12-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-09-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9976226,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico:&nbsp; El Programa Extrapresupuestario &quot;Plan Especial de Reposici&#xF3;n de las Actividades Sociales que resulten afectadas por eventos de Violencia Rural a&#xF1;o 2018&quot; ser&#xE1; ejecutado por el Departamento de Acci&#xF3;n Social, de la Subsecretaria del Interior para financiar con cargo &#xFA;nicamente a los haberes que se transferir&#xE1;n por medio del o los convenios que al efecto se celebren entre la Subsecretar&#xED;a del Interior y la Subsecretar&#xED;a de Prevenci&#xF3;n del Delito, proyectos relacionados con el Plan ya indicado, de acuerdo a las normas contenidas en el <a href=\"https://www.leychile.cl/Navegar?idNorma=1087297&amp;idParte=&amp;idVersion=\">decreto supremo N&#xBA; 964, de 2015, del Ministerio del Interior y Seguridad P&#xFA;blica</a>, que Aprueba Normas Complementarias para la Administraci&#xF3;n e Inversi&#xF3;n de Recursos del Fondo Social Presidente de la Rep&#xFA;blica, incluyendo el financiamiento de construcci&#xF3;n, reparaci&#xF3;n, ampliaci&#xF3;n, habilitaci&#xF3;n y/o equipamiento de templos religiosos, descritos en la letra d) del <a href=\"https://www.leychile.cl/Navegar?idNorma=1087297&amp;idParte=9673676&amp;idVersion=\">art&#xED;culo 3&#xBA;</a>, del citado decreto supremo, sin necesidad de verificar la concurrencia de las excepciones que en ese literal se expresan.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico:&nbsp; El Programa Extrapresupuestario &quot;Plan Especial de Reposici&#xF3;n de las Actividades Sociales que resulten afectadas por eventos de Violencia Rural a&#xF1;o 2018&quot; ser&#xE1; ejecutado por el Departamento de Acci&#xF3;n Social, de la Subsecretaria del Interior para financiar con cargo &#xFA;nicamente a los haberes que se transferir&#xE1;n por medio del o los convenios que al efecto se celebren entre la Subsecretar&#xED;a del Interior y la Subsecretar&#xED;a de Prevenci&#xF3;n del Delito, proyectos relacionados con el Plan ya indicado, de acuerdo a las normas contenidas en el decreto supremo N&#xBA; 964, de 2015, del Ministerio del Interior y Seguridad P&#xFA;blica, que Aprueba Normas Complementarias para la Administraci&#xF3;n e Inversi&#xF3;n de Recursos del Fondo Social Presidente de la Rep&#xFA;blica, incluyendo el financiamiento de construcci&#xF3;n, reparaci&#xF3;n, ampliaci&#xF3;n, habilitaci&#xF3;n y/o equipamiento de templos religiosos, descritos en la letra d) del art&#xED;culo 3&#xBA;, del citado decreto supremo, sin necesidad de verificar la concurrencia de las excepciones que en ese literal se expresan.</div><div class=\"p\">&nbsp; &nbsp;  Con todo, y sin perjuicio de lo expuesto en el inciso anterior respecto<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1136544&amp;idParte=10054761&amp;idVersion=2019-09-17\">Decreto 191, INTERIOR<br>N&#xB0; 1<br>D.O. 17.09.2019</a></span> del periodo presupuestario 2018, la Subsecretar&#xED;a de Prevenci&#xF3;n del Delito podr&#xE1; suscribir convenios con la Subsecretar&#xED;a del Interior, para el desarrollo y ejecuci&#xF3;n de programas de apoyo a las personas afectadas por eventos de violencia rural, siempre que existan los recursos asignados a trav&#xE9;s de la Ley de Presupuestos del a&#xF1;o que corresponda, debiendo ejecutarse dichos programas extrapresupuestarios de conformidad a lo establecido en el presente decreto.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1136544,
+      "fecha": "2019-09-17"
+    }
+  }
+]

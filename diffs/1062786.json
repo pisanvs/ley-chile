@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-05-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-07-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9476380,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Ac&#xF3;gese la solicitud de inscripci&#xF3;n de la entidad denominada &quot;Partido Humanista&quot; en las regiones XV de Arica y Parinacota, I de Tarapac&#xE1;, II de Antofagasta, III de Atacama, IV de Coquimbo, V de Valpara&#xED;so, Metropolitana de Santiago, VI del Libertador General Bernardo O&apos;Higgins, VII del Maule, VIII del Biob&#xED;o, IX de la Araucan&#xED;a, XIV de Los R&#xED;os y XII de Magallanes y de la Ant&#xE1;rtica Chilena.</div><div class=\"p\">&nbsp; &nbsp;  2.- Inscr&#xED;base al partido en el Registro de Partidos Pol&#xED;ticos una vez transcurrido el plazo contemplado en el art&#xED;culo 14 de la mencionada ley.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Ac&#xF3;gese la solicitud de inscripci&#xF3;n de la entidad denominada &quot;Partido Humanista&quot; en las regiones XV de Arica y Parinacota, I de Tarapac&#xE1;, II de Antofagasta, III de Atacama, IV de Coquimbo, V de Valpara&#xED;so, Metropolitana de Santiago, VI del Libertador General Bernardo O&apos;Higgins, VII del Maule, VIII del Biob&#xED;o, IX de la Araucan&#xED;a, XIV de Los R&#xED;os <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> y XII de Magallanes y de la Ant&#xE1;rtica Chilena.</div><div class=\"p\">&nbsp; &nbsp;  2.- Inscr&#xED;base al partido en el Registro de Partidos Pol&#xED;ticos una vez transcurrido el plazo contemplado en el art&#xED;culo 14 de la mencionada ley.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 2311, Servicio Electoral, publicada el 25.07.2014, modifica la presente norma en el sentido de incorporar en la parte resolutiva a la XI Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo.</div></div>"
+        }
+      ]
+    }
+  }
+]

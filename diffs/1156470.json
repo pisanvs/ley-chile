@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2021-03-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-03-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10207070,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Susp&#xE9;ndase transitoriamente la presentaci&#xF3;n de solicitudes para la incorporaci&#xF3;n de Instituciones de Garant&#xED;a Rec&#xED;proca al &quot;Programa de Cobertura para Instituciones de Garant&#xED;a Rec&#xED;proca - Cobertura IGR&quot;, por un periodo de 12 meses, contados desde publicaci&#xF3;n de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, las Instituciones de Garant&#xED;a Rec&#xED;proca que actualmente participan en el Programa podr&#xE1;n seguir operando en &#xE9;l y deber&#xE1;n continuar cumpliendo las condiciones estipuladas en los contratos y el Reglamento.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Susp&#xE9;ndase <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>transitoriamente la presentaci&#xF3;n de solicitudes para la incorporaci&#xF3;n de Instituciones de Garant&#xED;a Rec&#xED;proca al &quot;Programa de Cobertura para Instituciones de Garant&#xED;a Rec&#xED;proca - Cobertura IGR&quot;, por un periodo de 12 meses, contados desde publicaci&#xF3;n de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Sin perjuicio de lo anterior, las Instituciones de Garant&#xED;a Rec&#xED;proca que actualmente participan en el Programa podr&#xE1;n seguir operando en &#xE9;l y deber&#xE1;n continuar cumpliendo las condiciones estipuladas en los contratos y el Reglamento.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 218 Exenta, Econom&#xED;a, publicada el 14.03.2022, modifica la presente norma en el sentido de prorrogar la suspensi&#xF3;n transitoria de la presentaci&#xF3;n de solicitudes para la incorporaci&#xF3;n de Instituciones de Garant&#xED;a Rec&#xED;proca al &quot;Programa de Cobertura para Instituciones de Garant&#xED;a Rec&#xED;proca - Cobertura IGR&quot;, por un per&#xED;odo adicional de 12 meses, a contar del 2 de marzo de 2022, sin perjuicio de lo anterior, las Instituciones de Garant&#xED;a Rec&#xED;proca que actualmente participan en el Programa podr&#xE1;n seguir operando en &#xE9;l y deber&#xE1;n continuar cumpliendo las condiciones estipuladas en los contratos y el Reglamento.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2016-04-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-05-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9699349,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Prorr&#xF3;gase por un a&#xF1;o el plazo fijado por la <a href=\"https://www.leychile.cl/Navegar?idNorma=1077045&amp;idParte=&amp;idVersion=\">RE N&#xBA; 2.207</a>, citada en Visto, publicada en el Diario Oficial con fecha 5 de mayo de 2015.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Prorr&#xF3;gase por <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>un a&#xF1;o el plazo fijado por la RE N&#xBA; 2.207, citada en Visto, publicada en el Diario Oficial con fecha 5 de mayo de 2015.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 1579 Exenta, Econom&#xED;a, publicada el 05.05.2017, modifica la presente norma en el sentido de prorrogar por un a&#xF1;o el plazo fijado en la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]
