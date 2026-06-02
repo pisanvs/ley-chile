@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-03-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-06-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9423149,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rganse, por un per&#xED;odo de tres meses, los permisos de construcciones sobre 2 pisos de altura m&#xE1;s mansarda, en el sector conformado por los Pol&#xED;gonos (A-B-C-D-E-F-A) y (G-H-I-J-G), de acuerdo a lo graficado en el Plano M-PRMAC-U.V. N&#xBA; 17-01/2013, elaborado por Asesor&#xED;a Urbana, correspondiente a las Villas Bancaria, Santa Elena y Marathon y Conjunto de Departamentos Marathon, de la Unidad Vecinal N&#xBA; 17, de la comuna de Macul.</div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese por la Direcci&#xF3;n de Administraci&#xF3;n y Finanzas el presente decreto en el Diario Oficial y en un diario de alta circulaci&#xF3;n en la comuna, para su entrada en vigencia.</div><div class=\"p\">&nbsp; &nbsp;  3. An&#xF3;tese, comun&#xED;quese y transcr&#xED;base el presente decreto a la Secretar&#xED;a Ministerial de Vivienda y Urbanismo y a los Departamentos Municipales respectivos. C&#xFA;mplase y hecho arch&#xED;vese.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rganse, por un per&#xED;odo de tres meses, <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> los permisos de construcciones sobre 2 pisos de altura m&#xE1;s mansarda, en el sector conformado por los Pol&#xED;gonos (A-B-C-D-E-F-A) y (G-H-I-J-G), de acuerdo a lo graficado en el Plano M-PRMAC-U.V. N&#xBA; 17-01/2013, elaborado por Asesor&#xED;a Urbana, correspondiente a las Villas Bancaria, Santa Elena y Marathon y Conjunto de Departamentos Marathon, de la Unidad Vecinal N&#xBA; 17, de la comuna de Macul.</div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese por la Direcci&#xF3;n de Administraci&#xF3;n y Finanzas el presente decreto en el Diario Oficial y en un diario de alta circulaci&#xF3;n en la comuna, para su entrada en vigencia.</div><div class=\"p\">&nbsp; &nbsp;  3. An&#xF3;tese, comun&#xED;quese y transcr&#xED;base el presente decreto a la Secretar&#xED;a Ministerial de Vivienda y Urbanismo y a los Departamentos Municipales respectivos. C&#xFA;mplase y hecho arch&#xED;vese.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xBA; de la Resoluci&#xF3;n 1240 Exenta, Vivienda, publicada el 26.06.2014, modifica la presente norma en el sentido de prorrogar por el plazo de seis meses la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, a contar del d&#xED;a 26 de junio de 2014, para el sector conformado por las villas Bancaria, Santa Elena y Marathon y Conjunto de Departamentos Marathon, de la Unidad Vecinal N&#xBA; 17, relativa a los pol&#xED;gonos A-B-C-D-E-F-A y G-H-I-J-G, graficados en el Plano M-PRMAC-U.V. N&#xBA; 17-01/2013, de la comuna de Macul.</div></div>"
+        }
+      ]
+    }
+  }
+]

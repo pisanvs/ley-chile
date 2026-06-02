@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2009-08-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-06-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8773884,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Des&#xED;gnanse como representantes del Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n en la Comisi&#xF3;n Nacional encargada de investigar la existencia de distorsiones en el precio de las mercader&#xED;as importadas a los siguientes profesionales:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Don Jos&#xE9; Tom&#xE1;s Morel Lara, Jefe de Divisi&#xF3;n de Pol&#xED;tica Comercial e Industrial, domiciliado para estos efectos en Avenida Libertador Bernardo O&apos;Higgins N&#xBA; 1449, torre II, piso 12, en calidad de titular;</div><br><div class=\"p\">&nbsp; &nbsp;  b) Don Jorge Gerardo Soto Solar, profesional de la Subsecretar&#xED;a de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, domiciliado para estos efectos en Avenida Libertador Bernardo O&apos;Higgins N&#xBA; 1449, torre II, piso 12, en calidad de subrogante.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;janse sin efecto las <a href=\"https://www.leychile.cl/Navegar?idNorma=85307&amp;idParte=&amp;idVersion=2009-08-27\">resoluciones exentas N&#xBA;s 79, de 6 de agosto de 1992</a>; <a href=\"https://www.leychile.cl/Navegar?idNorma=38102&amp;idParte=&amp;idVersion=2009-08-27\">45, de 11 de abril de 1996</a>, y <a href=\"https://www.leychile.cl/Navegar?idNorma=216898&amp;idParte=&amp;idVersion=2009-08-27\">83, de 28 de octubre de 2003</a>, todas del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3.- Imp&#xFA;tese el gasto de la publicaci&#xF3;n de la presente resoluci&#xF3;n ministerial exenta a la Partida 07, Cap&#xED;tulo 01, Programa 01, Subt&#xED;tulo 22, &#xCD;tem 07 y Asignaci&#xF3;n 001 del presupuesto de la Subsecretar&#xED;a de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n del a&#xF1;o 2009.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Des&#xED;gnanse como representantes del Ministro de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n en la Comisi&#xF3;n Nacional encargada de investigar la existencia de distorsiones en el precio de las mercader&#xED;as importadas a los siguientes profesionales:</div><br><div class=\"p\">&nbsp; &nbsp;  <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>a) Don Jos&#xE9; Tom&#xE1;s Morel Lara, Jefe de Divisi&#xF3;n de Pol&#xED;tica Comercial e Industrial, domiciliado para estos efectos en Avenida Libertador Bernardo O&apos;Higgins N&#xBA; 1449, torre II, piso 12, en calidad de titular;</div><br><div class=\"p\">&nbsp; &nbsp;  b) Don Jorge Gerardo Soto Solar, profesional de la Subsecretar&#xED;a de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n, domiciliado para estos efectos en Avenida Libertador Bernardo O&apos;Higgins N&#xBA; 1449, torre II, piso 12, en calidad de subrogante.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- D&#xE9;janse sin efecto las resoluciones exentas N&#xBA;s 79, de 6 de agosto de 1992; 45, de 11 de abril de 1996, y 83, de 28 de octubre de 2003, todas del Ministerio de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  3.- Imp&#xFA;tese el gasto de la publicaci&#xF3;n de la presente resoluci&#xF3;n ministerial exenta a la Partida 07, Cap&#xED;tulo 01, Programa 01, Subt&#xED;tulo 22, &#xCD;tem 07 y Asignaci&#xF3;n 001 del presupuesto de la Subsecretar&#xED;a de Econom&#xED;a, Fomento y Reconstrucci&#xF3;n del a&#xF1;o 2009.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 1 de la Resoluci&#xF3;n 23 Exenta, Econom&#xED;a, publicado el 08.06.2010, modifica la presente norma en el sentido de designar como representante titular del Ministro de Econom&#xED;a, Fomento y Turismo en la Comisi&#xF3;n Nacional encargada de investigar la existencia de distorsiones en el precio de las mercader&#xED;as importadas a don Tom&#xE1;s Flores Ja&#xF1;a, Subsecretario de Econom&#xED;a y Empresas de Menor Tama&#xF1;o, domiciliado para estos efectos en Avenida Libertador Bernardo O&apos;Higgins 1449, piso 11, Santiago, en lugar del se&#xF1;or Jos&#xE9; Tom&#xE1;s Morel Lara, indicado en el N&#xBA; 1 letra a) de la presente Resoluci&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2014-04-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

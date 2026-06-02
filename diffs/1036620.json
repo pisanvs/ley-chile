@@ -1,0 +1,47 @@
+[
+  {
+    "fecha": "2012-01-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-01-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9228819,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  T&#xCD;TULO V</div><br><div class=\"p\">&nbsp; &nbsp;  De los Horarios de Funcionamiento</div><br></div>"
+        },
+        {
+          "part_id": 9228820,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 14&#xB0;: El horario de funcionamiento de esta clase de establecimientos ser&#xE1; entre las 09:00 y las 24:00 horas de cada d&#xED;a: Los d&#xED;as viernes y s&#xE1;bado entre las 09:00 y las 04:00 horas.</div><br></div>"
+        },
+        {
+          "part_id": 9228821,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15&#xB0;: El ingreso a menores de 14 a&#xF1;os que accedan a estos entretenimientos electr&#xF3;nicos, &#xE9;stos deber&#xE1;n ser acompa&#xF1;ados por una persona adulta de su familia.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2012-07-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9228799,
+          "old": "<div><br><div class=\"p\">ORDENANZA MUNICIPAL QUE REGULA LA AUTORIZACI&#xD3;N Y EXPLOTACI&#xD3;N COMERCIAL DE M&#xC1;QUINAS DE HABILIDAD, DESTREZA O JUEGOS SIMILARES</div><br><div class=\"p\">&nbsp; &nbsp;  San Fernando, 5 de enero de 2012.- La Alcald&#xED;a de San Fernando con fecha de hoy, decret&#xF3; lo siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 24.- Vistos y Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- La Trig&#xE9;sima Tercera Sesi&#xF3;n Ordinaria del Concejo Municipal, realizada con fecha 22 de noviembre de 2011, donde se aprob&#xF3; la Ordenanza Municipal que regula la Autorizaci&#xF3;n y Explotaci&#xF3;n Comercial de M&#xE1;quinas de Habilidad, Destreza o Juegos Similares de la Comuna de San Fernando.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- La sentencia del Tribunal Electoral Regional Sexta Regi&#xF3;n Causa Rol N&#xB0; 2386 de fecha 3 de diciembre de 2008; y decreto alcaldicio N&#xB0; 2.484 de fecha 6 de diciembre de 2008.</div><br><div class=\"p\">&nbsp; &nbsp;  3.- Las facultades que me confiere la ley N&#xB0; 18.695 de 1988, Ley Org&#xE1;nica Constitucional de Municipalidades y sus modificaciones,</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div></div>",
+          "new": "<div><br><div class=\"p\">ORDENANZA MUNICIPAL QUE REGULA LA AUTORIZACI&#xD3;N Y EXPLOTACI&#xD3;N COMERCIAL DE M&#xC1;QUINAS DE HABILIDAD, DESTREZA O JUEGOS SIMILARES</div><br><div class=\"p\">&nbsp; &nbsp;  San Fernando, 5 de enero de 2012.- La Alcald&#xED;a de San Fernando con fecha de hoy, decret&#xF3; lo siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 24.- Vistos y Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  1.- La Trig&#xE9;sima Tercera Sesi&#xF3;n Ordinaria del Concejo Municipal, realizada con fecha 22 de noviembre de 2011, donde se aprob&#xF3; la Ordenanza <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> Municipal que regula la Autorizaci&#xF3;n y Explotaci&#xF3;n Comercial de M&#xE1;quinas de Habilidad, Destreza o Juegos Similares de la Comuna de San Fernando.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- La sentencia del Tribunal Electoral Regional Sexta Regi&#xF3;n Causa Rol N&#xB0; 2386 de fecha 3 de diciembre de 2008; y decreto alcaldicio N&#xB0; 2.484 de fecha 6 de diciembre de 2008.</div><br><div class=\"p\">&nbsp; &nbsp;  3.- Las facultades que me confiere la ley N&#xB0; 18.695 de 1988, Ley Org&#xE1;nica Constitucional de Municipalidades y sus modificaciones,</div><br><br><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 1 del Decreto 1562, M. de San Fernando, publicada 11.07.2012, modifica la presente norma en el sentido de reemplazar la Ordenanza Municipal que regula la Autorizaci&#xF3;n y Explotaci&#xF3;n Comercial de M&#xE1;quinas de Habilidad, Destreza o Juegos Similares, de la manera que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

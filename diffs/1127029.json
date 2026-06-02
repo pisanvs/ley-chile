@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-01-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-09-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9981617,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;: De conformidad a lo establecido en el <a href=\"https://www.leychile.cl/Navegar?idNorma=251693&amp;idParte=9703833&amp;idVersion=\">art&#xED;culo 49 bis</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=251693&amp;idParte=&amp;idVersion=\">ley N&#xB0; 18.695</a> Org&#xE1;nica Constitucional de Municipalidades, modif&#xED;case la planta de personal de la Municipalidad de Colina, aprobada mediante <a href=\"https://www.leychile.cl/Navegar?idNorma=5465&amp;idParte=&amp;idVersion=\">decreto con fuerza de ley N&#xB0; 336 - 19.321, de fecha 25 de octubre de 1994</a>, en el siguiente sentido:</div><br><div class=\"p\">&nbsp; &nbsp;  A. Cr&#xE9;anse los cargos que se se&#xF1;alan:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/87049.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/87050.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  B. Modif&#xED;canse los grados de los cargos que se indican:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/87051.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  C. Establ&#xE9;zcanse los requisitos espec&#xED;ficos para el desempe&#xF1;o de los cargos que se mencionan:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/87052.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/87053.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/87054.jpg\"></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;: De conformidad a lo establecido en el art&#xED;culo 49 bis de la ley N&#xB0; 18.695 Org&#xE1;nica Constitucional de Municipalidades, modif&#xED;case la planta de personal de la Municipalidad de Colina, aprobada mediante decreto con fuerza de ley N&#xB0; 336 - 19.321, de fecha 25 de octubre de 1994, en el siguiente sentido:</div><br><div class=\"p\">&nbsp; &nbsp;  A. Cr&#xE9;anse los cargos que se se&#xF1;alan:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/87049.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/87050.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  B. Modif&#xED;canse los grados de los cargos que se indican:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/87051.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  C. Establ&#xE9;zcanse los requisitos espec&#xED;ficos para el desempe&#xF1;o de los cargos que se mencionan:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/87052.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/87053.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/87054.jpg\"></div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Reglamento Municipal 2, Municipalidad de Colina, publicado el 22.09.2023, modifica la letra c) del art&#xED;culo 2&#xBA; del presente reglamento, en el sentido de suprimir los requisitos espec&#xED;ficos para los cargos de exclusiva confianza Director de Desarrollo Comunitario y Secretario Comunal de Planificaci&#xF3;n, y establece que para optar a dichos cargos se deber&#xE1; contar con T&#xED;tulo profesional de una carrera de, a lo menos, ocho semestres de duraci&#xF3;n, otorgado por una instituci&#xF3;n de educaci&#xF3;n superior del Estado o reconocida por &#xE9;ste. </div></div>"
+        }
+      ]
+    }
+  }
+]

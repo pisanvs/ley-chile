@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-12-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-04-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9380815,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;: El Departamento de Derechos Intelectuales que establece el art&#xED;culo 90&#xBA; de la ley N&#xBA; 17.336, tendr&#xE1; a su cargo el Registro de la Propiedad Intelectual, la atenci&#xF3;n de las consultas e informes que formulen o soliciten los particulares y los servicios p&#xFA;blicos y el asesoramiento del Gobierno en todo lo relativo a derechos de autor, derechos conexos y materias afines.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;: El Departamento de Derechos Intelectuales que establece<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1174632&amp;idParte=10323787&amp;idVersion=2022-04-12\">Decreto 7,<br>CULTURAS<br>D.O. 12.04.2022</a></span> el art&#xED;culo 90&#xB0; de la ley N&#xB0; 17.336, tendr&#xE1; a su cargo el Registro de la Propiedad Intelectual, la atenci&#xF3;n al p&#xFA;blico y la respuesta de las consultas que le formulen los usuarios en todo lo relativo al registro y otras materias de su competencia.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1174632,
+      "fecha": "2022-04-12"
+    }
+  }
+]

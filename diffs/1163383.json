@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-08-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-07-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10257197,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- El art&#xED;culo 40 bis de la ley N&#xB0; 19.925 entrar&#xE1; en vigencia un a&#xF1;o despu&#xE9;s de que se publique el reglamento se&#xF1;alado en su inciso final.</div><div class=\"p\">&nbsp; &nbsp;  El art&#xED;culo 40 ter de la ley N&#xB0; 19.925 entrar&#xE1; en vigencia treinta y seis meses despu&#xE9;s de que se publique el reglamento se&#xF1;alado en el inciso siguiente.</div><div class=\"p\">&nbsp; &nbsp;  El reglamento al que alude el inciso final del art&#xED;culo 40 bis y el inciso segundo del art&#xED;culo 40 ter de la ley N&#xB0; 19.925 deber&#xE1; dictarse dentro del plazo de un a&#xF1;o, contado desde la publicaci&#xF3;n de esta ley.</div><div class=\"p\">&nbsp; &nbsp;  El inciso noveno del art&#xED;culo 40 bis de la ley N&#xB0; 19.925 entrar&#xE1; en vigencia a partir de veinticuatro meses desde la publicaci&#xF3;n de la presente ley.&quot;.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- El art&#xED;culo 40 bis de la ley N&#xB0; 19.925 entrar&#xE1; en vigencia un a&#xF1;o despu&#xE9;s de que se publique el reglamento se&#xF1;alado en su inciso final.</div><div class=\"p\">&nbsp; &nbsp;  El art&#xED;culo 40 ter de la ley N&#xB0; 19.925 entrar&#xE1; en vigencia treinta y seis meses despu&#xE9;s de que se publique el reglamento se&#xF1;alado en el inciso siguiente.</div><div class=\"p\">&nbsp; &nbsp;  El reglamento al que alude el inciso final del art&#xED;culo 40 bis y el inciso segundo del art&#xED;culo 40 ter de la ley N&#xB0; 19.925 deber&#xE1; dictarse dentro del plazo de un a&#xF1;o, contado desde la publicaci&#xF3;n de esta ley.</div><div class=\"p\">&nbsp; &nbsp;  El inciso noveno del art&#xED;culo 40 bis de la ley N&#xB0; 19.925 entrar&#xE1; en vigencia a partir de veinticuatro meses desde la publicaci&#xF3;n de la presente ley.</div><div class=\"p\">&nbsp; &nbsp;  Las<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1204707&amp;idParte=10505916&amp;idVersion=2024-07-05\">Ley 21682<br>Art. &#xFA;nico<br>D.O. 05.07.2024</a></span> disposiciones del art&#xED;culo 40 bis de la ley N&#xBA; 19.925 no se aplicar&#xE1;n a aquellos productos que hayan sido comercializados antes de las fechas de entrada en vigencia se&#xF1;aladas precedentemente, los que podr&#xE1;n comercializarse hasta agotar sus existencias.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1204707,
+      "fecha": "2024-07-05"
+    }
+  }
+]

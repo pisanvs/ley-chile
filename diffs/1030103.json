@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-09-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-01-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9185354,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Modif&#xED;canse los protocolos de ensayos que a continuaci&#xF3;n se indican, para la certificaci&#xF3;n de los productos el&#xE9;ctricos que se se&#xF1;alan en la Tabla siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/20794.jpg\">. </div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; El texto &#xED;ntegro de los protocolos modificados individualizados en la Tabla del resuelvo 1&#xBA; de la presente resoluci&#xF3;n, se encuentra en esta Superintendencia, a disposici&#xF3;n de los interesados, y puede ser consultado en el sitio Web www.sec.cl.</div><br><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Los fabricantes nacionales, importadores y comercializadores de los productos se&#xF1;alados en la Tabla del resuelvo 1&#xBA; de la presente resoluci&#xF3;n, previo a su comercializaci&#xF3;n en el pa&#xED;s, deber&#xE1;n contar con los respectivos certificados de aprobaci&#xF3;n, a partir del 31.03.2012, de acuerdo con los protocolos indicados en dicha Tabla.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xBA; Modif&#xED;canse los protocolos de ensayos que a continuaci&#xF3;n se indican, para la certificaci&#xF3;n de los productos el&#xE9;ctricos que se se&#xF1;alan en la Tabla siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63356.jpg\">.<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1098689&amp;idParte=9759309&amp;idVersion=2017-01-04\">Resoluci&#xF3;n 15901 EXENTA.<br>ENERG&#xCD;A<br>N&#xB0; 1<br>D.O. 04.01.2017</a></span> </div><br><br><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/63357.jpg\">. </div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA; El texto &#xED;ntegro de los protocolos modificados individualizados en la Tabla del resuelvo 1&#xBA; de la presente resoluci&#xF3;n, se encuentra en esta Superintendencia, a disposici&#xF3;n de los interesados, y puede ser consultado en el sitio Web www.sec.cl.</div><br><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Los fabricantes nacionales, importadores y comercializadores de los productos se&#xF1;alados en la Tabla del resuelvo 1&#xBA; de la presente resoluci&#xF3;n, previo a su comercializaci&#xF3;n en el pa&#xED;s, deber&#xE1;n contar con los respectivos certificados de aprobaci&#xF3;n, a partir del 31.03.2012, de acuerdo con los protocolos indicados en dicha Tabla.</div><br><div class=\"p\">&nbsp; &nbsp;  </div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1098689,
+      "fecha": "2017-01-04"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2013-05-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-02-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9351555,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Establ&#xE9;cese que los titulares de registros sanitarios de productos farmac&#xE9;uticos clasificados como vacunas y cuyo contenido de envase autorizado comprenda envases multidosis, deber&#xE1;n indicar claramente en el rotulado del envase primario y en la cara principal del envase secundario, y que contraste con el resto del texto, la frase:</div><div class=\"p\">&nbsp; &nbsp;  &quot;ENVASE MULTIDOSIS&quot;, indicando el n&#xFA;mero de dosis que contiene el envase.</div><div class=\"p\">&nbsp; &nbsp;  2.- Establ&#xE9;cese que los titulares de los registros sanitarios afectos a esta resoluci&#xF3;n tendr&#xE1;n un plazo de tres meses, a contar de su publicaci&#xF3;n en el Diario Oficial, para incorporar los cambios establecidos, sin que ello sea necesario someterlo a la aprobaci&#xF3;n del Instituto de Salud P&#xFA;blica de Chile.</div><div class=\"p\">&nbsp; &nbsp;  3.- Establ&#xE9;cese que los registros sanitarios de productos farmac&#xE9;uticos clasificados como vacunas, cuyos interesados soliciten la autorizaci&#xF3;n de envases multidosis, que se aprueben en el futuro, deber&#xE1;n incorporar lo se&#xF1;alado en el numeral primero de esta resoluci&#xF3;n, a contar de la fecha de publicaci&#xF3;n de &#xE9;sta en el Diario Oficial.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Establ&#xE9;cese que los titulares de registros sanitarios de productos farmac&#xE9;uticos clasificados como vacunas y cuyo contenido de envase autorizado comprenda envases multidosis, deber&#xE1;n indicar claramente en el rotulado del envase primario y en la cara principal del envase secundario, y que contraste con el resto del texto, la frase:</div><div class=\"p\">&nbsp; &nbsp;  &quot;ENVASE MULTIDOSIS&quot;, indicando el n&#xFA;mero de dosis que contiene el envase.</div><div class=\"p\">&nbsp; &nbsp;  Alternativamente, el titular del registro podr&#xE1; proc<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1087094&amp;idParte=9669162&amp;idVersion=2016-01-29\">Resoluci&#xF3;n 169 EXENTA,<br>SALUD<br>N&#xB0; 1<br>D.O. 29.01.2016</a></span>eder a la entrega, junto al envase sellado de la vacuna multidosis, de una etiqueta autoadhesiva, en n&#xFA;mero al menos igual al de envases primarios contenidos dentro del envase secundario, destinada a ser utilizada por el usuario que ha de abrir el envase secundario, para disponer de las unidades destinadas a ser utilizadas en una jornada de vacunaci&#xF3;n en el local donde se ha de administrar la vacuna. Este autoadhesivo deber&#xE1; ser f&#xE1;cilmente aplicable, cubrir al menos el 10% de la superficie de la ampolla, tener un formato y un modo de utilizaci&#xF3;n que no obstaculice la lectura del nombre, n&#xFA;mero de lote y fecha de vencimiento de la vacuna, y responder al dise&#xF1;o est&#xE1;ndar que se va a definir con estos fines, y que al menos deber&#xE1; contener la advertencia, f&#xE1;cilmente legible, de que se trata de un envase multidosis, en colores llamativos y contrastantes al de la ampolla sobre la que se aplique.</div><div class=\"p\">&nbsp; &nbsp;  2.- Establ&#xE9;cese que los titulares de los registros sanitarios afectos a esta resoluci&#xF3;n tendr&#xE1;n un plazo de tres meses, a contar de su publicaci&#xF3;n en el Diario Oficial, para incorporar los cambios establecidos, sin que ello sea necesario someterlo a la aprobaci&#xF3;n del Instituto de Salud P&#xFA;blica de Chile.</div><div class=\"p\">&nbsp; &nbsp;  3.- Establ&#xE9;cese que los registros sanitarios de productos farmac&#xE9;uticos clasificados como vacunas, cuyos interesados soliciten la autorizaci&#xF3;n de envases multidosis, que se aprueben en el futuro, deber&#xE1;n incorporar lo se&#xF1;alado en el numeral primero de esta resoluci&#xF3;n, a contar de la fecha de publicaci&#xF3;n de &#xE9;sta en el Diario Oficial.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

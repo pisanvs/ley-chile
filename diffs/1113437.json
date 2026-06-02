@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-01-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-08-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9873741,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;: En caso de ausencia o impedimento del Coordinador Regional de la Unidad de Subvenciones de la Secretar&#xED;a Regional Ministerial de Educaci&#xF3;n de la Regi&#xF3;n Metropolitana, cuyo titular en este momento es do&#xF1;a Mar&#xED;a Victoria Alarc&#xF3;n Pereira, C.I: 9.475.576- K, Contrata, Profesional, es que las facultades enumeradas en el art&#xED;culo 1&#xB0; del apartado resolutivo de la presente resoluci&#xF3;n se entender&#xE1;n delegadas en el(los) funcionario(s) que a continuaci&#xF3;n se indica(n), quienes para los efectos del presente art&#xED;culo actuar&#xE1;n bajo la calidad Coordinador Regional Subrogante:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Nombre: Susana Gloria Morales Espinoza</div><div class=\"p\">&nbsp; &nbsp;  C.I: 13.942.474-3</div><div class=\"p\">&nbsp; &nbsp;  Calidad Jur&#xED;dica: Contrata</div><div class=\"p\">&nbsp; &nbsp;  Escalaf&#xF3;n: Profesional</div><div class=\"p\">&nbsp; &nbsp;  Grado: 8&#xB0; EUR</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Para el evento de modificarse tanto la titularidad del cargo de Coordinador Regional, as&#xED; como para el de verificarse id&#xE9;ntica situaci&#xF3;n respecto de la subrogancia, deber&#xE1; procederse a la rectificaci&#xF3;n de la presente resoluci&#xF3;n exenta, s&#xF3;lo respecto de lo tocante a este punto resolutivo.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xB0;: En <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1122251&amp;idParte=9943740&amp;idVersion=2018-08-24\">Resoluci&#xF3;n 3576 EXENTA,<br>EDUCACI&#xD3;N<br>N&#xB0; 1<br>D.O. 24.08.2018</a></span>caso de ausencia o impedimento del Coordinador Regional de la Unidad de Subvenciones de la Secretar&#xED;a Regional Ministerial de Educaci&#xF3;n de la Regi&#xF3;n Metropolitana, cuyo titular en este momento es don Gustavo Andr&#xE9;s Celis Contreras, C.I: 16.807.999-0, Contrata, Profesional, es que las facultades enumeradas en el art&#xED;culo 1&#xB0; del apartado resolutivo de la presente resoluci&#xF3;n se entender&#xE1;n delegadas en el (los) funcionario(s) que a continuaci&#xF3;n se indica(n), quienes para los efectos del presente art&#xED;culo actuar&#xE1;n bajo la calidad Coordinador Regional Subrogante:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Nombre: Susana Gloria Morales Espinoza</div><div class=\"p\">&nbsp; &nbsp;  C.I: 13.942.474 - 3</div><div class=\"p\">&nbsp; &nbsp;  Calidad Jur&#xED;dica: Contrata</div><div class=\"p\">&nbsp; &nbsp;  Escalaf&#xF3;n: Profesional</div><div class=\"p\">&nbsp; &nbsp;  Grado: 8&#xB0; EUR.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Para el evento de modificarse tanto la titularidad del cargo de Coordinador Regional, as&#xED; como para el de verificarse id&#xE9;ntica situaci&#xF3;n respecto de la subrogancia, deber&#xE1; procederse a la rectificaci&#xF3;n de la presente resoluci&#xF3;n exenta, s&#xF3;lo respecto de lo tocante a este punto resolutivo.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1122251,
+      "fecha": "2018-08-24"
+    }
+  }
+]

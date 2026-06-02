@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-01-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-02-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6985413,
+          "old": "<div><div class=\"p\">APRUEBA LISTADO OFICIAL DE SOLUCIONES CONSTRUCTIVAS PARA ACONDICIONAMIENTO T&#xC9;RMICO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 28 de diciembre de 2007.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 7.126 exenta.- Visto: Lo dispuesto en el texto del art&#xED;culo 4.1.10 del D.S N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones, reemplazado por el D.S. N&#xBA; 192 (V. y U.), de 2005; resoluci&#xF3;n exenta N&#xBA; 3.582 (V. y U.), de 2007, y las facultades que me otorga el D.L. N&#xBA; 1.305, de 1975, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA LISTADO OFICIAL DE SOLUCIONES CONSTRUCTIVAS PARA ACONDICIONAMIENTO T&#xC9;RMICO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 28 de diciembre de 2007.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 7.126 exenta.- Visto: Lo dispuesto en el texto del art&#xED;culo 4.1.10 del D.S N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones, reemplazado por el D.S. N&#xBA; 192 (V. y U.), de 2005; resoluci&#xF3;n exenta N&#xBA; 3.582 (V. y U.), de 2007, y las facultades que me otorga el D.L. N&#xBA; 1.305, de 1975, dicto la siguiente</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

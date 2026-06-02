@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1999-10-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-12-16",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7255099,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: La determinaci&#xF3;n de la dieta asignada a los directores por el grado de cumplimiento de los compromisos transitorios de gesti&#xF3;n, se realizar&#xE1; como sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  Para las empresas en que se haya decidido efectuar llamados a licitaci&#xF3;n de conformidad al Reglamento de Licitaciones aprobado por el DS N&#xBA; 104/98 del Ministerio de Transportes y Telecomunicaciones, el cumplimiento de la obligaci&#xF3;n contenida en el n&#xFA;mero iv del art&#xED;culo precedente significar&#xE1; la asignaci&#xF3;n a cada director de un 100% de su dieta, el que se pagar&#xE1; en el a&#xF1;o posterior a aquel en que se efect&#xFA;e el pago a que se refiere el p&#xE1;rrafo siguiente.</div><br><div class=\"p\">&nbsp; &nbsp;  Para todas las empresas, el cumplimiento de cada una de las obligaciones contenidas en los puntos i e ii, del art&#xED;culo anterior, significar&#xE1; una asignaci&#xF3;n del 30% en su dieta, en tanto que para el cumplimiento de la obligaci&#xF3;n contenida en el punto iii, la asignaci&#xF3;n ser&#xE1; del 40%.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: La determinaci&#xF3;n de la dieta asignada a los directores por el grado de cumplimiento de los compromisos transitorios de gesti&#xF3;n, se realizar&#xE1; como sigue: Para las empresas en que se haya decidido efectuar llamados a licitaci&#xF3;n de conformidad al Reglamento de Licitaciones aprobado por el DS N&#xBA; 104/98 del Ministerio de Transportes y Telecomunicaciones, el cumplimiento de la obligaci&#xF3;n contenida en el n&#xFA;mero iv del art&#xED;culo precedente significar&#xE1; la asignaci&#xF3;n a cada director de un 100% de su dieta, el que se pagar&#xE1; en el a&#xF1;o posterior a aquel en que se efect&#xFA;e el pago a que se refiere el p&#xE1;rrafo siguiente. Para todas las empresas, el cumplimiento de cada<span class=\"n\" id=\"n_0\">DTO 152,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 16.12.1999</span> una de las obligaciones contenidas en los puntos i e ii, del art&#xED;culo anterior, significar&#xE1; un incremento del 15% en su dieta, en tanto que para el cumplimiento de la obligaci&#xF3;n contenida en el punto iii, el incremento ser&#xE1; del 20%. </div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2001-12-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7255078,
+          "old": "<div><div class=\"p\">REGLAMENTA ELABORACION DE LOS PLANES DE GESTION ANUAL DE EMPRESAS PORTUARIAS CREADAS POR LA LEY N&#xBA; 19.542 </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 100.- Santiago, 23 de julio de 1999.- Vistos: Lo dispuesto en el art&#xED;culo 32 n&#xFA;mero 8 de la Constituci&#xF3;n Pol&#xED;tica, y lo establecido por la ley N&#xBA; 19.542 que Moderniza el Sector Portuario Estatal, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que el directorio de cada empresa portuaria creada en virtud de la ley N&#xBA; 19.542 debe establecer metas o compromisos de gesti&#xF3;n que permitan a &#xE9;stas tener un manejo econ&#xF3;micamente eficiente de sus activos, que tiendan a preservar y fortalecer los niveles de productividad y eficiencia en la operaci&#xF3;n portuaria y que promuevan la competencia al interior de los puertos. Que las metas que se fijen deben establecerse sobre la base de par&#xE1;metros definidos y objetivos, de manera tal que los resultados puedan ser determinados y evaluados con un costo m&#xED;nimo para cada empresa portuaria.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><br><div class=\"p\">Apru&#xE9;base el presente Reglamento:</div><br></div>",
+          "new": "<div><div class=\"p\">REGLAMENTA ELABORACION DE LOS PLANES DE GESTION ANUAL DE EMPRESAS PORTUARIAS CREADAS POR LA LEY N&#xBA; 19.542 </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 100.- Santiago, 23 de julio de 1999.- Vistos: Lo dispuesto en el art&#xED;culo 32 n&#xFA;mero 8 de la Constituci&#xF3;n Pol&#xED;tica, y lo establecido por la ley N&#xBA; 19.542 que Moderniza el Sector Portuario Estatal, y </div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  Que el directorio de cada empresa portuaria creada en virtud de la ley N&#xBA; 19.542 debe establecer metas o compromisos de gesti&#xF3;n que permitan a &#xE9;stas tener un manejo econ&#xF3;micamente eficiente de sus activos, que tiendan a preservar y fortalecer los niveles de productividad y eficiencia en la operaci&#xF3;n portuaria y que promuevan la competencia al interior de los puertos. Que las metas que se fijen deben establecerse sobre la base de par&#xE1;metros definidos y objetivos, de manera tal que los resultados puedan ser determinados y evaluados con un costo m&#xED;nimo para cada empresa portuaria.</div><br><div class=\"p\">&nbsp; &nbsp;  D e c r e t o:</div><br><div class=\"p\">Apru&#xE9;base el presente Reglamento:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

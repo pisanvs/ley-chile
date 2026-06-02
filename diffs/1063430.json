@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2014-06-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-08-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9480105,
+          "old": "<div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: F&#xED;jase el siguiente orden de subrogaci&#xF3;n&nbsp;  para&nbsp;  el&nbsp; cargo&nbsp; de&nbsp; Secretario Regional Ministerial de Econom&#xED;a, Fomento y Turismo de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;. Don Luis Andr&#xE9;s Lorca Saavedra, RUN N&#xBA; 10.937.708-2, Director Regional de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;. Do&#xF1;a Wara Ortiz Mella, RUN N&#xBA; 18.307.771-6, Directora Regional del Servicio de Cooperaci&#xF3;n T&#xE9;cnica de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;. Don Mauricio Retamal Granadino, RUN N&#xBA; 12.156.324-K, Director Regional del Servicio Nacional del Consumidor de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: F&#xED;jase el siguiente orden de subrogaci&#xF3;n&nbsp;  para&nbsp;  el&nbsp; cargo&nbsp; de&nbsp; Secretario Regional Ministerial de Econom&#xED;a, Fomento y Turismo de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;. Don Luis Andr&#xE9;s Lorca Saavedra, RUN N&#xBA; 10.937.708-2, Director Regional de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;. Don <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1106840&amp;idParte=9826764&amp;idVersion=2017-08-23\">Decreto 557 EXENTO,<br>ECONOM&#xCD;A<br>Art. &#xDA;NICO<br>D.O. 23.08.2017</a></span>Sergio Fuentes Rojas, c&#xE9;dula nacional de identidad N&#xB0; 10.262.609-5, Director Regional del Servicio de Cooperaci&#xF3;n T&#xE9;cnica de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;. Don Mauricio Retamal Granadino, RUN N&#xBA; 12.156.324-K, Director Regional del Servicio Nacional del Consumidor de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1106840,
+      "fecha": "2017-08-23"
+    }
+  },
+  {
+    "fecha": "2018-09-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

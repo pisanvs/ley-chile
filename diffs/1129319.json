@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-02-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-03-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10004108,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Cr&#xE9;ase la Circunscripci&#xF3;n Electoral denominada &quot;Los Loros&quot; en la comuna de Tierra Amarilla, provincia de Tierra Amarilla, Regi&#xF3;n de Atacama, cuyo territorio jurisdiccional ser&#xE1;: al Norte, desde la intersecci&#xF3;n del l&#xED;mite de la comuna de Copiap&#xF3; con la Ruta C-411 siguiendo por esta hasta intersectar con la localidad de Nantoco, para luego continuar en direcci&#xF3;n sur por la Ruta C-35 y siguiendo por la Ruta C-401 prologando su extensi&#xF3;n hasta el l&#xED;mite comunal con Copiap&#xF3; y su intersecci&#xF3;n con el l&#xED;mite internacional con la Rep&#xFA;blica Argentina; al Sur, l&#xED;mite con la comuna Alto del Carmen; al Este, l&#xED;mite internacional con la Rep&#xFA;blica Argentina y, al Oeste, l&#xED;mite con las comunas de Vallenar y Copiap&#xF3;.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Modif&#xED;case el territorio jurisdiccional de la Circunscripci&#xF3;n Electoral Tierra Amarilla, en el sentido que el territorio de dicha circunscripci&#xF3;n ser&#xE1; el actual excepto al asignado a la nueva Circunscripci&#xF3;n Electoral Los Loros.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Proc&#xE9;dase a la incorporaci&#xF3;n autom&#xE1;tica de todos los electores con domicilio electoral en el territorio jurisdiccional de la Circunscripci&#xF3;n Electoral Los Loros.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; Publ&#xED;quese dentro del 5&#xBA; d&#xED;a en el Diario Oficial.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Cr&#xE9;ase la Circunscripci&#xF3;n Electoral denominada &quot;Los Loros&quot; en la comuna de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1129546&amp;idParte=10005378&amp;idVersion=2019-03-08\">Resoluci&#xF3;n 90, <br>SERVICIO ELECTORAL<br>N&#xB0; 1<br>D.O. 08.03.2019</a></span>Copiap&#xF3;, provincia de Tierra Amarilla, Regi&#xF3;n de Atacama, cuyo territorio jurisdiccional ser&#xE1;: al Norte, desde la intersecci&#xF3;n del l&#xED;mite de la comuna de Copiap&#xF3; con la Ruta C-411 siguiendo por esta hasta intersectar con la localidad de Nantoco, para luego continuar en direcci&#xF3;n sur por la Ruta C-35 y siguiendo por la Ruta C-401 prologando su extensi&#xF3;n hasta el l&#xED;mite comunal con Copiap&#xF3; y su intersecci&#xF3;n con el l&#xED;mite internacional con la Rep&#xFA;blica Argentina; al Sur, l&#xED;mite con la comuna Alto del Carmen; al Este, l&#xED;mite internacional con la Rep&#xFA;blica Argentina y, al Oeste, l&#xED;mite con las comunas de Vallenar y Copiap&#xF3;.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Modif&#xED;case el territorio jurisdiccional de la Circunscripci&#xF3;n Electoral Tierra Amarilla, en el sentido que el territorio de dicha circunscripci&#xF3;n ser&#xE1; el actual excepto al asignado a la nueva Circunscripci&#xF3;n Electoral Los Loros.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Proc&#xE9;dase a la incorporaci&#xF3;n autom&#xE1;tica de todos los electores con domicilio electoral en el territorio jurisdiccional de la Circunscripci&#xF3;n Electoral Los Loros.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; Publ&#xED;quese dentro del 5&#xBA; d&#xED;a en el Diario Oficial.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1129546,
+      "fecha": "2019-03-08"
+    }
+  }
+]

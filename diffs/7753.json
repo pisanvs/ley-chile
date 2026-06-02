@@ -1,0 +1,51 @@
+[
+  {
+    "fecha": "1989-04-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1989-04-15",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7132600,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Podr&#xE1; hacer uso del Registro cualquier particular o entidad, tales como, empresas constructoras, entidades organizadoras de programas especiales de viviendas, beneficiarios de cualquier sistema de subsidio habitacional, y en general, todo el que tenga inter&#xE9;s o le quepa alguna participaci&#xF3;n en las gestiones que digan relaci&#xF3;n con la prestaci&#xF3;n de los servicios antes mencionados, todos ellos en adelante &quot;el usuario&quot;.</div><div class=\"p\">&nbsp; &nbsp; No obstante, lo anterior, en los casos en que los Servicios de Vivienda y Urbanizaci&#xF3;n, en adelante &quot;SERVIU&quot;, requieran los servicios a que se refiere el art&#xED;culo 1&#xB0;, s&#xF3;lo podr&#xE1;n contratar su prestaci&#xF3;n con los Agentes inscritos como tales en el Registro.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Podr&#xE1; hacer uso del Registro cualquier particular o entidad, tales como, empresas constructoras, entidades organizadoras de programas especiales de viviendas, beneficiarios de cualquier sistema de subsidio habitacional, y en general, todo el que tenga inter&#xE9;s o le quepa alguna participaci&#xF3;n en las gestiones que digan relaci&#xF3;n con la prestaci&#xF3;n de los servicios antes mencionados, todos ellos en adelante &quot;el usuario&quot;.</div><div class=\"p\">&nbsp; &nbsp; No obstante, lo anterior, en los casos en que los Servicios de Vivienda y Urbanizaci&#xF3;n, en adelante &quot;SERVIU&quot;, requieran los servicios a que se refiere el art&#xED;culo 1&#xB0;, s&#xF3;lo podr&#xE1;n contratar su prestaci&#xF3;n con los Agentes inscritos como tales en el Registro.</div><div class=\"p\">&nbsp; &nbsp; Los Agentes de Servicios Habitacionales inscritos<span class=\"n\" id=\"n_0\">DS 88,VIV.<br>1989, Art.<br>&#xFA;nico, a)</span> en este Registro no podr&#xE1;n prestar sus servicios a personas naturales o jur&#xED;dicas con las cuales estuvieren relacionados.</div><div class=\"p\">&nbsp; &nbsp; Para los efectos de lo dispuesto en el inciso anterior se entender&#xE1;n por personas relacionadas, el c&#xF3;nyuge y los parientes por consanguinidad hasta el tercer grado inclusive y por afinidad hasta el segundo grado inclusive; los padres adoptantes respecto de sus hijos adoptivos; los mandantes, apoderados, albaceas, tutores y curadores respecto de sus pupilos y representados; los sujetos a v&#xED;nculos de dependencia o subordinaci&#xF3;n respecto a sus jefes directos; las sociedades y dem&#xE1;s personas jur&#xED;dicas respecto de sus accionistas o socios principales que ejerzan directa o indirectamente el control de las mismas, y de sus directores, administradores y/o representantes; y, en general todas aquellas personas que, directa o indirectamente, est&#xE9;n unidas por v&#xED;nculos que manifiesten o que, a juicio del Coordinador Nacional del Registro, hagan presumir un inter&#xE9;s com&#xFA;n o rec&#xED;proco en un negocio determinado, como asimismo aqu&#xE9;llas que act&#xFA;en por cuenta o en representaci&#xF3;n de otra, con respecto a &#xE9;sta.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1989-09-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7132600,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Podr&#xE1; hacer uso del Registro cualquier particular o entidad, tales como, empresas constructoras, entidades organizadoras de programas especiales de viviendas, beneficiarios de cualquier sistema de subsidio habitacional, y en general, todo el que tenga inter&#xE9;s o le quepa alguna participaci&#xF3;n en las gestiones que digan relaci&#xF3;n con la prestaci&#xF3;n de los servicios antes mencionados, todos ellos en adelante &quot;el usuario&quot;.</div><div class=\"p\">&nbsp; &nbsp; No obstante, lo anterior, en los casos en que los Servicios de Vivienda y Urbanizaci&#xF3;n, en adelante &quot;SERVIU&quot;, requieran los servicios a que se refiere el art&#xED;culo 1&#xB0;, s&#xF3;lo podr&#xE1;n contratar su prestaci&#xF3;n con los Agentes inscritos como tales en el Registro.</div><div class=\"p\">&nbsp; &nbsp; Los Agentes de Servicios Habitacionales inscritos<span class=\"n\" id=\"n_0\">DS 88,VIV.<br>1989, Art.<br>&#xFA;nico, a)</span> en este Registro no podr&#xE1;n prestar sus servicios a personas naturales o jur&#xED;dicas con las cuales estuvieren relacionados.</div><div class=\"p\">&nbsp; &nbsp; Para los efectos de lo dispuesto en el inciso anterior se entender&#xE1;n por personas relacionadas, el c&#xF3;nyuge y los parientes por consanguinidad hasta el tercer grado inclusive y por afinidad hasta el segundo grado inclusive; los padres adoptantes respecto de sus hijos adoptivos; los mandantes, apoderados, albaceas, tutores y curadores respecto de sus pupilos y representados; los sujetos a v&#xED;nculos de dependencia o subordinaci&#xF3;n respecto a sus jefes directos; las sociedades y dem&#xE1;s personas jur&#xED;dicas respecto de sus accionistas o socios principales que ejerzan directa o indirectamente el control de las mismas, y de sus directores, administradores y/o representantes; y, en general todas aquellas personas que, directa o indirectamente, est&#xE9;n unidas por v&#xED;nculos que manifiesten o que, a juicio del Coordinador Nacional del Registro, hagan presumir un inter&#xE9;s com&#xFA;n o rec&#xED;proco en un negocio determinado, como asimismo aqu&#xE9;llas que act&#xFA;en por cuenta o en representaci&#xF3;n de otra, con respecto a &#xE9;sta.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Podr&#xE1; hacer uso del Registro cualquier particular o entidad, tales como, empresas constructoras, entidades organizadoras de programas especiales de viviendas, beneficiarios de cualquier sistema de subsidio habitacional, y en general, todo el que tenga inter&#xE9;s o le quepa alguna participaci&#xF3;n en las gestiones que digan relaci&#xF3;n con la prestaci&#xF3;n de los servicios antes mencionados, todos ellos en adelante &quot;el usuario&quot;.</div><div class=\"p\">&nbsp; &nbsp; No obstante, lo anterior, en los casos en que los Servicios de Vivienda y Urbanizaci&#xF3;n, en adelante &quot;SERVIU&quot;, requieran los servicios a que se refiere el art&#xED;culo 1&#xB0;, s&#xF3;lo podr&#xE1;n contratar su prestaci&#xF3;n con los Agentes inscritos como tales en el Registro.</div><div class=\"p\">&nbsp; &nbsp; Los Agentes de Servicios Habitacionales inscritos<span class=\"n\" id=\"n_0\">DTO 88, VIVIENDA<br>Art. &#xFA;nico a)<br>D.O. 07.09.1989</span> en este Registro no podr&#xE1;n prestar sus servicios a personas naturales o jur&#xED;dicas con las cuales estuvieren relacionados.</div><div class=\"p\">&nbsp; &nbsp; Para los efectos de lo dispuesto en el inciso anterior se entender&#xE1;n por personas relacionadas, el c&#xF3;nyuge y los parientes por consanguinidad hasta el tercer grado inclusive y por afinidad hasta el segundo grado inclusive; los padres adoptantes respecto de sus hijos adoptivos; los mandantes, apoderados, albaceas, tutores y curadores respecto de sus pupilos y representados; los sujetos a v&#xED;nculos de dependencia o subordinaci&#xF3;n respecto a sus jefes directos; las sociedades y dem&#xE1;s personas jur&#xED;dicas respecto de sus accionistas o socios principales que ejerzan directa o indirectamente el control de las mismas, y de sus directores, administradores y/o representantes; y, en general todas aquellas personas que, directa o indirectamente, est&#xE9;n unidas por v&#xED;nculos que manifiesten o que, a juicio del Coordinador Nacional del Registro, hagan presumir un inter&#xE9;s com&#xFA;n o rec&#xED;proco en un negocio determinado, como asimismo aqu&#xE9;llas que act&#xFA;en por cuenta o en representaci&#xF3;n de otra, con respecto a &#xE9;sta.</div><br></div>"
+        },
+        {
+          "part_id": 7132607,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- No podr&#xE1;n inscribirse en el Registro o permanecer inscritos en &#xE9;l, las sociedades de personas que tengan entre sus socios o empleados a funcionarios pertenecientes a las entidades a que se refieren los art&#xED;culos 1&#xB0; y 2&#xB0; del D.L. N&#xB0; 249, de 1974, ni otro tipo de sociedades o personas jur&#xED;dicas cuyos directores, administradores y/o representantes sean a la vez funcionarios de las entidades antes indicadas. Este requisito se acreditar&#xE1; mediante declaraci&#xF3;n jurada. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8&#xB0;.- No podr&#xE1;n inscribirse en el Registro o permanecer inscritos en &#xE9;l, las sociedades de personas que tengan entre sus socios o empleados a funcionarios pertenecientes a las entidades a que se refieren los art&#xED;culos 1&#xB0; y 2&#xB0; del D.L. N&#xB0; 249, de 1974, ni otro tipo de sociedades o personas jur&#xED;dicas cuyos directores, administradores, representantes y/o empleados sean<span class=\"n\" id=\"n_1\">DTO 88, VIVIENDA<br>Art. &#xFA;nico b)<br>D.O. 07.09.1989</span> a la vez funcionarios de las entidades antes indicadas. Este requisito se acreditar&#xE1; mediante declaraci&#xF3;n jurada.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1989-09-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-12-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-02-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10188166,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Dentro de los 30 d&#xED;as siguientes a la fecha de inicio del proceso de planificaci&#xF3;n energ&#xE9;tica de largo plazo, las personas naturales y jur&#xED;dicas interesadas deber&#xE1;n presentar su solicitud y los antecedentes indicados en el art&#xED;culo precedente, en formato digital, a trav&#xE9;s de la plataforma dispuesta para estos efectos en el sitio web del Ministerio de Energ&#xED;a www.energia.gob.cl secci&#xF3;n Planificaci&#xF3;n Energ&#xE9;tica de Largo Plazo, o mediante el sitio web pelp.minenergia.cl.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Dentro de los <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>30 d&#xED;as siguientes a la fecha de inicio del proceso de planificaci&#xF3;n energ&#xE9;tica de largo plazo, las personas naturales y jur&#xED;dicas interesadas deber&#xE1;n presentar su solicitud y los antecedentes indicados en el art&#xED;culo precedente, en formato digital, a trav&#xE9;s de la plataforma dispuesta para estos efectos en el sitio web del Ministerio de Energ&#xED;a www.energia.gob.cl secci&#xF3;n Planificaci&#xF3;n Energ&#xE9;tica de Largo Plazo, o mediante el sitio web pelp.minenergia.cl.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; LA Resoluci&#xF3;n 8 Exenta, Energ&#xED;a, publicada el 13.02.2021, modifica la presente norma en el sentido de ampliar&nbsp; en 15 d&#xED;as el plazo de inscripci&#xF3;n en el registro de participaci&#xF3;n ciudadana del proceso de Planificaci&#xF3;n Energ&#xE9;tica de Largo Plazo, contados desde el vencimiento del plazo original contemplado en la presente norma, que declara abierto el proceso de inscripci&#xF3;n en el registro de participaci&#xF3;n ciudadana del proceso de Planificaci&#xF3;n Energ&#xE9;tica de Largo Plazo se&#xF1;alado en la Ley General de Servicios El&#xE9;ctricos, y establece sus plazos y condiciones, ampli&#xE1;ndose en consecuencia el plazo de vencimiento para dicha inscripci&#xF3;n hasta el d&#xED;a 3 de marzo de 2021.</div></div>"
+        }
+      ]
+    }
+  }
+]

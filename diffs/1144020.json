@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-04-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-06-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10111931,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Susp&#xE9;ndese a contar del 18 de marzo de 2020, la postulaci&#xF3;n al llamado en condiciones especiales a la poblaci&#xF3;n adulto mayor de m&#xE1;s de 60 a&#xF1;os de edad, para el otorgamiento de subsidios del Programa de Subsidio de Arriendo de Vivienda, dispuesto en la resoluci&#xF3;n exenta N&#xBA; 342 (V. y U.), de 2020.</div><div class=\"p\">&nbsp; &nbsp;  2. Establ&#xE9;cese que se continuar&#xE1; recibiendo postulaciones al llamado dispuesto por la resoluci&#xF3;n exenta N&#xBA; 342 (V. y U.), de 2020, a contar del 4 de mayo y hasta el 15 de junio, ambas fechas inclusive.</div><div class=\"p\">&nbsp; &nbsp;  3. Modif&#xED;case el resuelvo 3. de la <a href=\"https://www.leychile.cl/navegar?idNorma=1143334&amp;idVersion=2020-04-02\">resoluci&#xF3;n exenta N&#xBA; 342 (V. y U.)</a>, de 2020, en el sentido de reemplazar la frase &quot;Lo anterior se acreditar&#xE1; presentando C&#xE9;dula de Identidad vigente&quot; por &quot;Lo anterior se acreditar&#xE1; presentando C&#xE9;dula de Identidad vigente o que vaya a vencer durante el a&#xF1;o 2020&quot;.&nbsp; &nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  4. Establ&#xE9;cese que todas las postulaciones recibidas hasta el 17 de marzo participan en el proceso de selecci&#xF3;n que se realice conforme a la resoluci&#xF3;n exenta N&#xBA; 342 (V. y U.), de 2020 y a lo dispuesto en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Susp&#xE9;ndese a <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>contar del 18 de marzo de 2020, la postulaci&#xF3;n al llamado en condiciones especiales a la poblaci&#xF3;n adulto mayor de m&#xE1;s de 60 a&#xF1;os de edad, para el otorgamiento de subsidios del Programa de Subsidio de Arriendo de Vivienda, dispuesto en la resoluci&#xF3;n exenta N&#xBA; 342 (V. y U.), de 2020.</div><div class=\"p\">&nbsp; &nbsp;  2. Establ&#xE9;cese que se continuar&#xE1; recibiendo postulaciones al llamado dispuesto por la resoluci&#xF3;n exenta N&#xBA; 342 (V. y U.), de 2020, a contar del 4 de mayo y hasta el 15 de junio, ambas fechas inclusive.</div><div class=\"p\">&nbsp; &nbsp;  3. Modif&#xED;case el resuelvo 3. de la resoluci&#xF3;n exenta N&#xBA; 342 (V. y U.), de 2020, en el sentido de reemplazar la frase &quot;Lo anterior se acreditar&#xE1; presentando C&#xE9;dula de Identidad vigente&quot; por &quot;Lo anterior se acreditar&#xE1; presentando C&#xE9;dula de Identidad vigente o que vaya a vencer durante el a&#xF1;o 2020&quot;.&nbsp; &nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  4. Establ&#xE9;cese que todas las postulaciones recibidas hasta el 17 de marzo participan en el proceso de selecci&#xF3;n que se realice conforme a la resoluci&#xF3;n exenta N&#xBA; 342 (V. y U.), de 2020 y a lo dispuesto en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 941 Exenta, Vivienda, publicada el 18.06.2020, ordena suspender hasta el 14 de junio, inclusive, el plazo de postulaci&#xF3;n al llamado en condiciones especiales a la poblaci&#xF3;n adulto mayor para el otorgamiento de subsidios del Programa de Subsidio de Arriendo de Vivienda, dispuesto en el resuelvo n&#xFA;mero 2. de la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

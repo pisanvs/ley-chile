@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2022-05-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-06-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10331122,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  ANEXO</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Tabla 1. Listado de Grandes Establecimientos que est&#xE1;n sujetos a la medida de paralizaci&#xF3;n en episodios de preemergencia y emergencia ambiental establecida en el PPDA RM.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/148113.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/148114.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  ANEXO</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Tabla 1. Listado de Grandes Establecimientos que est&#xE1;n sujetos a la medida de paralizaci&#xF3;n en episodios de preemergencia y emergencia ambiental establecida en el PPDA RM.</div><div class=\"p\">&nbsp; <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1176911&amp;idParte=10338864&amp;idVersion=2022-06-02\">Resoluci&#xF3;n 725 EXENTA,<br>MEDIO AMBIENTE<br>Art. primero<br>D.O. 02.06.2022</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149377.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149376.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-07-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10331122,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  ANEXO</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Tabla 1. Listado de Grandes Establecimientos que est&#xE1;n sujetos a la medida de paralizaci&#xF3;n en episodios de preemergencia y emergencia ambiental establecida en el PPDA RM.</div><div class=\"p\">&nbsp; <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1176911&amp;idParte=10338864&amp;idVersion=2022-06-02\">Resoluci&#xF3;n 725 EXENTA,<br>MEDIO AMBIENTE<br>Art. primero<br>D.O. 02.06.2022</a></span>&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149377.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/149376.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  ANEXO</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Tabla 1. Listado de Grandes Establecimientos que est&#xE1;n sujetos a la medida de paralizaci&#xF3;n en episodios de preemergencia y emergencia ambiental establecida en el PPDA RM.</div><div class=\"p\">&nbsp; <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1178519&amp;idParte=10348444&amp;idVersion=2022-07-14\">Resoluci&#xF3;n 1028 EXENTA,<br>MEDIO AMBIENTE<br>Art. primero<br>D.O. 14.07.2022</a></span></div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/151104.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/151103.jpg\">.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1178519,
+      "fecha": "2022-07-14"
+    }
+  }
+]

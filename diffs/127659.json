@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1998-12-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-07-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8337012,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 22.- F&#xED;jase en $3.155, a contar del 1&#xBA; de julio de 1999, el valor del subsidio familiar establecido en el art&#xED;culo 1&#xBA; de la ley N&#xBA; 18.020.</div><br><br><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1999-12-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8337004,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 27.- Cr&#xE9;ase un programa especial de becas Presidente de la Rep&#xFA;blica para estudios de postgrado en universidades chilenas, cuyo objeto ser&#xE1; financiar los estudios conducentes a la obtenci&#xF3;n de los grados acad&#xE9;micos de doctor o mag&#xED;ster, del personal que, teniendo t&#xED;tulo profesional conforme lo establecido en el inciso octavo del art&#xED;culo 31 de la ley N&#xBA; 18.962, desempe&#xF1;e cargos de las plantas o escalafones de directivos, profesionales y fiscalizadores de las entidades a que se refiere el inciso primero del art&#xED;culo 18 de la ley N&#xBA; 18.575, excluido el personal regido por la ley N&#xBA; 15.076. En todo caso, el Jefe Superior del Servicio autorizar&#xE1; la realizaci&#xF3;n de dichos estudios, siempre que &#xE9;stos se encuentren relacionados con las funciones que deba cumplir la respectiva instituci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Este programa ser&#xE1; administrado por el Ministerio de Planificaci&#xF3;n y Cooperaci&#xF3;n, consider&#xE1;ndose los recursos correspondientes en el presupuesto de la Subsecretar&#xED;a de Planificaci&#xF3;n y Cooperaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Un Reglamento aprobado por decreto supremo del Ministerio de Planificaci&#xF3;n y Cooperaci&#xF3;n, el que deber&#xE1; ser suscrito adem&#xE1;s por los Ministros del Interior y de Hacienda, establecer&#xE1; respecto de este programa especial de becas, los requisitos y mecanismos de postulaci&#xF3;n y selecci&#xF3;n; tipos y duraci&#xF3;n de los beneficios; condiciones y obligaciones para el otorgamiento; mantenci&#xF3;n y t&#xE9;rmino de los beneficios; compromisos y garant&#xED;as de los beneficiarios con el Fisco o la instituci&#xF3;n empleadora, durante los estudios y despu&#xE9;s de concluidos; y dem&#xE1;s disposiciones necesarias para la cabal aplicaci&#xF3;n de este art&#xED;culo.</div><div class=\"p\">&nbsp; &nbsp;  Los beneficios derivados de la aplicaci&#xF3;n del programa de que trata este art&#xED;culo, ser&#xE1;n incompatibles con cualquiera otros que puedan recibirse con el mismo objeto y que sea financiado con recursos p&#xFA;blicos.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 27.- Cr&#xE9;ase un programa especial de becas Presidente de la Rep&#xFA;blica para estudios de postgrado en universidades chilenas, cuyo objeto ser&#xE1; financiar los estudios conducentes a la obtenci&#xF3;n de los grados acad&#xE9;micos de doctor o mag&#xED;ster, del personal que, teniendo t&#xED;tulo profesional conforme lo establecido en el inciso octavo del art&#xED;culo 31 de la ley N&#xBA; 18.962, desempe&#xF1;e cargos de las plantas o escalafones de directivos, profesionales y fiscalizadores, o sirva<span class=\"n\" id=\"n_0\">LEY 19649<br>Art. 26 a)<br>D.O. 02.12.1999</span> empleos a contrata asimilados a dichas plantas o escalafones, de las entidades a que se refiere el inciso primero del art&#xED;culo 18 de la ley N&#xBA; 18.575, excluido el personal regido por la ley N&#xBA; 15.076. En todo caso, el Jefe Superior del Servicio autorizar&#xE1; la realizaci&#xF3;n de dichos estudios, siempre que &#xE9;stos se encuentren relacionados con las funciones que deba cumplir la respectiva instituci&#xF3;n. En el evento que el becario desempe&#xF1;e un cargo de<span class=\"n\" id=\"n_1\">LEY 19649<br>Art. 26 b)<br>D.O. 02.12.1999</span> la planta de directivos, y siempre que existan los recursos presupuestarios pertinentes, cuando no se den las circunstancias del art&#xED;culo 74 y sin perjuicio de lo dispuesto en el art&#xED;culo 75, ambos de la ley N&#xBA; 18.834, podr&#xE1; ser reemplazado, mientras dure la beca, por un empleado a contrata, quien podr&#xE1; desempe&#xF1;ar las correspondientes funciones directivas o de jefatura. Mientras dure la beca y trat&#xE1;ndose de personal externo a la instituci&#xF3;n, estos empleos constituir&#xE1;n dotaci&#xF3;n adicional del respectivo servicio. Este programa ser&#xE1; administrado por el Ministerio de Planificaci&#xF3;n y Cooperaci&#xF3;n, consider&#xE1;ndose los recursos correspondientes en el presupuesto de la Subsecretar&#xED;a de Planificaci&#xF3;n y Cooperaci&#xF3;n. Un Reglamento aprobado por decreto supremo del Ministerio de Planificaci&#xF3;n y Cooperaci&#xF3;n, el que deber&#xE1; ser suscrito adem&#xE1;s por los Ministros del Interior y de Hacienda, establecer&#xE1; respecto de este programa especial de becas, los requisitos y mecanismos de postulaci&#xF3;n y selecci&#xF3;n; tipos y duraci&#xF3;n de los beneficios; condiciones y obligaciones para el otorgamiento; mantenci&#xF3;n y t&#xE9;rmino de los beneficios; compromisos y garant&#xED;as de los beneficiarios con el Fisco o la instituci&#xF3;n empleadora, durante los estudios y despu&#xE9;s de concluidos; y dem&#xE1;s disposiciones necesarias para la cabal aplicaci&#xF3;n de este art&#xED;culo. Los beneficios derivados de la aplicaci&#xF3;n del programa de que trata este art&#xED;culo, ser&#xE1;n incompatibles con cualquiera otros que puedan recibirse con el mismo objeto y que sea financiado con recursos p&#xFA;blicos. </div></div>"
+        }
+      ]
+    }
+  }
+]

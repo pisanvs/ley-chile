@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-04-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-05-23",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9428317,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;case la resoluci&#xF3;n del Servicio <a href=\"https://www.leychile.cl/Navegar?idNorma=208221&amp;idParte=&amp;idVersion=\">N&#xBA; 633 de 2003</a>, que establece requisitos para la importaci&#xF3;n de material vegetal como cultivo de tejido in vitro, en lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  1.1. Reempl&#xE1;cese en el n&#xFA;mero 4,3, FRUTALES en la especie Actinidia spp. (kiwi) los Fitopat&#xF3;genos a Certificar, quedando de la manera que se se&#xF1;ala:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  .<img class=\"img-responsive\" src=\"Navegar/imagen/JPG/39165.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;case <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> la resoluci&#xF3;n del Servicio N&#xBA; 633 de 2003, que establece requisitos para la importaci&#xF3;n de material vegetal como cultivo de tejido in vitro, en lo siguiente:</div><div class=\"p\">&nbsp; &nbsp;  1.1. Reempl&#xE1;cese en el n&#xFA;mero 4,3, FRUTALES en la especie Actinidia spp. (kiwi) los Fitopat&#xF3;genos a Certificar, quedando de la manera que se se&#xF1;ala:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  .<img class=\"img-responsive\" src=\"https://nuevo.leychile.cl/Navegar/imagen/JPG/39165.jpg\">.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xBA; de la Resoluci&#xF3;n 3576 Exenta, Agricultura, publicada el 23.05.2014, interpreta la presente norma en el sentido de postergar su entrada en vigencia en 60 d&#xED;as a partir de su publicaci&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2000-04-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2010-12-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6265557,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Disp&#xF3;nese que los viveristas deber&#xE1;n entregar a la Oficina Sectorial del Servicio correspondiente a la ubicaci&#xF3;n del vivero, antes del 1&#xBA; de junio de cada a&#xF1;o, una declaraci&#xF3;n que contenga la lista de variedades frutales al expendio.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Disp&#xF3;nese que los viveristas deber&#xE1;n entregar a la Oficina Sectorial del Servicio correspondiente a la ubicaci&#xF3;n del vivero, antes del 1&#xBA; de junio de cada a&#xF1;o, una declaraci&#xF3;n que contenga la lista de variedades frutales al expendio.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- El plazo se&#xF1;alado en el n&#xFA;mero anterior<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1020606&amp;idParte=9072926&amp;idVersion=2010-12-09\">Resoluci&#xF3;n 7424 EXENTA,<br>AGRICULTURA<br>D.O. 09.12.2010</a></span> se extender&#xE1; hasta el primero de diciembre del a&#xF1;o respectivo, en el caso de las variedades de Kiwi, Vides y Berries.</div><br><div class=\"p\">&nbsp; &nbsp;  3.- En la declaraci&#xF3;n respectiva deber&#xE1; indicarse los antecedentes del vivero, incluyendo el nombre del predio y su ubicaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  4.- Si el due&#xF1;o del vivero es una persona jur&#xED;dica, deber&#xE1; individualizarse a su representante.</div><br><div class=\"p\">&nbsp; &nbsp;  5.- En la lista de variedades al expendio deber&#xE1; indicarse por separado la cantidad de plantas terminadas, de porta injertos y otro material de propagaci&#xF3;n al expendio.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1020606,
+      "fecha": "2010-12-09"
+    }
+  }
+]

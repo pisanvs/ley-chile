@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2023-02-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-03-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10406657,
+          "old": "<div><br><div class=\"p\">LEY N&#xDA;M. 21.539</div><br><div class=\"p\">MODIFICA LA LEY N&#xB0; 18.290, DE TR&#xC1;NSITO, PARA SUPRIMIR LA EXCEPCI&#xD3;N A LA EXIGENCIA DE PATENTE &#xDA;NICA PARA LA CIRCULACI&#xD3;N DE VEH&#xCD;CULOS NUEVOS ADQUIRIDOS EN CHILE</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente que el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente proyecto de ley iniciado en moci&#xF3;n de la ex diputada Ximena Ossand&#xF3;n Irarr&#xE1;zabal y las diputadas Mar&#xED;a Luisa Cordero Vel&#xE1;squez, Lorena Fries Monle&#xF3;n, Carla Morales Maldonado, Erika Olivera De La Fuente y de los diputados Ren&#xE9; Alinco Bustos, Jos&#xE9; Miguel Castro Bascu&#xF1;&#xE1;n, Marcos Ilabaca Cerda y Alberto Undurraga Vicu&#xF1;a,</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div></div>",
+          "new": "<div><br><div class=\"p\">LEY N&#xDA;M. 21.539</div><br><div class=\"p\">MODIFICA LA LEY N&#xB0; 18.290, DE TR&#xC1;NSITO, PARA SUPRIMIR LA EXCEPCI&#xD3;N A LA EXIGENCIA DE PATENTE &#xDA;NICA PARA LA CIRCULACI&#xD3;N DE VEH&#xCD;CULOS NUEVOS ADQUIRIDOS EN CHILE</div><br><div class=\"p\">&nbsp; &nbsp;  Teniendo presente que el H. Congreso Nacional ha dado su aprobaci&#xF3;n al siguiente proyecto de ley iniciado en moci&#xF3;n de las diputadas<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1190460&amp;idParte=10416043&amp;idVersion=2023-03-21\">Resoluci&#xF3;n 12, TRANSPORTES<br>Nos 1, 2 y 3<br>D.O. 21.03.2023</a></span> Ximena Ossand&#xF3;n Irarr&#xE1;zabal, Mar&#xED;a Luisa Cordero Vel&#xE1;squez, Lorena Fries Monle&#xF3;n, Carla Morales Maldonado, Erika Olivera De La Fuente y de los diputados Ren&#xE9; Alinco Bustos, Jos&#xE9; Miguel Castro Bascu&#xF1;&#xE1;n, Marcos Ilabaca Cerda y Alberto Undurraga Vicu&#xF1;a,</div><br><div class=\"p\">&nbsp; &nbsp;  Proyecto de ley:</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1190460,
+      "fecha": "2023-03-21"
+    }
+  }
+]

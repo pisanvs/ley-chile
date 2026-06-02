@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-03-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-12-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10109056,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Otorga pr&#xF3;rroga al plazo de postergaci&#xF3;n de los permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, dispuesto por el <a href=\"https://www.leychile.cl/Navegar?idNorma=1140367&amp;idParte=&amp;idVersion=\">decreto exento N&#xBA; 10.692, del 25 de noviembre de 2019, de I. Municipalidad de Valdivia</a>, publicado en el Diario Oficial con fecha 24 de diciembre de 2019, respecto de las zonas singularizadas en el considerando N&#xBA; 3 de la presente resoluci&#xF3;n, por un plazo de 9 meses, o hasta la fecha de entrada en vigencia de la modificaci&#xF3;n del Plan Regulador Comunal de Valdivia en tr&#xE1;mite, en el caso que esto ocurra antes del plazo indicado.</div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese el presente acto administrativo en el Diario Oficial y en alg&#xFA;n diario de los de mayor circulaci&#xF3;n en la comuna.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Otorga pr&#xF3;rroga <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>al plazo de postergaci&#xF3;n de los permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, dispuesto por el decreto exento N&#xBA; 10.692, del 25 de noviembre de 2019, de I. Municipalidad de Valdivia, publicado en el Diario Oficial con fecha 24 de diciembre de 2019, respecto de las zonas singularizadas en el considerando N&#xBA; 3 de la presente resoluci&#xF3;n, por un plazo de 9 meses, o hasta la fecha de entrada en vigencia de la modificaci&#xF3;n del Plan Regulador Comunal de Valdivia en tr&#xE1;mite, en el caso que esto ocurra antes del plazo indicado.</div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese el presente acto administrativo en el Diario Oficial y en alg&#xFA;n diario de los de mayor circulaci&#xF3;n en la comuna.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 539 Exenta, Vivienda, publicada el 18.12.2020, modifica la presente norma en el sentido de aumentar el plazo de la pr&#xF3;rroga de postergaci&#xF3;n de los permisos de subdivisi&#xF3;n, loteo, urbanizaci&#xF3;n predial y de construcciones, que fue dispuesta por la presente norma, por 19 meses, a contar del d&#xED;a 24 de marzo de 2020.</div></div>"
+        }
+      ]
+    }
+  }
+]

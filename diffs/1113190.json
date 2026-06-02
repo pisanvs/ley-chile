@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-01-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-02-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9871560,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;quese la <a href=\"https://www.leychile.cl/Navegar?idNorma=1101807&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xB0; 4.524 (V. y U.), de 2017</a>, en el sentido de reemplazar en el resuelvo 8. el guarismo &quot;362.550&quot; por &quot;364.487&quot; y el guarismo &quot;1.860&quot; por &quot;1.871&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2. Apru&#xE9;base la siguiente n&#xF3;mina complementaria de postulantes seleccionados al llamado en condiciones especiales dispuesto en el n&#xFA;mero 1 de la resoluci&#xF3;n exenta N&#xB0; 4.524, de este Ministerio, de 2017, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS N&#xB0; 52 (V. y U.), de 2013, y en particular seg&#xFA;n lo establecido en sus art&#xED;culos 29 y 30, los que se individualizan a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74753.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  3. El monto de recursos comprometidos en la selecci&#xF3;n de los postulantes que por este acto se aprueba, del total destinado al financiamiento llamado en condiciones especiales dispuesto en el n&#xFA;mero 1 de la resoluci&#xF3;n exenta N&#xB0; 4.524, de este Ministerio, de 2017, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS N&#xB0; 52 (V. y U.), de 2013, es de 1.937 unidades de fomento, no quedando remanente de los recursos dispuestos en la resoluci&#xF3;n exenta antes indicada.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quense en el sitio web de este Ministerio, las n&#xF3;minas de postulantes seleccionados conforme al n&#xFA;mero 2 de esta resoluci&#xF3;n, las que deber&#xE1;n contener a lo menos el puntaje y el nombre de cada postulante beneficiado con su respectiva C&#xE9;dula de Identidad.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;quese la resoluci&#xF3;n exenta N&#xB0; 4.524 (V. y U.), de 2017, en el sentido de reemplazar en el resuelvo 8. el guarismo &quot;362.550&quot; por &quot;364.487&quot; y el guarismo &quot;1.860&quot; por &quot;1.871&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2. Apru&#xE9;base la siguiente n&#xF3;mina complementaria de postulantes seleccionados al llamado en condiciones especiales dispuesto en el n&#xFA;mero 1 de la resoluci&#xF3;n exenta N&#xB0; 4.524, de este Ministerio, de 2017, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS N&#xB0; 52 (V. y U.), de 2013, y en particular seg&#xFA;n lo establecido en sus art&#xED;culos 29 y 30, los que se individualizan a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74753.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  3. El monto de recursos comprometidos en la selecci&#xF3;n de los postulantes que por este acto se aprueba, del total destinado al financiamiento llamado en condiciones especiales dispuesto en el n&#xFA;mero 1 de la resoluci&#xF3;n exenta N&#xB0; 4.524, de este Ministerio, de 2017, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS N&#xB0; 52 (V. y U.), de 2013, es de 2.132<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1115439&amp;idParte=9889115&amp;idVersion=2018-02-21\">Resoluci&#xF3;n 912 EXENTA,<br>VIVIENDA<br>N&#xB0; 1<br>D.O. 21.02.2018</a></span> unidades de fomento, no quedando remanente de los recursos dispuestos en la resoluci&#xF3;n exenta antes indicada.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quense en el sitio web de este Ministerio, las n&#xF3;minas de postulantes seleccionados conforme al n&#xFA;mero 2 de esta resoluci&#xF3;n, las que deber&#xE1;n contener a lo menos el puntaje y el nombre de cada postulante beneficiado con su respectiva C&#xE9;dula de Identidad.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1115439,
+      "fecha": "2018-02-21"
+    }
+  }
+]

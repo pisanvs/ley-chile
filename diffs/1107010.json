@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2017-08-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-01-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9828169,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Susp&#xE9;ndase el pago de la Asignaci&#xF3;n por Tramo de Desarrollo Profesional, a los profesionales de la educaci&#xF3;n que, encontr&#xE1;ndose en los tramos inicial o temprano, no rindieron los instrumentos del Sistema Nacional de Reconocimiento del Desarrollo Profesional Docente, en este primer proceso de Reconocimiento y que se encuentran individualizados en listado que se acompa&#xF1;a en anexo, que forma parte integrante de la presente resoluci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Susp&#xE9;ndase el pago de la Asignaci&#xF3;n por <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Tramo de Desarrollo Profesional, a los profesionales de la educaci&#xF3;n que, encontr&#xE1;ndose en los tramos inicial o temprano, no rindieron los instrumentos del Sistema Nacional de Reconocimiento del Desarrollo Profesional Docente, en este primer proceso de Reconocimiento y que se encuentran individualizados en listado que se acompa&#xF1;a en anexo, que forma parte integrante de la presente resoluci&#xF3;n.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo cuarto de la Resoluci&#xF3;n 6778 Exenta, Educaci&#xF3;n, publicada el 25.01.2018, modifica la presente norma en el sentido de eliminar y agregar&nbsp; del listado de los profesionales de la educaci&#xF3;n, aquellos que se encuentran individualizados en la citada norma.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2018-12-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9828169,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Susp&#xE9;ndase el pago de la Asignaci&#xF3;n por <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Tramo de Desarrollo Profesional, a los profesionales de la educaci&#xF3;n que, encontr&#xE1;ndose en los tramos inicial o temprano, no rindieron los instrumentos del Sistema Nacional de Reconocimiento del Desarrollo Profesional Docente, en este primer proceso de Reconocimiento y que se encuentran individualizados en listado que se acompa&#xF1;a en anexo, que forma parte integrante de la presente resoluci&#xF3;n.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo cuarto de la Resoluci&#xF3;n 6778 Exenta, Educaci&#xF3;n, publicada el 25.01.2018, modifica la presente norma en el sentido de eliminar y agregar&nbsp; del listado de los profesionales de la educaci&#xF3;n, aquellos que se encuentran individualizados en la citada norma.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Susp&#xE9;ndase el pago de la Asignaci&#xF3;n por <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Tramo de Desarrollo Profesional, a los profesionales de <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>la educaci&#xF3;n que, encontr&#xE1;ndose en los tramos inicial o temprano, no rindieron los instrumentos del Sistema Nacional de Reconocimiento del Desarrollo Profesional Docente, en este primer proceso de Reconocimiento y que se encuentran individualizados en listado que se acompa&#xF1;a en anexo, que forma parte integrante de la presente resoluci&#xF3;n.</div><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo cuarto de la Resoluci&#xF3;n 6778 Exenta, Educaci&#xF3;n, publicada el 25.01.2018, modifica la presente norma en el sentido de eliminar y agregar&nbsp; del listado de los profesionales de la educaci&#xF3;n, aquellos que se encuentran individualizados en la citada norma.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 6530 Exenta, Educaci&#xF3;n, publicada el 22.12.2018, modifica la presente norma en el sentido de eliminar la suspensi&#xF3;n de la asignaci&#xF3;n por tramo de desarrollo profesional, al profesional de la educaci&#xF3;n que se encuentra individualizado en documento de formato port&#xE1;til, bajo el t&#xED;tulo de &quot;Rex4864_modificaciones&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "2022-09-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-10-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10363865,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quense, los plazos correspondientes a los procesos y fases de postulaci&#xF3;n y selecci&#xF3;n descritos en el resuelvo N&#xBA; 2 de la <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=1179651&amp;idVersion=2022-09-09\">Res. Ex. N&#xBA; 561, de fecha 29 de julio de 2022</a>, por los siguientes:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/153404.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- En todo lo no modificado por el presente acto administrativo, la Res. Ex. N&#xBA; 561, de fecha 29 de julio de 2022 de la Seremi Minvu de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, mantiene su total vigencia.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quense, los plazos correspondientes a los procesos y fases de postulaci&#xF3;n y selecci&#xF3;n descritos en el resuelvo N&#xBA; 2 de la Res. Ex. N&#xBA; 561, de fecha 29 de julio de 2022, por los siguiente<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>s:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/153404.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- En todo lo no modificado por el presente acto administrativo, la Res. Ex. N&#xBA; 561, de fecha 29 de julio de 2022 de la Seremi Minvu de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, mantiene su total vigencia.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 846 Exenta, Vivienda, publicada el 28.10.2022, modifica el plazo de los procesos de &quot;revisi&#xF3;n y calificaci&#xF3;n de proyectos&quot; y el de &quot;selecci&#xF3;n de beneficiarios&quot; por los que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-12-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10363865,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quense, los plazos correspondientes a los procesos y fases de postulaci&#xF3;n y selecci&#xF3;n descritos en el resuelvo N&#xBA; 2 de la Res. Ex. N&#xBA; 561, de fecha 29 de julio de 2022, por los siguiente<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>s:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/153404.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- En todo lo no modificado por el presente acto administrativo, la Res. Ex. N&#xBA; 561, de fecha 29 de julio de 2022 de la Seremi Minvu de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, mantiene su total vigencia.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 846 Exenta, Vivienda, publicada el 28.10.2022, modifica el plazo de los procesos de &quot;revisi&#xF3;n y calificaci&#xF3;n de proyectos&quot; y el de &quot;selecci&#xF3;n de beneficiarios&quot; por los que la citada norma indica.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quense, los plazos correspondientes a los procesos y fases de postulaci&#xF3;n y selecci&#xF3;n descritos en el resuelvo N&#xBA; 2 de la Res. Ex. N&#xBA; 561, de fecha 29 de julio de 2022, por los siguiente<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>s:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/153404.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- En todo lo no modificado por el presente acto administrativo, la Res. Ex. N&#xBA; 561, de fecha 29 de julio de 2022 de la Seremi Minvu de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, mantiene su total vigencia.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 846 Exenta, Vivienda, publicada el 28.10.2022, modifica el plazo de los procesos de &quot;revisi&#xF3;n y calificaci&#xF3;n de proyectos&quot; y el de &quot;selecci&#xF3;n de beneficiarios&quot; por los que la citada norma indica.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1038 Exenta, Vivienda, publicada el 24.12.2022, modifica la presente norma en el sentido de indicar que la fecha final establecida para el proceso de &quot;revisi&#xF3;n y calificaci&#xF3;n de los proyectos&quot; indicada en la tabla inserta en su resuelvo N&#xB0; 1, sera el 29-12-2022</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2023-01-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10363865,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quense, los plazos correspondientes a los procesos y fases de postulaci&#xF3;n y selecci&#xF3;n descritos en el resuelvo N&#xBA; 2 de la Res. Ex. N&#xBA; 561, de fecha 29 de julio de 2022, por los siguiente<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>s:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/153404.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- En todo lo no modificado por el presente acto administrativo, la Res. Ex. N&#xBA; 561, de fecha 29 de julio de 2022 de la Seremi Minvu de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, mantiene su total vigencia.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 846 Exenta, Vivienda, publicada el 28.10.2022, modifica el plazo de los procesos de &quot;revisi&#xF3;n y calificaci&#xF3;n de proyectos&quot; y el de &quot;selecci&#xF3;n de beneficiarios&quot; por los que la citada norma indica.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1038 Exenta, Vivienda, publicada el 24.12.2022, modifica la presente norma en el sentido de indicar que la fecha final establecida para el proceso de &quot;revisi&#xF3;n y calificaci&#xF3;n de los proyectos&quot; indicada en la tabla inserta en su resuelvo N&#xB0; 1, sera el 29-12-2022</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;quense, los plazos correspondientes a los procesos y fases de postulaci&#xF3;n y selecci&#xF3;n descritos en el resuelvo N&#xBA; 2 de la Res. Ex. N&#xBA; 561, de fecha 29 de julio de 2022, por los siguiente<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>s:<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/153404.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- En todo lo no modificado por el presente acto administrativo, la Res. Ex. N&#xBA; 561, de fecha 29 de julio de 2022 de la Seremi Minvu de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, mantiene su total vigencia.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 846 Exenta, Vivienda, publicada el 28.10.2022, modifica el plazo de los procesos de &quot;revisi&#xF3;n y calificaci&#xF3;n de proyectos&quot; y el de &quot;selecci&#xF3;n de beneficiarios&quot; por los que la citada norma indica.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1038 Exenta, Vivienda, publicada el 24.12.2022, modifica la presente norma en el sentido de indicar que la fecha final establecida para el proceso de &quot;revisi&#xF3;n y calificaci&#xF3;n de los proyectos&quot; indicada en la tabla inserta en su resuelvo N&#xB0; 1, ser&#xE1; el 29-12-2022.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1086 Exenta, Vivienda, publicada el 09.01.2023, modifica el plazo de &quot;selecci&#xF3;n de beneficiarios&quot; establecido en el cuadro del resuelvo N&#xB0; 1 de la presente norma por el se&#xF1;alado en el citado numeral, que corresponde al 31-01-2023.</div></div>"
+        }
+      ]
+    }
+  }
+]

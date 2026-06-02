@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2015-09-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-12-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9637820,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. F&#xED;jase, a contar de la total tramitaci&#xF3;n del presente decreto, el siguiente orden de subrogancia para el cargo de Director Ejecutivo de la Comisi&#xF3;n Nacional de Investigaci&#xF3;n Cient&#xED;fica y Tecnol&#xF3;gica (Conicyt).</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primer Subrogante:</div><div class=\"p\">&nbsp; &nbsp;  Cargo&nbsp; &nbsp; &nbsp; &nbsp; : Jefe de Departamento</div><div class=\"p\">&nbsp; &nbsp;  Grado&nbsp; &nbsp; &nbsp; &nbsp; : 5&#xBA; E.U.S.</div><div class=\"p\">&nbsp; &nbsp;  Nombre&nbsp; &nbsp; &nbsp;  : Jorge Orlando &#xC1;lvarez V&#xE1;squez</div><div class=\"p\">&nbsp; &nbsp;  RUN&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 9.603.153-K</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Segundo Subrogante:</div><div class=\"p\">&nbsp; &nbsp;  Cargo&nbsp; &nbsp; &nbsp; &nbsp; : Director de Programa (TP)</div><div class=\"p\">&nbsp; &nbsp;  Grado&nbsp; &nbsp; &nbsp; &nbsp; : 4&#xBA; E.U.S.</div><div class=\"p\">&nbsp; &nbsp;  Nombre&nbsp; &nbsp; &nbsp;  : Daniel Maximiliano Portales Vel&#xE1;squez</div><div class=\"p\">&nbsp; &nbsp;  RUN&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 14.190.068-4.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. En el evento que los dos funcionarios citados precedentemente, se encuentren impedidos o imposibilitados de ejercer la subrogancia del cargo de Director Ejecutivo de la Comisi&#xF3;n Nacional de Investigaci&#xF3;n Cient&#xED;fica y Tecnol&#xF3;gica (Conicyt), subrogar&#xE1; aquel empleado que siga en el orden de precedencia jer&#xE1;rquico, de acuerdo a su antig&#xFC;edad de la Planta Directiva, conforme a la ley.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. F&#xED;jase, a contar de la total tramitaci&#xF3;n del presente decreto, el siguiente orden de subrogancia para el cargo de Director Ejecutivo de la Comisi&#xF3;n Nacional de Investigaci&#xF3;n Cient&#xED;fica y Tecnol&#xF3;gica (Conicyt).<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primer Subrogante:</div><div class=\"p\">&nbsp; &nbsp;  Cargo&nbsp; &nbsp; &nbsp; &nbsp; : Jefe de Departamento</div><div class=\"p\">&nbsp; &nbsp;  Grado&nbsp; &nbsp; &nbsp; &nbsp; : 5&#xBA; E.U.S.</div><div class=\"p\">&nbsp; &nbsp;  Nombre&nbsp; &nbsp; &nbsp;  : Jorge Orlando &#xC1;lvarez V&#xE1;squez</div><div class=\"p\">&nbsp; &nbsp;  RUN&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 9.603.153-K</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Segundo Subrogante:</div><div class=\"p\">&nbsp; &nbsp;  Cargo&nbsp; &nbsp; &nbsp; &nbsp; : Director de Programa (TP)</div><div class=\"p\">&nbsp; &nbsp;  Grado&nbsp; &nbsp; &nbsp; &nbsp; : 4&#xBA; E.U.S.</div><div class=\"p\">&nbsp; &nbsp;  Nombre&nbsp; &nbsp; &nbsp;  : Daniel Maximiliano Portales Vel&#xE1;squez</div><div class=\"p\">&nbsp; &nbsp;  RUN&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 14.190.068-4.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. En el evento que los dos funcionarios citados precedentemente, se encuentren impedidos o imposibilitados de ejercer la subrogancia del cargo de Director Ejecutivo de la Comisi&#xF3;n Nacional de Investigaci&#xF3;n Cient&#xED;fica y Tecnol&#xF3;gica (Conicyt), subrogar&#xE1; aquel empleado que siga en el orden de precedencia jer&#xE1;rquico, de acuerdo a su antig&#xFC;edad de la Planta Directiva, conforme a la ley.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numero 1 del Decreto 1551 Exento, Educaci&#xF3;n, publicado el 28.12.2017, modifica el orden de subrogaci&#xF3;n para el cargo de Director Ejecutivo de la Comisi&#xF3;n Nacional de Investigaci&#xF3;n Cient&#xED;fica y Tecnol&#xF3;gica (Conicyt), de la manera que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-02-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2005-11-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-12-24",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6548359,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;.- En el ejercicio de la facultad delegada en el art&#xED;culo anterior, el Subsecretario de Pesca, Presidente del Consejo, s&#xF3;lo podr&#xE1; recurrir a los mecanismos de licitaci&#xF3;n p&#xFA;blica o suscripci&#xF3;n de convenios marco en los t&#xE9;rminos contemplados en la ley N&#xBA; 19.886 y su Reglamento.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xB0;.- En el ejercicio de la facultad<span class=\"n\" id=\"n_0\">DTO 309, ECONOMIA<br>Art. 1&#xBA;<br>D.O.24.12.2005</span> delegada en el art&#xED;culo anterior, el Subsecretario de Pesca, Presidente del Consejo de Investigaci&#xF3;n Pesquera, podr&#xE1; recurrir a los mecanismos contemplados en la Ley N&#xB0; 19.886 y su Reglamento.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2015-06-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

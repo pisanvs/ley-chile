@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-09-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-10-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10159125,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Determ&#xED;nase que al certificado de dominio vigente o antig&#xFC;edad de la copia de la escritura en que consten derechos sobre una vivienda en Comunidad, a los que hace alusi&#xF3;n la letra f) del art&#xED;culo 3 del DS N&#xB0; 49 (V. y U.), de 2011, para efectos de la postulaci&#xF3;n, solo les ser&#xE1; exigible que hayan sido extendidos dentro del a&#xF1;o de la postulaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. Consid&#xE9;rase suspendido el plazo dispuesto en el tercer inciso del art&#xED;culo 12 del DS N&#xB0; 49 (V. y U.), de 2011, respecto a la eliminaci&#xF3;n del sistema inform&#xE1;tico de los antecedentes de aquellos proyectos que superen el plazo m&#xE1;ximo de 180 d&#xED;as para el ingreso del proyecto a partir de la incorporaci&#xF3;n de su primera familia, durante la vigencia del estado de excepci&#xF3;n constitucional de cat&#xE1;strofe dispuesto mediante los decretos indicados en los Vistos b), c) y d) de la presente resoluci&#xF3;n, o aqu&#xE9;l que lo renueve, incluso respecto de aquellos en que se hubiere cumplido con anterioridad a la fecha de esta resoluci&#xF3;n. El plazo en cuesti&#xF3;n se reanudar&#xE1; una vez terminado el estado de excepci&#xF3;n se&#xF1;alado.</div><div class=\"p\">&nbsp; &nbsp;  3. Establ&#xE9;cese que las presentes disposiciones comenzar&#xE1;n a regir desde su publicaci&#xF3;n en el Diario Oficial, pudiendo aplicarse incluso a proyectos creados con anterioridad en el Banco de Postulaciones, que est&#xE1;n afectos a los plazos eximidos por este acto, y se mantendr&#xE1;n vigentes hasta finalizada la emergencia sanitaria o hasta que se resuelva lo contrario.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Determ&#xED;nase que al certificado de dominio vigente o antig&#xFC;edad de la copia de la escritura en que consten derechos sobre una vivienda en Comunidad, a los que hace alusi&#xF3;n la letra f) del art&#xED;culo 3 del DS N&#xB0; 49 (V. y U.), de 2011, para efectos de la postulaci&#xF3;n, solo les ser&#xE1; exigible que hayan sido extendidos dentro del a&#xF1;o de la postulaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1166190&amp;idParte=10274874&amp;idVersion=2021-10-07\">Resoluci&#xF3;n 1549 EXENTA,<br>VIVIENDA<br>N&#xBA; 2 2.1.<br>D.O. 07.10.2021</a></span> Consid&#xE9;rase suspendido el plazo dispuesto en el tercer inciso del art&#xED;culo 12 del DS N&#xBA; 49 (V. y U.), de 2011, respecto a la eliminaci&#xF3;n del sistema inform&#xE1;tico de los antecedentes de aquellos proyectos que superen el plazo m&#xE1;ximo de 180 d&#xED;as para el ingreso del proyecto a partir de la incorporaci&#xF3;n de su primera familia, incluso respecto de aquellos en que se hubiera cumplido con anterioridad a la fecha de esta resoluci&#xF3;n. El plazo en cuesti&#xF3;n se reanudar&#xE1; una vez terminada la alerta sanitaria dispuesta en el decreto N&#xBA; 4, del Ministerio de Salud, de 2020, y sus modificaciones, o hasta que se resuelva lo contrario.</div><div class=\"p\">&nbsp; &nbsp;  3.<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1166190&amp;idParte=10274874&amp;idVersion=2021-10-07\">Resoluci&#xF3;n 1549 EXENTA,<br>VIVIENDA<br>N&#xBA; 2 2.2.<br>D.O. 07.10.2021</a></span> Establ&#xE9;cese que las siguientes disposiciones comenzar&#xE1;n a regir desde su publicaci&#xF3;n en el Diario Oficial, pudiendo aplicarse incluso a proyectos creados con anterioridad en el Banco de Postulaciones que est&#xE1;n afectos a los plazos eximidos por este acto, y se mantendr&#xE1;n vigentes hasta finalizada la alerta sanitaria dispuesta en el decreto N&#xBA; 4, del Ministerio de Salud, de 2020, y sus modificaciones, o hasta que se resuelva lo contrario. </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1166190,
+      "fecha": "2021-10-07"
+    }
+  }
+]

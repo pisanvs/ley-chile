@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2019-11-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-06-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10074451,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Decl&#xE1;rase Internacional la Feria &quot;Expomin 2020&quot;, organizada por la Sociedad Fisa S.A., RUT N&#xB0; 96.955.780-0, la que se llevar&#xE1; a efecto los d&#xED;as 20, 21, 22, 23 y 24 de abril de 2020, en el Centro de Eventos Espacio Riesco, ubicado en Av. El Salto N&#xB0; 5000, comuna de Huechuraba, ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  2. Habil&#xED;tase como Recinto Ferial para el desarrollo del mencionado evento el Centro de Eventos Espacio Riesco, ubicado en Avenida El Salto N&#xB0; 5000, comuna de Huechuraba, ciudad de Santiago, cuyos deslindes son los siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  - Al Norte&nbsp; &nbsp; &nbsp; &nbsp;  :\tCon Parcelas 4 y 5 del Fundo El Salto.</div><div class=\"p\">&nbsp; &nbsp;  - Al Sur&nbsp; &nbsp; &nbsp; &nbsp;  :\tCon Parcelas 1, 2 y 7 del Fundo El Salto.</div><div class=\"p\">&nbsp; &nbsp;  - Al Oriente\t:\tCon Avenida El Salto.</div><div class=\"p\">&nbsp; &nbsp;  - Al Poniente\t:\tCon Parcela 7 del Fundo El Salto.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. Decl&#xE1;rase Internacional la Feria &quot;Expomin 2020&quot;, organizada por la Sociedad Fisa S.A., RUT N&#xB0; 96.955.780-0, la que se llevar&#xE1; a <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1146821&amp;idParte=10130659&amp;idVersion=2020-06-19\">Decreto 142 EXENTO,<br>HACIENDA<br>N&#xB0; 1<br>D.O. 19.06.2020</a></span>efectos entre los d&#xED;as 9 al 13 de noviembre de 2020, ambas fechas inclusive, en el Centro de Eventos Espacio Riesco, ubicado en Av. El Salto N&#xB0; 5000, comuna de Huechuraba, ciudad de Santiago.</div><div class=\"p\">&nbsp; &nbsp;  2. Habil&#xED;tase como Recinto Ferial para el desarrollo del mencionado evento el Centro de Eventos Espacio Riesco, ubicado en Avenida El Salto N&#xB0; 5000, comuna de Huechuraba, ciudad de Santiago, cuyos deslindes son los siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  - Al Norte&nbsp; &nbsp; &nbsp; &nbsp;  :\tCon Parcelas 4 y 5 del Fundo El Salto.</div><div class=\"p\">&nbsp; &nbsp;  - Al Sur&nbsp; &nbsp; &nbsp; &nbsp;  :\tCon Parcelas 1, 2 y 7 del Fundo El Salto.</div><div class=\"p\">&nbsp; &nbsp;  - Al Oriente\t:\tCon Avenida El Salto.</div><div class=\"p\">&nbsp; &nbsp;  - Al Poniente\t:\tCon Parcela 7 del Fundo El Salto.</div><div class=\"p\"> </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1146821,
+      "fecha": "2020-06-19"
+    }
+  },
+  {
+    "fecha": "2020-10-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

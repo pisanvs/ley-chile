@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-03-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-08-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10111432,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase a la entidad denominada &quot;Fundaci&#xF3;n Vida Compartida&quot; para realizar una colecta p&#xFA;blica en las regiones de Tarapac&#xE1;, Antofagasta, Atacama, Coquimbo, Valpara&#xED;so, Metropolitana, Maule, Biob&#xED;o, Los R&#xED;os, Los Lagos y Magallanes, los d&#xED;as 12 y 13 de junio del a&#xF1;o 2020.</div><div class=\"p\">&nbsp; &nbsp;  2.- Las utilidades que se generen producto de esta colecta, ser&#xE1;n destinadas a mejorar los servicios de los centros pertenecientes a la instituci&#xF3;n solicitante en los siguientes &#xE1;mbitos: alimentaci&#xF3;n, consumos b&#xE1;sicos, material educativo y de capacitaci&#xF3;n, vestuario, salud, gastos de administraci&#xF3;n y de campa&#xF1;a, mantenci&#xF3;n y reparaci&#xF3;n de infraestructura, p&#xF3;lizas de garant&#xED;as para la ejecuci&#xF3;n de proyectos, entre otros.</div><div class=\"p\">&nbsp; &nbsp;  3.- Las erogaciones s&#xF3;lo podr&#xE1;n recibirse en alcanc&#xED;as numeradas y controladas por el Intendente o Gobernador respectivo o las personas que se designen en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4.- La referida Instituci&#xF3;n deber&#xE1; remitir al Ministerio del Interior y Seguridad P&#xFA;blica, dentro del plazo de sesenta d&#xED;as, contados desde la fecha de realizaci&#xF3;n de la colecta, un informe detallado y documentado de los ingresos obtenidos y de su inversi&#xF3;n en cumplimiento de lo establecido en el art&#xED;culo 3&#xB0; letra c) del DS N&#xBA; 955 de 1974, del Ministerio del Interior, adjuntando a &#xE9;ste el acta a que se refiere el art&#xED;culo 27 del mismo decreto.</div><div class=\"p\">&nbsp; &nbsp;  5.- La autorizaci&#xF3;n que se concede mediante el presente decreto exento a la entidad recurrente, la obliga a cumplir con las disposiciones que establece el DS N&#xBA; 955, de 1974, del Ministerio del Interior.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase a la entidad denominada &quot;Fundaci&#xF3;n Vida Compartida&quot; para realizar una colecta p&#xFA;blica en las regiones de Tarapac&#xE1;, Antofagasta, Atacama, Coquimbo, Valpara&#xED;so, Metropolitana, Maule, Biob&#xED;o, Los R&#xED;os, Los Lagos y Magallanes, los <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1148048&amp;idParte=10147091&amp;idVersion=2020-08-04\">Decreto 511 EXENTO, <br>INTERIOR<br>N&#xB0; 1<br>D.O. 04.08.2020</a></span>d&#xED;as s&#xE1;bado 7 y domingo 8 de noviembre de 2020.</div><div class=\"p\">&nbsp; &nbsp;  2.- Las utilidades que se generen producto de esta colecta, ser&#xE1;n destinadas a mejorar los servicios de los centros pertenecientes a la instituci&#xF3;n solicitante en los siguientes &#xE1;mbitos: alimentaci&#xF3;n, consumos b&#xE1;sicos, material educativo y de capacitaci&#xF3;n, vestuario, salud, gastos de administraci&#xF3;n y de campa&#xF1;a, mantenci&#xF3;n y reparaci&#xF3;n de infraestructura, p&#xF3;lizas de garant&#xED;as para la ejecuci&#xF3;n de proyectos, entre otros.</div><div class=\"p\">&nbsp; &nbsp;  3.- Las erogaciones s&#xF3;lo podr&#xE1;n recibirse en alcanc&#xED;as numeradas y controladas por el Intendente o Gobernador respectivo o las personas que se designen en su representaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  4.- La referida Instituci&#xF3;n deber&#xE1; remitir al Ministerio del Interior y Seguridad P&#xFA;blica, dentro del plazo de sesenta d&#xED;as, contados desde la fecha de realizaci&#xF3;n de la colecta, un informe detallado y documentado de los ingresos obtenidos y de su inversi&#xF3;n en cumplimiento de lo establecido en el art&#xED;culo 3&#xB0; letra c) del DS N&#xBA; 955 de 1974, del Ministerio del Interior, adjuntando a &#xE9;ste el acta a que se refiere el art&#xED;culo 27 del mismo decreto.</div><div class=\"p\">&nbsp; &nbsp;  5.- La autorizaci&#xF3;n que se concede mediante el presente decreto exento a la entidad recurrente, la obliga a cumplir con las disposiciones que establece el DS N&#xBA; 955, de 1974, del Ministerio del Interior.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1148048,
+      "fecha": "2020-08-04"
+    }
+  }
+]

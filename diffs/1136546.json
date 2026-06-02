@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-09-17",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-11-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10054737,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rese zona afectada por la cat&#xE1;strofe derivada de la prolongada sequ&#xED;a a todas las comunas de la Regi&#xF3;n de Coquimbo y las comunas de Putaendo, Calle Larga, Los Andes, Rinconada, San Esteban, Cabildo, La Ligua, Papudo, Petorca, Zapallar, Hijuelas, La Calera, La Cruz, Nogales, Quillota, Algarrobo, Cartagena, El Quisco, El Tabo, San Antonio, Santo Domingo, Catemu, Llay-Llay, Panquehue, San Felipe, Santa Mar&#xED;a, Casablanca, Conc&#xF3;n, Puchuncav&#xED;, Quintero, Valpara&#xED;so, Vi&#xF1;a del Mar, Limache, Olmu&#xE9;, Quilpu&#xE9; y Villa Alemana de la Regi&#xF3;n de Valpara&#xED;so, por un plazo de doce meses contados desde el 26 de septiembre de 2019.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rese zona afectada por la cat&#xE1;strofe derivada de la prolongada sequ&#xED;a a todas las comunas de la Regi&#xF3;n de Coquimbo y las comunas de Putaendo, Calle Larga, Los Andes, Rinconada, San Esteban, Cabildo, La Ligua, Papudo, Petorca, Zapallar, Hijuelas, La Calera, La Cruz, Nogales, Quillota, Algarrobo, Cartagena, El Quisco, El Tabo, San Antonio, Santo Domingo, Catemu, Llay-Llay, Panquehue, San Felipe, Santa Mar&#xED;a, Casablanca, Conc&#xF3;n, Puchuncav&#xED;, Quintero, Valpara&#xED;so, Vi&#xF1;a del Mar, Limache, Olmu&#xE9;, Quilpu&#xE9; y Villa Alemana de la Regi&#xF3;n de Valpara&#xED;so, por un <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>plazo de doce meses contados desde el 26 de septiembre de 2019.</div><div class=\"p\"> </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero del Decreto 398, Interior, publicado el 03.11.2020, modifica la presente norma en el sentido de extender su vigencia, que declara como zona afectada por cat&#xE1;strofe derivada de la prolongada sequ&#xED;a a todas las comunas de la Regi&#xF3;n de Coquimbo y a las comunas de Putaendo, Calle Larga, Los Andes, Rinconada, San Esteban, Cabildo, La Ligua, Papudo, Petorca, Zapallar, Hijuelas, La Calera, La Cruz, Nogales, Quillota, Algarrobo, Cartagena, El Quisco, El Tabo, San Antonio, Santo Domingo, Catemu, Llay-Llay, Panquehue, San Felipe, Santa Mar&#xED;a, Casablanca, Conc&#xF3;n, Puchuncav&#xED;, Quintero, Valpara&#xED;so, Vi&#xF1;a del Mar, Limache, Olmu&#xE9;, Quilpu&#xE9; y Villa Alemana, todas de la Regi&#xF3;n de Valpara&#xED;so, por un plazo de doce meses, contados desde el 27 de septiembre de 2020.</div></div>"
+        }
+      ]
+    }
+  }
+]

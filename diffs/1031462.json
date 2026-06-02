@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-10-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-01-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9196809,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente listado de obras espec&#xED;ficas que pueden financiarse con donaciones susceptibles de acogerse a los beneficios tributarios a que se refiere la <a href=\"https://www.leychile.cl/Navegar?idNorma=1013716&amp;idParte=0&amp;idVersion=\">ley N&#xBA; 20.444</a>:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/21356.jpg\"></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Apru&#xE9;base el siguiente listado de obras espec&#xED;ficas que pueden financiarse con donaciones susceptibles de acogerse a los beneficios tributarios a que se refiere la ley N&#xBA; 20.444: </div><br><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/21356.jpg\"></div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El Decreto 1487, Hacienda, publicado el 19.01.2013, modifica la presente norma en el sentido de reemplazar el valor de la obra de naturaleza p&#xFA;blica, denominada &quot;Reparaci&#xF3;n estructural salas de clases Escuela Barba Rubia, Huala&#xF1;&#xE9;&quot;, n&#xFA;mero de obra 159, en el siguiente sentido: donde dice &quot;valor de la obra $107.000.000.-&quot;, debe decir &quot;valor de la obra $179.851.605&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

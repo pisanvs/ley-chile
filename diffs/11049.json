@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1995-08-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-05-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8952137,
+          "old": null,
+          "new": "<div><div class=\"p\"> Disposiciones Transitorias.</div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA; Transitorio: Para efectos del<span class=\"n\" id=\"n_0\">DTO 278, EDUCACION<br>Art. &#xFA;nico<br>D.O. 05.05.1997</span> reconocimiento de la asignaci&#xF3;n de perfeccionamiento por los cursos realizados en los a&#xF1;os 1993, 1994 y 1995, que cumplan con los requisitos establecidos en los Decretos Supremos N&#xBA;s. 453, de 1991, en especial en sus art&#xED;culos 110 al 117; y 789, de 1992, ambos de Educaci&#xF3;n, se determinar&#xE1; de acuerdo al siguiente procedimiento:</div><div class=\"p\">a)&nbsp;  Las Secretar&#xED;as Regionales Ministeriales de Educaci&#xF3;n deber&#xE1;n remitir a sus respectivos Departamentos Provinciales de&nbsp; Educaci&#xF3;n, todos los antecedentes referidos a la asignaci&#xF3;n de perfeccionamiento correspondientes a los a&#xF1;os que se mencionan anteriormente, que tuvieren en su poder, dentro de un plazo de 10 d&#xED;as h&#xE1;biles contados desde la vigencia del presente decreto;</div><div class=\"p\">b)&nbsp;  Dentro del mismo plazo se&#xF1;alado en la letra anterior, el Jefe del Departamento Provincial de Educaci&#xF3;n convocar&#xE1; a una comisi&#xF3;n integrada de la siguiente forma:</div><br><div class=\"p\">&nbsp; &nbsp;  - El Jefe del Departamento Provincial de Educaci&#xF3;n o su representante, designado por &#xE9;ste;</div><br><div class=\"p\">&nbsp; &nbsp;  - Un Supervisor Educacional del Departamento Provincial de Educaci&#xF3;n respectivo;</div><br><div class=\"p\">&nbsp; &nbsp;  - Un representante del Departamento de Educaci&#xF3;n Municipal, nombrado por el Alcalde o de la Corporaci&#xF3;n Municipal, en su caso, designado de acuerdo a sus estatutos; Esta Comisi&#xF3;n podr&#xE1; funcionar en el Departamento Provincial de Educaci&#xF3;n; en el Municipio o en la Corporaci&#xF3;n Municipal, seg&#xFA;n se estime necesario o conveniente para agilizar el proceso. Asimismo, el Jefe del Departamento Provincial que corresponda constituir&#xE1; una Comisi&#xF3;n para cada comuna, cuando su jurisdicci&#xF3;n abarque varias de ellas; las que estar&#xE1;n constituidas de la misma manera antes se&#xF1;alada.</div><div class=\"p\">c)&nbsp;  Para mejor resolver la Comisi&#xF3;n dispondr&#xE1; del listado de los cursos de los a&#xF1;os 1993, 1994 y 1995, con sus respectivas horas, porcentaje de asistencia y nota de aprobaci&#xF3;n que hubieren realizado cada profesional de la educaci&#xF3;n;</div><div class=\"p\">d)&nbsp;  La Comisi&#xF3;n, pondr&#xE1; a disposici&#xF3;n del representante del Alcalde o de la Corporaci&#xF3;n, seg&#xFA;n sea el caso, el listado a que se refiere la letra anterior;</div><div class=\"p\">e)&nbsp;  El representante podr&#xE1; reunirse con cada docente de la dotaci&#xF3;n municipal para precisar el grado de relaci&#xF3;n de los cursos o actividades de perfeccionamiento de post-t&#xED;tulo o post-grado, con la funci&#xF3;n profesional efectiva que desempe&#xF1;e el respectivo profesor;</div><div class=\"p\">f)&nbsp;  El representante del Alcalde o de la Corporaci&#xF3;n deber&#xE1; devolver los antecedentes a la Comisi&#xF3;n con la observaciones respectivas;</div><div class=\"p\">g)&nbsp;  La Comisi&#xF3;n, previo an&#xE1;lisis de las certificaciones y de los otros antecedentes, determinar&#xE1; la validez, grado de relaci&#xF3;n de los cursos o actividades de perfeccionamiento de acuerdo a lo dispuesto en los art&#xED;culos pertinentes del Decreto Supremo de Educaci&#xF3;n N&#xBA; 453, de 1991; se&#xF1;alar&#xE1; al respectivo Municipio o Corporaci&#xF3;n, el porcentaje de asignaci&#xF3;n que le corresponder&#xE1; a cada profesional de la educaci&#xF3;n determinado de acuerdo a los art&#xED;culos 2&#xBA; y 3&#xBA; del Decreto Supremo de Educaci&#xF3;n N&#xBA; 789, de 1992, modificado por el Decreto Supremo de Educaci&#xF3;n N&#xBA; 212, de 1995.</div><br></div>"
+        },
+        {
+          "part_id": 8952138,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xBA; Transitorio: Los Profesionales de la<span class=\"n\" id=\"n_1\">DTO 278, EDUCACION<br>Art. &#xFA;nico<br>D.O. 05.05.1997</span> Educaci&#xF3;n que hubieren obtenido un nuevo reconocimiento de asignaci&#xF3;n de perfeccionamiento por los nuevos cursos correspondientes a los a&#xF1;os 1993, 1994 y 1995, de acuerdo al procedimiento y con intervenci&#xF3;n de la Comisi&#xF3;n que contempla el Decreto Supremo N&#xBA; 789, de 1992, de Educaci&#xF3;n mantendr&#xE1;n dicho reconocimiento y derecho al pago en la forma regulada por el decreto reci&#xE9;n mencionado.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1997-11-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8952139,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xBA; Transitorio: Los profesionales de la<span class=\"n\" id=\"n_2\">DTO 600, EDUCACION<br>Art. &#xFA;nico<br>D.O. 24.11.1997</span> educaci&#xF3;n que hubieren obtenido un nuevo porcentaje de reconocimiento de asignaci&#xF3;n de perfeccionamiento por los cursos correspondientes a los a&#xF1;os 1993, 1994 y 1995, de conformidad al procedimiento establecido en el art&#xED;culo 1&#xBA; transitorio precedente, tendr&#xE1;n derecho al pago de &#xE9;sta, el que podr&#xE1; efectuarse total o parcialmente una vez que se encuentre totalmente tramitado el presente decreto.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

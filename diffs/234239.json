@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2005-01-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2005-01-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6511414,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA; 1.073, de 22 de noviembre de 2004 y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y DFL MOP N&#xBA; 206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA; 8-F para la obra: &apos;&apos;Acceso al Puerto de San Antonio Ruta 78. Sector: Agua Buena - Puerto San Antonio. Km. 1.200,00 a Km. 7.840,00&apos;&apos;, Quinta Regi&#xF3;n, que figura a nombre de Sopesa S.A., rol de aval&#xFA;o 9034-27, comuna de San Antonio, superficie 235 m2. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Luis Pablo Padilla Vergara, Cristi&#xE1;n Larra&#xED;n Arnolds y Lorena Consuelo Larra&#xED;n Saffa, fij&#xF3; con fecha 25 de octubre de 2004, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $5.364.600.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por decreto MOP N&#xBA; 1.073, de 22 de noviembre de 2004 y en base a la facultad otorgada por los art&#xED;culos 14 letra e) y 105 del DFL MOP N&#xBA; 850, de 1997, que fij&#xF3; el texto actualizado de la ley N&#xBA; 15.840 y DFL MOP N&#xBA; 206, de 1960, se expropi&#xF3; el lote de terreno N&#xBA; 8-F para la obra: &apos;&apos;Acceso al Puerto de San Antonio Ruta 78. Sector: Agua Buena - Puerto San Antonio. Km. 1.200,00 a Km. 7.840,00&apos;&apos;, Quinta Regi&#xF3;n, que figura a nombre de Sopesa S.A., rol de aval&#xFA;o 9034-27, comuna de San Antonio, superficie 235 m2. La comisi&#xF3;n de peritos integrada por los se&#xF1;ores Luis Pablo Padilla Vergara, Maximiliano Cort&#xE9;s Caiozzi y Lorena Consuelo Larra&#xED;n<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 15.01.2005</span> Saffa, fij&#xF3; con fecha 25 de octubre de 2004, el valor provisional de la indemnizaci&#xF3;n en la cantidad de $5.364.600.- La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186, de 1978.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

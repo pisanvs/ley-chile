@@ -1,0 +1,75 @@
+[
+  {
+    "fecha": "2013-08-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-01-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9372371,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Durante el a&#xF1;o 2013, los Programas Eje, de Acompa&#xF1;amiento Psicosocial y de Acompa&#xF1;amiento Sociolaboral, aplicables a los usuarios a que se refiere el presente reglamento, podr&#xE1;n ser ejecutados por un mismo ejecutor, lo que se ajustar&#xE1; a lo establecido en el inciso final del art&#xED;culo 10, e inciso primero del art&#xED;culo noveno transitorio de la Ley, y de lo dispuesto en el art&#xED;culo 4 del presente Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Durante los a&#xF1;os 2013 y 2014, los ni&#xF1;os, ni&#xF1;as y adolescentes podr&#xE1;n ser usuarios del Subsistema, por ejecuci&#xF3;n del modelo de intervenci&#xF3;n a que se refiere el P&#xE1;rrafo 2&#xBA; del T&#xED;tulo Segundo del presente Reglamento, en la medida que dicho modelo, de intervenci&#xF3;n se aplique respecto de ellos con la finalidad de proteger los derechos de dichas personas o, de prevenir, reparar o mitigar su vulneraci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Durante los a&#xF1;os 2013 y 2014, los Programas Eje, de Acompa&#xF1;amiento Psicosocial y de Acompa&#xF1;amiento Sociolaboral, aplicables a los usuarios a que se refiere el presente reglamento, podr&#xE1;n ser ejecutados por un mismo ejecutor, lo que se ajustar&#xE1; a lo establecido en el inciso final del art&#xED;culo 10, e inciso primero del art&#xED;culo noveno transitorio de la Ley, y de lo dispuesto en el art&#xED;culo 4 del presente Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Durante <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1058913&amp;idParte=9403415&amp;idVersion=2014-01-31\">Decreto 63,<br>DESARROLLO SOCIAL<br>Art. PRIMERO<br>D.O. 31.01.2014</a></span>los a&#xF1;os 2013 y 2014, los ni&#xF1;os, ni&#xF1;as y adolescentes podr&#xE1;n ser usuarios del Subsistema, por ejecuci&#xF3;n del modelo de intervenci&#xF3;n a que se refiere el P&#xE1;rrafo 2&#xBA; del T&#xED;tulo Segundo del presente Reglamento, en la medida que dicho modelo, de intervenci&#xF3;n se aplique respecto de ellos con la finalidad de proteger los derechos de dichas personas o, de prevenir, reparar o mitigar su vulneraci&#xF3;n.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2016-10-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9372371,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Durante los a&#xF1;os 2013 y 2014, los Programas Eje, de Acompa&#xF1;amiento Psicosocial y de Acompa&#xF1;amiento Sociolaboral, aplicables a los usuarios a que se refiere el presente reglamento, podr&#xE1;n ser ejecutados por un mismo ejecutor, lo que se ajustar&#xE1; a lo establecido en el inciso final del art&#xED;culo 10, e inciso primero del art&#xED;culo noveno transitorio de la Ley, y de lo dispuesto en el art&#xED;culo 4 del presente Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Durante <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1058913&amp;idParte=9403415&amp;idVersion=2014-01-31\">Decreto 63,<br>DESARROLLO SOCIAL<br>Art. PRIMERO<br>D.O. 31.01.2014</a></span>los a&#xF1;os 2013 y 2014, los ni&#xF1;os, ni&#xF1;as y adolescentes podr&#xE1;n ser usuarios del Subsistema, por ejecuci&#xF3;n del modelo de intervenci&#xF3;n a que se refiere el P&#xE1;rrafo 2&#xBA; del T&#xED;tulo Segundo del presente Reglamento, en la medida que dicho modelo, de intervenci&#xF3;n se aplique respecto de ellos con la finalidad de proteger los derechos de dichas personas o, de prevenir, reparar o mitigar su vulneraci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Durante los a&#xF1;os 2013 y 2014, los Programas Eje, de Acompa&#xF1;amiento Psicosocial y de Acompa&#xF1;amiento Sociolaboral, aplicables a los usuarios a que se refiere el presente reglamento, podr&#xE1;n ser ejecutados por un mismo ejecutor, lo que se ajustar&#xE1; a lo establecido en el inciso final del art&#xED;culo 10, e inciso primero del art&#xED;culo noveno transitorio de la Ley, y de lo dispuesto en el art&#xED;culo 4 del presente Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Durante los a&#xF1;os 2013, 2014, 2016 y 2017,<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1095763&amp;idParte=9741087&amp;idVersion=2016-10-18\">Decreto 41,<br>DESARROLLO SOCIAL<br>N&#xB0; 1<br>D.O. 18.10.2016</a></span> los ni&#xF1;os, ni&#xF1;as y adolescentes podr&#xE1;n ser usuarios del Subsistema, por ejecuci&#xF3;n del modelo de intervenci&#xF3;n a que se refiere el P&#xE1;rrafo 2&#xBA; del T&#xED;tulo Segundo del presente Reglamento, en la medida que dicho modelo, de intervenci&#xF3;n se aplique respecto de ellos con la finalidad de proteger los derechos de dichas personas o, de prevenir, reparar o mitigar su vulneraci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2018-10-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9372371,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Durante los a&#xF1;os 2013 y 2014, los Programas Eje, de Acompa&#xF1;amiento Psicosocial y de Acompa&#xF1;amiento Sociolaboral, aplicables a los usuarios a que se refiere el presente reglamento, podr&#xE1;n ser ejecutados por un mismo ejecutor, lo que se ajustar&#xE1; a lo establecido en el inciso final del art&#xED;culo 10, e inciso primero del art&#xED;culo noveno transitorio de la Ley, y de lo dispuesto en el art&#xED;culo 4 del presente Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Durante los a&#xF1;os 2013, 2014, 2016 y 2017,<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1095763&amp;idParte=9741087&amp;idVersion=2016-10-18\">Decreto 41,<br>DESARROLLO SOCIAL<br>N&#xB0; 1<br>D.O. 18.10.2016</a></span> los ni&#xF1;os, ni&#xF1;as y adolescentes podr&#xE1;n ser usuarios del Subsistema, por ejecuci&#xF3;n del modelo de intervenci&#xF3;n a que se refiere el P&#xE1;rrafo 2&#xBA; del T&#xED;tulo Segundo del presente Reglamento, en la medida que dicho modelo, de intervenci&#xF3;n se aplique respecto de ellos con la finalidad de proteger los derechos de dichas personas o, de prevenir, reparar o mitigar su vulneraci&#xF3;n.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Durante los a&#xF1;os 2013 y 2014, los Programas Eje, de Acompa&#xF1;amiento Psicosocial y de Acompa&#xF1;amiento Sociolaboral, aplicables a los usuarios a que se refiere el presente reglamento, podr&#xE1;n ser ejecutados por un mismo ejecutor, lo que se ajustar&#xE1; a lo establecido en el inciso final del art&#xED;culo 10, e inciso primero del art&#xED;culo noveno transitorio de la Ley, y de lo dispuesto en el art&#xED;culo 4 del presente Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Durante <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1123684&amp;idParte=9953653&amp;idVersion=2018-10-09\">Decreto 61,<br>DESARROLLO SOCIAL<br>N&#xB0; 1<br>D.O. 09.10.2018</a></span>los a&#xF1;os 2013, 2014, 2016, 2017, 2018, 2019 y 2020, los ni&#xF1;os, ni&#xF1;as y adolescentes podr&#xE1;n ser usuarios del Subsistema, por ejecuci&#xF3;n del modelo de intervenci&#xF3;n a que se refiere el P&#xE1;rrafo 2&#xBA; del T&#xED;tulo Segundo del presente Reglamento, en la medida que dicho modelo, de intervenci&#xF3;n se aplique respecto de ellos con la finalidad de proteger los derechos de dichas personas o, de prevenir, reparar o mitigar su vulneraci&#xF3;n.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1123684,
+      "fecha": "2018-10-09"
+    }
+  },
+  {
+    "fecha": "2021-04-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9372371,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Durante los a&#xF1;os 2013 y 2014, los Programas Eje, de Acompa&#xF1;amiento Psicosocial y de Acompa&#xF1;amiento Sociolaboral, aplicables a los usuarios a que se refiere el presente reglamento, podr&#xE1;n ser ejecutados por un mismo ejecutor, lo que se ajustar&#xE1; a lo establecido en el inciso final del art&#xED;culo 10, e inciso primero del art&#xED;culo noveno transitorio de la Ley, y de lo dispuesto en el art&#xED;culo 4 del presente Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Durante <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1123684&amp;idParte=9953653&amp;idVersion=2018-10-09\">Decreto 61,<br>DESARROLLO SOCIAL<br>N&#xB0; 1<br>D.O. 09.10.2018</a></span>los a&#xF1;os 2013, 2014, 2016, 2017, 2018, 2019 y 2020, los ni&#xF1;os, ni&#xF1;as y adolescentes podr&#xE1;n ser usuarios del Subsistema, por ejecuci&#xF3;n del modelo de intervenci&#xF3;n a que se refiere el P&#xE1;rrafo 2&#xBA; del T&#xED;tulo Segundo del presente Reglamento, en la medida que dicho modelo, de intervenci&#xF3;n se aplique respecto de ellos con la finalidad de proteger los derechos de dichas personas o, de prevenir, reparar o mitigar su vulneraci&#xF3;n.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico.- Durante los a&#xF1;os 2013 y 2014, los Programas Eje, de Acompa&#xF1;amiento Psicosocial y de Acompa&#xF1;amiento Sociolaboral, aplicables a los usuarios a que se refiere el presente reglamento, podr&#xE1;n ser ejecutados por un mismo ejecutor, lo que se ajustar&#xE1; a lo establecido en el inciso final del art&#xED;culo 10, e inciso primero del art&#xED;culo noveno transitorio de la Ley, y de lo dispuesto en el art&#xED;culo 4 del presente Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Durante <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1123684&amp;idParte=9953653&amp;idVersion=2018-10-09\">Decreto 61,<br>DESARROLLO SOCIAL<br>N&#xB0; 1<br>D.O. 09.10.2018</a></span>los a&#xF1;os 2013, 2014, 2016, 2017, 2018, <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1157651&amp;idParte=10213305&amp;idVersion=2021-04-01\">Decreto 28, DESARROLLO SOCIAL<br>Art. primero<br>D.O. 01.04.2021</a></span>2019, 2020, 2021, 2022 y 2023, los ni&#xF1;os, ni&#xF1;as y adolescentes podr&#xE1;n ser usuarios del Subsistema, por ejecuci&#xF3;n del modelo de intervenci&#xF3;n a que se refiere el P&#xE1;rrafo 2&#xBA; del T&#xED;tulo Segundo del presente Reglamento, en la medida que dicho modelo, de intervenci&#xF3;n se aplique respecto de ellos con la finalidad de proteger los derechos de dichas personas o, de prevenir, reparar o mitigar su vulneraci&#xF3;n.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1157651,
+      "fecha": "2021-04-01"
+    }
+  }
+]

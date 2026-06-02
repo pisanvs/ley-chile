@@ -1,0 +1,56 @@
+[
+  {
+    "fecha": "2020-03-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-04-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10106424,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse los tramos del Desarrollo Profesional Docente, de acuerdo a lo previsto en los art&#xED;culos 19 C y 19 F del Estatuto Docente, y se&#xF1;&#xE1;lense los bienios que correspondan a los profesionales de la educaci&#xF3;n regidos por el T&#xED;tulo VI del Estatuto Docente y a aquellos a los que se refiere el decreto con fuerza de ley N&#xBA; 24, de 2017, del Ministerio de Educaci&#xF3;n, que se encuentran individualizados en el archivo de formato port&#xE1;til de nombre &quot;30012020_REX_PARVULARIA.FIRMADO&quot;, con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, almacenado en el disco compacto adjunto, denominado &quot;Listado Carrera E. Parvularia&quot;, que forma parte integrante de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1157830&amp;idParte=10213844&amp;idVersion=2021-04-06\">Resoluci&#xF3;n 1765 EXENTA, <br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 06.04.2021</a></span>As&#xED;gnase los tramos del Desarrollo Profesional Docente, de acuerdo a lo previsto en los art&#xED;culos 19 C y 19 F del Estatuto Docente, y se&#xF1;&#xE1;lense los bienios que correspondan a los profesionales de la educaci&#xF3;n regidos por el T&#xED;tulo VI del Estatuto Docente y a aquellos a los que se refiere el decreto con fuerza de ley N&#xBA; 24, de 2017, del Ministerio de Educaci&#xF3;n, que se encuentran individualizados en el archivo de formato port&#xE1;til de nombre &quot;23102020_REX_PARVULARIA.vf&quot;, con la firma electr&#xF3;nica avanzada de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, almacenado en el disco compacto adjunto, denominado &quot;RexParvularia&quot;, que forma parte integrante de la presente resoluci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-11-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10106424,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1157830&amp;idParte=10213844&amp;idVersion=2021-04-06\">Resoluci&#xF3;n 1765 EXENTA, <br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 06.04.2021</a></span>As&#xED;gnase los tramos del Desarrollo Profesional Docente, de acuerdo a lo previsto en los art&#xED;culos 19 C y 19 F del Estatuto Docente, y se&#xF1;&#xE1;lense los bienios que correspondan a los profesionales de la educaci&#xF3;n regidos por el T&#xED;tulo VI del Estatuto Docente y a aquellos a los que se refiere el decreto con fuerza de ley N&#xBA; 24, de 2017, del Ministerio de Educaci&#xF3;n, que se encuentran individualizados en el archivo de formato port&#xE1;til de nombre &quot;23102020_REX_PARVULARIA.vf&quot;, con la firma electr&#xF3;nica avanzada de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, almacenado en el disco compacto adjunto, denominado &quot;RexParvularia&quot;, que forma parte integrante de la presente resoluci&#xF3;n.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1168688&amp;idParte=10286831&amp;idVersion=2021-11-25\">Resoluci&#xF3;n 5906 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 25.11.2021</a></span>primero: As&#xED;gnase los tramos del Desarrollo Profesional Docente, de acuerdo a lo previsto en los art&#xED;culos 19 C y 19F del Estatuto Docente, y se&#xF1;&#xE1;lense los bienios que correspondan a los profesionales de la educaci&#xF3;n regidos por el T&#xED;tulo VI del Estatuto Docente y a aquellos a los que se refiere el decreto con fuerza de ley N&#xBA; 24, de 2017, del Ministerio de Educaci&#xF3;n, que se encuentran individualizados en el archivo de formato port&#xE1;til de nombre &quot;17062021_N&#xF3;mina por RR a Rex 1069_firmada&quot;, con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, almacenado en el disco compacto adjunto, denominado &quot;Modificaci&#xF3;n Rex N&#xBA; 1069&quot;, que forma parte integrante de la presente resoluci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1168688,
+      "fecha": "2021-11-25"
+    }
+  },
+  {
+    "fecha": "2026-02-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10106424,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1168688&amp;idParte=10286831&amp;idVersion=2021-11-25\">Resoluci&#xF3;n 5906 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 25.11.2021</a></span>primero: As&#xED;gnase los tramos del Desarrollo Profesional Docente, de acuerdo a lo previsto en los art&#xED;culos 19 C y 19F del Estatuto Docente, y se&#xF1;&#xE1;lense los bienios que correspondan a los profesionales de la educaci&#xF3;n regidos por el T&#xED;tulo VI del Estatuto Docente y a aquellos a los que se refiere el decreto con fuerza de ley N&#xBA; 24, de 2017, del Ministerio de Educaci&#xF3;n, que se encuentran individualizados en el archivo de formato port&#xE1;til de nombre &quot;17062021_N&#xF3;mina por RR a Rex 1069_firmada&quot;, con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, almacenado en el disco compacto adjunto, denominado &quot;Modificaci&#xF3;n Rex N&#xBA; 1069&quot;, que forma parte integrante de la presente resoluci&#xF3;n.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1168688&amp;idParte=10286831&amp;idVersion=2021-11-25\">Resoluci&#xF3;n 5906 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 25.11.2021</a></span>primero: <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>As&#xED;gnase los tramos del Desarrollo Profesional Docente, de acuerdo a lo previsto en los art&#xED;culos 19 C y 19F del Estatuto Docente, y se&#xF1;&#xE1;lense los bienios que correspondan a los profesionales de la educaci&#xF3;n regidos por el T&#xED;tulo VI del Estatuto Docente y a aquellos a los que se refiere el decreto con fuerza de ley N&#xBA; 24, de 2017, del Ministerio de Educaci&#xF3;n, que se encuentran individualizados en el archivo de formato port&#xE1;til de nombre &quot;17062021_N&#xF3;mina por RR a Rex 1069_firmada&quot;, con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, almacenado en el disco compacto adjunto, denominado &quot;Modificaci&#xF3;n Rex N&#xBA; 1069&quot;, que forma parte integrante de la presente resoluci&#xF3;n.</div><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp;  El art&#xED;culo primero de la Resoluci&#xF3;n 587, Educaci&#xF3;n, publicada el 17.02.2026, ordena actualizar el listado contenido en la presente norma por la n&#xF3;mina contenida en el archivo con firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;Modificar19_Asimilaci&#xF3;nEP2020_20251115_firmada&quot; almacenado en el pendrive o memoria USB port&#xE1;til adjunto, caratulado &quot;Modificar19_Asimilaci&#xF3;nEP2020_20251115&quot;, el que se entiende formar parte integrante del citado acto administrativo.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "2008-08-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-11-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7376913,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: El Subsecretario de Deportes se desempe&#xF1;ar&#xE1; como Presidente y Secretario Ejecutivo del Directorio.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: El Subsecretario de Deportes se<span class=\"n\" id=\"n_0\">DTO 153,<br>SEC. GRAL. GOB.<br>N&#xBA; 1<br>D.O. 29.11.2008</span> desempe&#xF1;ar&#xE1; como Presidente del Directorio.</div><div class=\"p\"> </div><br><br></div>"
+        },
+        {
+          "part_id": 7376914,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: El Directorio se reunir&#xE1; en forma ordinaria al menos una vez al mes, en la fecha que lo determine su Presidente. Sin perjuicio de lo anterior, podr&#xE1; reunirse en forma extraordinaria cada vez que sea necesario, previa convocatoria efectuada por su Presidente.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: Existir&#xE1; un Secretario General del<span class=\"n\" id=\"n_1\">DTO 153,<br>SEC. GRAL. GOB.<br>N&#xBA; 2<br>D.O. 29.11.2008</span> programa Red Estadios, el que ejercer&#xE1; la coordinaci&#xF3;n del programa, reportar&#xE1; directa y de manera peri&#xF3;dica al Presidente del Directorio. El Directorio se reunir&#xE1; en forma ordinaria al menos una vez al mes, en la fecha que lo determine su Presidente. Sin perjuicio de lo anterior, podr&#xE1; reunirse en forma extraordinaria cada vez que sea necesario, previa convocatoria efectuada por su Presidente.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 7376916,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;: Al Presidente del Directorio le corresponder&#xE1; y ser&#xE1; responsable de entregar las propuestas de iniciativas de inversi&#xF3;n, sus planes y modelos de gesti&#xF3;n al Directorio, las que ser&#xE1;n consideradas internamente por la Direcci&#xF3;n Nacional del Instituto Nacional de Deportes de Chile, Direcciones Regionales de Deportes y otras instituciones p&#xFA;blicas que sea necesario.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;: ELIMINADO<span class=\"n\" id=\"n_2\">DTO 153,<br>SEC. GRAL. GOB.<br>N&#xBA; 3<br>D.O. 29.11.2008</span> </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

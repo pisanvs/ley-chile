@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-06-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-11-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8314553,
+          "old": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA &quot;EL HUINCO&quot; LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. CADUCA RESOLUCION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A SOCIEDAD PESQUERA &quot;EL HUINCO&quot; LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. CADUCA RESOLUCION QUE INDICA</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

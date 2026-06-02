@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2020-01-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-03-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10092795,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Recon&#xF3;zcase, en el marco del &quot;Acuerdo de Reconocimiento Mutuo de T&#xED;tulos y Grados entre la Rep&#xFA;blica de Chile y el Reino Unido de Gran Breta&#xF1;a e Irlanda del Norte&quot;, los t&#xED;tulos (qualifications) o grados acad&#xE9;micos universitarios de pregrado obtenidos en las universidades de Reino Unido de Gran Breta&#xF1;a e Irlanda del Norte que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103516.jpg\"></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Recon&#xF3;zcase, en el marco<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1143100&amp;idParte=10106410&amp;idVersion=2020-03-06\">Resoluci&#xF3;n 771 EXENTA,<br>EDUCACI&#xD3;N<br>Art. PRIMERO<br>D.O. 06.03.2020</a></span> del &quot;Acuerdo de Reconocimiento Mutuo de T&#xED;tulos y Grados entre la Rep&#xFA;blica de Chile y el Reino Unido de Gran Breta&#xF1;a e Irlanda del Norte&quot;, los t&#xED;tulos (qualifications) o grados acad&#xE9;micos universitarios de pregrado obtenidos en las universidades de Reino Unido de Gran Breta&#xF1;a e Irlanda del Norte que se indican a continuaci&#xF3;n:</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/105835.jpg\">.&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        },
+        {
+          "part_id": 10092796,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Recon&#xF3;zcase, en el marco del &quot;Acuerdo de Reconocimiento Mutuo de T&#xED;tulos y Grados entre la Rep&#xFA;blica de Chile y el Reino Unido de Gran Breta&#xF1;a e Irlanda del Norte&quot;, los t&#xED;tulos (qualifications) o grados acad&#xE9;micos universitarios de postgrado obtenidos en las universidades de Reino Unido de Gran Breta&#xF1;a e Irlanda del Norte que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103517.jpg\"></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Recon&#xF3;zcase, en el marco<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1143100&amp;idParte=10106410&amp;idVersion=2020-03-06\">Resoluci&#xF3;n 771 EXENTA,<br>EDUCACI&#xD3;N<br>Art. SEGUNDO<br>D.O. 06.03.2020</a></span> del &quot;Acuerdo de Reconocimiento Mutuo de T&#xED;tulos y Grados entre la Rep&#xFA;blica de Chile y el Reino Unido de Gran Breta&#xF1;a e Irlanda del Norte&quot;, los t&#xED;tulos (qualifications) o grados acad&#xE9;micos universitarios de postgrado obtenidos en las universidades de Reino Unido de Gran Breta&#xF1;a e Irlanda del Norte que se indican a continuaci&#xF3;n:</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/105836.jpg\">.</div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/105837.jpg\">.&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1143100,
+      "fecha": "2020-03-06"
+    }
+  }
+]

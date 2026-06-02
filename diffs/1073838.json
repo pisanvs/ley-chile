@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-01-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-04-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9550117,
+          "old": "<div><br><div class=\"p\">ORDENAN EXPROPIACI&#xD3;N PARCIAL Y TOTAL DE INMUEBLES QUE INDICAN</div><br><div class=\"p\">NOTIFICACI&#xD3;N</div></div>",
+          "new": "<div><br><div class=\"p\">ORDENAN EXPROPIACI&#xD3;N P<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>ARCIAL Y TOTAL DE INMUEBLES QUE INDICAN</div><br><div class=\"p\">NOTIFICACI&#xD3;N</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Por Aviso S/N, Vivienda, publicado el 15.04.2015, se rectifica el presente extracto, en el sentido de reemplazarlo por el que indica, en atenci&#xF3;n a un error en el monto indicado en la indemnizaci&#xF3;n provisional.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2019-09-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-12-13",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10053092,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base la Postergaci&#xF3;n de Permisos de Edificaci&#xF3;n (Permisos y Anteproyectos) con destino vivienda, de altura superior a 5 pisos, en las zonas del actual Plan Regulador Comunal que admiten uso de suelo residencial (vivienda), correspondiente a las zonas correlativas de la ZU-1 a la ZU-7, por un periodo de tres meses. Seg&#xFA;n lo dispuesto en el Ord. N&#xBA; 4370 de fecha 13.09.2019 de la Secretar&#xED;a Regional Ministerial Metropolitana que aprueba la postergaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en el Diario Oficial y otro diario de mayor circulaci&#xF3;n en la comuna.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base la Postergaci&#xF3;n de Permisos de Edificaci&#xF3;n (Permisos y Anteproyectos) con destino vivienda, de altura superior a 5 pisos, en las zonas del actual Plan Regulador Comunal que admiten uso de suelo residencial (vivienda), correspondiente a las zonas correlativas de la ZU-1 a la ZU-7, por un <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>periodo de tres meses. Seg&#xFA;n lo dispuesto en el Ord. N&#xBA; 4370 de fecha 13.09.2019 de la Secretar&#xED;a Regional Ministerial Metropolitana que aprueba la postergaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en el Diario Oficial y otro diario de mayor circulaci&#xF3;n en la comuna.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 2836 Exenta, Vivienda, publicada 13-12-2019, prorroga por el plazo de nueve meses la postergaci&#xF3;n de permisos de edificaci&#xF3;n, correspondiente al territorio comunal descrito en la presente norma.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2020-09-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10053092,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base la Postergaci&#xF3;n de Permisos de Edificaci&#xF3;n (Permisos y Anteproyectos) con destino vivienda, de altura superior a 5 pisos, en las zonas del actual Plan Regulador Comunal que admiten uso de suelo residencial (vivienda), correspondiente a las zonas correlativas de la ZU-1 a la ZU-7, por un <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>periodo de tres meses. Seg&#xFA;n lo dispuesto en el Ord. N&#xBA; 4370 de fecha 13.09.2019 de la Secretar&#xED;a Regional Ministerial Metropolitana que aprueba la postergaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en el Diario Oficial y otro diario de mayor circulaci&#xF3;n en la comuna.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 2836 Exenta, Vivienda, publicada 13-12-2019, prorroga por el plazo de nueve meses la postergaci&#xF3;n de permisos de edificaci&#xF3;n, correspondiente al territorio comunal descrito en la presente norma.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base la Postergaci&#xF3;n de Permisos de Edificaci&#xF3;n (Permisos y Anteproyectos) con destino vivienda, de altura superior a 5 pisos, en las zonas del actual Plan Regulador Comunal que admiten uso de suelo residencial (vivienda), correspondiente a las zonas correlativas de la ZU-1 a la ZU-7, por un <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>periodo de tres meses. Seg&#xFA;n lo dispuesto en el Ord. N&#xBA; 4370 de fecha 13.09.2019 de la Secretar&#xED;a Regional Ministerial Metropolitana que aprueba la postergaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en el Diario Oficial y otro diario de mayor circulaci&#xF3;n en la comuna.</div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 2836 Exenta, Vivienda, publicada 13-12-2019, prorroga por el plazo de nueve meses la postergaci&#xF3;n de permisos de edificaci&#xF3;n, correspondiente al territorio comunal descrito en la presente norma.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1136 Exenta, Vivienda, publicada 21.09.2020, suspende por un plazo de 7 meses la postergaci&#xF3;n de los permisos de edificaci&#xF3;n en los t&#xE9;rminos establecidos en el Art. 117 de la LGUC, dispuesta originalmente la presente norma y prorrogada por Res. Ex. N&#xBA; 2.836, de esta Secretar&#xED;a Ministerial, de fecha 9 de diciembre de 2019, correspondiente al territorio comunal descrito en el citada norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

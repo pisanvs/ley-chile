@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-05-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-04-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9601239,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de expropiaciones para el a&#xF1;o 2015 y siguientes, en la Regi&#xF3;n del Biob&#xED;o, para la adquisici&#xF3;n de los lotes ubicados en la comuna de Concepci&#xF3;n, a ser destinados a la ejecuci&#xF3;n del proyecto &quot;Reposici&#xF3;n del Mercado Central de la Ciudad de Concepci&#xF3;n&quot; (C&#xF3;digo BIP N&#xBA; 30293972-0), conforme a Plano de Lotes Marcado de Concepci&#xF3;n, de mayo de 2015, elaborado por la SEREMI Regi&#xF3;n del Biob&#xED;o, y que se singularizan a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/49437.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie aproximada inmuebles a expropiar: 14.012 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Concepci&#xF3;n, si lo hubiere.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base el siguiente programa de expropiaciones para el a&#xF1;o 2015 y siguientes, en la Regi&#xF3;n del Biob&#xED;o, para la adquisici&#xF3;n de los lotes ubicados en la comuna de Concepci&#xF3;n, a ser destinados a la ejecuci&#xF3;n del proyecto &quot;Reposici&#xF3;n del Mercado Central de la Ciudad de Concepci&#xF3;n&quot; (C&#xF3;digo BIP N&#xBA; 30293972-0), conforme a Plano de Lotes Marcado de Concepci&#xF3;n, de mayo de 2015, elaborado por la SEREMI Regi&#xF3;n del Biob&#xED;o, y que se singularizan a continuaci&#xF3;n<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1202413&amp;idParte=10496077&amp;idVersion=2024-04-05\">Decreto 11 EXENTO,<br>VIVIENDA<br>N&#xB0; 1 a) y b)<br>D.O. 05.04.2024</a></span>:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/181556.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie aproximada inmuebles a expropiar: 12.128,21 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Concepci&#xF3;n, si lo hubiere.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1202413,
+      "fecha": "2024-04-05"
+    }
+  }
+]

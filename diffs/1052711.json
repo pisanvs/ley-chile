@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-07-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-12-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9363829,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Decl&#xE1;rase Monumento Nacional en la categor&#xED;a de Zona T&#xED;pica a &quot;Frutillar Bajo&quot;, localidad ubicada en la comuna de Frutillar, provincia de Llanquihue, Regi&#xF3;n de Los Lagos.</div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida del pol&#xED;gono de la Zona T&#xED;pica tiene una superficie aproximada de 1.057.511,48 mts.2 o 105,7511 hect&#xE1;reas, como se grafica en el plano adjunto, que forma parte del presente decreto y cuyos l&#xED;mites son los siguientes:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/33553.jpg\">.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;: Decl&#xE1;rase Monumento Nacional en la categor&#xED;a de Zona T&#xED;pica a &quot;Frutillar Bajo&quot;, localidad ubicada en la comuna de Frutillar, provincia de Llanquihue, Regi&#xF3;n de Los Lagos.</div><div class=\"p\">&nbsp; &nbsp;  El &#xE1;rea protegida de la zona t&#xED;pica tiene una superficie de 960.148 mts2, como se grafica en el pol&#xED;gono 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-29- 30-31-32-33-34-1, del plano adjunto N&#xBA; 007-2017, visado por el Consejo de Monumentos Nacionales y que forma parte del presente decreto y cuyos l&#xED;mites son los siguientes:</div><br><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1112769&amp;idParte=9867962&amp;idVersion=2017-12-21\">Decreto 187, EDUCACI&#xD3;N<br>Art. &#xDA;NICO N&#xB0; 1<br>D.O. 21.12.2017</a></span>&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74417.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/74418.jpg\">.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1112769,
+      "fecha": "2017-12-21"
+    }
+  }
+]

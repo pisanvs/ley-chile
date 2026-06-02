@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1995-09-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2003-03-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5926474,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA NUEVO REGLAMENTO DE CALIFICACIONES PARA EL PERSONAL DEL SERVICIO EXTERIOR DEL MINISTERIO DE RELACIONES EXTERIORES</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.072.- Santiago, 22 de Agosto de 1995.- Vistos: Lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado; en el art&#xED;culo N&#xB0; 49 de la Ley de Bases Generales para la Administraci&#xF3;n del Estado N&#xB0; 18.575 en los art&#xED;culos 15, 18, 19, 20, 21, 22, 23 y 56 del DFL N&#xB0; 33 de 1979, aprobatorio del Estatuto del Personal para los funcionarios del Servicio Exterior del Ministerio de Relaciones Exteriores y lo prescrito en la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><div class=\"p\">&nbsp; &nbsp; Considerando: Que el sistema calificatorio que contempla el actual Reglamento de Calificaciones para el Personal del Servicio Exterior del Ministerio de Relaciones Exteriores aprobado por Decreto N&#xB0; 896 de 1992, presenta notorias deficiencias que restan eficacia al procedimiento, se hace indispensable reemplazarlo por un sistema &#xE1;gil y expedito que incorpore adem&#xE1;s los principios rectores de la Ley de Bases Generales para la Administraci&#xF3;n del Estado,</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">APRUEBA NUEVO REGLAMENTO DE CALIFICACIONES PARA EL<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">PERSONAL DEL SERVICIO EXTERIOR DEL MINISTERIO DE</div><div class=\"p\">RELACIONES EXTERIORES</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.072.- Santiago, 22 de Agosto de 1995.- Vistos: Lo dispuesto en el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica del Estado; en el art&#xED;culo N&#xB0; 49 de la Ley de Bases Generales para la Administraci&#xF3;n del Estado N&#xB0; 18.575 en los art&#xED;culos 15, 18, 19, 20, 21, 22, 23 y 56 del DFL N&#xB0; 33 de 1979, aprobatorio del Estatuto del Personal para los funcionarios del Servicio Exterior del Ministerio de Relaciones Exteriores y lo prescrito en la Resoluci&#xF3;n N&#xB0; 55 de 1992, de la Contralor&#xED;a General de la Rep&#xFA;blica,</div><div class=\"p\">&nbsp; &nbsp; Considerando: Que el sistema calificatorio que contempla el actual Reglamento de Calificaciones para el Personal del Servicio Exterior del Ministerio de Relaciones Exteriores aprobado por Decreto N&#xB0; 896 de 1992, presenta notorias deficiencias que restan eficacia al procedimiento, se hace indispensable reemplazarlo por un sistema &#xE1;gil y expedito que incorpore adem&#xE1;s los principios rectores de la Ley de Bases Generales para la Administraci&#xF3;n del Estado,</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El DTO 220, Relaciones Exteriores, publicado el 06.03.2003, derog&#xF3; la presente norma. No obstante, sus disposiciones se mantendr&#xE1;n en vigor respecto del per&#xED;odo calificatorio comprendido entre el 1&#xBA; de octubre de 2002 y el 30 de septiembre de 2003.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

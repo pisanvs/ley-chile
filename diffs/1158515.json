@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2021-04-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-12-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10217220,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;case la tabla contenida en el resuelvo primero del <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=1112823&amp;idVersion=2021-04-19\">decreto exento N&#xB0; 298, de 2017, del Ministerio de Agricultura</a>, que autoriza circulaci&#xF3;n en d&#xED;as y horas inh&#xE1;biles, de veh&#xED;culos del Instituto de Desarrollo Agropecuario (Indap), y deja sin efecto decreto exento que indica, en el siguiente sentido:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Donde dice:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/124301.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Debe decir:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/124302.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- En todo lo no modificado por el presente decreto exento, se mantienen vigentes las disposiciones contenidas en el decreto exento N&#xB0; 298, de 2017, del Ministerio de Agricultura.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Modif&#xED;case la tabla contenida en el resuelvo primero del decreto exento N&#xB0; 298, de 2017, del Ministerio de Agricultura, que autoriza circulaci&#xF3;n en d&#xED;as y horas inh&#xE1;biles, de veh&#xED;culos del Instituto de Desarrollo Agropecuario (Indap), y deja sin efecto decreto exento que indica, en el siguiente sentido:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Donde dice:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/124301.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Debe decir<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/124302.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- En todo lo no modificado por el presente decreto exento, se mantienen vigentes las disposiciones contenidas en el decreto exento N&#xB0; 298, de 2017, del Ministerio de Agricultura.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 2&#xB0; del Decreto 65 Exento, Agricultura, publicado el 14.12.2021, dispone eliminar de la tabla consignada en el resuelvo primero el Veh&#xED;culo Placa Patente N&#xB0; LHTX-48-4. Sin embargo, se consigna que en la presente norma se individualiza un Veh&#xED;culo Placa Patente N&#xB0; LHTZ-48-4.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2023-04-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

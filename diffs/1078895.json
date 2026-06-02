@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-06-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-07-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9616683,
+          "old": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1.- Ampl&#xED;ese la zonificaci&#xF3;n de aplicaci&#xF3;n de tasa del 2,5 por mil sobre el capital propio para todos los contribuyentes que ejercen actividades, en el pol&#xED;gono 1-2-3-4-5-6 y 7, correspondiente a zonas Z-AA+CB, ESP-1 y Z-AM, del Plan Regulador Comunal de acuerdo a los siguientes l&#xED;mites:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/50479.jpg\"></div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese el presente decreto exento en el Diario Oficial y en la p&#xE1;gina web del municipio.</div><div class=\"p\">&nbsp; &nbsp;  Las personas que se sientan afectados sus derechos con la dictaci&#xF3;n del presente decreto podr&#xE1;n interponer el recurso de legalidad para ante el &#xF3;rgano que dict&#xF3; el acto administrativo que se impugnan dentro del plazo que se&#xF1;ala la ley, sin perjuicio de los recursos que le franquea la justicia ordinaria</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1.- Ampl&#xED;ese la zonificaci&#xF3;n de aplicaci&#xF3;n de tasa del 2,5 por mil sobre el capital propio para todos los contribuyentes que ejercen actividades, en el pol&#xED;gono 1-2-3-4-5-6 y 7, correspondiente a zonas Z-AA+CB, ESP-1 y Z-AM, del Plan Regulador Comunal de acuerdo a los siguientes l&#xED;mites:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1 Vicu&#xF1;a Mackenna Poniente / Departamental</div><div class=\"p\">&nbsp; &nbsp;  2 Departamental / Am&#xE9;rico Vespucio</div><div class=\"p\">&nbsp; &nbsp;  3 Am&#xE9;rico Vespucio / Ger&#xF3;nimo de Alderete</div><div class=\"p\">&nbsp; &nbsp;  4 Ger&#xF3;nimo de Alderete / Punta Arenas</div><div class=\"p\">&nbsp; &nbsp;  5 Punta Arenas / Vicu&#xF1;a Mackenna Poniente</div><div class=\"p\">&nbsp; &nbsp;  6 Vicu&#xF1;a Mackenna Poniente / Departamental.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese el presente decreto exento en el Diario Oficial y en la p&#xE1;gina web del municipio.</div><div class=\"p\">&nbsp; &nbsp;  Las personas que se sientan afectados sus derechos con la dictaci&#xF3;n del presente decreto podr&#xE1;n interponer el recurso de legalidad para ante el &#xF3;rgano que dict&#xF3; el acto administrativo que se impugnan dentro del plazo que se&#xF1;ala la ley, sin perjuicio de los recursos que le franquea la justicia ordinaria</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; del decreto 2206 Exento, M. De la Florida, publicado el 31.07.2015, ratifico la ampliaci&#xF3;n dispuesta por la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

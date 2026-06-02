@@ -1,0 +1,44 @@
+[
+  {
+    "fecha": "2022-07-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-07-19",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10347692,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Establ&#xE9;cese el siguiente orden de subrogaci&#xF3;n del cargo de Secretario Ejecutivo de la Agencia de Calidad de la Educaci&#xF3;n, en caso de ausencia o impedimento de su titular:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primer orden de subrogaci&#xF3;n: Jefe de Divisi&#xF3;n de Evaluaci&#xF3;n y Orientaci&#xF3;n de Desempe&#xF1;o, grado 2&#xB0; de la EUS, de la planta de directivos de la Agencia de Calidad de la Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Segundo orden de subrogaci&#xF3;n: Jefe de Divisi&#xF3;n de Informaci&#xF3;n a la Comunidad, grado 3&#xB0; de la EUS, de la planta de directivos de la Agencia de Calidad de la Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Tercer orden de subrogaci&#xF3;n: Jefe de Divisi&#xF3;n de Administraci&#xF3;n General, grado 3&#xB0; de la EUS, de la planta de directivos de la Agencia de Calidad de la Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Cuarto orden de subrogaci&#xF3;n: Jefe de Divisi&#xF3;n de Estudios, grado 2&#xB0; de la EUS, de la planta de directivos de la Agencia de Calidad de la Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Quinto orden de subrogaci&#xF3;n: Jefe de Divisi&#xF3;n de Evaluaci&#xF3;n de Logros de Aprendizaje, grado 2&#xB0; de la EUS, de la planta de directivos de la Agencia de Calidad de la Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; Disp&#xF3;nese que por razones de buen servicio los subrogantes del cargo del Secretario Ejecutivo de la Agencia de Calidad de la Educaci&#xF3;n, en caso de ausencia o impedimento de su titular, asumir&#xE1;n sus funciones en forma inmediata y sin esperar la total tramitaci&#xF3;n de este decreto.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; D&#xE9;jase sin efecto el <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=1154029&amp;idVersion=2022-07-12\">decreto exento N&#xB0; 1.636, de 2020</a>, de esta cartera, y cualquier otro acto que hubiera establecido o modificado con anterioridad el orden de subrogaci&#xF3;n para el mismo cargo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Establ&#xE9;cese el siguiente orden de subrogaci&#xF3;n del cargo de Secretario Ejecutivo de la Agencia de Calidad de la Educaci&#xF3;n, en caso de ausencia o impedimento de su titular:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Primer orden de subrogaci&#xF3;n: Jefe de Divisi&#xF3;n de Evaluaci&#xF3;n y Orientaci&#xF3;n de Desempe&#xF1;o, grado 2&#xB0; de la EUS, de la planta de directivos de la Agencia de Calidad de la Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Segundo orden de subrogaci&#xF3;n: Jefe de Divisi&#xF3;n de Informaci&#xF3;n a la Comunidad, grado 3&#xB0; de la EUS, de la planta de directivos de la Agencia de Calidad de la Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Tercer orden de subrogaci&#xF3;n: Jefe de Divisi&#xF3;n de Administraci&#xF3;n General, grado 3&#xB0; de la EUS, de la planta de directivos de la Agencia de Calidad de la Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Cuarto orden de subrogaci&#xF3;n: Jefe de Divisi&#xF3;n de Estudios, grado 2&#xB0; de la EUS, de la planta de directivos de la Agencia de Calidad de la Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Quinto orden de subrogaci&#xF3;n: Jefe de Divisi&#xF3;n de Evaluaci&#xF3;n de Logros de Aprendizaje, grado 2&#xB0; de la EUS, de la planta de directivos de la Agencia de Calidad de la Educaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xB0;<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1178806&amp;idParte=10349341&amp;idVersion=2022-07-19\">Decreto 610 EXENTO,<br>EDUCACI&#xD3;N<br>Art. primero N&#xB0; 1 y N&#xB0; 2<br>D.O. 19.07.2022</a></span> D&#xE9;jase establecido que el presente decreto entrar&#xE1; en vigencia el d&#xED;a 1&#xB0; de agosto de 2022.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; D&#xE9;jase sin efecto el decreto exento N&#xB0; 1.636, de 2020, de esta cartera, y cualquier otro acto que hubiera establecido o modificado con anterioridad el orden de subrogaci&#xF3;n para el mismo cargo, desde el d&#xED;a 1&#xB0; de agosto de 2022.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1178806,
+      "fecha": "2022-07-19"
+    }
+  },
+  {
+    "fecha": "2022-08-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "2024-02-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

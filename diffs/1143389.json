@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-03-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-06-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10108292,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  I. Autor&#xED;zase, por este acto, pr&#xF3;rroga de tres meses a contar desde la fecha de la publicaci&#xF3;n en el Diario Oficial de la presente resoluci&#xF3;n, para la postergaci&#xF3;n de los permisos de construcci&#xF3;n, subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial, en la comuna de Rancagua, conforme a los Planos de Postergaci&#xF3;n mencionados en el N&#xBA; 12 de los vistos, en virtud de los argumentos contenidos en la parte considerativa de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  II. Publ&#xED;quese el presente acto administrativo en el Diario Oficial y en el Diario El Rancag&#xFC;ino, de acuerdo a lo dispuesto en el inciso segundo del art&#xED;culo 117&#xBA; de la Ley General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp;  III. Dese copia a la Ilustre Municipalidad de Rancagua de la presente resoluci&#xF3;n exenta, debidamente autorizada por Ministro de fe.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  I. Autor&#xED;zase, por este acto, pr&#xF3;rroga de tres meses a contar desde la fecha de la publicaci&#xF3;n en el Diario Oficial de la presente resoluci&#xF3;n, para la postergaci&#xF3;n de los permisos de construcci&#xF3;n, subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial, en la comuna de Rancagua, conforme a los Planos de Postergaci&#xF3;n mencionados en el N&#xBA; 12 de los vistos, en virtud de los argumentos contenidos en la parte considerativa de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  II. Publ&#xED;quese el presente acto administrativo en el Diario Oficial y en el Diario El Rancag&#xFC;ino, de acuerdo a lo dispuesto en el inciso segundo del art&#xED;culo 117&#xBA; de la Ley General de Urbanismo y Construcciones.</div><div class=\"p\">&nbsp; &nbsp;  III. Dese copia a la Ilustre Municipalidad de Rancagua de la presente resoluci&#xF3;n exenta, debidamente autorizada por Ministro de fe.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

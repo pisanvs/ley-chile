@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "2014-04-02",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-04-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9426339,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: Dentro de la Evaluaci&#xF3;n del Desempe&#xF1;o se manejar&#xE1; una tabla de calificaci&#xF3;n, la que se compone en factores y subfactores, cada uno de los cuales tiene asignada una determinada nota, de acuerdo a la siguiente escala:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"https://nuevo.leychile.cl/Navegar/imagen/JPG/39092.jpg\">.</div><div class=\"p\"> </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: Dentro de la Evaluaci&#xF3;n del Desempe&#xF1;o se manejar&#xE1; una tabla de calificaci&#xF3;n, la que se compone en factores y subfactores, cada uno de los cuales tiene asignada una determinada nota, de acuerdo a la siguiente escala:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/39092.jpg\">.</div><div class=\"p\"> </div></div>"
+        },
+        {
+          "part_id": 9426342,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;: La ponderaci&#xF3;n de cada factor y subfactor ser&#xE1; la siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"https://nuevo.leychile.cl/Navegar/imagen/JPG/39093.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  El factor Direcci&#xF3;n ser&#xE1; aplicable a los cargos de jefatura y profesionales con personal a cargo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;: La ponderaci&#xF3;n de cada factor y subfactor ser&#xE1; la siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/39093.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  El factor Direcci&#xF3;n ser&#xE1; aplicable a los cargos de jefatura y profesionales con personal a cargo.</div></div>"
+        },
+        {
+          "part_id": 9426343,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: Los/as funcionarios/as ser&#xE1;n clasificados en las listas que se indican, de acuerdo a los siguientes puntajes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"https://nuevo.leychile.cl/Navegar/imagen/JPG/39094.jpg\">.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: Los/as funcionarios/as ser&#xE1;n clasificados en las listas que se indican, de acuerdo a los siguientes puntajes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/39094.jpg\">.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

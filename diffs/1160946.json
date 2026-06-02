@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-06-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-07-01",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10242011,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, comun&#xED;quese y publ&#xED;quese en el Diario Oficial.- Patricio Urquieta Garc&#xED;a, Intendente Regional, Gobierno Regional de Atacama.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, comun&#xED;quese y publ&#xED;quese en el Diario Oficial.- Patricio Urquieta Garc&#xED;a, Gobi<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1162104&amp;idParte=10247435&amp;idVersion=2021-07-01\">Rectificaci&#xF3;n 2294<br>D.O. 01.07.2021</a></span>erno Regional de Atacama.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1162104,
+      "fecha": "2021-07-01"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-06-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-09-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9605208,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base la Norma T&#xE9;cnica N&#xBA; 158 sobre &quot;Requisitos para la aplicaci&#xF3;n del Sistema de An&#xE1;lisis de Peligros y Puntos Cr&#xED;ticos de Control (HACCP) en Establecimientos de Alimentos&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El texto que se aprueba en virtud del presente acto administrativo consta en un documento de diecisiete (17) p&#xE1;ginas que forma parte integrante del presente decreto, cuyo original ser&#xE1; visado por el Sr. Subsecretario de Salud P&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Publ&#xED;quese en la p&#xE1;gina web del Ministerio de Salud, www.minsal.cl, el texto que contiene la Norma T&#xE9;cnica sobre &quot;Requisitos para la aplicaci&#xF3;n del Sistema de An&#xE1;lisis de Peligros y Puntos Cr&#xED;ticos de Control (HACCP) en Establecimientos de Alimentos&quot;.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Apru&#xE9;base la Norma T&#xE9;cnica N&#xBA; <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1081567&amp;idParte=9635779&amp;idVersion=2015-09-15\">Decreto 852 EXENTO,<br>SALUD<br>D.O. 15.09.2015</a></span>174 sobre &quot;Requisitos para la aplicaci&#xF3;n del Sistema de An&#xE1;lisis de Peligros y Puntos Cr&#xED;ticos de Control (HACCP) en Establecimientos de Alimentos&quot;.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El texto que se aprueba en virtud del presente acto administrativo consta en un documento de diecisiete (17) p&#xE1;ginas que forma parte integrante del presente decreto, cuyo original ser&#xE1; visado por el Sr. Subsecretario de Salud P&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Publ&#xED;quese en la p&#xE1;gina web del Ministerio de Salud, www.minsal.cl, el texto que contiene la Norma T&#xE9;cnica sobre &quot;Requisitos para la aplicaci&#xF3;n del Sistema de An&#xE1;lisis de Peligros y Puntos Cr&#xED;ticos de Control (HACCP) en Establecimientos de Alimentos&quot;.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1081567,
+      "fecha": "2015-09-15"
+    }
+  }
+]

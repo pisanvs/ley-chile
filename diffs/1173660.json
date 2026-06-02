@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2022-03-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2024-02-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10317729,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18. Definici&#xF3;n del indicador. Como resultado de las etapas previas, el Indicador de la variaci&#xF3;n del Costo de la Salud (ICSA) se obtendr&#xE1; del promedio ponderado de la variaci&#xF3;n porcentual del costo en prestaciones de salud MLE de las Isapres, ajustado por la variaci&#xF3;n porcentual del costo en prestaciones de salud MLE de Fonasa, y la variaci&#xF3;n porcentual promedio del gasto en SIL en Isapres.</div><div class=\"p\">&nbsp; &nbsp;  Los ponderadores se estimar&#xE1;n con base en la representaci&#xF3;n que tengan el costo en prestaciones y el gasto en SIL sobre el total del costo operacional de Isapres. Es decir:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/145813.jpg\">.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 18.&nbsp; Como resultado de las etapas previas, el<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1200757&amp;idParte=10488257&amp;idVersion=2024-02-03\">Decreto 10 EXENTO, <br>SALUD<br>Art. 1<br>D.O. 03.02.2024</a></span> Indicador de la variaci&#xF3;n del Costo de la Salud (ICSA) se obtendr&#xE1; del promedio ponderado de la variaci&#xF3;n porcentual del costo en prestaciones de salud MLE de las Isapres y la variaci&#xF3;n porcentual promedio del gasto en SIL en Isapres.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Los ponderadores se estimar&#xE1;n con base en la representaci&#xF3;n que tengan el costo en prestaciones y el gasto en SIL sobre el total del costo operacional de las Isapres. Es decir:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/179516.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  En donde:&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/179515.jpg\">.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1200757,
+      "fecha": "2024-02-03"
+    }
+  }
+]

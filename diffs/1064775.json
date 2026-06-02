@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-07-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-08-27",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9491558,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  As&#xED;gnase normas urban&#xED;sticas a los terrenos destinados a vialidad, cuya declaratoria de utilidad p&#xFA;blica caduc&#xF3; el d&#xED;a 13 de febrero de 2014. Esta zonificaci&#xF3;n, se establece mediante la asignaci&#xF3;n de zonas del Plan Regulador Comunal de Santiago, conforme a los planos ilustrativos del Anexo 2 de la Memoria Explicativa que lo complementa, seg&#xFA;n se detalla a continuaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  As&#xED;gnase normas <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> urban&#xED;sticas a los terrenos destinados a vialidad, cuya declaratoria de utilidad p&#xFA;blica caduc&#xF3; el d&#xED;a 13 de febrero de 2014. Esta zonificaci&#xF3;n, se establece mediante la asignaci&#xF3;n de zonas del Plan Regulador Comunal de Santiago, conforme a los planos ilustrativos del Anexo 2 de la Memoria Explicativa que lo complementa, seg&#xFA;n se detalla a continuaci&#xF3;n.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los numerales del 1 al 13, del Decreto 1920, M. de Santiago, publicado el 27.08.2014, modifica la presente norma en el sentido de rectificar normas urban&#xED;sticas a terrenos que indica, cuya declaratoria de utilidad p&#xFA;blica caduc&#xF3; en fecha que se&#xF1;ala de la manera que la indicada norma se&#xF1;ala.</div></div>"
+        }
+      ]
+    }
+  }
+]

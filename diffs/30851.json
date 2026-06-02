@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1996-12-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-07-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8218531,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &quot;Art&#xED;culo 1&#xB0;.- A contar del a&#xF1;o tributario 1994 y por el t&#xE9;rmino de los cinco a&#xF1;os tributarios siguientes, las personas naturales que desarrollen la actividad de pescador artesanal con matr&#xED;cula vigente y que no operen embarcaciones, quedar&#xE1;n exentas del pago de impuesto a la renta de la primera categor&#xED;a y global complementario sobre las utilidades que obtengan en el ejercicio de esta actividad, siempre que la realicen directa y personalmente.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0;.- A contar del a&#xF1;o tributario 1994 y por el t&#xE9;rmino de los cinco a&#xF1;os tributarios siguientes, las personas naturales que desarrollen la actividad de pescador artesanal inscrito en el Registro Nacional de<span class=\"n\" id=\"n_0\">LEY 19506<br>Art. 16<br>D.O. 30.07.1997</span> Pescadores Artesanales establecido en la Ley General de Pesca y Acuicultura y que no operen embarcaciones, quedar&#xE1;n exentas del pago de impuesto a la renta de la primera categor&#xED;a y global complementario sobre las utilidades que obtengan en el ejercicio de esta actividad, siempre que la realicen directa y personalmente. </div></div>"
+        }
+      ]
+    }
+  }
+]

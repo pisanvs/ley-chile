@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-03-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-03-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10004472,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase, en el marco del proyecto experimental solicitado por Gasco GLP S.A., la circulaci&#xF3;n en la Regi&#xF3;n de Coquimbo, de un tracto-cami&#xF3;n, convertido a combustible dual fuel/GLP, cuyos datos identificatorios son los siguientes:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/90290.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- La autorizaci&#xF3;n otorgada tendr&#xE1; una duraci&#xF3;n de un a&#xF1;o a contar de la fecha de su publicaci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  3.- El responsable del citado proyecto experimental, Gasco GLP S.A., deber&#xE1;, al menos, enviar al Centro y a la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones, Regi&#xF3;n de Coquimbo, informes de resultados al completarse la mitad del per&#xED;odo de autorizaci&#xF3;n y al finalizar el mismo, sin perjuicio de los otros controles de seguimiento que le pueda se&#xF1;alar el referido Centro.</div><div class=\"p\">&nbsp; &nbsp;  4.- El responsable del proyecto, al t&#xE9;rmino de la vigencia de la presente autorizaci&#xF3;n, deber&#xE1; retirar del veh&#xED;culo antes se&#xF1;alado, el kit de conversi&#xF3;n, informando a la Secretar&#xED;a Regional y al Centro de la forma y condiciones en que ello tendr&#xE1; lugar.</div><div class=\"p\">&nbsp; &nbsp;  5.- Of&#xED;ciese en su oportunidad al Servicio de Impuestos Internos, de conformidad a la letra c) del numeral 11 de la resoluci&#xF3;n N&#xBA; 65/2000, del Ministerio de Transportes y Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  6.- La presente resoluci&#xF3;n deber&#xE1; ser publicada en el Diario Oficial con cargo al solicitante.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1.- Autor&#xED;zase, en el marco del proyecto experimental solicitado por Gasco GLP S.A., la circulaci&#xF3;n en la Regi&#xF3;n de Coquimbo, de un tracto-cami&#xF3;n, convertido a combustible dual fuel/GLP, cuyos datos identificatorios son los siguientes:</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/90290.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2.- La autorizaci&#xF3;n otorgada tendr&#xE1; una duraci&#xF3;n de un a&#xF1;o<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> a contar de la fecha de su publicaci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  3.- El responsable del citado proyecto experimental, Gasco GLP S.A., deber&#xE1;, al menos, enviar al Centro y a la Secretar&#xED;a Regional Ministerial de Transportes y Telecomunicaciones, Regi&#xF3;n de Coquimbo, informes de resultados al completarse la mitad del per&#xED;odo de autorizaci&#xF3;n y al finalizar el mismo, sin perjuicio de los otros controles de seguimiento que le pueda se&#xF1;alar el referido Centro.</div><div class=\"p\">&nbsp; &nbsp;  4.- El responsable del proyecto, al t&#xE9;rmino de la vigencia de la presente autorizaci&#xF3;n, deber&#xE1; retirar del veh&#xED;culo antes se&#xF1;alado, el kit de conversi&#xF3;n, informando a la Secretar&#xED;a Regional y al Centro de la forma y condiciones en que ello tendr&#xE1; lugar.</div><div class=\"p\">&nbsp; &nbsp;  5.- Of&#xED;ciese en su oportunidad al Servicio de Impuestos Internos, de conformidad a la letra c) del numeral 11 de la resoluci&#xF3;n N&#xBA; 65/2000, del Ministerio de Transportes y Telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  6.- La presente resoluci&#xF3;n deber&#xE1; ser publicada en el Diario Oficial con cargo al solicitante.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 118 Exenta, Transportes, publicada el 05.03.2020, dispone porrogar en un (1) a&#xF1;o, es decir, hasta el 4 de marzo de 2021, la circulaci&#xF3;n en la Regi&#xF3;n de Coquimbo, del tracto cami&#xF3;n cuyos datos identificatorios se encuentran se&#xF1;alados en el resuelvo 1 de la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

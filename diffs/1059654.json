@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-02-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-04-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9408602,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Complem&#xE9;ntese el <a href=\"https://www.leychile.cl/Navegar?idNorma=245258&amp;idParte=&amp;idVersion=\">decreto exento N&#xBA; 70, de fecha 7 de noviembre de 2005</a>.</div><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cese un cuarto orden de subrogancia del cargo de Director del Servicio de Salud Magallanes a:</div><br><div class=\"p\">&nbsp; &nbsp;  D. Mar&#xED;a Cristina D&#xED;az Mu&#xF1;oz.</div><div class=\"p\">&nbsp; &nbsp;  Rut: 6.643.518-0.</div><div class=\"p\">&nbsp; &nbsp;  Subdirectora M&#xE9;dica del Servicio de Salud Magallanes.</div><div class=\"p\">&nbsp; &nbsp;  Calidad Jur&#xED;dica: Titular 33 horas.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Complem&#xE9;ntese el decreto exento N&#xBA; 70, de fecha 7 de noviembre de 2005.</div><div class=\"p\">&nbsp; &nbsp;  Establ&#xE9;cese un cuarto orden de subrogancia<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> del cargo de Director del Servicio de Salud Magallanes a:</div><div class=\"p\">&nbsp; &nbsp;  D. Mar&#xED;a Cristina D&#xED;az Mu&#xF1;oz.</div><div class=\"p\">&nbsp; &nbsp;  Rut: 6.643.518-0.</div><div class=\"p\">&nbsp; &nbsp;  Subdirectora M&#xE9;dica del Servicio de Salud Magallanes.</div><div class=\"p\">&nbsp; &nbsp;  Calidad Jur&#xED;dica: Titular 33 horas.</div><div class=\"p\">&nbsp; </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 2 del Decreto 184 Exento, Salud, publicado el 17.04.2014, modifica la presente norma, en el sentido de complementar el nombramiento en el cuarto orden de subrogancia del Servicio de Salud Magallanes de D. Mar&#xED;a Cristina D&#xED;az Mu&#xF1;oz, estableci&#xE9;ndose la calidad jur&#xED;dica titular de 33 horas y 11 horas contratada.</div></div>"
+        }
+      ]
+    }
+  }
+]

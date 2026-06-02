@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2004-09-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2006-07-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6497361,
+          "old": "<div><div class=\"p\">DEROGA DECRETO N&#xBA; 122, DE 2003, Y FIJA ORDEN DE SUBROGACION PARA VICEPRESIDENTE EJECUTIVO DE LA CORPORACION DE FOMENTO DE LA PRODUCCION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 219.- Santiago, 25 de agosto de 2004.- Visto: La facultad que me confiere la letra a) del art&#xED;culo 75 del Estatuto Administrativo aprobado por ley N&#xBA; 18.834 y lo solicitado por oficio N&#xBA; 5.954, de 2004, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br></div>",
+          "new": "<div><div class=\"p\">DEROGA DECRETO N&#xBA; 122, DE 2003, Y FIJA ORDEN DE SUBROGACION PARA VICEPRESIDENTE EJECUTIVO DE LA CORPORACION DE FOMENTO DE LA PRODUCCION</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 219.- Santiago, 25 de agosto de 2004.- Visto: La facultad que me confiere la letra a) del art&#xED;culo 75 del Estatuto Administrativo aprobado por ley N&#xBA; 18.834 y lo solicitado por oficio N&#xBA; 5.954, de 2004, de la Corporaci&#xF3;n de Fomento de la Producci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Decreto:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

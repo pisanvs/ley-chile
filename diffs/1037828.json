@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2012-03-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-06-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9241491,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Canc&#xE9;lanse, a contar de la publicaci&#xF3;n de esta resoluci&#xF3;n en el Diario Oficial, los registros sanitarios que se mencionan a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/24869.jpg\"> </div><br><div class=\"p\">&nbsp; &nbsp;  2.- Disp&#xF3;nese que a partir de la fecha de la publicaci&#xF3;n de esta resoluci&#xF3;n en el Diario Oficial, los titulares de los registros sanitarios de productos farmac&#xE9;uticos que contengan el principio activo lindano, deber&#xE1;n inmediatamente retirar sus productos del mercado y dentro del plazo de 30 d&#xED;as corridos desde esa fecha, comunicar los saldos de sus existencias al Departamento Agencia Nacional de Medicamentos del Instituto de Salud P&#xFA;blica de Chile.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Canc&#xE9;lanse, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1040981&amp;idParte=9266555&amp;idVersion=2012-06-14\">Resoluci&#xF3;n 1361 EXENTA, SALUD<br>N&#xBA; 1<br>D.O. 14.06.2012</a></span>a contar de la publicaci&#xF3;n de esta resoluci&#xF3;n en el Diario Oficial, los registros sanitarios que se mencionan a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/26623.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  2.- Disp&#xF3;nese que a partir de la fecha de la publicaci&#xF3;n de esta resoluci&#xF3;n en el Diario Oficial, los titulares de los registros sanitarios de productos farmac&#xE9;uticos que contengan el principio activo lindano, deber&#xE1;n inmediatamente retirar sus productos del mercado y dentro del plazo de 30 d&#xED;as corridos desde esa fecha, comunicar los saldos de sus existencias al Departamento Agencia Nacional de Medicamentos del Instituto de Salud P&#xFA;blica de Chile.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1040981,
+      "fecha": "2012-06-14"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-09-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-07-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9639220,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: La Norma T&#xE9;cnica de Conexi&#xF3;n y Operaci&#xF3;n de Peque&#xF1;os Medios de Generaci&#xF3;n Distribuidos en Instalaciones de Media Tensi&#xF3;n deber&#xE1; estar disponible a m&#xE1;s tardar el siguiente d&#xED;a h&#xE1;bil despu&#xE9;s de publicada la correspondiente resoluci&#xF3;n exenta de la Comisi&#xF3;n Nacional de Energ&#xED;a, en forma permanente y gratuita para todos los interesados, en formato ACROBAT (*.pdf), en el sitio web de la Comisi&#xF3;n Nacional de Energ&#xED;a, www.cne.cl.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: La Norma <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>T&#xE9;cnica de Conexi&#xF3;n y Operaci&#xF3;n de Peque&#xF1;os Medios de Generaci&#xF3;n Distribuidos en Instalaciones de Media Tensi&#xF3;n deber&#xE1; estar disponible a m&#xE1;s tardar el siguiente d&#xED;a h&#xE1;bil despu&#xE9;s de publicada la correspondiente resoluci&#xF3;n exenta de la Comisi&#xF3;n Nacional de Energ&#xED;a, en forma permanente y gratuita para todos los interesados, en formato ACROBAT (*.pdf), en el sitio web de la Comisi&#xF3;n Nacional de Energ&#xED;a, www.cne.cl.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp;  El Art&#xED;culo Primero de la Resoluci&#xF3;n 537 Exenta, Energ&#xED;a, publicada el 18.07.2016, modifica la presente norma, cuyo texto de la Norma T&#xE9;cnica de Conexi&#xF3;n y Operaci&#xF3;n de Peque&#xF1;os Medios de Generaci&#xF3;n Distribuidos en Instalaciones de Media Tensi&#xF3;n fue publicado, seg&#xFA;n lo se&#xF1;alado en la presente norma,&nbsp; en el sitio web de la Comisi&#xF3;n Nacional de Energ&#xED;a (www.cne.cl), por lo que no se ha podido construir su texto actualizado.</div></div>"
+        }
+      ]
+    }
+  }
+]

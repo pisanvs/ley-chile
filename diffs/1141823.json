@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2020-01-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-02-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10104488,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  CONTRALOR&#xCD;A GENERAL DE LA <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1142881&amp;idParte=10104292&amp;idVersion=2020-02-28\">Aviso S/N<br>D.O. 28.02.2020</a></span>REP&#xDA;BLICA</div><div class=\"p\">&nbsp; &nbsp;  Departamento de Previsi&#xF3;n Social y Personal</div><div class=\"p\">&nbsp; &nbsp;  &#xC1;rea Jur&#xED;dica</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Cursa con alcance el decreto N&#xBA; 423, de 2019, del Ministerio de Hacienda</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  N&#xBA; 2.086.- Santiago, 23 de enero de 2020.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Esta Contralor&#xED;a General procede a tomar raz&#xF3;n del decreto N&#xBA; 423, de 2019, del Ministerio de Hacienda, mediante el cual se designa al se&#xF1;or Fernando Ortiz Alvarado, como abogado integrante, en calidad de suplente del Tribunal de Contrataci&#xF3;n P&#xFA;blica, en el entendido que tal designaci&#xF3;n es como juez suplente de ese tribunal.</div><div class=\"p\">&nbsp; &nbsp;  No obstante lo anterior, cumple con hacer presente, acorde con lo indicado en el art&#xED;culo 261 del C&#xF3;digo Org&#xE1;nico de Tribunales, en relaci&#xF3;n con el art&#xED;culo 86, inciso segundo, de la ley N&#xBA; 18.834, que al asumir el se&#xF1;or Ortiz Alvarado el cargo de juez suplente, cesar&#xE1;, por el solo ministerio de la ley, en el empleo a contrata que desempe&#xF1;a en el Servicio de Salud Metropolitano Oriente.</div><div class=\"p\">&nbsp; &nbsp;  Copia de este oficio se remite a ese Servicio de Salud para los fines que correspondan.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Saluda atentamente a Ud., Jorge Berm&#xFA;dez Soto, Contralor General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Al se&#xF1;or</div><div class=\"p\">&nbsp; &nbsp;  Ministro de Hacienda</div><div class=\"p\">&nbsp; &nbsp;  Presente.</div><br><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1142881,
+      "fecha": "2020-02-28"
+    }
+  },
+  {
+    "fecha": "2020-09-16",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

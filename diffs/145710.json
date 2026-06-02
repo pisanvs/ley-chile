@@ -1,0 +1,138 @@
+[
+  {
+    "fecha": "1964-09-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1964-11-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9091669,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.o- Los jubilados que no sean miembros de alguna asociaci&#xF3;n de jubilados con personalidad jur&#xED;dica, designar&#xE1;n los nombres de las personas que deben integrar las respectivas ternas, mediante elecciones que ser&#xE1;n convocadas por el Jefe Superior de la Instituci&#xF3;n de Previsi&#xF3;n Social correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  La convocatoria se efectuar&#xE1; con una anticipaci&#xF3;n no inferior a sesenta d&#xED;as ni superior a los noventa d&#xED;as anteriores a la fecha de expiraci&#xF3;n del mandato de los Consejeros del ejercicio precedente, mediante la inserci&#xF3;n de un aviso en el que se exprese el d&#xED;a y las horas de la votaci&#xF3;n, en un diario de la provincia de Santiago, y, adem&#xE1;s, en un diario que se publique en la ciudad en que la respectiva Instituci&#xF3;n tenga su sede principal y/o sus agencias. Este aviso deber&#xE1; publicarse durante un per&#xED;odo no inferior a tres d&#xED;as y con no menos de quince d&#xED;as de anticipaci&#xF3;n a la fecha de la votaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.o- Los jubilados que no sean miembros de alguna asociaci&#xF3;n de jubilados con personalidad jur&#xED;dica, designar&#xE1;n los nombres de las personas que deben integrar las respectivas ternas, mediante elecciones que ser&#xE1;n convocadas por el Jefe Superior de la Instituci&#xF3;n de Previsi&#xF3;n Social correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  La convocatoria se efectuar&#xE1; con una anticipaci&#xF3;n no inferior a sesenta d&#xED;as ni superior a los noventa d&#xED;as anteriores a la fecha de expiraci&#xF3;n del mandato de los Consejeros del ejercicio precedente, mediante la inserci&#xF3;n de un aviso en el que se exprese el d&#xED;a y las horas de la votaci&#xF3;n, en un diario de la provincia de Santiago, y, adem&#xE1;s, en un diario que se publique en la<span class=\"n\" id=\"n_0\">DTO 595, TRABAJO<br>N&#xBA; 2<br>D.O. 27.11.1964</span> capital de cada provincia en que la respectiva Instituci&#xF3;n tenga su sede principal y/o sus agencias.</div><div class=\"p\">Este aviso deber&#xE1; publicarse durante un per&#xED;odo no inferior a tres d&#xED;as y con no menos de quince d&#xED;as de anticipaci&#xF3;n a la fecha de la votaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 9091687,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Dentro del plazo de noventa d&#xED;as contados desde la publicaci&#xF3;n de este Reglamento en el &quot;Diario Oficial&quot;, se har&#xE1; la primera elecci&#xF3;n para la designaci&#xF3;n de Consejeros a que se refiere este Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Dentro de dicho plazo, el Jefe Superior de la respectiva Instituci&#xF3;n de Previsi&#xF3;n Social convocar&#xE1; a la elecci&#xF3;n a que se refieren los art&#xED;culos 6.o y siguientes.</div><div class=\"p\">&nbsp; &nbsp;  Las asociaciones de jubilados de las respectivas Instituciones de Previsi&#xF3;n presentar&#xE1;n sus ternas dentro de los treinta d&#xED;as siguientes al requerimiento que les haga el Ministerio del Trabajo y Previsi&#xF3;n Social.</div><div class=\"p\">&nbsp; &nbsp;  Los Consejeros que se designen en conformidad a este art&#xED;culo durar&#xE1;n en funciones hasta la fecha de expiraci&#xF3;n del respectivo Consejo de Administraci&#xF3;n o de la primera renovaci&#xF3;n parcial del mismo. No obstante, si esta expiraci&#xF3;n o renovaci&#xF3;n debiere efectuarse antes de cumplido un a&#xF1;o de la designaci&#xF3;n, los Consejeros representantes de los jubilados mantendr&#xE1;n su mandato por el nuevo per&#xED;odo legal.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Dentro del plazo de ciento<span class=\"n\" id=\"n_1\">DTO 595, TRABAJO<br>N&#xBA; 3<br>D.O. 27.11.1964</span> veinte d&#xED;as contados desde la publicaci&#xF3;n de este Reglamento en el &quot;Diario Oficial&quot;, se har&#xE1; la primera elecci&#xF3;n para la designaci&#xF3;n de Consejeros a que se refiere este Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Dentro de dicho plazo, el Jefe Superior de la respectiva Instituci&#xF3;n de Previsi&#xF3;n Social convocar&#xE1; a la elecci&#xF3;n a que se refieren los art&#xED;culos 6.o y siguientes.</div><div class=\"p\">&nbsp; &nbsp;  Las asociaciones de jubilados de las respectivas Instituciones de Previsi&#xF3;n presentar&#xE1;n sus ternas dentro de los treinta d&#xED;as siguientes al requerimiento a que se<span class=\"n\" id=\"n_2\">DTO 595, TRABAJO<br>N&#xBA; 4<br>D.O. 27.11.1964</span> refiere el inciso segundo del art&#xED;culo 5.&#xBA;.</div><div class=\"p\">&nbsp; &nbsp;  Los Consejeros que se designen en conformidad a este art&#xED;culo durar&#xE1;n en funciones hasta la fecha de expiraci&#xF3;n del respectivo Consejo de Administraci&#xF3;n o de la primera renovaci&#xF3;n parcial del mismo. No obstante, si esta expiraci&#xF3;n o renovaci&#xF3;n debiere efectuarse antes de cumplido un a&#xF1;o de la designaci&#xF3;n, los Consejeros representantes de los jubilados mantendr&#xE1;n su mandato por el nuevo per&#xED;odo legal.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1965-02-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9091689,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio. - Respecto de la Caja de<span class=\"n\" id=\"n_4\">DTO 37, TRABAJO<br>N&#xBA; 2<br>D.O. 09.02.1965</span> Retiros y Previsi&#xF3;n Social de los Ferrocarriles del Estado, el plazo se&#xF1;alado en el art&#xED;culo transitorio anterior se entender&#xE1; prorrogado por noventa d&#xED;as, contados desde la publicaci&#xF3;n de este decreto en el &quot;Diario Oficial&quot;.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9091668,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5.o- Para los efectos de la designaci&#xF3;n de dichos Consejeros, cada asociaci&#xF3;n de jubilados con personalidad jur&#xED;dica, cuyos miembros tengan la calidad de pensionados de las respectivas Cajas de Previsi&#xF3;n Social, enviar&#xE1; al Presidente de la Rep&#xFA;blica, por intermedio del Ministerio del Trabajo y Previsi&#xF3;n Social, una terna por cada uno de los cargos que corresponda llenar, con los nombres de las personas que se proponen. No podr&#xE1; figurar una misma persona en m&#xE1;s de una terna. En los casos en que existan, respecto de la misma Instituci&#xF3;n de Previsi&#xF3;n, dos o m&#xE1;s asociaciones de jubilados con personalidad jur&#xED;dica, cada una de ellas tendr&#xE1; derecho a presentar separadamente las ternas a que se refiere el inciso precedente.</div><div class=\"p\">&nbsp; &nbsp;  Estas ternas deber&#xE1;n enviarse por las respectivas Asociaciones con personalidad jur&#xED;dica, dentro de los sesenta d&#xED;as siguientes en que, para tal efecto, sean requeridas por el Ministerio del Trabajo y Previsi&#xF3;n Social. El requerimiento se practicar&#xE1; por medio de avisos que se publicar&#xE1;n en los lugares que se&#xF1;ala el inciso 2.o del art&#xED;culo 6.o.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5.o- Para los efectos de la designaci&#xF3;n de dichos Consejeros, cada asociaci&#xF3;n de jubilados con personalidad jur&#xED;dica, cuyos miembros tengan la calidad de pensionados de las respectivas Cajas de Previsi&#xF3;n Social, enviar&#xE1; al Presidente de la Rep&#xFA;blica, por intermedio del Ministerio del Trabajo y Previsi&#xF3;n Social, una terna por cada uno de los cargos que corresponda llenar, con los nombres de las personas que se proponen. No podr&#xE1; figurar una misma persona en m&#xE1;s de una terna. En los casos en que existan, respecto de la misma Instituci&#xF3;n de Previsi&#xF3;n, dos o m&#xE1;s asociaciones de jubilados con personalidad jur&#xED;dica, cada una de ellas tendr&#xE1; derecho a presentar separadamente las ternas a que se refiere el inciso precedente.</div><div class=\"p\">&nbsp; &nbsp;  Estas ternas deber&#xE1;n enviarse por las respectivas Asociaciones con personalidad jur&#xED;dica, dentro de los sesenta d&#xED;as siguientes en que, para tal efecto, sean requeridas por el Ministerio del Trabajo y Previsi&#xF3;n Social. El requerimiento se practicar&#xE1; por medio de avisos que se publicar&#xE1;n, por las respectivas<span class=\"n\" id=\"n_0\">DTO 595, TRABAJO<br>N&#xBA; 1<br>D.O. 27.11.1964<br>DTO 37, TRABAJO<br>N&#xBA; 1<br>D.O. 09.02.1965</span> instituciones de previsi&#xF3;n, en los lugares que se&#xF1;ala el inciso 2.o del art&#xED;culo 6.o.</div><div class=\"p\">&nbsp; &nbsp;  Las ternas para la designaci&#xF3;n de Consejero en la Caja de Retiros y Previsi&#xF3;n Social de los Ferrocarriles del Estado las presentar&#xE1;n las asociaciones con personalidad jur&#xED;dica formadas por sus jubilados y de los que lo sean de la Empresa de Ferrocarriles del Estado. Los jubilados de estas instituciones que no pertenezcan a alguna asociaci&#xF3;n de jubilados con personalidad jur&#xED;dica formar&#xE1;n sus ternas en conformidad al art&#xED;culo siguiente.</div><br></div>"
+        },
+        {
+          "part_id": 9091669,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.o- Los jubilados que no sean miembros de alguna asociaci&#xF3;n de jubilados con personalidad jur&#xED;dica, designar&#xE1;n los nombres de las personas que deben integrar las respectivas ternas, mediante elecciones que ser&#xE1;n convocadas por el Jefe Superior de la Instituci&#xF3;n de Previsi&#xF3;n Social correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  La convocatoria se efectuar&#xE1; con una anticipaci&#xF3;n no inferior a sesenta d&#xED;as ni superior a los noventa d&#xED;as anteriores a la fecha de expiraci&#xF3;n del mandato de los Consejeros del ejercicio precedente, mediante la inserci&#xF3;n de un aviso en el que se exprese el d&#xED;a y las horas de la votaci&#xF3;n, en un diario de la provincia de Santiago, y, adem&#xE1;s, en un diario que se publique en la<span class=\"n\" id=\"n_0\">DTO 595, TRABAJO<br>N&#xBA; 2<br>D.O. 27.11.1964</span> capital de cada provincia en que la respectiva Instituci&#xF3;n tenga su sede principal y/o sus agencias.</div><div class=\"p\">Este aviso deber&#xE1; publicarse durante un per&#xED;odo no inferior a tres d&#xED;as y con no menos de quince d&#xED;as de anticipaci&#xF3;n a la fecha de la votaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6.o- Los jubilados que no sean miembros de alguna asociaci&#xF3;n de jubilados con personalidad jur&#xED;dica, designar&#xE1;n los nombres de las personas que deben integrar las respectivas ternas, mediante elecciones que ser&#xE1;n convocadas por el Jefe Superior de la Instituci&#xF3;n de Previsi&#xF3;n Social correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  La convocatoria se efectuar&#xE1; con una anticipaci&#xF3;n no inferior a sesenta d&#xED;as ni superior a los noventa d&#xED;as anteriores a la fecha de expiraci&#xF3;n del mandato de los Consejeros del ejercicio precedente, mediante la inserci&#xF3;n de un aviso en el que se exprese el d&#xED;a y las horas de la votaci&#xF3;n, en un diario de la provincia de Santiago, y, adem&#xE1;s, en un diario que se publique en la<span class=\"n\" id=\"n_1\">DTO 595, TRABAJO<br>N&#xBA; 2<br>D.O. 27.11.1964</span> capital de cada provincia en que la respectiva Instituci&#xF3;n tenga su sede principal y/o sus agencias.</div><div class=\"p\">Este aviso deber&#xE1; publicarse durante un per&#xED;odo no inferior a tres d&#xED;as y con no menos de quince d&#xED;as de anticipaci&#xF3;n a la fecha de la votaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 9091687,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Dentro del plazo de ciento<span class=\"n\" id=\"n_1\">DTO 595, TRABAJO<br>N&#xBA; 3<br>D.O. 27.11.1964</span> veinte d&#xED;as contados desde la publicaci&#xF3;n de este Reglamento en el &quot;Diario Oficial&quot;, se har&#xE1; la primera elecci&#xF3;n para la designaci&#xF3;n de Consejeros a que se refiere este Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Dentro de dicho plazo, el Jefe Superior de la respectiva Instituci&#xF3;n de Previsi&#xF3;n Social convocar&#xE1; a la elecci&#xF3;n a que se refieren los art&#xED;culos 6.o y siguientes.</div><div class=\"p\">&nbsp; &nbsp;  Las asociaciones de jubilados de las respectivas Instituciones de Previsi&#xF3;n presentar&#xE1;n sus ternas dentro de los treinta d&#xED;as siguientes al requerimiento a que se<span class=\"n\" id=\"n_2\">DTO 595, TRABAJO<br>N&#xBA; 4<br>D.O. 27.11.1964</span> refiere el inciso segundo del art&#xED;culo 5.&#xBA;.</div><div class=\"p\">&nbsp; &nbsp;  Los Consejeros que se designen en conformidad a este art&#xED;culo durar&#xE1;n en funciones hasta la fecha de expiraci&#xF3;n del respectivo Consejo de Administraci&#xF3;n o de la primera renovaci&#xF3;n parcial del mismo. No obstante, si esta expiraci&#xF3;n o renovaci&#xF3;n debiere efectuarse antes de cumplido un a&#xF1;o de la designaci&#xF3;n, los Consejeros representantes de los jubilados mantendr&#xE1;n su mandato por el nuevo per&#xED;odo legal.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio.- Dentro del plazo de ciento<span class=\"n\" id=\"n_2\">DTO 595, TRABAJO<br>N&#xBA; 3<br>D.O. 27.11.1964</span> veinte d&#xED;as contados desde la publicaci&#xF3;n de este Reglamento en el &quot;Diario Oficial&quot;, se har&#xE1; la primera elecci&#xF3;n para la designaci&#xF3;n de Consejeros a que se refiere este Reglamento.</div><div class=\"p\">&nbsp; &nbsp;  Dentro de dicho plazo, el Jefe Superior de la respectiva Instituci&#xF3;n de Previsi&#xF3;n Social convocar&#xE1; a la elecci&#xF3;n a que se refieren los art&#xED;culos 6.o y siguientes.</div><div class=\"p\">&nbsp; &nbsp;  Las asociaciones de jubilados de las respectivas Instituciones de Previsi&#xF3;n presentar&#xE1;n sus ternas dentro de los treinta d&#xED;as siguientes al requerimiento a que se<span class=\"n\" id=\"n_3\">DTO 595, TRABAJO<br>N&#xBA; 4<br>D.O. 27.11.1964</span> refiere el inciso segundo del art&#xED;culo 5.&#xBA;.</div><div class=\"p\">&nbsp; &nbsp;  Los Consejeros que se designen en conformidad a este art&#xED;culo durar&#xE1;n en funciones hasta la fecha de expiraci&#xF3;n del respectivo Consejo de Administraci&#xF3;n o de la primera renovaci&#xF3;n parcial del mismo. No obstante, si esta expiraci&#xF3;n o renovaci&#xF3;n debiere efectuarse antes de cumplido un a&#xF1;o de la designaci&#xF3;n, los Consejeros representantes de los jubilados mantendr&#xE1;n su mandato por el nuevo per&#xED;odo legal.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1968-03-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9091690,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio. - Los plazos que establece<span class=\"n\" id=\"n_5\">DTO 75, TRABAJO<br>D.O. 30.03.1968</span> este Reglamento para los efectos de la designaci&#xF3;n de consejeros regir&#xE1;n para la Caja de Retiros y Previsi&#xF3;n Social de los Ferrocarriles del Estado, por esta sola vez, a contar desde la fecha de publicaci&#xF3;n en el Diario Oficial del presente decreto.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1970-09-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9091691,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio. - Los plazos que establece<span class=\"n\" id=\"n_6\">DTO 176, TRABAJO<br>N&#xBA; 1<br>D.O. 08.09.1970</span> este Reglamento para los efectos de la Asignaci&#xF3;n de Consejeros regir&#xE1;n para la Caja de Retiro y Previsi&#xF3;n Social de los Ferrocarriles del Estado, por esta sola<div class=\"n rnp\" id=\"rnp7\"><a href=\"#np7\">NOTA:</a></div> vez, a contar desde la fecha de publicaci&#xF3;n del presente decreto.</div><br><div class=\"np\" id=\"np7\"><a href=\"#rnp7\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 2 del DTO 176, Trabajo, establece que los plazos a que se refiere esta modificaci&#xF3;n regir&#xE1;n a contar desde la fecha de publicaci&#xF3;n de este decreto.<br></div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1971-06-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9091692,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio. - Los plazos que establece<span class=\"n\" id=\"n_8\">DTO 122, TRABAJO<br>N&#xBA; 1<br>D.O. 05.06.1971</span> este Reglamento para los efectos de la designaci&#xF3;n de Consejeros regir&#xE1;n para la Caja de Retiro y Previsi&#xF3;n Social de los Ferrocarriles del Estado y para la Caja<div class=\"n rnp\" id=\"rnp9\"><a href=\"#np9\">NOTA:</a></div> de Previsi&#xF3;n Social de los Obreros Municipales de la Rep&#xFA;blica, por esta sola vez, a contar desde la fecha de publicaci&#xF3;n del presente decreto.</div><br><div class=\"np\" id=\"np9\"><a href=\"#rnp9\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 2 del DTO 122, Trabajo, establece que los plazos a que se refiere esta modificaci&#xF3;n regir&#xE1;n a contar desde la fecha de publicaci&#xF3;n de este decreto.<br></div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1971-10-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9091693,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio. - Dentro de los treinta d&#xED;as<span class=\"n\" id=\"n_10\">DTO 236, TRABAJO<br>N&#xBA; 1<br>D.O. 30.10.1971</span> siguientes a la publicaci&#xF3;n del presente decreto en el Diario Oficial, la Caja Nacional de Empleados P&#xFA;blicos y Periodistas deber&#xE1; efectuar la convocatoria a elecciones<div class=\"n rnp\" id=\"rnp11\"><a href=\"#np11\">NOTA:</a></div> a que se refiere el art&#xED;culo 6&#xBA;, inciso 2&#xBA;, de este Reglamento.</div><br><div class=\"np\" id=\"np11\"><a href=\"#rnp11\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 2 del DTO 236, Trabajo, establece que los plazos a que se refiere esta modificaci&#xF3;n regir&#xE1;n a contar desde la fecha de publicaci&#xF3;n de este decreto.<br></div></div>"
+        },
+        {
+          "part_id": 9091694,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio. - Dentro de los treinta d&#xED;as<span class=\"n\" id=\"n_12\">DTO 237, TRABAJOS<br>N&#xBA; 1<br>D.O. 30.10.1971</span> siguientes a la publicaci&#xF3;n del presente decreto en el Diario Oficial, la Caja de Previsi&#xF3;n de la Marina Mercante Nacional, Secci&#xF3;n Agentes Generales de Aduana,<div class=\"n rnp\" id=\"rnp13\"><a href=\"#np13\">NOTA:</a></div> deber&#xE1; efectuar la convocatoria a elecciones a que se refiere el art&#xED;culo 6&#xBA;, inciso 2&#xBA;, de este Reglamento.</div><br><div class=\"np\" id=\"np13\"><a href=\"#rnp13\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 2 del DTO 237, Trabajo, establece que los plazos a que se refiere esta modificaci&#xF3;n regir&#xE1;n a contar desde la fecha de publicaci&#xF3;n de este decreto.<br></div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1972-06-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9091695,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo transitorio. - Los plazos que establece<span class=\"n\" id=\"n_14\">DTO 107, TRABAJO<br>N&#xBA; 1<br>D.O.10.06.1972</span> este reglamento para los efectos de la designaci&#xF3;n de Consejeros regir&#xE1;n para el Servicio de Seguro Social, por esta sola vez, a contar desde la fecha de publicaci&#xF3;n<div class=\"n rnp\" id=\"rnp15\"><a href=\"#np15\">NOTA:</a></div> del presente decreto.</div><br><div class=\"np\" id=\"np15\"><a href=\"#rnp15\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El N&#xBA; 2 del DTO 107, Trabajo, establece que los plazos a que se refiere esta modificaci&#xF3;n regir&#xE1;n a contar desde la fecha de publicaci&#xF3;n de este decreto.<br></div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

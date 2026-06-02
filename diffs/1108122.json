@@ -1,0 +1,115 @@
+[
+  {
+    "fecha": "2017-09-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-01-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9834495,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse los tramos del desarrollo profesional docente, establecidos en el <a href=\"https://www.leychile.cl/Navegar?idNorma=60439&amp;idParte=9693648&amp;idVersion=\">t&#xED;tulo III</a> del <a href=\"https://www.leychile.cl/Navegar?idNorma=60439&amp;idParte=&amp;idVersion=\">decreto con fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n</a>, a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an en las respectivas dotaciones docentes como Jefes de Administraci&#xF3;n de Educaci&#xF3;n Municipal y Directores de Educaci&#xF3;n Municipal, y que se encuentran individualizados en la n&#xF3;mina adjunta que, a fin de asegurar la confidencialidad de los datos en &#xE9;sta contenida y dar cumplimiento a lo establecido en la ley N&#xB0; 19.628, se encuentra en un documento de formato port&#xE1;til, con firma electr&#xF3;nica avanzada del Jefe del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, en adelante &quot;el Centro&quot;, almacenado en disco compacto que se acompa&#xF1;a, n&#xFA;mero de serie LH3110 JH31 7044 D1, firmado por el Jefe del Centro, el que para todos los efectos legales forma parte integrante de la presente resoluci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse los <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>tramos del desarrollo profesional docente, establecidos en el t&#xED;tulo III del decreto con fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an en las respectivas dotaciones docentes como Jefes de Administraci&#xF3;n de Educaci&#xF3;n Municipal y Directores de Educaci&#xF3;n Municipal, y que se encuentran individualizados en la n&#xF3;mina adjunta que, a fin de asegurar la confidencialidad de los datos en &#xE9;sta contenida y dar cumplimiento a lo establecido en la ley N&#xB0; 19.628, se encuentra en un documento de formato port&#xE1;til, con firma electr&#xF3;nica avanzada del Jefe del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, en adelante &quot;el Centro&quot;, almacenado en disco compacto que se acompa&#xF1;a, n&#xFA;mero de serie LH3110 JH31 7044 D1, firmado por el Jefe del Centro, el que para todos los efectos legales forma parte integrante de la presente resoluci&#xF3;n.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El art&#xED;culo quinto de la Resoluci&#xF3;n 6778 Exenta, Educaci&#xF3;n, publicada el 25.01.2018, modifica la presente norma en el sentido de eliminar del listado de los profesionales de la educaci&#xF3;n, aquellos que se encuentran individualizados en la citada norma.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2018-12-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9834495,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse los <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>tramos del desarrollo profesional docente, establecidos en el t&#xED;tulo III del decreto con fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an en las respectivas dotaciones docentes como Jefes de Administraci&#xF3;n de Educaci&#xF3;n Municipal y Directores de Educaci&#xF3;n Municipal, y que se encuentran individualizados en la n&#xF3;mina adjunta que, a fin de asegurar la confidencialidad de los datos en &#xE9;sta contenida y dar cumplimiento a lo establecido en la ley N&#xB0; 19.628, se encuentra en un documento de formato port&#xE1;til, con firma electr&#xF3;nica avanzada del Jefe del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, en adelante &quot;el Centro&quot;, almacenado en disco compacto que se acompa&#xF1;a, n&#xFA;mero de serie LH3110 JH31 7044 D1, firmado por el Jefe del Centro, el que para todos los efectos legales forma parte integrante de la presente resoluci&#xF3;n.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El art&#xED;culo quinto de la Resoluci&#xF3;n 6778 Exenta, Educaci&#xF3;n, publicada el 25.01.2018, modifica la presente norma en el sentido de eliminar del listado de los profesionales de la educaci&#xF3;n, aquellos que se encuentran individualizados en la citada norma.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse los <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>tramos del desarrollo profesional docente, establecidos en el t&#xED;tulo III del decreto con fuerza de ley N&#xB0; 1, de 1996, del <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>Ministerio de Educaci&#xF3;n, a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an en las respectivas dotaciones docentes como Jefes de Administraci&#xF3;n de Educaci&#xF3;n Municipal y Directores de Educaci&#xF3;n Municipal, y que se encuentran individualizados en la n&#xF3;mina adjunta que, a fin de asegurar la confidencialidad de los datos en &#xE9;sta contenida y dar cumplimiento a lo establecido en la ley N&#xB0; 19.628, se encuentra en un documento de formato port&#xE1;til, con firma electr&#xF3;nica avanzada del Jefe del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, en adelante &quot;el Centro&quot;, almacenado en disco compacto que se acompa&#xF1;a, n&#xFA;mero de serie LH3110 JH31 7044 D1, firmado por el Jefe del Centro, el que para todos los efectos legales forma parte integrante de la presente resoluci&#xF3;n.</div><br><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El art&#xED;culo quinto de la Resoluci&#xF3;n 6778 Exenta, Educaci&#xF3;n, publicada el 25.01.2018, modifica la presente norma en el sentido de eliminar del listado de los profesionales de la educaci&#xF3;n, aquellos que se encuentran individualizados en la citada norma.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; Los numerales 1 y 2 de la Resoluci&#xF3;n 6531 Exenta, Educaci&#xF3;n, publicada el 22.12.2018, modifica el presente articulo en el sentido de incorporar al listado de profesionales de la educaci&#xF3;n, aquellos que se encuentran individualizados en el documento de formato port&#xE1;til, bajo el t&#xED;tulo &quot;Rex5076_Agrega&quot;. Asimismo, dispone eliminar al profesional de la educaci&#xF3;n que se encuentra individualizado en el documento de formato port&#xE1;til, bajo el t&#xED;tulo &quot;Rex5076_Elimina&quot;</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-05-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9834495,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse los <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>tramos del desarrollo profesional docente, establecidos en el t&#xED;tulo III del decreto con fuerza de ley N&#xB0; 1, de 1996, del <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>Ministerio de Educaci&#xF3;n, a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an en las respectivas dotaciones docentes como Jefes de Administraci&#xF3;n de Educaci&#xF3;n Municipal y Directores de Educaci&#xF3;n Municipal, y que se encuentran individualizados en la n&#xF3;mina adjunta que, a fin de asegurar la confidencialidad de los datos en &#xE9;sta contenida y dar cumplimiento a lo establecido en la ley N&#xB0; 19.628, se encuentra en un documento de formato port&#xE1;til, con firma electr&#xF3;nica avanzada del Jefe del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, en adelante &quot;el Centro&quot;, almacenado en disco compacto que se acompa&#xF1;a, n&#xFA;mero de serie LH3110 JH31 7044 D1, firmado por el Jefe del Centro, el que para todos los efectos legales forma parte integrante de la presente resoluci&#xF3;n.</div><br><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp;  El art&#xED;culo quinto de la Resoluci&#xF3;n 6778 Exenta, Educaci&#xF3;n, publicada el 25.01.2018, modifica la presente norma en el sentido de eliminar del listado de los profesionales de la educaci&#xF3;n, aquellos que se encuentran individualizados en la citada norma.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; Los numerales 1 y 2 de la Resoluci&#xF3;n 6531 Exenta, Educaci&#xF3;n, publicada el 22.12.2018, modifica el presente articulo en el sentido de incorporar al listado de profesionales de la educaci&#xF3;n, aquellos que se encuentran individualizados en el documento de formato port&#xE1;til, bajo el t&#xED;tulo &quot;Rex5076_Agrega&quot;. Asimismo, dispone eliminar al profesional de la educaci&#xF3;n que se encuentra individualizado en el documento de formato port&#xE1;til, bajo el t&#xED;tulo &quot;Rex5076_Elimina&quot;</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse los tramos del desarrollo pro<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1131312&amp;idParte=10021666&amp;idVersion=2019-05-09\">Resoluci&#xF3;n 2111 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xFA;nico N&#xB0; 1<br>D.O. 09.05.2019</a></span>fesional docente, establecidos en el T&#xED;tulo III del decreto con fuerza de ley N&#xBA; 1, de 1996, del Ministerio de Educaci&#xF3;n, a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an en las respectivas dotaciones docentes como Jefes de Administraci&#xF3;n de Educaci&#xF3;n Municipal y Directores de Educaci&#xF3;n Municipal, que se encuentran individualizados en el listado contenido en el disco compacto denominado &quot;Actualizaci&#xF3;n Rex. N&#xBA; 5076 - 2017 abril - 2019&quot;, serie C3117JH0216820LH, refrendado mediante la firma electr&#xF3;nica de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, el que forma parte de la presente resoluci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 9834497,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Cust&#xF3;diese el disco compacto que contiene la n&#xF3;mina de los Jefes de Administraci&#xF3;n de Educaci&#xF3;n Municipal y Directores de Educaci&#xF3;n Municipal de que trata el art&#xED;culo primero de la presente resoluci&#xF3;n exenta, n&#xFA;mero de serie LH3110 JH31 7044 D1, por el Jefe del Centro.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Para asegurar la confidenc<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1131312&amp;idParte=10021666&amp;idVersion=2019-05-09\">Resoluci&#xF3;n 2111 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xFA;nico N&#xB0; 2<br>D.O. 09.05.2019</a></span>ialidad de las asignaciones a que se refiere el art&#xED;culo primero de esta resoluci&#xF3;n, y con el objeto de dar cumplimiento a las obligaciones establecidas en la Ley N&#xBA; 19.628, sobre Protecci&#xF3;n de la Vida Privada, se resguardar&#xE1; el disco compacto ya individualizado, mediante la custodia ejercida por el Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas de esta Secretar&#xED;a de Estado.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1131312,
+      "fecha": "2019-05-09"
+    }
+  },
+  {
+    "fecha": "2019-10-03",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9834495,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse los tramos del desarrollo pro<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1131312&amp;idParte=10021666&amp;idVersion=2019-05-09\">Resoluci&#xF3;n 2111 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xFA;nico N&#xB0; 1<br>D.O. 09.05.2019</a></span>fesional docente, establecidos en el T&#xED;tulo III del decreto con fuerza de ley N&#xBA; 1, de 1996, del Ministerio de Educaci&#xF3;n, a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an en las respectivas dotaciones docentes como Jefes de Administraci&#xF3;n de Educaci&#xF3;n Municipal y Directores de Educaci&#xF3;n Municipal, que se encuentran individualizados en el listado contenido en el disco compacto denominado &quot;Actualizaci&#xF3;n Rex. N&#xBA; 5076 - 2017 abril - 2019&quot;, serie C3117JH0216820LH, refrendado mediante la firma electr&#xF3;nica de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, el que forma parte de la presente resoluci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1136997&amp;idParte=10058174&amp;idVersion=2019-10-03\">Resoluci&#xF3;n 4891 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 03.10.2019</a></span>los tramos del desarrollo profesional docente, establecidos en el T&#xED;tulo III del decreto con fuerza de ley N&#xBA; 1, de 1996, del Ministerio de Educaci&#xF3;n, a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an en las respectivas dotaciones docentes como Jefes de Administraci&#xF3;n de Educaci&#xF3;n Municipal y Directores de Educaci&#xF3;n Municipal, que se encuentran individualizados en el listado contenido en el disco compacto denominado &quot;Actualizaci&#xF3;n Rex. N&#xBA; 5076 - 2017 agosto - 2019&quot;, serie CD A3117JH0219190LH, refrendado mediante la firma electr&#xF3;nica de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, el que forma parte de la presente resoluci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2024-02-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9834495,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1136997&amp;idParte=10058174&amp;idVersion=2019-10-03\">Resoluci&#xF3;n 4891 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 03.10.2019</a></span>los tramos del desarrollo profesional docente, establecidos en el T&#xED;tulo III del decreto con fuerza de ley N&#xBA; 1, de 1996, del Ministerio de Educaci&#xF3;n, a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an en las respectivas dotaciones docentes como Jefes de Administraci&#xF3;n de Educaci&#xF3;n Municipal y Directores de Educaci&#xF3;n Municipal, que se encuentran individualizados en el listado contenido en el disco compacto denominado &quot;Actualizaci&#xF3;n Rex. N&#xBA; 5076 - 2017 agosto - 2019&quot;, serie CD A3117JH0219190LH, refrendado mediante la firma electr&#xF3;nica de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, el que forma parte de la presente resoluci&#xF3;n.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1201309&amp;idParte=10490802&amp;idVersion=2024-02-27\">Resoluci&#xF3;n 1772 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 27.02.2024</a></span>t&#xED;culo primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an como director de establecimientos educacionales o como jefe de Departamento de Administraci&#xF3;n de Educaci&#xF3;n Municipal, que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;JefeDAEMyDirectores2016_REX5076_2017.pdf FIRMADO&quot; almacenado en pendrive, caratulado &quot;Directores&quot;, inserto en caja de pl&#xE1;stico con el nombre &quot;Asimilaci&#xF3;n Directores 2016&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1201309,
+      "fecha": "2024-02-27"
+    }
+  },
+  {
+    "fecha": "2025-09-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9834495,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1201309&amp;idParte=10490802&amp;idVersion=2024-02-27\">Resoluci&#xF3;n 1772 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 27.02.2024</a></span>t&#xED;culo primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an como director de establecimientos educacionales o como jefe de Departamento de Administraci&#xF3;n de Educaci&#xF3;n Municipal, que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;JefeDAEMyDirectores2016_REX5076_2017.pdf FIRMADO&quot; almacenado en pendrive, caratulado &quot;Directores&quot;, inserto en caja de pl&#xE1;stico con el nombre &quot;Asimilaci&#xF3;n Directores 2016&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1201309&amp;idParte=10490802&amp;idVersion=2024-02-27\">Resoluci&#xF3;n 1772 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 27.02.2024</a></span>t&#xED;culo primero: <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que se desempe&#xF1;an como director de establecimientos educacionales o como jefe de Departamento de Administraci&#xF3;n de Educaci&#xF3;n Municipal, que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;JefeDAEMyDirectores2016_REX5076_2017.pdf FIRMADO&quot; almacenado en pendrive, caratulado &quot;Directores&quot;, inserto en caja de pl&#xE1;stico con el nombre &quot;Asimilaci&#xF3;n Directores 2016&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 10617 Exenta, Educaci&#xF3;n, publicada el 25.09.2025, actualiza el listado a que se refiere el presente art&#xED;culo por la n&#xF3;mina contenida en el archivo con firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, bajo el nombre del archivo PDF &quot;241105_JefeDAEM_202410 FIRMADA&quot;, almacenado en el pendrive adjunto a la citada resoluci&#xF3;n, caratulado &quot;Modificaci&#xF3;n Rex 5.076/2017 Asimil. Directores2016&quot;, el que se entiende formar parte integrante del mencionado acto administrativo.</div></div>"
+        },
+        {
+          "part_id": 9834497,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Para asegurar la confidenc<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1131312&amp;idParte=10021666&amp;idVersion=2019-05-09\">Resoluci&#xF3;n 2111 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xFA;nico N&#xB0; 2<br>D.O. 09.05.2019</a></span>ialidad de las asignaciones a que se refiere el art&#xED;culo primero de esta resoluci&#xF3;n, y con el objeto de dar cumplimiento a las obligaciones establecidas en la Ley N&#xBA; 19.628, sobre Protecci&#xF3;n de la Vida Privada, se resguardar&#xE1; el disco compacto ya individualizado, mediante la custodia ejercida por el Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas de esta Secretar&#xED;a de Estado.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Para asegurar la confidenc<span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1131312&amp;idParte=10021666&amp;idVersion=2019-05-09\">Resoluci&#xF3;n 2111 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xFA;nico N&#xB0; 2<br>D.O. 09.05.2019</a></span>ialidad de las asignaciones a que se refiere el art&#xED;culo primero de esta resoluci&#xF3;n, y con el objeto de dar cumplimiento a las obligaciones establecidas en la Ley N&#xBA; 19.628, sobre Protecci&#xF3;n de la Vida Privada, se resguardar&#xE1; el disco compacto ya individualizado, mediante la custodia ejercida por el Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas de esta Secretar&#xED;a de Estado.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2022-08-09",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10355083,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;base el programa de expropiaciones para la implementaci&#xF3;n del Proyecto &quot;Ampliaci&#xF3;n Avenida Baquedano, Rancagua&quot;, C&#xF3;digo BIP N&#xBA; 30118748-0, en la comuna de Rancagua, de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, de una superficie de 2.463,136 m2, que corresponde a 31 inmuebles, necesaria para dar cabida a los perfiles viales proyectados, seg&#xFA;n el plano de Ampliaci&#xF3;n Planta Expropiaciones Avenida Baquedano, Proyecto de Febrero de 2022, del Serviu de la Regi&#xF3;n del Libertador Bernardo O&apos;Higgins, a escala 1/500, adjunto a Ord. N&#xBA; 2048 citado; referido a los lotes que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/152292.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/152293.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada de inmuebles a expropiar: 2.463,136 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese el presente decreto en el Diario Oficial y en un peri&#xF3;dico de la provincia de Cachapoal, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;base el programa de expropiaciones para la implementaci&#xF3;n del Proyecto &quot;Ampliaci&#xF3;n Avenida Baquedano, Rancagua&quot;, C&#xF3;digo BIP N&#xBA; 30118748-0, en la comuna de Rancagua, de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, de una superficie de 2.463,136 m2, que corresponde a 31 inmuebles, necesaria para dar cabida a los perfiles viales proyectados, seg&#xFA;n el plano de Ampliaci&#xF3;n Planta Expropiaciones Avenida Baquedano, Proyecto de Febrero de 2022, del Serviu de la Regi&#xF3;n del Libertador Bernardo O&apos;Higgins, a escala 1/500, adjunto a Ord. N&#xBA; 2048 citado; referido a los lotes que se indican a continuaci&#xF3;n<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/152292.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/152293.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada de inmuebles a expropiar: 2.463,136 metros cuadrados.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Publ&#xED;quese el presente decreto en el Diario Oficial y en un peri&#xF3;dico de la provincia de Cachapoal, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Las letras a) y b) del numeral 1&#xB0; del Decreto 48 Exento, Vivienda, publicado el 19.12.2023, modifica y elimina lotes del programa de expropiaci&#xF3;n denominado &quot;Ampliaci&#xF3;n Avenida Baquedano&quot;, de la comuna de Rancagua, Regi&#xF3;n de O&apos;Higgins de la manera de que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

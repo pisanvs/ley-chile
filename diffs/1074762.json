@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2015-02-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9565242,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Respecto de los profesionales funcionarios a que se refieren los art&#xED;culos <a href=\"https://www.leychile.cl/Navegar?idNorma=155848&amp;idParte=8493218&amp;idVersion=\">8&#xBA;</a> y <a href=\"https://www.leychile.cl/Navegar?idNorma=155848&amp;idParte=8493221&amp;idVersion=\">11</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=155848&amp;idParte=&amp;idVersion=\">ley N&#xBA;19.664</a>, que ingresen a programas y becas de perfeccionamiento o especializaci&#xF3;n a contar del 1 de enero de 2015 o en una fecha posterior, no regir&#xE1; la limitaci&#xF3;n relativa a la duraci&#xF3;n de tales programas y becas establecida en el inciso segundo del <a href=\"https://www.leychile.cl/Navegar?idNorma=191879&amp;idParte=8721033&amp;idVersion=\">art&#xED;culo 43</a> del <a href=\"https://www.leychile.cl/Navegar?idNorma=191879&amp;idParte=&amp;idVersion=\">decreto con fuerza de ley N&#xBA; 1, de 2001, del Ministerio de Salud</a>, que fija el texto refundido, coordinado y sistematizado de la ley N&#xBA; 15.076; ni lo dispuesto en el <a href=\"https://www.leychile.cl/Navegar?idNorma=155848&amp;idParte=8493220&amp;idVersion=\">art&#xED;culo 10</a> de la ley N&#xBA; 19.664, respecto de la duraci&#xF3;n m&#xE1;xima de las becas de perfeccionamiento o programas de perfeccionamiento o especializaci&#xF3;n, pudiendo autorizarse becas o programas de hasta cuatro a&#xF1;os de duraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n del Subsecretario de Redes Asistenciales, que adem&#xE1;s deber&#xE1; ser visada por el Director de Presupuestos, se indicar&#xE1; anualmente las especialidades a las que se aplicar&#xE1; lo dispuesto en el inciso anterior.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xBA;.- Respecto de los profesionales funcionarios a que se refieren los art&#xED;culos <a href=\"https://www.leychile.cl/Navegar?idNorma=155848&amp;idParte=8493218&amp;idVersion=\">8&#xBA;</a> y <a href=\"https://www.leychile.cl/Navegar?idNorma=155848&amp;idParte=8493221&amp;idVersion=\">11</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=155848&amp;idParte=&amp;idVersion=\">ley N&#xBA;19.664</a>, que ingresen a programas y becas de perfeccionamiento o especializaci&#xF3;n a contar del 1 de enero de 2015 o en una fecha posterior, no regir&#xE1; la limitaci&#xF3;n relativa a la duraci&#xF3;n de tales programas y becas establecida en el inciso segundo del <a href=\"https://www.leychile.cl/Navegar?idNorma=191879&amp;idParte=8721033&amp;idVersion=\">art&#xED;culo 43</a> del <a href=\"https://www.leychile.cl/Navegar?idNorma=191879&amp;idParte=&amp;idVersion=\">decreto con fuerza de ley N&#xBA; 1, de 2001, del Ministerio de Salud</a>, que fija el texto refundido, coordinado y sistematizado de la ley N&#xBA; 15.076; ni lo dispuesto en el <a href=\"https://www.leychile.cl/Navegar?idNorma=155848&amp;idParte=8493220&amp;idVersion=\">art&#xED;culo 10</a> de la ley N&#xBA; 19.664, respecto de la duraci&#xF3;n m&#xE1;xima de las becas de perfeccionamiento o programas de perfeccionamiento o especializaci&#xF3;n, pudiendo autorizarse becas o programas de hasta cuatro a&#xF1;os de duraci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Lo dispuesto <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1209939&amp;idParte=10530974&amp;idVersion=2025-01-03\">Ley 21724<br>Art. 77<br>D.O. 03.01.2025</a></span>en el inciso anterior tambi&#xE9;n ser&#xE1; aplicable a los becarios que ingresen a programas y becas de perfeccionamiento o especializaci&#xF3;n de acuerdo al reglamento de becarios de la ley N&#xB0; 15.076, en el Sistema Nacional de Servicios de Salud, siempre que se trate de profesionales egresados de la &#xFA;ltima promoci&#xF3;n de las diferentes Facultades de Medicina, Odontolog&#xED;a y de las Ciencias Qu&#xED;micas y Farmac&#xE9;uticas de las universidades del pa&#xED;s, mediante un proceso que se denominar&#xE1; &quot;Concurso de becas para profesionales de la &#xFA;ltima promoci&#xF3;n&quot;.</div><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n del Subsecretario de Redes Asistenciales, que adem&#xE1;s deber&#xE1; ser visada por el Director de Presupuestos, se indicar&#xE1; anualmente las especialidades a las que se aplicar&#xE1; lo dispuesto en el inciso anterior.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1209939,
+      "fecha": "2025-01-03"
+    }
+  }
+]

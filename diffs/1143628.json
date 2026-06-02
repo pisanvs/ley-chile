@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-03-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-09-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10109560,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Des&#xED;gnese como Jefe de la Oficina Regional de Tarapac&#xE1; a don Ariel Sergio Pliscoff Castillo, RUN 15.373.293-0, profesional a contrata, asimilado a grado 6&#xB0; de la planta de personal de la Superintendencia del Medio Ambiente.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; Des&#xED;gnese que durante la ausencia, impedimento o vacancia del cargo de Jefe de la Oficina Regional de Tarapac&#xE1;, la subrogancia ser&#xE1; ejercida por do&#xF1;a Tamara Monserrat Gonz&#xE1;lez Gonz&#xE1;lez, profesional a contrata, asimilado a grado 10&#xB0; de la planta de personal de la Superintendencia del Medio Ambiente.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; As&#xED;gnase funciones directivas a la funcionaria individualizada en el punto resolutivo primero de este acto administrativo, a fin de que ejerza las funciones que corresponden a la Oficina Regional de Tarapac&#xE1;, consignadas en la resoluci&#xF3;n exenta N&#xB0; 424, de 2017, que fija la organizaci&#xF3;n interna de la Superintendencia del Medio Ambiente, as&#xED; como todas aquellas que expresamente le corresponde desarrollar en su calidad de jefatura, de acuerdo a la legislaci&#xF3;n vigente y las dem&#xE1;s que le encomiende o delegue el jefe superior del Servicio.</div><div class=\"p\">&nbsp; &nbsp;  4&#xB0; As&#xED;gnase funciones directivas al funcionario individualizado en el punto resolutivo segundo de este acto administrativo, a fin de que ejerza -cuando corresponda- el cargo de jefe de oficina regional subrogante, en los t&#xE9;rminos precedentemente descritos.</div><div class=\"p\">&nbsp; &nbsp;  5&#xB0; D&#xE9;jese sin efecto las resoluciones exentas N&#xB0; 579, de 2017, y N&#xB0; 487, de 2019.</div><div class=\"p\">&nbsp; &nbsp;  6&#xB0; D&#xE9;jese constancia que, para el aseguramiento de la continuidad del servicio, el presente acto administrativo comenzar&#xE1; a regir de inmediato y de manera previa a su publicaci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Des&#xED;gnese como Jefe de la Oficina Regional de Tarapac&#xE1; a don Ariel Sergio Pliscoff Castillo, RUN 15.373.293-0, profesional a contrata, asimilado a grado 6&#xB0; de la planta de personal de la Superintendencia del Medio Ambiente.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; Dero<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1149853&amp;idParte=10162342&amp;idVersion=2020-09-29\">Resoluci&#xF3;n 1836 EXENTA,<br>MEDIO AMBIENTE<br>N&#xB0; 3<br>D.O. 29.09.2020</a></span>gado .</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; As&#xED;gnase funciones directivas a la funcionaria individualizada en el punto resolutivo primero de este acto administrativo, a fin de que ejerza las funciones que corresponden a la Oficina Regional de Tarapac&#xE1;, consignadas en la resoluci&#xF3;n exenta N&#xB0; 424, de 2017, que fija la organizaci&#xF3;n interna de la Superintendencia del Medio Ambiente, as&#xED; como todas aquellas que expresamente le corresponde desarrollar en su calidad de jefatura, de acuerdo a la legislaci&#xF3;n vigente y las dem&#xE1;s que le encomiende o delegue el jefe superior del Servicio.</div><div class=\"p\">&nbsp; &nbsp;  4&#xB0; As&#xED;gnase funciones directivas al funcionario individualizado en el punto resolutivo segundo de este acto administrativo, a fin de que ejerza -cuando corresponda- el cargo de jefe de oficina regional subrogante, en los t&#xE9;rminos precedentemente descritos.</div><div class=\"p\">&nbsp; &nbsp;  5&#xB0; D&#xE9;jese sin efecto las resoluciones exentas N&#xB0; 579, de 2017, y N&#xB0; 487, de 2019.</div><div class=\"p\">&nbsp; &nbsp;  6&#xB0; D&#xE9;jese constancia que, para el aseguramiento de la continuidad del servicio, el presente acto administrativo comenzar&#xE1; a regir de inmediato y de manera previa a su publicaci&#xF3;n en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1149853,
+      "fecha": "2020-09-29"
+    }
+  }
+]

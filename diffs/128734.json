@@ -1,0 +1,66 @@
+[
+  {
+    "fecha": "1998-12-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-07-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8642557,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; Las bandas de frecuencias destinadas al servicio podr&#xE1;n utilizarse de acuerdo a las opciones que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp; &nbsp; Bandas de frecuencias&nbsp; &nbsp; Sentido de transmisi&#xF3;n</div><br><div class=\"p\">a)&nbsp; &nbsp;  1610-1626,5 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio</div><div class=\"p\">b)&nbsp; &nbsp;  1610-1626,5 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  2483,5-2500 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio</div><br><div class=\"p\">c)&nbsp; &nbsp;  1990-2025 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  2160-2200 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; Las bandas de frecuencias destinadas al servicio podr&#xE1;n utilizarse de acuerdo a las opciones que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp; &nbsp; Bandas de frecuencias&nbsp; &nbsp; Sentido de transmisi&#xF3;n</div><br><div class=\"p\">a)&nbsp; &nbsp;  1610-1626,5 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio</div><div class=\"p\">b)&nbsp; &nbsp;  1610-1626,5 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio<span class=\"n\" id=\"n_0\">RES 1043 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 31.07.1999</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp;  2483,5-2500 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">c)&nbsp; &nbsp;  1990-2025&nbsp;  MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  2160-2200&nbsp;  MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2008-10-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8642557,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; Las bandas de frecuencias destinadas al servicio podr&#xE1;n utilizarse de acuerdo a las opciones que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp; &nbsp; Bandas de frecuencias&nbsp; &nbsp; Sentido de transmisi&#xF3;n</div><br><div class=\"p\">a)&nbsp; &nbsp;  1610-1626,5 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio</div><div class=\"p\">b)&nbsp; &nbsp;  1610-1626,5 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio<span class=\"n\" id=\"n_0\">RES 1043 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 31.07.1999</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp;  2483,5-2500 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">c)&nbsp; &nbsp;  1990-2025&nbsp;  MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  2160-2200&nbsp;  MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; Las bandas de frecuencias destinadas al servicio podr&#xE1;n utilizarse de acuerdo a las opciones que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp; &nbsp; Bandas de frecuencias&nbsp; &nbsp; Sentido de transmisi&#xF3;n</div><br><div class=\"p\">a)&nbsp; &nbsp;  1610-1626,5 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio</div><div class=\"p\">b)&nbsp; &nbsp;  1610-1626,5 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio<span class=\"n\" id=\"n_0\">RES 1043 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 31.07.1999<br>RES 1199 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 22.10.2008</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp;  2483,5-2500 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">c)&nbsp; &nbsp;  1990-2025&nbsp;  MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  2160-2200&nbsp;  MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">d)&nbsp; &nbsp;  1525 - 1559 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  1626,5 - 1660,5 MHz&nbsp; &nbsp; &nbsp; Tierra-espacio</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2008-12-30",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8642556,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; Los sistemas de telecomunicaciones m&#xF3;viles por sat&#xE9;lite destinados a prestar el servicio, se estructurar&#xE1;n en base a tres tipos de elementos: red de sat&#xE9;lites, estaciones terrenas m&#xF3;viles y estaciones terrenas de terminaci&#xF3;n&nbsp; de red.</div><div class=\"p\">&nbsp; &nbsp;  La red de sat&#xE9;lites comprende la respectiva constelaci&#xF3;n de sat&#xE9;lites no geoestacionarios, que giran en torno a la Tierra en uno o varios planos, y las estaciones de telemetr&#xED;a y control orbital.</div><div class=\"p\">&nbsp; &nbsp;  Las estaciones terrenas m&#xF3;viles corresponden a los terminales de abonado, que podr&#xE1;n ser del tipo port&#xE1;til, se comunicar&#xE1;n a trav&#xE9;s de la red de sat&#xE9;lites.</div><div class=\"p\">&nbsp; &nbsp;  Las estaciones terrenas de terminaci&#xF3;n de red tienen la funci&#xF3;n de establecer los enlaces de conexi&#xF3;n de la red de sat&#xE9;lites, con el fin de intercambiar tr&#xE1;fico entre estaciones del servicio y proveer interconexi&#xF3;n con otras redes de servicio p&#xFA;blico de telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  Las estaciones terrenas de terminaci&#xF3;n de red y las de telemetr&#xED;a y control orbital podr&#xE1;n o no estar instaladas en el territorio nacional.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA; Los sistemas de telecomunicaciones m&#xF3;viles por sat&#xE9;lite destinados a prestar el servicio, se estructurar&#xE1;n en base a tres tipos de elementos: red de sat&#xE9;lites, estaciones terrenas m&#xF3;viles y estaciones terrenas de terminaci&#xF3;n&nbsp; de red.</div><div class=\"p\">&nbsp; &nbsp;  La red de sat&#xE9;lites comprende la respectiva constelaci&#xF3;n de sat&#xE9;lites y las estaciones de telemetr&#xED;a<span class=\"n\" id=\"n_0\">RES 1510 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 30.12.2008</span> y control orbital. Las estaciones terrenas m&#xF3;viles corresponden a los terminales de abonado, que podr&#xE1;n ser del tipo port&#xE1;til, se comunicar&#xE1;n a trav&#xE9;s de la red de sat&#xE9;lites.</div><div class=\"p\">&nbsp; &nbsp;  Las estaciones terrenas de terminaci&#xF3;n de red tienen la funci&#xF3;n de establecer los enlaces de conexi&#xF3;n de la red de sat&#xE9;lites, con el fin de intercambiar tr&#xE1;fico entre estaciones del servicio y proveer interconexi&#xF3;n con otras redes de servicio p&#xFA;blico de telecomunicaciones.</div><div class=\"p\">&nbsp; &nbsp;  Las estaciones terrenas de terminaci&#xF3;n de red y las de telemetr&#xED;a y control orbital podr&#xE1;n o no estar instaladas en el territorio nacional.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 8642557,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; Las bandas de frecuencias destinadas al servicio podr&#xE1;n utilizarse de acuerdo a las opciones que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp; &nbsp; Bandas de frecuencias&nbsp; &nbsp; Sentido de transmisi&#xF3;n</div><br><div class=\"p\">a)&nbsp; &nbsp;  1610-1626,5 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio</div><div class=\"p\">b)&nbsp; &nbsp;  1610-1626,5 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio<span class=\"n\" id=\"n_0\">RES 1043 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 31.07.1999<br>RES 1199 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 22.10.2008</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp;  2483,5-2500 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">c)&nbsp; &nbsp;  1990-2025&nbsp;  MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  2160-2200&nbsp;  MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">d)&nbsp; &nbsp;  1525 - 1559 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  1626,5 - 1660,5 MHz&nbsp; &nbsp; &nbsp; Tierra-espacio</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA; Las bandas de frecuencias destinadas al servicio podr&#xE1;n utilizarse de acuerdo a las opciones que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp; &nbsp; Bandas de frecuencias&nbsp; &nbsp; Sentido de transmisi&#xF3;n</div><br><div class=\"p\">a)&nbsp; &nbsp;  1610-1626,5 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio</div><div class=\"p\">b)&nbsp; &nbsp;  1610-1626,5 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio<span class=\"n\" id=\"n_1\">RES 1043 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 31.07.1999<br>RES 1199 EXENTA,<br>TRANSPORTES<br>Art. &#xFA;nico<br>D.O. 22.10.2008</span></div><div class=\"p\">&nbsp; &nbsp; &nbsp;  2483,5-2500 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">c)&nbsp; &nbsp;  1990-2025&nbsp;  MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tierra-espacio</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  2160-2200&nbsp;  MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">d)&nbsp; &nbsp;  1525 - 1559 MHz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; espacio-Tierra</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  1626,5 - 1660,5 MHz&nbsp; &nbsp; &nbsp; Tierra-espacio</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2018-11-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

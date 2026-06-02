@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-10-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-06-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10164995,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Rectif&#xED;quese, la <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=1129414&amp;idVersion=2020-10-07\">resoluci&#xF3;n exenta N&#xB0; 36, de fecha 21 de enero de 2019</a>, de esta autoridad regional, en el recuadro de coordenadas, quedando en forma definitiva de la siguiente manera:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/113838.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Que, en todo lo dem&#xE1;s, no rectificado en la resoluci&#xF3;n exenta N&#xB0; 36 de fecha 21 de enero de 2019 de esta autoridad regional, sigue plenamente vigente.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Rectif&#xED;quese, la resoluci&#xF3;n exenta N&#xB0; 36, de fecha 21 de enero de 2019, de esta autoridad regional, en el recuadro de coordenadas, quedando en forma definitiva de la siguiente manera<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/113838.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Que, en todo lo dem&#xE1;s, no rectificado en la resoluci&#xF3;n exenta N&#xB0; 36 de fecha 21 de enero de 2019 de esta autoridad regional, sigue plenamente vigente.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los numerales 1 y 2 de la Resoluci&#xF3;n 232 Exenta, Agricultura. publicada el 15.06.2021, modifican la presente norma en el sentido de levantar las restricciones cuarentenarias por polilla del racimo de la vid (Lobesia botrana), en el &#xE1;rea reglamentada que incorpor&#xF3; parcialmente la comuna de Copiap&#xF3;, denominada &quot;Los Arrayanes&quot;, Regi&#xF3;n de Atacama, asimismo revoca parcialmente la presente norma en lo que dice relaci&#xF3;n a &#xE1;rea reglamentada para Lobesia botrana.</div></div>"
+        }
+      ]
+    }
+  }
+]

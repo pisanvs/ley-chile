@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2018-02-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-02-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9884626,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase emergencia de plaga Alexandrium Catenella, a contar de la fecha del presente acto administrativo, sin perjuicio de su publicaci&#xF3;n en el Diario Oficial, en la Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo, conforme establece el art&#xED;culo 13 del decreto supremo n&#xFA;mero 345, citado en Vistos.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase emergencia de plaga Alexandrium Catenella, a contar de la fecha del<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> presente acto administrativo, sin perjuicio de su publicaci&#xF3;n en el Diario Oficial, en la Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo, conforme establece el art&#xED;culo 13 del decreto supremo n&#xFA;mero 345, citado en Vistos.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 300 Exenta, Econom&#xED;a, publicada el 22.02.2018, complementa la presente Resoluci&#xF3;n, conforme lo establece el art&#xED;culo 13 del Decreto 345, en el sentido de declarar emergencia de plaga Alexandrium catenella en la X Regi&#xF3;n de Los Lagos, a contar de la fecha del citado acto administrativo, sin perjuicio de la fecha de su publicaci&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2018-03-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9884626,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase emergencia de plaga Alexandrium Catenella, a contar de la fecha del<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div> presente acto administrativo, sin perjuicio de su publicaci&#xF3;n en el Diario Oficial, en la Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo, conforme establece el art&#xED;culo 13 del decreto supremo n&#xFA;mero 345, citado en Vistos.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 300 Exenta, Econom&#xED;a, publicada el 22.02.2018, complementa la presente Resoluci&#xF3;n, conforme lo establece el art&#xED;culo 13 del Decreto 345, en el sentido de declarar emergencia de plaga Alexandrium catenella en la X Regi&#xF3;n de Los Lagos, a contar de la fecha del citado acto administrativo, sin perjuicio de la fecha de su publicaci&#xF3;n.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase emergencia de plaga Alexandrium Catenella, a contar de la fecha del<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> presente acto administrativo, sin perjuicio de su publicaci&#xF3;n en el Diario Oficial, en la Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo, conforme establece el art&#xED;culo 13 del decreto supremo n&#xFA;mero 345, citado en Vistos.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 300 Exenta, Econom&#xED;a, publicada el 22.02.2018, complementa la presente Resoluci&#xF3;n, conforme lo establece el art&#xED;culo 13 del Decreto 345, en el sentido de declarar emergencia de plaga Alexandrium catenella en la X Regi&#xF3;n de Los Lagos, a contar de la fecha del citado acto administrativo, sin perjuicio de la fecha de su publicaci&#xF3;n.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 538 Exenta, Econom&#xED;a, publicada el 08.03.2018, complementa la presente Resoluci&#xF3;n en el sentido de declarar emergencia de toda especie de plaga de las establecidas en la resoluci&#xF3;n exenta n&#xFA;mero 2.198, de 2017, de la Subsecretar&#xED;a de Pesca y Acuicultura y a cualquier otra especie de microalga que pueda tener efectos nocivos en la X Regi&#xF3;n de Los Lagos y XI Regi&#xF3;n de Ays&#xE9;n del General Carlos Ib&#xE1;&#xF1;ez del Campo.</div></div>"
+        }
+      ]
+    }
+  }
+]

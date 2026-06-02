@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2019-12-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-03-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10084998,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Def&#xED;nase y enti&#xE9;ndase el pol&#xED;gono denominado &quot;Sector parque Krahmer&quot; de la comuna y ciudad de Valdivia, por aquel delimitado por los puntos y tramos que se describen a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/101970.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  Siendo el resultado gr&#xE1;fico del pol&#xED;gono denominado &quot;Sector Parque Krahmer&quot; el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/101971.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2. Post&#xE9;rguense, los permisos de subdivisi&#xF3;n, loteo, urbanizaci&#xF3;n predial y de construcciones por un plazo de tres meses, sobre los predios urbanos que se encuentren localizados dentro del &#xE1;rea delimitada por el pol&#xED;gono denominado &quot;Sector Parque Krahmer&quot;, definido en el punto 1 anterior, por encontrarse afecto a estudios sobre modificaciones al Plan Regulador Comunal de Valdivia.</div><div class=\"p\">---------------------------------------------------</div><div class=\"p\">(&#xB9;) Coordenadas UTM Datum 1984.</div><br><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese el presente decreto exento en el Diario Oficial y en uno de los diarios de mayor circulaci&#xF3;n en la comuna, seg&#xFA;n lo establecido por el art&#xED;culo 117&#xBA; de la Ley General de Urbanismo y Construcciones.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Def&#xED;nase y enti&#xE9;ndase el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>pol&#xED;gono denominado &quot;Sector parque Krahmer&quot; de la comuna y ciudad de Valdivia, por aquel delimitado por los puntos y tramos que se describen a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/101970.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  Siendo el resultado gr&#xE1;fico del pol&#xED;gono denominado &quot;Sector Parque Krahmer&quot; el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/101971.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2. Post&#xE9;rguense, los permisos de subdivisi&#xF3;n, loteo, urbanizaci&#xF3;n predial y de construcciones por un plazo de tres meses, sobre los predios urbanos que se encuentren localizados dentro del &#xE1;rea delimitada por el pol&#xED;gono denominado &quot;Sector Parque Krahmer&quot;, definido en el punto 1 anterior, por encontrarse afecto a estudios sobre modificaciones al Plan Regulador Comunal de Valdivia.</div><div class=\"p\">---------------------------------------------------</div><div class=\"p\">(&#xB9;) Coordenadas UTM Datum 1984.</div><br><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese el presente decreto exento en el Diario Oficial y en uno de los diarios de mayor circulaci&#xF3;n en la comuna, seg&#xFA;n lo establecido por el art&#xED;culo 117&#xBA; de la Ley General de Urbanismo y Construcciones.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 82 Exenta, Vivienda, publicada el 18.03.2020, prorroga el plazo de postergaci&#xF3;n de los permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, respecto de las zonas singularizadas en la citada norma por un plazo de 9 meses, o hasta la fecha de entrada en vigencia de la modificaci&#xF3;n del Plan Regulador Comunal de Valdivia en tr&#xE1;mite, en el caso que esto ocurra antes del plazo indicado.</div></div>"
+        }
+      ]
+    }
+  }
+]

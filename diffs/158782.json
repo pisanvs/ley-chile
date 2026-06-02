@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1986-01-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-01-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6242922,
+          "old": "<div><div class=\"p\">NOMBRA MIEMBROS DE LA CUARTA COMISION LEGISLATIVA, A PERSONAS QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1 exenta.- Santiago, 14 de Enero de 1986.- Visto: Lo dispuesto en los art&#xED;culos 5&#xB0;, 7&#xB0; y 12 de la Ley N&#xB0; 17.983,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">NOMBRA MIEMBROS DE LA CUARTA COMISION LEGISLATIVA, A PERSONAS QUE SE&#xD1;ALA</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 1 exenta.- Santiago, 14 de Enero de 1986.- Visto: Lo dispuesto en los art&#xED;culos 5&#xB0;, 7&#xB0; y 12 de la Ley N&#xB0; 17.983,</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

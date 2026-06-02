@@ -1,0 +1,51 @@
+[
+  {
+    "fecha": "2011-09-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-07-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9187236,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Las Consultas se realizar&#xE1;n de manera informada, pluralista y representativa. Las opiniones recogidas ser&#xE1;n evaluadas y ponderadas, inform&#xE1;ndose, de manera general o especifica respecto de los motivos que explican la consideraci&#xF3;n o rechazo.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;: Las <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1147584&amp;idParte=10136513&amp;idVersion=2020-07-17\">Resoluci&#xF3;n 987 EXENTA, <br>TRANSPORTES<br>N&#xB0; 1 <br>D.O. 17.07.2020</a></span>Consultas se realizar&#xE1;n de manera informada, pluralista y representativa. Las opiniones recogidas ser&#xE1;n publicadas de manera &#xED;ntegra en el portal de la Subsecretar&#xED;a y evaluadas y ponderadas por la Subsecretar&#xED;a en su conjunto y con los dem&#xE1;s antecedentes tenidos a la vista, pero no ser&#xE1;n vinculantes.</div><br><br></div>"
+        },
+        {
+          "part_id": 9187241,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;: En dicha Ventanilla los ciudadanos podr&#xE1;n encontrar:</div><br><div class=\"p\">a)&nbsp;  Documento de Propuesta de la autoridad;</div><div class=\"p\">b)&nbsp;  Un Resumen del tema de inter&#xE9;s ciudadano;</div><div class=\"p\">c)&nbsp;  Las razones del por qu&#xE9; el tema es puesto a discusi&#xF3;n;</div><div class=\"p\">d)&nbsp;  Un espacio para poder opinar, proponer y preguntar sobre el tema en discusi&#xF3;n.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;: En <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1147584&amp;idParte=10136513&amp;idVersion=2020-07-17\">Resoluci&#xF3;n 987 EXENTA, <br>TRANSPORTES<br>N&#xB0; 2 <br>D.O. 17.07.2020</a></span>dicha Ventanilla se podr&#xE1;n encontrar, de acuerdo a la metodolog&#xED;a de cada consulta en particular, los antecedentes de contexto de la misma, que podr&#xE1;n consistir en alguno o varios de los siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  a) Borrador normativo o documento de propuesta de la autoridad, en su caso.</div><div class=\"p\">&nbsp; &nbsp;  b) Resumen del tema de inter&#xE9;s.</div><div class=\"p\">&nbsp; &nbsp;  c) Las razones del por qu&#xE9; el tema es puesto a discusi&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  d) Consultas generales y/o espec&#xED;ficas sobre las que se considere relevante obtener la opini&#xF3;n de los participantes.</div><div class=\"p\">&nbsp; &nbsp;  e) Cualquier otro que se estime pertinente para el objetivo de la consulta.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  En la Ventanilla, tambi&#xE9;n de acuerdo a la metodolog&#xED;a de cada consulta en particular, se contendr&#xE1; uno o varios espacios para poder opinar, proponer y efectuar sugerencias sobre el tema en discusi&#xF3;n, pudiendo efectuarse indicaciones de cara a la adecuada formulaci&#xF3;n de las mismas.</div><br><br></div>"
+        },
+        {
+          "part_id": 9187242,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: Todos los interesados podr&#xE1;n participar en la Consulta, sean personas jur&#xED;dicas o naturales, debiendo inscribirse para dar su opini&#xF3;n en el banner que se dispondr&#xE1; para tal efecto en el sitio web de la Subsecretar&#xED;a, a contar de la fecha de publicaci&#xF3;n de la convocatoria a Consulta en el Diario Oficial y durante 10 d&#xED;as h&#xE1;biles. El sistema tratar&#xE1; los datos de manera confidencial.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: Todos <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1147584&amp;idParte=10136513&amp;idVersion=2020-07-17\">Resoluci&#xF3;n 987 EXENTA, <br>TRANSPORTES<br>N&#xB0; 3<br>D.O. 17.07.2020</a></span>los interesados podr&#xE1;n participar en la Consulta, sean personas jur&#xED;dicas o naturales, directamente en la Ventanilla de Opini&#xF3;n dispuesta para dichos fines, a contar de la fecha que al efecto disponga la resoluci&#xF3;n que convoque la Consulta, que se publicar&#xE1; en la p&#xE1;gina web de Subtel, y hasta la fecha dispuesta para el cierre de la misma.</div><br></div>"
+        },
+        {
+          "part_id": 9187244,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xBA;: El anuncio de la apertura de la ventanilla de opini&#xF3;n se har&#xE1; a los menos con 7 d&#xED;as de anticipaci&#xF3;n en el mismo sitio web.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 10&#xBA;: La <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1147584&amp;idParte=10136513&amp;idVersion=2020-07-17\">Resoluci&#xF3;n 987 EXENTA, <br>TRANSPORTES<br>N&#xB0; 4<br>D.O. 17.07.2020</a></span>resoluci&#xF3;n que convoque la consulta establecer&#xE1; la duraci&#xF3;n de la misma y el momento a partir del cual estar&#xE1; abierta la Ventanilla de Opini&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 9187245,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;: El plazo en que la Ventanilla se mantendr&#xE1; abierta ser&#xE1; de 30 d&#xED;as corridos, plazo en el cual los interesados podr&#xE1;n hacer sus presentaciones.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;: El <span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1147584&amp;idParte=10136513&amp;idVersion=2020-07-17\">Resoluci&#xF3;n 987 EXENTA, <br>TRANSPORTES<br>N&#xB0; 5<br>D.O. 17.07.2020</a></span>plazo en que la Ventanilla se mantendr&#xE1; abierta ser&#xE1; de 30 d&#xED;as corridos, plazo en el cual los interesados podr&#xE1;n hacer sus presentaciones. Sin embargo, para casos justificados, en los que la urgencia de la materia o la naturaleza de la consulta lo ameriten, se podr&#xE1; mantener abierta la Ventanilla por un plazo inferior o superior, seg&#xFA;n se indique en la resoluci&#xF3;n que convoque la consulta.</div><br></div>"
+        },
+        {
+          "part_id": 9187246,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;: Una vez finalizado el plazo de apertura de la Ventanilla, la Subsecretar&#xED;a proceder&#xE1; a la ponderaci&#xF3;n, evaluaci&#xF3;n y an&#xE1;lisis de estas para elaborar las respectivas respuestas, las que podr&#xE1;n informarse de manera general o espec&#xED;fica, seg&#xFA;n se estime pertinente, respecto de los motivos que explican la consideraci&#xF3;n de la misma.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 12&#xBA;: Derogad<span class=\"n\" id=\"n_5\"><a href=\"navegar?idNorma=1147584&amp;idParte=10136513&amp;idVersion=2020-07-17\">Resoluci&#xF3;n 987 EXENTA, <br>TRANSPORTES<br>N&#xB0; 6<br>D.O. 17.07.2020</a></span>o.</div><br><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1147584,
+      "fecha": "2020-07-17"
+    }
+  }
+]

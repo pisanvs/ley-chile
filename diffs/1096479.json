@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2016-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-03-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9745416,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la <a href=\"https://www.leychile.cl/Navegar?idNorma=1088972&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 790 del 21 de marzo del a&#xF1;o 2016</a>, que deleg&#xF3; la facultad conferida al Director General de Asuntos Consulares y de Inmigraci&#xF3;n, en el art&#xED;culo 3&#xBA; del Reglamento de Pasaportes Diplom&#xE1;ticos y Oficiales, aprobado por decreto supremo N&#xBA; 232, de 2004, del Ministerio de Relaciones Exteriores; de otorgar los pasaportes, entre otro, a la se&#xF1;ora Constanza Mabel Figueroa Sep&#xFA;lveda (RUN N&#xBA; 10.167.345-6), Consejero o C&#xF3;nsul General de 2&#xAA; Clase, 3&#xAA; Categor&#xED;a Exterior, de la Planta de Servicio Exterior del Ministerio de Relaciones Exteriores, en el sentido que la reemplazar&#xE1; en estas funciones, el se&#xF1;or Ra&#xFA;l Ignacio Concha Sep&#xFA;lveda (RUN N&#xBA; 7.080.943-5), Ministro Consejero o C&#xF3;nsul General de 1&#xAA; Clase, 2&#xAA; Categor&#xED;a Exterior, quien asumi&#xF3; como Director de Servicios Consulares a contar del 21 de octubre de 2016.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Modif&#xED;case la resoluci&#xF3;n exenta N&#xBA; 790 del 21 de marzo del a&#xF1;o 2016, que deleg&#xF3; la facultad conferida al Director General de Asuntos Consulares y de Inmigraci&#xF3;n, en el art&#xED;culo 3&#xBA; del Reglamento de Pasaportes Diplom&#xE1;ticos y Oficiales, aprobado por decreto supremo N&#xBA; 232, de 2004, del Ministerio de Relaciones Exteriores; de otorgar los pasaportes, entre otro, a la se&#xF1;ora Constanza Mabel Figueroa Sep&#xFA;lveda (RUN N&#xBA; 10.167.345-6), Consejero o C&#xF3;nsul General de 2&#xAA; Clase, 3&#xAA; Categor&#xED;a Exterior, de la Planta de Servicio Exterior del Ministerio de Relaciones Exteriores, en el sentido que la reemplazar&#xE1; en estas funciones, el se&#xF1;or <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>Ra&#xFA;l Ignacio Concha Sep&#xFA;lveda (RUN N&#xBA; 7.080.943-5), Ministro Consejero o C&#xF3;nsul General de 1&#xAA; Clase, 2&#xAA; Categor&#xED;a Exterior, quien asumi&#xF3; como Director de Servicios Consulares a contar del 21 de octubre de 2016.</div><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; La Resoluci&#xF3;n 874 Exenta, Relaciones Exteriores, publicada 24.03.2017, modifica la presente norma en el sentido de indicar que el se&#xF1;or Jorge Carlos Vald&#xE9;s Ortiz (RUN N&#xBA; 8.906.381-7), Consejero o C&#xF3;nsul General de 2&#xAA; Clase, 3&#xAA; Categor&#xED;a Exterior quien asumi&#xF3; como Director de Servicios Consulares reemplaza en sus funciones al se&#xF1;or Ra&#xFA;l Ignacio Concha Sep&#xFA;lveda (RUN N&#xBA; 7.080.943-5) a contar del 2 de marzo de 2017.</div></div>"
+        }
+      ]
+    }
+  }
+]

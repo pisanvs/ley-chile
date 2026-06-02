@@ -1,0 +1,58 @@
+[
+  {
+    "fecha": "1994-01-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-06-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9351779,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: Los <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1050893&amp;idParte=9351596&amp;idVersion=2013-05-10\">Resoluci&#xF3;n 919 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 10.05.2013</a></span>buses, trolebuses y minibuses de transporte p&#xFA;blico remunerado de pasajeros, cuyos propietarios incorporen en sus tarifas los efectos del subsidio a que se refiere el art&#xED;culo 4&#xBA;, letra a), de la ley N&#xBA; 20.378, deber&#xE1;n exhibir, durante el a&#xF1;o escolar los siguientes letreros:</div><br><div class=\"p\">a)&nbsp;  En el costado derecho de la carrocer&#xED;a, en la ventana ubicada inmediatamente atr&#xE1;s de la puerta delantera y al lado del letrero que se se&#xF1;ala en la letra b) del art&#xED;culo 1&#xB0;, esto &#xFA;ltimo cuando corresponda, el siguiente:</div><div class=\"p\">&nbsp; &nbsp;  Uno de 20 cm. de alto por 40 cm. de ancho, que se&#xF1;alar&#xE1; la incorporaci&#xF3;n de los efectos del subsidio antes referido, con la leyenda &quot;TARIFA ESCOLAR REBAJADA&quot;.</div><br><div class=\"p\">b)&nbsp;  En el frente de la carrocer&#xED;a, en la mitad derecha del parabrisas, pr&#xF3;ximo al letrero de tarifa escolar:</div><div class=\"p\">&nbsp; &nbsp;  Uno de 15 cm. de alto por 15 cm. de ancho con la leyenda que se se&#xF1;ala en la letra anterior.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6005614,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 4&#xB0;.- Se excluyen de las disposiciones de la presente resoluci&#xF3;n, aquellos veh&#xED;culos autorizados para circular por v&#xED;as de la ciudad de Santiago previo proceso de licitaci&#xF3;n p&#xFA;blica, los que en esta materia se regir&#xE1;n por las normas propias de la licitaci&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Se <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1050893&amp;idParte=9351596&amp;idVersion=2013-05-10\">Resoluci&#xF3;n 919 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 10.05.2013</a></span>excluyen de las disposiciones de la presente resoluci&#xF3;n, aquellos veh&#xED;culos autorizados para circular por v&#xED;as de la ciudad de Santiago previo proceso de licitaci&#xF3;n p&#xFA;blica, los que en esta materia se regir&#xE1;n por las normas propias de la licitaci&#xF3;n. </div><br><br></div>"
+        },
+        {
+          "part_id": 6005615,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia transcurridos treinta (30) d&#xED;as de su publicaci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 6&#xB0;.- La <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1050893&amp;idParte=9351596&amp;idVersion=2013-05-10\">Resoluci&#xF3;n 919 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 10.05.2013</a></span> presente resoluci&#xF3;n entrar&#xE1; en vigencia transcurridos treinta (30) d&#xED;as de su publicaci&#xF3;n.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2016-01-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6005614,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Se <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1050893&amp;idParte=9351596&amp;idVersion=2013-05-10\">Resoluci&#xF3;n 919 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 10.05.2013</a></span>excluyen de las disposiciones de la presente resoluci&#xF3;n, aquellos veh&#xED;culos autorizados para circular por v&#xED;as de la ciudad de Santiago previo proceso de licitaci&#xF3;n p&#xFA;blica, los que en esta materia se regir&#xE1;n por las normas propias de la licitaci&#xF3;n. </div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 5&#xB0;.- Se <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1050893&amp;idParte=9351596&amp;idVersion=2013-05-10\">Resoluci&#xF3;n 919 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 10.05.2013</a></span>excluyen de las disposiciones de la presente resoluci&#xF3;n, aquellos veh&#xED;culos autorizados para circular por v&#xED;as de la ciudad de Santiago previo proceso de licitaci&#xF3;n p&#xFA;blica, los que en esta materia se regir&#xE1;n por las normas propias de la licitaci&#xF3;n. </div><br><br></div>"
+        },
+        {
+          "part_id": 6005615,
+          "old": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 6&#xB0;.- La <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1050893&amp;idParte=9351596&amp;idVersion=2013-05-10\">Resoluci&#xF3;n 919 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 10.05.2013</a></span> presente resoluci&#xF3;n entrar&#xE1; en vigencia transcurridos treinta (30) d&#xED;as de su publicaci&#xF3;n.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp;  Art&#xED;culo 6&#xB0;.- La <span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1050893&amp;idParte=9351596&amp;idVersion=2013-05-10\">Resoluci&#xF3;n 919 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 10.05.2013</a></span> presente resoluci&#xF3;n entrar&#xE1; en vigencia transcurridos treinta (30) d&#xED;as de su publicaci&#xF3;n.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9351779,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: Los <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1050893&amp;idParte=9351596&amp;idVersion=2013-05-10\">Resoluci&#xF3;n 919 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 10.05.2013</a></span>buses, trolebuses y minibuses de transporte p&#xFA;blico remunerado de pasajeros, cuyos propietarios incorporen en sus tarifas los efectos del subsidio a que se refiere el art&#xED;culo 4&#xBA;, letra a), de la ley N&#xBA; 20.378, deber&#xE1;n exhibir, durante el a&#xF1;o escolar los siguientes letreros:</div><br><div class=\"p\">a)&nbsp;  En el costado derecho de la carrocer&#xED;a, en la ventana ubicada inmediatamente atr&#xE1;s de la puerta delantera y al lado del letrero que se se&#xF1;ala en la letra b) del art&#xED;culo 1&#xB0;, esto &#xFA;ltimo cuando corresponda, el siguiente:</div><div class=\"p\">&nbsp; &nbsp;  Uno de 20 cm. de alto por 40 cm. de ancho, que se&#xF1;alar&#xE1; la incorporaci&#xF3;n de los efectos del subsidio antes referido, con la leyenda &quot;TARIFA ESCOLAR REBAJADA&quot;.</div><br><div class=\"p\">b)&nbsp;  En el frente de la carrocer&#xED;a, en la mitad derecha del parabrisas, pr&#xF3;ximo al letrero de tarifa escolar:</div><div class=\"p\">&nbsp; &nbsp;  Uno de 15 cm. de alto por 15 cm. de ancho con la leyenda que se se&#xF1;ala en la letra anterior.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;: Los <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1050893&amp;idParte=9351596&amp;idVersion=2013-05-10\">Resoluci&#xF3;n 919 EXENTA,<br>TRANSPORTES<br>N&#xBA; 1<br>D.O. 10.05.2013</a></span>buses, trolebuses y minibuses de transporte p&#xFA;blico remunerado de pasajeros, cuyos propietarios incorporen en sus tarifas los efectos del subsidio a que se refiere el art&#xED;culo 4&#xBA;, letra a), de la ley N&#xBA; 20.378, deber&#xE1;n exhibir, durante el a&#xF1;o escolar el siguiente letrero:<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1084942&amp;idParte=9654522&amp;idVersion=2015-12-04\">Resoluci&#xF3;n 3590 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1 a) y b)<br>D.O. 04.12.2015</a></span></div><br><div class=\"p\">&nbsp; &nbsp;  En el frente de la carrocer&#xED;a, en la mitad derecha del parabrisas, pr&#xF3;ximo al letrero de tarifa escolar:</div><div class=\"p\">&nbsp; &nbsp;  Uno de 15 cm. de alto por 15 cm. de ancho con la leyenda Tarifa Escolar Rebajada.</div><br><br><br><div class=\"p\"><span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1084942&amp;idParte=9654522&amp;idVersion=2015-12-04\">Resoluci&#xF3;n 3590 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1 c)<br>D.O. 04.12.2015</a></span></div></div>"
+        }
+      ]
+    }
+  }
+]

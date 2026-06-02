@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "2019-10-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-12-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [
+        {
+          "part_id": 10063817,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Cuarto.- D&#xE9;jase constancia que el Coordinador del Panel convocar&#xE1; a las sesiones del mismo seg&#xFA;n lo establecido en el acuerdo de funcionamiento y en tal calidad le corresponder&#xE1;n, especialmente, las siguientes funciones:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  a) Dirigir y coordinar las reuniones de trabajo del Panel.</div><div class=\"p\">&nbsp; &nbsp;  b) Comunicar e informar al Ministerio de Desarrollo Social y Familia sobre el desarrollo de las tareas realizadas y los acuerdos logrados por el Panel.</div></div>",
+          "new": null
+        }
+      ],
+      "changed": [
+        {
+          "part_id": 10063816,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Tercero.- Des&#xED;gnase como miembros del panel a las siguientes personas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1) Slaven Antonio Razmilic Burgos RUN 10.609.361-K, quien ser&#xE1; su Coordinador.</div><div class=\"p\">&nbsp; &nbsp;  2) David Bravo Urrutia RUN 9.798.861-7.</div><div class=\"p\">&nbsp; &nbsp;  3) Carolina Velasco Ort&#xFA;zar RUN 10.333.461-6.</div><div class=\"p\">&nbsp; &nbsp;  4) Andrea Isabel Repetto Lisboa RUN 8.795.355-6.</div><div class=\"p\">&nbsp; &nbsp;  5) Francisco Antonio Gallego Y&#xE1;&#xF1;ez 12.645.487-2.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Las personas designadas desempe&#xF1;ar&#xE1;n sus funciones ad honorem, a t&#xED;tulo personal, sin comprometer a las instituciones, &#xF3;rganos o entidades de las que formen parte y no podr&#xE1;n ser reemplazadas en caso de ausencia o impedimento en el ejercicio de sus funciones salvo expresa designaci&#xF3;n por medio de la dictaci&#xF3;n del acto administrativo correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  En la primera sesi&#xF3;n los integrantes del Panel establecer&#xE1;n un acuerdo para su funcionamiento el que ser&#xE1; informado al Ministerio de acuerdo lo dispuesto en la letra b) del art&#xED;culo siguiente.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Tercero.- Des&#xED;gnase como miembros del panel a las siguientes personas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1) Rodrigo <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1169389&amp;idParte=10289898&amp;idVersion=2021-12-03\">Decreto 4,<br>DESARROLLO SOCIAL<br>Art. segundo a)<br>D.O. 03.12.2021</a></span>Osvaldo Vald&#xE9;s Pulido RUN 8.267.804-2&quot;. quien ser&#xE1; su Coordinador.</div><div class=\"p\">&nbsp; &nbsp;  2) David Bravo Urrutia RUN 9.798.861-7.</div><div class=\"p\">&nbsp; &nbsp;  3) Carolina Velasco Ort&#xFA;zar RUN 10.333.461-6.</div><div class=\"p\">&nbsp; &nbsp;  4) Andrea Isabel Repetto Lisboa RUN 8.795.355-6.</div><div class=\"p\">&nbsp; &nbsp;  5) Francisco Antonio Gallego Y&#xE1;&#xF1;ez 12.645.487-2.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Las personas designadas desempe&#xF1;ar&#xE1;n sus funciones ad honorem, a t&#xED;tulo personal, sin comprometer a las instituciones, &#xF3;rganos o entidades de las que formen parte y no podr&#xE1;n ser reemplazadas en caso de ausencia o impedimento en el ejercicio de sus funciones salvo expresa designaci&#xF3;n por medio de la dictaci&#xF3;n del acto administrativo correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  En la primera sesi&#xF3;n los integrantes del Panel establecer&#xE1;n un acuerdo para su funcionamiento el que ser&#xE1; informado al Ministerio de acuerdo lo dispuesto en la letra b) del art&#xED;culo siguiente.</div><br></div>"
+        },
+        {
+          "part_id": 10063818,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Quinto.- Establ&#xE9;zcase que el apoyo t&#xE9;cnico y administrativo que se requiere para el funcionamiento del Panel ser&#xE1; proporcionado por el Ministerio de Desarrollo Social y Familia a trav&#xE9;s de la Subsecretar&#xED;a de Evaluaci&#xF3;n Social.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Cuar<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1169389&amp;idParte=10289898&amp;idVersion=2021-12-03\">Decreto 4,<br>DESARROLLO SOCIAL<br>Art. segundo b)<br>D.O. 03.12.2021</a></span>to.- Establ&#xE9;zcase que el apoyo t&#xE9;cnico y administrativo que se requiere para el funcionamiento del Panel ser&#xE1; proporcionado por el Ministerio de Desarrollo Social y Familia a trav&#xE9;s de la Subsecretar&#xED;a de Evaluaci&#xF3;n Social. Para estos efectos, la Subsecretar&#xED;a de Evaluaci&#xF3;n <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1169389&amp;idParte=10289898&amp;idVersion=2021-12-03\">Decreto 4,<br>DESARROLLO SOCIAL<br>Art. segundo c)<br>D.O. 03.12.2021</a></span>Social podr&#xE1; disponer de un (una) funcionario(a) de su dependencia que colabore en la labor de coordinaci&#xF3;n del panel.</div><br></div>"
+        },
+        {
+          "part_id": 10063819,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Sexto.- D&#xE9;jase constancia que los gastos que se originen con ocasi&#xF3;n de las labores del Panel, ser&#xE1;n de cargo del presupuesto de la Subsecretar&#xED;a de Evaluaci&#xF3;n Social.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Quin<span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1169389&amp;idParte=10289898&amp;idVersion=2021-12-03\">Decreto 4,<br>DESARROLLO SOCIAL<br>Art. segundo b)<br>D.O. 03.12.2021</a></span>to.- D&#xE9;jase constancia que los gastos que se originen con ocasi&#xF3;n de las labores del Panel, ser&#xE1;n de cargo del presupuesto de la Subsecretar&#xED;a de Evaluaci&#xF3;n Social.</div><div class=\"p\"> </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1169389,
+      "fecha": "2021-12-03"
+    }
+  }
+]

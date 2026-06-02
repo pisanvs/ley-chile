@@ -1,0 +1,56 @@
+[
+  {
+    "fecha": "2017-11-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-09-10",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9851228,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Dest&#xED;nase calle Bandera de la comuna de Santiago, entre Moneda y Compa&#xF1;&#xED;a, en horario de 07:00 horas y las 21:00 horas, como paseo peatonal, hasta el 31 de agosto de 2018.</div><div class=\"p\">&nbsp; &nbsp;  2.- La Ilustre Municipalidad de Santiago deber&#xE1; disponer, para tal efecto, la instalaci&#xF3;n de la se&#xF1;alizaci&#xF3;n de tr&#xE1;nsito correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la Ley de Tr&#xE1;nsito.</div><div class=\"p\">&nbsp; &nbsp;  4.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a partir de su publicaci&#xF3;n en el Diario Oficial.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Dest&#xED;nase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1122944&amp;idParte=9948283&amp;idVersion=2018-09-10\">Resoluci&#xF3;n 5506 EXENTA, <br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 10.09.2018</a></span>calle Bandera, entre Moneda y Compa&#xF1;&#xED;a, de la comuna de Santiago, como paseo peatonal.</div><div class=\"p\">&nbsp; &nbsp;  2.- La Ilustre Municipalidad de Santiago deber&#xE1; disponer, para tal efecto, la instalaci&#xF3;n de la se&#xF1;alizaci&#xF3;n de tr&#xE1;nsito correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la Ley de Tr&#xE1;nsito.</div><div class=\"p\">&nbsp; &nbsp;  4.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a partir de su publicaci&#xF3;n en el Diario Oficial.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-01-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9851228,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Dest&#xED;nase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1122944&amp;idParte=9948283&amp;idVersion=2018-09-10\">Resoluci&#xF3;n 5506 EXENTA, <br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 10.09.2018</a></span>calle Bandera, entre Moneda y Compa&#xF1;&#xED;a, de la comuna de Santiago, como paseo peatonal.</div><div class=\"p\">&nbsp; &nbsp;  2.- La Ilustre Municipalidad de Santiago deber&#xE1; disponer, para tal efecto, la instalaci&#xF3;n de la se&#xF1;alizaci&#xF3;n de tr&#xE1;nsito correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la Ley de Tr&#xE1;nsito.</div><div class=\"p\">&nbsp; &nbsp;  4.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a partir de su publicaci&#xF3;n en el Diario Oficial.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Dest&#xED;nase el eje San Diego-Bandera, entre<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1127916&amp;idParte=9989551&amp;idVersion=2019-01-16\">Resoluci&#xF3;n 8262 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 16.01.2019</a></span> Padre Alonso de Ovalle y Compa&#xF1;&#xED;a de Jes&#xFA;s, de la comuna de Santiago, como paseo peatonal.</div><div class=\"p\">&nbsp; &nbsp;  2.- La Ilustre Municipalidad de Santiago deber&#xE1; disponer, para tal efecto, la instalaci&#xF3;n de la se&#xF1;alizaci&#xF3;n de tr&#xE1;nsito correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la Ley de Tr&#xE1;nsito.</div><div class=\"p\">&nbsp; &nbsp;  4.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a partir de su publicaci&#xF3;n en el Diario Oficial.</div><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-09-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9851228,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Dest&#xED;nase el eje San Diego-Bandera, entre<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1127916&amp;idParte=9989551&amp;idVersion=2019-01-16\">Resoluci&#xF3;n 8262 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 16.01.2019</a></span> Padre Alonso de Ovalle y Compa&#xF1;&#xED;a de Jes&#xFA;s, de la comuna de Santiago, como paseo peatonal.</div><div class=\"p\">&nbsp; &nbsp;  2.- La Ilustre Municipalidad de Santiago deber&#xE1; disponer, para tal efecto, la instalaci&#xF3;n de la se&#xF1;alizaci&#xF3;n de tr&#xE1;nsito correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la Ley de Tr&#xE1;nsito.</div><div class=\"p\">&nbsp; &nbsp;  4.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a partir de su publicaci&#xF3;n en el Diario Oficial.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Dest&#xED;nase como paseo <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1181374&amp;idParte=10365999&amp;idVersion=2022-09-15\">Resoluci&#xF3;n 4249 EXENTA,<br>TRANSPORTES<br>N&#xB0; 1<br>D.O. 15.09.2022</a></span>peatonal las siguientes v&#xED;as de la comuna de Santiago, en los tramos y extensi&#xF3;n que se indican en el cuadro inserto:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/153616.jpg\">&nbsp; &nbsp; &nbsp; &nbsp; </div><br><div class=\"p\">&nbsp; &nbsp;  2.- La Ilustre Municipalidad de Santiago deber&#xE1; disponer, para tal efecto, la instalaci&#xF3;n de la se&#xF1;alizaci&#xF3;n de tr&#xE1;nsito correspondiente.</div><div class=\"p\">&nbsp; &nbsp;  3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la Ley de Tr&#xE1;nsito.</div><div class=\"p\">&nbsp; &nbsp;  4.- La presente resoluci&#xF3;n entrar&#xE1; en vigencia a partir de su publicaci&#xF3;n en el Diario Oficial.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1181374,
+      "fecha": "2022-09-15"
+    }
+  }
+]

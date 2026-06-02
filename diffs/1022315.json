@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-07-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2025-02-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9102738,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  ART&#xCD;CULO 5&#xBA;.- Los preparados magistrales no podr&#xE1;n contener principios activos en las mismas dosis y formas farmac&#xE9;uticas de especialidades farmac&#xE9;uticas registradas.</div><div class=\"p\">&nbsp; &nbsp;  Para efectos de la disposici&#xF3;n se&#xF1;alada precedentemente, se entender&#xE1;n como formas farmac&#xE9;uticas id&#xE9;nticas entre s&#xED; a aquellas registradas en forma de comprimidos de liberaci&#xF3;n convencional, grageas o c&#xE1;psulas.</div><div class=\"p\">&nbsp; &nbsp;  Solo en el caso de pacientes con intolerancia a excipientes determinados, se permitir&#xE1; la elaboraci&#xF3;n de preparados magistrales, en igual dosis y forma, de principios activos contenidos en productos farmac&#xE9;uticos registrados, debiendo indicarse en la respectiva receta su condici&#xF3;n m&#xE9;dica y el nombre del excipiente contraindicado.</div><div class=\"p\">&nbsp; &nbsp;  La prescripci&#xF3;n de un preparado magistral en el cual se var&#xED;e la dosis o la forma farmac&#xE9;utica, en relaci&#xF3;n a una especialidad registrada, podr&#xE1; ser indicada por el profesional tratante, respecto de aquellos pacientes que requieren de un ajuste de dosis o un cambio de forma farmac&#xE9;utica. Respecto de las dosis, la composici&#xF3;n de dichos preparados no podr&#xE1; contener los principios activos dentro del rango m&#xE1;s/menos 10% de la dosis de un producto registrado.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  ART&#xCD;CULO 5&#xBA;.- Los preparados magistrales no podr&#xE1;n contener principios activos en las mismas dosis y formas farmac&#xE9;uticas de especialidades farmac&#xE9;uticas registradas.</div><div class=\"p\">&nbsp; &nbsp;  Para efectos de la disposici&#xF3;n se&#xF1;alada precedentemente, se entender&#xE1;n como formas farmac&#xE9;uticas id&#xE9;nticas entre s&#xED; a aquellas registradas en forma de comprimidos de liberaci&#xF3;n convencional, grageas o c&#xE1;psulas.</div><div class=\"p\">&nbsp; &nbsp;  Solo en el caso de pacientes con intolerancia a excipientes determinados, se permitir&#xE1; la elaboraci&#xF3;n de preparados magistrales, en igual dosis y forma, de principios activos contenidos en productos farmac&#xE9;uticos registrados, debiendo indicarse en la respectiva receta su condici&#xF3;n m&#xE9;dica y el nombre del excipiente contraindicado.</div><div class=\"p\">&nbsp; &nbsp;  La prescripci&#xF3;n de un preparado magistral en el cual se var&#xED;e la dosis o la forma farmac&#xE9;utica, en relaci&#xF3;n a una especialidad registrada, podr&#xE1; ser indicada por el profesional tratante, respecto de aquellos pacientes que requieren de un ajuste de dosis o un cambio de forma farmac&#xE9;utica. Respecto de las dosis, la composici&#xF3;n de dichos preparados no podr&#xE1; contener los principios activos dentro del rango m&#xE1;s/menos 10% de la dosis de un producto registrado.</div><div class=\"p\">&nbsp; &nbsp;  Sin <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1211044&amp;idParte=10537047&amp;idVersion=2025-02-12\">Decreto 30, SALUD<br>Art. 1&#xB0;<br>D.O. 12.02.2025</a></span>perjuicio de lo dispuesto precedentemente, en situaciones de escasez o desabastecimiento de alguna especialidad farmac&#xE9;utica, declarada mediante resoluci&#xF3;n fundada del Ministerio de Salud, previo informe t&#xE9;cnico del Instituto de Salud P&#xFA;blica de Chile y de la Central de Abastecimiento del Sistema Nacional de los Servicios de Salud, los preparados magistrales podr&#xE1;n contener principios activos en la misma dosis y forma farmac&#xE9;utica de aquella especialidad. La resoluci&#xF3;n que dicte el Ministerio de Salud al efecto deber&#xE1; precisar el per&#xED;odo de su vigencia, pudiendo extenderse o dejarse sin efecto con posterioridad, de conformidad con la persistencia o cese de las situaciones o hechos que le dieron origen, a trav&#xE9;s del acto que corresponda.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1211044,
+      "fecha": "2025-02-12"
+    }
+  }
+]

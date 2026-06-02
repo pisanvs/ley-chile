@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-05-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-12-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7341298,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;. Des&#xED;gnase a don Alexis Corona Contador, ingeniero comercial, c&#xE9;dula de identidad n&#xFA;mero 10.387.147-7, funcionario a contrata de la Secretar&#xED;a Regional Ministerial de Educaci&#xF3;n de la Regi&#xF3;n de Valpara&#xED;so, como Administrador Provisional de los Colegios Jerusal&#xE9;n, RBD 1753-1 y Ciudad de Paz, RBD 1496-3, ambos de Vi&#xF1;a del Mar, hasta el t&#xE9;rmino del a&#xF1;o escolar 2007.</div><br><div class=\"p\">&nbsp; &nbsp;  El funcionario designado administrador tendr&#xE1; las facultades dispuestas en el art&#xED;culo 2132 del C&#xF3;digo Civil, especialmente la de percibir la subvenci&#xF3;n que corresponda a los mencionados establecimientos educacionales.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 2&#xBA;. Des&#xED;gnase a don Alexis Corona<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> Contador, ingeniero comercial, c&#xE9;dula de identidad n&#xFA;mero 10.387.147-7, funcionario a contrata de la Secretar&#xED;a Regional Ministerial de Educaci&#xF3;n de la Regi&#xF3;n de Valpara&#xED;so, como Administrador Provisional de los Colegios Jerusal&#xE9;n, RBD 1753-1 y Ciudad de Paz, RBD 1496-3, ambos de Vi&#xF1;a del Mar, hasta el t&#xE9;rmino del a&#xF1;o escolar 2007.</div><br><div class=\"p\">&nbsp; &nbsp;  El funcionario designado administrador tendr&#xE1; las facultades dispuestas en el art&#xED;culo 2132 del C&#xF3;digo Civil, especialmente la de percibir la subvenci&#xF3;n que corresponda a los mencionados establecimientos educacionales.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El Art. &#xFA;nico de la RES 9341 exenta, Educaci&#xF3;n, publicada el 24.12.2007, dej&#xF3; sin efecto la designaci&#xF3;n de don Alexis Corona Contador como Administrador Provisional del Colegio Ciudad de Paz, por cuanto aquel dej&#xF3; de tener reconocimiento oficial a contar del 1&#xBA; de agosto de 2007.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

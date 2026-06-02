@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1970-01-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9057477,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;1&#xB0; Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile la siguiente norma t&#xE9;cnica aprobada por el Consejo del Instituto Nacional de Investigaciones Tecnol&#xF3;gicas y Normalizaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  NCh494.Of69, Papeles, Formatos, Designaci&#xF3;n y especificaciones.</div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; Corresponder&#xE1; al expresado Instituto Nacional de Investigaciones Tecnol&#xF3;gicas y Normalizaci&#xF3;n, publicar una minuta del presente decreto en el Diario Oficial y el texto &#xED;ntegro de esta norma en la Revista Chilena de Racionalizaci&#xF3;n, &#xF3;rgano oficial del mencionado Instituto.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; El Instituto Nacional de Investigaciones Tecnol&#xF3;gicas y Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de dicha norma, debidamente certificada su conformidad con el texto oficial, a la Contralor&#xED;a General de la Rep&#xFA;blica y, adem&#xE1;s, proporcionarla gratuitamente a los organismos fiscales y semifiscales que tengan relaci&#xF3;n con la materia de que trata.&quot; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  &quot;1&#xB0; Decl&#xE1;rase Norma Oficial de la Rep&#xFA;blica de Chile la siguiente norma t&#xE9;cnica aprobada por el Consejo del Instituto Nacional de Investigaciones Tecnol&#xF3;gicas y Normalizaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  NCh494.Of69, ANULADA<span class=\"n\" id=\"n_0\">RES 6651 EXENTA,<br>ECONOMIA<br>Art. 2&#xBA;<br>D.O. 04.10.2007</span> 2&#xB0; Corresponder&#xE1; al expresado Instituto Nacional de Investigaciones Tecnol&#xF3;gicas y Normalizaci&#xF3;n, publicar una minuta del presente decreto en el Diario Oficial y el texto &#xED;ntegro de esta norma en la Revista Chilena de Racionalizaci&#xF3;n, &#xF3;rgano oficial del mencionado Instituto.</div><div class=\"p\">&nbsp; &nbsp;  3&#xB0; El Instituto Nacional de Investigaciones Tecnol&#xF3;gicas y Normalizaci&#xF3;n deber&#xE1; enviar tres ejemplares de dicha norma, debidamente certificada su conformidad con el texto oficial, a la Contralor&#xED;a General de la Rep&#xFA;blica y, adem&#xE1;s, proporcionarla gratuitamente a los organismos fiscales y semifiscales que tengan relaci&#xF3;n con la materia de que trata.&quot;</div><br></div>"
+        }
+      ]
+    }
+  }
+]

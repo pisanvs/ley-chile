@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2014-04-07",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-08-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9428320,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Mant&#xE9;ngase vigente el proceso especial y provisorio instituido con la <a href=\"https://www.leychile.cl/Navegar?idNorma=285456&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 2.041, de fecha 31.08.2008</a>, modificada mediante la resoluci&#xF3;n exenta N&#xBA; 111, de fecha 12.01.2011, y esta a su vez modificada mediante resoluci&#xF3;n exenta N&#xBA; 191, de fecha 25.01.2013, para modelos no certificados del producto Motor Trif&#xE1;sico de Inducci&#xF3;n Jaula de Ardilla hasta el 30.09.2014, para efectos de su comercializaci&#xF3;n l&#xED;cita en el territorio nacional. Sin perjuicio de mantener su vigencia los certificados emitidos bajo este r&#xE9;gimen &#xFA;nicamente el d&#xED;a 31.10.2014.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Exti&#xE9;ndase la vigencia de los certificados de Eficiencia Energ&#xE9;tica del producto Motor Trif&#xE1;sico de Inducci&#xF3;n Jaula de Ardilla, emitidos con anterioridad a la publicaci&#xF3;n de esta resoluci&#xF3;n, hasta el d&#xED;a 31.10.2014, en tanto el plazo de vencimiento acaezca antes de esa fecha.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Con todo, y sin perjuicio de la necesidad de contar previamente con certificaci&#xF3;n de seguridad, ser&#xE1; condici&#xF3;n para someterse l&#xED;citamente a los reg&#xED;menes establecidos m&#xE1;s arriba, tanto para modelos ya certificados como para nuevos modelos no certificados a la fecha de publicarse este acto administrativo, plantear en el respectivo Organismo de Certificaci&#xF3;n vinculado con Laboratorios de Ensayos autorizado y/o acreditado solicitud de Certificaci&#xF3;n de Eficiencia Energ&#xE9;tica del producto Motor Trif&#xE1;sico de Inducci&#xF3;n Jaula de Ardilla, supuesto que se verificar&#xE1; de oficio por esta Superintendencia mediante la plataforma electr&#xF3;nica E-declarador.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Mant&#xE9;ngase vigente el proceso especial y provisorio instituido con la resoluci&#xF3;n exenta N&#xBA; 2.041, de fecha 31.08.2008, modificada mediante la resoluci&#xF3;n exenta N&#xBA; 111, de fecha 12.01.2011, y esta a su vez modificada mediante resoluci&#xF3;n exenta N&#xBA; 191, de fecha 25.01.2013, para modelos no certificados del producto Motor Trif&#xE1;sico de Inducci&#xF3;n Jaula de Ardilla hasta el 30.09.2014, para efectos de su comercializaci&#xF3;n l&#xED;cita en el territorio nacional. Sin perjuicio de mantener su vigencia los certificados emitidos bajo este r&#xE9;gimen &#xFA;nicamente el d&#xED;a 31.10.2014.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Exti&#xE9;ndase la vigencia de los certificados de Eficiencia Energ&#xE9;tica del producto Motor Trif&#xE1;sico de Inducci&#xF3;n Jaula de Ardilla, emitidos con anterioridad a la publicaci&#xF3;n de esta resoluci&#xF3;n, hasta el d&#xED;a 31.10.2014, en tanto el plazo de vencimiento acaezca antes de esa fecha.</div><div class=\"p\">&nbsp; &nbsp;  Los <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1065392&amp;idParte=9496632&amp;idVersion=2014-08-14\">Resoluci&#xF3;n 4146 EXENTA,<br>ENERG&#xCD;A<br>N&#xB0; 1<br>D.O. 14.08.2014</a></span> certificados de Eficiencia Energ&#xE9;tica para el producto Motor Trif&#xE1;sico de Inducci&#xF3;n Jaula de Ardilla, basados en informes de entidades acreditadas, emitidos con anterioridad al 07.03.2014, tendr&#xE1;n vigencia hasta el sexto mes posterior a su fecha de vencimiento.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; Con todo, y sin perjuicio de la necesidad de contar previamente con certificaci&#xF3;n de seguridad, ser&#xE1; condici&#xF3;n para someterse l&#xED;citamente a los reg&#xED;menes establecidos m&#xE1;s arriba, tanto para modelos ya certificados como para nuevos modelos no certificados a la fecha de publicarse este acto administrativo, plantear en el respectivo Organismo de Certificaci&#xF3;n vinculado con Laboratorios de Ensayos autorizado y/o acreditado solicitud de Certificaci&#xF3;n de Eficiencia Energ&#xE9;tica del producto Motor Trif&#xE1;sico de Inducci&#xF3;n Jaula de Ardilla, supuesto que se verificar&#xE1; de oficio por esta Superintendencia mediante la plataforma electr&#xF3;nica E-declarador.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1065392,
+      "fecha": "2014-08-14"
+    }
+  }
+]

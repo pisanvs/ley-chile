@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-11-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-12-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10072444,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Establ&#xE9;zcase respecto del numeral 10, de la Res. 739, de 28.05.2019, que el ahorro de los postulantes debe estar acreditado hasta el d&#xED;a 29 de noviembre 2019.</div><div class=\"p\">&nbsp; &nbsp;  2.- Modif&#xED;quese de la <a href=\"https://www.leychile.cl/Navegar?idNorma=1132534&amp;idParte=&amp;idVersion=\">Res. 739, de 28.05.2019</a>, numeral 18, cuadro N&#xBA; 8, en el sentido de cambiar los plazos, quedando &#xE9;stos en definitiva de la siguiente manera:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/100807.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  3.- En todo aquello no modificado, se mantendr&#xE1;n las condiciones de la Res. N&#xBA; 739, del a&#xF1;o 2019.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1.- Establ&#xE9;zcase respecto del numeral 10, de la Res. 739, de 28.05.2019, que el ahorro de los postulantes debe estar acreditado hasta el d&#xED;a 29 de noviembre 2019.</div><div class=\"p\">&nbsp; &nbsp;  2.- Modif&#xED;quese de la Res. 739, de 28.05.2019, numeral 18, cuadro N&#xBA; 8, en el sentido de cambiar los plazos, quedando &#xE9;stos en definitiva de la siguiente mane<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1140162&amp;idParte=10080288&amp;idVersion=2019-12-18\">Resoluci&#xF3;n 1762 EXENTA, <br>VIVIENDA<br>N&#xB0; 1<br>D.O. 18.12.2019</a></span>ra:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/101521.jpg\">.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  3.- En todo aquello no modificado, se mantendr&#xE1;n las condiciones de la Res. N&#xBA; 739, del a&#xF1;o 2019.</div><div class=\"p\"> </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1140162,
+      "fecha": "2019-12-18"
+    }
+  }
+]

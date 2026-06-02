@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "2016-06-13",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-12-21",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9707635,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Apru&#xE9;base&nbsp; el&nbsp; programa de expropiaciones del Serviu Regi&#xF3;n de Biob&#xED;o de los lotes que se individualizan, emplazados en la comuna de Cabrero, provincia de Biob&#xED;o, en el marco del proyecto &quot;Construcci&#xF3;n Ciclov&#xED;a Ruta 060, Cabrero-Monte&#xE1;guila&quot;, que se indican a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/58480.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada de terrenos a expropiar: 18.576,46 mt2.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Biob&#xED;o.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Apru&#xE9;base&nbsp; el&nbsp; programa de expropiaciones del Serviu Regi&#xF3;n de Biob&#xED;o de los lotes que se individualizan, emplazados en la comuna de Cabrero, provincia de Biob&#xED;o, en el marco del proyecto &quot;Construcci&#xF3;n Ciclov&#xED;a Ruta 060, Cabrero-Monte&#xE1;guila&quot;, que se indican a continuaci&#xF3;n:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/58480.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada de terrenos a expropiar: 18.576,46 mt2.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Biob&#xED;o.</div><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los literales a), b), c), d) y e) del numeral 1 del Decreto 141 Exento, Vivienda, publicado el 21.12.2017, modifica la presente norma de la manera que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2018-09-01",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9707635,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Apru&#xE9;base&nbsp; el&nbsp; programa de expropiaciones del Serviu Regi&#xF3;n de Biob&#xED;o de los lotes que se individualizan, emplazados en la comuna de Cabrero, provincia de Biob&#xED;o, en el marco del proyecto &quot;Construcci&#xF3;n Ciclov&#xED;a Ruta 060, Cabrero-Monte&#xE1;guila&quot;, que se indican a continuaci&#xF3;n:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/58480.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada de terrenos a expropiar: 18.576,46 mt2.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Biob&#xED;o.</div><div class=\"p\"> </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los literales a), b), c), d) y e) del numeral 1 del Decreto 141 Exento, Vivienda, publicado el 21.12.2017, modifica la presente norma de la manera que la citada norma indica.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Apru&#xE9;base&nbsp; el&nbsp; programa de expropiaciones del Serviu Regi&#xF3;n de Biob&#xED;o de los lotes que se individualizan, emplazados en la comuna de Cabrero, provincia de Biob&#xED;o, en el marco del proyecto &quot;Construcci&#xF3;n Ciclov&#xED;a Ruta 060, Cabrero-Monte&#xE1;guila&quot;, que se indican a continuaci&#xF3;n:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div></div><br><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/58480.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada de terrenos a expropiar: 18.576,46 mt2.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Biob&#xED;o.</div><div class=\"p\"> </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los literales a), b), c), d) y e) del numeral 1 del Decreto 141 Exento, Vivienda, publicado el 21.12.2017, modifica la presente norma de la manera que la citada norma indica.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 46 Exento, Vivienda, publicado 01.09.2018, modifica la presente norma en el sentido de se&#xF1;alar a modo informativo el aumento de la superficie a expropiar del Lote 7, de propiedad aparente de don Jorge Ricardo Carvallo Toledo, Rol MZ 206, Rol N&#xBA; 320, de 1.920,87 m2 en 288,13 m2, totalizando 2.209,00 m2 a expropiar.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-09-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9707635,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Apru&#xE9;base&nbsp; el&nbsp; programa de expropiaciones del Serviu Regi&#xF3;n de Biob&#xED;o de los lotes que se individualizan, emplazados en la comuna de Cabrero, provincia de Biob&#xED;o, en el marco del proyecto &quot;Construcci&#xF3;n Ciclov&#xED;a Ruta 060, Cabrero-Monte&#xE1;guila&quot;, que se indican a continuaci&#xF3;n:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div></div><br><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/58480.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada de terrenos a expropiar: 18.576,46 mt2.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Biob&#xED;o.</div><div class=\"p\"> </div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los literales a), b), c), d) y e) del numeral 1 del Decreto 141 Exento, Vivienda, publicado el 21.12.2017, modifica la presente norma de la manera que la citada norma indica.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 46 Exento, Vivienda, publicado 01.09.2018, modifica la presente norma en el sentido de se&#xF1;alar a modo informativo el aumento de la superficie a expropiar del Lote 7, de propiedad aparente de don Jorge Ricardo Carvallo Toledo, Rol MZ 206, Rol N&#xBA; 320, de 1.920,87 m2 en 288,13 m2, totalizando 2.209,00 m2 a expropiar.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xB0;.- Apru&#xE9;base&nbsp; el&nbsp; programa de expropiaciones del Serviu Regi&#xF3;n de Biob&#xED;o de los lotes que se individualizan, emplazados en la comuna de Cabrero, provincia de Biob&#xED;o, en el marco del proyecto &quot;Construcci&#xF3;n Ciclov&#xED;a Ruta 060, Cabrero-Monte&#xE1;guila&quot;, que se indican a continuaci&#xF3;n:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div></div><br><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/58480.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada de terrenos a expropiar: 18.576,46 mt2.</div><br><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- El presente decreto se publicar&#xE1; en el Diario Oficial y en un peri&#xF3;dico de la provincia de Biob&#xED;o.</div><div class=\"p\"> </div><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los literales a), b), c), d) y e) del numeral 1 del Decreto 141 Exento, Vivienda, publicado el 21.12.2017, modifica la presente norma de la manera que la citada norma indica.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 del Decreto 46 Exento, Vivienda, publicado 01.09.2018, modifica la presente norma en el sentido de se&#xF1;alar a modo informativo el aumento de la superficie a expropiar del Lote 7, de propiedad aparente de don Jorge Ricardo Carvallo Toledo, Rol MZ 206, Rol N&#xBA; 320, de 1.920,87 m2 en 288,13 m2, totalizando 2.209,00 m2 a expropiar.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; Las letras a), b), c) del numeral 1 del Decreto 40 Exento, Vivienda, publicado el 25.09.2019, modifica la presente norma en el sentido de introducir los cambios en el rol y aparentes propietarios de los lotes 22, 61, 46. ademas modificar las superficies de los lotes 7 y 7B y 62 por los que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

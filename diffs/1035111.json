@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2011-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-03-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9218460,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: F&#xED;jase para el a&#xF1;o 2012 el calendario nacional de examinaci&#xF3;n para las personas inscritas en los Programas Flexibles de Nivelaci&#xF3;n de Estudios, Validaci&#xF3;n de Estudios, Examinaci&#xF3;n de Estudios realizados en Programas de Alfabetizaci&#xF3;n y Examen de equivalencia para fines laborales en los niveles de Educaci&#xF3;n B&#xE1;sica y Educaci&#xF3;n Media, considerando la simultaneidad en su aplicaci&#xF3;n a nivel nacional, de acuerdo al siguiente cuadro:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/22972.jpg\"> </div><br><div class=\"p\">&nbsp; &nbsp;  Podr&#xE1;n excepcionarse de los per&#xED;odos de aplicaci&#xF3;n establecidos en este calendario, las regiones cuya condici&#xF3;n y/o situaci&#xF3;n geogr&#xE1;fica ameriten su aplicaci&#xF3;n en otras fechas, situaci&#xF3;n que deber&#xE1; ser informada oportunamente, para su an&#xE1;lisis en la Unidad encargada de la Divisi&#xF3;n de Educaci&#xF3;n General, y refrendada mediante el acto administrativo de la respectiva Secretar&#xED;a Regional Ministerial de Educaci&#xF3;n.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo &#xFA;nico: F&#xED;jase para el a&#xF1;o 2012 el calendario nacional de examinaci&#xF3;n para las personas inscritas en los Programas Flexibles de Nivelaci&#xF3;n de Estudios, Validaci&#xF3;n de Estudios, Examinaci&#xF3;n de Estudios realizados en Programas de Alfabetizaci&#xF3;n y Examen de equivalencia para fines laborales en los niveles de Educaci&#xF3;n B&#xE1;sica y Educaci&#xF3;n Media, considerando la simultaneidad en su aplicaci&#xF3;n a nivel nacional, de acuerdo al siguiente cuadro:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/22972.jpg\"> </div><br><div class=\"p\">&nbsp; &nbsp;  Podr&#xE1;n excepcionarse de los per&#xED;odos de aplicaci&#xF3;n establecidos en este calendario, las regiones cuya condici&#xF3;n y/o situaci&#xF3;n geogr&#xE1;fica ameriten su aplicaci&#xF3;n en otras fechas, situaci&#xF3;n que deber&#xE1; ser informada oportunamente, para su an&#xE1;lisis en la Unidad encargada de la Divisi&#xF3;n de Educaci&#xF3;n General, y refrendada mediante el acto administrativo de la respectiva Secretar&#xED;a Regional Ministerial de Educaci&#xF3;n.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico de la Resoluci&#xF3;n 1016 Exenta, Educaci&#xF3;n, publicada el el 08.03.2012, modifica el cuadro inserto en el presente art&#xED;culo, de la manera que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

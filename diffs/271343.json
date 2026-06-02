@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2008-05-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-01-24",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8436524,
+          "old": "<div><div class=\"p\">DEJA SIN EFECTO RESOLUCI&#xD3;N N&#xBA;104, DE 2006, Y DESIGNA FUNCIONARIOS QUE ACTUAR&#xC1;N COMO DIRECTOR GENERAL DE POL&#xCD;TICA EXTERIOR EN ORDEN DE SUBROGANCIA QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 79.- Santiago, 28 de marzo de 2008.- Vistos: Los art&#xED;culos 4&#xBA; y 81 de la ley N&#xBA;18.834, cuyo texto refundido fue fijado por el DFL N&#xBA;29 del Ministerio de Hacienda; el DFL N&#xBA;161 de 1978, del Ministerio de Relaciones Exteriores; la resoluci&#xF3;n N&#xBA;104 de 2006, de esta Secretar&#xED;a de Estado; la resoluci&#xF3;n N&#xBA;520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que para un mejor ordenamiento, se hace necesario establecer un orden de Subrogaci&#xF3;n del Director General de Pol&#xED;tica Exterior, en los per&#xED;odos que por cualquier causa su titular se encuentre impedido de desempe&#xF1;ar el cargo.</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br></div>",
+          "new": "<div><div class=\"p\">DEJA SIN EFECTO RESOLUCI&#xD3;N N&#xBA;104, DE 2006, Y DESIGNA FUNCIONARIOS QUE ACTUAR&#xC1;N COMO DIRECTOR GENERAL DE POL&#xCD;TICA EXTERIOR EN ORDEN DE SUBROGANCIA QUE INDICA </div><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 79.- Santiago, 28 de marzo de 2008.- Vistos: Los art&#xED;culos 4&#xBA; y 81 de la ley N&#xBA;18.834, cuyo texto refundido fue fijado por el DFL N&#xBA;29 del Ministerio de Hacienda; el DFL N&#xBA;161 de 1978, del Ministerio de Relaciones Exteriores; la resoluci&#xF3;n N&#xBA;104 de 2006, de esta Secretar&#xED;a de Estado; la resoluci&#xF3;n N&#xBA;520 de 1996, de la Contralor&#xED;a General de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp;  Considerando: Que para un mejor ordenamiento, se hace necesario establecer un orden de Subrogaci&#xF3;n del Director General de Pol&#xED;tica Exterior, en los per&#xED;odos que por cualquier causa su titular se encuentre impedido de desempe&#xF1;ar el cargo.</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

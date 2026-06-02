@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2011-12-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-12-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9209006,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Por Decreto M.O.P. (Exento) N&#xBA;3556, de 28 de octubre de 2011, y en base a la facultad otorgada por el art&#xED;culo 105 del D.F.L. M.O.P. N&#xBA;850 de 1997, que fij&#xF3; el texto actualizado de la Ley N&#xBA;15.840, se expropi&#xF3; el lote de terreno N&#xB0;41-B, para la obra: CONCESION RUTA 160, TRAMO TRES PINOS - ACCESO NORTE A CORONEL TRAMO A, SECTOR II: ACCESO NORTE A LOTA - RAMADILLAS SUBTRAMO: KM. 33.800,00 - KM. 43.800,00, Provincia de Concepci&#xF3;n, que figura a nombre de MORALES CANCINO JOSE NEMESIO, rol de aval&#xFA;o 1266-82, Comuna de Lota, Regi&#xF3;n del Bio B&#xED;o, superficie 280 m2. La Comisi&#xF3;n de Peritos el 30 de agosto de 2011, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $2.061.600.- para el lote N&#xB0;41-B. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA;2186, de 1978. </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Por Decreto M.O.P. (Exento) N&#xBA;3556, de 28 de octubre de 2011, y en base a la facultad otorgada por el art&#xED;culo 105 del D.F.L. M.O.P. N&#xBA;850 de 1997, que fij&#xF3; el texto actualizado de la Ley N&#xBA;15.840, se expropi&#xF3; el lote de terreno N&#xB0;41-B, para la obra: CONCESION RUTA 160, TRAMO TRES PINOS - ACCESO NORTE A CORONEL TRAMO A, SECTOR II: ACCESO NORTE A LOTA - RAMADILLAS SUBTRAMO: KM. 33.800,00 - KM. 43.800,00, Provincia de Concepci&#xF3;n, que figura a nombre de MORALES CANCINO JOSE NEMESIO, rol de aval&#xFA;o 1266-82, Comuna de Lota, Regi&#xF3;n del Bio B&#xED;o, superficie 280 m2. La Comisi&#xF3;n de Peritos el 30 de agosto de 2011, fij&#xF3; el monto de la indemnizaci&#xF3;n provisional en la cantidad de $2.061.600.- para el lote N&#xB0;41-B. La comisi&#xF3;n de peritos encargada de tasar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1034416&amp;idParte=9217247&amp;idVersion=2011-12-15\">Aviso S/N, OBRAS<br>D.O. 15.12.2011</a></span> el lote N&#xBA;41-B de la obra: CONCESION RUTA 160, TRAMO TRES PINOS - ACCESO NORTE A CORONEL TRAMO A, SECTOR II: ACCESO NORTE A LOTA - RAMADILLAS SUBTRAMO: KM. 33.800,00 - KM. 43.800,00, la integraron los se&#xF1;ores Camilo Jos&#xE9; Jara Bravo, Helena Alejandra Zapata Navarrete y Ver&#xF3;nica Paz Olivier Valdebenito. La indemnizaci&#xF3;n se pagar&#xE1; al contado. La publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del Decreto Ley N&#xBA;2186, de 1978. </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1034416,
+      "fecha": "2011-12-15"
+    }
+  }
+]

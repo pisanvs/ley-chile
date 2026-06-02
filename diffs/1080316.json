@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-08-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-10-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9627345,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- N&#xF3;mbrase a los se&#xF1;ores Patricio Kamal Cury Pastene, Gisella Paulina Grau Ag&#xFC;ero, Ivonne Patricia Rozas Barrientos, Felipe Alejandro Olivares Cort&#xE9;s, V&#xED;ctor Manuel del Carmen Z&#xFA;&#xF1;iga Mauro, Patricio Rolando Maturana Canaval y Rodrigo Gonzalo Palacios Baza como Mediadores Financieros, de conformidad a las normas contenidas en la Ley N&#xBA; 19.496, el decreto supremo N&#xBA; 41 de 2012 del Ministerio Econom&#xED;a, Fomento y Turismo, resoluci&#xF3;n exenta N&#xBA; 1.174/2012 de este Servicio.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Inscr&#xED;banse sus registros en la N&#xF3;mina Regional que corresponda, con los siguientes roles:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/51406.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  3.- Actual&#xED;cese el Registro de Mediadores Financieros, seg&#xFA;n la n&#xF3;mina que a continuaci&#xF3;n se se&#xF1;ala, en atenci&#xF3;n a lo resuelto en los numerales precedentes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/51407.jpg\">.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- N&#xF3;mbrase a los se&#xF1;ores Pat<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>ricio Kamal Cury Pastene, Gisella Paulina Grau Ag&#xFC;ero, Ivonne Patricia Rozas Barrientos, Felipe Alejandro Olivares Cort&#xE9;s, V&#xED;ctor Manuel del Carmen Z&#xFA;&#xF1;iga Mauro, Patricio Rolando Maturana Canaval y Rodrigo Gonzalo Palacios Baza como Mediadores Financieros, de conformidad a las normas contenidas en la Ley N&#xBA; 19.496, el decreto supremo N&#xBA; 41 de 2012 del Ministerio Econom&#xED;a, Fomento y Turismo, resoluci&#xF3;n exenta N&#xBA; 1.174/2012 de este Servicio.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2.- Inscr&#xED;banse sus registros en la N&#xF3;mina Regional que corresponda, con los siguientes roles:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/51406.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  3.- Actual&#xED;cese el Registro de Mediadores Financieros, seg&#xFA;n la n&#xF3;mina que a continuaci&#xF3;n se se&#xF1;ala, en atenci&#xF3;n a lo resuelto en los numerales precedentes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/51407.jpg\">.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 1 de la Resoluci&#xF3;n 1499 exenta, Econom&#xED;a, publicada el 22.10.2015, revoca parcialmente la presente norma en el sentido de tener por no escrito el nombre del Sr. Rodrigo Gonzalo Palacios Baza.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "fecha": "2020-02-25",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-06-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10103487,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xBA;.- El plazo de inicio de la construcci&#xF3;n de la minicentral en comento se iniciar&#xE1; dentro de un plazo m&#xE1;ximo de seis meses, contados desde la fecha en que sea reducido a escritura p&#xFA;blica el decreto supremo mediante el cual se otorgue la concesi&#xF3;n el&#xE9;ctrica solicitada, y tendr&#xE1;n un plazo de ejecuci&#xF3;n de 16 meses, seg&#xFA;n las etapas que se indican en el siguiente cronograma:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/105429.jpg\"></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xBA;.- El plazo de inicio de la construcci&#xF3;n de la minicentral en comento se iniciar&#xE1; dentro de un plazo m&#xE1;ximo de seis <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>meses, contados desde la fecha en que sea reducido a escritura p&#xFA;blica el decreto supremo mediante el cual se otorgue la concesi&#xF3;n el&#xE9;ctrica solicitada, y tendr&#xE1;n un plazo de ejecuci&#xF3;n de 16 meses, seg&#xFA;n las etapas que se indican en el siguiente cronograma:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/105429.jpg\"></div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; del Decreto 88 Exento, Energ&#xED;a, publicado el 02.06.2021, modifica la presente norma, en el sentido de reemplazar la palabra &quot;doce&quot; por &quot;veinticuatro&quot;. Sin embargo, no se puede incorporar en el presente texto actualizado en raz&#xF3;n de que no coinciden los textos, lo que podr&#xED;a deberse a otra modificaci&#xF3;n intermedia citada en el referido decreto, ordenada por el decreto supremo exento N&#xB0; 170, de 7 de septiembre de 2020, del cual no tenemos registro de su publicaci&#xF3;n.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2023-06-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10103487,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xBA;.- El plazo de inicio de la construcci&#xF3;n de la minicentral en comento se iniciar&#xE1; dentro de un plazo m&#xE1;ximo de seis <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>meses, contados desde la fecha en que sea reducido a escritura p&#xFA;blica el decreto supremo mediante el cual se otorgue la concesi&#xF3;n el&#xE9;ctrica solicitada, y tendr&#xE1;n un plazo de ejecuci&#xF3;n de 16 meses, seg&#xFA;n las etapas que se indican en el siguiente cronograma:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/105429.jpg\"></div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 1&#xB0; del Decreto 88 Exento, Energ&#xED;a, publicado el 02.06.2021, modifica la presente norma, en el sentido de reemplazar la palabra &quot;doce&quot; por &quot;veinticuatro&quot;. Sin embargo, no se puede incorporar en el presente texto actualizado en raz&#xF3;n de que no coinciden los textos, lo que podr&#xED;a deberse a otra modificaci&#xF3;n intermedia citada en el referido decreto, ordenada por el decreto supremo exento N&#xB0; 170, de 7 de septiembre de 2020, del cual no tenemos registro de su publicaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1193405&amp;idParte=10437553&amp;idVersion=2023-06-14\">Decreto 112 EXENTO,<br>ENERG&#xCD;A<br>N&#xBA; 1<br>D.O. 14.06.2023</a></span>rt&#xED;culo 13&#xB0;.- El plazo de inicio de la construcci&#xF3;n de la minicentral en comento se iniciar&#xE1; dentro de un plazo m&#xE1;ximo de veinticuatro meses, contados desde la fecha en que sea reducido a escritura p&#xFA;blica el decreto supremo mediante el cual se otorgue la concesi&#xF3;n el&#xE9;ctrica solicitada, y tendr&#xE1;n un plazo de ejecuci&#xF3;n de 28 meses, seg&#xFA;n las etapas que se indican en el siguiente cronograma:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/167545.jpg\"></div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2025-02-20",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10103487,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1193405&amp;idParte=10437553&amp;idVersion=2023-06-14\">Decreto 112 EXENTO,<br>ENERG&#xCD;A<br>N&#xBA; 1<br>D.O. 14.06.2023</a></span>rt&#xED;culo 13&#xB0;.- El plazo de inicio de la construcci&#xF3;n de la minicentral en comento se iniciar&#xE1; dentro de un plazo m&#xE1;ximo de veinticuatro meses, contados desde la fecha en que sea reducido a escritura p&#xFA;blica el decreto supremo mediante el cual se otorgue la concesi&#xF3;n el&#xE9;ctrica solicitada, y tendr&#xE1;n un plazo de ejecuci&#xF3;n de 28 meses, seg&#xFA;n las etapas que se indican en el siguiente cronograma:</div><br><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/167545.jpg\"></div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xB0;.- El <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1211279&amp;idParte=10537962&amp;idVersion=2025-02-20\">Decreto 25 EXENTO,<br>ENERG&#xCD;A<br>Art. Primero<br>D.O. 20.02.2025</a></span>plazo de inicio de la construcci&#xF3;n de la minicentral en comento se iniciar&#xE1; dentro de un plazo m&#xE1;ximo de veinticuatro meses, contados desde la fecha en que sea reducido a escritura p&#xFA;blica el decreto supremo mediante el cual se otorgue la concesi&#xF3;n el&#xE9;ctrica solicitada, y tendr&#xE1;n un plazo de ejecuci&#xF3;n de 40 meses, seg&#xFA;n las etapas que se indican en el siguiente cronograma:</div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/192383.jpg\"></div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1211279,
+      "fecha": "2025-02-20"
+    }
+  },
+  {
+    "fecha": "2026-01-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10103487,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xB0;.- El <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1211279&amp;idParte=10537962&amp;idVersion=2025-02-20\">Decreto 25 EXENTO,<br>ENERG&#xCD;A<br>Art. Primero<br>D.O. 20.02.2025</a></span>plazo de inicio de la construcci&#xF3;n de la minicentral en comento se iniciar&#xE1; dentro de un plazo m&#xE1;ximo de veinticuatro meses, contados desde la fecha en que sea reducido a escritura p&#xFA;blica el decreto supremo mediante el cual se otorgue la concesi&#xF3;n el&#xE9;ctrica solicitada, y tendr&#xE1;n un plazo de ejecuci&#xF3;n de 40 meses, seg&#xFA;n las etapas que se indican en el siguiente cronograma:</div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/192383.jpg\"></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 13&#xB0;.-<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1211279&amp;idParte=10537962&amp;idVersion=2025-02-20\">Decreto 25 EXENTO,<br>ENERG&#xCD;A<br>Art. Primero<br>D.O. 20.02.2025</a></span><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1220960&amp;idParte=10581479&amp;idVersion=2026-01-31\">Decreto 27 EXENTO,<br>ENERG&#xCD;A<br>Art. Segundo<br>D.O. 31.01.2026</a></span>El plazo de inicio de la construcci&#xF3;n de la minicentral en comento se iniciar&#xE1; dentro de un plazo m&#xE1;ximo de veinticuatro meses, contados desde la fecha en que sea reducido a escritura p&#xFA;blica el decreto supremo mediante el cual se otorgue la concesi&#xF3;n el&#xE9;ctrica solicitada, y tendr&#xE1;n un plazo de ejecuci&#xF3;n de cuarenta y dos meses, seg&#xFA;n las etapas que se indican en el siguiente cronograma:</div><div class=\"p\">&nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/192383.jpg\"></div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1220960,
+      "fecha": "2026-01-31"
+    }
+  }
+]

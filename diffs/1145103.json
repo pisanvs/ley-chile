@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-05-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-08-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10119574,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;quese, el punto 5. de las Bases Administrativas y T&#xE9;cnicas del Fondo de Fortalecimiento de las Organizaciones de Inter&#xE9;s P&#xFA;blico del a&#xF1;o 2020, en lo relativo a Recurso de la asignaci&#xF3;n 318, en lo que respecta a transferencias a terceros.</div><div class=\"p\">&nbsp; &nbsp;  2. Modif&#xED;quese, los gastos operacionales del Fondo de Fortalecimiento de Organizaciones de Inter&#xE9;s P&#xFA;blico.</div><div class=\"p\">&nbsp; &nbsp;  3. Establ&#xE9;zcase, como nuevos montos de transferencias a terceros:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/108240.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  4. Establ&#xE9;zcase, como nuevos montos de gastos operacionales:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/108241.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  5. Publ&#xED;quese la presente resoluci&#xF3;n exenta en el Diario Oficial y en el sitio web institucional, sin desmedro de otras medidas de publicidad que se estimaren procedentes.</div><div class=\"p\">&nbsp; &nbsp;  6. Las bases administrativas y anexos que se aprueban por este acto estar&#xE1;n disponibles &#xED;ntegramente en el sitio web www.fondodefortalecimiento.gob.cl.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;quese, el punto 5. de las Bases Administrativas y T&#xE9;cnicas del Fondo de Fortalecimiento de las Organizaciones de Inter&#xE9;s P&#xFA;blico del a&#xF1;o 2020, en lo relativo a Recurso de la asignaci&#xF3;n 318, en lo que respecta a transferencias a terceros.</div><div class=\"p\">&nbsp; &nbsp;  2. Modif&#xED;quese, los gastos operacionales del Fondo de Fortalecimiento de Organizaciones de Inter&#xE9;s P&#xFA;blico.</div><div class=\"p\">&nbsp; &nbsp;  3. Establ&#xE9;zcase, como nuevos montos de transferencias a <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1148786&amp;idParte=10154179&amp;idVersion=2020-08-28\">Resoluci&#xF3;n 977 EXENTA,<br>GOBIERNO<br>N&#xB0; 3<br>D.O. 28.08.2020</a></span>terceros:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/112540.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  4. Establ&#xE9;zcase, como nuevos montos de gastos operacionales:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/112541.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  5. Publ&#xED;quese la presente resoluci&#xF3;n exenta en el Diario Oficial y en el sitio web institucional, sin desmedro de otras medidas de publicidad que se estimaren procedentes.</div><div class=\"p\">&nbsp; &nbsp;  6. Las bases administrativas y anexos que se aprueban por este acto estar&#xE1;n disponibles &#xED;ntegramente en el sitio web www.fondodefortalecimiento.gob.cl.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1148786,
+      "fecha": "2020-08-28"
+    }
+  }
+]

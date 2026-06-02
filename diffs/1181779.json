@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2022-09-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-05-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10367565,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xBA;.- El plazo de construcci&#xF3;n de las obras, desde el inicio de los trabajos hasta la terminaci&#xF3;n total de las obras, ser&#xE1; de 9 meses, considerando el inicio de ellas dentro de los 180 d&#xED;as siguientes contados desde la reducci&#xF3;n a escritura p&#xFA;blica del presente decreto de concesi&#xF3;n el&#xE9;ctrica definitiva. Los plazos para su terminaci&#xF3;n por etapas y secciones ser&#xE1;n los que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/153711.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xB0;.- El <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1192262&amp;idParte=10431518&amp;idVersion=2023-05-17\">Decreto 97 EXENTO,<br>ENERG&#xCD;A<br>N&#xB0; 1<br>D.O. 17.05.2023</a></span>plazo de construcci&#xF3;n de las obras, desde el inicio de los trabajos hasta la terminaci&#xF3;n total de las obras, ser&#xE1; de 9 meses, considerando el inicio de ellas dentro de los 28 meses siguientes contados desde la reducci&#xF3;n a escritura p&#xFA;blica del presente decreto de concesi&#xF3;n el&#xE9;ctrica definitiva. Los plazos para su terminaci&#xF3;n por etapas y secciones ser&#xE1;n los que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/166537.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2025-06-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10367565,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xB0;.- El <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1192262&amp;idParte=10431518&amp;idVersion=2023-05-17\">Decreto 97 EXENTO,<br>ENERG&#xCD;A<br>N&#xB0; 1<br>D.O. 17.05.2023</a></span>plazo de construcci&#xF3;n de las obras, desde el inicio de los trabajos hasta la terminaci&#xF3;n total de las obras, ser&#xE1; de 9 meses, considerando el inicio de ellas dentro de los 28 meses siguientes contados desde la reducci&#xF3;n a escritura p&#xFA;blica del presente decreto de concesi&#xF3;n el&#xE9;ctrica definitiva. Los plazos para su terminaci&#xF3;n por etapas y secciones ser&#xE1;n los que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/166537.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 11&#xB0;.- <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1214359&amp;idParte=10552436&amp;idVersion=2025-06-19\">Decreto 145 EXENTO,<br>ENERG&#xCD;A<br>N&#xB0; 1<br>D.O. 19.06.2025</a></span>El plazo de construcci&#xF3;n de las obras, desde el inicio de los trabajos hasta la terminaci&#xF3;n total de las obras, ser&#xE1; de 9 meses, considerando el inicio de ellas dentro de los 46 meses siguientes contados desde la reducci&#xF3;n a escritura p&#xFA;blica del presente decreto de concesi&#xF3;n el&#xE9;ctrica definitiva. Los plazos para su terminaci&#xF3;n por etapas y secciones ser&#xE1;n los que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/196651.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1214359,
+      "fecha": "2025-06-19"
+    }
+  }
+]

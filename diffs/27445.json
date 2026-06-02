@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1959-09-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1995-05-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8280793,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13&#xB0; Los permisos de edificaci&#xF3;n de la comuna de Vi&#xF1;a del Mar, correspondiente a predios ubicados al costado poniente de la Avenida Espa&#xF1;a, Caleta Abarca, Avenidas Marina, Per&#xFA;, San Mart&#xED;n, Jorge Montt y camino a Conc&#xF3;n hasta la desembocadura del r&#xED;o Aconcagua, ser&#xE1;n concedidos por la Municipalidad respectiva, con acuerdo de los dos tercios de sus regidores en ejercicio, previo informe favorable de su departamento de Obras.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 13&#xB0; Los permisos de edificaci&#xF3;n de la<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp; 1</a></div> comuna de Vi&#xF1;a del Mar, correspondiente a predios<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA:&nbsp; 2</a></div> ubicados al costado poniente de la Avenida Espa&#xF1;a, Caleta Abarca, Avenidas Marina, Per&#xFA;, San Mart&#xED;n, Jorge Montt y camino a Conc&#xF3;n hasta la desembocadura del r&#xED;o Aconcagua, ser&#xE1;n concedidos por la Municipalidad respectiva, con acuerdo de los dos tercios de sus regidores en ejercicio, previo informe favorable de su departamento de Obras.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp; 1</a> <br>&nbsp; &nbsp;  El Art&#xED;culo 5&#xB0; de la Ley N&#xB0; 19.388, publicada en el &quot;Diario Oficial&quot; de 30 de Mayo de 1995, declar&#xF3;, para aquellos casos indicados en el presente art&#xED;culo, en que se requiere la votaci&#xF3;n favorable de los regidores, que la referencia a &#xE9;stos debe entenderse efectuada a los concejales, con las modalidades y en los porcentajes establecidos en dicho texto legal. </div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA:&nbsp; 2</a> <br>&nbsp; &nbsp;  El Art&#xED;culo 1&#xB0; Transitorio de la Ley N&#xB0; 19.388, publicada en el &quot;Diario Oficial&quot; de 30 de Mayo de 1995, dispuso su entrada en vigencia un mes despu&#xE9;s de su publicaci&#xF3;n. No obstante, hasta la entrada en vigencia de la primera tasaci&#xF3;n de los bienes ra&#xED;ces, agr&#xED;colas y no agr&#xED;colas, que se efect&#xFA;e con posterioridad a la promulgaci&#xF3;n de esta ley, no se aplicar&#xE1; lo dispuesto en el n&#xFA;mero 3 del art&#xED;culo 3&#xB0;.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

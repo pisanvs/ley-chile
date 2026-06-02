@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2013-11-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-11-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9386624,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: D&#xE9;jase sin efecto la suspensi&#xF3;n de la importaci&#xF3;n de ovas de especies salm&#xF3;nidas provenientes de Dinamarca ordenada mediante <a href=\"https://www.leychile.cl/Navegar?idNorma=1053641&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta n&#xFA;mero 1.869</a>, citada en Visto, y autor&#xED;zase a dicho pa&#xED;s, de acuerdo a la evaluaci&#xF3;n referida, para exportar a Chile ovas de especies salm&#xF3;nidas bajo las siguientes condiciones:</div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; S&#xF3;lo podr&#xE1;n ser objeto de importaci&#xF3;n a Chile ovas de Salm&#xF3;n del Atl&#xE1;ntico procedentes de los siguientes centros de cultivo:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/35768.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Se reconocen los Programas Sanitarios Oficiales implementados por la Autoridad Competente de Dinamarca, Danish Veterinary and Food Administration (DVFA).</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; De conformidad con lo se&#xF1;alado en el numeral precedente, las condiciones de certificaci&#xF3;n para cada env&#xED;o, independiente del centro de origen, ser&#xE1;n las siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/35769.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; Como resultado del an&#xE1;lisis de riesgo, no se requerir&#xE1;n certificaciones complementarias.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: D&#xE9;jase sin efecto la suspensi&#xF3;n de la importaci&#xF3;n de ovas de especies salm&#xF3;nidas provenientes de Dinamarca ordenada mediante resoluci&#xF3;n exenta n&#xFA;mero 1.869, citada en Visto, y autor&#xED;zase a dicho pa&#xED;s, de acuerdo a la evaluaci&#xF3;n referida, para exportar a Chile ovas de especies salm&#xF3;nidas bajo las siguientes condiciones:</div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; S&#xF3;lo<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1056596&amp;idParte=9388050&amp;idVersion=2013-11-29\">Resoluci&#xF3;n 2755 EXENTA,<br>ECONOM&#xCD;A<br>Art. PRIMERO<br>D.O. 29.11.2013</a></span> podr&#xE1;n ser objeto de importaci&#xF3;n a Chile ovas de Trucha Arco Iris procedentes de los siguientes centros de <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div> cultivo:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/35768.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Se reconocen los Programas Sanitarios Oficiales implementados por la Autoridad Competente de Dinamarca, Danish Veterinary and Food Administration (DVFA).</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA; De conformidad con lo se&#xF1;alado en el numeral precedente, las condiciones de certificaci&#xF3;n para cada env&#xED;o, independiente del centro de origen, ser&#xE1;n las siguientes:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/35769.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  4&#xBA; Como resultado del an&#xE1;lisis de riesgo, no se requerir&#xE1;n certificaciones complementarias.</div><br><div class=\"p\">&nbsp; </div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp;  El art&#xED;culo primero de la Resoluci&#xF3;n Exenta 2755, Econom&#xED;a, publicada el 29.11.2013, ordena modificar el numeral 1&#xBA; del art&#xED;culo primero de la presente norma, no obstante, encontrarse el numeral 1 en el art&#xED;culo segundo.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1056596,
+      "fecha": "2013-11-29"
+    }
+  }
+]

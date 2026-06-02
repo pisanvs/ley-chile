@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-09-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-08-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10161438,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Apru&#xE9;base el programa de expropiaci&#xF3;n para la ejecuci&#xF3;n del proyecto &quot;Construcci&#xF3;n Espacio P&#xFA;blico Dichato - Vegas de Coliumo, Tom&#xE9;&quot;, c&#xF3;digo BIP 30463035-0, en la comuna de Tom&#xE9;, Regi&#xF3;n del Biob&#xED;o, seg&#xFA;n el Plano General de Expropiaci&#xF3;n &quot;Construcci&#xF3;n Espacio P&#xFA;blico Dichato - Vegas de Coliumo, Tom&#xE9;&quot;, S8R, elaborado por el Serviu de la Regi&#xF3;n del Biob&#xED;o, a escala 1:1.000, de agosto de 2020, que comprende los inmuebles que se especifican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/113454.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada a expropiar: 22.380 m2 (veintid&#xF3;s mil trescientos ochenta metros cuadrados).</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; El presente decreto ser&#xE1; publicado en el Diario Oficial y en un peri&#xF3;dico de la provincia de Concepci&#xF3;n, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xB0; Apru&#xE9;base el programa de expropiaci&#xF3;n para la ejecuci&#xF3;n del proyecto &quot;Construcci&#xF3;n Espacio P&#xFA;blico Dichato - Vegas de Coliumo, Tom&#xE9;&quot;, c&#xF3;digo BIP 30463035-0, en la comuna de Tom&#xE9;, Regi&#xF3;n del Biob&#xED;o, seg&#xFA;n el Plano General de Expropiaci&#xF3;n &quot;Construcci&#xF3;n Espacio P&#xFA;blico Dichato - Vegas de Coliumo, Tom&#xE9;&quot;, S8R, elaborado por el Serviu de la Regi&#xF3;n del Biob&#xED;o, a escala 1:1.000, de agosto de 2020, que comprende los inmuebles que se especifican a continuaci&#xF3;n<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/113454.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Superficie total aproximada a expropiar: 22.380 m2 (veintid&#xF3;s mil trescientos ochenta metros cuadrados).</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2&#xB0; El presente decreto ser&#xE1; publicado en el Diario Oficial y en un peri&#xF3;dico de la provincia de Concepci&#xF3;n, si lo hubiere.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; del Decreto 38 Exento, Vivienda, publicado el 03.08.2021, rectifica la presente norma en el siguiente sentido:&nbsp; &nbsp; &nbsp; <br>&nbsp; &nbsp;  a) Eliminar el Lote Rol SII N&#xBA; 551-4, de una superficie de 7.986 m2 (siete mil novecientos ochenta y seis metros cuadrados), pues no ser&#xE1; objeto de expropiaci&#xF3;n.<br>&nbsp; &nbsp;  b) Aumentar la superficie a expropiar del Lote Rol SII N&#xBA; 551-3, en 7.986 m2.<br>&nbsp; &nbsp;  c) La superficie total aproximada a expropiar se mantiene en 22.380 m2 (veintid&#xF3;s mil trescientos ochenta metros cuadrados).&nbsp; </div></div>"
+        }
+      ]
+    }
+  }
+]

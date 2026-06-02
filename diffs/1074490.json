@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2015-02-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-04-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9559162,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rgase nuevamente el otorgamiento de permisos de subdivisi&#xF3;n, loteo, urbanizaci&#xF3;n y de construcci&#xF3;n, por el plazo de tres meses, para los predios que se encuentran total o parcialmente bajo el &#xC1;rea de Riesgo Natural Geof&#xED;sico Asociado a Remoci&#xF3;n en Masa definida en el Plan Regulador Comunal de Vitacura.</div><div class=\"p\">&nbsp; &nbsp;  2. Mediante el presente decreto se informar&#xE1; a los interesados en la Direcci&#xF3;n de Obras Municipales.</div><div class=\"p\">&nbsp; &nbsp;  3. La postergaci&#xF3;n de permisos de edificaci&#xF3;n antes se&#xF1;alada regir&#xE1; desde la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quese el presente decreto a trav&#xE9;s de la Direcci&#xF3;n de Comunicaciones y Prensa en el Diario Oficial y en uno de los peri&#xF3;dicos de mayor circulaci&#xF3;n comunal.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Post&#xE9;rgase nuevamente el otorgamiento de permisos de subdivisi&#xF3;n<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>, loteo, urbanizaci&#xF3;n y de construcci&#xF3;n, por el plazo de tres meses, para los predios que se encuentran total o parcialmente bajo el &#xC1;rea de Riesgo Natural Geof&#xED;sico Asociado a Remoci&#xF3;n en Masa definida en el Plan Regulador Comunal de Vitacura.</div><div class=\"p\">&nbsp; &nbsp;  2. Mediante el presente decreto se informar&#xE1; a los interesados en la Direcci&#xF3;n de Obras Municipales.</div><div class=\"p\">&nbsp; &nbsp;  3. La postergaci&#xF3;n de permisos de edificaci&#xF3;n antes se&#xF1;alada regir&#xE1; desde la fecha de publicaci&#xF3;n del presente decreto en el Diario Oficial.</div><div class=\"p\">&nbsp; &nbsp;  4. Publ&#xED;quese el presente decreto a trav&#xE9;s de la Direcci&#xF3;n de Comunicaciones y Prensa en el Diario Oficial y en uno de los peri&#xF3;dicos de mayor circulaci&#xF3;n comunal.</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 1 de la Resoluci&#xF3;n 1204 Exenta, Vivienda, publicada el 29.04.2015, prorroga por el plazo de seis meses la postergaci&#xF3;n de permisos de subdivisi&#xF3;n, loteo o urbanizaci&#xF3;n predial y de construcciones, dispuesta por la presente norma, a contar del d&#xED;a 4 de febrero de 2015, para el sector conformado por los predios que se localicen total o parcialmente bajo el &#xC1;rea de Riesgo Natural Geof&#xED;sico asociado a remoci&#xF3;n en masa R-5 graficada en el actual Plan Regulador vigente, de la comuna de Vitacura.</div></div>"
+        }
+      ]
+    }
+  }
+]

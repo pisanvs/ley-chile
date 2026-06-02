@@ -1,0 +1,76 @@
+[
+  {
+    "fecha": "2019-12-27",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-09-12",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10087229,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero. Los Sistemas que a la fecha de publicaci&#xF3;n del presente cuerpo normativo se encuentren operativos en empresas de locomoci&#xF3;n colectiva interurbana y de servicios interurbanos de transporte de pasajeros, de acuerdo con lo se&#xF1;alado en la Resoluci&#xF3;n Exenta N&#xBA;1.081 de 2005 de este Servicio, tendr&#xE1;n hasta el 30 de septiembre del a&#xF1;o 2020 para obtener la autorizaci&#xF3;n de funcionamiento por parte de la Direcci&#xF3;n del Trabajo, se&#xF1;alada en los art&#xED;culos 9&#xBA; y siguientes de la presente Resoluci&#xF3;n Exenta.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero. Los Sistemas que a la fecha de publicaci&#xF3;n del presente cuerpo normativo se encuentren operativos en empresas de locomoci&#xF3;n colectiva interurbana y de servicios interurbanos de transporte de pasajeros, de acuerdo con lo se&#xF1;alado en la Resoluci&#xF3;n Exenta N&#xBA;1.081 de 2005 de este Servicio, tendr&#xE1;n hasta el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>30 de septiembre del a&#xF1;o 2020 para obtener la autorizaci&#xF3;n de funcionamiento por parte de la Direcci&#xF3;n del Trabajo, se&#xF1;alada en los art&#xED;culos 9&#xBA; y siguientes de la presente Resoluci&#xF3;n Exenta.</div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1037 Exenta, Trabajo, publicada el 12.09.2020, posterga el plazo establecido en la presente norma, por seis meses, a contar del d&#xED;a 1&#xB0; de octubre de 2020.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-03-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10087229,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero. Los Sistemas que a la fecha de publicaci&#xF3;n del presente cuerpo normativo se encuentren operativos en empresas de locomoci&#xF3;n colectiva interurbana y de servicios interurbanos de transporte de pasajeros, de acuerdo con lo se&#xF1;alado en la Resoluci&#xF3;n Exenta N&#xBA;1.081 de 2005 de este Servicio, tendr&#xE1;n hasta el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>30 de septiembre del a&#xF1;o 2020 para obtener la autorizaci&#xF3;n de funcionamiento por parte de la Direcci&#xF3;n del Trabajo, se&#xF1;alada en los art&#xED;culos 9&#xBA; y siguientes de la presente Resoluci&#xF3;n Exenta.</div><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1037 Exenta, Trabajo, publicada el 12.09.2020, posterga el plazo establecido en la presente norma, por seis meses, a contar del d&#xED;a 1&#xB0; de octubre de 2020.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero. Los Sistemas que a la fecha de publicaci&#xF3;n del presente cuerpo normativo se encuentren operativos en empresas de locomoci&#xF3;n colectiva interurbana y de servicios interurbanos de transporte de pasajeros, de acuerdo con lo se&#xF1;alado en la Resoluci&#xF3;n Exenta N&#xBA;1.081 de 2005 de este Servicio, tendr&#xE1;n hasta el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>30 de septiembre del a&#xF1;o 2020 para obtener la autorizaci&#xF3;n de funcionamiento por parte de la Direcci&#xF3;n del Trabajo, se&#xF1;alada en los art&#xED;culos 9&#xBA; y siguientes de la presente Resoluci&#xF3;n Exenta.</div><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1037 Exenta, Trabajo, publicada el 12.09.2020, posterga el plazo establecido en la presente norma, por seis meses, a contar del d&#xED;a 1&#xB0; de octubre de 2020.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 375 Exenta, Trabajo, publicada el 31.03.2021, posterga el plazo establecido en la presente norma, por nueve meses, a contar del d&#xED;a 1&#xBA; de octubre de 2020.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-07-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10087229,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero. Los Sistemas que a la fecha de publicaci&#xF3;n del presente cuerpo normativo se encuentren operativos en empresas de locomoci&#xF3;n colectiva interurbana y de servicios interurbanos de transporte de pasajeros, de acuerdo con lo se&#xF1;alado en la Resoluci&#xF3;n Exenta N&#xBA;1.081 de 2005 de este Servicio, tendr&#xE1;n hasta el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div>30 de septiembre del a&#xF1;o 2020 para obtener la autorizaci&#xF3;n de funcionamiento por parte de la Direcci&#xF3;n del Trabajo, se&#xF1;alada en los art&#xED;culos 9&#xBA; y siguientes de la presente Resoluci&#xF3;n Exenta.</div><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1037 Exenta, Trabajo, publicada el 12.09.2020, posterga el plazo establecido en la presente norma, por seis meses, a contar del d&#xED;a 1&#xB0; de octubre de 2020.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 375 Exenta, Trabajo, publicada el 31.03.2021, posterga el plazo establecido en la presente norma, por nueve meses, a contar del d&#xED;a 1&#xBA; de octubre de 2020.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero. Los Sistemas que a la fecha de publicaci&#xF3;n del presente cuerpo normativo se encuentren operativos en empresas de locomoci&#xF3;n colectiva interurbana y de servicios interurbanos de transporte de pasajeros, de acuerdo con lo se&#xF1;alado en la Resoluci&#xF3;n Exenta N&#xBA;1.081 de 2005 de este Servicio, tendr&#xE1;n hasta el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div>30 de septiembre del a&#xF1;o 2020 para obtener la autorizaci&#xF3;n de funcionamiento por parte de la Direcci&#xF3;n del Trabajo, se&#xF1;alada en los art&#xED;culos 9&#xBA; y siguientes de la presente Resoluci&#xF3;n Exenta.</div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1037 Exenta, Trabajo, publicada el 12.09.2020, posterga el plazo establecido en la presente norma, por seis meses, a contar del d&#xED;a 1&#xB0; de octubre de 2020.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 375 Exenta, Trabajo, publicada el 31.03.2021, posterga el plazo establecido en la presente norma, por nueve meses, a contar del d&#xED;a 1&#xBA; de octubre de 2020.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 814 Exenta, Trabajo, publicada el 06.07.2021, posterga el plazo establecido en la presente norma, por doce meses, a contar del d&#xED;a 1&#xBA; de julio de 2021.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2023-03-17",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10087229,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero. Los Sistemas que a la fecha de publicaci&#xF3;n del presente cuerpo normativo se encuentren operativos en empresas de locomoci&#xF3;n colectiva interurbana y de servicios interurbanos de transporte de pasajeros, de acuerdo con lo se&#xF1;alado en la Resoluci&#xF3;n Exenta N&#xBA;1.081 de 2005 de este Servicio, tendr&#xE1;n hasta el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div>30 de septiembre del a&#xF1;o 2020 para obtener la autorizaci&#xF3;n de funcionamiento por parte de la Direcci&#xF3;n del Trabajo, se&#xF1;alada en los art&#xED;culos 9&#xBA; y siguientes de la presente Resoluci&#xF3;n Exenta.</div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1037 Exenta, Trabajo, publicada el 12.09.2020, posterga el plazo establecido en la presente norma, por seis meses, a contar del d&#xED;a 1&#xB0; de octubre de 2020.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 375 Exenta, Trabajo, publicada el 31.03.2021, posterga el plazo establecido en la presente norma, por nueve meses, a contar del d&#xED;a 1&#xBA; de octubre de 2020.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 814 Exenta, Trabajo, publicada el 06.07.2021, posterga el plazo establecido en la presente norma, por doce meses, a contar del d&#xED;a 1&#xBA; de julio de 2021.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo Primero. Los Sistemas que a la fecha de publicaci&#xF3;n del presente cuerpo normativo se encuentren operativos en empresas de locomoci&#xF3;n colectiva interurbana y de servicios interurbanos de transporte de pasajeros, de acuerdo con lo se&#xF1;alado en la Resoluci&#xF3;n Exenta N&#xBA;1.081 de 2005 de este Servicio, tendr&#xE1;n hasta el <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div><div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 2</a></div>30 de septiembre del <div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA 3</a></div>a&#xF1;o 2020 para obtener la autorizaci&#xF3;n de funcionamiento por parte de la Direcci&#xF3;n del Trabajo, se&#xF1;alada en los art&#xED;culos 9&#xBA; y siguientes de la presente Resoluci&#xF3;n Exenta.</div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1037 Exenta, Trabajo, publicada el 12.09.2020, posterga el plazo establecido en la presente norma, por seis meses, a contar del d&#xED;a 1&#xB0; de octubre de 2020.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 375 Exenta, Trabajo, publicada el 31.03.2021, posterga el plazo establecido en la presente norma, por nueve meses, a contar del d&#xED;a 1&#xBA; de octubre de 2020.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 2</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 814 Exenta, Trabajo, publicada el 06.07.2021, posterga el plazo establecido en la presente norma, por doce meses, a contar del d&#xED;a 1&#xBA; de julio de 2021.</div><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA 3</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 429 Exenta, Trabajo, publicada el 17.03.2023, posterga el plazo establecido en la presente norma, por seis meses, a contar del d&#xED;a 1&#xBA; de marzo de 2023.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2023-09-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]
