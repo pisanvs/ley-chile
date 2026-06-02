@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2000-11-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2001-05-31",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6307844,
+          "old": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 19, DE 1999</div><br><div class=\"p\">(Resoluci&#xF3;n)</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 63.- Santiago, 24 de agosto de 2000.- Visto: Lo dispuesto en los art&#xED;culos 56, 89 y 98 de la ley 18.290, de Tr&#xE1;nsito; el art&#xED;culo 3&#xBA; de la ley 18.696, y la resoluci&#xF3;n N&#xBA; 19 de 1999, modificada por la resoluci&#xF3;n N&#xBA; 38 de 2000, ambas del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br></div>",
+          "new": "<div><div class=\"p\">MODIFICA RESOLUCION N&#xBA; 19, DE 1999</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 63.- Santiago, 24 de agosto de 2000.- Visto: Lo dispuesto en los art&#xED;culos 56, 89 y 98 de la ley 18.290, de Tr&#xE1;nsito; el art&#xED;culo 3&#xBA; de la ley 18.696, y la resoluci&#xF3;n N&#xBA; 19 de 1999, modificada por la resoluci&#xF3;n N&#xBA; 38 de 2000, ambas del Ministerio de Transportes y Telecomunicaciones, Subsecretar&#xED;a de Transportes.</div><br><div class=\"p\">&nbsp; &nbsp;  R e s u e l v o:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

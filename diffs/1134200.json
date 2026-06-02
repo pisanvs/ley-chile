@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2019-07-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-09-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10041130,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. D&#xE9;jase sin efecto la <a href=\"https://www.leychile.cl/Navegar?idNorma=1131282&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n N&#xB0; 1.042 (V. y U.), de 2 de mayo del a&#xF1;o 2019</a>. </div><div class=\"p\">&nbsp; &nbsp;  2. Des&#xED;gnase sujetos pasivos de la ley N&#xB0; 20.730 en la calidad que se indica, a los siguientes funcionarios en raz&#xF3;n del cargo que en cada caso se indica y a sus subrogantes, seg&#xFA;n corresponda, cuando ejerzan dicha funci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/95431.jpg\">.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  1. D&#xE9;jase sin efecto la resoluci&#xF3;n N&#xB0; 1.042 (V. y U.), de 2 de mayo del a&#xF1;o 2019. </div><div class=\"p\">&nbsp; &nbsp;  2. Des&#xED;gnase sujetos pasivos de la ley N&#xB0; 20.730 en la calidad que se indica, a los siguientes funcionarios en raz&#xF3;n del cargo que en cada caso se indica y a sus subrogantes, seg&#xFA;n corresponda, cuando ejerzan dicha funci&#xF3;n:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/95431.jpg\">.</div><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 2082 Exenta, Vivienda, publicada el 23.09.2019, modifica la presente norma en el sentido de incluir en el listado de sujetos pasivos vigentes del Ministerio de Vivienda y Urbanismo, al Sr. Felipe N&#xFA;&#xF1;ez Orrego, RUN 17.767.466-4, Asesor del Ministro de Vivienda y Urbanismo.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-12-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "fecha": "1960-04-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2000-09-28",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5866014,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 17.o Los Hospitales, Servicios de Asistencia P&#xFA;blica y dem&#xE1;s establecimientos donde habitual o transitoriamente lleguen casos</div><div class=\"p\">m&#xE9;dico-legales, deber&#xE1;n otorgar las facilidades necesarias para el cumplimiento de las &#xF3;rdenes judiciales.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 17.o Los Hospitales, Servicios de Asistencia P&#xFA;blica y dem&#xE1;s establecimientos donde habitual o transitoriamente lleguen casos m&#xE9;dico-legales, deber&#xE1;n otorgar las facilidades necesarias para el cumplimiento de las &#xF3;rdenes judiciales.</div><div class=\"p\">&nbsp; &nbsp; En caso de que deban someterse a ex&#xE1;menes, o<span class=\"n\" id=\"n_0\">LEY 19693<br>Art. 4&#xBA;<br>D.O. 28.09.2000</span> curaciones que no hagan necesaria la hospitalizaci&#xF3;n, personas que se encuentren detenidas bajo la custodia de funcionarios de Carabineros o de la Polic&#xED;a de Investigaciones, el responsable del establecimiento arbitrar&#xE1; todas las medidas necesarias para que los ex&#xE1;menes o curaciones se efect&#xFA;en en forma expedita.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2002-05-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5865994,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.o El Servicio M&#xE9;dico Legal asesorar&#xE1; a los Tribunales de Justicia en materias m&#xE9;dico-legales y colaborar&#xE1; con las C&#xE1;tedras de Medicina Legal de las Universidades del pa&#xED;s.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.o El Servicio M&#xE9;dico Legal asesorar&#xE1;<span class=\"n\" id=\"n_0\">LEY 19806<br>Art. 14<br>D.O. 31.05.2002</span> al Ministerio P&#xFA;blico y a los Tribunales de Justicia en materias m&#xE9;dico-legales y colaborar&#xE1; con las C&#xE1;tedras de Medicina Legal de las Universidades del pa&#xED;s.</div><br></div>"
+        },
+        {
+          "part_id": 5865995,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3.o Le corresponder&#xE1;, especialmente, al Servicio M&#xE9;dico Legal:</div><div class=\"p\">&nbsp; &nbsp; a) Emitir informes m&#xE9;dico-legales a petici&#xF3;n de los Tribunales de Justicia;</div><div class=\"p\">&nbsp; &nbsp; b) Promover el desarrollo de la investigaci&#xF3;n cient&#xED;fica en materias m&#xE9;dico-legales;</div><div class=\"p\">&nbsp; &nbsp; c) Colaborar con las C&#xE1;tedras de Medicina Legal de las Universidades del pa&#xED;s;</div><div class=\"p\">&nbsp; &nbsp; d) Formar y mantener museos y colecciones de piezas y objetos relacionados con la Medicina Legal; y e) Las dem&#xE1;s labores que le encomienden las leyes. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3.o Le corresponder&#xE1;, especialmente, al Servicio M&#xE9;dico Legal:</div><div class=\"p\">&nbsp; &nbsp; a) Emitir informes m&#xE9;dico-legales a petici&#xF3;n del<span class=\"n\" id=\"n_1\">LEY 19806<br>Art. 14<br>D.O. 31.05.2002</span> Ministerio P&#xFA;blico y de los Tribunales de Justicia;</div><div class=\"p\">&nbsp; &nbsp; b) Promover el desarrollo de la investigaci&#xF3;n cient&#xED;fica en materias m&#xE9;dico-legales;</div><div class=\"p\">&nbsp; &nbsp; c) Colaborar con las C&#xE1;tedras de Medicina Legal de las Universidades del pa&#xED;s;</div><div class=\"p\">&nbsp; &nbsp; d) Formar y mantener museos y colecciones de piezas y objetos relacionados con la Medicina Legal; y</div><div class=\"p\">&nbsp; &nbsp;  e) Las dem&#xE1;s labores que le encomienden las leyes.</div><br></div>"
+        },
+        {
+          "part_id": 5866001,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 8.o Los M&#xE9;dicos Legistas ser&#xE1;n considerados como m&#xE9;dicos de ciudad para los efectos de lo dispuesto en el art&#xED;culo 224 del C&#xF3;digo de Procedimiento Penal y dem&#xE1;s disposiciones legales.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8.o DEROGADO<span class=\"n\" id=\"n_2\">LEY 19806<br>Art. 14<br>D.O. 31.05.2002</span></div><br></div>"
+        },
+        {
+          "part_id": 5866011,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 15.o El Fiscal de la Corte Suprema tendr&#xE1; la supervigilancia de todo el Servicio M&#xE9;dico Legal y de sus empleados, en lo referente al esclarecimiento de los delitos y al cumplimiento de las &#xF3;rdenes periciales. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15.o DEROGADO<span class=\"n\" id=\"n_3\">LEY 19806<br>Art. 14<br>D.O. 31.05.2002</span></div><br></div>"
+        },
+        {
+          "part_id": 5866014,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 17.o Los Hospitales, Servicios de Asistencia P&#xFA;blica y dem&#xE1;s establecimientos donde habitual o transitoriamente lleguen casos m&#xE9;dico-legales, deber&#xE1;n otorgar las facilidades necesarias para el cumplimiento de las &#xF3;rdenes judiciales.</div><div class=\"p\">&nbsp; &nbsp; En caso de que deban someterse a ex&#xE1;menes, o<span class=\"n\" id=\"n_0\">LEY 19693<br>Art. 4&#xBA;<br>D.O. 28.09.2000</span> curaciones que no hagan necesaria la hospitalizaci&#xF3;n, personas que se encuentren detenidas bajo la custodia de funcionarios de Carabineros o de la Polic&#xED;a de Investigaciones, el responsable del establecimiento arbitrar&#xE1; todas las medidas necesarias para que los ex&#xE1;menes o curaciones se efect&#xFA;en en forma expedita.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 17.o Los Hospitales, Servicios de Asistencia P&#xFA;blica y dem&#xE1;s establecimientos donde habitual o transitoriamente lleguen casos m&#xE9;dico-legales, deber&#xE1;n otorgar las facilidades necesarias para el cumplimiento de las &#xF3;rdenes judiciales.</div><div class=\"p\">&nbsp; &nbsp; En caso de que deban someterse a ex&#xE1;menes, o<span class=\"n\" id=\"n_4\">LEY 19693<br>Art. 4&#xBA;<br>D.O. 28.09.2000</span> curaciones que no hagan necesaria la hospitalizaci&#xF3;n, personas que se encuentren detenidas bajo la custodia de funcionarios de Carabineros o de la Polic&#xED;a de Investigaciones, el responsable del establecimiento arbitrar&#xE1; todas las medidas necesarias para que los ex&#xE1;menes o curaciones se efect&#xFA;en en forma expedita.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2005-10-21",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 5865991,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; FIJA EL ESTATUTO ORGANICO DEL SERVICIO MEDICO LEGAL N&#xFA;m. 196.- Santiago, 25 de Marzo de 1960.- Vistas las facultades que me otorga el art&#xED;culo 202 de la ley N.o 13,305, de 6 de Abril de 1959,</div><div class=\"p\">&nbsp; &nbsp; dicto el siguiente Decreto con fuerza de ley:</div><div class=\"p\">&nbsp; &nbsp; T&#xE9;ngase como texto legal org&#xE1;nico del Servicio M&#xE9;dico Legal el siguiente:</div><br></div>",
+          "new": "<div><br><div class=\"p\">FIJA EL ESTATUTO ORGANICO DEL SERVICIO MEDICO LEGAL<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div></div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 196.- Santiago, 25 de Marzo de 1960.- Vistas las facultades que me otorga el art&#xED;culo 202 de la ley N.o 13,305, de 6 de Abril de 1959,</div><div class=\"p\">&nbsp; &nbsp; dicto el siguiente</div><div class=\"p\">&nbsp; &nbsp; Decreto con fuerza de ley:</div><div class=\"p\">&nbsp; &nbsp; T&#xE9;ngase como texto legal org&#xE1;nico del Servicio M&#xE9;dico Legal el siguiente:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  EL art&#xED;culo 27 de la LEY 20065, publicada el 21.10.2005, derog&#xF3; la presente norma.<br></div></div>"
+        },
+        {
+          "part_id": 5865994,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.o El Servicio M&#xE9;dico Legal asesorar&#xE1;<span class=\"n\" id=\"n_0\">LEY 19806<br>Art. 14<br>D.O. 31.05.2002</span> al Ministerio P&#xFA;blico y a los Tribunales de Justicia en materias m&#xE9;dico-legales y colaborar&#xE1; con las C&#xE1;tedras de Medicina Legal de las Universidades del pa&#xED;s.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2.o El Servicio M&#xE9;dico Legal asesorar&#xE1;<span class=\"n\" id=\"n_1\">LEY 19806<br>Art. 14<br>D.O. 31.05.2002</span> al Ministerio P&#xFA;blico y a los Tribunales de Justicia en materias m&#xE9;dico-legales y colaborar&#xE1; con las C&#xE1;tedras de Medicina Legal de las Universidades del pa&#xED;s.</div><br></div>"
+        },
+        {
+          "part_id": 5865995,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3.o Le corresponder&#xE1;, especialmente, al Servicio M&#xE9;dico Legal:</div><div class=\"p\">&nbsp; &nbsp; a) Emitir informes m&#xE9;dico-legales a petici&#xF3;n del<span class=\"n\" id=\"n_1\">LEY 19806<br>Art. 14<br>D.O. 31.05.2002</span> Ministerio P&#xFA;blico y de los Tribunales de Justicia;</div><div class=\"p\">&nbsp; &nbsp; b) Promover el desarrollo de la investigaci&#xF3;n cient&#xED;fica en materias m&#xE9;dico-legales;</div><div class=\"p\">&nbsp; &nbsp; c) Colaborar con las C&#xE1;tedras de Medicina Legal de las Universidades del pa&#xED;s;</div><div class=\"p\">&nbsp; &nbsp; d) Formar y mantener museos y colecciones de piezas y objetos relacionados con la Medicina Legal; y</div><div class=\"p\">&nbsp; &nbsp;  e) Las dem&#xE1;s labores que le encomienden las leyes.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3.o Le corresponder&#xE1;, especialmente, al Servicio M&#xE9;dico Legal:</div><div class=\"p\">&nbsp; &nbsp; a) Emitir informes m&#xE9;dico-legales a petici&#xF3;n del<span class=\"n\" id=\"n_2\">LEY 19806<br>Art. 14<br>D.O. 31.05.2002</span> Ministerio P&#xFA;blico y de los Tribunales de Justicia;</div><div class=\"p\">&nbsp; &nbsp; b) Promover el desarrollo de la investigaci&#xF3;n cient&#xED;fica en materias m&#xE9;dico-legales;</div><div class=\"p\">&nbsp; &nbsp; c) Colaborar con las C&#xE1;tedras de Medicina Legal de las Universidades del pa&#xED;s;</div><div class=\"p\">&nbsp; &nbsp; d) Formar y mantener museos y colecciones de piezas y objetos relacionados con la Medicina Legal; y</div><div class=\"p\">&nbsp; &nbsp;  e) Las dem&#xE1;s labores que le encomienden las leyes.</div><br></div>"
+        },
+        {
+          "part_id": 5866001,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8.o DEROGADO<span class=\"n\" id=\"n_2\">LEY 19806<br>Art. 14<br>D.O. 31.05.2002</span></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8.o DEROGADO<span class=\"n\" id=\"n_3\">LEY 19806<br>Art. 14<br>D.O. 31.05.2002</span></div><br></div>"
+        },
+        {
+          "part_id": 5866011,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15.o DEROGADO<span class=\"n\" id=\"n_3\">LEY 19806<br>Art. 14<br>D.O. 31.05.2002</span></div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 15.o DEROGADO<span class=\"n\" id=\"n_4\">LEY 19806<br>Art. 14<br>D.O. 31.05.2002</span></div><br></div>"
+        },
+        {
+          "part_id": 5866014,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 17.o Los Hospitales, Servicios de Asistencia P&#xFA;blica y dem&#xE1;s establecimientos donde habitual o transitoriamente lleguen casos m&#xE9;dico-legales, deber&#xE1;n otorgar las facilidades necesarias para el cumplimiento de las &#xF3;rdenes judiciales.</div><div class=\"p\">&nbsp; &nbsp; En caso de que deban someterse a ex&#xE1;menes, o<span class=\"n\" id=\"n_4\">LEY 19693<br>Art. 4&#xBA;<br>D.O. 28.09.2000</span> curaciones que no hagan necesaria la hospitalizaci&#xF3;n, personas que se encuentren detenidas bajo la custodia de funcionarios de Carabineros o de la Polic&#xED;a de Investigaciones, el responsable del establecimiento arbitrar&#xE1; todas las medidas necesarias para que los ex&#xE1;menes o curaciones se efect&#xFA;en en forma expedita.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 17.o Los Hospitales, Servicios de Asistencia P&#xFA;blica y dem&#xE1;s establecimientos donde habitual o transitoriamente lleguen casos m&#xE9;dico-legales, deber&#xE1;n otorgar las facilidades necesarias para el cumplimiento de las &#xF3;rdenes judiciales.</div><div class=\"p\">&nbsp; &nbsp; En caso de que deban someterse a ex&#xE1;menes, o<span class=\"n\" id=\"n_5\">LEY 19693<br>Art. 4&#xBA;<br>D.O. 28.09.2000</span> curaciones que no hagan necesaria la hospitalizaci&#xF3;n, personas que se encuentren detenidas bajo la custodia de funcionarios de Carabineros o de la Polic&#xED;a de Investigaciones, el responsable del establecimiento arbitrar&#xE1; todas las medidas necesarias para que los ex&#xE1;menes o curaciones se efect&#xFA;en en forma expedita.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

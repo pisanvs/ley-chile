@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "1981-09-17",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1981-09-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8987999,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 1&#xB0; Los viajes al extranjero de los funcionarios, empleados u obreros de los Organismos, Instituciones, Empresas del Estado y dem&#xE1;s personas jur&#xED;dicas a que se refiere el art&#xED;culo 202&#xB0; de la ley 13.305, deber&#xE1;n ser autorizados por decreto supremo fundado, en la forma dispuesta por el decreto con fuerza de ley 1|1.487, de 11 de mayo de 1943.</div><div class=\"p\">&nbsp; &nbsp; S&#xF3;lo se except&#xFA;an de lo dispuesto en el inciso precedente los funcionarios, empleados u obreros de las Instituciones o Servicios a que se refiere el art&#xED;culo 208&#xB0; de la citada ley 13.305, salvo que a la fecha de vigencia de este decreto con fuerza de ley se les aplique tal modalidad, como asimismo las salidas al extranjero que se hagan durante el goce de feriados, permisos o licencias otorgados en conformidad a la ley, y siempre que ellas no ocasionen al Fisco y al respectivo Servicio otro gasto que el sueldo o jornal, cuando legalmente corresponda seguir percibi&#xE9;ndolo.</div><div class=\"p\">&nbsp; &nbsp; No obstante, cuando se trate del personal de las<span class=\"n\" id=\"n_0\">Ley 18029,<br>Art. 1&#xB0;</span> F&#xE1;bricas y Maestranzas del Ej&#xE9;rcito y del de Astilleros y Maestranzas de la Armada, las comisiones de servicio al extranjero que no excedan de treinta d&#xED;as ser&#xE1;n dispuestas por los Directores de esas entidades.</div><br></div>"
+        },
+        {
+          "part_id": 8988000,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0; Los funcionarios, empleados u obreros que infrinjan lo dispuesto en este decreto con fuerza de ley, como asimismo los jefes que permitan tal infracci&#xF3;n, ser&#xE1;n sancionados con la p&#xE9;rdida de sus respectivos empleos o cargos, sin perjuicio de lo dispuesto en el art&#xED;culo 72&#xB0;, N&#xB0; 8, de la Constituci&#xF3;n Pol&#xED;tica del Estado.</div><br></div>"
+        },
+        {
+          "part_id": 8988001,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 3&#xB0; Der&#xF3;ganse todas aquellas disposiciones, de car&#xE1;cter general o especial, que sean contrarias o incompatibles con lo prescrito en el presente decreto con fuerza de ley y que se refieran a los Organismos, Instituciones, Empresas del Estado y dem&#xE1;s personas jur&#xED;dicas que se&#xF1;ala el art&#xED;culo 1&#xB0;. </div></div>"
+        },
+        {
+          "part_id": 8988002,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; T&#xF3;mese raz&#xF3;n, comun&#xED;quese y publ&#xED;quese.- JORGE ALESSANDRI RODRIGUEZ.- Roberto Vergara.- Germ&#xE1;n Vergara.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

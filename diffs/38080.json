@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1992-01-11",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1999-07-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6019975,
+          "old": "<div><div class=\"p\">DEJA SIN EFECTO OBLIGACION DE PRESENTAR SOLICITUD PARA CONFECCIONAR LIBROS DE CONTABILIDAD Y/O AUXILIARES EN HOJAS SUELTAS</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 8 de Enero de 1992.- Hoy se ha resuelto lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 42 exenta.- Vistos: Las facultades contempladas en el art&#xED;culo 6&#xB0;, letra A, N&#xB0; 1 y art&#xED;culo 17&#xB0;, inciso 3&#xB0;, del C&#xF3;digo Tributario; en los art&#xED;culos 1&#xB0; y 7&#xB0; del D.F.L. N&#xB0; 7, de 1980, del Ministerio de Hacienda, que contiene la Ley Org&#xE1;nica del Servicio de Impuestos Internos; y</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; Que, esta Direcci&#xF3;n ha estimado conveniente facilitar a los contribuyentes el acceso a la confecci&#xF3;n de libros de contabilidad y/o auxiliares en hojas sueltas, escritas a mano o en otra forma.</div><div class=\"p\">&nbsp; &nbsp; Que la referida circunstancia hace necesario dejar sin efecto la obligaci&#xF3;n de presentar solicitud ante las Direcciones Regionales del Servicio de Impuestos Internos y efectuar, adem&#xE1;s, las adecuaciones pertinentes a las diversas instrucciones que sean impartidas sobre la materia,</div><br><div class=\"p\">&nbsp; &nbsp; Se Resuelve:</div><br><br></div>",
+          "new": "<div><div class=\"p\">DEJA SIN EFECTO OBLIGACION DE PRESENTAR SOLICITUD PARA CONFECCIONAR LIBROS DE CONTABILIDAD Y/O AUXILIARES EN HOJAS SUELTAS</div><br><div class=\"p\">&nbsp; &nbsp; Santiago, 8 de Enero de 1992.- Hoy se ha resuelto lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 42 exenta.- Vistos: Las facultades contempladas en el art&#xED;culo 6&#xB0;, letra A, N&#xB0; 1 y art&#xED;culo 17&#xB0;, inciso 3&#xB0;, del C&#xF3;digo Tributario; en los art&#xED;culos 1&#xB0; y 7&#xB0; del D.F.L. N&#xB0; 7, de 1980, del Ministerio de Hacienda, que contiene la Ley Org&#xE1;nica del Servicio de Impuestos Internos; y</div><br><div class=\"p\">&nbsp; &nbsp; Considerando:</div><br><div class=\"p\">&nbsp; &nbsp; Que, esta Direcci&#xF3;n ha estimado conveniente facilitar a los contribuyentes el acceso a la confecci&#xF3;n de libros de contabilidad y/o auxiliares en hojas sueltas, escritas a mano o en otra forma.</div><div class=\"p\">&nbsp; &nbsp; Que la referida circunstancia hace necesario dejar sin efecto la obligaci&#xF3;n de presentar solicitud ante las Direcciones Regionales del Servicio de Impuestos Internos y efectuar, adem&#xE1;s, las adecuaciones pertinentes a las diversas instrucciones que sean impartidas sobre la materia,</div><br><div class=\"p\">&nbsp; &nbsp; Se Resuelve:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

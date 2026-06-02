@@ -1,0 +1,46 @@
+[
+  {
+    "fecha": "2006-08-10",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-04-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7331618,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;: Corresponder&#xE1; al Departamento de Rentas Municipales fiscalizar el funcionamiento de las m&#xE1;quinas de destreza autorizadas. Cualquier infracci&#xF3;n a la presente ordenanza faculta a la autoridad para poner t&#xE9;rmino al permiso otorgado, el que ser&#xE1; eminentemente precario.</div><div class=\"p\">&nbsp; &nbsp;  La existencia de m&#xE1;quinas de azar o de destreza no autorizadas ser&#xE1;n sancionada con el retiro de las m&#xE1;quinas y una multa equivalente a 5 U.T.M..</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;: Corresponder&#xE1; al Departamento de Rentas Municipales, como asimismo a las Fuerzas de Orden<span class=\"n\" id=\"n_0\">DTO 551,<br>M. DE LO PRADO<br>N&#xBA; 1<br>D.O. 14.04.2007</span> P&#xFA;blico de Carabineros de Chile fiscalizar el funcionamiento de las m&#xE1;quinas de destreza autorizadas. Cualquier infracci&#xF3;n a la presente ordenanza faculta a la autoridad para poner t&#xE9;rmino al permiso otorgado, el que ser&#xE1; eminentemente precario.</div><div class=\"p\">&nbsp; &nbsp;  La existencia de m&#xE1;quinas de azar o de destreza no autorizadas ser&#xE1;n sancionada con el retiro de las m&#xE1;quinas y una multa equivalente a 5 U.T.M..</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2011-08-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7331617,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: El funcionamiento de las m&#xE1;quinas de destreza no podr&#xE1; exceder de las 24.00 horas. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 8&#xBA;: El funcionamiento<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1028753&amp;idParte=9168693&amp;idVersion=2011-08-18\">Decreto 566,<br>M. DE LO PRADO<br>N&#xB0; 1, 1.1<br>D.O. 18.08.2011</a></span> de las m&#xE1;quinas de destreza podr&#xE1; comenzar desde las 10:00 horas y hasta las 24:00 horas (medianoche) del mismo d&#xED;a como m&#xE1;ximo. </div><br></div>"
+        },
+        {
+          "part_id": 7331618,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;: Corresponder&#xE1; al Departamento de Rentas Municipales, como asimismo a las Fuerzas de Orden<span class=\"n\" id=\"n_0\">DTO 551,<br>M. DE LO PRADO<br>N&#xBA; 1<br>D.O. 14.04.2007</span> P&#xFA;blico de Carabineros de Chile fiscalizar el funcionamiento de las m&#xE1;quinas de destreza autorizadas. Cualquier infracci&#xF3;n a la presente ordenanza faculta a la autoridad para poner t&#xE9;rmino al permiso otorgado, el que ser&#xE1; eminentemente precario.</div><div class=\"p\">&nbsp; &nbsp;  La existencia de m&#xE1;quinas de azar o de destreza no autorizadas ser&#xE1;n sancionada con el retiro de las m&#xE1;quinas y una multa equivalente a 5 U.T.M..</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;: Corresponder&#xE1; al Departamento de Rentas Municipales, como asimismo a las Fuerzas de Orden<span class=\"n\" id=\"n_1\">DTO 551,<br>M. DE LO PRADO<br>N&#xBA; 1<br>D.O. 14.04.2007</span> P&#xFA;blico de Carabineros de Chile fiscalizar el funcionamiento de las m&#xE1;quinas de destreza autorizadas. Cualquier infracci&#xF3;n a la presente ordenanza faculta a la autoridad para poner t&#xE9;rmino al permiso otorgado, el que ser&#xE1; eminentemente precario.</div><div class=\"p\">&nbsp; &nbsp;  La existencia de m&#xE1;quinas de azar o de destreza no autorizadas ser&#xE1;n sancionada con el retiro de las m&#xE1;quinas y una multa equivalente a 5 U.T.M..</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1028753,
+      "fecha": "2011-08-18"
+    }
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "fecha": "2020-07-04",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-12-23",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10133771,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse los tramos del Desarrollo Profesional Docente que corresponda, conforme a la experiencia profesional y a los resultados de los instrumentos de evaluaci&#xF3;n a que hace referencia el art&#xED;culo 19 K del Estatuto Docente, a los profesionales de la educaci&#xF3;n que durante el a&#xF1;o 2019 participaron del Sistema de Reconocimiento regulado en el T&#xED;tulo III del Estatuto Docente, y que se encuentran individualizados en el archivo de formato port&#xE1;til de nombre &quot;20062020N&#xF3;mina_Reconocimiento 2019_final.pdf&quot;, con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, almacenado en el disco compacto adjunto, denominado &quot;Anexos&quot;, que forma parte integrante de la presente resoluci&#xF3;n.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse los <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1153872&amp;idParte=10187712&amp;idVersion=2020-12-23\">Resoluci&#xF3;n 5198 EXENTA,<br>EDUCACION<br>Art. primero<br>D.O. 23.12.2020</a></span>tramos del Desarrollo Profesional Docente que corresponda, conforme a la experiencia profesional y a los resultados de los instrumentos de evaluaci&#xF3;n a que hace referencia el art&#xED;culo 19 K del Estatuto Docente, a los profesionales de la educaci&#xF3;n que durante el a&#xF1;o 2019 participaron del Sistema de Reconocimiento regulado en el T&#xED;tulo III del Estatuto Docente, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;24092020_rex_3195&quot;, almacenado en CD adjunto, caratulado &quot;Rex 2751 24.09.2020&quot;, el qu&#xE9; se entiende formar parte integrante del presente acto administrativo.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-02-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10133771,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse los <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1153872&amp;idParte=10187712&amp;idVersion=2020-12-23\">Resoluci&#xF3;n 5198 EXENTA,<br>EDUCACION<br>Art. primero<br>D.O. 23.12.2020</a></span>tramos del Desarrollo Profesional Docente que corresponda, conforme a la experiencia profesional y a los resultados de los instrumentos de evaluaci&#xF3;n a que hace referencia el art&#xED;culo 19 K del Estatuto Docente, a los profesionales de la educaci&#xF3;n que durante el a&#xF1;o 2019 participaron del Sistema de Reconocimiento regulado en el T&#xED;tulo III del Estatuto Docente, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;24092020_rex_3195&quot;, almacenado en CD adjunto, caratulado &quot;Rex 2751 24.09.2020&quot;, el qu&#xE9; se entiende formar parte integrante del presente acto administrativo.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1172368&amp;idParte=10308039&amp;idVersion=2022-02-07\">Resoluci&#xF3;n 846 EXENTA, <br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 07.02.2022</a></span>rt&#xED;culo primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2019, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;17122021_Reconocimiento_2019_firmada&quot;, almacenado en CD adjunto, caratulado &quot;N&#xF3;mina Reconocimiento 2019&quot;, el que se entiende formar parte integrante del presente acto administrativo. </div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2024-03-18",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10133771,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  A<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1172368&amp;idParte=10308039&amp;idVersion=2022-02-07\">Resoluci&#xF3;n 846 EXENTA, <br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 07.02.2022</a></span>rt&#xED;culo primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2019, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;17122021_Reconocimiento_2019_firmada&quot;, almacenado en CD adjunto, caratulado &quot;N&#xF3;mina Reconocimiento 2019&quot;, el que se entiende formar parte integrante del presente acto administrativo. </div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1201898&amp;idParte=10493325&amp;idVersion=2024-03-18\">Resoluci&#xF3;n 3039 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 18.03.2024</a></span>t&#xED;culo primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2019, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;20231220_Reconocimiento_2019.pdf firmado 3&quot;, almacenado en pendrive adjunto, caratulado &quot;36511&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1201898,
+      "fecha": "2024-03-18"
+    }
+  },
+  {
+    "fecha": "2025-07-09",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10133772,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Modif&#xED;case la <a href=\"https://www.leychile.cl/navegar?idNorma=1093256&amp;idVersion=2020-07-04\">resoluci&#xF3;n exenta N&#xB0; 3.724, de 2016</a>, modificada por las resoluciones exentas N&#xB0; 6.778, de 2017, 6.481, de 2018, y 2.109, de 2019, todas de la Subsecretar&#xED;a de Educaci&#xF3;n, reemplaz&#xE1;ndose el <a href=\"https://www.leychile.cl/navegar?idNorma=1093256&amp;idParte=9720142&amp;idVersion=2020-07-04\">art&#xED;culo primero</a> por el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, y se&#xF1;&#xE1;lense los bienios correspondientes, a los profesionales de la educaci&#xF3;n que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;25102019N&#xF3;mina_rex3724.pdf&quot;, almacenado en CD adjunto, caratulado &quot;Anexos&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1214802&amp;idParte=10554280&amp;idVersion=2025-07-09\">Resoluci&#xF3;n 8294 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 09.07.2025</a></span>Derogado.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1214802,
+      "fecha": "2025-07-09"
+    }
+  },
+  {
+    "fecha": "2025-09-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10133773,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Modif&#xED;case la <a href=\"https://www.leychile.cl/navegar?idNorma=1104666&amp;idVersion=2020-07-04\">resoluci&#xF3;n exenta N&#xB0; 3.263, de 2017</a>, modificada por las resoluciones exentas N&#xB0; 6.778, de 2017, N&#xB0; 6.532, de 2018, y N&#xB0; 2.633, de 2019, todas de la Subsecretar&#xED;a de Educaci&#xF3;n, reemplaz&#xE1;ndose el <a href=\"https://www.leychile.cl/navegar?idNorma=1104666&amp;idParte=9809833&amp;idVersion=2020-07-04\">art&#xED;culo primero</a> el siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;25102019N&#xF3;mina_rex3263.pdf&quot;, almacenado en CD adjunto, caratulado &quot;Anexos&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1216894&amp;idParte=10562783&amp;idVersion=2025-09-25\">Resoluci&#xF3;n 10526 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 25.09.2025</a></span>Derogado.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1216894,
+      "fecha": "2025-09-25"
+    }
+  },
+  {
+    "fecha": "2025-10-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10133771,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1201898&amp;idParte=10493325&amp;idVersion=2024-03-18\">Resoluci&#xF3;n 3039 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 18.03.2024</a></span>t&#xED;culo primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2019, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;20231220_Reconocimiento_2019.pdf firmado 3&quot;, almacenado en pendrive adjunto, caratulado &quot;36511&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1201898&amp;idParte=10493325&amp;idVersion=2024-03-18\">Resoluci&#xF3;n 3039 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 18.03.2024</a></span>t&#xED;culo primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2019, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div> &quot;20231220_Reconocimiento_2019.pdf firmado 3&quot;, almacenado en pendrive adjunto, caratulado &quot;36511&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 10679, Educaci&#xF3;n, publicado el 08.10.2025, modifica la presente norma en el sentido de actualizar el listado, por la n&#xF3;mina contenida en el archivo con firma electr&#xF3;nica avanzada de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, bajo el nombre del archivo PDF &quot;Reconocimiento2019_20240423 FIRMADA&quot;, almacenado en el pendrive adjunto, caratulado &quot;Modificaci&#xF3;n Rex 2751/2020 (PR2019)&quot;, el que se entiende formar parte integrante la citada norma.</div></div>"
+        },
+        {
+          "part_id": 10133772,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1214802&amp;idParte=10554280&amp;idVersion=2025-07-09\">Resoluci&#xF3;n 8294 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 09.07.2025</a></span>Derogado.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1214802&amp;idParte=10554280&amp;idVersion=2025-07-09\">Resoluci&#xF3;n 8294 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 09.07.2025</a></span>Derogado.</div></div>"
+        },
+        {
+          "part_id": 10133773,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1216894&amp;idParte=10562783&amp;idVersion=2025-09-25\">Resoluci&#xF3;n 10526 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 25.09.2025</a></span>Derogado.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1216894&amp;idParte=10562783&amp;idVersion=2025-09-25\">Resoluci&#xF3;n 10526 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 25.09.2025</a></span>Derogado.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2026-02-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10133771,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1201898&amp;idParte=10493325&amp;idVersion=2024-03-18\">Resoluci&#xF3;n 3039 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 18.03.2024</a></span>t&#xED;culo primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2019, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div> &quot;20231220_Reconocimiento_2019.pdf firmado 3&quot;, almacenado en pendrive adjunto, caratulado &quot;36511&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 10679, Educaci&#xF3;n, publicado el 08.10.2025, modifica la presente norma en el sentido de actualizar el listado, por la n&#xF3;mina contenida en el archivo con firma electr&#xF3;nica avanzada de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, bajo el nombre del archivo PDF &quot;Reconocimiento2019_20240423 FIRMADA&quot;, almacenado en el pendrive adjunto, caratulado &quot;Modificaci&#xF3;n Rex 2751/2020 (PR2019)&quot;, el que se entiende formar parte integrante la citada norma.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Ar<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1201898&amp;idParte=10493325&amp;idVersion=2024-03-18\">Resoluci&#xF3;n 3039 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 18.03.2024</a></span>t&#xED;culo primero: As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2019, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div> &quot;20231220_Reconocimiento_2019.pdf firmado 3&quot;, almacenado en pendrive adjunto, caratulado &quot;36511&quot;, el que se entiende formar parte integrante del presente acto administrativo.<div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 1</a></div></div><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 10679, Educaci&#xF3;n, publicado el 08.10.2025, modifica la presente norma en el sentido de actualizar el listado, por la n&#xF3;mina contenida en el archivo con firma electr&#xF3;nica avanzada de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, bajo el nombre del archivo PDF &quot;Reconocimiento2019_20240423 FIRMADA&quot;, almacenado en el pendrive adjunto, caratulado &quot;Modificaci&#xF3;n Rex 2751/2020 (PR2019)&quot;, el que se entiende formar parte integrante la citada norma.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 152 Exenta, Educaci&#xF3;n, publicado el 03.02.2026, modifica la presente norma en el sentido de actualizar el listado, por la n&#xF3;mina contenida en el archivo con firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;Modificar06_Reconocimiento2019_20251118_firmada&quot;, almacenado en el pendrive o memoria USB port&#xE1;til adjunto, caratulado &quot;Modificar06_Reconocimiento2019_20251118&quot;, el que se entiende formar parte integrante la citada norma.</div></div>"
+        },
+        {
+          "part_id": 10133772,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1214802&amp;idParte=10554280&amp;idVersion=2025-07-09\">Resoluci&#xF3;n 8294 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 09.07.2025</a></span>Derogado.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo.- <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1214802&amp;idParte=10554280&amp;idVersion=2025-07-09\">Resoluci&#xF3;n 8294 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 09.07.2025</a></span>Derogado.</div></div>"
+        },
+        {
+          "part_id": 10133773,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1216894&amp;idParte=10562783&amp;idVersion=2025-09-25\">Resoluci&#xF3;n 10526 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 25.09.2025</a></span>Derogado.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero.- <span class=\"n\" id=\"n_4\"><a href=\"navegar?idNorma=1216894&amp;idParte=10562783&amp;idVersion=2025-09-25\">Resoluci&#xF3;n 10526 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 25.09.2025</a></span>Derogado.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-02-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-03-07",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9772196,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase Emergencia de Plaga, por un per&#xED;odo de treinta d&#xED;as corridos, contado desde la publicaci&#xF3;n de la presente resoluci&#xF3;n, el &#xE1;rea de contenci&#xF3;n, que configura un pol&#xED;gono, cuyos v&#xE9;rtices son los siguientes puntos geogr&#xE1;ficos, ubicados en la Regi&#xF3;n de Ays&#xE9;n y Magallanes:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Punto 1: Localizado en las coordenadas geogr&#xE1;ficas de referencia Latitud: 44&#xBA;48&apos;12,38&quot; S; Longitud: 71&#xBA;13&apos;35,80&quot; O, Datum WGS 84, en adelante referencia de toda coordenada geogr&#xE1;fica indicada en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Punto 2: Localizado en las coordenadas geogr&#xE1;ficas de referencia Latitud: 49&#xBA;8&apos;1,64&quot; S; Longitud: 70&#xBA;51&apos;56,35&quot; O, Datum WGS 84, siguiendo entre este punto y el precedente.</div><div class=\"p\">&nbsp; &nbsp;  Punto 3: Localizado en las coordenadas geogr&#xE1;ficas de referencia Latitud: 49&#xBA;9&apos;55,06&quot; S; Longitud: 76&#xBA;3&apos;36,48&quot; O, Datum WGS 84, siguiendo entre este punto y el precedente.</div><div class=\"p\">&nbsp; &nbsp;  Punto 4: Localizado en las coordenadas geogr&#xE1;ficas de referencia Latitud: 44&#xBA;51&apos;3,98&quot; S; Longitud: 75&#xBA;56&apos;53,95&quot; O, Datum WGS 84, siguiendo entre este punto y el precedente.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: Decl&#xE1;rase Emergencia de Plaga, por un per&#xED;odo de treinta d&#xED;as corridos, contado desde la publicaci&#xF3;n de la presente resoluci&#xF3;n, el &#xE1;rea de contenci&#xF3;n, que configura un pol&#xED;gono, cuyos v&#xE9;rtices son los siguientes puntos geogr&#xE1;ficos, ubicados en la Regi&#xF3;n de Ays&#xE9;n y Magallanes:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Punto 1: Localizado en las coordenadas geogr&#xE1;ficas de referencia <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1100763&amp;idParte=9778754&amp;idVersion=2017-03-07\">Resoluci&#xF3;n 700 EXENTA,<br>ECONOM&#xCD;A<br>Art. PRIMERO<br>D.O. 07.03.2017</a></span>Latitud: 44&#xB0; 27&apos; 34,44&quot; S; Longitud: 72&#xB0; 50&apos; 28,16&quot; O, Datum WGS 84, en adelante referencia de toda coordenada geogr&#xE1;fica indicada en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Punto 2: Localizado en las coordenadas geogr&#xE1;ficas de referencia Latitud: 48&#xB0; 43&apos; 26,65&quot; S; Longitud: 72&#xB0; 39&apos; 53,04&quot; O, Datum WGS 84, siguiendo entre este punto y el precedente.</div><div class=\"p\">&nbsp; &nbsp;  Punto 3: Localizado en las coordenadas geogr&#xE1;ficas de referencia Latitud: 48&#xB0; 44&apos; 29,27&quot; S; Longitud: 76&#xB0; 12&apos; 9,58&quot; O, Datum WGS 84, siguiendo entre este punto y el precedente.</div><div class=\"p\">&nbsp; &nbsp;  Punto 4: Localizado en las coordenadas geogr&#xE1;ficas de referencia Latitud: 44&#xB0; 28&apos; 28,43&quot; S; Longitud: 76&#xB0; 6&apos; 42,26&quot; O. Datum WGS 84, siguiendo entre este punto y el precedente.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1100763,
+      "fecha": "2017-03-07"
+    }
+  }
+]

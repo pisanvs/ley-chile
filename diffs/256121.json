@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1966-09-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1967-02-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9005621,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 20&#xBA;.- En caso de impedimento o ausencia accidental no superior a 20 d&#xED;as, subrogar&#xE1; al Fiscal el abogado del Servicio Jur&#xED;dico que tenga designado el Presidente de la Rep&#xFA;blica.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 20.- En caso de impedimento o ausencia<span class=\"n\" id=\"n_0\">DTO 57, VIVIENDA<br>D.O. 14.02.1967</span> accidental del Fiscal, lo subrogar&#xE1; el abogado que designe el Presidente de la Rep&#xFA;blica&quot;.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Por razones de urgencia, el Subdepartamento de Vivienda y Urbanismo de la Contralor&#xED;a General de la Rep&#xFA;blica, deber&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de 5 d&#xED;as.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1969-12-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9005610,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- La Junta Directiva podr&#xE1; delegar total o parcialmente sus facultades y/o atribuciones en el Vicepresidente Ejecutivo, Comisi&#xF3;n de Directores, y Jefes de Departamentos, debiendo hacerse la delegaci&#xF3;n por mayor&#xED;a absoluta de Directores en ejercicio. </div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 9&#xBA;.- La Junta Directiva podr&#xE1; delegar<span class=\"n\" id=\"n_0\">DTO 816, VIVIENDA<br>D.O. 04.12.1969</span> total o parcialmente sus atribuciones y/o facultades en el Vicepresidente Ejecutivo, Comisiones de Directores, Fiscal, Jefes de Departamentos y Delegados Zonales o Regionales, debiendo hacerse la delegaci&#xF3;n por mayor&#xED;a absoluta de directores en ejercicio.</div><div class=\"p\">&nbsp; &nbsp;  Las Comisiones de Directores, el Fiscal, los Jefes de Departamentos y los Delegados Zonales o Regionales, podr&#xE1;n, con aprobaci&#xF3;n del Vicepresidente Ejecutivo, delegar total o parcialmente sus atribuciones y/o facultades en funcionarios de su dependencia.</div><div class=\"p\">&nbsp; &nbsp;  La responsabilidad del delegante y del delegado ser&#xE1; determinada de acuerdo a las normas establecidas en el art&#xED;culo &#xFA;nico de la ley N&#xBA; 16.827. En consecuencia, la responsabilidad por el ejercicio de las facultades delegadas recaer&#xE1; en el delegado; y el delegante ser&#xE1; responsable de sus actuaciones propias en el acto de la delegaci&#xF3;n y de su obligaci&#xF3;n de fiscalizar y supervigilar el correcto ejercicio de las facultades delegadas.</div><br><br><br><br></div>"
+        },
+        {
+          "part_id": 9005621,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 20.- En caso de impedimento o ausencia<span class=\"n\" id=\"n_0\">DTO 57, VIVIENDA<br>D.O. 14.02.1967</span> accidental del Fiscal, lo subrogar&#xE1; el abogado que designe el Presidente de la Rep&#xFA;blica&quot;.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Por razones de urgencia, el Subdepartamento de Vivienda y Urbanismo de la Contralor&#xED;a General de la Rep&#xFA;blica, deber&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de 5 d&#xED;as.</div><br><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 20.- En caso de impedimento o ausencia<span class=\"n\" id=\"n_1\">DTO 57, VIVIENDA<br>D.O. 14.02.1967</span> accidental del Fiscal, lo subrogar&#xE1; el abogado que designe el Presidente de la Rep&#xFA;blica&quot;.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; Por razones de urgencia, el Subdepartamento de Vivienda y Urbanismo de la Contralor&#xED;a General de la Rep&#xFA;blica, deber&#xE1; tomar raz&#xF3;n del presente decreto en el plazo de 5 d&#xED;as.</div><br><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

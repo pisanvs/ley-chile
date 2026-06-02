@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-02-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-11-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10101646,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Declararse en evidente estado de abandono los veh&#xED;culos que se encuentran en el recinto de Bodegas de la Ilustre Municipalidad de San Antonio, si no fueren reclamados y retirados por sus due&#xF1;os previo pago de los derechos de bodegaje respectivos, hasta las 13:00 horas del d&#xED;a 03/01/2020, seg&#xFA;n listado adjunto:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/105120.jpg\">.</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/105121.jpg\">.</div><div class=\"p\"> </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Declararse en evidente estado de abandono los veh&#xED;culos<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1151844&amp;idParte=10175458&amp;idVersion=2020-11-18\">Decreto 4212 EXENTO,<br>M. DE SAN ANTONIO<br>N&#xB0; 1<br>D.O. 18.11.2020</a></span> que se encuentran en el recinto de Bodegas de la Ilustre Municipalidad de San Antonio, si no fueren reclamados y retirados por sus due&#xF1;os previo pago de los derechos de bodegaje respectivos, hasta las 13:00 horas del d&#xED;a 24/11/2020, seg&#xFA;n Listado adjunto:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/105120.jpg\">.</div><div class=\"p\"> </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/105121.jpg\">.</div><div class=\"p\"> </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1151844,
+      "fecha": "2020-11-18"
+    }
+  }
+]

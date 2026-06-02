@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2020-03-06",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-04-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10106074,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;bense los Criterios Regionales de Selecci&#xF3;n, para la postulaci&#xF3;n de proyectos del Cap&#xED;tulo Primero, Equipamiento Comunitario, del Programa de Mejoramiento de Viviendas y Barrios, del llamado a postulaci&#xF3;n regulado por la resoluci&#xF3;n exenta N&#xBA; 330, de fecha 20.02.2020, los cuales se detallan a continuaci&#xF3;n:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/105823.jpg\"></div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. El puntaje m&#xE1;ximo por el &#xED;tem factores regionales corresponder&#xE1; a 100 puntos, los cuales ponderar&#xE1;n un 40% del total de puntaje del proyecto a ser postulado de acuerdo a lo indicado en el art&#xED;culo 72 del DS N&#xBA;27 (V. y U.) de 2016.</div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese en el Diario Oficial de conformidad a lo que establece el art&#xED;culo 48 letra b), de la ley N&#xBA; 19.880.</div><div class=\"p\">&nbsp; &nbsp;  4. Of&#xED;ciese al Diario Oficial, acompa&#xF1;ando ejemplar de la resoluci&#xF3;n que se aprueba, a efecto que realice la publicaci&#xF3;n se&#xF1;alada precedentemente.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Apru&#xE9;bense los Criterios Regionales de Selecci&#xF3;n, para la postulaci&#xF3;n de proyectos del Cap&#xED;tulo Primero, Equipamiento Comunitario, del Programa de Mejoramiento de Viviendas y Barrios, del llamado a postulaci&#xF3;n regulado por la resoluci&#xF3;n exenta N&#xBA; 330, de fecha 20.02.2020, los cuales se detallan a continuaci&#xF3;<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1144677&amp;idParte=10116829&amp;idVersion=2020-04-28\">Resoluci&#xF3;n 308 EXENTA, <br>VIVIENDA<br>N&#xB0; 1<br>D.O. 28.04.2020</a></span>n:</div><br><br><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/107531.jpg\">.&nbsp; &nbsp;  </div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  2. El puntaje m&#xE1;ximo por el &#xED;tem factores regionales corresponder&#xE1; a 100 puntos, los cuales ponderar&#xE1;n un 40% del total de puntaje del proyecto a ser postulado de acuerdo a lo indicado en el art&#xED;culo 72 del DS N&#xBA;27 (V. y U.) de 2016.</div><div class=\"p\">&nbsp; &nbsp;  3. Publ&#xED;quese en el Diario Oficial de conformidad a lo que establece el art&#xED;culo 48 letra b), de la ley N&#xBA; 19.880.</div><div class=\"p\">&nbsp; &nbsp;  4. Of&#xED;ciese al Diario Oficial, acompa&#xF1;ando ejemplar de la resoluci&#xF3;n que se aprueba, a efecto que realice la publicaci&#xF3;n se&#xF1;alada precedentemente.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1144677,
+      "fecha": "2020-04-28"
+    }
+  }
+]

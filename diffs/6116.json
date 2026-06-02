@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1974-05-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1988-06-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9035415,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA EL DFL. N&#xB0; 1, de 1971, QUE ESTABLECE NORMAS DE ORGANIZACION, ADMINISTRACION DE FONDOS Y REGIMEN DE BIENES Y SERVICIOS, PARA LOS DEPARTAMENTOS DE BIENESTAR DE LAS FUERZAS ARMADAS</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 478.- Santiago, 27 de Mayo de 1974.- Considerando:</div><div class=\"p\">&nbsp; &nbsp; a) Lo dispuesto en los decretos leyes N&#xB0;s 1 y 128, de 11 de Septiembre y 16 de Noviembre de 1973;</div><div class=\"p\">&nbsp; &nbsp; b) Que el DFL. 1, de 1971, que organiza los Departamentos y Subdepartamentos de Bienestar de las Fuerzas Armadas, requiere una complementaci&#xF3;n de las facultades que corresponden a estas entidades, en forma de que puedan representar directamente a los miembros del personal de las Fuerzas Armadas, todo ello para facilitar y agilizar las labores que legalmente competen;</div><div class=\"p\">&nbsp; &nbsp; c) Que el prop&#xF3;sito anterior se ve plenamente justificado ante la especial movilidad que tienen los miembros de las Fuerzas Armadas, quienes, por traslados y otras razones de servicio, se ven impedidos de atender directamente las operaciones habitacionales que les interesen;</div><div class=\"p\">&nbsp; &nbsp; d) Que, por otra parte, se requiere una norma expresa para que el Sistema de Ahorro y Pr&#xE9;stamo pueda conceder directamente prestamos a los Departamentos y Subdepartamentos de Bienestar, quienes actuar&#xE1;n como intermediarios entre las Asociaciones y los beneficiarios;</div><div class=\"p\">&nbsp; &nbsp; La Junta de Gobierno de la Rep&#xFA;blica de Chile ha acordado dictar el siguiente Decreto ley:</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; MODIFICA EL DFL. N&#xB0; 1, de 1971, QUE ESTABLECE NORMAS DE ORGANIZACION, ADMINISTRACION DE FONDOS Y REGIMEN DE BIENES Y SERVICIOS, PARA LOS DEPARTAMENTOS DE BIENESTAR DE LAS FUERZAS ARMADAS</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp;  El art&#xED;culo 19 de la LEY 18712, publicada el 04.06.1988, derog&#xF3; este decreto ley.<br></div></div>"
+        }
+      ]
+    }
+  }
+]

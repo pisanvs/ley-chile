@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1985-04-19",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-06-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6254574,
+          "old": "<div><div class=\"p\">DISPONE MEDIDAS DE CONTROL PARA &quot;NEMATODO DORADO&quot; EN LA COMUNA DE NOGALES, V REGION</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 04 de Abril de 1985.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  No. 426 exenta.- Visto: Lo dispuesto en el decreto ley No. 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola; lo dispuesto en la resoluci&#xF3;n No. 2.383 de 1981 que establece el control obligatorio en todo el pa&#xED;s, de la plaga denominada &quot;nem&#xE1;todo dorado&quot; y el Informe Sanitario No. 18 del Laboratorio Central, y las facultades que invisto como Director Ejecutivo, y,</div><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><div class=\"p\">&nbsp; &nbsp;  - Que, el &quot;nem&#xE1;todo dorado de la papa&quot; se dispersa a trav&#xE9;s del uso de semillas provenientes de terrenos infestados;</div><div class=\"p\">&nbsp; &nbsp;  - Que se ha detectado focos de esta plaga en la comuna de Nogales, V Regi&#xF3;n,</div><div class=\"p\">&nbsp; &nbsp;  - Que es necesario determinar la dispersi&#xF3;n del problema y evitar el aumento de la infestaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br></div>",
+          "new": "<div><div class=\"p\">DISPONE MEDIDAS DE CONTROL PARA &quot;NEMATODO DORADO&quot; EN LA COMUNA DE NOGALES, V REGION</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 4 de Abril de 1985.- Hoy se resolvi&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp;  No. 426 exenta.- Visto: Lo dispuesto en el decreto ley No. 3.557 de 1980, sobre Protecci&#xF3;n Agr&#xED;cola; lo dispuesto en la resoluci&#xF3;n No. 2.383 de 1981 que establece el control obligatorio en todo el pa&#xED;s, de la plaga denominada &quot;nem&#xE1;todo dorado&quot; y el Informe Sanitario No. 18 del Laboratorio Central, y las facultades que invisto como Director Ejecutivo, y,</div><br><div class=\"p\">&nbsp; &nbsp;  Considerando:</div><br><div class=\"p\">&nbsp; &nbsp;  - Que, el &quot;nem&#xE1;todo dorado de la papa&quot; se dispersa a trav&#xE9;s del uso de semillas provenientes de terrenos infestados;</div><div class=\"p\">&nbsp; &nbsp;  - Que se ha detectado focos de esta plaga en la comuna de Nogales, V Regi&#xF3;n,</div><div class=\"p\">&nbsp; &nbsp;  - Que es necesario determinar la dispersi&#xF3;n del problema y evitar el aumento de la infestaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  Resuelvo:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

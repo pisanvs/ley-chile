@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-01-14",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-05-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10092755,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Recon&#xF3;zcase, en el marco del &quot;Convenio de Reconocimiento Mutuo de T&#xED;tulos Profesionales y Grados Acad&#xE9;micos de Educaci&#xF3;n Superior entre la Rep&#xFA;blica de Chile y la Rep&#xFA;blica del Ecuador&quot;, suscrito el 15 de octubre de 2015, los t&#xED;tulos de grado obtenidos en las universidades ecuatorianas que se indican a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103523.jpg\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103524.jpg\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103525.jpg\"></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero.- Recon&#xF3;zcase, en el marco del &quot;Convenio de Reconocimiento Mutuo de T&#xED;tulos Profesionales y Grados Acad&#xE9;micos de Educaci&#xF3;n Superior entre la Rep&#xFA;blica de Chile y la Rep&#xFA;blica del Ecuador&quot;, suscrito el 15 de octubre de 2015, los t&#xED;tulos de grado obtenidos en las universidades ecuatorianas que se indican a continuaci&#xF3;n:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; &nbsp; &nbsp; </div><div class=\"p\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103523.jpg\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103524.jpg\"><img class=\"img-responsive\" src=\"Navegar/imagen/JPG/103525.jpg\"></div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo tercero de la Resoluci&#xF3;n 2072 Exenta, Educaci&#xF3;n, publicado el 30.05.2020, rectifica el N&#xB0; 31 del listado contenido en el presente art&#xED;culo, en el sentido de se&#xF1;alar que donde dice &quot;Alberto&quot;, debe decir &quot;Alfonso&quot;.</div></div>"
+        }
+      ]
+    }
+  }
+]

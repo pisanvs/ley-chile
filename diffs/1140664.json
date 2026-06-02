@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "2020-01-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-04-16",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10090617,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- El Consejo de Observadores estar&#xE1; conformado por las siguientes personas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1) Alberto Atanasio Precht Rorris, RUN 14.120.363-0</div><div class=\"p\">&nbsp; &nbsp;  2) Annie Dufey Dom&#xED;nguez, RUN 11.740.036-0</div><div class=\"p\">&nbsp; &nbsp;  3) Eleazar Vargas Valeria, RUN 3.671.778-5</div><div class=\"p\">&nbsp; &nbsp;  4) Ignacio Gonzalo Irarr&#xE1;zaval Llona, RUN 6.989.582-4</div><div class=\"p\">&nbsp; &nbsp;  5) Juan Crist&#xF3;bal Romero Buccicardi, RUN 9.991.198-0</div><div class=\"p\">&nbsp; &nbsp;  6) Mar&#xED;a Macarena Letelier Velasco, RUN 13.025.932-4</div><div class=\"p\">&nbsp; &nbsp;  7) M&#xF3;nica Andrea Retamal Fuentes, RUN 12.621.849-4</div><div class=\"p\">&nbsp; &nbsp;  8) Rodrigo Javier Delgado Mocarquer, RUN 8.771.203-6.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Los Observadores desempe&#xF1;ar&#xE1;n sus funciones ad hon&#xF3;rem.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- El Consejo de Observadores estar&#xE1; conformado por las siguientes personas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1) Alberto Atanasio Precht Rorris, RUN 14.120.363-0</div><div class=\"p\">&nbsp; &nbsp;  2) Annie Dufey Dom&#xED;nguez, RUN 11.740.036-0</div><div class=\"p\">&nbsp; &nbsp;  3) Eleazar Vargas Valeria, RUN 3.671.778-5</div><div class=\"p\">&nbsp; &nbsp;  4) Ignacio Gonzalo Irarr&#xE1;zaval Llona, RUN 6.989.582-4</div><div class=\"p\">&nbsp; &nbsp;  5) Juan Crist&#xF3;bal Romero Buccicardi, RUN 9.991.198-0</div><div class=\"p\">&nbsp; &nbsp;  6) Mar&#xED;a Macarena Letelier Velasco, RUN 13.025.932-4</div><div class=\"p\">&nbsp; &nbsp;  7) M&#xF3;nica Andrea Retamal Fuentes, RUN 12.621.849-4</div><div class=\"p\">&nbsp; &nbsp;  8) Rodrigo Javier Delgado Mocarquer, RUN 8.771.203-6.</div><div class=\"p\">&nbsp; &nbsp;  9) Ram&#xF3;n <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1144379&amp;idParte=10114839&amp;idVersion=2020-04-16\">Decreto 8, <br>DESARROLLO SOCIAL<br>Art. primero<br>D.O. 16.04.2020</a></span>Aguilar Vera, RUN 3.906.342-5.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Los Observadores desempe&#xF1;ar&#xE1;n sus funciones ad hon&#xF3;rem.</div><div class=\"p\"> </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1144379,
+      "fecha": "2020-04-16"
+    }
+  },
+  {
+    "fecha": "2021-06-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10090617,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- El Consejo de Observadores estar&#xE1; conformado por las siguientes personas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1) Alberto Atanasio Precht Rorris, RUN 14.120.363-0</div><div class=\"p\">&nbsp; &nbsp;  2) Annie Dufey Dom&#xED;nguez, RUN 11.740.036-0</div><div class=\"p\">&nbsp; &nbsp;  3) Eleazar Vargas Valeria, RUN 3.671.778-5</div><div class=\"p\">&nbsp; &nbsp;  4) Ignacio Gonzalo Irarr&#xE1;zaval Llona, RUN 6.989.582-4</div><div class=\"p\">&nbsp; &nbsp;  5) Juan Crist&#xF3;bal Romero Buccicardi, RUN 9.991.198-0</div><div class=\"p\">&nbsp; &nbsp;  6) Mar&#xED;a Macarena Letelier Velasco, RUN 13.025.932-4</div><div class=\"p\">&nbsp; &nbsp;  7) M&#xF3;nica Andrea Retamal Fuentes, RUN 12.621.849-4</div><div class=\"p\">&nbsp; &nbsp;  8) Rodrigo Javier Delgado Mocarquer, RUN 8.771.203-6.</div><div class=\"p\">&nbsp; &nbsp;  9) Ram&#xF3;n <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1144379&amp;idParte=10114839&amp;idVersion=2020-04-16\">Decreto 8, <br>DESARROLLO SOCIAL<br>Art. primero<br>D.O. 16.04.2020</a></span>Aguilar Vera, RUN 3.906.342-5.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Los Observadores desempe&#xF1;ar&#xE1;n sus funciones ad hon&#xF3;rem.</div><div class=\"p\"> </div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- El Consejo de Observadores estar&#xE1; conformado por las siguientes personas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1) Alberto Atanasio Precht Rorris, RUN 14.120.363-0</div><div class=\"p\">&nbsp; &nbsp;  2) Annie Dufey Dom&#xED;nguez, RUN 11.740.036-0</div><div class=\"p\">&nbsp; &nbsp;  3) Eleazar Vargas Valeria, RUN 3.671.778-5</div><div class=\"p\">&nbsp; &nbsp;  4) Ignacio Gonzalo Irarr&#xE1;zaval Llona, RUN 6.989.582-4</div><div class=\"p\">&nbsp; &nbsp;  5) Juan Crist&#xF3;bal Romero Buccicardi, RUN 9.991.198-0</div><div class=\"p\">&nbsp; &nbsp;  6) Mar&#xED;a Macarena Letelier Velasco, RUN 13.025.932-4</div><div class=\"p\">&nbsp; &nbsp;  7) M&#xF3;nica Andrea Retamal Fuentes, RUN 12.621.849-4</div><div class=\"p\">&nbsp; &nbsp;  8) Eli<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1160635&amp;idParte=10236546&amp;idVersion=2021-06-03\">Decreto 14, <br>DESARROLLO SOCIAL<br>Art. primero<br>D.O. 03.06.2021</a></span>minado.</div><div class=\"p\">&nbsp; &nbsp;  9) Ram&#xF3;n <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1144379&amp;idParte=10114839&amp;idVersion=2020-04-16\">Decreto 8, <br>DESARROLLO SOCIAL<br>Art. primero<br>D.O. 16.04.2020</a></span>Aguilar Vera, RUN 3.906.342-5.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Los Observadores desempe&#xF1;ar&#xE1;n sus funciones ad hon&#xF3;rem.</div><div class=\"p\"> </div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1160635,
+      "fecha": "2021-06-03"
+    }
+  }
+]

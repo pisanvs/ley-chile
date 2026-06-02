@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-12-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-01-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10062481,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- El presente decreto entrar&#xE1; en vigencia transcurridos 60 d&#xED;as desde su publicaci&#xF3;n en el Diario Oficial.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Los <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1141640&amp;idParte=10096059&amp;idVersion=2020-01-28\">Decreto 616, INTERIOR<br>Art. &#xDA;NICO<br>D.O. 28.01.2020</a></span>art&#xED;culos 1&#xBA;, 2&#xBA; y 3&#xBA; entrar&#xE1;n en vigencia el d&#xED;a 9 de mayo de 2020.</div><div class=\"p\">&nbsp; &nbsp;  El art&#xED;culo 4&#xBA; entrar&#xE1; en vigencia el 16 de diciembre de 2019.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1141640,
+      "fecha": "2020-01-28"
+    }
+  }
+]

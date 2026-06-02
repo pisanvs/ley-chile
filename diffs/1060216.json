@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2014-03-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-06-06",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9417675,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Ratif&#xED;case la autorizaci&#xF3;n contenida en los decretos exentos <a href=\"https://www.leychile.cl/Navegar?idNorma=1022249&amp;idParte=&amp;idVersion=\">N&#xBA; 667</a>, de 2010 y en el <a href=\"https://www.leychile.cl/Navegar?idNorma=1057576&amp;idParte=&amp;idVersion=\">decreto exento N&#xBA; 117</a>, de 2013, ambos del Ministerio de Agricultura, para la circulaci&#xF3;n del veh&#xED;culo de la Subsecretar&#xED;a de Agricultura asignado para la Secretar&#xED;a Regional Ministerial de Agricultura de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, en horario h&#xE1;bil e inh&#xE1;bil y en todos los d&#xED;as, incluyendo s&#xE1;bado en la tarde, domingo y festivos, sin sujeci&#xF3;n a la jornada ordinaria de trabajo, que a continuaci&#xF3;n se individualiza:</div><br><div class=\"p\">&nbsp; &nbsp;  Veh&#xED;culo Station Wagon, Marca Nissan, Modelo X Trail S6 MT, N&#xBA; Motor QR25590522B; a&#xF1;o 2013, Chassis JN1TANT31DW751739, color Gris Grafito, Patente DTTD 95-7.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Sustit&#xFA;yese el nombre del Secretario Regional Ministerial de Agricultura de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, por el de don Guido Carre&#xF1;o Reyes, de acuerdo al decreto N&#xBA; 57, de 2013, del Ministerio de Agricultura.</div><br><div class=\"p\">&nbsp; &nbsp;  3.- F&#xED;jase, para el veh&#xED;culo fiscal ya individualizado en el numeral anterior, los siguientes lugares de estacionamientos:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Calle Sargento Bernardo Cuevas N&#xBA; 480, Rancagua;</div><div class=\"p\">&nbsp; &nbsp;  b) Calle Pencahue Central N&#xBA; 017, comuna de San Vicente de Tagua-Tagua, Regi&#xF3;n del Libertador Bernardo O&apos;Higgins.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  4.- En todo lo no modificado se mantienen vigentes los decretos exentos N&#xBA; 667, de 2010 y N&#xBA; 117, de 2013, ambos del Ministerio de Agricultura.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1.- Ratif&#xED;case la autorizaci&#xF3;n contenida en los decretos exentos N&#xBA; 667, de 2010 y en el decreto exento N&#xBA; 117, de 2013, ambos del Ministerio de Agricultura, para la circulaci&#xF3;n del veh&#xED;culo de la Subsecretar&#xED;a de Agricultura asignado para la Secretar&#xED;a Regional Ministerial de Agricultura de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, en horario h&#xE1;bil e inh&#xE1;bil y en todos los d&#xED;as, incluyendo s&#xE1;bado en la tarde, domingo y festivos, sin sujeci&#xF3;n a la jornada ordinaria de trabajo, que a continuaci&#xF3;n se individualiza:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  Veh&#xED;culo Station Wagon, Marca Nissan, Modelo X Trail S6 MT, N&#xBA; Motor QR25590522B; a&#xF1;o 2013, Chassis JN1TANT31DW751739, color Gris Grafito, Patente DTTD 95-7.</div><br><div class=\"p\">&nbsp; &nbsp;  2.- Sustit&#xFA;yese el nombre del Secretario Regional Ministerial de Agricultura de la Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins, por el de don Guido Carre&#xF1;o Reyes, de acuerdo al decreto N&#xBA; 57, de 2013, del Ministerio de Agricultura.</div><br><div class=\"p\">&nbsp; &nbsp;  3.- F&#xED;jase, para el veh&#xED;culo fiscal ya individualizado en el numeral anterior, los siguientes lugares de estacionamientos:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Calle Sargento Bernardo Cuevas N&#xBA; 480, Rancagua;</div><div class=\"p\">&nbsp; &nbsp;  b) Calle Pencahue Central N&#xBA; 017, comuna de San Vicente de Tagua-Tagua, Regi&#xF3;n del Libertador Bernardo O&apos;Higgins.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  4.- En todo lo no modificado se mantienen vigentes los decretos exentos N&#xBA; 667, de 2010 y N&#xBA; 117, de 2013, ambos del Ministerio de Agricultura.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xBA; del Decreto 101 Exento, Agricultura, publicado el 06.06.2014, modifica la presente norma en el sentido de indicar que la autorizaci&#xF3;n para circulaci&#xF3;n en horarios inh&#xE1;biles, s&#xE1;bados, domingos y festivos del veh&#xED;culo Station Wagon, marca Nissan, modelo X Trail S6 MT, N&#xBA; de motor QR25590522B, a&#xF1;o 2013, chassis JN1TANT31DW751739, color gris grafito, patente DTTD 95-7, corresponder&#xE1; a la Secretar&#xED;a Regional Ministerial de Agricultura, de la VI Regi&#xF3;n del Libertador General Bernardo O&apos;Higgins.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-06-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "1995-10-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-02-07",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8964920,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xB0;.- Los consejeros ser&#xE1;n nombrados por el Presidente de la Rep&#xFA;blica por un per&#xED;odo de dos a&#xF1;os, prorrogable por una sola vez. Dicho nombramiento se efectuar&#xE1; a m&#xE1;s tardar durante la segunda quincena del mes de octubre del a&#xF1;o respectivo.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xBA;.- Los consejeros ser&#xE1;n nombrados por<span class=\"n\" id=\"n_0\">DTO 123<br>S.GRAL DE LA PRES.<br>D.O.07.02.1998</span> el Presidente de la Rep&#xFA;blica por un per&#xED;odo de dos a&#xF1;os, prorrogable por una sola vez. Dicho nombramiento se efectuar&#xE1; a m&#xE1;s tardar durante la segunda quincena del mes de enero del a&#xF1;o respectivo.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "1999-12-18",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8964916,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO DEL CONSEJO CONSULTIVO DE LA COMISION NACIONAL Y DE LAS COMISIONES REGIONALES DEL MEDIO AMBIENTE</div><div class=\"p\">&nbsp; &nbsp; Santiago, 8 de Mayo de 1995.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 86.- Visto: Lo dispuesto en los art&#xED;culos 67, 78, 79, 82 y 83 de la Ley N&#xB0; 19.300 y el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1. Que la Ley N&#xB0; 19.300 sobre Bases Generales del Medio Ambiente dispuso la creaci&#xF3;n de un Consejo Consultivo Nacional y de Consejos Consultivos Regionales, para que act&#xFA;en en calidad de &#xF3;rganos asesores del Consejo Directivo de la Comisi&#xF3;n Nacional y de las Comisiones Regionales del Medio Ambiente, seg&#xFA;n corresponda.</div><div class=\"p\">&nbsp; &nbsp; 2. Que la propia Ley sobre Bases Generales del Medio Ambiente ha entregado la regulaci&#xF3;n del funcionamiento de los Consejos Consultivos precedentemente se&#xF1;alados a las disposiciones de un Reglamento.</div><div class=\"p\">&nbsp; &nbsp; 3. Que es necesario llevar adelante el proceso de institucionalizaci&#xF3;n de los organismos encargados de velar por la protecci&#xF3;n y conservaci&#xF3;n del Medio Ambiente.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; APRUEBA REGLAMENTO DEL CONSEJO CONSULTIVO DE LA<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> COMISION NACIONAL Y DE LAS COMISIONES REGIONALES DEL MEDIO AMBIENTE</div><div class=\"p\">&nbsp; &nbsp; Santiago, 8 de Mayo de 1995.- Hoy se decret&#xF3; lo que sigue:</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 86.- Visto: Lo dispuesto en los art&#xED;culos 67, 78, 79, 82 y 83 de la Ley N&#xB0; 19.300 y el art&#xED;culo 32 N&#xB0; 8 de la Constituci&#xF3;n Pol&#xED;tica de la Rep&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; Considerando:</div><div class=\"p\">&nbsp; &nbsp; 1. Que la Ley N&#xB0; 19.300 sobre Bases Generales del Medio Ambiente dispuso la creaci&#xF3;n de un Consejo Consultivo Nacional y de Consejos Consultivos Regionales, para que act&#xFA;en en calidad de &#xF3;rganos asesores del Consejo Directivo de la Comisi&#xF3;n Nacional y de las Comisiones Regionales del Medio Ambiente, seg&#xFA;n corresponda.</div><div class=\"p\">&nbsp; &nbsp; 2. Que la propia Ley sobre Bases Generales del Medio Ambiente ha entregado la regulaci&#xF3;n del funcionamiento de los Consejos Consultivos precedentemente se&#xF1;alados a las disposiciones de un Reglamento.</div><div class=\"p\">&nbsp; &nbsp; 3. Que es necesario llevar adelante el proceso de institucionalizaci&#xF3;n de los organismos encargados de velar por la protecci&#xF3;n y conservaci&#xF3;n del Medio Ambiente.</div><div class=\"p\">&nbsp; &nbsp; D e c r e t o:</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El presente decreto fue reemplazado por el DTO 166, Secretar&#xED;a General de la Presidencia, publicado el 18.12.1999.<br></div></div>"
+        },
+        {
+          "part_id": 8964920,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xBA;.- Los consejeros ser&#xE1;n nombrados por<span class=\"n\" id=\"n_0\">DTO 123<br>S.GRAL DE LA PRES.<br>D.O.07.02.1998</span> el Presidente de la Rep&#xFA;blica por un per&#xED;odo de dos a&#xF1;os, prorrogable por una sola vez. Dicho nombramiento se efectuar&#xE1; a m&#xE1;s tardar durante la segunda quincena del mes de enero del a&#xF1;o respectivo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 2&#xBA;.- Los consejeros ser&#xE1;n nombrados por<span class=\"n\" id=\"n_1\">DTO 123<br>S.GRAL DE LA PRES.<br>D.O.07.02.1998</span> el Presidente de la Rep&#xFA;blica por un per&#xED;odo de dos a&#xF1;os, prorrogable por una sola vez. Dicho nombramiento se efectuar&#xE1; a m&#xE1;s tardar durante la segunda quincena del mes de enero del a&#xF1;o respectivo.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

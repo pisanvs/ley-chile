@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-06-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-06-11",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8432424,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Primero: Cr&#xE9;anse los Centros para la Internaci&#xF3;n en R&#xE9;gimen Semicerrado, a que se refiere la Ley N&#xBA; 20.084, en las regiones y las comunas que a continuaci&#xF3;n se indican:</div><br><div class=\"p\">I.- TERCERA REGION DE ATACAMA:</div><br><div class=\"p\">CENTRO PARA LA INTERNACION EN REGIMEN SEMICERRADO: en el inmueble ubicado en calle Rancagua N&#xB0; 419 de la comuna de Copiap&#xF3;.</div><br><div class=\"p\">II.- SEXTA REGION DEL GENERAL LIBERTADOR BERNARDO O&apos;HIGGINS :</div><br><div class=\"p\">CENTRO PARA LA INTERNACION EN REGIMEN SEMICERRADO: en el inmueble ubicado en calle Bueras N&#xB0; 30, comuna de Rancagua.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Primero: Cr&#xE9;anse los Centros para la Internaci&#xF3;n en R&#xE9;gimen Semicerrado, a que se refiere la Ley N&#xBA; 20.084, en las regiones y las comunas que a continuaci&#xF3;n se indican:</div><br><div class=\"p\">I.- TERCERA REGION DE ATACAMA:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">CENTRO PARA LA INTERNACION EN REGIMEN SEMICERRADO: en el inmueble ubicado en calle Rancagua N&#xB0; 419 de la comuna de Copiap&#xF3;.</div><br><div class=\"p\">II.- SEXTA REGION DEL GENERAL LIBERTADOR BERNARDO O&apos;HIGGINS :</div><br><div class=\"p\">CENTRO PARA LA INTERNACION EN REGIMEN SEMICERRADO: en el inmueble ubicado en calle Bueras N&#xB0; 30, comuna de Rancagua.</div><br><div class=\"p\">&nbsp; &nbsp;  </div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br> El art&#xED;culo primero del Decreto 210, Justicia, publicado el 20.05.2009, modifica la presente norma, en el sentido de se&#xF1;alar que en la Tercera Regi&#xF3;n de Atacama el Centro para la Internaci&#xF3;n en R&#xE9;gimen Semicerrado se encuentra en el inmueble ubicado en Avenida Las Delicias N&#xBA; 1573, Barrio Industrial, Estaci&#xF3;n Paipote, comuna de Copiap&#xF3;.</div></div>"
+        }
+      ]
+    }
+  }
+]

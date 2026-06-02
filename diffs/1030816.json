@@ -1,0 +1,16 @@
+[
+  {
+    "fecha": "2011-10-08",
+    "tipo_version_s": "Única",
+    "diff": null
+  },
+  {
+    "fecha": "2026-08-11",
+    "tipo_version_s": "Con Derogación Diferida por fecha",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

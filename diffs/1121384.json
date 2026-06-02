@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2018-08-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-02-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9939227,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Protocolo T&#xE9;cnico</div><br><br><div class=\"ab\"><a href=\"Navegar/pdf/PDF/82558.PDF\">Descargar protocolo (PDF, 656 K)</a></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Protocolo T&#xE9;cnic<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>o</div><br><div class=\"p\"> </div><br><br><div class=\"ab\"><a href=\"Navegar/pdf/PDF/82558.PDF\">Descargar protocolo (PDF, 656 K)</a></div><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo &#xFA;nico de la Resoluci&#xF3;n 332 exenta, Transportes, publicada el 14.02.2019, modifica en la forma que indica el &quot;Protocolo T&#xE9;cnico para Obtener Consumo Energ&#xE9;tico en Buses de Transporte P&#xFA;blico Urbano de la Ciudad de Santiago&quot;, que se aprueba por la presente norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

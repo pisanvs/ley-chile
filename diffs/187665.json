@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "1968-01-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1974-09-25",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9314933,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1045957&amp;idParte=9314922&amp;idVersion=1974-09-25\">Decreto 459, VIVIENDA<br>D.O. 25.09.1974</a></span>&nbsp; &nbsp;  Art&#xED;culo 12&#xB0; bis.- Apl&#xED;case al Ministerio de la Vivienda y Urbanismo y a sus Servicios y a las&nbsp; Instituciones de la Vivienda enumeradas en las letras a), b), c), d), e) y h), del art&#xED;culo 5&#xB0; de la ley N&#xB0; 16.391, en el car&#xE1;cter de disposici&#xF3;n general relativa a ejecuci&#xF3;n de obras, el art&#xED;culo 53&#xB0; de la ley N&#xB0; 15.840, cuyo nuevo texto fue fijado por el decreto ley&nbsp; N&#xB0; 374, de 18 de Marzo de 1974, publicado en el Diario Oficial del 25 del mismo mes y a&#xF1;o, en los t&#xE9;rminos que se indican a continuaci&#xF3;n: </div><div class=\"p\">&nbsp; &nbsp;  Una vez tramitados por la Contralor&#xED;a General de la Rep&#xFA;blica los decretos o resoluciones que aprueben contratos de obras, sus modificaciones o liquidaci&#xF3;n, tres transcripciones de ellos deber&#xE1;n ser suscritas, ante notario, por el contratista de la obra, en se&#xF1;al de aceptaci&#xF3;n de su contenido, debiendo protocolizarse ante el mismo notario uno de los ejemplares.</div><div class=\"p\">&nbsp; &nbsp;  Dentro del plazo de 30 d&#xED;as, contados desde el Ingreso del decreto o resoluci&#xF3;n a la Oficina de Partes del Ministerio de la Vivienda y Urbanismo o de la respectiva Instituci&#xF3;n de la Vivienda, una de las transcripciones a que se refiere el inciso anterior ser&#xE1; entregada, para su archivo, al Servicio o Instituci&#xF3;n correspondiente, y la otra, para el mismo efecto, a la Direcci&#xF3;n General de Planificaci&#xF3;n y Presupuesto, o a la Fiscal&#xED;a de la respectiva Instituci&#xF3;n, en su caso.</div><div class=\"p\">&nbsp; &nbsp;  Las transcripciones suscitas en la forma se&#xF1;alada, har&#xE1;n fe respecto de toda persona y tendr&#xE1;n m&#xE9;rito ejecutivo, sin&nbsp; necesidad de reconocimiento previo.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1045957,
+      "fecha": "1974-09-25"
+    }
+  }
+]

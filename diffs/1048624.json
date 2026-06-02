@@ -1,0 +1,45 @@
+[
+  {
+    "fecha": "2013-02-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2014-11-27",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9331547,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Lo dispuesto en los art&#xED;culos precedentes regir&#xE1; a partir del 28 de febrero de 2015, sin perjuicio de que el Ministerio de Educaci&#xF3;n podr&#xE1;, mediante resoluci&#xF3;n fundada, antes del vencimiento de dicha fecha y por una sola vez, extender el plazo por un m&#xE1;ximo de dieciocho meses a aquellas sedes, carreras o programas que, considerando la imposibilidad de reubicaci&#xF3;n de sus alumnos en otras instituciones de educaci&#xF3;n superior cercanas, requieran seguir funcionando.</div><br><div class=\"p\">&nbsp; &nbsp;  Con todo, la universidad no podr&#xE1; admitir nuevos alumnos, en ninguno de los programas y carreras que imparta, para los a&#xF1;os acad&#xE9;micos 2013 y siguientes.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Lo dispuesto en los art&#xED;culos precedentes regir&#xE1; a partir del 28 de febrero de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1071008&amp;idParte=9533967&amp;idVersion=2014-11-27\">Decreto 435, EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 27.11.2014</a></span>2018, sin perjuicio de que el Ministerio de Educaci&#xF3;n podr&#xE1;, mediante resoluci&#xF3;n fundada, antes del vencimiento de dicha fecha, extender el plazo por un m&#xE1;ximo de dieciocho meses a aquellas sedes, carreras o programas que, considerando la imposibilidad de reubicaci&#xF3;n de sus alumnos en otras instituciones de educaci&#xF3;n superior cercanas, requieran seguir funcionando.</div><br><div class=\"p\">&nbsp; &nbsp;  Con todo, la universidad no podr&#xE1; admitir nuevos alumnos, en ninguno de los programas y carreras que imparta, para los a&#xF1;os acad&#xE9;micos 2013 y siguientes.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1071008,
+      "fecha": "2014-11-27"
+    }
+  },
+  {
+    "fecha": "2018-03-20",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9331547,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Lo dispuesto en los art&#xED;culos precedentes regir&#xE1; a partir del 28 de febrero de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1071008&amp;idParte=9533967&amp;idVersion=2014-11-27\">Decreto 435, EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 27.11.2014</a></span>2018, sin perjuicio de que el Ministerio de Educaci&#xF3;n podr&#xE1;, mediante resoluci&#xF3;n fundada, antes del vencimiento de dicha fecha, extender el plazo por un m&#xE1;ximo de dieciocho meses a aquellas sedes, carreras o programas que, considerando la imposibilidad de reubicaci&#xF3;n de sus alumnos en otras instituciones de educaci&#xF3;n superior cercanas, requieran seguir funcionando.</div><br><div class=\"p\">&nbsp; &nbsp;  Con todo, la universidad no podr&#xE1; admitir nuevos alumnos, en ninguno de los programas y carreras que imparta, para los a&#xF1;os acad&#xE9;micos 2013 y siguientes.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Lo dispuesto en los art&#xED;culos precedentes regir&#xE1; a partir del 28 de febrero de <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1071008&amp;idParte=9533967&amp;idVersion=2014-11-27\">Decreto 435, EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 27.11.2014</a></span>2019, sin perjuicio de que el Ministerio de Educaci&#xF3;n podr&#xE1;, mediante resoluci&#xF3;n <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1116361&amp;idParte=9896060&amp;idVersion=2018-03-20\">Decreto 345, <br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 20.03.2018</a></span>fundada, antes del vencimiento de dicha fecha, extender el plazo por un m&#xE1;ximo de dieciocho meses a aquellas sedes, carreras o programas que, considerando la imposibilidad de reubicaci&#xF3;n de sus alumnos en otras instituciones de educaci&#xF3;n superior cercanas, requieran seguir funcionando.</div><br><div class=\"p\">&nbsp; &nbsp;  Con todo, la universidad no podr&#xE1; admitir nuevos alumnos, en ninguno de los programas y carreras que imparta, para los a&#xF1;os acad&#xE9;micos 2013 y siguientes.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1116361,
+      "fecha": "2018-03-20"
+    }
+  }
+]

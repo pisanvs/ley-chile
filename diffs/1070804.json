@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2014-11-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-11-06",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9532730,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: En virtud de lo se&#xF1;alado precedentemente, y respecto de las agrupaciones de concesiones que se indican a continuaci&#xF3;n, el cuadro de per&#xED;odos de descanso sanitario contenido en el art&#xED;culo primero de la resoluci&#xF3;n N&#xBA; 2.082, de 2011, citada en Vistos, corresponde al siguiente:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/45035.jpg\"></div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: En virtud de lo se&#xF1;alado precedentemente, y respecto de las agrupaciones de concesiones que se indican a continuaci&#xF3;n, el cuadro de per&#xED;odos de descanso sanitario contenido en el art&#xED;culo primero de la resoluci&#xF3;n N&#xBA; 2.082, de 2011, citada en Vistos, corresponde al siguiente:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/45035.jpg\"></div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 4810 Exenta, Econom&#xED;a, publicada el 06.11.2017,&nbsp; modifica el cuadro de per&#xED;odos de descanso sanitario en el sentido de reemplazar el per&#xED;odo de la&nbsp; agrupaci&#xF3;n de concesiones N&#xBA; 55 y&nbsp; n&#xB0; 57,&nbsp; por las que la citada norma indica.</div></div>"
+        }
+      ]
+    }
+  }
+]

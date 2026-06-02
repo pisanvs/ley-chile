@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2012-09-01",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-10-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9293270,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Determ&#xED;nanse los siguientes l&#xED;mites de gastos electorales para los partidos pol&#xED;ticos en las Elecciones Municipales a efectuarse el domingo 28 de octubre de 2012.</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/28048.jpg\"></div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Determ&#xED;nanse los siguientes l&#xED;mites de gastos electorales para los partidos pol&#xED;ticos en las Elecciones Municipales a efectuarse el domingo 28 de octubre de 2012.</div><div class=\"p\"> <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1044430&amp;idParte=9303813&amp;idVersion=2012-10-04\">Resoluci&#xF3;n 1316, SERVICIO ELECTORAL<br>D.O. 04.10.2012</a></span>&nbsp; &nbsp; </div><br><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/28631.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1044430,
+      "fecha": "2012-10-04"
+    }
+  }
+]

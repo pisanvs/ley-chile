@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-01-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-03-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7335894,
+          "old": "<div><div class=\"p\">APRUEBA LISTADO OFICIAL DE SOLUCIONES CONSTRUCTIVAS PARA ACONDICIONAMIENTO TERMICO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de enero de 2007.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 234 exenta.- Visto: Lo dispuesto en el texto del art&#xED;culo 4.1.10 del D.S. N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones, reemplazado por el DS N&#xBA; 192 (V. y U.), de 2005; y las facultades que me otorga el DL N&#xBA; 1.305, de 1975, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br></div>",
+          "new": "<div><div class=\"p\">APRUEBA LISTADO OFICIAL DE SOLUCIONES CONSTRUCTIVAS PARA ACONDICIONAMIENTO TERMICO</div><br><div class=\"p\">&nbsp; &nbsp;  Santiago, 16 de enero de 2007.- Hoy se resolvi&#xF3; lo que sigue:</div><br><div class=\"p\">&nbsp; &nbsp;  N&#xFA;m. 234 exenta.- Visto: Lo dispuesto en el texto del art&#xED;culo 4.1.10 del D.S. N&#xBA; 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones, reemplazado por el DS N&#xBA; 192 (V. y U.), de 2005; y las facultades que me otorga el DL N&#xBA; 1.305, de 1975, dicto la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  Resoluci&#xF3;n:</div><br><br><br></div>"
+        }
+      ]
+    }
+  }
+]

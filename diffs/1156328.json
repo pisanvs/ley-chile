@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2021-02-26",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-05-26",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10206372,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; D&#xE9;jese sin efecto la <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=1147969&amp;idVersion=2021-02-26\">resoluci&#xF3;n N&#xBA; 1.251 exenta, de 2020</a>, de la Subsecretar&#xED;a de Telecomunicaciones, que Fija Norma T&#xE9;cnica de la Ley N&#xBA; 21.046, que Establece la Obligaci&#xF3;n de una Velocidad M&#xED;nima Garantizada de Acceso a Internet.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; D&#xE9;jese sin efecto la resoluci&#xF3;n N&#xBA; 1.251 exenta, de 2020, de la Subsecretar&#xED;a de Telecomunicaciones, que Fija Norma T&#xE9;cnica de la Ley N&#xBA; 21.046, que Establece la Obligaci&#xF3;n de una Velocidad M&#xED;nima Garantizada de Acceso a Internet.</div></div>"
+        }
+      ]
+    }
+  }
+]

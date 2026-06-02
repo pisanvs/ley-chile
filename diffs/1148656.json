@@ -1,0 +1,31 @@
+[
+  {
+    "fecha": "2020-08-24",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-09-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 10162330,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  DISPOSICI&#xD3;N TRANSITORIA: Las <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1149850&amp;idParte=10162326&amp;idVersion=2020-09-29\">Resoluci&#xF3;n 250 EXENTA,<br>DESARROLLO SOCIAL<br>Art. PRIMERO<br>D.O. 29.09.2020</a></span>modificaciones establecidas en los puntos IV y V podr&#xE1;n aplicarse a todos los casos en que resulte procedente, cuando el respectivo pago est&#xE9; pendiente, aun cuando dicha situaci&#xF3;n haya <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>ocurrido con anterioridad a la publicaci&#xF3;n del presente acto administrativo.</div><br><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 250 Exenta, Desarrollo Social, publicada el 29.09.2020, dispone modificar la Resoluci&#xF3;n 187 Exenta publicada 03.07.2020, que fija el texto refundido de la Resoluci&#xF3;n 138,&nbsp; publicada el 20.05.2020, en el sentido se agregar una disposici&#xF3;n transitoria. Sin embargo, la Resoluci&#xF3;n 223 Exenta, publicada el 24.08.2020, refunde nuevamente la citada Resoluci&#xF3;n 138, es por esta raz&#xF3;n que se efect&#xFA;a en la presente norma la actualizaci&#xF3;n indicada.</div></div>"
+        },
+        {
+          "part_id": 10162756,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp; DISPOSICI&#xD3;N <div class=\"n rnp\" id=\"rnp3\"><a href=\"#np3\">NOTA</a></div>TRANSITORIA: Las modificaciones establecidas <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1149850&amp;idParte=10162326&amp;idVersion=2020-09-29\">Resoluci&#xF3;n 250 EXENTA,<br>DESARROLLO SOCIAL<br>Art. PRIMERO<br>D.O. 29.09.2020</a></span>en los puntos IV y V podr&#xE1;n aplicarse a todos los casos en que resulte procedente, cuando el respectivo pago est&#xE9; pendiente, aun cuando dicha situaci&#xF3;n haya ocurrido con anterioridad a la publicaci&#xF3;n del presente acto administrativo.</div><br><br><br><div class=\"np\" id=\"np3\"><a href=\"#rnp3\">NOTA</a> <br> El art&#xED;culo primero de la Resoluci&#xF3;n 250 Exenta, Desarrollo Social, publicada el 29.09.2020, dispone modificar la Resoluci&#xF3;n 187 Exenta publicada 03.07.2020, que fija el texto refundido de la Resoluci&#xF3;n 138,&nbsp; publicada el 20.05.2020, en el sentido se agregar una disposici&#xF3;n transitoria. Sin embargo, la Resoluci&#xF3;n 223 Exenta, publicada el 24.08.2020, refunde nuevamente la citada Resoluci&#xF3;n 138, es por esta raz&#xF3;n que se efect&#xFA;a en la presente norma la actualizaci&#xF3;n indicada.</div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "modificadaPor": {
+      "idNorma": 1149850,
+      "fecha": "2020-09-29"
+    }
+  }
+]

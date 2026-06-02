@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "2012-01-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2015-01-30",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9223821,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- F&#xED;janse las edades m&#xED;nimas de ingreso a la modalidad de educaci&#xF3;n de adultos regular de la siguiente manera:</div><br><div class=\"p\">a)&nbsp;  A cualquier nivel de Educaci&#xF3;n B&#xE1;sica 18 a&#xF1;os.</div><div class=\"p\">b)&nbsp;  Primer Nivel de Educaci&#xF3;n Media 17 a&#xF1;os.</div><div class=\"p\">c)&nbsp;  Segundo Nivel de Educaci&#xF3;n Media 18 a&#xF1;os.</div><br><div class=\"p\">&nbsp; &nbsp;  Dichas edades deber&#xE1;n estar cumplidas como m&#xE1;ximo al 30 de junio del a&#xF1;o lectivo correspondiente.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- F&#xED;janse las edades m&#xED;nimas de ingreso a la modalidad de educaci&#xF3;n de adultos regular de la siguiente manera:</div><br><div class=\"p\">a)&nbsp; A cualquier nivel de Educaci&#xF3;n B&#xE1;sica 15 a&#xF1;os<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1074321&amp;idParte=9555866&amp;idVersion=2015-01-30\">Decreto 445, EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 30.01.2015</a></span>.</div><div class=\"p\">b)&nbsp; Primer, Segundo y Tercer nivel de Educaci&#xF3;n Media 17 a&#xF1;os.</div><br><div class=\"p\">&nbsp; &nbsp;  Dichas edades deber&#xE1;n estar cumplidas como m&#xE1;ximo al 30 de junio del a&#xF1;o lectivo correspondiente.</div><br></div>"
+        },
+        {
+          "part_id": 9223822,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Excepcionalmente, los directores de establecimientos educacionales que imparten educaci&#xF3;n de adultos regular podr&#xE1;n, fundadamente, sobre la base de informes presentados por los postulantes, autorizar el ingreso de j&#xF3;venes con edades inferiores a las establecidas en el art&#xED;culo precedente por razones inherentes a situaciones de car&#xE1;cter socioecon&#xF3;micas o civiles que justifiquen el ingreso a dicha modalidad, siempre y cuando no sea inferior a 14 a&#xF1;os. Con todo, estos casos de excepci&#xF3;n no podr&#xE1;n superar el 20% del total de la matr&#xED;cula del establecimiento al momento de matricularse. Dichos informes y sus antecedentes, deber&#xE1;n estar disponibles en el establecimiento educacional para las visitas de fiscalizaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1074321&amp;idParte=9555866&amp;idVersion=2015-01-30\">Decreto 445, EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 30.01.2015</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xBA;.- Excepcionalmente los directores de los establecimientos que imparten educaci&#xF3;n de adultos modalidad regular podr&#xE1;n, fundamentadamente sobre la base de informes presentados por los postulantes, autorizar el ingreso de j&#xF3;venes con edades inferiores a las edades establecidas en el art&#xED;culo precedente, por razones inherentes a situaciones tales como retraso pedag&#xF3;gico, egresar de un proyecto de reinserci&#xF3;n educativa u otras de car&#xE1;cter socioecon&#xF3;micas que justifiquen el ingreso a dicha modalidad. El porcentaje de alumnos que podr&#xE1; autorizarse no deber&#xE1; exceder del 20% de la matr&#xED;cula total del establecimiento.</div><div class=\"p\">&nbsp; &nbsp;  En el caso de matr&#xED;cula de menores derivados por un tribunal de justicia, s&#xF3;lo se requerir&#xE1; la respectiva orden judicial para su ingreso y no ser&#xE1;n considerados para determinar el porcentaje anteriormente se&#xF1;alado.</div><div class=\"p\">&nbsp; &nbsp;  A los establecimientos educacionales, que cuenten con reconocimiento oficial, al interior de los centros privativos de libertad para menores o que presten servicio educativo en estos centros, no se les aplicar&#xE1; el porcentaje m&#xE1;ximo de matr&#xED;cula.</div><div class=\"p\">&nbsp; &nbsp;  Los menores que iniciaron sus estudios en educaci&#xF3;n de adultos con edades inferiores a las se&#xF1;aladas, podr&#xE1;n continuarlos sin requerir una nueva autorizaci&#xF3;n. Asimismo, los alumnos que se trasladan de un establecimiento de educaci&#xF3;n de adultos a otro de la misma modalidad, con edades distintas a las exigidas, ya sea por la autorizaci&#xF3;n del director del establecimiento, o derivados por un tribunal o autorizados por la Secretar&#xED;a Ministerial de Educaci&#xF3;n, podr&#xE1;n continuar su trayectoria educativa sin requerir una nueva autorizaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  Los antecedentes que se tuvieron a la vista para otorgar dicha autorizaci&#xF3;n deber&#xE1;n estar disponibles en el establecimiento educacional para las visitas de fiscalizaci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 9223824,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Las situaciones de edades no previstas en la modalidad de educaci&#xF3;n de adultos regular y/o flexible reglamentadas en el presente decreto, podr&#xE1;n ser resueltas en el &#xE1;mbito de sus competencias por el Jefe de la Divisi&#xF3;n de Educaci&#xF3;n General del Ministerio de Educaci&#xF3;n.</div></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1074321&amp;idParte=9555866&amp;idVersion=2015-01-30\">Decreto 445, EDUCACI&#xD3;N<br>Art. &#xDA;NICO<br>D.O. 30.01.2015</a></span></div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 7&#xBA;.- Las situaciones de edades no previstas en la modalidad de educaci&#xF3;n de adultos regular, reglamentadas en el presente decreto, podr&#xE1;n ser resueltas en el &#xE1;mbito de sus competencias por el Secretario Regional Ministerial.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1074321,
+      "fecha": "2015-01-30"
+    }
+  }
+]

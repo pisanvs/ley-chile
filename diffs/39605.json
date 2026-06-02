@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1993-12-03",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1998-05-15",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9074371,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Apru&#xE9;base el Plan y Programa de estudios de la carrera &quot;Instalaciones El&#xE9;ctricas&quot;, impartida por el Liceo Polivalente C-20, de Tierras Blancas, comuna de Coquimbo, para los efectos de obtener la licencia de Instalador El&#xE9;ctrico y de Electricista de Recintos de Espect&#xE1;culos P&#xFA;blicos, Clase D, sin rendir el examen de competencia correspondiente ante esta Superintendencia.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0;.- Esta Superintendencia efectuar&#xE1; visitas inspectivas peri&#xF3;dicas al establecimiento donde se imparte dicha carrera, para fiscalizar al correcto cumplimiento del programa aprobado, registrando dicha inspecci&#xF3;n en un libro de registro de visitas inspectivas con copia que deber&#xE1; estar a disposici&#xF3;n de los funcionarios de SEC.</div><div class=\"p\">&nbsp; &nbsp; 3&#xB0;.- Para obtener la licencia de Instalador El&#xE9;ctrico y de Electricista de Recintos de Espect&#xE1;culos P&#xFA;blicos en la clase se&#xF1;alada, el establecimiento educacional indicado deber&#xE1; acreditar y dejar establecido en los certificados de t&#xED;tulos que emita que, el certificado de t&#xED;tulo que se presente a esta Superintendencia se obtuvo en conformidad al plan de estudios aprobado por Resoluci&#xF3;n Exenta N&#xB0; 1.545, de fecha 15.12.89, del Ministerio de Educaci&#xF3;n P&#xFA;blica.</div><div class=\"p\">&nbsp; &nbsp; 4&#xB0;.- La presente Resoluci&#xF3;n entrar&#xE1; en vigencia a contar de la fecha de su publicaci&#xF3;n en el Diario Oficial, por cuenta del interesado y mantendr&#xE1; su validez mientras el programa aprobado no sea modificado. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; 1&#xB0;.- Apru&#xE9;base el Plan y Programa de estudios de la carrera &quot;Instalaciones El&#xE9;ctricas&quot;, impartida por el Liceo Polivalente C-20, de Tierras Blancas, comuna de Coquimbo, para los efectos de obtener la licencia de Instalador El&#xE9;ctrico y de Electricista de Recintos de Espect&#xE1;culos P&#xFA;blicos, Clase D, sin rendir el examen de competencia correspondiente ante esta Superintendencia. 2&#xB0;.- Esta Superintendencia efectuar&#xE1; visitas inspectivas peri&#xF3;dicas al establecimiento donde se imparte dicha carrera, para fiscalizar al correcto cumplimiento del programa aprobado, registrando dicha inspecci&#xF3;n en un libro de registro de visitas inspectivas con copia que deber&#xE1; estar a disposici&#xF3;n de los funcionarios de SEC. 3&#xB0;.- Para obtener la licencia de Instalador<span class=\"n\" id=\"n_0\">RES 83 EX, ECONOMIA<br>N&#xBA; 1<br>D.O. 15.05.1998</span> El&#xE9;ctrico y de Electricista de Recintos de Espect&#xE1;culos P&#xFA;blicos en la clase se&#xF1;alada, el establecimiento educacional indicado deber&#xE1; acreditar y dejar establecido, en los certificados de t&#xED;tulos que emita, que el certificado de aprobaci&#xF3;n que se presente a esta Superintendencia se obtuvo en conformidad al plan de estudios aprobado por resoluci&#xF3;n exenta N&#xB0;2.369,de fecha 23.12.93, del Ministerio de Educaci&#xF3;n P&#xFA;blica. 4&#xB0;.- La presente Resoluci&#xF3;n entrar&#xE1; en vigencia a contar de la fecha de su publicaci&#xF3;n en el Diario Oficial, por cuenta del interesado y mantendr&#xE1; su validez mientras el programa aprobado no sea modificado. </div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2020-06-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2020-10-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10126285,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Determ&#xED;nase para el a&#xF1;o 2021, los siguientes alumnos en calidad de preferentes, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n escolar preferencial, de acuerdo a lo dispuesto en el art&#xED;culo 2&#xB0; bis y 14 bis de la ley N&#xB0; 20.248 y que se encuentran individualizados en el listado contenido en el archivo del CD &quot;Alumnos Preferentes Folio N&#xB0; 01/2021&quot; con firma electr&#xF3;nica avanzada de la Coordinadora Nacional de Tecnolog&#xED;a, que se acompa&#xF1;a en el anexo, y que forma parte integrante de la presente resoluci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Determ&#xED;nase para el a&#xF1;o 2021, los siguientes alumnos en calidad de preferentes, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n escolar preferencial, de acuerdo a lo dispuesto en el art&#xED;culo 2&#xB0; bis y 14 bis de la ley N&#xB0; 20.248 y que se encuentran individualizados en el listado contenido en el archivo del CD <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>&quot;Alumnos Preferentes Folio N&#xB0; 01/2021&quot; con firma electr&#xF3;nica avanzada de la Coordinadora Nacional de Tecnolog&#xED;a, que se acompa&#xF1;a en el anexo, y que forma parte integrante de la presente resoluci&#xF3;n.</div><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo 2&#xB0; de la Resoluci&#xF3;n 4499 Exenta, publicada el 19.10.2020, Educaci&#xF3;n, complementa la presente norma en el sentido&nbsp; de agregar el listado de nuevos alumnos preferentes contenidas en el CD foliado con el nombre &quot;N&#xBA; 2/2021 Alumnos Preferentes&quot;, con firma electr&#xF3;nica avanzada de la Coordinadora Nacional de Tecnolog&#xED;a de la Divisi&#xF3;n de Planificaci&#xF3;n y Presupuesto.</div></div>"
+        }
+      ]
+    }
+  }
+]

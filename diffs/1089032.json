@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "2016-04-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-07-09",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9693514,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- F&#xED;janse las siguientes plantas de personal de la Subsecretar&#xED;a de la Mujer y la Equidad de G&#xE9;nero, que se indica a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"https://nuevo.leychile.cl/Navegar/imagen/JPG/56960.jpg\">.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- F&#xED;janse las siguientes plantas de personal de la Subsecretar&#xED;a de la Mujer y la Equidad de G&#xE9;nero, que se indica a continuaci&#xF3;n:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/56960.jpg\">.</div><br><br><div class=\"p\">&nbsp; &nbsp;  </div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; Los numerales 1 y 2 del art&#xED;culo primero del Decreto con Fuerza de Ley 11, Hacienda, publicado el 09.07.2018, crea un cargo de Secretario Regional Ministerial, grado 5&#xB0;, en la planta de personal de Directivos de Exclusiva Confianza de la Subsecretar&#xED;a de la Mujer y la Equidad de G&#xE9;nero, asimismo, crea un cargo de Director Regional, grado 6&#xB0;, afecto al Sistema de Alta Direcci&#xF3;n P&#xFA;blica, segundo nivel jer&#xE1;rquico, en la planta de personal de Directivos del Servicio Nacional de la Mujer y la Equidad de G&#xE9;nero.</div></div>"
+        },
+        {
+          "part_id": 9693517,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Sustit&#xFA;yase la planta del Servicio Nacional de la Mujer contenida en el <a href=\"https://www.leychile.cl/Navegar?idNorma=30390&amp;idParte=8453774&amp;idVersion=\">art&#xED;culo 13</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=30390&amp;idParte=0&amp;idVersion=\">ley N&#xB0;19.023</a> y en los decretos con fuerza de ley Nos 2 y 5, de 2007, ambos del Ministerio de Hacienda, por la siguiente planta de personal del Servicio Nacional de la Mujer y la Equidad de G&#xE9;nero:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"https://nuevo.leychile.cl/Navegar/imagen/JPG/56961.jpg\">.</div><br><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xB0;.- Sustit&#xFA;yase la planta del Servicio Nacional de la Mujer contenida en el <a href=\"https://www.leychile.cl/Navegar?idNorma=30390&amp;idParte=8453774&amp;idVersion=\">art&#xED;culo 13</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=30390&amp;idParte=0&amp;idVersion=\">ley N&#xB0;19.023</a> y en los decretos con fuerza de ley Nos 2 y 5, de 2007, ambos del Ministerio de Hacienda, por la siguiente planta de personal del Servicio Nacional de la Mujer y la Equidad de G&#xE9;nero:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/56961.jpg\">.</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9693520,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;.- Trasp&#xE1;sese, sin soluci&#xF3;n de continuidad, desde el Servicio Nacional de la Mujer a la Subsecretar&#xED;a de la Mujer y la Equidad de G&#xE9;nero, a contar de la fecha de iniciaci&#xF3;n de actividades del Ministerio de la Mujer y la Equidad de G&#xE9;nero establecida en el art&#xED;culo 9&#xB0; del presente decreto con fuerza de ley, hasta 70 funcionarios que a la fecha de publicaci&#xF3;n del presente decreto con fuerza de ley tengan la calidad jur&#xED;dica y pertenezcan a los estamentos que se se&#xF1;alan a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"https://nuevo.leychile.cl/Navegar/imagen/JPG/56962.jpg\">.</div><br><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 5&#xB0;.- Trasp&#xE1;sese, sin soluci&#xF3;n de continuidad, desde el Servicio Nacional de la Mujer a la Subsecretar&#xED;a de la Mujer y la Equidad de G&#xE9;nero, a contar de la fecha de iniciaci&#xF3;n de actividades del Ministerio de la Mujer y la Equidad de G&#xE9;nero establecida en el art&#xED;culo 9&#xB0; del presente decreto con fuerza de ley, hasta 70 funcionarios que a la fecha de publicaci&#xF3;n del presente decreto con fuerza de ley tengan la calidad jur&#xED;dica y pertenezcan a los estamentos que se se&#xF1;alan a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/56962.jpg\">.</div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

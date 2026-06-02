@@ -1,0 +1,27 @@
+[
+  {
+    "fecha": "2004-05-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2004-06-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6481115,
+          "old": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xBA; 3.598, DE 2004 </div></div>",
+          "new": "<div><div class=\"p\">EXTRACTO DE RESOLUCION EXENTA N&#xBA; 3.598, DE 2004 </div><br><br></div>"
+        },
+        {
+          "part_id": 6481116,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n exenta N&#xBA; 3.598, de 17 de mayo de 2004, del Servicio Nacional de Capacitaci&#xF3;n y Empleo, se cancel&#xF3; la autorizaci&#xF3;n otorgada al organismo t&#xE9;cnico de capacitaci&#xF3;n &quot;Sociedad de Educaci&#xF3;n Capacitaci&#xF3;n y Desarrollo Limitada&quot; (Instituto Santa Mar&#xED;a Ltda.), RUT N&#xBA; 79.639.530-3, atendido lo dispuesto en el art&#xED;culo 77, letra b) de la ley N&#xBA; 19.518.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Mediante resoluci&#xF3;n exenta N&#xBA; 3.598, de 17 de mayo de 2004, del Servicio Nacional de Capacitaci&#xF3;n y Empleo, se cancel&#xF3; la autorizaci&#xF3;n otorgada al organismo t&#xE9;cnico de capacitaci&#xF3;n &quot;Sociedad de Educaci&#xF3;n Capacitaci&#xF3;n y Desarrollo Limitada&quot; (Instituto Santa Mar&#xED;a Ltda.), RUT N&#xBA; 79.639.530-3, atendido lo dispuesto en el art&#xED;culo 77, letra e) de la ley N&#xBA; 19.518.<span class=\"n\" id=\"n_0\">RECTIFICACION<br>D.O. 22.06.2004</span></div><br></div>"
+        }
+      ]
+    }
+  }
+]

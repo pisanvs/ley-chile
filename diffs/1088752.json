@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2016-03-28",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-04-05",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9685867,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base la n&#xF3;mina de 246 familias integrantes del proyecto denominado &quot;Mega Proyecto CNT Angol&quot; que se indica a continuaci&#xF3;n:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/56633.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en el Diario Oficial la presente resoluci&#xF3;n exenta de conformidad a lo dispuesto en el resuelvo 5&#xB0; de la citada resoluci&#xF3;n exenta N&#xB0; 269 (V. y U.) y, a lo indicado en el art&#xED;culo 25 del DS N&#xB0; 49 (V. y U.) de 2011 y sus modificaciones.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1.- Apru&#xE9;base la n&#xF3;mina de 246 familias integrantes del proyecto denominado &quot;Mega Proyecto CNT Angol&quot; que se indica a continuaci&#xF3;n:<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div></div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/56633.jpg\"></div><br><div class=\"p\">&nbsp; &nbsp;  2.- Publ&#xED;quese en el Diario Oficial la presente resoluci&#xF3;n exenta de conformidad a lo dispuesto en el resuelvo 5&#xB0; de la citada resoluci&#xF3;n exenta N&#xB0; 269 (V. y U.) y, a lo indicado en el art&#xED;culo 25 del DS N&#xB0; 49 (V. y U.) de 2011 y sus modificaciones.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El N&#xB0; 1 de la Resoluci&#xF3;n 373 Exenta, Vivienda, publicada el 05.04.2016, modifica el cuadro inserto en el resuelvo 1 de la presente norma, referido al subsidio UF y total, en los t&#xE9;rminos que en ella se indican.</div></div>"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2013-02-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2013-03-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9335120,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;case la <a href=\"https://www.leychile.cl/Navegar?idNorma=1040956&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 4.560 (V. y U.), de 2012</a>, en el siguiente sentido:</div><br><div class=\"p\">&nbsp; &nbsp;  a. Reempl&#xE1;zase en el Resuelvo 1 el guarismo &quot;160.316&quot; por &quot;123.590.&quot;.</div><div class=\"p\">&nbsp; &nbsp;  b. Reempl&#xE1;zase la tabla inserta en el Resuelvo 2 por la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"https://servicios-leychile.bcn.cl/Navegar/imagen/JPG/31056.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  c. Reempl&#xE1;zase la tabla inserta en el Resuelvo 3 por la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"https://servicios-leychile.bcn.cl/Navegar/imagen/JPG/31057.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2. As&#xED;gnase directamente un subsidio adicional a cada una de las familias que integran los proyectos &quot;FSV Comit&#xE9; Habitacional Villa Los Casta&#xF1;os&quot; y &quot;Villa Los Casta&#xF1;os 2&quot; de la comuna de Tucapel, Regi&#xF3;n del Biob&#xED;o, seg&#xFA;n los montos que se indican en la siguiente tabla:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"https://servicios-leychile.bcn.cl/Navegar/imagen/JPG/31058.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  3. Los subsidios asignados mediante la presente resoluci&#xF3;n, ascendentes a un total de 36.726 unidades de fomento, se imputar&#xE1;n a los recursos dispuestos para el a&#xF1;o 2013, para el Programa Fondo Solidario de Elecci&#xF3;n de Vivienda de la Regi&#xF3;n del Biob&#xED;o.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  1. Modif&#xED;case la <a href=\"https://www.leychile.cl/Navegar?idNorma=1040956&amp;idParte=&amp;idVersion=\">resoluci&#xF3;n exenta N&#xBA; 4.560 (V. y U.), de 2012</a>, en el siguiente sentido:</div><br><div class=\"p\">&nbsp; &nbsp;  a. Reempl&#xE1;zase en el Resuelvo 1 el guarismo &quot;160.316&quot; por &quot;123.590.&quot;.</div><div class=\"p\">&nbsp; &nbsp;  b. Reempl&#xE1;zase la tabla inserta en el Resuelvo 2 por la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/31056.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  c. Reempl&#xE1;zase la tabla inserta en el Resuelvo 3 por la siguiente:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/31057.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  2. As&#xED;gnase directamente un subsidio adicional a cada una de las familias que integran los proyectos &quot;FSV Comit&#xE9; Habitacional Villa Los Casta&#xF1;os&quot; y &quot;Villa Los Casta&#xF1;os 2&quot; de la comuna de Tucapel, Regi&#xF3;n del Biob&#xED;o, seg&#xFA;n los montos que se indican en la siguiente tabla:</div><br><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/31058.jpg\">.</div><br><div class=\"p\">&nbsp; &nbsp;  3. Los subsidios asignados mediante la presente resoluci&#xF3;n, ascendentes a un total de 36.726 unidades de fomento, se imputar&#xE1;n a los recursos dispuestos para el a&#xF1;o 2013, para el Programa Fondo Solidario de Elecci&#xF3;n de Vivienda de la Regi&#xF3;n del Biob&#xED;o.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

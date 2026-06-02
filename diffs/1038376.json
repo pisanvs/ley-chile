@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2012-03-29",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2012-04-12",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9245136,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, comun&#xED;quese y publ&#xED;quese.- Pablo Longueira Montes, Ministro de Econom&#xED;a, Fomento y Turismo.</div><div class=\"p\">&nbsp; &nbsp;  Lo que transcribe para su conocimiento.- Saluda atentamente a Ud., Pablo Galilea Carrillo, Subsecretario de Pesca.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  An&#xF3;tese, comun&#xED;quese y publ&#xED;quese.- Tom&#xE1;s Flores Ja&#xF1;a, Ministro de Econom&#xED;a<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1038878&amp;idParte=9248245&amp;idVersion=2012-04-12\">Rectificaci&#xF3;n 197<br>D.O. 12.04.2012</a></span>, Fomento y Turismo (S).</div><div class=\"p\">&nbsp; &nbsp;  Lo que transcribe para su conocimiento.- Saluda atentamente a Ud., Pablo Galilea Carrillo, Subsecretario de Pesca.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1038878,
+      "fecha": "2012-04-12"
+    }
+  }
+]

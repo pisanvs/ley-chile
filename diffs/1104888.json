@@ -1,0 +1,36 @@
+[
+  {
+    "fecha": "2017-07-05",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-11-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9811855,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Comun&#xED;case nuevo valor del CFCD para el SEN, producto de la indexaci&#xF3;n del valor base establecido en el art&#xED;culo primero de la presente resoluci&#xF3;n, por el valor de 11,90 [US$/kWh].</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Comun&#xED;case nuevo valor del CFCD para el SEN, producto de la indexaci&#xF3;n del valor base establecido en el art&#xED;culo primero de la presente resoluci&#xF3;n, por el valor de 12,4<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1111360&amp;idParte=9854902&amp;idVersion=2017-11-28\">Resoluci&#xF3;n 665 EXENTA, <br>ENERG&#xCD;A<br>Art. segundo<br>D.O. 28.11.2017</a></span>1 [US$/kWh].</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9811856,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: Comun&#xED;case nuevo valor del CFLD para el SEN, producto de la indexaci&#xF3;n del valor base establecido en el art&#xED;culo segundo de la presente resoluci&#xF3;n, por el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SEN</div><div class=\"p\">&nbsp; &nbsp;  Profundidad&nbsp; &nbsp; [US$/MWh]</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; 0-5%&nbsp; &nbsp; &nbsp; &nbsp;  665,30</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  5-10%&nbsp; &nbsp; &nbsp; &nbsp;  967,95</div><div class=\"p\">&nbsp; &nbsp;  10-20%&nbsp; &nbsp; &nbsp; &nbsp;  1397,84</div><div class=\"p\">&nbsp; &nbsp; Sobre 20%&nbsp; &nbsp; &nbsp;  1906,12</div><br><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo cuarto: Comun&#xED;case nuevo valor del CFLD para el SEN, producto de la indexaci&#xF3;n del valor base establecido en el art&#xED;culo segundo de la presente resoluci&#xF3;n, por el siguiente:</div><br><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SEN</div><div class=\"p\">&nbsp; &nbsp;  Profundidad&nbsp; &nbsp; <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1111360&amp;idParte=9854903&amp;idVersion=2017-11-28\">Resoluci&#xF3;n 665 EXENTA,<br>ENERG&#xCD;A<br>Art. tercero<br>D.O. 28.11.2017</a></span>[US$/MWh]</div><div class=\"p\">&nbsp; &nbsp; &nbsp; &nbsp; 0-5%&nbsp; &nbsp; &nbsp; &nbsp;  687,24</div><div class=\"p\">&nbsp; &nbsp; &nbsp;  5-10%&nbsp; &nbsp; &nbsp; &nbsp;  999,88</div><div class=\"p\">&nbsp; &nbsp;  10-20%&nbsp; &nbsp; &nbsp; &nbsp;  1443,94</div><div class=\"p\">&nbsp; &nbsp; Sobre 20%&nbsp; &nbsp; &nbsp;  1968,99</div><br><br><br></div>"
+        },
+        {
+          "part_id": 9811858,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo sexto: Inf&#xF3;rmase que los valores base para la f&#xF3;rmula de ajuste que indexa el CFLD y CFCD del SEN, corresponden a los siguientes &#xED;ndices:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/68235.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Asimismo, inf&#xF3;rmase que en la determinaci&#xF3;n de los valores indicados en los art&#xED;culos tercero y cuarto de la presente resoluci&#xF3;n se han utilizado los siguientes &#xED;ndices:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/68236.jpg\">.</div><div class=\"p\">&nbsp; &nbsp; </div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo sexto: Inf&#xF3;rmase que los valores base para la f&#xF3;rmula de ajuste que indexa el CFLD y CFCD del SEN, corresponden a los siguientes &#xED;ndices:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/68235.jpg\">.</div><div class=\"p\">&nbsp; &nbsp;  </div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Asimismo, inf&#xF3;rmase que en la determinaci&#xF3;n de los valores indicados en los art&#xED;culos tercero y cuarto de la presente resoluci&#xF3;n se han utilizado los siguientes &#xED;ndices:</div><div class=\"p\"><div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA</a></div> </div><div class=\"p\">&nbsp; &nbsp; <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/68236.jpg\">.</div><br><br><div class=\"p\">&nbsp; &nbsp; </div><br><br><br><br><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA</a> <br> El art&#xED;culo primero de la Resoluci&#xF3;n 665 Exenta, Energ&#xED;a, publicada el 28.11.2017, modifica la presente norma en el sentido de reemplazar el valor del &#xED;ndice denominado &quot;&#xCD;nd Salt&quot;, correspondiente al mes de marzo de 2017, que informa y comunica nuevos valores del costo de falla de corta y larga duraci&#xF3;n del Sistema El&#xE9;ctrico Nacional.</div></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1111360,
+      "fecha": "2017-11-28"
+    }
+  }
+]

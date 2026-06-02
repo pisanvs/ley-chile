@@ -1,0 +1,37 @@
+[
+  {
+    "fecha": "2021-12-31",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-08-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10297935,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese como &#xE1;rea reglamentada denominada &quot;Olivar Valle&quot;, para el control de la plaga Polilla del Racimo de la Vid (Lobesia botrana), el &#xE1;rea de la ciudad de Vallenar de la comuna del mismo nombre, de la Provincia del Huasco, Regi&#xF3;n de Atacama, inserta en el pol&#xED;gono de 70 v&#xE9;rtices determinados por las siguientes coordenadas UTM que se se&#xF1;alan a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/137147.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Apl&#xED;quese en forma inmediata las regulaciones cuarentenarias y medidas fitosanitarias establecidas en la <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=1096321\">Res. N&#xBA; 5.916 de 21 de octubre de 2016</a> y sus modificaciones, al &#xE1;rea definida en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese como &#xE1;rea <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>reglamentada denominada &quot;Olivar Valle&quot;, para el control de la plaga Polilla del Racimo de la Vid (Lobesia botrana), el &#xE1;rea de la ciudad de Vallenar de la comuna del mismo nombre, de la Provincia del Huasco, Regi&#xF3;n de Atacama, inserta en el pol&#xED;gono de 70 v&#xE9;rtices determinados por las siguientes coordenadas UTM que se se&#xF1;alan a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/137147.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Apl&#xED;quese en forma inmediata las regulaciones cuarentenarias y medidas fitosanitarias establecidas en la Res. N&#xBA; 5.916 de 21 de octubre de 2016 y sus modificaciones, al &#xE1;rea definida en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 341 Exenta, Agricultura, publicada el 02.08.2022 modifica el &#xE1;rea reglamentada por Lobesia botrana en la Regi&#xF3;n de Atacama, comuna de Vallenar, dispuesta por la presente norma, para suprimir y erradicar la plaga en el &#xE1;rea definida por la citada norma.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2023-12-19",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10297935,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese como &#xE1;rea <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>reglamentada denominada &quot;Olivar Valle&quot;, para el control de la plaga Polilla del Racimo de la Vid (Lobesia botrana), el &#xE1;rea de la ciudad de Vallenar de la comuna del mismo nombre, de la Provincia del Huasco, Regi&#xF3;n de Atacama, inserta en el pol&#xED;gono de 70 v&#xE9;rtices determinados por las siguientes coordenadas UTM que se se&#xF1;alan a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/137147.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Apl&#xED;quese en forma inmediata las regulaciones cuarentenarias y medidas fitosanitarias establecidas en la Res. N&#xBA; 5.916 de 21 de octubre de 2016 y sus modificaciones, al &#xE1;rea definida en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 341 Exenta, Agricultura, publicada el 02.08.2022 modifica el &#xE1;rea reglamentada por Lobesia botrana en la Regi&#xF3;n de Atacama, comuna de Vallenar, dispuesta por la presente norma, para suprimir y erradicar la plaga en el &#xE1;rea definida por la citada norma.</div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1. Establ&#xE9;cese como &#xE1;rea <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>reglamentada denominada<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> &quot;Olivar Valle&quot;, para el control de la plaga Polilla del Racimo de la Vid (Lobesia botrana), el &#xE1;rea de la ciudad de Vallenar de la comuna del mismo nombre, de la Provincia del Huasco, Regi&#xF3;n de Atacama, inserta en el pol&#xED;gono de 70 v&#xE9;rtices determinados por las siguientes coordenadas UTM que se se&#xF1;alan a continuaci&#xF3;n:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  <img class=\"img-responsive\" src=\"Navegar/imagen/JPG/137147.jpg\"></div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  2. Apl&#xED;quese en forma inmediata las regulaciones cuarentenarias y medidas fitosanitarias establecidas en la Res. N&#xBA; 5.916 de 21 de octubre de 2016 y sus modificaciones, al &#xE1;rea definida en la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 341 Exenta, Agricultura, publicada el 02.08.2022 modifica el &#xE1;rea reglamentada por Lobesia botrana en la Regi&#xF3;n de Atacama, comuna de Vallenar, dispuesta por la presente norma, para suprimir y erradicar la plaga en el &#xE1;rea definida por la citada norma.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1 de la Resoluci&#xF3;n 947 Exenta, Agricultura, publicada el 19.12.2023, modifica el &#xE1;rea reglamentada por Lobesia botrana en la Regi&#xF3;n de Atacama, comuna de Vallenar, dispuesta mediante la presente norma, para suprimir y erradicar la plaga en el &#xE1;rea definida en el pol&#xED;gono que indica.</div></div>"
+        }
+      ]
+    }
+  }
+]
