@@ -122,7 +122,7 @@ def _flatten_html(items: list) -> dict[int, str]:
     for item in items:
         if not isinstance(item, dict):
             continue
-        if "i" in item and "t" in item:
+        if "i" in item and item["i"] is not None and "t" in item:
             result[item["i"]] = item["t"]
         if "h" in item:
             result.update(_flatten_html(item["h"]))
