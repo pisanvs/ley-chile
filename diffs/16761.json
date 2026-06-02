@@ -1,0 +1,99 @@
+[
+  {
+    "fecha": "1956-05-04",
+    "tipo_version_s": "Intermedio",
+    "diff": null
+  },
+  {
+    "fecha": "1956-05-05",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7154691,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 85&#xB0; Sin perjuicio de lo dispuesto en las leyes 10.383 y 11.462 y el art&#xED;culo 88&#xB0; de este Reglamento, los fondos para financiar los gastos que origine el funcionamiento de la ley 6.174, sobre Medicina Preventiva, se formar&#xE1;n en cada Caja o Servicio con:</div><div class=\"p\">&nbsp; &nbsp; a) El producto de la imposici&#xF3;n patronal del 1 al 1,5%, en su caso, sobre los sueldos, comisiones y jornales. Esta imposici&#xF3;n se cobrar&#xE1; sobre el monto de los sueldos, comisiones y jornales por los cuales se impone en la Caja, salvo en el caso de los empleados p&#xFA;blicos y dem&#xE1;s imponentes de la Caja Nacional de Empleados P&#xFA;blicos y Periodistas, respecto de los cuales se har&#xE1; sobre los sueldos, sobresueldos y gratificaciones, que tengan el car&#xE1;cter de sueldo para los efectos legales.</div><div class=\"p\">&nbsp; &nbsp; Deber&#xE1; contabilizarse por provincias y s&#xF3;lo podr&#xE1; invertirse en la provincia donde ha sido recaudada para el pago de los subsidios de reposo de los obreros y empleados de la misma.</div><div class=\"p\">&nbsp; &nbsp; Tambi&#xE9;n se cargar&#xE1; a este rubro el abono de las imposiciones patronales que deben hacer las Cajas o Servicios, a que se refiere el art&#xED;culo 51&#xB0;, letra b);</div><div class=\"p\">&nbsp; &nbsp; b) La suma que la Caja o Servicio deber&#xE1; destinar en conformidad al inciso 3&#xB0; del art&#xED;culo 8&#xB0; de la ley, cuyo monto no podr&#xE1; exceder del 2,5% de las entradas brutas, o del 3,75%, en su caso.</div><div class=\"p\">&nbsp; &nbsp; Enti&#xE9;ndese por entradas brutas todos los ingresos que perciban las Cajas o Servicios, provenientes de los recursos que les acuerden las Leyes Org&#xE1;nicas respectivas para financiar las prestaciones y para constituir fondos individuales de retiro o de ahorro.</div><div class=\"p\">&nbsp; &nbsp; Igualmente, son entradas brutas las que tienen su origen en la rentabilidad de los capitales acumulados y en las comisiones que se perciban por cualquier clase de operaciones, y</div><div class=\"p\">&nbsp; &nbsp; c) Los fondos destinados a Medicina Preventiva que sobraren al t&#xE9;rmino de cada a&#xF1;o, se acumular&#xE1;n al mismo fondo para el ejercicio siguiente.</div></div>"
+        },
+        {
+          "part_id": 7154692,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; TITULO VIII </div><div class=\"p\">&nbsp; &nbsp; DE LOS FONDOS DE MEDICINA PREVENTIVA</div></div>"
+        },
+        {
+          "part_id": 7154693,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 86&#xB0; Los imponentes voluntarios y los que, como los preparadores y jinetes, no tienen empleadores, deber&#xE1;n aportar el 1% a que se refiere el art&#xED;culo 8&#xB0; de la ley, al integrar en la respectiva Caja de Previsi&#xF3;n o Servicio las dem&#xE1;s imposiciones a que las leyes pertinentes les obliguen.</div></div>"
+        },
+        {
+          "part_id": 7154694,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 87&#xB0; La imposici&#xF3;n a que se refiere la letra a) del art&#xED;culo 85&#xB0; se pagar&#xE1; conjuntamente con las actuales imposiciones patronales y en la forma prevista para &#xE9;stas.</div><div class=\"p\">&nbsp; &nbsp; El Fisco consultar&#xE1; en la Ley de Presupuestos una partida para el pago de las imposiciones patronales del 1% que le corresponde, de acuerdo con lo establecido en el art&#xED;culo 8&#xB0; de la ley 6.174.</div></div>"
+        },
+        {
+          "part_id": 7154695,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 88&#xB0; Las prestaciones de Medicina Preventiva otorgadas por el Servicio Nacional de Salud de acuerdo con la ley 10.383 se financiar&#xE1;n en conformidad con lo dispuesto en dicha ley.</div></div>"
+        },
+        {
+          "part_id": 7154696,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 89&#xB0; Las Cajas o Servicios podr&#xE1;n cargar a los fondos de Medicina Preventiva el inter&#xE9;s del capital invertido en construcciones, instalaciones y dem&#xE1;s gastos que signifiquen los establecimientos a que se refiere el art&#xED;culo 26&#xB0; del presente Reglamento. </div></div>"
+        },
+        {
+          "part_id": 7154697,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 90&#xB0; Las Municipalidades deber&#xE1;n consultar en sus Presupuestos, en el rubro &quot;Gastos Fijos&quot;, una partida destinada a cubrir la imposici&#xF3;n patronal del 1 &#xF3; del 1,5%, en su caso, de los sueldos y jornales que, en conformidad al art&#xED;culo 8&#xB0; de la ley 6.174, deben cancelar a la Caja de Previsi&#xF3;n o Servicio respectivo.</div><div class=\"p\">&nbsp; &nbsp; Los Intendentes, como subrogantes de las Asambleas Provinciales, al pronunciarse sobre los Presupuestos Municipales deber&#xE1;n objetar aquellos Presupuestos en los cuales no se haya dado cumplimiento al citado art&#xED;culo de la ley.</div></div>"
+        },
+        {
+          "part_id": 7154698,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 91&#xB0; El presente Reglamento empezar&#xE1; a regir desde su publicaci&#xF3;n en el &quot;Diario Oficial&quot;. </div></div>"
+        }
+      ],
+      "removed": [
+        {
+          "part_id": 7154594,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 84&#xB0; La sentencia dictada por la Comisi&#xF3;n ser&#xE1; inapelable y tendr&#xE1; m&#xE9;rito ejecutivo. </div></div>",
+          "new": null
+        }
+      ],
+      "changed": []
+    }
+  },
+  {
+    "fecha": "1984-05-28",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 7154700,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; DECRETO N&#xB0; 1.082, DE 24 DE NOVIEMBRE DE 1955</div><div class=\"p\">&nbsp; &nbsp; Ministerio de Salud P&#xFA;blica y Previsi&#xF3;n Social</div><div class=\"p\">&nbsp; &nbsp; (A&#xF1;o 1955)</div><div class=\"p\">&nbsp; &nbsp; APRUEBA EL REGLAMENTO ORGANICO PARA LA APLICACION<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:&nbsp;  1</a></div> DE LA LEY N&#xB0; 6,174, DE 31 DE ENERO DE 1938</div><div class=\"p\">&nbsp; &nbsp; (Publicado en el &quot;Diario Oficial&quot; N&#xB0; 23.440, de 3 de mayo de 1956)</div><div class=\"p\">&nbsp; &nbsp; N&#xFA;m. 1.082.- Santiago, 24 de noviembre de 1955.- Vista la facultad que me confiere el N&#xB0; 2&#xB0; del art&#xED;culo 72&#xB0; de la Constituci&#xF3;n Pol&#xED;tica del Estado,</div><div class=\"p\">&nbsp; &nbsp; Decreto:</div><div class=\"p\">&nbsp; &nbsp; 1&#xB0; Der&#xF3;ganse los decretos 360, de 9 de mayo de 1938; 620, de 18 de mayo de 1939; 219, de 6 de marzo de 1940; 539, de 27 de mayo de 1941, y 806, de 30 de abril de 1947, todos de este Ministerio, y decreto 5.110, de 18 de diciembre de 1946, del Ministerio de Hacienda.</div><div class=\"p\">&nbsp; &nbsp; 2&#xB0; Apru&#xE9;base el siguiente Reglamento Org&#xE1;nico para la aplicaci&#xF3;n de la ley 6.174, de 31 de enero de 1938, sobre Medicina Preventiva, modificada por leyes 6,422, de 21 de septiembre de 1939, y 11.855, de 15 de julio de 1955:</div><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:&nbsp;  1</a> <br>&nbsp; &nbsp;  EL D.S. N&#xB0; 202, Salud, de 1981, derog&#xF3; el D.S. N&#xB0; 1.082, en todo lo que le fuere contrario o incompatible (Art. 51). El D.S. N&#xB0; 3 de Salud, de 28 de mayo de 1984 (Art. 66) derog&#xF3; el D.S. 202 reci&#xE9;n citado, y estableci&#xF3; a su vez la derogaci&#xF3;n del D.S. N&#xB0; 1.082 en todo lo que le fuere incompatible.<br></div></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 7154620,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 20&#xB0; El examen de salud consistir&#xE1; en las siguientes pruebas como m&#xED;nimo: a) Examen cl&#xED;nico somero, consistente en: peso, talla, inspecci&#xF3;n general, pulso, presi&#xF3;n arterial y auscultaci&#xF3;n del t&#xF3;rax (coraz&#xF3;n, pulmones); b) Examen radiol&#xF3;gico del t&#xF3;rax; c) Reacci&#xF3;n de Kahn, cuando se trate de un primer<span class=\"n\" id=\"n_0\">DS. 1322,<br>SALUD, 1958.</span> examen de salud, o cuando existan antecedentes cl&#xED;nicos que lo justifiquen. d) Tonometr&#xED;a, examen que solamente se practicar&#xE1; a los imponentes con m&#xE1;s de 35 a&#xF1;os de edad. En el Servicio Nacional de Salud, el examen de salud consistir&#xE1; en una o m&#xE1;s pruebas de las se&#xF1;aladas en el inciso anterior, de acuerdo con las normas e instrucciones establecidas al efecto por la instituci&#xF3;n, previo informe favorable de la Superintendencia de Seguridad Social. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 20&#xB0; El examen de salud consistir&#xE1; en las siguientes pruebas como m&#xED;nimo: a) Examen cl&#xED;nico somero, consistente en: peso, talla, inspecci&#xF3;n general, pulso, presi&#xF3;n arterial y auscultaci&#xF3;n del t&#xF3;rax (coraz&#xF3;n, pulmones); b) Examen radiol&#xF3;gico del t&#xF3;rax; c) Reacci&#xF3;n de Kahn, cuando se trate de un primer<span class=\"n\" id=\"n_1\">DS. 1322,<br>SALUD, 1958.</span> examen de salud, o cuando existan antecedentes cl&#xED;nicos que lo justifiquen. d) Tonometr&#xED;a, examen que solamente se practicar&#xE1; a los imponentes con m&#xE1;s de 35 a&#xF1;os de edad. En el Servicio Nacional de Salud, el examen de salud consistir&#xE1; en una o m&#xE1;s pruebas de las se&#xF1;aladas en el inciso anterior, de acuerdo con las normas e instrucciones establecidas al efecto por la instituci&#xF3;n, previo informe favorable de la Superintendencia de Seguridad Social. </div></div>"
+        },
+        {
+          "part_id": 7154639,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 37&#xB0; Para la designaci&#xF3;n del representante<span class=\"n\" id=\"n_1\">DS. 947,<br>SUBS. PREV.<br>1959, N&#xB0; 1.</span> m&#xE9;dico de empleadores y patrones cada instituci&#xF3;n patronal o de empleadores de la provincia de Santiago que tenga personalidad jur&#xED;dica, deber&#xE1; presentar al Gobierno, por conducto del Ministerio del Trabajo y Previsi&#xF3;n Social, una quina, de entre cuyos nombres, el Presidente de la Rep&#xFA;blica efectuar&#xE1; la designaci&#xF3;n. Incisos 2&#xB0; y 3&#xB0;.- Derogados.-<span class=\"n\" id=\"n_2\">DS. 700,<br>SUBS. PREV.<br>1960, N&#xB0; 1&#xB0;.</span> </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 37&#xB0; Para la designaci&#xF3;n del representante<span class=\"n\" id=\"n_2\">DS. 947,<br>SUBS. PREV.<br>1959, N&#xB0; 1.</span> m&#xE9;dico de empleadores y patrones cada instituci&#xF3;n patronal o de empleadores de la provincia de Santiago que tenga personalidad jur&#xED;dica, deber&#xE1; presentar al Gobierno, por conducto del Ministerio del Trabajo y Previsi&#xF3;n Social, una quina, de entre cuyos nombres, el Presidente de la Rep&#xFA;blica efectuar&#xE1; la designaci&#xF3;n. Incisos 2&#xB0; y 3&#xB0;.- Derogados.-<span class=\"n\" id=\"n_3\">DS. 700,<br>SUBS. PREV.<br>1960, N&#xB0; 1&#xB0;.</span> </div></div>"
+        },
+        {
+          "part_id": 7154640,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 38&#xB0; La Superintendencia de Seguridad Social<span class=\"n\" id=\"n_3\">DS. 700,<br>SUBS. PREV.<br>1960, N&#xB0; 2.</span> deber&#xE1; notificar a los directores de los sindicatos de obreros y empleados y a las asociaciones de patrones y empleadores, que gocen de personalidad jur&#xED;dica y que tengan su domicilio social en la provincia de Santiago, mediante dos avisos de prensa publicados simult&#xE1;neamente en los tres diarios de mayor circulaci&#xF3;n de la provincia, que disponen del plazo de 15 d&#xED;as, a contar de la publicaci&#xF3;n del &#xFA;ltimo aviso, para proponer candidatos a representarlas ante la Comisi&#xF3;n Central de Reclamos de Medicina Preventiva. Cada sindicato o asociaci&#xF3;n deber&#xE1; presentar una lista de cinco m&#xE9;dicos, con indicaci&#xF3;n de su especialidad y domicilio. Tal propuesta deber&#xE1; ser firmada por el presidente y secretario de la respectiva asociaci&#xF3;n o sindicato y deber&#xE1; se&#xF1;alar el decreto por el cual se le concedi&#xF3; personalidad jur&#xED;dica. Las quinas as&#xED; formadas, deber&#xE1;n ser enviadas a la Superintendencia de Seguridad Social y ser&#xE1;n presentadas por intermedio del Ministro del Trabajo y Previsi&#xF3;n Social al Presidente de la Rep&#xFA;blica para la designaci&#xF3;n en propiedad. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 38&#xB0; La Superintendencia de Seguridad Social<span class=\"n\" id=\"n_4\">DS. 700,<br>SUBS. PREV.<br>1960, N&#xB0; 2.</span> deber&#xE1; notificar a los directores de los sindicatos de obreros y empleados y a las asociaciones de patrones y empleadores, que gocen de personalidad jur&#xED;dica y que tengan su domicilio social en la provincia de Santiago, mediante dos avisos de prensa publicados simult&#xE1;neamente en los tres diarios de mayor circulaci&#xF3;n de la provincia, que disponen del plazo de 15 d&#xED;as, a contar de la publicaci&#xF3;n del &#xFA;ltimo aviso, para proponer candidatos a representarlas ante la Comisi&#xF3;n Central de Reclamos de Medicina Preventiva. Cada sindicato o asociaci&#xF3;n deber&#xE1; presentar una lista de cinco m&#xE9;dicos, con indicaci&#xF3;n de su especialidad y domicilio. Tal propuesta deber&#xE1; ser firmada por el presidente y secretario de la respectiva asociaci&#xF3;n o sindicato y deber&#xE1; se&#xF1;alar el decreto por el cual se le concedi&#xF3; personalidad jur&#xED;dica. Las quinas as&#xED; formadas, deber&#xE1;n ser enviadas a la Superintendencia de Seguridad Social y ser&#xE1;n presentadas por intermedio del Ministro del Trabajo y Previsi&#xF3;n Social al Presidente de la Rep&#xFA;blica para la designaci&#xF3;n en propiedad. </div></div>"
+        },
+        {
+          "part_id": 7154641,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 38&#xB0; bis.- En el evento que las<span class=\"n\" id=\"n_4\">DS. 263,<br>SUBS. PREV.<br>1973.</span> organizaciones interesadas no presentaren quinas o &#xE9;stas fueren presentadas sin sujeci&#xF3;n a los requisitos que exige el presente Reglamento, el Supremo Gobierno designar&#xE1; libremente a los respectivos representantes ante la Comisi&#xF3;n Central de Reclamos de Medicina Preventiva. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; Art&#xED;culo 38&#xB0; bis.- En el evento que las<span class=\"n\" id=\"n_5\">DS. 263,<br>SUBS. PREV.<br>1973.</span> organizaciones interesadas no presentaren quinas o &#xE9;stas fueren presentadas sin sujeci&#xF3;n a los requisitos que exige el presente Reglamento, el Supremo Gobierno designar&#xE1; libremente a los respectivos representantes ante la Comisi&#xF3;n Central de Reclamos de Medicina Preventiva. </div></div>"
+        }
+      ]
+    }
+  }
+]

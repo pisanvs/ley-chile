@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2017-10-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2017-11-02",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9840447,
+          "old": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta N&#xBA; 4.333, de fecha 28 de agosto de 2017, se orden&#xF3; la expropiaci&#xF3;n total, conforme a las normas del decreto ley N&#xBA; 2.186 de 1978, del denominado Lote N&#xBA; 3376-04, correspondiente al inmueble ubicado en Fco Coloane 01358 Dp 13, Rol de Aval&#xFA;o N&#xBA; 3376-04, de la comuna de Puente Alto, Regi&#xF3;n Metropolitana, de aparente dominio de Gallardo Am&#xE9;stica Jos&#xE9;, con una superficie aproximada de 42,441 metros cuadrados. Dicha expropiaci&#xF3;n resulta necesaria para la ejecuci&#xF3;n del Programa &quot;Recuperaci&#xF3;n de Condominios Sociales: Segunda Oportunidad&quot;. La Comisi&#xF3;n de Peritos integrada por los se&#xF1;ores Soledad Herrera Z&#xFA;&#xF1;iga, Ingeniero Civil; Pablo Berrios Pirnat, Arquitecto y Roberto Correa Bezanilla, Arquitecto, mediante informe de fecha 6 de julio de 2015, fij&#xF3; la indemnizaci&#xF3;n provisional por causa de la referida expropiaci&#xF3;n en la suma de $12.863.319, que se pagar&#xE1; al contado. La presente publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186 de 1978.- </div></div>",
+          "new": "<div><br><br><div class=\"p\">&nbsp; &nbsp;  Por resoluci&#xF3;n exenta <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1110085&amp;idParte=9845103&amp;idVersion=2017-11-02\">Aviso S/N,<br>VIVIENDA<br>D.O. 02.11.2017</a></span>N&#xBA; 4.633, de fecha 28 de agosto de 2017, se orden&#xF3; la expropiaci&#xF3;n total, conforme a las normas del decreto ley N&#xBA; 2.186 de 1978, del denominado Lote N&#xBA; 3376-04, correspondiente al inmueble ubicado en Fco Coloane 01358 Dp 13, Rol de Aval&#xFA;o N&#xBA; 3376-04, de la comuna de Puente Alto, Regi&#xF3;n Metropolitana, de aparente dominio de Gallardo Am&#xE9;stica Jos&#xE9;, con una superficie aproximada de 42,441 metros cuadrados. Dicha expropiaci&#xF3;n resulta necesaria para la ejecuci&#xF3;n del Programa &quot;Recuperaci&#xF3;n de Condominios Sociales: Segunda Oportunidad&quot;. La Comisi&#xF3;n de Peritos integrada por los se&#xF1;ores Soledad Herrera Z&#xFA;&#xF1;iga, Ingeniero Civil; Pablo Berrios Pirnat, Arquitecto y Roberto Correa Bezanilla, Arquitecto, mediante informe de fecha 6 de julio de 2015, fij&#xF3; la indemnizaci&#xF3;n provisional por causa de la referida expropiaci&#xF3;n en la suma de $12.863.319, que se pagar&#xE1; al contado. La presente publicaci&#xF3;n se efect&#xFA;a en cumplimiento a lo dispuesto en el art&#xED;culo 7&#xBA; del decreto ley N&#xBA; 2.186 de 1978.- </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1110085,
+      "fecha": "2017-11-02"
+    }
+  }
+]

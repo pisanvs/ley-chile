@@ -1,0 +1,16 @@
+[
+  {
+    "fecha": "2010-09-08",
+    "tipo_version_s": "Última Versión",
+    "diff": null
+  },
+  {
+    "fecha": "2010-09-08",
+    "tipo_version_s": "Texto Original",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]
