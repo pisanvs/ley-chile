@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2018-07-18",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-08-17",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9932186,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. P&#xF3;nese t&#xE9;rmino a la orden de subrogancia del cargo de Secretario Regional Ministerial de Salud de la Regi&#xF3;n del Libertador Bernardo O&apos;Higgins, dispuesto por <a href=\"https://www.leychile.cl/Navegar?idNorma=1105505&amp;idParte=&amp;idVersion=\">decreto exento N&#xB0; 270, del 11 de julio de 2017, del Ministerio de Salud</a>.</div><div class=\"p\">&nbsp; &nbsp;  2. Establece el siguiente orden de Subrogancia del cargo de Secretario Regional Ministerial de Salud de la Regi&#xF3;n del Libertador Bernardo O&apos;Higgins, en caso de ausencia o impedimento de su titular:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Primer orden de subrogancia</div><div class=\"p\">&nbsp; &nbsp;  D. Manuel Alejandro Elizondo P&#xE9;rez, C&#xE9;dula de Identidad N&#xB0; 14.325.065-2, Profesional, grado 5&#xB0; EUS, contrata.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Segundo orden de subrogancia</div><div class=\"p\">&nbsp; &nbsp;  D. Nelson Guillermo Adri&#xE1;n Flores, C&#xE9;dula de Identidad N&#xB0; 6.330.389-5, Directivo, grado 2&#xB0; EUS, titular.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Tercer orden de subrogancia</div><div class=\"p\">&nbsp; &nbsp;  D. Kira del Carmen Le&#xF3;n Belda, C&#xE9;dula de Identidad N&#xB0; 8.232.925-0, Cirujano Dentista, 44 Hrs., Titular.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  3. Decl&#xE1;rese que el Subrogante del Secretario Regional Ministerial de Salud de la Regi&#xF3;n del Libertador Bernardo O&apos;Higgins asumir&#xE1; sus funciones a contar de la fecha del presente acto administrativo.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1. P&#xF3;nese t&#xE9;rmino a la orden de subrogancia del cargo de Secretario Regional Ministerial de Salud de la Regi&#xF3;n del Libertador Bernardo O&apos;Higgins, dispuesto por decreto exento N&#xB0; 270, del 11 de julio de 2017, del Ministerio de Salud.</div><div class=\"p\">&nbsp; &nbsp;  2. Establece el siguiente orden de Subrogancia del cargo de Secretario Regional Ministerial de Salud de la Regi&#xF3;n del Libertador Bernardo O&apos;Higgins, en caso de ausencia o impedimento de su titular:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Primer orden de subrogancia</div><div class=\"p\">&nbsp; &nbsp;  D. Manuel Alejandro Elizondo P&#xE9;rez, C&#xE9;dula de Identidad N&#xB0; 14.325.065-2, Profesional, grado 5&#xB0; EUS, contrata.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Segundo<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1122018&amp;idParte=9942362&amp;idVersion=2018-08-17\">Decreto 96 EXENTO,<br>SALUD<br>N&#xB0; 1<br>D.O. 17.08.2018</a></span> orden de subrogancia</div><div class=\"p\">&nbsp; &nbsp;  D. Nelson Guillermo Adrian Flores, C&#xE9;dula de Identidad N&#xBA; 6.330.389-5, Profesional, grado 5&#xBA; EUS, titular.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Tercer orden de subrogancia</div><div class=\"p\">&nbsp; &nbsp;  D. Kira del Carmen Le&#xF3;n Belda, C&#xE9;dula de Identidad N&#xB0; 8.232.925-0, Cirujano Dentista, 44 Hrs., Titular.</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  3. Decl&#xE1;rese que el Subrogante del Secretario Regional Ministerial de Salud de la Regi&#xF3;n del Libertador Bernardo O&apos;Higgins asumir&#xE1; sus funciones a contar de la fecha del presente acto administrativo.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1122018,
+      "fecha": "2018-08-17"
+    }
+  }
+]

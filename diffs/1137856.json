@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2019-10-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2019-10-29",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10064099,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Des&#xED;gnese como Jefe de la Defensa Nacional en la zona se&#xF1;alada en el art&#xED;culo anterior al General de Brigada A&#xE9;rea (A), se&#xF1;or Joaqu&#xED;n Morales Burotto, c&#xE9;dula nacional de identidad N&#xB0; 10.224.478-8.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo segundo: Des&#xED;gnese <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1138113&amp;idParte=10065349&amp;idVersion=2019-10-29\">Resoluci&#xF3;n 433,<br>INTERIOR<br>D.O. 29.10.2019</a></span>como Jefe de la Defensa Nacional en la zona se&#xF1;alada en el art&#xED;culo anterior al General de Brigada, se&#xF1;or Joaqu&#xED;n Morales Burotto, c&#xE9;dula nacional de identidad N&#xB0; 10.224.478-8.</div><div class=\"p\"> </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1138113,
+      "fecha": "2019-10-29"
+    }
+  }
+]

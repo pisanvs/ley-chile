@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "1990-09-22",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "1997-02-13",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9048302,
+          "old": "<div><div class=\"p\">AUTORIZA A PESQUERA SKUNA LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA </div></div>",
+          "new": "<div><div class=\"p\">AUTORIZA A PESQUERA SKUNA LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA </div><br><br></div>"
+        }
+      ]
+    }
+  }
+]

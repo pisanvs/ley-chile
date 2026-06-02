@@ -1,0 +1,165 @@
+[
+  {
+    "fecha": "2017-06-30",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2018-01-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9809833,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnase los tramos del desarrollo profesional docente establecidos en el T&#xED;tulo III del <a href=\"https://www.leychile.cl/Navegar?idNorma=60439&amp;idParte=0&amp;idVersion=\">decreto con fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n</a>, se&#xF1;al&#xE1;ndose los bienios que correspondan, a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos correspondientes, y que se encuentran individualizados en archivo de formato port&#xE1;til con firma digital almacenado en CD adjunto, con n&#xFA;mero de serie &quot;DVD-R13010952&quot;, firmado por el Jefe Coordinador de la Unidad de Tecnolog&#xED;a del Ministerio de Educaci&#xF3;n, que se acompa&#xF1;a y forma parte integrante de la presente resoluci&#xF3;n, para todos los efectos legales.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnase los <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>tramos del desarrollo profesional docente establecidos en el T&#xED;tulo III del decreto con fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, se&#xF1;al&#xE1;ndose los bienios que correspondan, a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos correspondientes, y que se encuentran individualizados en archivo de formato port&#xE1;til con firma digital almacenado en CD adjunto, con n&#xFA;mero de serie &quot;DVD-R13010952&quot;, firmado por el Jefe Coordinador de la Unidad de Tecnolog&#xED;a del Ministerio de Educaci&#xF3;n, que se acompa&#xF1;a y forma parte integrante de la presente resoluci&#xF3;n, para todos los efectos legales.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo tercero de la Resoluci&#xF3;n 6778 Exenta, Educaci&#xF3;n, publicada el 25.01.2018, modifica la presente norma en el sentido de eliminar, incorporar y reemplazar, del listado de los profesionales de la educaci&#xF3;n, aquellos que se encuentran individualizados en la presente norma.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2018-12-22",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9809833,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnase los <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>tramos del desarrollo profesional docente establecidos en el T&#xED;tulo III del decreto con fuerza de ley N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, se&#xF1;al&#xE1;ndose los bienios que correspondan, a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos correspondientes, y que se encuentran individualizados en archivo de formato port&#xE1;til con firma digital almacenado en CD adjunto, con n&#xFA;mero de serie &quot;DVD-R13010952&quot;, firmado por el Jefe Coordinador de la Unidad de Tecnolog&#xED;a del Ministerio de Educaci&#xF3;n, que se acompa&#xF1;a y forma parte integrante de la presente resoluci&#xF3;n, para todos los efectos legales.</div><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo tercero de la Resoluci&#xF3;n 6778 Exenta, Educaci&#xF3;n, publicada el 25.01.2018, modifica la presente norma en el sentido de eliminar, incorporar y reemplazar, del listado de los profesionales de la educaci&#xF3;n, aquellos que se encuentran individualizados en la presente norma.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnase los <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>tramos del desarrollo profesional docente establecidos en el T&#xED;tulo III del decreto con fuerza de ley N&#xB0; 1, de 1996, del<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> Ministerio de Educaci&#xF3;n, se&#xF1;al&#xE1;ndose los bienios que correspondan, a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos correspondientes, y que se encuentran individualizados en archivo de formato port&#xE1;til con firma digital almacenado en CD adjunto, con n&#xFA;mero de serie &quot;DVD-R13010952&quot;, firmado por el Jefe Coordinador de la Unidad de Tecnolog&#xED;a del Ministerio de Educaci&#xF3;n, que se acompa&#xF1;a y forma parte integrante de la presente resoluci&#xF3;n, para todos los efectos legales.</div><br><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo tercero de la Resoluci&#xF3;n 6778 Exenta, Educaci&#xF3;n, publicada el 25.01.2018, modifica la presente norma en el sentido de eliminar, incorporar y reemplazar, del listado de los profesionales de la educaci&#xF3;n, aquellos que se encuentran individualizados en la presente norma.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; Los numerales 1,2 y 3 del art&#xED;culo primero de la Resoluci&#xF3;n 6532 Exenta, Educaci&#xF3;n, publicada el 22.12.2018 dispone modificar la siguiente norma, en el sentido de incorporar al listado de profesionales de la educaci&#xF3;n aquellos que se encuentran individualizados en los documentos de formato port&#xE1;til, bajo los t&#xED;tulos &quot;Rex3263_modificaciones.asimilaci&#xF3;n&quot; y &quot;Rex6778_Elimina&quot;. Asimismo, ordena sustituir la informaci&#xF3;n de los profesionales de la educaci&#xF3;n que se encuentran individualizados en el documento de formato port&#xE1;til, bajo el t&#xED;tulo &quot;Rex3263_modificaciones.bienios&quot;. Finalmente, reemplaza el tramo de los profesionales de la educaci&#xF3;n que se encuentran individualizados en el documento de formato port&#xE1;til, bajo el t&#xED;tulo &quot;Rex6778_modifica&quot;.</div></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2019-05-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9809833,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnase los <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>tramos del desarrollo profesional docente establecidos en el T&#xED;tulo III del decreto con fuerza de ley N&#xB0; 1, de 1996, del<div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA 1</a></div> Ministerio de Educaci&#xF3;n, se&#xF1;al&#xE1;ndose los bienios que correspondan, a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos correspondientes, y que se encuentran individualizados en archivo de formato port&#xE1;til con firma digital almacenado en CD adjunto, con n&#xFA;mero de serie &quot;DVD-R13010952&quot;, firmado por el Jefe Coordinador de la Unidad de Tecnolog&#xED;a del Ministerio de Educaci&#xF3;n, que se acompa&#xF1;a y forma parte integrante de la presente resoluci&#xF3;n, para todos los efectos legales.</div><br><br><br><br><br><br><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo tercero de la Resoluci&#xF3;n 6778 Exenta, Educaci&#xF3;n, publicada el 25.01.2018, modifica la presente norma en el sentido de eliminar, incorporar y reemplazar, del listado de los profesionales de la educaci&#xF3;n, aquellos que se encuentran individualizados en la presente norma.</div><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp; Los numerales 1,2 y 3 del art&#xED;culo primero de la Resoluci&#xF3;n 6532 Exenta, Educaci&#xF3;n, publicada el 22.12.2018 dispone modificar la siguiente norma, en el sentido de incorporar al listado de profesionales de la educaci&#xF3;n aquellos que se encuentran individualizados en los documentos de formato port&#xE1;til, bajo los t&#xED;tulos &quot;Rex3263_modificaciones.asimilaci&#xF3;n&quot; y &quot;Rex6778_Elimina&quot;. Asimismo, ordena sustituir la informaci&#xF3;n de los profesionales de la educaci&#xF3;n que se encuentran individualizados en el documento de formato port&#xE1;til, bajo el t&#xED;tulo &quot;Rex3263_modificaciones.bienios&quot;. Finalmente, reemplaza el tramo de los profesionales de la educaci&#xF3;n que se encuentran individualizados en el documento de formato port&#xE1;til, bajo el t&#xED;tulo &quot;Rex6778_modifica&quot;.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1132009&amp;idParte=10025687&amp;idVersion=2019-05-25\">Resoluci&#xF3;n 2633 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO N&#xB0; 1<br>D.O. 25.05.2019</a></span>los tramos de desarrollo profesional docente establecidos en el T&#xED;tulo III del DFL N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que correspondan, a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos correspondientes y que se encuentran individualizados en la n&#xF3;mina contenida en el disco compacto denominado &quot;Actualizaci&#xF3;n Rex. N&#xB0; 3263 - 2017, abril de 2019&quot;, n&#xFA;mero de serie LH3110JH0311830D6, refrendado mediante la firma electr&#xF3;nica de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, el que forma parte de la presente resoluci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 9809835,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Resgu&#xE1;rdase la informaci&#xF3;n en un archivo de formato port&#xE1;til con firma electr&#xF3;nica avanzada, almacenado en un disco compacto, con el n&#xFA;mero de serie &quot;DVD-R 13010952&quot;, custodiado por el Jefe del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, para asegurar la confidencialidad de las asignaciones a que se refiere el art&#xED;culo primero de la presente resoluci&#xF3;n, y con el objeto de dar cumplimiento a las obligaciones establecidas en la Ley N&#xB0; 19.628, sobre Protecci&#xF3;n de la Vida Privada.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Para <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1132009&amp;idParte=10025687&amp;idVersion=2019-05-25\">Resoluci&#xF3;n 2633 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO N&#xB0; 2<br>D.O. 25.05.2019</a></span>asegurar la confidencialidad de la n&#xF3;mina a que se refiere el art&#xED;culo primero de esta resoluci&#xF3;n, y con el objeto de dar cumplimiento a las obligaciones establecidas en la Ley N&#xB0; 19.628 sobre Protecci&#xF3;n de la Vida Privada, se resguardar&#xE1; el disco compacto ya individualizado, mediante la custodia ejercida por el Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas de esta Secretar&#xED;a de Estado.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1132009,
+      "fecha": "2019-05-25"
+    }
+  },
+  {
+    "fecha": "2020-07-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9809833,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1132009&amp;idParte=10025687&amp;idVersion=2019-05-25\">Resoluci&#xF3;n 2633 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO N&#xB0; 1<br>D.O. 25.05.2019</a></span>los tramos de desarrollo profesional docente establecidos en el T&#xED;tulo III del DFL N&#xB0; 1, de 1996, del Ministerio de Educaci&#xF3;n, Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que correspondan, a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos correspondientes y que se encuentran individualizados en la n&#xF3;mina contenida en el disco compacto denominado &quot;Actualizaci&#xF3;n Rex. N&#xB0; 3263 - 2017, abril de 2019&quot;, n&#xFA;mero de serie LH3110JH0311830D6, refrendado mediante la firma electr&#xF3;nica de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, el que forma parte de la presente resoluci&#xF3;n.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1147232&amp;idParte=10133773&amp;idVersion=2020-07-04\">Resoluci&#xF3;n 2751 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 04.07.2020</a></span>los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;25102019N&#xF3;mina_rex3263.pdf&quot;, almacenado en CD adjunto, caratulado &quot;Anexos&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2021-05-04",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9809833,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As&#xED;gnanse <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1147232&amp;idParte=10133773&amp;idVersion=2020-07-04\">Resoluci&#xF3;n 2751 EXENTA,<br>EDUCACI&#xD3;N<br>Art. tercero<br>D.O. 04.07.2020</a></span>los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;25102019N&#xF3;mina_rex3263.pdf&quot;, almacenado en CD adjunto, caratulado &quot;Anexos&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1159145&amp;idParte=10223966&amp;idVersion=2021-05-04\">Resoluci&#xF3;n 2533 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 04.05.2021</a></span>As&#xED;gnanse los tramos del Desarrollo Profesional Docente que corresponda, conforme o la experiencia profesional y a los resultados de los instrumentos de evaluaci&#xF3;n a que hace referencia el art&#xED;culo 19 K del Estatuto Docente, a los profesionales de la educaci&#xF3;n que durante el a&#xF1;o 2016 participaron del Sistema de Reconocimiento regulado en el T&#xED;tulo III del Estatuto Docente, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;23092020_REX_3263&quot;, almacenado en CD adjunto, caratulado &quot;Rex 3263 24.09.2020&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-01-26",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9809833,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1159145&amp;idParte=10223966&amp;idVersion=2021-05-04\">Resoluci&#xF3;n 2533 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 04.05.2021</a></span>As&#xED;gnanse los tramos del Desarrollo Profesional Docente que corresponda, conforme o la experiencia profesional y a los resultados de los instrumentos de evaluaci&#xF3;n a que hace referencia el art&#xED;culo 19 K del Estatuto Docente, a los profesionales de la educaci&#xF3;n que durante el a&#xF1;o 2016 participaron del Sistema de Reconocimiento regulado en el T&#xED;tulo III del Estatuto Docente, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la Jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;23092020_REX_3263&quot;, almacenado en CD adjunto, caratulado &quot;Rex 3263 24.09.2020&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1171769&amp;idParte=10305139&amp;idVersion=2022-01-26\">Resoluci&#xF3;n 455 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 26.01.2022</a></span>As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;091 1202 1_Reconocimiento_2016_firmada&quot;, almacenado en CD adjunto, caratulado &quot;16-11-2021 Reconocimiento 2016&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2024-01-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9809833,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1171769&amp;idParte=10305139&amp;idVersion=2022-01-26\">Resoluci&#xF3;n 455 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 26.01.2022</a></span>As&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;091 1202 1_Reconocimiento_2016_firmada&quot;, almacenado en CD adjunto, caratulado &quot;16-11-2021 Reconocimiento 2016&quot;, el que se entiende formar parte integrante del presente acto administrativo.</div><br><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1200626&amp;idParte=10487824&amp;idVersion=2024-01-31\">Resoluci&#xF3;n 922 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 31.01.2024</a></span>&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;Reconocimiento2016_Sept2023.pdf FIRMADA 1409&quot;, almacenado en pendrive, caratulado &quot;2016&quot;, inserto en caja de pl&#xE1;stico con el nombre &quot;REX N&#xB0; 3263/2017 Reconocimiento 2016&quot; el que se entiende formar parte integrante del presente acto administrativo.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1200626,
+      "fecha": "2024-01-31"
+    }
+  },
+  {
+    "fecha": "2025-09-25",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9809833,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1200626&amp;idParte=10487824&amp;idVersion=2024-01-31\">Resoluci&#xF3;n 922 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 31.01.2024</a></span>&#xED;gnanse los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;Reconocimiento2016_Sept2023.pdf FIRMADA 1409&quot;, almacenado en pendrive, caratulado &quot;2016&quot;, inserto en caja de pl&#xE1;stico con el nombre &quot;REX N&#xB0; 3263/2017 Reconocimiento 2016&quot; el que se entiende formar parte integrante del presente acto administrativo.</div><br><br><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1200626&amp;idParte=10487824&amp;idVersion=2024-01-31\">Resoluci&#xF3;n 922 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 31.01.2024</a></span>&#xED;gnanse <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;Reconocimiento2016_Sept2023.pdf FIRMADA 1409&quot;, almacenado en pendrive, caratulado &quot;2016&quot;, inserto en caja de pl&#xE1;stico con el nombre &quot;REX N&#xB0; 3263/2017 Reconocimiento 2016&quot; el que se entiende formar parte integrante del presente acto administrativo.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 10526 Exenta, Educaci&#xF3;n, publicada el 25.09.2025, actualiza el listado a que se refiere el presente art&#xED;culo por la n&#xF3;mina contenida en el archivo con firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, bajo el nombre del archivo PDF &quot;Reconocimiento2016_20241008&quot;, almacenado en el pendrive adjunto a la citada resoluci&#xF3;n, caratulado &quot;Modificaci&#xF3;n Rex 3263/2017 (PR2016)&quot;, el que se entiende formar parte integrante del mencionado acto administrativo.</div></div>"
+        },
+        {
+          "part_id": 9809835,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Para <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1132009&amp;idParte=10025687&amp;idVersion=2019-05-25\">Resoluci&#xF3;n 2633 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO N&#xB0; 2<br>D.O. 25.05.2019</a></span>asegurar la confidencialidad de la n&#xF3;mina a que se refiere el art&#xED;culo primero de esta resoluci&#xF3;n, y con el objeto de dar cumplimiento a las obligaciones establecidas en la Ley N&#xB0; 19.628 sobre Protecci&#xF3;n de la Vida Privada, se resguardar&#xE1; el disco compacto ya individualizado, mediante la custodia ejercida por el Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas de esta Secretar&#xED;a de Estado.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Para <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1132009&amp;idParte=10025687&amp;idVersion=2019-05-25\">Resoluci&#xF3;n 2633 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO N&#xB0; 2<br>D.O. 25.05.2019</a></span>asegurar la confidencialidad de la n&#xF3;mina a que se refiere el art&#xED;culo primero de esta resoluci&#xF3;n, y con el objeto de dar cumplimiento a las obligaciones establecidas en la Ley N&#xB0; 19.628 sobre Protecci&#xF3;n de la Vida Privada, se resguardar&#xE1; el disco compacto ya individualizado, mediante la custodia ejercida por el Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas de esta Secretar&#xED;a de Estado.</div><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2026-02-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9809833,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1200626&amp;idParte=10487824&amp;idVersion=2024-01-31\">Resoluci&#xF3;n 922 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 31.01.2024</a></span>&#xED;gnanse <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>los tramos de desarrollo profesional docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;Reconocimiento2016_Sept2023.pdf FIRMADA 1409&quot;, almacenado en pendrive, caratulado &quot;2016&quot;, inserto en caja de pl&#xE1;stico con el nombre &quot;REX N&#xB0; 3263/2017 Reconocimiento 2016&quot; el que se entiende formar parte integrante del presente acto administrativo.</div><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 10526 Exenta, Educaci&#xF3;n, publicada el 25.09.2025, actualiza el listado a que se refiere el presente art&#xED;culo por la n&#xF3;mina contenida en el archivo con firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, bajo el nombre del archivo PDF &quot;Reconocimiento2016_20241008&quot;, almacenado en el pendrive adjunto a la citada resoluci&#xF3;n, caratulado &quot;Modificaci&#xF3;n Rex 3263/2017 (PR2016)&quot;, el que se entiende formar parte integrante del mencionado acto administrativo.</div></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero: As<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1200626&amp;idParte=10487824&amp;idVersion=2024-01-31\">Resoluci&#xF3;n 922 EXENTA,<br>EDUCACI&#xD3;N<br>Art. primero<br>D.O. 31.01.2024</a></span>&#xED;gnanse <div class=\"n rnp\" id=\"rnp1\"><a href=\"#np1\">NOTA</a></div>los tramos de desarrollo profesional <div class=\"n rnp\" id=\"rnp2\"><a href=\"#np2\">NOTA 1</a></div>docente establecido en el T&#xED;tulo III del Estatuto Docente, se&#xF1;al&#xE1;ndose los bienios que corresponda a los profesionales de la educaci&#xF3;n que rindieron el a&#xF1;o 2016, los instrumentos de evaluaci&#xF3;n correspondientes, y que se encuentran individualizados en la n&#xF3;mina contenida en el archivo con la firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado &quot;Reconocimiento2016_Sept2023.pdf FIRMADA 1409&quot;, almacenado en pendrive, caratulado &quot;2016&quot;, inserto en caja de pl&#xE1;stico con el nombre &quot;REX N&#xB0; 3263/2017 Reconocimiento 2016&quot; el que se entiende formar parte integrante del presente acto administrativo.</div><br><br><br><br><div class=\"np\" id=\"np1\"><a href=\"#rnp1\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El art&#xED;culo primero de la Resoluci&#xF3;n 10526 Exenta, Educaci&#xF3;n, publicada el 25.09.2025, actualiza el listado a que se refiere el presente art&#xED;culo por la n&#xF3;mina contenida en el archivo con firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, bajo el nombre del archivo PDF &quot;Reconocimiento2016_20241008&quot;, almacenado en el pendrive adjunto a la citada resoluci&#xF3;n, caratulado &quot;Modificaci&#xF3;n Rex 3263/2017 (PR2016)&quot;, el que se entiende formar parte integrante del mencionado acto administrativo.</div><div class=\"np\" id=\"np2\"><a href=\"#rnp2\">NOTA 1</a> <br>&nbsp; &nbsp; &nbsp;  El art&#xED;culo primero de la Resoluci&#xF3;n 151 Exenta, Educaci&#xF3;n, publicada el 03.02.2026, actualiza el listado contenido en la presente resoluci&#xF3;n por la n&#xF3;mina contenida en el archivo con firma electr&#xF3;nica avanzada de la jefa del Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas, denominado Modificar_Reconocimiento2016_20251115_firmada, almacenado en el pendrive o memoria USB port&#xE1;til adjunto, caratulado &quot;Modificaci&#xF3;n 3263/2017 (Proceso de Reconocimiento)&quot;, el que se entiende formar parte integrante del mencionado acto administrativo.</div></div>"
+        },
+        {
+          "part_id": 9809835,
+          "old": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Para <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1132009&amp;idParte=10025687&amp;idVersion=2019-05-25\">Resoluci&#xF3;n 2633 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO N&#xB0; 2<br>D.O. 25.05.2019</a></span>asegurar la confidencialidad de la n&#xF3;mina a que se refiere el art&#xED;culo primero de esta resoluci&#xF3;n, y con el objeto de dar cumplimiento a las obligaciones establecidas en la Ley N&#xB0; 19.628 sobre Protecci&#xF3;n de la Vida Privada, se resguardar&#xE1; el disco compacto ya individualizado, mediante la custodia ejercida por el Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas de esta Secretar&#xED;a de Estado.</div><br></div>",
+          "new": "<div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo tercero: Para <span class=\"n\" id=\"n_3\"><a href=\"navegar?idNorma=1132009&amp;idParte=10025687&amp;idVersion=2019-05-25\">Resoluci&#xF3;n 2633 EXENTA,<br>EDUCACI&#xD3;N<br>Art. &#xDA;NICO N&#xB0; 2<br>D.O. 25.05.2019</a></span>asegurar la confidencialidad de la n&#xF3;mina a que se refiere el art&#xED;culo primero de esta resoluci&#xF3;n, y con el objeto de dar cumplimiento a las obligaciones establecidas en la Ley N&#xB0; 19.628 sobre Protecci&#xF3;n de la Vida Privada, se resguardar&#xE1; el disco compacto ya individualizado, mediante la custodia ejercida por el Centro de Perfeccionamiento, Experimentaci&#xF3;n e Investigaciones Pedag&#xF3;gicas de esta Secretar&#xED;a de Estado.</div><br></div>"
+        }
+      ]
+    }
+  }
+]

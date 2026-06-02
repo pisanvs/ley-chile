@@ -1,0 +1,62 @@
+[
+  {
+    "fecha": "2015-01-21",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2016-09-02",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9726842,
+          "old": null,
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1094401&amp;idParte=9726839&amp;idVersion=2016-09-02\">Resoluci&#xF3;n 6925 EXENTA,<br>ECONOM&#xCD;A<br>Art. PRIMERO b)<br>D.O. 02.09.2016</a></span></div><div class=\"p\">&nbsp; &nbsp;  Tercero bis: Los armadores pesqueros industriales y/o artesanales, cuyas embarcaciones no presenten sistemas de refrigeraci&#xF3;n, deber&#xE1;n almacenar, transportar y desembarcar los recursos capturados en cajas con hielo, para efectos de su conservaci&#xF3;n, cuando el destino del recurso es para consumo humano directo. Asimismo, si el destino del recurso desembarcado es carnada, deber&#xE1;n ser almacenados, transportados y desembarcados en cajas con sal, para efectos de su conservaci&#xF3;n.</div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9552478,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Tercero: Deber&#xE1;n, los armadores pesqueros industriales y/o artesanales, o su mandatario si correspondiere, acompa&#xF1;ar en la solicitud son los siguientes datos:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Nombre y matr&#xED;cula de la embarcaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. N&#xBA; de registro (RPA, RPI).</div><div class=\"p\">&nbsp; &nbsp;  3. Nombre y RUT Armador Pesquero.</div><div class=\"p\">&nbsp; &nbsp;  4. Puerto o Caleta Base.</div><div class=\"p\">&nbsp; &nbsp;  5. Nombre y RUT del consignatario del recurso capturado.</div><div class=\"p\">&nbsp; &nbsp;  6. Nombre Y RUT del Patr&#xF3;n y/o Capit&#xE1;n de la embarcaci&#xF3;n.</div></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Tercero: Deber&#xE1;n, los armadores pesqueros industriales y/o artesanales, o su mandatario si correspondiere, acompa&#xF1;ar en la solicitud son los siguientes datos:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Nombre y matr&#xED;cula de la embarcaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. N&#xBA; de registro (RPA, RPI).</div><div class=\"p\">&nbsp; &nbsp;  3. Nombre y RUT Armador Pesquero.</div><div class=\"p\">&nbsp; &nbsp;  4. Puerto o Caleta Base.</div><div class=\"p\">&nbsp; &nbsp;  5. Nombre y RUT del consignatario del recurso capturado.</div><div class=\"p\">&nbsp; &nbsp;  6. Nombre Y RUT del Patr&#xF3;n y/o Capit&#xE1;n de la embarcaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  El <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1094401&amp;idParte=9726839&amp;idVersion=2016-09-02\">Resoluci&#xF3;n 6925 EXENTA, <br>ECONOM&#xCD;A<br>Art. PRIMERO a)<br>D.O. 02.09.2016</a></span>Servicio acoger&#xE1; o denegar&#xE1; la solicitud de inscripci&#xF3;n, mediante acto administrativo fundado, en un plazo de tres d&#xED;as h&#xE1;biles, contados desde la recepci&#xF3;n de la solicitud de inscripci&#xF3;n.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1094401,
+      "fecha": "2016-09-02"
+    }
+  },
+  {
+    "fecha": "2017-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 9767134,
+          "old": null,
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Segundo Bis: Del&#xE9;gase <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1099864&amp;idParte=9767057&amp;idVersion=2017-02-04\">Resoluci&#xF3;n 261 EXENTA,<br>ECONOM&#xCD;A<br>N&#xB0; 1<br>D.O. 04.02.2017</a></span>en los Directores Regionales del Servicio Nacional de Pesca y Acuicultura o en quien los subrogue, el ejercicio de la facultad de firmar &quot;por orden del Director Nacional del Servicio Nacional de Pesca y Acuicultura&quot; las resoluciones que resuelvan las solicitudes de inscripci&#xF3;n que autorizan el ejercicio de actividades pesqueras extractivas de captura de recursos destinados a la elaboraci&#xF3;n de productos de consumo humano directo y a carnada durante la vigencia de vedas biol&#xF3;gicas; as&#xED; como las resoluciones que resuelvan las solicitudes de modificaci&#xF3;n, renuncia, desistimiento y cancelaci&#xF3;n que digan relaci&#xF3;n con las referidas inscripciones.</div><br><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 9552478,
+          "old": "<div><br><div class=\"p\">&nbsp; &nbsp;  Tercero: Deber&#xE1;n, los armadores pesqueros industriales y/o artesanales, o su mandatario si correspondiere, acompa&#xF1;ar en la solicitud son los siguientes datos:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Nombre y matr&#xED;cula de la embarcaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. N&#xBA; de registro (RPA, RPI).</div><div class=\"p\">&nbsp; &nbsp;  3. Nombre y RUT Armador Pesquero.</div><div class=\"p\">&nbsp; &nbsp;  4. Puerto o Caleta Base.</div><div class=\"p\">&nbsp; &nbsp;  5. Nombre y RUT del consignatario del recurso capturado.</div><div class=\"p\">&nbsp; &nbsp;  6. Nombre Y RUT del Patr&#xF3;n y/o Capit&#xE1;n de la embarcaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  El <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1094401&amp;idParte=9726839&amp;idVersion=2016-09-02\">Resoluci&#xF3;n 6925 EXENTA, <br>ECONOM&#xCD;A<br>Art. PRIMERO a)<br>D.O. 02.09.2016</a></span>Servicio acoger&#xE1; o denegar&#xE1; la solicitud de inscripci&#xF3;n, mediante acto administrativo fundado, en un plazo de tres d&#xED;as h&#xE1;biles, contados desde la recepci&#xF3;n de la solicitud de inscripci&#xF3;n.</div><br></div>",
+          "new": "<div><br><div class=\"p\">&nbsp; &nbsp;  Tercero: Deber&#xE1;n, los armadores pesqueros industriales y/o artesanales, o su mandatario si correspondiere, acompa&#xF1;ar en la solicitud son los siguientes datos:</div><br><div class=\"p\">&nbsp; &nbsp;  1. Nombre y matr&#xED;cula de la embarcaci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp;  2. N&#xBA; de registro (RPA, RPI).</div><div class=\"p\">&nbsp; &nbsp;  3. Nombre y RUT Armador Pesquero.</div><div class=\"p\">&nbsp; &nbsp;  4. Puerto o Caleta Base.</div><div class=\"p\">&nbsp; &nbsp;  5. Nombre y RUT del consignatario del recurso capturado.</div><div class=\"p\">&nbsp; &nbsp;  6. Nombre Y RUT del Patr&#xF3;n y/o Capit&#xE1;n de la embarcaci&#xF3;n.</div><br><div class=\"p\">&nbsp; &nbsp;  El <span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1094401&amp;idParte=9726839&amp;idVersion=2016-09-02\">Resoluci&#xF3;n 6925 EXENTA, <br>ECONOM&#xCD;A<br>Art. PRIMERO a)<br>D.O. 02.09.2016</a></span>Servicio acoger&#xE1; o denegar&#xE1; la solicitud de inscripci&#xF3;n, mediante acto administrativo fundado, en un plazo de tres d&#xED;as h&#xE1;biles, contados desde la recepci&#xF3;n de la solicitud de inscripci&#xF3;n.</div><br></div>"
+        },
+        {
+          "part_id": 9726842,
+          "old": "<div><div class=\"p\"><span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1094401&amp;idParte=9726839&amp;idVersion=2016-09-02\">Resoluci&#xF3;n 6925 EXENTA,<br>ECONOM&#xCD;A<br>Art. PRIMERO b)<br>D.O. 02.09.2016</a></span></div><div class=\"p\">&nbsp; &nbsp;  Tercero bis: Los armadores pesqueros industriales y/o artesanales, cuyas embarcaciones no presenten sistemas de refrigeraci&#xF3;n, deber&#xE1;n almacenar, transportar y desembarcar los recursos capturados en cajas con hielo, para efectos de su conservaci&#xF3;n, cuando el destino del recurso es para consumo humano directo. Asimismo, si el destino del recurso desembarcado es carnada, deber&#xE1;n ser almacenados, transportados y desembarcados en cajas con sal, para efectos de su conservaci&#xF3;n.</div><br><br></div>",
+          "new": "<div><div class=\"p\"><span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1094401&amp;idParte=9726839&amp;idVersion=2016-09-02\">Resoluci&#xF3;n 6925 EXENTA,<br>ECONOM&#xCD;A<br>Art. PRIMERO b)<br>D.O. 02.09.2016</a></span></div><div class=\"p\">&nbsp; &nbsp;  Tercero bis: Los armadores pesqueros industriales y/o artesanales, cuyas embarcaciones no presenten sistemas de refrigeraci&#xF3;n, deber&#xE1;n almacenar, transportar y desembarcar los recursos capturados en cajas con hielo, para efectos de su conservaci&#xF3;n, cuando el destino del recurso es para consumo humano directo. Asimismo, si el destino del recurso desembarcado es carnada, deber&#xE1;n ser almacenados, transportados y desembarcados en cajas con sal, para efectos de su conservaci&#xF3;n.</div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1099864,
+      "fecha": "2017-02-04"
+    }
+  }
+]

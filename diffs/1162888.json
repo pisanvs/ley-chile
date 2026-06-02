@@ -1,0 +1,75 @@
+[
+  {
+    "fecha": "2021-07-23",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2022-02-14",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10254606,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el 30 de diciembre de 2021, sin perjuicio de la facultad de poner t&#xE9;rmino anticipado si las condiciones sanitarias as&#xED; lo permiten.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1172547&amp;idParte=10309067&amp;idVersion=2022-02-14\">Decreto 3, SALUD<br>Art. 1&#xBA;<br>D.O. 14.02.2022</a></span>31 de mayo de 2022, sin perjuicio de la facultad de poner t&#xE9;rmino anticipado si las condiciones sanitarias as&#xED; lo permiten.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-06-08",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10254606,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1172547&amp;idParte=10309067&amp;idVersion=2022-02-14\">Decreto 3, SALUD<br>Art. 1&#xBA;<br>D.O. 14.02.2022</a></span>31 de mayo de 2022, sin perjuicio de la facultad de poner t&#xE9;rmino anticipado si las condiciones sanitarias as&#xED; lo permiten.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1177076&amp;idParte=10339702&amp;idVersion=2022-06-08\">Decreto 55,<br>SALUD<br>Art. 1&#xB0;<br>D.O. 08.06.2022</a></span>31 de diciembre de 2022, sin perjuicio de la facultad de poner t&#xE9;rmino anticipado si las condiciones sanitarias as&#xED; lo permiten.</div><br><br></div>"
+        }
+      ]
+    }
+  },
+  {
+    "fecha": "2022-12-31",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10254603,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Ot&#xF3;rgase a la Secretar&#xED;a Regional Ministerial de Salud de la Regi&#xF3;n de Arica y Parinacota y a la Secretar&#xED;a Regional Ministerial de Salud de la Regi&#xF3;n de Tarapac&#xE1; facultades extraordinarias para disponer, seg&#xFA;n proceda, de todas o algunas de las siguientes medidas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Efectuar la contrataci&#xF3;n del personal de acuerdo a lo establecido en el art&#xED;culo 10 del C&#xF3;digo Sanitario, adem&#xE1;s de otros mecanismos de contrataci&#xF3;n previstos en la legislaci&#xF3;n vigente y realizar los traslados del personal que se requieran desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Efectuar la adquisici&#xF3;n directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el art&#xED;culo 8&#xBA; letra c) de la ley N&#xBA; 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestaci&#xF3;n de Servicios, quedar&#xE1; liberada de los procedimientos de licitaci&#xF3;n, sin perjuicio de su publicaci&#xF3;n posterior en el portal www.mercadopublico.cl.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Disponer la realizaci&#xF3;n de trabajos extraordinarios para el personal de su dependencia, de acuerdo a lo establecido en el art&#xED;culo 66 y 70 de la ley N&#xBA; 18.834, cuyo texto actualizado, refundido y coordinado fue fijado por el DFL N&#xBA; 29, de 2004, del Ministerio de Hacienda, que aprueba el Estatuto Administrativo.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;.- Exigir la limpieza sanitaria o desinsectaci&#xF3;n u otras medidas de control que se estimen necesarias para el control vectorial de lugares p&#xFA;blicos o privados.</div><div class=\"p\">&nbsp; &nbsp;  5&#xBA;.- Arrendar veh&#xED;culos para ejercer las facultades que por este decreto se otorgan y autorizar a funcionarios de su dependencia para que, en el cumplimiento de sus funciones, de forma temporal y sin rendir cauci&#xF3;n en los t&#xE9;rminos previstos en el art&#xED;culo 7 del decreto ley N&#xBA; 799, de 1974, utilicen veh&#xED;culos de propiedad de la Subsecretar&#xED;a de Salud P&#xFA;blica asignados a la Secretar&#xED;a Regional Ministerial de Salud de la Regi&#xF3;n de Arica y Parinacota o de la Regi&#xF3;n de Tarapac&#xE1;, seg&#xFA;n corresponda.</div><div class=\"p\">&nbsp; &nbsp;  6&#xBA;.- Difundir las medidas sanitarias en medios de comunicaci&#xF3;n masivos.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Las facultades se&#xF1;aladas en los n&#xFA;meros 1, 2 y 3 de este art&#xED;culo deber&#xE1;n ser ejercidas previa autorizaci&#xF3;n de la Subsecretar&#xED;a de Salud P&#xFA;blica.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 3&#xBA;.- Ot&#xF3;rgase a la Secretar&#xED;a Regional Ministerial de Salud de la Regi&#xF3;n de Arica y Parinacota y a la Secretar&#xED;a Regional Ministerial de Salud de la Regi&#xF3;n de Tarapac&#xE1; facultades extraordinarias para disponer, seg&#xFA;n proceda, de todas o algunas de las siguientes medidas:</div><div class=\"p\"> </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Efectuar la contrataci&#xF3;n del personal de acuerdo a lo establecido en el art&#xED;culo 10 del C&#xF3;digo Sanitario, adem&#xE1;s de otros mecanismos de contrataci&#xF3;n previstos en la legislaci&#xF3;n vigente y realizar los traslados del personal que se requieran desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Efectuar la adquisici&#xF3;n directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el art&#xED;culo 8&#xBA; letra c) de la ley N&#xBA; 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestaci&#xF3;n de Servicios, quedar&#xE1; liberada de los procedimientos de licitaci&#xF3;n, sin perjuicio de su publicaci&#xF3;n posterior en el portal www.mercadopublico.cl.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Disponer la realizaci&#xF3;n de trabajos extraordinarios para el personal de su dependencia, de acuerdo a lo establecido en el art&#xED;culo 66 y 70 de la ley N&#xBA; 18.834, cuyo texto actualizado, refundido y coordinado fue fijado por el DFL N&#xBA; 29, de 2004, del Ministerio de Hacienda, que aprueba el Estatuto Administrativo.</div><div class=\"p\">&nbsp; &nbsp;  4&#xBA;.- Exigir la limpieza sanitaria o desinsectaci&#xF3;n u otras medidas de control que se estimen necesarias para el control vectorial de lugares p&#xFA;blicos o privados.</div><div class=\"p\">&nbsp; &nbsp;  5&#xBA;.- Arrendar veh&#xED;culos para ejercer las facultades que por este decreto se otorgan y autorizar a funcionarios de su dependencia para que, en el cumplimiento de sus funciones, de forma temporal y sin rendir cauci&#xF3;n en los t&#xE9;rminos previstos en el art&#xED;culo 7 del decreto ley N&#xBA; 799, de 1974, utilicen veh&#xED;culos de propiedad de la Subsecretar&#xED;a de Salud P&#xFA;blica asignados a la Secretar&#xED;a Regional Ministerial de Salud de la Regi&#xF3;n de Arica y Parinacota o de la Regi&#xF3;n de Tarapac&#xE1;, seg&#xFA;n corresponda.</div><div class=\"p\">&nbsp; &nbsp;  6&#xBA;.- Difundir las medidas sanitarias en medios de comunicaci&#xF3;n masivos.</div><div class=\"p\">&nbsp; &nbsp;  7&#xB0;&nbsp;  Efec<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1187227&amp;idParte=10392541&amp;idVersion=2022-12-31\">Decreto 89, SALUD<br>Art. 2&#xB0; A<br>D.O. 31.12.2022</a></span>tuar la eliminaci&#xF3;n de los insectos propagadores de la enfermedad, as&#xED; como el saneamiento de lugares donde la epidemia se ha desarrollado, la protecci&#xF3;n sanitaria del agua potable y el saneamiento de las aguas corrientes que se utilicen para el riego, de conformidad con lo establecido en el art&#xED;culo 31&#xB0; del C&#xF3;digo Sanitario.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  Las facultades se&#xF1;aladas en los n&#xFA;meros 1, 2 y 3 de este art&#xED;culo deber&#xE1;n ser ejercidas previa autorizaci&#xF3;n de la Subsecretar&#xED;a de Salud P&#xFA;blica.</div><div class=\"p\"> </div><br><br><br></div>"
+        },
+        {
+          "part_id": 10254604,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Ot&#xF3;rgase al Director del Instituto de Salud P&#xFA;blica de Chile las siguientes facultades extraordinarias para disponer, seg&#xFA;n proceda, de todas o algunas de las siguientes medidas:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Efectuar la contrataci&#xF3;n del personal de acuerdo a lo establecido en el art&#xED;culo 10 del C&#xF3;digo Sanitario, adem&#xE1;s de otros mecanismos de contrataci&#xF3;n previstos en la legislaci&#xF3;n vigente y realizar los traslados del personal que se requieran desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Efectuar la adquisici&#xF3;n directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el art&#xED;culo 8&#xBA; letra c) de la ley N&#xBA; 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestaci&#xF3;n de Servicios, quedar&#xE1; liberada de los procedimientos de licitaci&#xF3;n, sin perjuicio de su publicaci&#xF3;n posterior en el portal www.mercadopublico.cl.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Disponer la realizaci&#xF3;n de trabajos extraordinarios para el personal de su dependencia, de acuerdo a lo establecido en el art&#xED;culo 66 y 70 de la ley N&#xBA; 18.834. cuyo texto actualizado, refundido y coordinado fue fijado por el DFL N&#xBA; 29, de 2004, del Ministerio de Hacienda, que aprueba el Estatuto Administrativo.</div><div class=\"p\"> </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 4&#xBA;.- Ot&#xF3;rgase al Director del Instituto de Salud P&#xFA;blica de Chile las siguientes facultades extraordinarias para disponer, seg&#xFA;n proceda, de todas o algunas de las siguientes medidas:</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA;.- Efectuar la contrataci&#xF3;n del personal de acuerdo a lo establecido en el art&#xED;culo 10 del C&#xF3;digo Sanitario, adem&#xE1;s de otros mecanismos de contrataci&#xF3;n previstos en la legislaci&#xF3;n vigente y realizar los traslados del personal que se requieran desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA;.- Efectuar la adquisici&#xF3;n directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el art&#xED;culo 8&#xBA; letra c) de la ley N&#xBA; 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestaci&#xF3;n de Servicios, quedar&#xE1; liberada de los procedimientos de licitaci&#xF3;n, sin perjuicio de su publicaci&#xF3;n posterior en el portal www.mercadopublico.cl.</div><div class=\"p\">&nbsp; &nbsp;  3&#xBA;.- Disponer la realizaci&#xF3;n de trabajos extraordinarios para el personal de su dependencia, de acuerdo a lo establecido en el art&#xED;culo 66 y 70 de la ley N&#xBA; 18.834. cuyo texto actualizado, refundido y coordinado fue fijado por el DFL N&#xBA; 29, de 2004, del Ministerio de Hacienda, que aprueba el Estatuto Administrativo.</div><div class=\"p\">&nbsp; &nbsp;  4&#xB0;&nbsp;  Aut<span class=\"n\" id=\"n_1\"><a href=\"navegar?idNorma=1187227&amp;idParte=10392541&amp;idVersion=2022-12-31\">Decreto 89, SALUD<br>Art. 2&#xB0; B<br>D.O. 31.12.2022</a></span>orizar mediante resoluci&#xF3;n fundada, la venta o uso provisional de pesticidas de uso sanitario y dom&#xE9;stico, sin registro sanitario previo, en conformidad con lo estipulado en el art&#xED;culo 18 del decreto N&#xB0;157, de 22 de julio de 2005, del Ministerio de Salud, que aprueba el Reglamento de pesticidas de uso sanitario y dom&#xE9;stico.</div><div class=\"p\"> </div><br><br><br></div>"
+        },
+        {
+          "part_id": 10254606,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1177076&amp;idParte=10339702&amp;idVersion=2022-06-08\">Decreto 55,<br>SALUD<br>Art. 1&#xB0;<br>D.O. 08.06.2022</a></span>31 de diciembre de 2022, sin perjuicio de la facultad de poner t&#xE9;rmino anticipado si las condiciones sanitarias as&#xED; lo permiten.</div><br><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 6&#xBA;.- Los efectos de este decreto tendr&#xE1;n vigencia hasta el <span class=\"n\" id=\"n_2\"><a href=\"navegar?idNorma=1187227&amp;idParte=10392540&amp;idVersion=2022-12-31\">Decreto 89, SALUD<br>Art. 1&#xB0;<br>D.O. 31.12.2022</a></span>30 de junio de 2023, sin perjuicio de la facultad de poner t&#xE9;rmino anticipado si las condiciones sanitarias as&#xED; lo permiten.</div><br><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1187227,
+      "fecha": "2022-12-31"
+    }
+  },
+  {
+    "fecha": "2023-05-08",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2007-10-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2007-11-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [
+        {
+          "part_id": 8433629,
+          "old": null,
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 31: Las luminarias a instalar en la<span class=\"n\" id=\"n_0\">AVI S/N,<br>M. DE PUNTA ARENAS<br>D.O. 10.09.2007</span> comuna de Punta Arenas deber&#xE1;n tener la potencia que a continuaci&#xF3;n se indica:</div><br><div class=\"p\">&nbsp; &nbsp;  Pasajes de un ancho hasta 3,5 metros de calzada, 70 watts.</div><div class=\"p\">&nbsp; &nbsp;  Calles de una calzada hasta 7 metros, 100 watts.</div><div class=\"p\">&nbsp; &nbsp;  Avenidas de una calzada hasta 7 metros, 250 watts.</div><div class=\"p\">&nbsp; &nbsp;  Avenidas de dos calzadas hasta 7,0 metros, 250 x 2.</div><br></div>"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

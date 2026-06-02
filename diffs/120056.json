@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "1998-06-16",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2009-08-11",
+    "tipo_version_s": "Intermedio",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6114817,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA;: El Servicio de Bienestar se financiar&#xE1; con los siguientes recursos:</div><div class=\"p\">&nbsp; &nbsp;  a) Con una cuota de incorporaci&#xF3;n que deber&#xE1;n pagar los afiliados al ingresar, de hasta el 0.72% de su remuneraci&#xF3;n mensual imponible para pensiones o de su pensi&#xF3;n de jubilaci&#xF3;n, porcentaje que fijar&#xE1; anualmente el Consejo Administrativo;</div><div class=\"p\">&nbsp; &nbsp;  b) Con los aportes que anualmente se consulten en el presupuesto de la instituci&#xF3;n con sujeci&#xF3;n a las normas legales y estatutarias vigentes;</div><div class=\"p\">&nbsp; &nbsp;  c) Con el aporte mensual de los afiliados en servicio activo de hasta el 2% de sus remuneraciones imponibles para pensiones;</div><div class=\"p\">&nbsp; &nbsp;  d) Con el aporte mensual de los afiliados jubilados de hasta el 1% de sus pensiones de jubilaci&#xF3;n, m&#xE1;s la cantidad correspondiente al aporte institucional que ser&#xE1; de su cargo;</div><div class=\"p\">&nbsp; &nbsp;  e) Con los intereses de los pr&#xE9;stamos que otorgue el Servicio de Bienestar a sus afiliados;</div><div class=\"p\">&nbsp; &nbsp;  f) Con las bonificaciones o porcentajes provenientes de los convenios que el Servicio de Bienestar suscriba con terceros para el otorgamiento de beneficios a sus afiliados;</div><div class=\"p\">&nbsp; &nbsp;  g) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias; las herencias o legados deber&#xE1;n aceptarse con beneficio de inventario, y</div><div class=\"p\">&nbsp; &nbsp;  h) Con los dem&#xE1;s bienes o recursos que el Servicio de Bienestar obtenga a cualquier otro t&#xED;tulo.</div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 17&#xBA;: El Servicio de Bienestar se financiar&#xE1; con los siguientes recursos:</div><br><div class=\"p\">&nbsp; &nbsp;  a) Con una cuota de incorporaci&#xF3;n que deber&#xE1;n pagar los afiliados al ingresar, de hasta el 0.72% de su remuneraci&#xF3;n mensual imponible para pensiones o de su pensi&#xF3;n de jubilaci&#xF3;n, porcentaje que fijar&#xE1; anualmente el Consejo Administrativo;</div><div class=\"p\">&nbsp; &nbsp;  b) Con los aportes que anualmente se consulten en el presupuesto de la instituci&#xF3;n con sujeci&#xF3;n a las normas legales y estatutarias vigentes;</div><div class=\"p\">&nbsp; &nbsp;  c) Con el aporte mensual de los afiliados en servicio activo de hasta el 2% de sus remuneraciones imponibles para pensiones;</div><div class=\"p\">&nbsp; &nbsp;  <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1004977&amp;idParte=8765922&amp;idVersion=2009-08-11\">Decreto 130 EXENTO,<br>TRABAJO<br>Art. UNICO<br>D.O. 11.08.2009</a></span>d) Con el aporte mensual de los jubilados de hasta el 2% de sus pensiones de jubilaci&#xF3;n;</div><div class=\"p\">&nbsp; &nbsp;  e) Con los intereses de los pr&#xE9;stamos que otorgue el Servicio de Bienestar a sus afiliados;</div><div class=\"p\">&nbsp; &nbsp;  f) Con las bonificaciones o porcentajes provenientes de los convenios que el Servicio de Bienestar suscriba con terceros para el otorgamiento de beneficios a sus afiliados;</div><div class=\"p\">&nbsp; &nbsp;  g) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias; las herencias o legados deber&#xE1;n aceptarse con beneficio de inventario, y</div><div class=\"p\">&nbsp; &nbsp;  h) Con los dem&#xE1;s bienes o recursos que el Servicio de Bienestar obtenga a cualquier otro t&#xED;tulo.</div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1004977,
+      "fecha": "2009-08-11"
+    }
+  },
+  {
+    "fecha": "2016-04-22",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  }
+]

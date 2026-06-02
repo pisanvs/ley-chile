@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2022-05-12",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2023-06-03",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10332682,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Modif&#xED;case la resoluci&#xF3;n exenta N&#xBA; 1.434 (V. y U.), de fecha 7 de marzo de 2014, en el sentido de prorrogar la vigencia de las Soluciones Constructivas para Acondicionamiento T&#xE9;rmico, Ac&#xFA;stico y Comportamiento al Fuego, indicadas en sus resuelvos 1&#xBA; y 3&#xBA;, por el plazo de 1 a&#xF1;o corrido, contado desde la fecha de publicaci&#xF3;n del presente acto administrativo.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Establ&#xE9;cese que la resoluci&#xF3;n exenta N&#xBA; 1.434 (V. y U.), de 2014, se mantendr&#xE1; vigente en todo aquello que no ha sido modificado por la presente resoluci&#xF3;n exenta.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><div class=\"p\">&nbsp; &nbsp;  1&#xBA; Modif&#xED;case <div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA</a></div>la resoluci&#xF3;n exenta N&#xBA; 1.434 (V. y U.), de fecha 7 de marzo de 2014, en el sentido de prorrogar la vigencia de las Soluciones Constructivas para Acondicionamiento T&#xE9;rmico, Ac&#xFA;stico y Comportamiento al Fuego, indicadas en sus resuelvos 1&#xBA; y 3&#xBA;, por el plazo de 1 a&#xF1;o corrido, contado desde la fecha de publicaci&#xF3;n del presente acto administrativo.</div><div class=\"p\">&nbsp; &nbsp;  2&#xBA; Establ&#xE9;cese que la resoluci&#xF3;n exenta N&#xBA; 1.434 (V. y U.), de 2014, se mantendr&#xE1; vigente en todo aquello que no ha sido modificado por la presente resoluci&#xF3;n exenta.</div><br><br><br><br><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA</a> <br>&nbsp; &nbsp; &nbsp; El numeral 1&#xB0; de la Resoluci&#xF3;n 1010 Exenta, Vivienda, publicada el 03.06.2023, modifica la presente norma, en el sentido de prorrogar la vigencia de las Soluciones Constructivas para Acondicionamiento T&#xE9;rmico, Ac&#xFA;stico y Comportamiento al Fuego, por el plazo de 1 a&#xF1;o corrido, contado desde la fecha de publicaci&#xF3;n de la citada norma.</div></div>"
+        }
+      ]
+    }
+  }
+]

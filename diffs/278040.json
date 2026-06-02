@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2008-09-20",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2011-02-04",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 6659991,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Ampl&#xED;ase, con los siguientes profesionales, la lista de peritos para la Regi&#xF3;n del Maule, de entre los cuales la entidad expropiante designar&#xE1; a los miembros de la comisi&#xF3;n encargada de determinar el monto provisional de la indemnizaci&#xF3;n en un procedimiento expropiatorio:</div><br><div class=\"p\">Arquitectos:</div><br><div class=\"p\">Jimena Francisca Asenjo Burgos Claudio Andr&#xE9;s Correa Barahona Fernando Jos&#xE9; Senerman Mandel Marcela Cecilia Covarrubias Bravo Ver&#xF3;nica Paz Olivier Valdebenito Patricia Alejandra Bunster Fuenzalida Paulina Lorena Jadue Zaror </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Ampl&#xED;ase, <span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1022721&amp;idParte=9107466&amp;idVersion=2011-02-04\">Decreto 128 EXENTO,<br>HACIENDA<br>D.O. 04.02.2011</a></span>con los siguientes profesionales, la lista de peritos para la Regi&#xF3;n del Maule, de entre los cuales la entidad expropiante designar&#xE1; a los miembros de la comisi&#xF3;n encargada de determinar el monto provisional de la indemnizaci&#xF3;n en un procedimiento expropiatorio:</div><br><div class=\"p\">Arquitectos:</div><br><div class=\"p\">Jimena Francisca Asenjo Burgos Claudio Andr&#xE9;s Correa Barahona Fernando Jos&#xE9; Senerman Mandel Marcela Cecilia Cobarrubias Bravo Ver&#xF3;nica Paz Olivier Valdebenito Patricia Alejandra Bunster Fuenzalida Paulina Lorena Jadue Zaror </div><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1022721,
+      "fecha": "2011-02-04"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2006-07-08",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2008-01-14",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 8050271,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero. Modif&#xED;case el Recinto Portuario del Puerto de Valpara&#xED;so establecido en el decreto supremo N&#xBA; 100 del Ministerio de Transportes y Telecomunicaciones, de 27 de septiembre de 2004, y graficado en el Plano VAP-0-0419-02 de la Empresa Portuaria Valpara&#xED;so, el que se reemplaza por el Recinto Portuario graficado en el Plano VAP-0-0601-02 de febrero de 2006 de la Empresa Portuaria Valpara&#xED;so, protocolizado el 16 de febrero de 2006 ante el Notario de Valpara&#xED;so don Marcos Andr&#xE9;s D&#xED;az Le&#xF3;n. </div></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo primero. Modif&#xED;case el Recinto Portuario del Puerto de Valpara&#xED;so establecido en el decreto supremo N&#xBA; 100 del Ministerio de Transportes y Telecomunicaciones, de 27 de septiembre de 2004, y graficado en el Plano VAP-0-0419-02 de la Empresa Portuaria Valpara&#xED;so, el que se reemplaza por el Recinto Portuario graficado en el Plano VAP-0-0601-02<div class=\"n rnp\" id=\"rnp0\"><a href=\"#np0\">NOTA:</a></div> de febrero de 2006 de la Empresa Portuaria Valpara&#xED;so, protocolizado el 16 de febrero de 2006 ante el Notario de Valpara&#xED;so don Marcos Andr&#xE9;s D&#xED;az Le&#xF3;n.</div><br><div class=\"np\" id=\"np0\"><a href=\"#rnp0\">NOTA:</a> <br>&nbsp; &nbsp; &nbsp; El DTO 33, Transportes, publicado el 14.01.2008, modific&#xF3; el Recinto Portuario del Puerto de Valpara&#xED;so demarcado por el Plano que se se&#xF1;ala en la presente norma, el que se reemplaza por el graficado en el Plano VAP-0-0624-02, protocolizado el 7 de diciembre de 2006 ante el Notario de Valpara&#xED;so don Marcos Andr&#xE9;s D&#xED;az Le&#xF3;n. </div></div>"
+        }
+      ]
+    }
+  }
+]

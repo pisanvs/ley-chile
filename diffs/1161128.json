@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2021-06-15",
+    "tipo_version_s": "Texto Original",
+    "diff": null
+  },
+  {
+    "fecha": "2021-08-10",
+    "tipo_version_s": "Última Versión",
+    "diff": {
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "part_id": 10243741,
+          "old": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo 1&#xB0;.- Determ&#xED;nase para el a&#xF1;o 2022 los siguientes alumnos en calidad de prioritarios, para todas las regiones del pa&#xED;s, que ser&#xE1;n beneficiarios de la subvenci&#xF3;n escolar preferencial, de acuerdo a lo dispuesto en el <a href=\"https://www.leychile.cl/Navegar?idNorma=269001&amp;idParte=8021285&amp;idVersion=\">art&#xED;culo 2&#xBA;</a> de la <a href=\"https://www.leychile.cl/Navegar?idNorma=269001&amp;idParte=&amp;idVersion=\">ley N&#xBA; 20.248</a> y que se encuentran individualizados en el listado contenido en el archivo con el nombre &quot;Rex-Prioritarios-2022-20210525&quot; del CD folio N&#xBA; 01/2022 - Alumnos Prioritarios a&#xF1;o escolar 2022, con firma electr&#xF3;nica avanzada de la Coordinadora Nacional de Tecnolog&#xED;a del Ministerio de Educaci&#xF3;n, que se acompa&#xF1;a en el anexo, y que se forma parte integrante de la presente resoluci&#xF3;n.</div><div class=\"p\">&nbsp; &nbsp; &nbsp; </div><br></div>",
+          "new": "<div><div class=\"p\">&nbsp; &nbsp;  Art&#xED;culo<span class=\"n\" id=\"n_0\"><a href=\"navegar?idNorma=1163483&amp;idParte=10258146&amp;idVersion=2021-08-10\">Resoluci&#xF3;n 4168 EXENTA,<br>EDUCACI&#xD3;N<br>Art. 2&#xB0;<br>D.O. 10.08.2021</a></span> 1&#xBA;: Determ&#xED;nase para el a&#xF1;o 2022, los siguientes alumnos en calidad de prioritarios, para todas las regiones del pa&#xED;s, que ser&#xE1;n beneficiarios de la Subvenci&#xF3;n Escolar Preferencial, de acuerdo con lo dispuesto en el art&#xED;culo 2&#xBA; de la ley N&#xBA; 20.248, y que se encuentran individualizados en los listados contenidos en el archivo con el nombre &quot;Rex-Prioritarios-2022-20210525&quot;, del CD Folio N&#xBA; &quot;01/2022-Alumnos Prioritarios a&#xF1;o escolar 2022&quot; y en el archivo con el nombre &quot;Acogen - Proceso Apelaciones Alumnos Prioritarios 2022&quot;, del CD Folio N&#xBA; 03/2022 Acoge, ambos con firma electr&#xF3;nica avanzada de la Coordinadora Nacional de Tecnolog&#xED;a de la Divisi&#xF3;n de Planificaci&#xF3;n y Presupuesto, del Ministerio de Educaci&#xF3;n, que se acompa&#xF1;an en el anexo y que forman parte integrante de la presente resoluci&#xF3;n.&nbsp; &nbsp;  </div><br><br></div>"
+        }
+      ]
+    },
+    "modificadaPor": {
+      "idNorma": 1163483,
+      "fecha": "2021-08-10"
+    }
+  }
+]
