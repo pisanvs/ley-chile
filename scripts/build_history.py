@@ -3,7 +3,7 @@ build_history.py — Generate a git fast-import stream from graph.json + cache/.
 
 Reads:
   {DATA_ROOT}/graph.json                       — law dependency graph
-  {DATA_ROOT}/cache/diffs/{idNorma}.json       — per-version diffs (from fetch_versions.py)
+  {DATA_ROOT}/cache/diffs/{idNorma}.json.gz    — per-version diffs (from fetch_versions.py, gzipped)
   {DATA_ROOT}/cache/versions/{idNorma}/{fecha}.json — raw norma JSON (from fetch_versions.py)
   {DATA_ROOT}/cache/tramitacion/{boletin}.json — optional tramitación data
 
@@ -42,7 +42,16 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 
-from utils import detect_data_root, law_dir, CommitContext, setup_logging, graph_exists, load_graph  # noqa: E402
+from utils import (  # noqa: E402
+    CommitContext,
+    detect_data_root,
+    find_diff_path,
+    graph_exists,
+    law_dir,
+    load_diff_file,
+    load_graph,
+    setup_logging,
+)
 from enrichers import Enricher  # noqa: E402
 
 log = logging.getLogger(__name__)
@@ -188,11 +197,11 @@ def _load_graph(data_root: Path) -> dict:
 
 
 def _load_diffs(cache_dir: Path, id_norma: int) -> list | None:
-    diff_path = cache_dir / "diffs" / f"{id_norma}.json"
-    if not diff_path.exists():
+    diff_path = find_diff_path(cache_dir / "diffs", id_norma)
+    if diff_path is None:
         return None
     try:
-        return json.loads(diff_path.read_text(encoding="utf-8"))
+        return load_diff_file(diff_path)
     except Exception as exc:
         log.debug("Failed to load diffs for %s: %s", id_norma, exc)
         return None

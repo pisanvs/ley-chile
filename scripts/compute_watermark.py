@@ -28,7 +28,7 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 
-from utils import graph_exists, load_graph  # noqa: E402
+from utils import find_diff_path, graph_exists, load_diff_file, load_graph  # noqa: E402
 
 
 def get_historial_watermark(historial_dir: Path) -> str:
@@ -91,11 +91,11 @@ def compute_watermark(
     )
 
     def _diffs_complete(id_str: str) -> bool:
-        diff_path = diffs_dir / f"{id_str}.json"
-        if not diff_path.exists():
+        diff_path = find_diff_path(diffs_dir, id_str)
+        if diff_path is None:
             return False
         try:
-            diffs = json.loads(diff_path.read_text(encoding="utf-8"))
+            diffs = load_diff_file(diff_path)
         except Exception:
             return False
         if not isinstance(diffs, list) or not diffs:

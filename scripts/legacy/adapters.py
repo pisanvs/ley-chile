@@ -12,7 +12,7 @@ DATA_ROOT layout assumed (see CLAUDE.md):
       graph_shards/NN.json             (sharded; preferred)
       cache/
           normas/{idNorma}.json        (raw get_norma_json — "current" version)
-          diffs/{idNorma}.json         (our derived per-version diff list)
+          diffs/{idNorma}.json.gz      (our derived per-version diff list, gzipped)
           versions/{idNorma}/{YYYY-MM-DD}.json   (raw get_norma_json per version)
 """
 
@@ -37,6 +37,12 @@ from schemas import (  # noqa: E402
     NormaGraph,
     NormaVersionSnapshot,
     SchemaError,
+)
+from utils import (  # noqa: E402
+    diff_id_from_path,
+    find_diff_path,
+    iter_diff_files,
+    load_diff_file,
 )
 
 
@@ -161,9 +167,15 @@ def iter_version_snapshots(
 
 def load_norma_diff_series(data_root: Path | str, id_norma: int) -> NormaDiffSeries:
     """Load the per-version diff list for a norma."""
-    path = Path(data_root) / "cache" / "diffs" / f"{id_norma}.json"
+    diffs_dir = Path(data_root) / "cache" / "diffs"
+    path = find_diff_path(diffs_dir, id_norma)
+    if path is None:
+        path = diffs_dir / f"{id_norma}.json.gz"
+        raise SchemaError(
+            f"cannot read diff series: {path} not found", source=str(path)
+        )
     try:
-        raw = json.loads(path.read_text(encoding="utf-8"))
+        raw = load_diff_file(path)
     except (OSError, json.JSONDecodeError) as e:
         raise SchemaError(f"cannot read diff series: {e}", source=str(path)) from e
     return NormaDiffSeries.from_legacy(id_norma, raw, source=str(path))
@@ -174,9 +186,10 @@ def iter_diff_series(data_root: Path | str) -> Iterator[NormaDiffSeries]:
     ddir = Path(data_root) / "cache" / "diffs"
     if not ddir.is_dir():
         return
-    for f in sorted(ddir.glob("*.json"), key=lambda p: int(p.stem) if p.stem.isdigit() else 0):
-        try:
-            id_norma = int(f.stem)
-        except ValueError:
-            continue
+    entries = []
+    for f in iter_diff_files(ddir):
+        id_str = diff_id_from_path(f)
+        if id_str.isdigit():
+            entries.append((int(id_str), f))
+    for id_norma, _ in sorted(entries, key=lambda t: t[0]):
         yield load_norma_diff_series(Path(data_root), id_norma)

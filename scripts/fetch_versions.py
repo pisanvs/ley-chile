@@ -5,7 +5,7 @@ For each idNorma in {DATA_ROOT}/graph.json where node["vigencias"] has 2+ entrie
   1. Sort vigencias by "desde" ascending (oldest first)
   2. For each vigencia, fetch the versioned norma JSON and cache it
   3. Compute consecutive article-level diffs
-  4. Write {DATA_ROOT}/cache/diffs/{idNorma}.json
+  4. Write {DATA_ROOT}/cache/diffs/{idNorma}.json.gz (gzipped)
   5. Write {DATA_ROOT}/{law_dir}/versiones.json
 
 Usage:
@@ -34,7 +34,17 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 
-from utils import AdaptiveLimiter, detect_data_root, law_dir, setup_logging, Progress, graph_exists, load_graph  # noqa: E402
+from utils import (  # noqa: E402
+    AdaptiveLimiter,
+    Progress,
+    detect_data_root,
+    find_diff_path,
+    graph_exists,
+    law_dir,
+    load_graph,
+    setup_logging,
+    write_diff_file,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -350,10 +360,9 @@ def _write_outputs(
             v["modificadaPor"] = _normalize_modificada(modif_by_date[fecha])
         enriched_list.append(v)
 
-    # 2. cache/diffs/{idNorma}.json — always written
-    diffs_cache_dir.mkdir(parents=True, exist_ok=True)
-    diff_path = diffs_cache_dir / f"{id_norma}.json"
-    diff_path.write_text(json.dumps(enriched_list, ensure_ascii=False, indent=2), encoding="utf-8")
+    # 2. cache/diffs/{idNorma}.json.gz — always written (gzip keeps oversized
+    #    code-of-law diffs under GitHub's 100 MB blob limit)
+    write_diff_file(diffs_cache_dir, id_norma, enriched_list)
 
     if not write_law_outputs:
         return
@@ -488,9 +497,9 @@ async def run(
         id_norma = int(id_str)
         if id_norma in done_set:
             continue
-        # Skip normas whose diffs file already exists — handles fresh checkouts
+        # Skip normas whose diffs file already exists (gzip or legacy plain)
         # where done_set is empty but the cache branch already has results.
-        if (diffs_cache_dir / f"{id_str}.json").exists():
+        if find_diff_path(diffs_cache_dir, id_str) is not None:
             done_set.add(id_norma)
             continue
         if id_str in permanently_dead:

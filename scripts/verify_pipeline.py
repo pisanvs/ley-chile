@@ -31,7 +31,13 @@ _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 
-from utils import graph_exists, load_graph  # noqa: E402
+from utils import (  # noqa: E402
+    diff_id_from_path,
+    graph_exists,
+    iter_diff_files,
+    load_diff_file,
+    load_graph,
+)
 
 
 # ---------------------------------------------------------------------------
@@ -59,12 +65,12 @@ def _check_cache_completeness(cache_dir: Path) -> tuple[int, int, list[str]]:
     """
     diffs_dir = cache_dir / "diffs"
     versions_dir = cache_dir / "versions"
-    diff_files = sorted(diffs_dir.glob("*.json")) if diffs_dir.is_dir() else []
+    diff_files = list(iter_diff_files(diffs_dir))
     inconsistencies: list[str] = []
     for diff_file in diff_files:
-        id_str = diff_file.stem
+        id_str = diff_id_from_path(diff_file)
         try:
-            entries = json.loads(diff_file.read_text(encoding="utf-8"))
+            entries = load_diff_file(diff_file)
         except (json.JSONDecodeError, OSError) as exc:
             inconsistencies.append(f"corrupt diff file: {id_str} ({exc})")
             continue

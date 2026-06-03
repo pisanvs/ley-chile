@@ -47,6 +47,7 @@ if str(_SCRIPTS_DIR) not in sys.path:
 # Legacy helpers we deliberately reuse during the transition.  Step 5
 # replaces these with typed equivalents; for now reusing them is what
 # guarantees byte-equivalence of file payloads.
+from utils import find_diff_path, load_diff_file  # noqa: E402
 from build_history import (  # noqa: E402
     _commit_subject_causa,
     _law_dir_from_node,
@@ -139,11 +140,11 @@ def _load_diff_entries(cache_dir: Path, id_norma: int) -> list[dict] | None:
 
     Step 3 swaps this for the typed ``NormaDiffSeries`` consumer.
     """
-    diff_path = cache_dir / "diffs" / f"{id_norma}.json"
-    if not diff_path.exists():
+    diff_path = find_diff_path(cache_dir / "diffs", id_norma)
+    if diff_path is None:
         return None
     try:
-        data = json.loads(diff_path.read_text(encoding="utf-8"))
+        data = load_diff_file(diff_path)
     except (OSError, json.JSONDecodeError) as exc:
         log.debug("skipping unreadable diff %s: %s", id_norma, exc)
         return None

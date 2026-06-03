@@ -9,12 +9,14 @@ Provides:
 """
 
 import asyncio
+import gzip
 import json
 import logging
 import os
 import re
 from dataclasses import dataclass, field
 from pathlib import Path
+from typing import Any
 
 logger = logging.getLogger(__name__)
 
@@ -46,6 +48,73 @@ class CommitContext:
 
     def sort_key(self) -> tuple:
         return (self.date, self.ley_numero, self._rank, self._seq)
+
+
+# ---------------------------------------------------------------------------
+# diffs cache I/O — gzip-compressed JSON
+# ---------------------------------------------------------------------------
+#
+# Diff files (`cache/diffs/{id}.json.gz`) embed full per-version HTML payloads
+# and grow large for codes / heavily-amended laws. We write gzip to keep them
+# under GitHub's 100 MB blob limit (typical 10× shrink on HTML-heavy JSON).
+# Readers transparently accept legacy plain `.json` so a partially-migrated
+# cache works during the transition.
+
+
+def find_diff_path(diffs_dir: Path, id_norma: int | str) -> Path | None:
+    """Return the existing diffs file for a norma, preferring `.json.gz`."""
+    gz = diffs_dir / f"{id_norma}.json.gz"
+    if gz.exists():
+        return gz
+    raw = diffs_dir / f"{id_norma}.json"
+    if raw.exists():
+        return raw
+    return None
+
+
+def load_diff_file(path: Path) -> Any:
+    """Load a diffs cache file, auto-detecting gzip by suffix."""
+    if path.suffix == ".gz":
+        with gzip.open(path, "rt", encoding="utf-8") as f:
+            return json.load(f)
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def write_diff_file(diffs_dir: Path, id_norma: int | str, data: Any) -> Path:
+    """Write `cache/diffs/{id}.json.gz` and remove any legacy `.json` sibling."""
+    diffs_dir.mkdir(parents=True, exist_ok=True)
+    gz_path = diffs_dir / f"{id_norma}.json.gz"
+    payload = json.dumps(data, ensure_ascii=False).encode("utf-8")
+    tmp = gz_path.with_suffix(".gz.tmp")
+    with gzip.open(tmp, "wb") as f:
+        f.write(payload)
+    tmp.replace(gz_path)
+    legacy = diffs_dir / f"{id_norma}.json"
+    if legacy.exists():
+        legacy.unlink()
+    return gz_path
+
+
+def iter_diff_files(diffs_dir: Path):
+    """Yield all diffs cache files (gzip preferred when both exist)."""
+    if not diffs_dir.is_dir():
+        return
+    seen: set[str] = set()
+    for path in sorted(diffs_dir.glob("*.json.gz")):
+        seen.add(path.name[: -len(".json.gz")])
+        yield path
+    for path in sorted(diffs_dir.glob("*.json")):
+        if path.stem in seen:
+            continue
+        yield path
+
+
+def diff_id_from_path(path: Path) -> str:
+    """Extract the norma id string from a diffs cache filename."""
+    name = path.name
+    if name.endswith(".json.gz"):
+        return name[: -len(".json.gz")]
+    return path.stem
 
 
 # ---------------------------------------------------------------------------
