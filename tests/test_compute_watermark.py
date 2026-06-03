@@ -93,6 +93,20 @@ def test_normas_without_fecha_are_skipped(tmp_path):
     assert result["total"] == 2
 
 
+def test_empty_vigencias_stub_is_complete_without_diff(tmp_path):
+    """Zero-vigencia stubs (SPARQL placeholders LeyChile doesn't serve) are
+    skipped by fetch_versions and must not block cache_complete."""
+    graph = {
+        "900001": {"fechaPublicacion": "", "vigencias": []},  # stub
+        "200": {"fechaPublicacion": "2020-01-01", "vigencias": [{"desde": "2020-01-01"}]},
+    }
+    cache_dir = _make_cache(tmp_path, graph, [200])
+    result = cw.compute_watermark(graph, cache_dir, W="")
+    assert result["cached"] == 2          # stub counts as cached
+    assert result["missing"] == 0
+    assert result["cache_complete"] is True
+
+
 def test_historial_count_zero_without_historial_dir(tmp_path):
     """When historial_dir is absent we report 0 — no fabricated projection."""
     graph = {

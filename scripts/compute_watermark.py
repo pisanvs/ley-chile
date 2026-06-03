@@ -93,6 +93,12 @@ def compute_watermark(
     def _diffs_complete(id_str: str) -> bool:
         diff_path = find_diff_path(diffs_dir, id_str)
         if diff_path is None:
+            # Zero-vigencia stubs (e.g. SPARQL placeholders LeyChile doesn't
+            # serve) are skipped by fetch_versions, so the absence of a diff
+            # file is expected. Treat them as complete — nothing to fetch.
+            node = graph.get(id_str) or {}
+            if "vigencias" in node and not node["vigencias"]:
+                return True
             return False
         try:
             diffs = load_diff_file(diff_path)
