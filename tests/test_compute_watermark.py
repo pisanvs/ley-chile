@@ -93,6 +93,40 @@ def test_normas_without_fecha_are_skipped(tmp_path):
     assert result["total"] == 2
 
 
+def test_sentinel_only_norma_is_complete_with_empty_diff(tmp_path):
+    """Normas whose only vigencia is a year>2100 sentinel (LeyChile's
+    open-ended `2222-02-02` marker) get an empty diff list and no version
+    files. That state must count as complete, not block the cache gate."""
+    graph = {
+        "1064738": {
+            "fechaPublicacion": "2026-01-15",
+            "vigencias": [{"desde": "2222-02-02"}],
+        },
+        "200": {
+            "fechaPublicacion": "2020-01-01",
+            "vigencias": [{"desde": "2020-01-01"}],
+        },
+    }
+    diffs = tmp_path / "cache" / "diffs"
+    versions = tmp_path / "cache" / "versions"
+    diffs.mkdir(parents=True)
+    versions.mkdir(parents=True)
+    # Sentinel-only: empty diff list, no versions/{id}/ dir.
+    (diffs / "1064738.json").write_text("[]", encoding="utf-8")
+    # Normal norma fully cached.
+    (diffs / "200.json").write_text(
+        json.dumps([{"fecha": "2020-01-01", "tipo_version_s": "", "diff": None}]),
+        encoding="utf-8",
+    )
+    (versions / "200").mkdir()
+    (versions / "200" / "2020-01-01.json").write_text("{}", encoding="utf-8")
+
+    result = cw.compute_watermark(graph, tmp_path / "cache", W="")
+    assert result["cached"] == 2
+    assert result["missing"] == 0
+    assert result["cache_complete"] is True
+
+
 def test_empty_vigencias_stub_is_complete_without_diff(tmp_path):
     """Zero-vigencia stubs (SPARQL placeholders LeyChile doesn't serve) are
     skipped by fetch_versions and must not block cache_complete."""

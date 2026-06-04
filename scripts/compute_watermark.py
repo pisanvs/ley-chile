@@ -104,7 +104,20 @@ def compute_watermark(
             diffs = load_diff_file(diff_path)
         except Exception:
             return False
-        if not isinstance(diffs, list) or not diffs:
+        if not isinstance(diffs, list):
+            return False
+        if not diffs:
+            # Empty diff list is correct when every vigencia is a sentinel
+            # date (year > 2100, e.g. LeyChile's open-ended "2222-02-02").
+            # fetch_versions filters those out before writing versions but
+            # still emits the diff stub. Treat as complete in that case.
+            node = graph.get(id_str) or {}
+            vigs = node.get("vigencias", [])
+            if vigs and all(
+                v.get("desde", "")[:4].isdigit() and int(v["desde"][:4]) > 2100
+                for v in vigs
+            ):
+                return True
             return False
         base_dir = versions_dir / str(id_str)
         for entry in diffs:
