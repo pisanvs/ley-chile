@@ -10,6 +10,7 @@ Provides:
 
 import asyncio
 import gzip
+import io
 import json
 import logging
 import os
@@ -61,37 +62,149 @@ class CommitContext:
 # cache works during the transition.
 
 
+# Sharding threshold for sharded diff dirs. GitHub rejects any blob > 100 MB.
+# 80 MB leaves headroom for size estimation slack and future growth of a shard
+# between commits.
+DIFF_SHARD_THRESHOLD_BYTES = 80 * 1024 * 1024
+
+
 def find_diff_path(diffs_dir: Path, id_norma: int | str) -> Path | None:
-    """Return the existing diffs file for a norma, preferring `.json.gz`."""
+    """Return the existing diffs path for a norma.
+
+    Resolution order:
+      1. `diffs/{id}.json.gz` (single-file gzipped — current default)
+      2. `diffs/{id}.json` (legacy plain json — read-only, still supported)
+      3. `diffs/{id}/` (sharded — directory of `NNNNN.json.gz` chunks for
+         normas whose serialized diff exceeds GitHub's 100 MB blob limit)
+    """
     gz = diffs_dir / f"{id_norma}.json.gz"
     if gz.exists():
         return gz
     raw = diffs_dir / f"{id_norma}.json"
     if raw.exists():
         return raw
+    sharded = diffs_dir / str(id_norma)
+    if sharded.is_dir() and any(sharded.glob("*.json.gz")):
+        return sharded
     return None
 
 
 def load_diff_file(path: Path) -> Any:
-    """Load a diffs cache file, auto-detecting gzip by suffix."""
+    """Load a diffs cache file or sharded directory.
+
+    For a sharded directory, every `*.json.gz` shard (sorted lexically) is
+    loaded and its list-contents concatenated in order. Shards must each
+    contain a JSON list — the writer guarantees this.
+    """
+    if path.is_dir():
+        merged: list = []
+        for shard in sorted(path.glob("*.json.gz")):
+            with gzip.open(shard, "rt", encoding="utf-8") as f:
+                part = json.load(f)
+            if not isinstance(part, list):
+                raise ValueError(
+                    f"sharded diff {shard} did not contain a list "
+                    f"(got {type(part).__name__})"
+                )
+            merged.extend(part)
+        return merged
     if path.suffix == ".gz":
         with gzip.open(path, "rt", encoding="utf-8") as f:
             return json.load(f)
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def write_diff_file(diffs_dir: Path, id_norma: int | str, data: Any) -> Path:
-    """Write `cache/diffs/{id}.json.gz` and remove any legacy `.json` sibling."""
-    diffs_dir.mkdir(parents=True, exist_ok=True)
-    gz_path = diffs_dir / f"{id_norma}.json.gz"
-    payload = json.dumps(data, ensure_ascii=False).encode("utf-8")
-    tmp = gz_path.with_suffix(".gz.tmp")
+def _write_single_gz(path: Path, payload: bytes) -> None:
+    tmp = path.with_suffix(path.suffix + ".tmp")
     with gzip.open(tmp, "wb") as f:
         f.write(payload)
-    tmp.replace(gz_path)
-    legacy = diffs_dir / f"{id_norma}.json"
-    if legacy.exists():
-        legacy.unlink()
+    tmp.replace(path)
+
+
+def write_diff_file(diffs_dir: Path, id_norma: int | str, data: Any) -> Path:
+    """Write the diffs cache for a norma.
+
+    Small enough to fit GitHub's 100 MB blob limit → single
+    `diffs/{id}.json.gz`. Otherwise sharded: split the entry list into
+    equal-count chunks so each shard's gzipped size stays under
+    DIFF_SHARD_THRESHOLD_BYTES, written to `diffs/{id}/NNNNN.json.gz`.
+
+    Always removes the other variant (file ↔ dir, plus any legacy
+    `.json`) so on-disk state is canonical for a given norma.
+    """
+    diffs_dir.mkdir(parents=True, exist_ok=True)
+    id_str = str(id_norma)
+
+    gz_path = diffs_dir / f"{id_str}.json.gz"
+    legacy_path = diffs_dir / f"{id_str}.json"
+    shard_dir = diffs_dir / id_str
+
+    payload = json.dumps(data, ensure_ascii=False).encode("utf-8")
+
+    if not isinstance(data, list) or len(data) <= 1:
+        # Non-list payloads (shouldn't happen for diffs) and single-entry
+        # lists go straight to a single file — sharding logic below assumes
+        # we can split a list across multiple chunks.
+        _write_single_gz(gz_path, payload)
+        _cleanup_other_variants(diffs_dir, id_str, keep=gz_path)
+        return gz_path
+
+    # Probe full payload's compressed size to decide single vs sharded.
+    probe = io.BytesIO()
+    with gzip.GzipFile(fileobj=probe, mode="wb") as f:
+        f.write(payload)
+    compressed_size = probe.tell()
+
+    if compressed_size <= DIFF_SHARD_THRESHOLD_BYTES:
+        _write_single_gz(gz_path, payload)
+        _cleanup_other_variants(diffs_dir, id_str, keep=gz_path)
+        return gz_path
+
+    # Need to shard. Pick chunk count so each chunk's expected compressed
+    # size is under the threshold. Uses the observed ratio plus 10% slack
+    # for entry-level variance.
+    import math
+    n_shards = max(2, math.ceil(compressed_size / (DIFF_SHARD_THRESHOLD_BYTES * 0.9)))
+    n_shards = min(n_shards, len(data))  # never more shards than entries
+    chunk_size = math.ceil(len(data) / n_shards)
+
+    # Write to a tmp dir to make the swap atomic-ish.
+    shard_dir.mkdir(parents=True, exist_ok=True)
+    written: list[Path] = []
+    for i in range(n_shards):
+        chunk = data[i * chunk_size : (i + 1) * chunk_size]
+        if not chunk:
+            break
+        chunk_bytes = json.dumps(chunk, ensure_ascii=False).encode("utf-8")
+        shard_path = shard_dir / f"{i:05d}.json.gz"
+        _write_single_gz(shard_path, chunk_bytes)
+        written.append(shard_path)
+
+    # Drop any stale older shards (e.g. previous run had more shards).
+    for stale in shard_dir.glob("*.json.gz"):
+        if stale not in written:
+            stale.unlink()
+
+    _cleanup_other_variants(diffs_dir, id_str, keep=shard_dir)
+    return shard_dir
+
+
+def _cleanup_other_variants(diffs_dir: Path, id_str: str, keep: Path) -> None:
+    """Remove the non-canonical on-disk variants for a norma."""
+    gz_path = diffs_dir / f"{id_str}.json.gz"
+    legacy_path = diffs_dir / f"{id_str}.json"
+    shard_dir = diffs_dir / id_str
+    if keep != gz_path and gz_path.exists():
+        gz_path.unlink()
+    if legacy_path.exists():
+        legacy_path.unlink()
+    if keep != shard_dir and shard_dir.is_dir():
+        for f in shard_dir.glob("*.json.gz"):
+            f.unlink()
+        try:
+            shard_dir.rmdir()
+        except OSError:
+            pass
     return gz_path
 
 
