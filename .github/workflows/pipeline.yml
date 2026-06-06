@@ -330,7 +330,11 @@ jobs:
           APPLIED=0
           for k in $(seq 0 $((N - 1))); do
             if git fetch origin "pipeline-cache-shard-$k" 2>/dev/null; then
-              NEW=$(git -C cache diff HEAD..origin/pipeline-cache-shard-$k --name-only)
+              # --diff-filter=ACMRT drops D entries — those are files present in
+              # HEAD but absent from the shard ref (happens when pipeline-cache
+              # advanced after this shard branched). Checking out a deletion
+              # would error with "pathspec did not match any file(s) known to git".
+              NEW=$(git -C cache diff --diff-filter=ACMRT HEAD..origin/pipeline-cache-shard-$k --name-only)
               if [ -n "$NEW" ]; then
                 echo "$NEW" | xargs git -C cache checkout "origin/pipeline-cache-shard-$k" --
                 echo "  shard $k: applied $(echo "$NEW" | wc -l) file(s)"

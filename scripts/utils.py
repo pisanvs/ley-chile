@@ -129,46 +129,62 @@ def write_diff_file(diffs_dir: Path, id_norma: int | str, data: Any) -> Path:
     equal-count chunks so each shard's gzipped size stays under
     DIFF_SHARD_THRESHOLD_BYTES, written to `diffs/{id}/NNNNN.json.gz`.
 
+    Decides single-vs-sharded by sampling entry sizes rather than
+    serializing the full payload — for normas like 1077207 with ~1 GB of
+    diff content, materializing the full string would exhaust memory.
+
     Always removes the other variant (file ↔ dir, plus any legacy
     `.json`) so on-disk state is canonical for a given norma.
     """
+    import math
+
     diffs_dir.mkdir(parents=True, exist_ok=True)
     id_str = str(id_norma)
 
     gz_path = diffs_dir / f"{id_str}.json.gz"
-    legacy_path = diffs_dir / f"{id_str}.json"
     shard_dir = diffs_dir / id_str
 
-    payload = json.dumps(data, ensure_ascii=False).encode("utf-8")
-
     if not isinstance(data, list) or len(data) <= 1:
-        # Non-list payloads (shouldn't happen for diffs) and single-entry
-        # lists go straight to a single file — sharding logic below assumes
-        # we can split a list across multiple chunks.
+        # Non-list payloads and single-entry lists go straight to a single
+        # file — sharding logic below assumes we can split a list across
+        # multiple chunks. Small by construction; safe to materialize.
+        payload = json.dumps(data, ensure_ascii=False).encode("utf-8")
         _write_single_gz(gz_path, payload)
         _cleanup_other_variants(diffs_dir, id_str, keep=gz_path)
         return gz_path
 
-    # Probe full payload's compressed size to decide single vs sharded.
-    probe = io.BytesIO()
-    with gzip.GzipFile(fileobj=probe, mode="wb") as f:
-        f.write(payload)
-    compressed_size = probe.tell()
+    # Estimate compressed size by sampling. Sample a few entries
+    # individually; gzip them; extrapolate. This avoids holding the entire
+    # raw payload in memory.
+    sample_idx = [0, len(data) // 2, len(data) - 1]
+    sampled_raw = 0
+    sampled_compressed = 0
+    for i in sample_idx:
+        entry_bytes = json.dumps(data[i], ensure_ascii=False).encode("utf-8")
+        sampled_raw += len(entry_bytes)
+        buf = io.BytesIO()
+        with gzip.GzipFile(fileobj=buf, mode="wb") as f:
+            f.write(entry_bytes)
+        sampled_compressed += buf.tell()
+    # Per-entry estimates. Inflate by 5 % to leave slack for the worst
+    # entry being above-average.
+    avg_compressed_per_entry = (sampled_compressed / len(sample_idx)) * 1.05
+    est_total_compressed = avg_compressed_per_entry * len(data)
 
-    if compressed_size <= DIFF_SHARD_THRESHOLD_BYTES:
+    if est_total_compressed <= DIFF_SHARD_THRESHOLD_BYTES:
+        # Single file fits. Serialize the full payload now — safe because
+        # we just established it's <80 MB compressed (≤ a few GB raw).
+        payload = json.dumps(data, ensure_ascii=False).encode("utf-8")
         _write_single_gz(gz_path, payload)
         _cleanup_other_variants(diffs_dir, id_str, keep=gz_path)
         return gz_path
 
-    # Need to shard. Pick chunk count so each chunk's expected compressed
-    # size is under the threshold. Uses the observed ratio plus 10% slack
-    # for entry-level variance.
-    import math
-    n_shards = max(2, math.ceil(compressed_size / (DIFF_SHARD_THRESHOLD_BYTES * 0.9)))
-    n_shards = min(n_shards, len(data))  # never more shards than entries
+    # Shard. Pick chunk count so each chunk's expected compressed size is
+    # under the threshold.
+    n_shards = max(2, math.ceil(est_total_compressed / (DIFF_SHARD_THRESHOLD_BYTES * 0.9)))
+    n_shards = min(n_shards, len(data))
     chunk_size = math.ceil(len(data) / n_shards)
 
-    # Write to a tmp dir to make the swap atomic-ish.
     shard_dir.mkdir(parents=True, exist_ok=True)
     written: list[Path] = []
     for i in range(n_shards):
@@ -179,6 +195,7 @@ def write_diff_file(diffs_dir: Path, id_norma: int | str, data: Any) -> Path:
         shard_path = shard_dir / f"{i:05d}.json.gz"
         _write_single_gz(shard_path, chunk_bytes)
         written.append(shard_path)
+        del chunk_bytes  # release ~chunk-size buffer before next iteration
 
     # Drop any stale older shards (e.g. previous run had more shards).
     for stale in shard_dir.glob("*.json.gz"):
