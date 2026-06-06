@@ -1,5 +1,5 @@
 # ley-chile
-
+[![Pipeline](https://github.com/pisanvs/ley-chile/actions/workflows/pipeline.yml/badge.svg)](https://github.com/pisanvs/ley-chile/actions/workflows/pipeline.yml)
 [LINK AL BRANCH CON DATOS](https://github.com/pisanvs/ley-chile/tree/historial)
 
 Repositorio git que reconstruye el historial completo de cambios en el corpus jurídico chileno, haciendo un commit por cada versión publicada de cada ley.
