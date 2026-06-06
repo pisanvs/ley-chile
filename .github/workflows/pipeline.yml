@@ -441,8 +441,18 @@ jobs:
         run: |
           set -euo pipefail
           CHUNK_SIZE=500
-          mapfile -t COMMITS < <(git log --reverse --format="%H" historial)
+          # Disambiguate: a `historial/` worktree directory exists alongside the
+          # branch, so bare `historial` is ambiguous to git. Use the full ref.
+          mapfile -t COMMITS < <(git log --reverse --format="%H" refs/heads/historial)
           TOTAL=${#COMMITS[@]}
+          # mapfile masks the subshell exit code, so guard explicitly. Without
+          # this, a failed git log silently produces TOTAL=0 and the script
+          # skips chunking and tries to push the whole rebuilt history in one
+          # shot, which GitHub rejects with HTTP 500.
+          if [ "$TOTAL" -eq 0 ]; then
+            echo "ERROR: refs/heads/historial has 0 commits (rebuild output missing?)"
+            exit 1
+          fi
           echo "historial: $TOTAL commits, pushing in chunks of $CHUNK_SIZE"
           for ((i = CHUNK_SIZE - 1; i < TOTAL - 1; i += CHUNK_SIZE)); do
             sha="${COMMITS[$i]}"
