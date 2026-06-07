@@ -607,11 +607,22 @@ def main() -> None:
             "Mutually exclusive with --append."
         ),
     )
+    parser.add_argument(
+        "--skip-final-chore",
+        action="store_true",
+        help=(
+            "Don't emit the closing 'Fin del historial procesado' chore "
+            "commit. Use in chunked builds where this script will be "
+            "invoked multiple times in sequence — the marker would end up "
+            "in the middle of history."
+        ),
+    )
     args = parser.parse_args()
     if args.rebuild and args.append:
         parser.error("--rebuild and --append are mutually exclusive")
-    if args.rebuild and (args.from_date or args.to_date):
-        parser.error("--rebuild ignores --from/--to (it always rebuilds the whole branch)")
+    # --rebuild now accepts --from/--to: chunked builds use --rebuild --to D1
+    # for chunk 1 (atomic in-stream reset), then --append --from D1 --to D2
+    # for subsequent chunks.
 
     setup_logging(verbose=args.verbose)
     data_root = Path(args.data_root).resolve() if args.data_root else detect_data_root()
@@ -631,12 +642,17 @@ def main() -> None:
     )
     log.info("Collected %d version events", len(events))
 
-    # Chore commits
-    seq = len(events) + 1
-    last_date = max((e.date for e in events), default=datetime.date.today().isoformat())
-    chore_final = _build_chore_final(seq, last_date)
-
-    all_events = events + [chore_final]
+    # Chore commits — only on builds that produce a complete history tip.
+    # Skip in --append mode (we're extending an existing history) and when
+    # the caller explicitly opts out via --skip-final-chore (chunked builds
+    # where this script runs multiple times — marker would end up mid-history).
+    if args.append or args.skip_final_chore:
+        all_events = events
+    else:
+        seq = len(events) + 1
+        last_date = max((e.date for e in events), default=datetime.date.today().isoformat())
+        chore_final = _build_chore_final(seq, last_date)
+        all_events = events + [chore_final]
 
     # Apply enrichers
     enricher_names = [n for n in args.enrichers.split(",") if n.strip()]

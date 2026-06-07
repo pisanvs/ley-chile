@@ -417,88 +417,78 @@ jobs:
               print(f"Cache complete: all {stats['total']} normas have diffs. Building historial.")
           EOF
 
-      # ── Build historial ─────────────────────────────────────────────────
+      # ── Build & push historial in date-bounded chunks ───────────────────
       # Gate: BOTH cache_complete AND watermark_advanced must be true.
-      # cache_complete=false means we don't yet have all norma diffs — building
-      # now would produce an incomplete historial. Wait for the next run.
-      - name: Rebuild historial from cache
-        if: |
-          steps.watermark.outputs.cache_complete == 'true' &&
-          steps.watermark.outputs.watermark_advanced == 'true' &&
-          github.event.inputs.dry_run != 'true'
-        run: |
-          python scripts/leychile.py build \
-            --data-root . \
-            --cache-dir ./cache \
-            --rebuild \
-            --enrichers tramitacion
-
-      - name: Push historial (chunked, force-with-lease)
+      #
+      # Architecture: instead of building the entire 360k-commit historial
+      # locally then pushing 3.88GB in one shot (which lost 2h of work every
+      # time HTTP 500 hit), we build and push in date-bounded chunks. Each
+      # chunk is independently pushable, and failure at chunk K only loses
+      # chunk K's work — chunks 1..K-1 are already on origin.
+      #
+      # Chunk 1 uses --rebuild (atomic in-stream `reset` wipes the branch).
+      # Chunks 2..N use --append (fast-forward extension). Pushes after the
+      # first are plain fast-forwards — no --force, no force-with-lease,
+      # which is the wire protocol's happy path.
+      - name: Build & push historial in chunks
         if: |
           steps.watermark.outputs.cache_complete == 'true' &&
           steps.watermark.outputs.watermark_advanced == 'true' &&
           github.event.inputs.dry_run != 'true'
         run: |
           set -euo pipefail
-          # Big-pack push config. Default http.postBuffer=1MB triggers
-          # chunked-transfer-encoding once a pack exceeds 1MB, which GitHub's
-          # smart-HTTP endpoint frequently rejects with HTTP 500 for large
-          # packs. 2GB postBuffer + --no-thin (send self-contained packs, no
-          # delta against assumed-present server objects) is the standard fix.
-          # Also raise low-speed grace so slow chunks don't trip the watchdog.
+
+          # Big-pack push config (defensive — fast-forward pushes shouldn't
+          # need this, but cheap insurance).
           git config http.postBuffer 2147483648
           git config http.lowSpeedLimit 1000
           git config http.lowSpeedTime 600
 
-          CHUNK_SIZE=100
-          # Disambiguate: a `historial/` worktree directory exists alongside the
-          # branch, so bare `historial` is ambiguous to git. Use the full ref.
-          mapfile -t COMMITS < <(git log --reverse --format="%H" refs/heads/historial)
-          TOTAL=${#COMMITS[@]}
-          # mapfile masks the subshell exit code, so guard explicitly. Without
-          # this, a failed git log silently produces TOTAL=0 and the script
-          # skips chunking and tries to push the whole rebuilt history in one
-          # shot, which GitHub rejects with HTTP 500.
-          if [ "$TOTAL" -eq 0 ]; then
-            echo "ERROR: refs/heads/historial has 0 commits (rebuild output missing?)"
-            exit 1
-          fi
-          echo "historial: $TOTAL commits, pushing in chunks of $CHUNK_SIZE"
+          # Date boundaries for chunked rebuild. Inclusive on the right end
+          # of each chunk; --from is exclusive so consecutive chunks don't
+          # overlap. Tune downward (more boundaries) if any individual chunk
+          # is too large to push reliably.
+          BOUNDARIES=(
+            "1900-12-31"
+            "1950-12-31"
+            "1973-12-31"
+            "1990-12-31"
+            "2000-12-31"
+            "2010-12-31"
+            "2015-12-31"
+            "2020-12-31"
+            "2024-12-31"
+            "2027-12-31"
+          )
 
-          # Defensive: delete origin/historial before the chunked push.
-          # `--rebuild` produces a fully derived branch each run, so the prior
-          # tip has no value. If the prior tip is at an unrelated history,
-          # GitHub's pack receiver may be doing expensive work to reconcile —
-          # starting from no ref avoids that path entirely.
-          echo "Deleting stale origin/historial (if present) before push..."
-          git push origin --delete historial 2>&1 || echo "  (no prior historial to delete or delete refused; continuing)"
+          # Wipe stale origin/historial. The prior tip points at an unrelated
+          # orphan commit (4b877ccedc), which may be a contributor to the
+          # HTTPS-500-on-force-push pathology. Starting from no ref means
+          # chunk 1's push CREATES the branch, no force needed.
+          echo "Wiping stale origin/historial..."
+          git push origin --delete historial 2>&1 \
+            || echo "  (no prior historial or delete refused; continuing)"
 
-          push_chunk() {
-            local ref="$1"
-            local label="$2"
+          push_historial() {
+            local label="$1"
+            local local_sha
+            local_sha=$(git rev-parse refs/heads/historial)
             for attempt in 1 2 3 4 5; do
-              # On attempt 1, run a verbose probe to dump GitHub's actual
-              # response (headers + remote messages). We ignore its exit code;
-              # the real push happens immediately after. Drop --no-thin: thin
-              # packs are the protocol default; GitHub's receiver expects them.
-              if [ "$attempt" = "1" ]; then
-                echo "  $label: probing with verbose trace..."
-                GIT_CURL_VERBOSE=1 GIT_TRACE_PACKET=0 \
-                  git push --force origin "$ref" 2>&1 \
-                  | grep -E '^(< HTTP|< Content|remote:|error:|fatal:|warning:|send-pack:)' \
-                  | head -50 || true
-                echo "  $label: probe done; doing real push..."
-              fi
-              if git push --force origin "$ref" 2>&1; then
-                local local_sha="${ref%%:*}"
+              # --force: defensive. We hold the historial-write concurrency
+              # lock so no one else is touching the ref. After chunk 1 creates
+              # the branch, subsequent pushes are natural fast-forwards (force
+              # is a no-op then). For chunk 1, --force handles the case where
+              # the pre-loop delete refused for any reason.
+              if git push --force origin historial 2>&1; then
+                # Verify ref advanced (git can print "Everything up-to-date"
+                # with exit 0 after mid-stream RPC failures).
                 local remote_sha
-                remote_sha=$(git ls-remote origin refs/heads/historial | awk '{print $1}')
-                # For chunked pushes, expected remote_sha == local_sha (chunk tip).
-                # For the final force-with-lease push, expected remote_sha == HEAD of historial.
+                remote_sha=$(git ls-remote origin refs/heads/historial 2>/dev/null | awk '{print $1}' || true)
                 if [ "$remote_sha" = "$local_sha" ]; then
+                  echo "  $label: pushed OK (remote at $local_sha)"
                   return 0
                 fi
-                echo "  $label: push exited 0 but remote ref did not advance (got $remote_sha, want $local_sha)"
+                echo "  $label: push exited 0 but remote ref not advanced (got $remote_sha, want $local_sha)"
               fi
               echo "  $label: attempt $attempt failed; retrying in $((attempt * 5))s..."
               sleep $((attempt * 5))
@@ -506,35 +496,53 @@ jobs:
             return 1
           }
 
-          for ((i = CHUNK_SIZE - 1; i < TOTAL - 1; i += CHUNK_SIZE)); do
-            sha="${COMMITS[$i]}"
-            label="chunk 1..$((i+1)) / $TOTAL"
-            echo "  $label"
-            if ! push_chunk "$sha:refs/heads/historial" "$label"; then
-              echo "ERROR: $label exhausted retries"
+          LAST_INDEX=$((${#BOUNDARIES[@]} - 1))
+          PREV=""
+
+          for i in "${!BOUNDARIES[@]}"; do
+            NEXT="${BOUNDARIES[$i]}"
+            CHUNK_NUM=$((i + 1))
+            IS_LAST_CHUNK="false"
+            [ "$i" = "$LAST_INDEX" ] && IS_LAST_CHUNK="true"
+
+            # All chunks except the last skip the chore-final marker.
+            CHORE_FLAG="--skip-final-chore"
+            [ "$IS_LAST_CHUNK" = "true" ] && CHORE_FLAG=""
+
+            echo ""
+            if [ -z "$PREV" ]; then
+              echo "=== Chunk $CHUNK_NUM: rebuild, events ≤ $NEXT ==="
+              python scripts/leychile.py build \
+                --data-root . --cache-dir ./cache \
+                --rebuild --to "$NEXT" \
+                $CHORE_FLAG \
+                --enrichers tramitacion
+            else
+              echo "=== Chunk $CHUNK_NUM: append ($PREV, $NEXT] ==="
+              python scripts/leychile.py build \
+                --data-root . --cache-dir ./cache \
+                --append --from "$PREV" --to "$NEXT" \
+                $CHORE_FLAG \
+                --enrichers tramitacion
+            fi
+
+            # Verify the branch has commits to push.
+            if ! git rev-parse refs/heads/historial >/dev/null 2>&1; then
+              echo "ERROR: chunk $CHUNK_NUM produced no historial branch"
               exit 1
             fi
+
+            echo "--- Pushing chunk $CHUNK_NUM ---"
+            if ! push_historial "chunk $CHUNK_NUM ($NEXT)"; then
+              echo "ERROR: chunk $CHUNK_NUM push exhausted retries"
+              exit 1
+            fi
+
+            PREV="$NEXT"
           done
 
-          # Final push of the actual branch tip.
-          tip_sha=$(git rev-parse refs/heads/historial)
-          PUSHED=0
-          for attempt in 1 2 3 4; do
-            if git push --force-with-lease origin historial; then
-              # `|| true` so a transient ls-remote failure (network blip) does
-              # not kill set -e mid-retry — empty remote_sha just falls through
-              # to the retry path.
-              remote_sha=$(git ls-remote origin refs/heads/historial 2>/dev/null | awk '{print $1}' || true)
-              if [ "$remote_sha" = "$tip_sha" ]; then
-                PUSHED=1; break
-              fi
-              echo "Tip push exited 0 but remote did not advance (got $remote_sha, want $tip_sha)"
-            fi
-            echo "Attempt $attempt failed; retrying in $((attempt * 3))s..."
-            git fetch origin historial || true
-            sleep $((attempt * 3))
-          done
-          [ $PUSHED -eq 1 ] || { echo "ERROR: historial push failed"; exit 1; }
+          echo ""
+          echo "=== All ${#BOUNDARIES[@]} chunks built and pushed successfully ==="
 
       # ── Update README ───────────────────────────────────────────────────
       - name: Update README pipeline status
