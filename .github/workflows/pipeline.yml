@@ -440,7 +440,17 @@ jobs:
           github.event.inputs.dry_run != 'true'
         run: |
           set -euo pipefail
-          CHUNK_SIZE=500
+          # Big-pack push config. Default http.postBuffer=1MB triggers
+          # chunked-transfer-encoding once a pack exceeds 1MB, which GitHub's
+          # smart-HTTP endpoint frequently rejects with HTTP 500 for large
+          # packs. 2GB postBuffer + --no-thin (send self-contained packs, no
+          # delta against assumed-present server objects) is the standard fix.
+          # Also raise low-speed grace so slow chunks don't trip the watchdog.
+          git config http.postBuffer 2147483648
+          git config http.lowSpeedLimit 1000
+          git config http.lowSpeedTime 600
+
+          CHUNK_SIZE=100
           # Disambiguate: a `historial/` worktree directory exists alongside the
           # branch, so bare `historial` is ambiguous to git. Use the full ref.
           mapfile -t COMMITS < <(git log --reverse --format="%H" refs/heads/historial)
@@ -454,15 +464,53 @@ jobs:
             exit 1
           fi
           echo "historial: $TOTAL commits, pushing in chunks of $CHUNK_SIZE"
+
+          push_chunk() {
+            local ref="$1"
+            local label="$2"
+            for attempt in 1 2 3 4 5; do
+              # --no-thin: server has no prior objects of this branch on the
+              # first chunks, so don't try to delta against them.
+              # set +e around the push: git can print "Everything up-to-date"
+              # with exit 0 even after a mid-stream RPC failure, so we also
+              # verify the ref advanced by checking the remote sha.
+              if git push --no-thin --force origin "$ref" 2>&1; then
+                local local_sha="${ref%%:*}"
+                local remote_sha
+                remote_sha=$(git ls-remote origin refs/heads/historial | awk '{print $1}')
+                # For chunked pushes, expected remote_sha == local_sha (chunk tip).
+                # For the final force-with-lease push, expected remote_sha == HEAD of historial.
+                if [ "$remote_sha" = "$local_sha" ]; then
+                  return 0
+                fi
+                echo "  $label: push exited 0 but remote ref did not advance (got $remote_sha, want $local_sha)"
+              fi
+              echo "  $label: attempt $attempt failed; retrying in $((attempt * 5))s..."
+              sleep $((attempt * 5))
+            done
+            return 1
+          }
+
           for ((i = CHUNK_SIZE - 1; i < TOTAL - 1; i += CHUNK_SIZE)); do
             sha="${COMMITS[$i]}"
-            echo "  chunk: 1..$((i+1)) / $TOTAL"
-            git push --force origin "$sha:refs/heads/historial"
+            label="chunk 1..$((i+1)) / $TOTAL"
+            echo "  $label"
+            if ! push_chunk "$sha:refs/heads/historial" "$label"; then
+              echo "ERROR: $label exhausted retries"
+              exit 1
+            fi
           done
+
+          # Final push of the actual branch tip.
+          tip_sha=$(git rev-parse refs/heads/historial)
           PUSHED=0
           for attempt in 1 2 3 4; do
-            if git push --force-with-lease origin historial; then
-              PUSHED=1; break
+            if git push --no-thin --force-with-lease origin historial; then
+              remote_sha=$(git ls-remote origin refs/heads/historial | awk '{print $1}')
+              if [ "$remote_sha" = "$tip_sha" ]; then
+                PUSHED=1; break
+              fi
+              echo "Tip push exited 0 but remote did not advance (got $remote_sha, want $tip_sha)"
             fi
             echo "Attempt $attempt failed; retrying in $((attempt * 3))s..."
             git fetch origin historial || true
