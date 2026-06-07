@@ -482,7 +482,13 @@ def _make_fast_import_stream(
         stream_parts.append(b"\n")
 
         if from_branch:
-            stream_parts.append(enc(f"from refs/heads/{TARGET_BRANCH}\n"))
+            # Append-mode first commit. `from refs/heads/historial` while
+            # also writing `commit refs/heads/historial` trips fast-import's
+            # "can't create a branch from itself" guard. Dereferencing with
+            # `^0` gives fast-import a commit reference (not a ref name) so
+            # the guard doesn't fire — the parent ends up being the same
+            # existing tip, which is what we want.
+            stream_parts.append(enc(f"from refs/heads/{TARGET_BRANCH}^0\n"))
         elif parent_m is not None:
             stream_parts.append(enc(f"from :{parent_m}\n"))
 
