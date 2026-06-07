@@ -506,7 +506,10 @@ jobs:
           PUSHED=0
           for attempt in 1 2 3 4; do
             if git push --no-thin --force-with-lease origin historial; then
-              remote_sha=$(git ls-remote origin refs/heads/historial | awk '{print $1}')
+              # `|| true` so a transient ls-remote failure (network blip) does
+              # not kill set -e mid-retry — empty remote_sha just falls through
+              # to the retry path.
+              remote_sha=$(git ls-remote origin refs/heads/historial 2>/dev/null | awk '{print $1}' || true)
               if [ "$remote_sha" = "$tip_sha" ]; then
                 PUSHED=1; break
               fi
