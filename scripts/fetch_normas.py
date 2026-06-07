@@ -158,11 +158,26 @@ def parse_node(id_norma: int, data: dict, existing_node: dict | None = None) -> 
     titulo = meta.get("titulo_norma", "")
     clasificacion = classify(titulo)
 
+    # tipo/numero live in metadatos.tipos_numeros[0]. The top-level
+    # `tipo` and `numero` keys are typically null in this dataset, so without
+    # this lift every node ends up tipo=None/numero=None and downstream code
+    # falls back to idNorma in commit subjects ("Ley N°1077207") and to
+    # generic labels ("Ley" for everything).
+    tipo_abr = ""
+    numero = ""
+    tipos_numeros = meta.get("tipos_numeros") or []
+    if tipos_numeros:
+        first = tipos_numeros[0]
+        tipo_abr = (first.get("abreviacion") or "").lower().strip()
+        numero = first.get("numero") or ""
+
     node = dict(existing_node) if existing_node else {}
     node.update(
         {
             "idNorma": id_norma,
             "titulo": titulo,
+            "tipo": tipo_abr or node.get("tipo"),
+            "numero": numero or node.get("numero"),
             "clasificacion": clasificacion,
             "organismos": meta.get("organismos", []),
             "derogado": bool(meta.get("derogado", False)),

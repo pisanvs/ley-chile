@@ -136,31 +136,88 @@ def _date_to_unix(date_str: str, seq: int = 0) -> int:
 # Scope helpers
 # ---------------------------------------------------------------------------
 
+# Major types stay top-level in the historial layout. Everything else lives
+# under etc/{tipo}/ and is treated as ancillary documentation.
+MAJOR_SCOPES = {"ley", "modificacion", "dl", "dfl", "dto", "cod"}
+
+# Maps the LeyChile `abreviacion` (lowercased) and a few legacy long-form
+# strings to a normalized scope identifier. Unknown tipos are passed through
+# as-is so they retain their identity rather than collapsing to "ley".
+_TIPO_NORMALIZE = {
+    "dl": "dl",
+    "decreto ley": "dl",
+    "decreto-ley": "dl",
+    "dfl": "dfl",
+    "decreto con fuerza de ley": "dfl",
+    "dto": "dto",
+    "decreto": "dto",
+    "decreto supremo": "dto",
+    "decreto-supremo": "dto",
+    "cod": "cod",
+    "ley": "ley",
+    "lei": "ley",  # archaic spelling
+}
+
+
 def _scope_for_node(node: dict) -> str:
+    """Normalize a node's tipo into a scope used for paths + commit labels.
+
+    For a `ley` flagged as modificatoria, return "modificacion". For unknown
+    tipos, return the lowercased tipo verbatim — that keeps res/cir/acd/etc.
+    from being mislabeled as "ley".
+    """
     clasificacion = node.get("clasificacion", "sustantiva")
-    tipo = (node.get("tipo") or "").lower()
-    if tipo in ("dl", "decreto ley", "decreto-ley"):
-        return "dl"
-    if tipo in ("dfl", "decreto con fuerza de ley"):
-        return "dfl"
-    if tipo in ("dto", "decreto", "decreto supremo", "decreto-supremo"):
-        return "dto"
-    if tipo == "cod":
-        return "cod"
-    if clasificacion == "modificatoria":
+    tipo = (node.get("tipo") or "").lower().strip()
+    scope = _TIPO_NORMALIZE.get(tipo, tipo or "otro")
+    if scope == "ley" and clasificacion == "modificatoria":
         return "modificacion"
-    return "ley"
+    return scope
+
+
+# Human-readable labels for commit subjects. Keyed by normalized scope.
+# Unknown scopes fall back to title-cased scope.
+TIPO_LABELS = {
+    "ley": "Ley",
+    "modificacion": "Ley",
+    "dl": "Decreto Ley",
+    "dfl": "Decreto con Fuerza de Ley",
+    "dto": "Decreto Supremo",
+    "cod": "Código",
+    "res": "Resolución",
+    "cir": "Circular",
+    "acd": "Acuerdo",
+    "aa": "Auto Acordado",
+    "avi": "Aviso",
+    "cer": "Certificado",
+    "of": "Oficio",
+    "ord": "Ordinario",
+    "orz": "Ordenanza",
+    "rec": "Rectificación",
+    "ins": "Instrucción",
+    "ncg": "Norma de Carácter General",
+    "cci": "Circular del Banco Central",
+    "dic": "Dictamen",
+    "ses": "Sesión",
+    "sen": "Proyecto de Ley",
+    "msj": "Mensaje",
+    "msg": "Mensaje",
+    "cv": "Convenio",
+    "rm": "Resolución Municipal",
+    "bando": "Bando",
+    "lei": "Lei",  # archaic
+    "tra": "Tratado",
+    "sc": "Disposición",
+    "otr": "Otra",
+    "otro": "Otra",
+    "ntf": "Notificación",
+}
 
 
 def _tipo_label(scope: str) -> str:
-    """Human label for commit messages."""
-    return {
-        "dl": "Decreto Ley",
-        "dfl": "Decreto con Fuerza de Ley",
-        "dto": "Decreto Supremo",
-        "cod": "Código",
-        "modificacion": "Ley",
-    }.get(scope, "Ley")
+    """Human label for commit messages. Falls back to title-cased scope."""
+    if scope in TIPO_LABELS:
+        return TIPO_LABELS[scope]
+    return scope.replace("-", " ").title() if scope else "Norma"
 
 
 def _normalize_modificada_por(value: object) -> dict | None:
@@ -171,10 +228,54 @@ def _normalize_modificada_por(value: object) -> dict | None:
     return None
 
 
-def _commit_subject_causa(scope: str, numero: str, fecha: str, organismo: str = "") -> str:
+# Sentinel values LeyChile uses when a norma has no legal number.
+_NO_NUMERO_SENTINELS = {"", "s/n", "sn", "sin numero", "sin número"}
+
+
+def _commit_subject_causa(
+    scope: str,
+    numero: str,
+    fecha: str,
+    organismo: str = "",
+    titulo: str = "",
+    id_norma: str | int | None = None,
+) -> str:
+    """Build a commit subject for a publication event.
+
+    Handles missing/sentinel numero gracefully:
+      - real number → "Ley N°20338 publicada (2009-04-01)"
+      - alphanumeric like "PENAL" or "1855" for cod → "Código Penal publicada (...)"
+        (drops the awkward "N°PENAL" pattern)
+      - missing/'S/N' → "Auto Acordado «titulo extract» (id 32) publicada (...)"
+    """
     label = _tipo_label(scope)
-    org = f" ({organismo})" if organismo and scope in ("dfl", "dl", "dto") else ""
-    return f"{label} N°{numero}{org} publicada ({fecha})"
+    org_suffix = (
+        f" ({organismo})" if organismo and scope in ("dfl", "dl", "dto") else ""
+    )
+
+    norm_numero = (numero or "").strip()
+    norm_lower = norm_numero.lower()
+    has_numero = norm_numero and norm_lower not in _NO_NUMERO_SENTINELS
+
+    if has_numero:
+        # Prefer a clean form when the "numero" is actually a name/word
+        # (e.g. cod="PENAL" → "Código Penal" rather than "Código N°PENAL").
+        if scope == "cod" and not norm_numero.isdigit():
+            head = f"{label} {norm_numero.title()}"
+        else:
+            head = f"{label} N°{norm_numero}"
+        return f"{head}{org_suffix} publicada ({fecha})"
+
+    # No numero — fall back to a short titulo extract + id reference.
+    snippet = (titulo or "").strip().replace("\n", " ").replace("  ", " ")
+    snippet = snippet[:60].rstrip()
+    if id_norma:
+        suffix = f" [id {id_norma}]"
+    else:
+        suffix = ""
+    if snippet:
+        return f"{label} «{snippet}»{org_suffix}{suffix} publicada ({fecha})"
+    return f"{label}{org_suffix}{suffix} publicada ({fecha})"
 
 
 def _law_dir_from_node(node: dict, id_norma: int, data_root: Path) -> Path:
@@ -313,17 +414,29 @@ def _collect_events(
             modificada_por = _normalize_modificada_por(entry.get("modificadaPor"))
             is_last = (i == len(diffs) - 1)
 
-            # Determine causing law
+            # Determine causing law. Keep numero as the *real* legal number
+            # (or empty/sentinel — subject builder handles fallbacks). Never
+            # substitute idNorma for numero; that produces fake numbers like
+            # "Ley N°1016627" where 1016627 is actually an internal id.
             if i == 0 or not modificada_por:
                 causa_id_str = id_norma_str
-                causa_numero = node.get("numero", id_norma_str)
+                causa_numero = node.get("numero") or ""
                 causa_titulo = node.get("titulo", "")
                 causa_fecha = node.get("fechaPublicacion") or fecha
                 causa_node = node
             else:
                 causa_id_str = str(modificada_por["idNorma"])
-                causa_numero = modificada_por.get("numero") or causa_id_str
-                causa_titulo = modificada_por.get("titulo", "")
+                # Prefer the modifier's numero from the diff entry; fall back
+                # to the modifier node's numero in the graph; otherwise empty.
+                causa_numero = (
+                    modificada_por.get("numero")
+                    or graph.get(causa_id_str, {}).get("numero")
+                    or ""
+                )
+                causa_titulo = (
+                    modificada_por.get("titulo")
+                    or graph.get(causa_id_str, {}).get("titulo", "")
+                )
                 causa_fecha = fecha
                 causa_node = graph.get(causa_id_str, {})
 
@@ -349,7 +462,14 @@ def _collect_events(
                     files={},
                     deletes=[],
                     symlinks={},
-                    subject=_commit_subject_causa(causa_scope, causa_numero, causa_fecha, causa_org),
+                    subject=_commit_subject_causa(
+                        causa_scope,
+                        causa_numero,
+                        causa_fecha,
+                        causa_org,
+                        titulo=causa_titulo,
+                        id_norma=causa_id_str,
+                    ),
                     body="\n".join(filter(None, [causa_titulo, f"BCN idNorma={causa_id_str}"])),
                     _seq=seq,
                     _rank=0,

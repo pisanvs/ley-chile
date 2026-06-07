@@ -566,10 +566,19 @@ def law_dir(
         base = root / f"{slug}{suffix}" / org_slug
         return _collision_free_path(base / numero, id_norma)
 
-    # Fallback: idNorma-keyed for unknown types
+    # Cod stays top-level — it's a "major" type with curated identifiers.
+    if slug == "cod":
+        folder = f"cod{suffix}"
+        key = numero or (str(id_norma) if id_norma else "unknown")
+        return _collision_free_path(root / folder / key, id_norma)
+
+    # All other types are ancillary — bucket them under etc/{tipo}/ so the
+    # top-level repo listing stays focused on real legislation. Within etc/
+    # we key by numero when available, else idNorma (avoids "S/N" collisions).
     folder = f"{slug}{suffix}"
-    key = str(id_norma) if id_norma else numero
-    return root / folder / key
+    has_numero = numero and numero.strip().lower() not in ("", "s/n", "sn")
+    key = numero if has_numero else (str(id_norma) if id_norma else "unknown")
+    return _collision_free_path(root / "etc" / folder / key, id_norma)
 
 
 # ---------------------------------------------------------------------------
