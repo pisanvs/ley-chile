@@ -112,11 +112,22 @@ def _date_to_unix(date_str: str, seq: int = 0) -> int:
 
     Uses ordinal arithmetic so pre-1900 dates (e.g. 1855-12-14) work on all
     platforms without relying on the C time_t range.
+
+    Pre-1970 dates produce negative timestamps that are technically valid in
+    git's wire format but rejected by `git fsck --strict` — which is what
+    GitHub runs on receive (`receive.fsckObjects=true`). Pushes containing
+    such commits fail with "badDate: invalid author/committer line" and the
+    pack is rejected with HTTP 500. For the Chilean legal corpus (oldest
+    laws ~1810), this means we must clamp negative results. We use the
+    monotonic `seq` index to do that: pre-1970 commits collapse into the
+    first few seconds of 1970-01-01 while preserving their relative order.
+    Real publication dates are preserved in the commit subject.
     """
     try:
         d = datetime.date.fromisoformat(date_str)
         days_since_epoch = d.toordinal() - _EPOCH_ORDINAL
-        return days_since_epoch * 86400 + 43200 + seq  # noon UTC
+        ts = days_since_epoch * 86400 + 43200 + seq  # noon UTC
+        return max(seq, ts)
     except Exception:
         return 0
 
