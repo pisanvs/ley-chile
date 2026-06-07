@@ -85,6 +85,8 @@ jobs:
       contents: write
     outputs:
       ran: ${{ steps.run.outputs.ran }}
+      cache_complete: ${{ steps.cache_check.outputs.cache_complete }}
+      missing: ${{ steps.cache_check.outputs.missing }}
 
     steps:
       - uses: actions/checkout@v4
@@ -168,6 +170,31 @@ jobs:
             for i in 1 2 3; do git push origin pipeline-cache && break || sleep $((i*3)); done
           )
 
+      - name: Check cache completeness early (skip shards if nothing to fetch)
+        id: cache_check
+        run: |
+          python - <<'EOF' | tee /tmp/cache_check.txt >> "$GITHUB_OUTPUT"
+          import sys
+          from pathlib import Path
+          sys.path.insert(0, "scripts")
+          from utils import load_graph, graph_exists
+          import compute_watermark
+
+          if not graph_exists("graph.json"):
+              # Graph isn't built yet (first run, or fetch-graph didn't produce
+              # one). Can't tell — let shards run to be safe.
+              print("cache_complete=false")
+              print("missing=unknown")
+              sys.exit(0)
+
+          graph = load_graph("graph.json")
+          stats = compute_watermark.compute_watermark(graph, Path("./cache"), W="")
+          print(f"cache_complete={'true' if stats['cache_complete'] else 'false'}")
+          print(f"missing={stats['missing']}")
+          EOF
+          echo "Pre-shard cache state:"
+          cat /tmp/cache_check.txt
+
       - name: Publish graph_shards to main when complete
         if: steps.run.outputs.ran == 'true'
         run: |
@@ -203,11 +230,16 @@ jobs:
   fetch-shard:
     name: "Fetch shard ${{ matrix.shard }}/${{ github.event.inputs.shard_count || 8 }}"
     needs: fetch-graph
+    # Skip shards when the cache is already complete — no normas to fetch
+    # means every shard would spin up a runner, check the cache, and exit
+    # with "no new data". Saves ~5 min/shard × 8 shards = 40min per run.
+    # An explicit phase=fetch-versions override always runs (user intent).
     if: |
       always() &&
       (github.event.inputs.phase == 'all' || github.event.inputs.phase == 'fetch-versions' || github.event.inputs.phase == '') &&
       github.event.inputs.phase != 'fetch-graph' &&
-      github.event.inputs.phase != 'consolidate-build'
+      github.event.inputs.phase != 'consolidate-build' &&
+      (github.event.inputs.phase == 'fetch-versions' || needs.fetch-graph.outputs.cache_complete != 'true')
     strategy:
       matrix:
         shard: [0, 1, 2, 3, 4, 5, 6, 7]
