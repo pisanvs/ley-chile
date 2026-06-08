@@ -468,10 +468,16 @@ def classify(titulo: str) -> str:
 def tipo_slug(tipo: str) -> str:
     """Normalize a norma tipo (LeyChile Spanish string or BCN slug) to a folder slug.
 
-    An empty tipo defaults to 'ley' so legacy callers keep working.
+    Empty tipo returns "unknown" — historically this defaulted to "ley",
+    which silently routed every type-less node into the leyes/ directory
+    and made the historial top level look like ~360k laws when the real
+    count is far smaller. With graph backfill, an empty tipo here means
+    genuine ambiguity (no metadata available), not a ley.
     """
     t = (tipo or "").strip().lower()
-    if t in ("", "ley"):
+    if not t:
+        return "unknown"
+    if t == "ley" or t == "lei":  # lei = archaic spelling
         return "ley"
     if t in ("dl", "decreto ley", "decreto-ley"):
         return "dl"
@@ -480,7 +486,7 @@ def tipo_slug(tipo: str) -> str:
     if t in ("dto", "decreto", "decreto supremo", "decreto-supremo"):
         return "dto"
     slug = re.sub(r"[^a-z0-9]+", "-", t).strip("-")
-    return slug or "otras"
+    return slug or "unknown"
 
 
 def _organismo_slug(organismo: str) -> str:
@@ -554,7 +560,11 @@ def law_dir(
 
     if slug == "ley":
         folder = "modificaciones" if is_modif else "leyes"
-        return root / folder / numero
+        # Guard against numero='' (would collapse multiple normas into the
+        # same root folder, overwriting each other's metadata.json).
+        has_numero = numero and numero.strip().lower() not in ("", "s/n", "sn")
+        key = numero if has_numero else (str(id_norma) if id_norma else "unknown")
+        return _collision_free_path(root / folder / key, id_norma)
 
     if slug == "dl":
         period = _dl_period_folder(fecha, fecha_promulgacion)
