@@ -340,6 +340,22 @@ jobs:
             git worktree add cache pipeline-cache
           fi
 
+      # ── restore graph from cache ────────────────────────────────────────
+      # The build operates on data_root/graph_shards/. pipeline-cache holds
+      # the canonical, possibly-newer version of these shards (e.g. after a
+      # backfill or a graph fetch in the previous job). If the cache shards
+      # are different from main's, mirror them into the workspace so the
+      # build sees the latest. Without this, the build can use stale data
+      # like tipo=null/numero=null even when the cache has been backfilled.
+      - name: Restore graph_shards from pipeline-cache
+        run: |
+          if [ -d ./cache/graph_shards ]; then
+            rm -rf ./graph_shards
+            cp -r ./cache/graph_shards .
+            echo "graph_shards restored from cache ($(ls graph_shards | wc -l) shards)"
+          fi
+          cp ./cache/catalog.json . 2>/dev/null || true
+
       # ── historial worktree ──────────────────────────────────────────────
       - name: Set up historial worktree
         run: |
