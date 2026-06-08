@@ -291,7 +291,9 @@ def _law_dir_from_node(node: dict, id_norma: int, data_root: Path) -> Path:
     )
 
 
-def _build_path_registry(graph: dict, data_root: Path) -> dict[str, Path]:
+def _build_path_registry(
+    graph: dict, data_root: Path, cache_file: Path | None = None
+) -> dict[str, Path]:
     """Pre-compute every norma's historial directory with collision resolution.
 
     `_collision_free_path` in utils.law_dir only works against a filesystem
@@ -304,7 +306,43 @@ def _build_path_registry(graph: dict, data_root: Path) -> dict[str, Path]:
 
     Walk the graph in id_norma order (deterministic). The first norma to
     claim a path keeps it; later collisions get `-{id_norma}` suffix.
+
+    On a memory-constrained machine the 357k-node pre-pass is expensive and
+    redundant across chunks of the same build. When `cache_file` is given,
+    the registry is loaded from it on subsequent calls (the relative paths
+    are recomputed against the current `data_root` so the cache is
+    portable). The cache key is the graph's node-set fingerprint, so a
+    different graph forces a rebuild.
     """
+    import pickle, hashlib
+
+    def fingerprint(g: dict) -> str:
+        # Stable over key set + a few fields that affect routing.
+        h = hashlib.sha256()
+        for k in sorted(g.keys(), key=lambda kk: int(kk) if kk.isdigit() else 0):
+            n = g[k]
+            sig = (
+                k,
+                n.get("tipo") or "",
+                n.get("numero") or "",
+                n.get("clasificacion") or "",
+                (n.get("organismos") or [""])[0],
+                n.get("fechaPublicacion") or "",
+            )
+            h.update(repr(sig).encode())
+        return h.hexdigest()[:16]
+
+    if cache_file and cache_file.exists():
+        try:
+            blob = pickle.loads(cache_file.read_bytes())
+            cached_fp = blob.get("fingerprint")
+            if cached_fp == fingerprint(graph):
+                rel_paths: dict[str, str] = blob["rel_paths"]
+                return {k: data_root / v for k, v in rel_paths.items()}
+            log.info("path_registry cache fingerprint mismatch — rebuilding")
+        except Exception as exc:
+            log.info("path_registry cache unreadable (%s) — rebuilding", exc)
+
     registry: dict[str, Path] = {}
     claimed: dict[Path, str] = {}
 
@@ -325,10 +363,20 @@ def _build_path_registry(graph: dict, data_root: Path) -> dict[str, Path]:
         rel = candidate.relative_to(data_root)
 
         if rel in claimed and claimed[rel] != id_norma_str:
-            # Collision: append id_norma suffix.
             rel = rel.parent / f"{rel.name}-{id_norma}"
         claimed[rel] = id_norma_str
         registry[id_norma_str] = data_root / rel
+
+    if cache_file:
+        try:
+            cache_file.parent.mkdir(parents=True, exist_ok=True)
+            cache_file.write_bytes(pickle.dumps({
+                "fingerprint": fingerprint(graph),
+                "rel_paths": {k: str(v.relative_to(data_root)) for k, v in registry.items()},
+            }, protocol=pickle.HIGHEST_PROTOCOL))
+            log.info("path_registry cached to %s", cache_file)
+        except Exception as exc:
+            log.warning("path_registry cache write failed: %s", exc)
 
     return registry
 
@@ -428,12 +476,15 @@ def _collect_events(
     from_date: str | None = None,
     to_date: str | None = None,
     path_registry: dict[str, Path] | None = None,
+    path_registry_cache: Path | None = None,
 ) -> list[CommitContext]:
     """Walk graph nodes; build one CommitContext per *causing* norma (cause-centered model)."""
     if cache_dir is None:
         cache_dir = data_root / "cache"
     if path_registry is None:
-        path_registry = _build_path_registry(graph, data_root)
+        path_registry = _build_path_registry(
+            graph, data_root, cache_file=path_registry_cache
+        )
 
     events_by_cause: dict[tuple, CommitContext] = {}
     seq = 0
@@ -807,6 +858,16 @@ def main() -> None:
             "in the middle of history."
         ),
     )
+    parser.add_argument(
+        "--path-registry-cache",
+        metavar="PATH",
+        default=None,
+        help=(
+            "Cache file for the pre-pass path registry (pickle). Skips the "
+            "357k-node rebuild on subsequent chunks. Defaults to "
+            "{cache_dir}/.path_registry.pkl."
+        ),
+    )
     args = parser.parse_args()
     if args.rebuild and args.append:
         parser.error("--rebuild and --append are mutually exclusive")
@@ -824,11 +885,20 @@ def main() -> None:
 
     # Collect events
     cache_dir = Path(args.cache_dir).resolve() if args.cache_dir else data_root / "cache"
+    # Path-registry cache: skip the 357k-node pre-pass on subsequent chunks
+    # of the same build. Default cache file lives inside cache_dir to share
+    # automatically across invocations of the same logical build.
+    registry_cache = (
+        Path(args.path_registry_cache)
+        if args.path_registry_cache
+        else cache_dir / ".path_registry.pkl"
+    )
     events = _collect_events(
         graph, data_root,
         cache_dir=cache_dir,
         from_date=args.from_date,
         to_date=args.to_date,
+        path_registry_cache=registry_cache,
     )
     log.info("Collected %d version events", len(events))
 

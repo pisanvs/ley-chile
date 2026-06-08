@@ -29,10 +29,8 @@ name: Pipeline
 # └──────────────────────────────────────────────────────────────────────┘
 
 on:
-  # schedule cron is PAUSED while we iterate on the build locally.
-  # Re-enable by uncommenting the schedule block below when ready to resume.
-  # schedule:
-  #   - cron: "0 */3 * * *"    # every 3 hours
+  schedule:
+    - cron: "0 */3 * * *"    # every 3 hours
   workflow_dispatch:
     inputs:
       phase:

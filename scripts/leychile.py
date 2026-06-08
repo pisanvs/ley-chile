@@ -243,6 +243,8 @@ def cmd_build(args: argparse.Namespace) -> int:
         bh_args += ["--to", args.to_date]
     if args.skip_final_chore:
         bh_args.append("--skip-final-chore")
+    if args.path_registry_cache:
+        bh_args += ["--path-registry-cache", args.path_registry_cache]
     _run_script_main("build_history", bh_args)
 
     _notify(args.notify_url, "leychile build done",
@@ -450,6 +452,8 @@ def build_parser() -> argparse.ArgumentParser:
                      help="Only include causes with date <= DATE (inclusive, YYYY-MM-DD)")
     p_b.add_argument("--skip-final-chore", action="store_true",
                      help="Skip the 'Fin del historial' marker (chunked builds invoke this script multiple times)")
+    p_b.add_argument("--path-registry-cache", metavar="PATH", default=None,
+                     help="Cache file for the path registry (pickle). Default: {cache_dir}/.path_registry.pkl")
     p_b.set_defaults(func=cmd_build)
 
     # -- verify --
