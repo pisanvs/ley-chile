@@ -54,6 +54,10 @@ on:
         description: "Compute watermark but do not push historial or README"
         type: boolean
         default: false
+      full_rebuild:
+        description: "Force a from-scratch chunked rebuild of historial (wipes origin/historial)"
+        type: boolean
+        default: false
       notify_url:
         description: "ntfy.sh webhook URL for completion notification"
         default: ""
@@ -465,20 +469,21 @@ jobs:
               print(f"Cache complete: all {stats['total']} normas have diffs. Building historial.")
           EOF
 
-      # ── Build & push historial in date-bounded chunks ───────────────────
+      # ── Build & push historial ──────────────────────────────────────────
       # Gate: BOTH cache_complete AND watermark_advanced must be true.
       #
-      # Architecture: instead of building the entire 360k-commit historial
-      # locally then pushing 3.88GB in one shot (which lost 2h of work every
-      # time HTTP 500 hit), we build and push in date-bounded chunks. Each
-      # chunk is independently pushable, and failure at chunk K only loses
-      # chunk K's work — chunks 1..K-1 are already on origin.
+      # Two modes:
       #
-      # Chunk 1 uses --rebuild (atomic in-stream `reset` wipes the branch).
-      # Chunks 2..N use --append (fast-forward extension). Pushes after the
-      # first are plain fast-forwards — no --force, no force-with-lease,
-      # which is the wire protocol's happy path.
-      - name: Build & push historial in chunks
+      #   INCREMENTAL (default): if origin/historial already has commits,
+      #   compute W = date of latest commit, then build only events with
+      #   date > W as a single --append. This is the steady-state — typical
+      #   incremental publishes a handful of commits per cron tick.
+      #
+      #   FULL REBUILD: triggered by `full_rebuild=true` workflow_dispatch
+      #   input, or when origin/historial doesn't exist / is empty.
+      #   Wipes the remote ref and rebuilds in 10 date-bounded chunks so
+      #   failures lose at most one chunk's work.
+      - name: Build & push historial
         if: |
           steps.watermark.outputs.cache_complete == 'true' &&
           steps.watermark.outputs.watermark_advanced == 'true' &&
@@ -486,50 +491,17 @@ jobs:
         run: |
           set -euo pipefail
 
-          # Big-pack push config (defensive — fast-forward pushes shouldn't
-          # need this, but cheap insurance).
+          # Big-pack push config (defensive).
           git config http.postBuffer 2147483648
           git config http.lowSpeedLimit 1000
           git config http.lowSpeedTime 600
-
-          # Date boundaries for chunked rebuild. Inclusive on the right end
-          # of each chunk; --from is exclusive so consecutive chunks don't
-          # overlap. Tune downward (more boundaries) if any individual chunk
-          # is too large to push reliably.
-          BOUNDARIES=(
-            "1900-12-31"
-            "1950-12-31"
-            "1973-12-31"
-            "1990-12-31"
-            "2000-12-31"
-            "2010-12-31"
-            "2015-12-31"
-            "2020-12-31"
-            "2024-12-31"
-            "2027-12-31"
-          )
-
-          # Wipe stale origin/historial. The prior tip points at an unrelated
-          # orphan commit (4b877ccedc), which may be a contributor to the
-          # HTTPS-500-on-force-push pathology. Starting from no ref means
-          # chunk 1's push CREATES the branch, no force needed.
-          echo "Wiping stale origin/historial..."
-          git push origin --delete historial 2>&1 \
-            || echo "  (no prior historial or delete refused; continuing)"
 
           push_historial() {
             local label="$1"
             local local_sha
             local_sha=$(git rev-parse refs/heads/historial)
             for attempt in 1 2 3 4 5; do
-              # --force: defensive. We hold the historial-write concurrency
-              # lock so no one else is touching the ref. After chunk 1 creates
-              # the branch, subsequent pushes are natural fast-forwards (force
-              # is a no-op then). For chunk 1, --force handles the case where
-              # the pre-loop delete refused for any reason.
               if git push --force origin historial 2>&1; then
-                # Verify ref advanced (git can print "Everything up-to-date"
-                # with exit 0 after mid-stream RPC failures).
                 local remote_sha
                 remote_sha=$(git ls-remote origin refs/heads/historial 2>/dev/null | awk '{print $1}' || true)
                 if [ "$remote_sha" = "$local_sha" ]; then
@@ -544,6 +516,66 @@ jobs:
             return 1
           }
 
+          # ── Decide mode ────────────────────────────────────────────────
+          FORCE_FULL="${{ github.event.inputs.full_rebuild || 'false' }}"
+          REMOTE_TIP=$(git ls-remote origin refs/heads/historial 2>/dev/null | awk '{print $1}' || true)
+          LOCAL_W=$(git log --format=%ci -1 refs/heads/historial 2>/dev/null | cut -c1-10 || true)
+          # Count real norma dirs from the ref itself (worktree files may be
+          # stale from a prior build — fast-import updates the ref but doesn't
+          # sync the worktree checkout).
+          NORMA_DIRS=$(git ls-tree --name-only -r refs/heads/historial 2>/dev/null | grep -c '/metadata\.json$' || echo 0)
+          echo "Pre-build state: remote_tip=$REMOTE_TIP  local_W=$LOCAL_W  norma_dirs=$NORMA_DIRS  force_full=$FORCE_FULL"
+
+          if [ "$FORCE_FULL" = "true" ] || [ -z "$REMOTE_TIP" ] || [ "$NORMA_DIRS" -lt 100 ]; then
+            MODE="full"
+          else
+            MODE="incremental"
+          fi
+          echo "Mode: $MODE"
+
+          # ── INCREMENTAL ────────────────────────────────────────────────
+          if [ "$MODE" = "incremental" ]; then
+            echo "=== Incremental build: events with date > $LOCAL_W ==="
+            python scripts/leychile.py build \
+              --data-root . --cache-dir ./cache \
+              --append --from "$LOCAL_W" \
+              --enrichers tramitacion
+
+            # If no events landed, build_history exits without writing — the
+            # local ref didn't change. Detect by comparing local vs remote.
+            LOCAL_SHA=$(git rev-parse refs/heads/historial)
+            if [ "$LOCAL_SHA" = "$REMOTE_TIP" ]; then
+              echo "No new events since $LOCAL_W — nothing to push."
+              exit 0
+            fi
+
+            echo "--- Pushing incremental update ---"
+            if ! push_historial "incremental from $LOCAL_W"; then
+              echo "ERROR: incremental push exhausted retries"
+              exit 1
+            fi
+            echo "=== Incremental build pushed successfully ==="
+            exit 0
+          fi
+
+          # ── FULL REBUILD (chunked) ─────────────────────────────────────
+          BOUNDARIES=(
+            "1900-12-31"
+            "1950-12-31"
+            "1973-12-31"
+            "1990-12-31"
+            "2000-12-31"
+            "2010-12-31"
+            "2015-12-31"
+            "2020-12-31"
+            "2024-12-31"
+            "2027-12-31"
+          )
+
+          echo "Wiping stale origin/historial (full rebuild)..."
+          git push origin --delete historial 2>&1 \
+            || echo "  (no prior historial or delete refused; continuing)"
+
           LAST_INDEX=$((${#BOUNDARIES[@]} - 1))
           PREV=""
 
@@ -553,7 +585,6 @@ jobs:
             IS_LAST_CHUNK="false"
             [ "$i" = "$LAST_INDEX" ] && IS_LAST_CHUNK="true"
 
-            # All chunks except the last skip the chore-final marker.
             CHORE_FLAG="--skip-final-chore"
             [ "$IS_LAST_CHUNK" = "true" ] && CHORE_FLAG=""
 
@@ -574,7 +605,6 @@ jobs:
                 --enrichers tramitacion
             fi
 
-            # Verify the branch has commits to push.
             if ! git rev-parse refs/heads/historial >/dev/null 2>&1; then
               echo "ERROR: chunk $CHUNK_NUM produced no historial branch"
               exit 1

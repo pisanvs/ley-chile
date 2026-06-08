@@ -104,7 +104,17 @@ def _check_historial_against_graph(
     """
     inconsistencies: list[str] = []
     real_dirs = 0
-    for meta in historial_dir.glob("*/*/metadata.json"):
+    # rglob recurses to any depth — necessary because law_dir produces paths
+    # at varying nesting: leyes/{N}/metadata.json (2 levels),
+    # dfl/{org}/{N}/metadata.json (3 levels), etc/{tipo}/{N}/metadata.json
+    # (3 levels). The previous glob "*/*/metadata.json" only matched 2-level
+    # paths and missed every DFL/DTO/etc-routed norma — that's why the
+    # README progress bar appeared stuck around 22%.
+    for meta in historial_dir.rglob("metadata.json"):
+        # Skip anything inside .git/ defensively (rglob normally wouldn't
+        # descend into a sibling .git but worktrees can put symlinks weird).
+        if ".git" in meta.parts:
+            continue
         real_dirs += 1
         try:
             payload = json.loads(meta.read_text(encoding="utf-8"))
