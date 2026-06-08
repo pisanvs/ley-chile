@@ -291,6 +291,48 @@ def _law_dir_from_node(node: dict, id_norma: int, data_root: Path) -> Path:
     )
 
 
+def _build_path_registry(graph: dict, data_root: Path) -> dict[str, Path]:
+    """Pre-compute every norma's historial directory with collision resolution.
+
+    `_collision_free_path` in utils.law_dir only works against a filesystem
+    that already has the conflicting metadata.json — useless during
+    fast-import, which builds a tree in-memory. Without a pre-pass registry,
+    two normas with the same (slug, numero) collide silently:
+    norma 179583 (res N°20, MUNICIPALIDAD DE TOCOPILLA, 2000) and
+    norma 1163150 (res N°20, DGA, 2021) both wrote to etc/res/20/, and the
+    second commit overwrote the first.
+
+    Walk the graph in id_norma order (deterministic). The first norma to
+    claim a path keeps it; later collisions get `-{id_norma}` suffix.
+    """
+    registry: dict[str, Path] = {}
+    claimed: dict[Path, str] = {}
+
+    def _sort_key(k: str) -> int:
+        try:
+            return int(k)
+        except ValueError:
+            return 0
+
+    for id_norma_str in sorted(graph.keys(), key=_sort_key):
+        node = graph[id_norma_str]
+        try:
+            id_norma = int(id_norma_str)
+        except ValueError:
+            continue
+
+        candidate = _law_dir_from_node(node, id_norma, data_root)
+        rel = candidate.relative_to(data_root)
+
+        if rel in claimed and claimed[rel] != id_norma_str:
+            # Collision: append id_norma suffix.
+            rel = rel.parent / f"{rel.name}-{id_norma}"
+        claimed[rel] = id_norma_str
+        registry[id_norma_str] = data_root / rel
+
+    return registry
+
+
 # ---------------------------------------------------------------------------
 # Event collection — graph.json + cache/diffs/
 # ---------------------------------------------------------------------------
@@ -385,10 +427,13 @@ def _collect_events(
     cache_dir: Path | None = None,
     from_date: str | None = None,
     to_date: str | None = None,
+    path_registry: dict[str, Path] | None = None,
 ) -> list[CommitContext]:
     """Walk graph nodes; build one CommitContext per *causing* norma (cause-centered model)."""
     if cache_dir is None:
         cache_dir = data_root / "cache"
+    if path_registry is None:
+        path_registry = _build_path_registry(graph, data_root)
 
     events_by_cause: dict[tuple, CommitContext] = {}
     seq = 0
@@ -403,7 +448,13 @@ def _collect_events(
         if not diffs:
             continue
 
-        rel_dir = _law_dir_from_node(node, id_norma, data_root).relative_to(data_root)
+        # Use the pre-pass registry (collision-resolved) instead of computing
+        # paths on the fly. Falls back to law_dir for normas not in the
+        # registry (shouldn't happen if registry covers the full graph).
+        reg_path = path_registry.get(id_norma_str)
+        if reg_path is None:
+            reg_path = _law_dir_from_node(node, id_norma, data_root)
+        rel_dir = reg_path.relative_to(data_root)
         derogado = node.get("derogado", False)
 
         for i, entry in enumerate(diffs):
@@ -494,9 +545,11 @@ def _collect_events(
                         succ_id = int(next(
                             (k for k, v in graph.items() if v is succ_node), 0
                         ))
-                        succ_rel = _law_dir_from_node(
-                            succ_node, succ_id, data_root
-                        ).relative_to(data_root)
+                        # Use registry for the successor too
+                        succ_reg = path_registry.get(str(succ_id))
+                        if succ_reg is None:
+                            succ_reg = _law_dir_from_node(succ_node, succ_id, data_root)
+                        succ_rel = succ_reg.relative_to(data_root)
                         symlinks[str(rel_dir)] = str(succ_rel)
                 events_by_cause[key].deletes.extend(all_paths)
                 events_by_cause[key].symlinks.update(symlinks)
