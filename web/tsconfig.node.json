@@ -3,9 +3,14 @@
     "composite": true,
     "skipLibCheck": true,
     "module": "ESNext",
+    "target": "ES2022",
+    "lib": ["ES2022"],
     "moduleResolution": "bundler",
     "allowSyntheticDefaultImports": true,
-    "strict": true
+    "esModuleInterop": true,
+    "strict": true,
+    "outDir": ".tsc-node",
+    "declarationDir": ".tsc-node"
   },
   "include": ["vite.config.ts", "vitest.config.ts"]
 }
