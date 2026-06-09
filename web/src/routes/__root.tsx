@@ -1,17 +1,18 @@
-import { createRootRoute, Link, Outlet } from '@tanstack/react-router'
+import { createRootRoute, Outlet } from '@tanstack/react-router'
+import { CmdKProvider } from '@/components/CmdK'
+import { TopBar } from '@/components/TopBar'
 
 export const Route = createRootRoute({
-  component: () => (
-    <div className="min-h-screen flex flex-col">
-      <header className="border-b border-ink/10 px-6 py-3 flex items-center gap-4">
-        <Link to="/" className="font-display text-lg tracking-tight">
-          ley<span className="text-ruby">·</span>chile
-        </Link>
-        <span className="text-xs uppercase tracking-widest opacity-50">
-          corpus jurídico en vivo
-        </span>
-      </header>
-      <main className="flex-1"><Outlet /></main>
-    </div>
-  ),
+  component: RootLayout,
 })
+
+function RootLayout() {
+  return (
+    <CmdKProvider>
+      <div className="min-h-screen flex flex-col bg-paper">
+        <TopBar />
+        <main className="flex-1 flex flex-col"><Outlet /></main>
+      </div>
+    </CmdKProvider>
+  )
+}

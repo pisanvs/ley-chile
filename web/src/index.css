@@ -1,18 +1,170 @@
 @import "tailwindcss";
 
+@import "@fontsource-variable/fraunces/index.css";
+@import "@fontsource-variable/lora/index.css";
+@import "@fontsource-variable/inter/index.css";
+@import "@fontsource/jetbrains-mono/400.css";
+@import "@fontsource/jetbrains-mono/500.css";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
 @theme {
+  /* Paper / ink — base. Tints derived for layered surfaces. */
   --color-paper: #fbf8f1;
+  --color-paper-sunk: #f3eee0;
+  --color-paper-raised: #ffffff;
   --color-ink: #171513;
+  --color-ink-soft: #4a443e;
+  --color-ink-faint: #8a8278;
+  --color-rule: #e6dfd0;
+
+  /* Accents. Ruby for deletions / civic emphasis; moss for additions /
+     organic emphasis; indigo for institutional links; gold for highlights. */
   --color-ruby: #c5283d;
+  --color-ruby-soft: #f3d6dc;
   --color-moss: #3f6634;
+  --color-moss-soft: #d6e2cd;
   --color-indigo: #1d3557;
+  --color-indigo-soft: #d2dbe7;
   --color-gold: #c9a227;
 
-  --font-display: "Fraunces", Georgia, serif;
-  --font-body: "Lora", Georgia, serif;
-  --font-ui: "Inter Tight", system-ui, sans-serif;
+  /* Type. Fraunces for display, Lora for legislative body text,
+     Inter for UI chrome, JetBrains Mono for code/source view. */
+  --font-display: "Fraunces Variable", Fraunces, Georgia, serif;
+  --font-body: "Lora Variable", Lora, Georgia, serif;
+  --font-ui: "Inter Variable", Inter, system-ui, sans-serif;
   --font-mono: "JetBrains Mono", ui-monospace, monospace;
 }
 
-html { background: var(--color-paper); color: var(--color-ink); }
-body { font-family: var(--font-ui); }
+/* Dark mode overrides — same token names, inverted values. Tailwind v4
+   reads var(--color-X) from @theme; we override the underlying CSS vars
+   on .dark to flip the palette without rewriting any utility classes. */
+.dark {
+  --color-paper: #15140f;
+  --color-paper-sunk: #0e0d0a;
+  --color-paper-raised: #1d1b16;
+  --color-ink: #f0ece2;
+  --color-ink-soft: #b8b1a3;
+  --color-ink-faint: #6f6a5e;
+  --color-rule: #2a2820;
+  --color-ruby: #e85f72;
+  --color-ruby-soft: #3b1e25;
+  --color-moss: #8aaf7e;
+  --color-moss-soft: #1f2a1c;
+  --color-indigo: #91a6c4;
+  --color-indigo-soft: #1a2233;
+  --color-gold: #d9b948;
+}
+
+html {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  color-scheme: light dark;
+  font-feature-settings: "ss01", "ss02";
+}
+
+body {
+  font-family: var(--font-ui);
+  font-feature-settings: "cv11", "ss01";
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Long-form legal text. Lora body, generous measure, tight headings. */
+.prose-reader {
+  font-family: var(--font-body);
+  font-optical-sizing: auto;
+  color: var(--color-ink);
+}
+.prose-reader h1,
+.prose-reader h2,
+.prose-reader h3,
+.prose-reader h4 {
+  font-family: var(--font-display);
+  font-optical-sizing: auto;
+  letter-spacing: -0.01em;
+  color: var(--color-ink);
+}
+.prose-reader p {
+  margin-block: 0.85em;
+  text-wrap: pretty;
+}
+.prose-reader em { color: var(--color-ink-soft); }
+
+/* Redline. <ins> = added word/run; <del> = removed word/run. */
+.redline ins {
+  text-decoration: none;
+  background: var(--color-moss-soft);
+  border-bottom: 1.5px solid var(--color-moss);
+  padding-inline: 0.1em;
+  color: var(--color-ink);
+}
+.redline del {
+  text-decoration: line-through;
+  text-decoration-color: var(--color-ruby);
+  text-decoration-thickness: 1.5px;
+  background: var(--color-ruby-soft);
+  padding-inline: 0.1em;
+  color: var(--color-ink-soft);
+}
+
+/* Subtle scrollbar in the rails so they don't fight with the reader. */
+.scrollbar-quiet::-webkit-scrollbar { width: 8px; height: 8px; }
+.scrollbar-quiet::-webkit-scrollbar-thumb {
+  background: var(--color-rule);
+  border-radius: 4px;
+}
+.scrollbar-quiet::-webkit-scrollbar-track { background: transparent; }
+
+/* Year ribbon: each cell is a tiny rect colored by legislative volume. */
+.year-cell {
+  fill: var(--color-rule);
+  transition: fill 120ms ease;
+}
+.year-cell[data-density="1"] { fill: color-mix(in oklab, var(--color-indigo) 12%, var(--color-rule)); }
+.year-cell[data-density="2"] { fill: color-mix(in oklab, var(--color-indigo) 28%, var(--color-rule)); }
+.year-cell[data-density="3"] { fill: color-mix(in oklab, var(--color-indigo) 50%, var(--color-rule)); }
+.year-cell[data-density="4"] { fill: color-mix(in oklab, var(--color-indigo) 72%, var(--color-rule)); }
+.year-cell[data-density="5"] { fill: var(--color-indigo); }
+.year-cell.active { fill: var(--color-ruby); }
+
+/* Cmd-K command bar (cmdk). */
+[cmdk-root] { --cmdk-bg: var(--color-paper-raised); }
+[cmdk-input] {
+  width: 100%;
+  padding: 0.85rem 1rem;
+  background: transparent;
+  outline: none;
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+  border-bottom: 1px solid var(--color-rule);
+  color: var(--color-ink);
+}
+[cmdk-list] { max-height: 360px; overflow: auto; padding: 0.35rem; }
+[cmdk-item] {
+  padding: 0.55rem 0.7rem;
+  border-radius: 0.4rem;
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  color: var(--color-ink);
+}
+[cmdk-item][data-selected="true"] { background: var(--color-paper-sunk); }
+[cmdk-empty] {
+  padding: 1rem;
+  text-align: center;
+  color: var(--color-ink-faint);
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+}
+
+/* Light entry animations — nothing heavy. */
+@keyframes lc-fade-up {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.lc-fade-up { animation: lc-fade-up 360ms ease both; }
