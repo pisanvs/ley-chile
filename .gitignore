@@ -7,3 +7,10 @@ venv/
 .DS_Store
 .claude/
 historial/
+
+# Frontend
+web/node_modules/
+web/.vite/
+web/dist-ssr/
+web/public/idx/
+# NOTE: web/dist/ is a git worktree on the `pages` branch — DO NOT ignore
