@@ -6,6 +6,7 @@ venv/
 *.log
 .DS_Store
 .claude/
+.superpowers/
 historial/
 
 # Frontend
@@ -13,4 +14,7 @@ web/node_modules/
 web/.vite/
 web/dist-ssr/
 web/public/idx/
+web/*.tsbuildinfo
+web/vite.config.d.ts
+web/vite.config.js
 # NOTE: web/dist/ is a git worktree on the `pages` branch — DO NOT ignore
