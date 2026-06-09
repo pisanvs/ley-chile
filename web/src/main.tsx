@@ -11,7 +11,9 @@ const queryClient = new QueryClient({
   },
 })
 
-const router = createRouter({ routeTree, context: { queryClient } })
+const rawBase = import.meta.env.BASE_URL || '/'
+const basepath = rawBase.endsWith('/') && rawBase !== '/' ? rawBase.slice(0, -1) : rawBase
+const router = createRouter({ routeTree, context: { queryClient }, basepath })
 
 declare module '@tanstack/react-router' {
   interface Register { router: typeof router }
