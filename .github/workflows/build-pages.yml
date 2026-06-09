@@ -7,20 +7,51 @@ on:
     workflows: ["Pipeline"]
     types: [completed]
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Allow one concurrent deployment, but don't cancel in-progress runs as we
-# want to allow these production deployments to complete.
 concurrency:
   group: pages
   cancel-in-progress: false
 
 jobs:
+  resolve:
+    runs-on: ubuntu-latest
+    outputs:
+      historial_sha: ${{ steps.r.outputs.historial_sha }}
+      last_built_sha: ${{ steps.r.outputs.last_built_sha }}
+      should_build: ${{ steps.r.outputs.should_build }}
+    steps:
+      - id: r
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          historial_sha=$(gh api "repos/${{ github.repository }}/branches/historial" --jq '.commit.sha')
+          echo "historial_sha=$historial_sha" >> "$GITHUB_OUTPUT"
+
+          # Last-built historial SHA is encoded in the pages-branch HEAD commit
+          # message as "build: <sha>". Pages branch may not exist on the very
+          # first run, so tolerate failure.
+          last_built_sha=""
+          if msg=$(gh api "repos/${{ github.repository }}/branches/pages" --jq '.commit.commit.message' 2>/dev/null); then
+            last_built_sha=$(printf '%s\n' "$msg" | head -n1 | awk '{print $2}')
+          fi
+          echo "last_built_sha=$last_built_sha" >> "$GITHUB_OUTPUT"
+
+          if [ "$historial_sha" = "$last_built_sha" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+            echo "should_build=false" >> "$GITHUB_OUTPUT"
+            echo "Historial sha unchanged ($historial_sha) — skipping rebuild."
+          else
+            echo "should_build=true" >> "$GITHUB_OUTPUT"
+            echo "Will rebuild: historial=$historial_sha, last=$last_built_sha"
+          fi
+
   build:
+    needs: resolve
+    if: needs.resolve.outputs.should_build == 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main (sparse — code only)
@@ -34,12 +65,37 @@ jobs:
             requirements.txt
           sparse-checkout-cone-mode: false
 
-      - name: Checkout historial (data)
-        uses: actions/checkout@v4
+      # Try to restore a cached historial worktree. Exact-SHA hit → no fetch.
+      # Older SHA hit (via restore-keys) → warm base, then `git fetch` tops it up.
+      - name: Restore historial cache
+        id: hist-cache
+        uses: actions/cache@v4
         with:
-          ref: historial
           path: historial
-          fetch-depth: 0
+          key: historial-${{ needs.resolve.outputs.historial_sha }}
+          restore-keys: |
+            historial-
+
+      - name: Fetch / update historial
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          target_sha="${{ needs.resolve.outputs.historial_sha }}"
+          repo_url="https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
+
+          if [ ! -d historial/.git ]; then
+            echo "Cold start — full clone (this is the slow path)."
+            git clone --branch historial --single-branch "$repo_url" historial
+          else
+            echo "Warm cache — incremental fetch."
+            git -C historial remote set-url origin "$repo_url"
+            git -C historial fetch --no-tags origin historial
+            git -C historial checkout --force --detach "$target_sha"
+            git -C historial reset --hard "$target_sha"
+          fi
+
+          echo "Historial at $(git -C historial rev-parse HEAD)"
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -83,7 +139,6 @@ jobs:
         with:
           path: code/web/dist
 
-  # Deployment job
   deploy:
     needs: build
     runs-on: ubuntu-latest
