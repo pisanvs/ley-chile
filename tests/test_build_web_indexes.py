@@ -10,6 +10,7 @@ from scripts.build_web_indexes import (
     commits_index_path,
     Commit,
     aggregate_manifest,
+    _causa_from_message,
 )
 
 
@@ -61,6 +62,20 @@ def test_aggregate_manifest_counts_and_year_range():
     assert m["versions_count"] == 3
     assert m["year_min"] == 1973
     assert m["year_max"] == 2015
+
+
+def test_causa_from_message_reads_body_trailer():
+    subject = "Ley N°20338 publicada (2015-06-01)"
+    body = "Modifica la Ley de Becas\n\nBCN idNorma=20808"
+    assert _causa_from_message(subject, body) == 20808
+
+
+def test_causa_from_message_handles_missing():
+    assert _causa_from_message("Subject only", "") == 0
+
+
+def test_causa_from_message_falls_back_to_subject():
+    assert _causa_from_message("[idNorma=42] something", "") == 42
 
 
 def test_aggregate_manifest_handles_empty():

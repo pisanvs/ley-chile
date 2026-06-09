@@ -4,7 +4,7 @@ on:
     branches: [historial]
   workflow_dispatch:
   workflow_run:
-    workflows: ["pipeline"]
+    workflows: ["Pipeline"]
     types: [completed]
 
 concurrency:

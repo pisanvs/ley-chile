@@ -1,4 +1,5 @@
 import ReactMarkdown from 'react-markdown'
+import remarkGfm from 'remark-gfm'
 import { useQuery } from '@tanstack/react-query'
 import { fetchRawText } from '@/lib/rawtext'
 
@@ -15,6 +16,7 @@ export function CleanReader({ sha, relDir }: Props) {
   return (
     <article className="prose-reader font-body leading-relaxed text-[15px] max-w-none">
       <ReactMarkdown
+        remarkPlugins={[remarkGfm]}
         components={{
           h1: ({ children }) => <h1 className="font-display text-2xl mt-8 mb-3">{children}</h1>,
           h2: ({ children }) => <h2 className="font-display text-xl mt-6 mb-2">{children}</h2>,

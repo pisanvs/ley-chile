@@ -7,10 +7,13 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import subprocess
 from dataclasses import dataclass, asdict
 from pathlib import Path
 from typing import Any
+
+_CAUSA_RE = re.compile(r"\bidNorma=(\d+)\b")
 
 
 @dataclass(frozen=True)
@@ -67,24 +70,31 @@ def aggregate_manifest(commits: dict[int, list[Commit]], *, repo: str) -> dict[s
     }
 
 
-def _git_log_for_path(historial: Path, rel_path: str) -> list[tuple[str, str, str]]:
-    """Return [(sha, iso_date, subject), ...] of commits touching rel_path on the historial branch."""
+def _git_log_for_path(historial: Path, rel_path: str) -> list[tuple[str, str, str, str]]:
+    """Return [(sha, iso_date, subject, body), ...] of commits touching rel_path on historial.
+
+    Uses NUL-record separation so multi-line bodies parse cleanly.
+    """
     out = subprocess.check_output(
-        ["git", "-C", str(historial), "log", "--format=%H%x09%cs%x09%s", "--", rel_path],
+        ["git", "-C", str(historial), "log", "-z",
+         "--format=%H%x01%cs%x01%s%x01%b", "--", rel_path],
         text=True,
     )
-    rows: list[tuple[str, str, str]] = []
-    for line in out.strip().splitlines():
-        sha, date, subject = line.split("\t", 2)
-        rows.append((sha, date, subject))
+    rows: list[tuple[str, str, str, str]] = []
+    for record in out.split("\x00"):
+        if not record.strip():
+            continue
+        parts = record.split("\x01", 3)
+        if len(parts) != 4:
+            continue
+        sha, date, subject, body = parts
+        rows.append((sha, date, subject, body))
     return rows
 
 
-def _causa_from_subject(subject: str) -> int:
-    """Best-effort: extract the causa idNorma from a commit subject. Pipeline writes `... id=NNN ...`
-    as a stable trailer; fall back to 0 if not present."""
-    import re
-    m = re.search(r"\bid=(\d+)\b", subject)
+def _causa_from_message(subject: str, body: str) -> int:
+    """Extract the causa idNorma. build_history.py writes `BCN idNorma=NNN` in the body."""
+    m = _CAUSA_RE.search(body) or _CAUSA_RE.search(subject)
     return int(m.group(1)) if m else 0
 
 
@@ -103,9 +113,9 @@ def build(*, historial: Path, out_dir: Path, repo: str) -> dict[str, Any]:
         rel_dir = meta_path.parent.relative_to(historial).as_posix()
         rows = _git_log_for_path(historial, rel_dir + "/texto.md")
         commit_list = [
-            Commit(sha=sha, date=date, causa_id=_causa_from_subject(subject),
+            Commit(sha=sha, date=date, causa_id=_causa_from_message(subject, body),
                    subject=subject, magnitude=0)
-            for sha, date, subject in rows
+            for sha, date, subject, body in rows
         ]
         commits_by_id[norma.id_norma] = commit_list
 
