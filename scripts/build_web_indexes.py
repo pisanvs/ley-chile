@@ -70,64 +70,94 @@ def aggregate_manifest(commits: dict[int, list[Commit]], *, repo: str) -> dict[s
     }
 
 
-def _git_log_for_path(historial: Path, rel_path: str) -> list[tuple[str, str, str, str]]:
-    """Return [(sha, iso_date, subject, body), ...] of commits touching rel_path on historial.
-
-    Uses NUL-record separation so multi-line bodies parse cleanly.
-    """
-    out = subprocess.check_output(
-        ["git", "-C", str(historial), "log", "-z",
-         "--format=%H%x01%cs%x01%s%x01%b", "--", rel_path],
-        text=True,
-    )
-    rows: list[tuple[str, str, str, str]] = []
-    for record in out.split("\x00"):
-        if not record.strip():
-            continue
-        parts = record.split("\x01", 3)
-        if len(parts) != 4:
-            continue
-        sha, date, subject, body = parts
-        rows.append((sha, date, subject, body))
-    return rows
-
-
 def _causa_from_message(subject: str, body: str) -> int:
     """Extract the causa idNorma. build_history.py writes `BCN idNorma=NNN` in the body."""
     m = _CAUSA_RE.search(body) or _CAUSA_RE.search(subject)
     return int(m.group(1)) if m else 0
 
 
+_REC = "__LCH_REC__"
+_END = "__LCH_END__"
+
+
+def _walk_history(historial: Path) -> list[tuple[str, str, str, str, list[str]]]:
+    """Single bulk `git log` pass.
+
+    Returns [(sha, iso_date, subject, body, [touched_files...]), ...] in git-log order
+    (newest first). Uses sentinel-delimited custom format so multi-line bodies and the
+    file list (from --name-only) parse cleanly in one stream.
+    """
+    fmt = f"{_REC}%H\x01%cs\x01%s\x01%b{_END}"
+    out = subprocess.check_output(
+        ["git", "-C", str(historial), "log",
+         f"--format={fmt}", "--name-only", "--diff-filter=ACMRT"],
+        text=True,
+    )
+    rows: list[tuple[str, str, str, str, list[str]]] = []
+    for block in out.split(_REC)[1:]:
+        head, _, tail = block.partition(_END)
+        parts = head.split("\x01", 3)
+        if len(parts) != 4:
+            continue
+        sha, date, subject, body = parts
+        files = [line for line in tail.splitlines() if line.strip()]
+        rows.append((sha, date, subject, body, files))
+    return rows
+
+
 def build(*, historial: Path, out_dir: Path, repo: str) -> dict[str, Any]:
-    """CLI entry point. Walks historial worktree, emits shards under out_dir.
+    """CLI entry point. Two passes: working-tree metadata scan + single bulk git log.
 
     Filesystem + git heavy — NOT covered by unit tests."""
-    commits_by_id: dict[int, list[Commit]] = {}
-
-    # Walk every leaf metadata.json (one per law dir)
+    # Pass 1: working-tree walk → rel_dir → NormaMetadata
+    by_dir: dict[str, NormaMetadata] = {}
     for meta_path in sorted(historial.glob("**/metadata.json")):
         if "cache/" in meta_path.as_posix():
             continue
-        meta = json.loads(meta_path.read_text())
-        norma = parse_metadata(meta)
+        try:
+            meta = json.loads(meta_path.read_text())
+        except (OSError, json.JSONDecodeError):
+            continue
         rel_dir = meta_path.parent.relative_to(historial).as_posix()
-        rows = _git_log_for_path(historial, rel_dir + "/texto.md")
-        commit_list = [
-            Commit(sha=sha, date=date, causa_id=_causa_from_message(subject, body),
-                   subject=subject, magnitude=0)
-            for sha, date, subject, body in rows
-        ]
-        commits_by_id[norma.id_norma] = commit_list
+        by_dir[rel_dir] = parse_metadata(meta)
+    by_id: dict[int, tuple[str, NormaMetadata]] = {
+        nm.id_norma: (d, nm) for d, nm in by_dir.items()
+    }
 
-        shard_path = commits_index_path(out_dir, id_norma=norma.id_norma)
-        shard_path.parent.mkdir(parents=True, exist_ok=True)
-        shard_path.write_text(json.dumps({
+    # Pass 2: single bulk git log, distribute commits to laws by touched texto.md
+    commits_by_id: dict[int, list[Commit]] = {nm_id: [] for nm_id in by_id}
+    for sha, date, subject, body, files in _walk_history(historial):
+        causa_id = _causa_from_message(subject, body)
+        seen: set[int] = set()
+        for f in files:
+            if not f.endswith("/texto.md"):
+                continue
+            rel_dir = f[: -len("/texto.md")]
+            norma = by_dir.get(rel_dir)
+            if not norma or norma.id_norma in seen:
+                continue
+            seen.add(norma.id_norma)
+            commits_by_id[norma.id_norma].append(
+                Commit(sha=sha, date=date, causa_id=causa_id, subject=subject, magnitude=0)
+            )
+
+    # Write a shard per law that has at least one commit
+    populated: dict[int, list[Commit]] = {}
+    for nm_id, cs in commits_by_id.items():
+        if not cs:
+            continue
+        cs.sort(key=lambda c: c.date)
+        rel_dir, norma = by_id[nm_id]
+        shard = commits_index_path(out_dir, id_norma=nm_id)
+        shard.parent.mkdir(parents=True, exist_ok=True)
+        shard.write_text(json.dumps({
             "norma": asdict(norma),
-            "commits": [asdict(c) for c in commit_list],
+            "commits": [asdict(c) for c in cs],
             "rel_dir": rel_dir,
         }, ensure_ascii=False, separators=(",", ":")))
+        populated[nm_id] = cs
 
-    manifest = aggregate_manifest(commits_by_id, repo=repo)
+    manifest = aggregate_manifest(populated, repo=repo)
     manifest_path = out_dir / "idx" / "manifest.json"
     manifest_path.parent.mkdir(parents=True, exist_ok=True)
     manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2))
