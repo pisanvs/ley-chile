@@ -11,7 +11,42 @@ from scripts.build_web_indexes import (
     Commit,
     aggregate_manifest,
     _causa_from_message,
+    real_date,
 )
+
+
+class TestRealDate:
+    def test_uses_subject_date_when_present(self):
+        assert real_date(
+            subject="Resolución N°766 EXENTA publicada (2015-04-02)",
+            committer_date="2015-04-03",
+        ) == "2015-04-02"
+
+    def test_recovers_pre_1970_from_subject(self):
+        # GitHub fsck rejects negative timestamps, so build_history clamps
+        # pre-1970 events to 1970-01-01. The real date is in the subject.
+        assert real_date(
+            subject="Ley «Ley de Cementerios Laicos» [id 1093262] publicada (1883-08-04)",
+            committer_date="1970-01-01",
+        ) == "1883-08-04"
+
+    def test_falls_back_when_no_subject_date(self):
+        assert real_date(
+            subject="Some commit with no date in parens",
+            committer_date="2020-05-15",
+        ) == "2020-05-15"
+
+    def test_recognizes_promulgada_variant(self):
+        assert real_date(
+            subject="Decreto Ley N°1 promulgada (1973-09-18)",
+            committer_date="1973-09-19",
+        ) == "1973-09-18"
+
+    def test_rejects_malformed_parsed_date(self):
+        assert real_date(
+            subject="publicada (banana)",
+            committer_date="2020-01-01",
+        ) == "2020-01-01"
 
 
 def test_parse_metadata_extracts_norma_fields():

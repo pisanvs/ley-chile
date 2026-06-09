@@ -18,6 +18,12 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
+# Re-use the production date-recovery helper so the local subset matches what
+# the next CI deploy will look like (correct pre-1970 + off-by-one dates).
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from scripts.build_web_indexes import real_date  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "web" / "public" / "idx"
 COMMITS_OUT = OUT / "commits"
@@ -77,6 +83,12 @@ def main() -> None:
         for fut in as_completed(pool.submit(_fetch_shard, i) for i in sample):
             i, shard = fut.result()
             if shard is not None:
+                # Patch dates to match the post-fix CI behaviour.
+                for c in shard.get("commits", []):
+                    c["date"] = real_date(
+                        subject=c.get("subject", ""),
+                        committer_date=c.get("date", ""),
+                    )
                 shards[i] = shard
                 (COMMITS_OUT / f"{i}.json").write_text(
                     json.dumps(shard, ensure_ascii=False, separators=(",", ":"))

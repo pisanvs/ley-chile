@@ -15,6 +15,33 @@ from typing import Any
 
 _CAUSA_RE = re.compile(r"\bidNorma=(\d+)\b")
 
+# Pattern build_history.py emits in commit subjects:
+#   "Decreto N°X (...) publicada (YYYY-MM-DD)"
+#   "Ley «...» [id N] promulgada (YYYY-MM-DD)"
+# Used to recover the *real* publication date because the git committer date is
+# unreliable: GitHub rejects negative Unix timestamps so pre-1970 events are
+# clamped to 1970-01-01, and post-1970 events sometimes shift by ±1 day when
+# multiple normas publish on the same calendar date.
+_PUB_DATE_RE = re.compile(
+    r"\b(?:publicada|publicado|promulgada|promulgado|modificada|derogada)\s*\((\d{4}-\d{2}-\d{2})\)"
+)
+
+
+def real_date(*, subject: str, committer_date: str) -> str:
+    """Prefer the date encoded in the commit subject when present.
+
+    Falls back to the committer date when the subject has no `publicada (...)`
+    trailer. Returns the input committer_date unchanged if the parsed date
+    is malformed (defensive).
+    """
+    m = _PUB_DATE_RE.search(subject)
+    if not m:
+        return committer_date
+    parsed = m.group(1)
+    if len(parsed) == 10 and parsed[4] == "-" and parsed[7] == "-":
+        return parsed
+    return committer_date
+
 
 @dataclass(frozen=True)
 class NormaMetadata:
@@ -138,7 +165,13 @@ def build(*, historial: Path, out_dir: Path, repo: str) -> dict[str, Any]:
                 continue
             seen.add(norma.id_norma)
             commits_by_id[norma.id_norma].append(
-                Commit(sha=sha, date=date, causa_id=causa_id, subject=subject, magnitude=0)
+                Commit(
+                    sha=sha,
+                    date=real_date(subject=subject, committer_date=date),
+                    causa_id=causa_id,
+                    subject=subject,
+                    magnitude=0,
+                )
             )
 
     # Write a shard per law that has at least one commit
