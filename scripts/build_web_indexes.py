@@ -158,10 +158,88 @@ def build(*, historial: Path, out_dir: Path, repo: str) -> dict[str, Any]:
         populated[nm_id] = cs
 
     manifest = aggregate_manifest(populated, repo=repo)
-    manifest_path = out_dir / "idx" / "manifest.json"
-    manifest_path.parent.mkdir(parents=True, exist_ok=True)
-    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2))
+    idx_dir = out_dir / "idx"
+    idx_dir.mkdir(parents=True, exist_ok=True)
+    (idx_dir / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2))
+
+    _emit_titles(idx_dir, by_id, populated)
+    _emit_by_numero(idx_dir, by_id, populated)
+    _emit_landing(idx_dir, by_id, populated)
+
     return manifest
+
+
+def _emit_titles(idx_dir: Path, by_id: dict[int, tuple[str, NormaMetadata]],
+                 populated: dict[int, list[Commit]]) -> None:
+    """Powers Cmd-K. One row per law that has at least one commit."""
+    titles = []
+    for nm_id in populated:
+        _, nm = by_id[nm_id]
+        titles.append({
+            "idNorma": nm.id_norma,
+            "numero": nm.numero,
+            "tipo": nm.tipo,
+            "titulo": nm.titulo,
+            "organismo": nm.organismo,
+            "fechaPublicacion": nm.fecha_publicacion,
+        })
+    titles.sort(key=lambda t: t["idNorma"])
+    (idx_dir / "titles.json").write_text(
+        json.dumps(titles, ensure_ascii=False, separators=(",", ":"))
+    )
+
+
+def _emit_by_numero(idx_dir: Path, by_id: dict[int, tuple[str, NormaMetadata]],
+                    populated: dict[int, list[Commit]]) -> None:
+    """numero (string) → [idNorma, ...]. Multiple idNormas can share a numero
+    when the BCN catalog has duplicates across tipos or organismos."""
+    by_numero: dict[str, list[int]] = {}
+    for nm_id in populated:
+        _, nm = by_id[nm_id]
+        key = str(nm.numero).strip()
+        if not key:
+            continue
+        by_numero.setdefault(key, []).append(nm.id_norma)
+    (idx_dir / "by-numero.json").write_text(
+        json.dumps(by_numero, ensure_ascii=False, separators=(",", ":"))
+    )
+
+
+def _emit_landing(idx_dir: Path, by_id: dict[int, tuple[str, NormaMetadata]],
+                  populated: dict[int, list[Commit]]) -> None:
+    """Powers the Time Machine landing: year histogram + recent events feed."""
+    year_counts: dict[int, int] = {}
+    for cs in populated.values():
+        for c in cs:
+            if len(c.date) >= 4 and c.date[:4].isdigit():
+                y = int(c.date[:4])
+                year_counts[y] = year_counts.get(y, 0) + 1
+
+    recent: list[dict[str, Any]] = []
+    for nm_id, cs in populated.items():
+        _, nm = by_id[nm_id]
+        for c in cs:
+            recent.append({
+                "sha": c.sha,
+                "date": c.date,
+                "causaId": c.causa_id,
+                "subject": c.subject,
+                "idNorma": nm.id_norma,
+                "numero": nm.numero,
+                "tipo": nm.tipo,
+                "titulo": nm.titulo,
+            })
+    recent.sort(key=lambda e: e["date"], reverse=True)
+
+    landing = {
+        "yearHistogram": [
+            {"year": y, "count": c} for y, c in sorted(year_counts.items())
+        ],
+        "recentEvents": recent[:500],
+    }
+    (idx_dir / "landing.json").write_text(
+        json.dumps(landing, ensure_ascii=False, separators=(",", ":"))
+    )
 
 
 def main() -> None:
