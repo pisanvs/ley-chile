@@ -3,6 +3,7 @@ import { useQuery } from '@tanstack/react-query'
 import { fetchCommits, type Commit } from '@/lib/commits'
 import { IDEShell } from '@/components/IDEShell'
 import { VersionScrubber } from '@/components/VersionScrubber'
+import { CleanReader } from '@/components/CleanReader'
 
 export const Route = createFileRoute('/ley/$numero/$fecha')({
   component: IDEPage,
@@ -40,7 +41,7 @@ function IDEPage() {
         Versión: <b>{active?.date ?? '—'}</b> · causa: {active?.causaId || '—'}
       </div>
       <hr className="my-6 border-ink/10" />
-      <div className="opacity-50 italic">Clean reader arrives in Task 9.</div>
+      {active && <CleanReader sha={active.sha} relDir={idx.relDir} />}
     </div>
   )
 
