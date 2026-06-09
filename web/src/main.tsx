@@ -11,7 +11,11 @@ const queryClient = new QueryClient({
   },
 })
 
-const router = createRouter({ routeTree, context: { queryClient } })
+const router = createRouter({
+  routeTree,
+  context: { queryClient },
+  basepath: import.meta.env.BASE_URL,
+})
 
 declare module '@tanstack/react-router' {
   interface Register { router: typeof router }
