@@ -176,3 +176,31 @@ Collisions (same `numero`, different `idNorma`) get a `-{idNorma}` suffix.
 | LeyChile versioned XML | `https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma={id}&idVersion={YYYY-MM-DD}` | 1 req/s |
 
 **Sentinel date**: LeyChile uses `2222-02-02` for open-ended "current" versions. Filter: `int(date[:4]) <= 2100`.
+
+## Frontend
+
+The SPA lives in `web/` (Vite + React 19 + TypeScript + Tailwind 4 + TanStack Router/Query). The deploy target is the orphan `pages` branch, mounted as a worktree at `web/dist/`. GH Pages serves it at `https://pisanvs.github.io/ley-chile/`.
+
+```bash
+# Local dev (after pnpm install in web/)
+cd web && pnpm dev
+
+# Build SPA locally (writes to web/dist == pages worktree)
+cd web && pnpm build
+
+# Run the index builder against the historial worktree
+python scripts/build_web_indexes.py \
+  --historial ./historial \
+  --out web/public \
+  --repo pisanvs/ley-chile
+
+# Tests
+cd web && pnpm test                              # frontend (Vitest)
+python -m pytest tests/test_build_web_indexes.py # index builder (pytest)
+```
+
+The `pages` orphan branch is mounted as a worktree at `web/dist/`. **Never `git add web/dist`** from the main checkout — it's a separate branch.
+
+Generated artifacts (gitignored): `web/node_modules/`, `web/public/idx/`, `web/*.tsbuildinfo`, `web/vite.config.{js,d.ts}`, `web/vitest.config.{js,d.ts}`.
+
+CI workflow `.github/workflows/build-pages.yml` rebuilds end-to-end on every `historial` push (or completion of the `pipeline` workflow) and force-pushes to the `pages` branch. Configure GH Pages → Source: `pages` branch / root.

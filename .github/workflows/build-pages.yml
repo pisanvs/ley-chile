@@ -1,0 +1,84 @@
+name: Build pages
+on:
+  push:
+    branches: [historial]
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["pipeline"]
+    types: [completed]
+
+concurrency:
+  group: build-pages
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main (sparse — code only)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: code
+          sparse-checkout: |
+            scripts
+            web
+            requirements.txt
+          sparse-checkout-cone-mode: false
+
+      - name: Checkout historial (data)
+        uses: actions/checkout@v4
+        with:
+          ref: historial
+          path: historial
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+
+      - name: Install Python deps
+        run: pip install -r code/requirements.txt
+
+      - name: Build indexes
+        run: |
+          python code/scripts/build_web_indexes.py \
+            --historial historial \
+            --out code/web/public \
+            --repo ${{ github.repository }}
+
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+        with: { version: 9 }
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'pnpm'
+          cache-dependency-path: code/web/pnpm-lock.yaml
+
+      - name: Install web deps
+        run: pnpm --dir code/web install --frozen-lockfile
+
+      - name: Build SPA
+        env:
+          VITE_BASE: /ley-chile/
+          VITE_REPO: ${{ github.repository }}
+        run: pnpm --dir code/web build
+
+      - name: Push to pages branch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd code/web/dist
+          git init -b pages
+          git config user.email "github-actions@users.noreply.github.com"
+          git config user.name "github-actions"
+          touch .nojekyll
+          git add -A
+          git commit -m "build: ${{ github.sha }}" --allow-empty
+          git push --force "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" HEAD:pages
