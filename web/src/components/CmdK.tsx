@@ -3,26 +3,11 @@ import { Command } from 'cmdk'
 import { useNavigate } from '@tanstack/react-router'
 import { useQuery } from '@tanstack/react-query'
 import MiniSearch, { type SearchResult } from 'minisearch'
-import { searchUrl } from '@/lib/datasource'
-
-interface TitleEntry {
-  idNorma: number
-  numero: string
-  tipo: string
-  titulo: string
-  organismo: string
-  fechaPublicacion: string
-}
+import { loadTitles, type TitleEntry } from '@/lib/titles'
 
 interface CmdKCtx { open: () => void; close: () => void; isOpen: boolean }
 
 const Ctx = createContext<CmdKCtx | null>(null)
-
-async function fetchTitles(): Promise<TitleEntry[]> {
-  const r = await fetch(searchUrl())
-  if (!r.ok) throw new Error(`titles fetch failed: ${r.status}`)
-  return r.json()
-}
 
 export function CmdKProvider({ children }: { children: ReactNode }) {
   const [isOpen, setOpen] = useState(false)
@@ -46,11 +31,19 @@ export function CmdKProvider({ children }: { children: ReactNode }) {
     return () => window.removeEventListener('keydown', onKey)
   }, [])
 
-  // Lazy-load titles only when the bar opens for the first time
+  // Eager: kick off the titles fetch as soon as the provider mounts so that
+  // by the time the user hits ⌘K or the navigator needs ±5 chronology, the
+  // payload is already in the process-level cache (see lib/titles.ts).
+  // React Query still owns the query state for `useQuery` consumers; the
+  // module-level cache makes it cheap for non-React callers like
+  // chronologicalNeighbours().
+  useEffect(() => {
+    loadTitles().catch(() => { /* surfaced by consumers via useQuery */ })
+  }, [])
+
   const titlesQ = useQuery({
     queryKey: ['titles'],
-    queryFn: fetchTitles,
-    enabled: isOpen,
+    queryFn: loadTitles,
     staleTime: Infinity,
     gcTime: Infinity,
   })
