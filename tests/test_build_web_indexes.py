@@ -14,6 +14,7 @@ from scripts.build_web_indexes import (
     _causa_from_message,
     real_date,
     build_modifies,
+    build_modified_by,
 )
 
 
@@ -82,6 +83,62 @@ class TestBuildModifies:
         }
         mods = build_modifies(by_id, populated)
         assert [r["date"] for r in mods[10]] == ["2020-01-01", "2023-05-01"]
+
+
+class TestBuildModifiedBy:
+    def test_empty_when_only_self_edits(self):
+        by_id = {1: ("ley/1", _nm(1))}
+        populated = {1: [_c(sha="s1", date="2020-01-01", causa_id=1)]}
+        assert build_modified_by(by_id, populated) == {}
+
+    def test_skips_unresolvable_modifier(self):
+        # causa_id=99 isn't in by_id (data lag); row gets dropped silently.
+        by_id = {1: ("ley/1", _nm(1))}
+        populated = {1: [_c(sha="s", date="2022-01-01", causa_id=99)]}
+        assert build_modified_by(by_id, populated) == {}
+
+    def test_dedupes_repeated_modifier_into_single_row(self):
+        # Ley 10 modifies Ley 1 twice → one aggregated row with count=2 and
+        # first/last dates spanning both touches.
+        by_id = {
+            1: ("ley/1", _nm(1, titulo="Target", numero="1")),
+            10: ("ley/10", _nm(10, titulo="Mod", numero="10", tipo="decreto")),
+        }
+        populated = {
+            1: [
+                _c(sha="a", date="2020-01-01", causa_id=1),    # self-pub
+                _c(sha="b", date="2021-06-15", causa_id=10),
+                _c(sha="c", date="2023-03-09", causa_id=10),
+            ],
+        }
+        out = build_modified_by(by_id, populated)
+        assert set(out.keys()) == {1}
+        rows = out[1]
+        assert len(rows) == 1
+        row = rows[0]
+        assert row["modifierId"] == 10
+        assert row["modifierTipo"] == "decreto"
+        assert row["modifierNumero"] == "10"
+        assert row["modifierTitulo"] == "Mod"
+        assert row["firstDate"] == "2021-06-15"
+        assert row["lastDate"] == "2023-03-09"
+        assert row["count"] == 2
+        assert row["touchedDates"] == ["2021-06-15", "2023-03-09"]
+
+    def test_orders_modifiers_by_most_recent_touch_first(self):
+        by_id = {
+            1: ("ley/1", _nm(1)),
+            10: ("ley/10", _nm(10)),
+            20: ("ley/20", _nm(20)),
+        }
+        populated = {
+            1: [
+                _c(sha="a", date="2018-01-01", causa_id=10),
+                _c(sha="b", date="2024-05-20", causa_id=20),
+            ],
+        }
+        out = build_modified_by(by_id, populated)
+        assert [r["modifierId"] for r in out[1]] == [20, 10]
 
 
 class TestRealDate:

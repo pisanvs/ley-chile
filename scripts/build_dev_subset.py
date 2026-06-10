@@ -191,11 +191,43 @@ def main() -> None:
                 fetched += 1
     print(f"  fetched modifies for {fetched}/{len(causa_ids)} causas")
 
+    # Modified-by: incoming-edge index, one file per target law. Subset only
+    # cares about the laws *it* contains, so we fetch by idNorma of the shards.
+    print("Fetching modified_by/ for subset normas...")
+    MODBY_OUT = OUT / "modified_by"
+    MODBY_OUT.mkdir(parents=True, exist_ok=True)
+    target_ids = {s["norma"]["id_norma"] for s in shards.values()}
+    fetched_mb = 0
+    with ThreadPoolExecutor(max_workers=16) as pool:
+        futs = {pool.submit(_fetch_modified_by, nid): nid for nid in target_ids}
+        for fut in as_completed(futs):
+            nid = futs[fut]
+            data = fut.result()
+            if data is not None:
+                (MODBY_OUT / f"{nid}.json").write_text(
+                    json.dumps(data, ensure_ascii=False, separators=(",", ":"))
+                )
+                fetched_mb += 1
+    print(f"  fetched modified_by for {fetched_mb}/{len(target_ids)} normas")
+
     print("\nDone. Subset lives at web/public/idx/.")
 
 
 def _fetch_modifies(causa_id: int) -> list[dict] | None:
     url = f"{PAGES_BASE}/modifies/{causa_id}.json"
+    try:
+        with urllib.request.urlopen(url, timeout=20) as r:
+            return json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            return None
+        return None
+    except (urllib.error.URLError, json.JSONDecodeError):
+        return None
+
+
+def _fetch_modified_by(target_id: int) -> list[dict] | None:
+    url = f"{PAGES_BASE}/modified_by/{target_id}.json"
     try:
         with urllib.request.urlopen(url, timeout=20) as r:
             return json.loads(r.read())

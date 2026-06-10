@@ -199,6 +199,7 @@ def build(*, historial: Path, out_dir: Path, repo: str) -> dict[str, Any]:
     _emit_by_numero(idx_dir, by_id, populated)
     _emit_landing(idx_dir, by_id, populated)
     _emit_modifies(idx_dir, by_id, populated)
+    _emit_modified_by(idx_dir, by_id, populated)
 
     return manifest
 
@@ -315,6 +316,76 @@ def _emit_modifies(idx_dir: Path, by_id: dict[int, tuple[str, NormaMetadata]],
     modifies_dir.mkdir(parents=True, exist_ok=True)
     for causa_id, rows in modifies.items():
         (modifies_dir / f"{causa_id}.json").write_text(
+            json.dumps(rows, ensure_ascii=False, separators=(",", ":"))
+        )
+
+
+def build_modified_by(
+    by_id: dict[int, tuple[str, NormaMetadata]],
+    populated: dict[int, list[Commit]],
+) -> dict[int, list[dict[str, Any]]]:
+    """Inverse index in the *other* direction: for every target law T, the
+    distinct modifier laws that have edited it, plus when. Each entry
+    aggregates over all commits caused by the same modifier — one row per
+    (target, modifier) pair, not one per modification commit, so a chatty
+    modifier collapses into a single sidebar item with a count.
+
+    Skips the law's own initial publication / self-edits (causa_id == target).
+    Modifier rows that don't resolve to a known norma (causa_id not in by_id —
+    e.g. data lag) are skipped so the UI doesn't render broken links.
+    """
+    out: dict[int, list[dict[str, Any]]] = {}
+    for target_id, cs in populated.items():
+        # (modifier_id) → mutable accumulator
+        agg: dict[int, dict[str, Any]] = {}
+        for c in cs:
+            if c.causa_id == 0 or c.causa_id == target_id:
+                continue
+            modifier = by_id.get(c.causa_id)
+            if modifier is None:
+                continue
+            _, mod = modifier
+            row = agg.get(c.causa_id)
+            if row is None:
+                agg[c.causa_id] = {
+                    "modifierId": mod.id_norma,
+                    "modifierTipo": mod.tipo,
+                    "modifierNumero": mod.numero,
+                    "modifierTitulo": mod.titulo,
+                    "firstDate": c.date,
+                    "lastDate": c.date,
+                    "count": 1,
+                    # The set of dates in *target's* history this modifier
+                    # touched. Listed so the UI can offer "ver cambio" jumps.
+                    "touchedDates": [c.date],
+                }
+            else:
+                row["count"] += 1
+                if c.date < row["firstDate"]:
+                    row["firstDate"] = c.date
+                if c.date > row["lastDate"]:
+                    row["lastDate"] = c.date
+                row["touchedDates"].append(c.date)
+        if not agg:
+            continue
+        rows = list(agg.values())
+        # Sort by most-recent first, then by id for determinism.
+        rows.sort(key=lambda r: (r["lastDate"], r["modifierId"]), reverse=True)
+        for r in rows:
+            r["touchedDates"] = sorted(set(r["touchedDates"]))
+        out[target_id] = rows
+    return out
+
+
+def _emit_modified_by(idx_dir: Path, by_id: dict[int, tuple[str, NormaMetadata]],
+                      populated: dict[int, list[Commit]]) -> None:
+    """One file per target law: `idx/modified_by/{idNorma}.json` → list of
+    laws that have modified it. Powers the right-rail "Modificadores" tab."""
+    modified_by = build_modified_by(by_id, populated)
+    out_dir = idx_dir / "modified_by"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for target_id, rows in modified_by.items():
+        (out_dir / f"{target_id}.json").write_text(
             json.dumps(rows, ensure_ascii=False, separators=(",", ":"))
         )
 
