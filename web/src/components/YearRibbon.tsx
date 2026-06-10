@@ -44,9 +44,36 @@ export function YearRibbon({ data, yearMin, yearMax, selected, onSelect }: Props
   const H = 26
   const total = cells.length * (W + GAP) - GAP
 
+  const onWheel = (e: React.WheelEvent<HTMLDivElement>) => {
+    // Convert vertical scroll into horizontal so users don't have to hold
+    // Shift. Ignore truly-horizontal trackpad gestures (those already work).
+    // currentTarget is the scrolling div even for events bubbling up from svg.
+    const el = e.currentTarget
+    if (e.deltaY === 0) return
+    const verticalIsDominant = Math.abs(e.deltaY) >= Math.abs(e.deltaX)
+    if (!verticalIsDominant) return
+    // Only hijack when there's actually room to scroll, otherwise let the
+    // page scroll naturally (e.g. ribbon fully fits the viewport).
+    const maxScroll = el.scrollWidth - el.clientWidth
+    if (maxScroll <= 0) return
+    const next = el.scrollLeft + e.deltaY
+    const clamped = Math.max(0, Math.min(maxScroll, next))
+    // If clamped to an edge, hand control back to the page so we don't trap
+    // the user at the boundary.
+    if ((e.deltaY > 0 && el.scrollLeft >= maxScroll) ||
+        (e.deltaY < 0 && el.scrollLeft <= 0)) {
+      return
+    }
+    e.preventDefault()
+    el.scrollLeft = clamped
+  }
+
   return (
     <div className="relative">
-      <div className="overflow-x-auto scrollbar-quiet">
+      <div
+        className="overflow-x-auto scrollbar-quiet overscroll-x-contain"
+        onWheel={onWheel}
+      >
         <svg
           width={total}
           height={H + 28}
