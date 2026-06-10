@@ -26,10 +26,8 @@ from __future__ import annotations
 
 import argparse
 import datetime
-import html as html_module
 import json
 import logging
-import re
 import subprocess
 import sys
 from pathlib import Path
@@ -53,6 +51,7 @@ from utils import (  # noqa: E402
     setup_logging,
 )
 from enrichers import Enricher  # noqa: E402
+from render_texto import render as render_texto  # noqa: E402
 
 log = logging.getLogger(__name__)
 
@@ -63,41 +62,6 @@ log = logging.getLogger(__name__)
 AUTHOR_NAME = "Ley Chile"
 AUTHOR_EMAIL = "leychile@bcn.cl"
 TARGET_BRANCH = "historial"
-
-_TAG_RE = re.compile(r"<[^>]+>")
-
-# ---------------------------------------------------------------------------
-# HTML → plain text
-# ---------------------------------------------------------------------------
-
-
-def _html_to_text(h: str) -> str:
-    """Strip HTML tags, decode entities, collapse whitespace."""
-    text = _TAG_RE.sub("", h)
-    text = html_module.unescape(text)
-    text = re.sub(r"\s+", " ", text).strip()
-    return text
-
-
-def _flatten_html(items: list) -> dict[int, str]:
-    """Recursively flatten html items to {part_id: html_text}."""
-    result: dict[int, str] = {}
-    for item in items:
-        if not isinstance(item, dict):
-            continue
-        if "i" in item and "t" in item:
-            result[item["i"]] = item["t"]
-        if "h" in item:
-            result.update(_flatten_html(item["h"]))
-    return result
-
-
-def _flatten_to_texto(items: list) -> str:
-    """Flatten html item tree to plain-text lines (no blank lines)."""
-    parts = _flatten_html(items)
-    lines = [_html_to_text(v) for v in parts.values() if v]
-    return "\n".join(line for line in lines if line)
-
 
 # ---------------------------------------------------------------------------
 # Timestamp helpers
@@ -433,7 +397,7 @@ def _version_files(
     files: dict[str, bytes] = {}
 
     if ver_data:
-        texto = _flatten_to_texto(ver_data.get("html", []))
+        texto = render_texto(ver_data.get("html", []))
         if texto:
             path = str(rel_dir / "texto.md")
             files[path] = texto.encode("utf-8")
