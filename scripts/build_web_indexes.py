@@ -198,6 +198,7 @@ def build(*, historial: Path, out_dir: Path, repo: str) -> dict[str, Any]:
     _emit_titles(idx_dir, by_id, populated)
     _emit_by_numero(idx_dir, by_id, populated)
     _emit_landing(idx_dir, by_id, populated)
+    _emit_modifies(idx_dir, by_id, populated)
 
     return manifest
 
@@ -273,6 +274,49 @@ def _emit_landing(idx_dir: Path, by_id: dict[int, tuple[str, NormaMetadata]],
     (idx_dir / "landing.json").write_text(
         json.dumps(landing, ensure_ascii=False, separators=(",", ":"))
     )
+
+
+def build_modifies(
+    by_id: dict[int, tuple[str, NormaMetadata]],
+    populated: dict[int, list[Commit]],
+) -> dict[int, list[dict[str, Any]]]:
+    """Inverse index: for every causa law X, the list of laws+versions whose
+    commits were caused by X. Skips self-edits (a law's own initial publication
+    or self-modifications) so the surface is strictly *outgoing* modifications.
+    Pure function — split out so it can be unit-tested.
+    """
+    out: dict[int, list[dict[str, Any]]] = {}
+    for target_id, cs in populated.items():
+        _, target = by_id[target_id]
+        for c in cs:
+            if c.causa_id == 0 or c.causa_id == target_id:
+                continue
+            out.setdefault(c.causa_id, []).append({
+                "idNorma": target.id_norma,
+                "date": c.date,
+                "sha": c.sha,
+                "titulo": target.titulo,
+                "tipo": target.tipo,
+                "numero": target.numero,
+            })
+    # Sort each entry oldest → newest for stable display.
+    for rows in out.values():
+        rows.sort(key=lambda r: r["date"])
+    return out
+
+
+def _emit_modifies(idx_dir: Path, by_id: dict[int, tuple[str, NormaMetadata]],
+                   populated: dict[int, list[Commit]]) -> None:
+    """One file per causa law: `idx/modifies/{causaId}.json` → list of
+    modifications that law performed on others. Powers the
+    "Aperturar modificaciones" button in the reader."""
+    modifies = build_modifies(by_id, populated)
+    modifies_dir = idx_dir / "modifies"
+    modifies_dir.mkdir(parents=True, exist_ok=True)
+    for causa_id, rows in modifies.items():
+        (modifies_dir / f"{causa_id}.json").write_text(
+            json.dumps(rows, ensure_ascii=False, separators=(",", ":"))
+        )
 
 
 def main() -> None:

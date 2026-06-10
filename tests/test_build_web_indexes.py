@@ -9,10 +9,79 @@ from scripts.build_web_indexes import (
     raw_text_url,
     commits_index_path,
     Commit,
+    NormaMetadata,
     aggregate_manifest,
     _causa_from_message,
     real_date,
+    build_modifies,
 )
+
+
+def _nm(id_norma: int, **kw) -> NormaMetadata:
+    return NormaMetadata(
+        id_norma=id_norma,
+        numero=kw.get("numero", str(id_norma)),
+        tipo=kw.get("tipo", "ley"),
+        titulo=kw.get("titulo", f"Ley {id_norma}"),
+        organismo=kw.get("organismo", ""),
+        fecha_publicacion=kw.get("fecha_publicacion", "2020-01-01"),
+    )
+
+
+def _c(*, sha, date, causa_id) -> Commit:
+    return Commit(sha=sha, date=date, causa_id=causa_id, subject="x", magnitude=0)
+
+
+class TestBuildModifies:
+    def test_empty_when_only_self_edits(self):
+        by_id = {1: ("ley/1", _nm(1))}
+        populated = {1: [_c(sha="s1", date="2020-01-01", causa_id=1)]}
+        assert build_modifies(by_id, populated) == {}
+
+    def test_excludes_unknown_causa(self):
+        by_id = {1: ("ley/1", _nm(1))}
+        populated = {1: [_c(sha="s1", date="2020-01-01", causa_id=0)]}
+        assert build_modifies(by_id, populated) == {}
+
+    def test_captures_outgoing_modifications(self):
+        # Norma 10 modifies normas 1 and 2 on different dates.
+        by_id = {
+            1: ("ley/1", _nm(1, titulo="One", numero="1", tipo="ley")),
+            2: ("ley/2", _nm(2, titulo="Two", numero="2", tipo="ley")),
+            10: ("ley/10", _nm(10, titulo="Modifier", numero="10")),
+        }
+        populated = {
+            1: [
+                _c(sha="s1a", date="2020-01-01", causa_id=1),
+                _c(sha="s1b", date="2021-06-15", causa_id=10),
+            ],
+            2: [
+                _c(sha="s2a", date="2020-02-01", causa_id=2),
+                _c(sha="s2b", date="2022-03-09", causa_id=10),
+            ],
+            10: [_c(sha="s10", date="2021-06-15", causa_id=10)],
+        }
+        mods = build_modifies(by_id, populated)
+        assert set(mods.keys()) == {10}
+        rows = mods[10]
+        assert [r["idNorma"] for r in rows] == [1, 2]
+        assert rows[0] == {
+            "idNorma": 1, "date": "2021-06-15", "sha": "s1b",
+            "titulo": "One", "tipo": "ley", "numero": "1",
+        }
+
+    def test_sorts_rows_chronologically(self):
+        by_id = {
+            1: ("ley/1", _nm(1)),
+            2: ("ley/2", _nm(2)),
+            10: ("ley/10", _nm(10)),
+        }
+        populated = {
+            1: [_c(sha="s1", date="2023-05-01", causa_id=10)],
+            2: [_c(sha="s2", date="2020-01-01", causa_id=10)],
+        }
+        mods = build_modifies(by_id, populated)
+        assert [r["date"] for r in mods[10]] == ["2020-01-01", "2023-05-01"]
 
 
 class TestRealDate:

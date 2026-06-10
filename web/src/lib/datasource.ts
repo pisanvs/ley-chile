@@ -7,6 +7,7 @@ function joinBase(rel: string): string {
 
 export const ds = {
   manifestUrl: () => joinBase('idx/manifest.json'),
+  modifiesUrl: (causaId: number) => joinBase(`idx/modifies/${causaId}.json`),
   commitsUrl: (idNorma: number) => joinBase(`idx/commits/${idNorma}.json`),
   titlesUrl: () => joinBase('idx/titles.json'),
   byNumeroUrl: () => joinBase('idx/by-numero.json'),

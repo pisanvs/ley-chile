@@ -8,6 +8,7 @@ import { RedlineReader, type ReaderViewMode } from '@/components/RedlineReader'
 import { RightRail } from '@/components/RightRail'
 import { readPrefs, writePrefs } from '@/lib/annotations'
 import { ds } from '@/lib/datasource'
+import { ModificationsButton } from '@/components/ModificationsButton'
 
 export const Route = createFileRoute('/ley/$numero/$fecha')({
   component: IDEPage,
@@ -105,13 +106,22 @@ function IDEPage() {
             {idx.norma.tipo} · Nº {idx.norma.numero}
             {idx.norma.fechaPublicacion && ` · ${idx.norma.fechaPublicacion}`}
           </div>
-          <button
-            onClick={onCopyCitation}
-            className="ml-auto text-[10px] text-ink-faint hover:text-indigo border border-rule rounded px-1.5 py-0.5 transition font-ui"
-            title="Copiar cita y URL inmutable"
-          >
-            {citationCopied ? '✓ copiado' : 'Copiar cita'}
-          </button>
+          <div className="ml-auto flex items-center gap-1.5">
+            <ModificationsButton
+              causaId={idx.norma.idNorma}
+              causaTitulo={idx.norma.titulo}
+              buildHref={(idNorma, date) =>
+                `${window.location.origin}${import.meta.env.BASE_URL}ley/${idNorma}/${date}`
+              }
+            />
+            <button
+              onClick={onCopyCitation}
+              className="text-[10px] text-ink-faint hover:text-indigo border border-rule rounded px-1.5 py-0.5 transition font-ui"
+              title="Copiar cita y URL inmutable"
+            >
+              {citationCopied ? '✓ copiado' : 'Copiar cita'}
+            </button>
+          </div>
         </div>
         <h1 className="font-display text-3xl md:text-[2.1rem] leading-[1.1] mt-2 text-balance">
           {idx.norma.titulo}
