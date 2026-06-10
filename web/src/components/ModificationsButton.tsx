@@ -1,13 +1,13 @@
 import { useEffect, useState } from 'react'
 import { createPortal } from 'react-dom'
+import { useNavigate } from '@tanstack/react-router'
 import { useQuery } from '@tanstack/react-query'
 import { fetchModifications, type ModificationRow } from '@/lib/modifies'
+import { tabs } from '@/lib/tabs'
 
 interface Props {
   causaId: number
   causaTitulo: string
-  /** Resolves a (causaId, prevDate) → SPA URL like /ley/123/2020-05-01. */
-  buildHref: (idNorma: number, date: string) => string
 }
 
 /**
@@ -19,18 +19,34 @@ interface Props {
  * `/idx/modifies/{causaId}.json`. Empty array means this law never modified
  * anything (initial publications, errata, etc.).
  */
-export function ModificationsButton({ causaId, causaTitulo, buildHref }: Props) {
+export function ModificationsButton({ causaId, causaTitulo }: Props) {
   const [open, setOpen] = useState(false)
+  const navigate = useNavigate()
   const q = useQuery({
     queryKey: ['modifies', causaId],
     queryFn: () => fetchModifications(causaId),
     staleTime: Infinity,
   })
 
-  // Eager-fetch on mount so the badge count is ready before the user opens.
   useEffect(() => { void q.data }, [q.data])
-
   const rows = q.data ?? []
+
+  const openInTab = (row: ModificationRow, { focus }: { focus: boolean }) => {
+    tabs.add({
+      idNorma: row.idNorma,
+      date: row.date,
+      titulo: row.titulo,
+      tipo: row.tipo,
+      numero: row.numero,
+    })
+    if (focus) {
+      navigate({
+        to: '/ley/$numero/$fecha',
+        params: { numero: String(row.idNorma), fecha: row.date },
+      })
+      setOpen(false)
+    }
+  }
 
   return (
     <>
@@ -46,7 +62,7 @@ export function ModificationsButton({ causaId, causaTitulo, buildHref }: Props) 
         <ModificationsModal
           rows={rows}
           causaTitulo={causaTitulo}
-          buildHref={buildHref}
+          openInTab={openInTab}
           onClose={() => setOpen(false)}
         />
       )}
@@ -57,12 +73,12 @@ export function ModificationsButton({ causaId, causaTitulo, buildHref }: Props) 
 function ModificationsModal({
   rows,
   causaTitulo,
-  buildHref,
+  openInTab,
   onClose,
 }: {
   rows: ModificationRow[]
   causaTitulo: string
-  buildHref: (idNorma: number, date: string) => string
+  openInTab: (row: ModificationRow, opts: { focus: boolean }) => void
   onClose: () => void
 }) {
   useEffect(() => {
@@ -71,8 +87,14 @@ function ModificationsModal({
     return () => window.removeEventListener('keydown', onKey)
   }, [onClose])
 
-  const openAll = () => {
-    rows.forEach(r => window.open(buildHref(r.idNorma, r.date), '_blank', 'noopener'))
+  const openAllBackground = () => {
+    rows.forEach(r => openInTab(r, { focus: false }))
+    onClose()
+  }
+  const openAllAndFocusFirst = () => {
+    if (rows.length === 0) return
+    rows.slice(1).forEach(r => openInTab(r, { focus: false }))
+    openInTab(rows[0], { focus: true })
   }
 
   return createPortal(
@@ -113,16 +135,23 @@ function ModificationsModal({
                 {rows.length} {rows.length === 1 ? 'norma afectada' : 'normas afectadas'}
               </span>
               <button
-                onClick={openAll}
-                className="ml-auto text-[11px] bg-indigo text-paper px-3 py-1 rounded hover:opacity-90 font-ui"
-                title="Abrir cada modificación en una pestaña nueva"
+                onClick={openAllBackground}
+                className="ml-auto text-[11px] text-ink-soft hover:text-ink border border-rule rounded px-2 py-1 font-ui transition"
+                title="Abrir todas en pestañas del IDE sin cambiar de vista"
               >
-                Abrir todas en pestañas →
+                Abrir en segundo plano
+              </button>
+              <button
+                onClick={openAllAndFocusFirst}
+                className="text-[11px] bg-indigo text-paper px-3 py-1 rounded hover:opacity-90 font-ui"
+                title="Abrir todas y saltar a la primera"
+              >
+                Abrir todas →
               </button>
             </div>
             <ul className="overflow-y-auto divide-y divide-rule scrollbar-quiet">
               {rows.map((r, i) => (
-                <ModificationRowItem key={i} row={r} buildHref={buildHref} />
+                <ModificationRowItem key={i} row={r} openInTab={openInTab} />
               ))}
             </ul>
           </>
@@ -135,14 +164,16 @@ function ModificationsModal({
 
 function ModificationRowItem({
   row,
-  buildHref,
+  openInTab,
 }: {
   row: ModificationRow
-  buildHref: (idNorma: number, date: string) => string
+  openInTab: (row: ModificationRow, opts: { focus: boolean }) => void
 }) {
-  const href = buildHref(row.idNorma, row.date)
   return (
-    <li className="px-5 py-3 hover:bg-paper-sunk/60 transition group">
+    <li
+      className="px-5 py-3 hover:bg-paper-sunk/60 transition group cursor-pointer"
+      onClick={() => openInTab(row, { focus: true })}
+    >
       <div className="flex items-start gap-3">
         <div className="flex-1 min-w-0">
           <div className="flex items-baseline gap-2 text-[10px] uppercase tracking-widest text-ink-faint mb-1">
@@ -151,24 +182,20 @@ function ModificationRowItem({
               {row.date}
             </span>
           </div>
-          <a
-            href={href}
-            target="_blank"
-            rel="noopener"
-            className="text-sm text-ink hover:text-indigo line-clamp-2 text-balance"
-          >
-            {row.titulo}
-          </a>
+          <span className="text-sm text-ink group-hover:text-indigo line-clamp-2 text-balance">
+            {row.titulo || <em className="text-ink-faint">(sin título)</em>}
+          </span>
         </div>
-        <a
-          href={href}
-          target="_blank"
-          rel="noopener"
-          className="shrink-0 text-[10px] text-ink-faint group-hover:text-indigo border border-rule rounded px-2 py-1 font-ui transition"
-          title="Abrir esta modificación en una pestaña nueva"
+        <button
+          onClick={e => {
+            e.stopPropagation()
+            openInTab(row, { focus: false })
+          }}
+          className="shrink-0 text-[10px] text-ink-faint hover:text-ink border border-rule rounded px-2 py-1 font-ui transition"
+          title="Abrir en segundo plano (sin saltar)"
         >
-          Abrir →
-        </a>
+          Pestaña
+        </button>
       </div>
     </li>
   )

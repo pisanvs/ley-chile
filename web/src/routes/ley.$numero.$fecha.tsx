@@ -9,6 +9,7 @@ import { RightRail } from '@/components/RightRail'
 import { readPrefs, writePrefs } from '@/lib/annotations'
 import { ds } from '@/lib/datasource'
 import { ModificationsButton } from '@/components/ModificationsButton'
+import { tabs } from '@/lib/tabs'
 
 export const Route = createFileRoute('/ley/$numero/$fecha')({
   component: IDEPage,
@@ -67,6 +68,19 @@ function IDEPage() {
   const idx = q.data!
   const active: Commit | undefined =
     idx.commits.find(c => c.date === fecha) ?? idx.commits[idx.commits.length - 1]
+
+  // Ensure this (idNorma, date) is in the tab session so the bar shows it.
+  if (active && idx.norma) {
+    if (!tabs.has(idx.norma.idNorma, active.date)) {
+      tabs.add({
+        idNorma: idx.norma.idNorma,
+        date: active.date,
+        titulo: idx.norma.titulo,
+        tipo: idx.norma.tipo,
+        numero: idx.norma.numero,
+      })
+    }
+  }
   const activeIdx = active ? idx.commits.findIndex(c => c.sha === active.sha) : -1
   const prev = activeIdx > 0 ? idx.commits[activeIdx - 1] : null
   const isOriginal = activeIdx === 0
@@ -110,9 +124,6 @@ function IDEPage() {
             <ModificationsButton
               causaId={idx.norma.idNorma}
               causaTitulo={idx.norma.titulo}
-              buildHref={(idNorma, date) =>
-                `${window.location.origin}${import.meta.env.BASE_URL}ley/${idNorma}/${date}`
-              }
             />
             <button
               onClick={onCopyCitation}
