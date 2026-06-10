@@ -316,6 +316,19 @@ jobs:
         with:
           fetch-depth: 1
 
+      # The pipeline-cache worktree materialises ~1.1M files. The default
+      # ubuntu-latest runner has ~14 GB free and crosses that as the cache
+      # grows. Free ~30 GB by removing pre-installed tools we don't use.
+      - name: Free runner disk space
+        uses: jlumbroso/free-disk-space@main
+        with:
+          tool-cache: true
+          android: true
+          dotnet: true
+          haskell: true
+          large-packages: false
+          swap-storage: false
+
       - uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
@@ -330,12 +343,21 @@ jobs:
           git config http.postBuffer 524288000   # 500 MB for large historial push
 
       # ── pipeline-cache worktree ─────────────────────────────────────────
+      # Sparse-checkout: build_history.py reads cache/diffs/, cache/versions/,
+      # cache/graph_shards/, cache/tramitacion/ — NOT cache/normas/ (that's
+      # the BCN-metadata-per-norma blob, used only by fetch_normas.py). With
+      # cone-mode sparse, top-level files (catalog.json, *progress*.json)
+      # stay materialised, and the shard-apply step below can still
+      # `git checkout <ref> -- <path>` files from normas/ on demand.
       - name: Set up pipeline-cache worktree
         run: |
           CODE=$(git rev-parse --abbrev-ref HEAD)
           if git fetch origin pipeline-cache 2>/dev/null; then
             git branch -f pipeline-cache origin/pipeline-cache
-            git worktree add cache pipeline-cache
+            git worktree add --no-checkout cache pipeline-cache
+            git -C cache sparse-checkout init --cone
+            git -C cache sparse-checkout set diffs versions graph_shards tramitacion
+            git -C cache checkout
           else
             git checkout --orphan pipeline-cache && git rm -rf . --quiet
             git commit --allow-empty -m "init: pipeline-cache"
