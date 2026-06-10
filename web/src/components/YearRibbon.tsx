@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 
 interface YearCount { year: number; count: number }
 
@@ -44,35 +44,35 @@ export function YearRibbon({ data, yearMin, yearMax, selected, onSelect }: Props
   const H = 26
   const total = cells.length * (W + GAP) - GAP
 
-  const onWheel = (e: React.WheelEvent<HTMLDivElement>) => {
-    // Convert vertical scroll into horizontal so users don't have to hold
-    // Shift. Ignore truly-horizontal trackpad gestures (those already work).
-    // currentTarget is the scrolling div even for events bubbling up from svg.
-    const el = e.currentTarget
-    if (e.deltaY === 0) return
-    const verticalIsDominant = Math.abs(e.deltaY) >= Math.abs(e.deltaX)
-    if (!verticalIsDominant) return
-    // Only hijack when there's actually room to scroll, otherwise let the
-    // page scroll naturally (e.g. ribbon fully fits the viewport).
-    const maxScroll = el.scrollWidth - el.clientWidth
-    if (maxScroll <= 0) return
-    const next = el.scrollLeft + e.deltaY
-    const clamped = Math.max(0, Math.min(maxScroll, next))
-    // If clamped to an edge, hand control back to the page so we don't trap
-    // the user at the boundary.
-    if ((e.deltaY > 0 && el.scrollLeft >= maxScroll) ||
-        (e.deltaY < 0 && el.scrollLeft <= 0)) {
-      return
+  const scrollerRef = useRef<HTMLDivElement | null>(null)
+
+  // React attaches onWheel as a passive listener, so preventDefault() inside
+  // a JSX-style handler is silently ignored. Attach manually with
+  // `{ passive: false }` so we can actually stop the page from scrolling.
+  useEffect(() => {
+    const el = scrollerRef.current
+    if (!el) return
+    const onWheel = (e: WheelEvent) => {
+      if (e.deltaY === 0) return
+      if (Math.abs(e.deltaY) < Math.abs(e.deltaX)) return
+      const maxScroll = el.scrollWidth - el.clientWidth
+      if (maxScroll <= 0) return
+      const atStart = el.scrollLeft <= 0
+      const atEnd = el.scrollLeft >= maxScroll - 0.5
+      // Release at edges so the page can keep scrolling.
+      if ((e.deltaY > 0 && atEnd) || (e.deltaY < 0 && atStart)) return
+      e.preventDefault()
+      el.scrollLeft = Math.max(0, Math.min(maxScroll, el.scrollLeft + e.deltaY))
     }
-    e.preventDefault()
-    el.scrollLeft = clamped
-  }
+    el.addEventListener('wheel', onWheel, { passive: false })
+    return () => el.removeEventListener('wheel', onWheel)
+  }, [])
 
   return (
     <div className="relative">
       <div
+        ref={scrollerRef}
         className="overflow-x-auto scrollbar-quiet overscroll-x-contain"
-        onWheel={onWheel}
       >
         <svg
           width={total}
