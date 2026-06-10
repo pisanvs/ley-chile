@@ -33,20 +33,20 @@ describe('segment', () => {
 
 describe('align', () => {
   it('marks identical bodies as unchanged', () => {
-    const prev = [{ label: 'a', rawHeading: '', body: 'same' }]
-    const curr = [{ label: 'a', rawHeading: '', body: 'same' }]
+    const prev = [{ label: 'a', slug: 'a', rawHeading: '', body: 'same' }]
+    const curr = [{ label: 'a', slug: 'a', rawHeading: '', body: 'same' }]
     const out = align(prev, curr)
     expect(out[0].status).toBe('unchanged')
   })
   it('marks differing bodies as modified', () => {
-    const prev = [{ label: 'a', rawHeading: '', body: 'old' }]
-    const curr = [{ label: 'a', rawHeading: '', body: 'new' }]
+    const prev = [{ label: 'a', slug: 'a', rawHeading: '', body: 'old' }]
+    const curr = [{ label: 'a', slug: 'a', rawHeading: '', body: 'new' }]
     const out = align(prev, curr)
     expect(out[0].status).toBe('modified')
   })
   it('marks segments missing in curr as removed', () => {
     const out = align(
-      [{ label: 'gone', rawHeading: '', body: 'x' }],
+      [{ label: 'gone', slug: 'gone', rawHeading: '', body: 'x' }],
       []
     )
     expect(out[0].status).toBe('removed')
@@ -54,7 +54,7 @@ describe('align', () => {
   it('marks new curr segments as added', () => {
     const out = align(
       [],
-      [{ label: 'fresh', rawHeading: '', body: 'y' }]
+      [{ label: 'fresh', slug: 'fresh', rawHeading: '', body: 'y' }]
     )
     expect(out[0].status).toBe('added')
   })

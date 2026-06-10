@@ -2,12 +2,33 @@ import { diff_match_patch as DiffMatchPatch } from 'diff-match-patch'
 
 /** A segment of legislative text keyed by its article-heading label. */
 export interface Segment {
-  /** Normalized label for alignment ("artículo 5 transitorio", "considerando", etc.). */
+  /** Normalized label for alignment ("articulo 5 transitorio", "considerando", etc.). */
   label: string
+  /** URL-safe deterministic slug. Used as anchor for permalinks, scrolls, and
+   *  localStorage keys for highlights/notes. Stable across versions. */
+  slug: string
   /** Original heading text the way it appeared. */
   rawHeading: string
   /** Body of the segment (after the heading). */
   body: string
+}
+
+/** Build a URL-safe slug from a normalized label.
+ *  "articulo 5 bis"           → "art-5-bis"
+ *  "articulo unico"           → "art-unico"
+ *  "articulo 5 transitorio"   → "art-5-transitorio"
+ *  "__preamble__"             → "preambulo"
+ *  "__doc__"                  → "doc"
+ */
+export function labelToSlug(label: string): string {
+  if (label === '__preamble__') return 'preambulo'
+  if (label === '__doc__') return 'doc'
+  return label
+    .replace(/^articulo\s+/, 'art-')
+    .replace(/\s+/g, '-')
+    .replace(/[^a-z0-9-]/g, '')
+    .replace(/-+/g, '-')
+    .replace(/^-|-$/g, '')
 }
 
 const HEADING_RE = new RegExp(
@@ -38,7 +59,7 @@ export function normalizeLabel(s: string): string {
 export function segment(text: string): Segment[] {
   const matches = [...text.matchAll(HEADING_RE)]
   if (matches.length === 0) {
-    return [{ label: '__doc__', rawHeading: '', body: text.trim() }]
+    return [{ label: '__doc__', slug: labelToSlug('__doc__'), rawHeading: '', body: text.trim() }]
   }
 
   const segments: Segment[] = []
@@ -47,7 +68,7 @@ export function segment(text: string): Segment[] {
   const firstStart = matches[0].index ?? 0
   const preamble = text.slice(0, firstStart).trim()
   if (preamble) {
-    segments.push({ label: '__preamble__', rawHeading: '', body: preamble })
+    segments.push({ label: '__preamble__', slug: labelToSlug('__preamble__'), rawHeading: '', body: preamble })
   }
 
   for (let i = 0; i < matches.length; i++) {
@@ -62,7 +83,7 @@ export function segment(text: string): Segment[] {
     const identifier = (m[3] || '').trim()
     const kind = (m[2] || 'Artículo').trim().toLowerCase().startsWith('art') ? 'articulo' : m[2]
     const label = normalizeLabel(`${kind} ${identifier}`)
-    segments.push({ label, rawHeading, body })
+    segments.push({ label, slug: labelToSlug(label), rawHeading, body })
   }
 
   return segments

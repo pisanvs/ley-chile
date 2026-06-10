@@ -56,6 +56,62 @@
   --color-gold: #d9b948;
 }
 
+/* Annotation highlight palette. Pastel in light, deeper in dark. */
+:root {
+  --lc-hl-yellow: #fff3a0;
+  --lc-hl-moss:   #cce5c1;
+  --lc-hl-ruby:   #f6c8cf;
+  --lc-hl-indigo: #cad8ec;
+}
+.dark {
+  --lc-hl-yellow: #564d18;
+  --lc-hl-moss:   #2b3d24;
+  --lc-hl-ruby:   #4a2026;
+  --lc-hl-indigo: #1f2c44;
+}
+mark[data-lc-mark] {
+  color: inherit;
+  cursor: help;
+}
+
+/* Print: drop chrome, expand the reader to full width, keep diff colours but
+   convert highlight backgrounds to thin border-bottoms so they survive
+   colour-saving print modes. */
+@media print {
+  @page { size: A4; margin: 18mm 16mm; }
+  header[role="banner"], aside, nav, button, .scrollbar-quiet { display: none !important; }
+  html, body, .bg-paper, .bg-paper-sunk\/40, .bg-paper-raised {
+    background: white !important;
+    color: black !important;
+  }
+  .prose-reader, article {
+    max-width: none !important;
+    padding: 0 !important;
+    color: black !important;
+  }
+  .grid { display: block !important; }
+  .border-l-4, .border-l-2 { border-left: 2px solid #888 !important; padding-left: 0.6em !important; }
+  ins {
+    text-decoration: none !important;
+    border-bottom: 1.5px solid #2b6e1f !important;
+    background: none !important;
+    padding: 0 !important;
+  }
+  del {
+    background: none !important;
+    text-decoration: line-through !important;
+    text-decoration-color: #a01020 !important;
+  }
+  mark[data-lc-mark] {
+    background: none !important;
+    border-bottom: 1.5px dotted #555 !important;
+  }
+  a {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+}
+
 html {
   background: var(--color-paper);
   color: var(--color-ink);
