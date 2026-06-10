@@ -40,6 +40,12 @@ const HEADING_RE = new RegExp(
   'gi'
 )
 
+// Post-renderer markdown form: `#### Artículo 5° bis` on its own line. The
+// `\b` after `Artículo` keeps us from matching `Artículos transitorios`
+// (plural section header). The capture group is the identifier *and any
+// suffix* up to end-of-line, normalized via `normalizeLabel()`.
+const MD_HEADING_RE = /^(#{2,4})\s+Art(?:[íi]culo|\.)\b\s+(\S[^\n]*?)\s*$/gim
+
 /** Normalize a label so different spellings of the same article match. */
 export function normalizeLabel(s: string): string {
   return s
@@ -53,30 +59,79 @@ export function normalizeLabel(s: string): string {
 }
 
 /**
- * Segment a flowing markdown document into article-keyed chunks. If no
- * markers are found, returns a single segment representing the whole doc.
+ * Segment a flowing markdown document into article-keyed chunks.
+ *
+ * Two source formats coexist in the corpus:
+ *   - Post-renderer markdown (`scripts/render_texto.py`): each article is
+ *     introduced by a real markdown heading on its own line, e.g.
+ *     `#### Artículo 5° bis`. Structural headings (`## Título I`,
+ *     `## Capítulo II`, `### Párrafo 1`, etc.) sit between articles but are
+ *     not themselves split points — they ride along inside the previous
+ *     article's body or the preamble.
+ *   - Legacy inline: `Artículo 5°.-` embedded in flowing prose. Used by
+ *     older texto.md files that haven't been re-rendered yet.
+ *
+ * If neither format is present we yield a single `__doc__` segment so the
+ * reader still has something to show.
  */
 export function segment(text: string): Segment[] {
-  const matches = [...text.matchAll(HEADING_RE)]
-  if (matches.length === 0) {
+  const mdMatches = [...text.matchAll(MD_HEADING_RE)]
+  if (mdMatches.length > 0) return segmentMarkdownHeadings(text, mdMatches)
+
+  const inlineMatches = [...text.matchAll(HEADING_RE)]
+  if (inlineMatches.length === 0) {
     return [{ label: '__doc__', slug: labelToSlug('__doc__'), rawHeading: '', body: text.trim() }]
   }
+  return segmentInlineMarkers(text, inlineMatches)
+}
 
+function segmentMarkdownHeadings(text: string, matches: RegExpMatchArray[]): Segment[] {
   const segments: Segment[] = []
 
-  // Preamble (anything before first heading) — keep so diffs don't drop it.
   const firstStart = matches[0].index ?? 0
   const preamble = text.slice(0, firstStart).trim()
   if (preamble) {
-    segments.push({ label: '__preamble__', slug: labelToSlug('__preamble__'), rawHeading: '', body: preamble })
+    segments.push({
+      label: '__preamble__',
+      slug: labelToSlug('__preamble__'),
+      rawHeading: '',
+      body: preamble,
+    })
   }
 
   for (let i = 0; i < matches.length; i++) {
     const m = matches[i]
-    const start = (m.index ?? 0) + (m[1]?.length ?? 0) // skip leading whitespace match
+    const headingStart = m.index ?? 0
+    const headingEnd = headingStart + m[0].length
+    const segEnd = i + 1 < matches.length ? matches[i + 1].index ?? text.length : text.length
+    const identifier = (m[2] || '').trim()
+    const rawHeading = `Artículo ${identifier}`
+    const body = text.slice(headingEnd, segEnd).trim()
+    const label = normalizeLabel(`articulo ${identifier}`)
+    segments.push({ label, slug: labelToSlug(label), rawHeading, body })
+  }
+  return segments
+}
+
+function segmentInlineMarkers(text: string, matches: RegExpMatchArray[]): Segment[] {
+  const segments: Segment[] = []
+
+  const firstStart = matches[0].index ?? 0
+  const preamble = text.slice(0, firstStart).trim()
+  if (preamble) {
+    segments.push({
+      label: '__preamble__',
+      slug: labelToSlug('__preamble__'),
+      rawHeading: '',
+      body: preamble,
+    })
+  }
+
+  for (let i = 0; i < matches.length; i++) {
+    const m = matches[i]
+    const start = (m.index ?? 0) + (m[1]?.length ?? 0)
     const end = i + 1 < matches.length ? matches[i + 1].index ?? text.length : text.length
     const chunk = text.slice(start, end)
-    // Split heading from body by the regex match length itself.
     const headingMatchLen = m[0].length - (m[1]?.length ?? 0)
     const rawHeading = chunk.slice(0, headingMatchLen).trim()
     const body = chunk.slice(headingMatchLen).trim()
@@ -85,7 +140,6 @@ export function segment(text: string): Segment[] {
     const label = normalizeLabel(`${kind} ${identifier}`)
     segments.push({ label, slug: labelToSlug(label), rawHeading, body })
   }
-
   return segments
 }
 

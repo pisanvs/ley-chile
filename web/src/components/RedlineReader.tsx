@@ -213,38 +213,47 @@ function SideBySideView({
 function SideBySidePane({ side, aligned }: { side: 'prev' | 'curr'; aligned: Aligned }) {
   if (aligned.status === 'unchanged' && aligned.curr) {
     return (
-      <div className="border-l-2 border-rule pl-3">
+      <div className="border-l-2 border-rule pl-3 prose-reader opacity-70">
         {aligned.curr.rawHeading && <h3 className="font-display text-lg mb-1">{aligned.curr.rawHeading}</h3>}
-        <p className="my-2 opacity-70">{aligned.curr.body}</p>
+        <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
+          {aligned.curr.body}
+        </ReactMarkdown>
       </div>
     )
   }
   if (aligned.status === 'added') {
     if (side === 'prev') return <div className="opacity-40 italic text-sm border-l-2 border-rule pl-3">— sin contraparte —</div>
     return (
-      <div className="border-l-4 border-moss bg-moss-soft/40 pl-3 py-1">
+      <div className="border-l-4 border-moss bg-moss-soft/40 pl-3 py-1 prose-reader">
         {aligned.curr!.rawHeading && <h3 className="font-display text-lg mb-1 text-moss">{aligned.curr!.rawHeading}</h3>}
-        <p className="my-2">{aligned.curr!.body}</p>
+        <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
+          {aligned.curr!.body}
+        </ReactMarkdown>
       </div>
     )
   }
   if (aligned.status === 'removed') {
     if (side === 'curr') return <div className="opacity-40 italic text-sm border-l-2 border-rule pl-3">— eliminado —</div>
     return (
-      <div className="border-l-4 border-ruby bg-ruby-soft/40 pl-3 py-1 line-through opacity-70">
+      <div className="border-l-4 border-ruby bg-ruby-soft/40 pl-3 py-1 line-through opacity-70 prose-reader">
         {aligned.prev!.rawHeading && <h3 className="font-display text-lg mb-1 text-ruby">{aligned.prev!.rawHeading}</h3>}
-        <p className="my-2">{aligned.prev!.body}</p>
+        <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
+          {aligned.prev!.body}
+        </ReactMarkdown>
       </div>
     )
   }
-  // modified
+  // modified — word-diff is inherently inline, so paragraph structure inside
+  // an article body is collapsed here. The redline mode keeps full markdown
+  // for added/removed segments; users who need block-level structure on
+  // modified ones can switch back.
   if (!aligned.prev || !aligned.curr) return null
   const ops = wordDiff(aligned.prev.body, aligned.curr.body)
   const heading = aligned.curr.rawHeading || aligned.prev.rawHeading
   return (
     <div className="border-l-2 border-rule pl-3">
       {heading && <h3 className="font-display text-lg mb-1">{heading}</h3>}
-      <p className="my-2">
+      <p className="my-2 whitespace-pre-wrap">
         {ops.map((o, i) => {
           const text = joinDiffText(o.text)
           if (o.op === 'equal') return <span key={i}>{text}</span>
@@ -423,7 +432,7 @@ function RedlineSegment({
         causaId={prevCausaId}
         monospace={monospace}
       >
-        <p className="my-2">
+        <p className="my-2 whitespace-pre-wrap">
           {ops.map((o, j) => {
             const text = joinDiffText(o.text)
             if (o.op === 'equal') return <span key={j}>{text}</span>

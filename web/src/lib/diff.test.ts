@@ -29,6 +29,57 @@ describe('segment', () => {
     const segs = segment(text)
     expect(segs.length).toBeGreaterThanOrEqual(2)
   })
+
+  it('detects markdown-heading article form (post render_texto.py)', () => {
+    const text = [
+      '## Título I — De los principios',
+      '',
+      '#### Artículo 1°',
+      '',
+      'Cuerpo del artículo uno con **énfasis**.',
+      '',
+      '#### Artículo 2° bis',
+      '',
+      'Cuerpo del dos bis.',
+      '',
+      '> **Nota.** Una nota al pie.',
+    ].join('\n')
+    const segs = segment(text)
+    // preamble (with Título), then two articles
+    expect(segs.length).toBe(3)
+    expect(segs[0].label).toBe('__preamble__')
+    expect(segs[0].body).toContain('## Título I')
+    expect(segs[1].rawHeading).toBe('Artículo 1°')
+    expect(segs[1].slug).toBe('art-1')
+    expect(segs[1].body).toContain('**énfasis**')
+    expect(segs[2].rawHeading).toBe('Artículo 2° bis')
+    expect(segs[2].slug).toBe('art-2-bis')
+    expect(segs[2].body).toContain('Nota')
+  })
+
+  it('does not split on the plural "Artículos transitorios" header', () => {
+    const text = [
+      '#### Artículo 1°',
+      'Texto del 1°.',
+      '',
+      '## Artículos transitorios',
+      '',
+      '#### Artículo único',
+      'Texto transitorio.',
+    ].join('\n')
+    const segs = segment(text)
+    // Two real articles; the "Artículos transitorios" line should ride along
+    // inside Artículo 1°'s tail, not become its own segment.
+    expect(segs.map(s => s.rawHeading)).toEqual(['Artículo 1°', 'Artículo único'])
+    expect(segs[0].body).toContain('## Artículos transitorios')
+  })
+
+  it('parses markdown "único" identifier without the ordinal mark', () => {
+    const segs = segment('#### Artículo único\nCuerpo.')
+    expect(segs).toHaveLength(1)
+    expect(segs[0].label).toBe('articulo unico')
+    expect(segs[0].slug).toBe('art-unico')
+  })
 })
 
 describe('align', () => {
