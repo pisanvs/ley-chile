@@ -14,9 +14,13 @@ export function IDEShell({ navigator, center, rightRail }: Props) {
   const [pane, setPane] = useState<'center' | 'nav' | 'right'>('center')
 
   return (
-    <div className="flex-1 flex flex-col">
+    /* min-h-0 on every flex/grid descendant is what unlocks scrolling inside
+       the grid cells; without it the cells (and this wrapper) grow to fit
+       content and overflow-y-auto becomes a no-op. The outer flex needs it
+       too because main is also a flex item with bounded height. */
+    <div className="flex-1 min-h-0 flex flex-col">
       {/* Mobile pane toggle — appears only on small screens */}
-      <div className="md:hidden border-b border-rule flex items-center text-xs uppercase tracking-widest">
+      <div className="md:hidden border-b border-rule flex items-center text-xs uppercase tracking-widest shrink-0">
         {(['nav', 'center', 'right'] as const).map(p => (
           <button
             key={p}
@@ -30,9 +34,6 @@ export function IDEShell({ navigator, center, rightRail }: Props) {
         ))}
       </div>
 
-      {/* min-h-0 on every flex/grid descendant is what unlocks scrolling
-          inside the grid cells; without it the cells grow to fit content
-          and overflow-y-auto becomes a no-op. */}
       <div className="flex-1 min-h-0 grid grid-cols-1 md:grid-cols-[260px_minmax(0,1fr)_320px] xl:grid-cols-[300px_minmax(0,1fr)_360px]">
         <aside
           className={`${
