@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { segment, align, wordDiff, normalizeLabel, joinDiffText } from './diff'
+import { segment, align, wordDiff, normalizeLabel, joinDiffText, paragraphDiff, splitParagraphs } from './diff'
 
 describe('normalizeLabel', () => {
   it('strips diacritics and lowercases', () => {
@@ -108,6 +108,35 @@ describe('align', () => {
       [{ label: 'fresh', slug: 'fresh', rawHeading: '', body: 'y' }]
     )
     expect(out[0].status).toBe('added')
+  })
+})
+
+describe('paragraphDiff', () => {
+  it('splits paragraphs by blank lines', () => {
+    expect(splitParagraphs('a\n\nb\n\nc')).toEqual(['a', 'b', 'c'])
+    expect(splitParagraphs('a\n\n\nb')).toEqual(['a', 'b'])
+    expect(splitParagraphs('\n\n')).toEqual([])
+  })
+  it('marks identical bodies as all unchanged', () => {
+    const out = paragraphDiff('p1\n\np2', 'p1\n\np2')
+    expect(out.every(p => p.status === 'unchanged')).toBe(true)
+    expect(out).toHaveLength(2)
+  })
+  it('detects an inserted paragraph between two unchanged ones', () => {
+    const out = paragraphDiff('a\n\nc', 'a\n\nb\n\nc')
+    expect(out.map(p => p.status)).toEqual(['unchanged', 'added', 'unchanged'])
+    expect(out[1].curr).toBe('b')
+  })
+  it('detects a removed paragraph', () => {
+    const out = paragraphDiff('a\n\nb\n\nc', 'a\n\nc')
+    expect(out.map(p => p.status)).toEqual(['unchanged', 'removed', 'unchanged'])
+    expect(out[1].prev).toBe('b')
+  })
+  it('treats an in-place rewrite as modified, not removed+added', () => {
+    const out = paragraphDiff('a\n\nold body', 'a\n\nnew body')
+    expect(out.map(p => p.status)).toEqual(['unchanged', 'modified'])
+    expect(out[1].prev).toBe('old body')
+    expect(out[1].curr).toBe('new body')
   })
 })
 

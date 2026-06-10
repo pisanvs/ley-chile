@@ -80,16 +80,24 @@ export interface SlugEvent {
 
 export type ChronologyMap = Record<string, SlugEvent[]>
 
+export interface Chronology {
+  events: ChronologyMap
+  /** Per-slug human heading as it last appeared in the corpus. Drives the
+   *  Cronología dropdown — `Artículo 5° bis` instead of `art-5-bis`. */
+  headings: Record<string, string>
+}
+
 export async function computeChronology(opts: {
   commits: Commit[]
   relDir: string
-}): Promise<ChronologyMap> {
+}): Promise<Chronology> {
   const { commits, relDir } = opts
-  if (commits.length === 0) return {}
+  if (commits.length === 0) return { events: {}, headings: {} }
   const texts = await Promise.all(
     commits.map(c => fetchRawText({ sha: c.sha, relDir }))
   )
   const events: ChronologyMap = {}
+  const headings: Record<string, string> = {}
   let prevSegments: Segment[] = []
   for (let i = 0; i < commits.length; i++) {
     const c = commits[i]
@@ -100,6 +108,8 @@ export async function computeChronology(opts: {
     segs.forEach(s => currByLabel.set(s.label, s))
 
     for (const s of segs) {
+      // Last-seen wins so the heading reflects current corpus state.
+      if (s.rawHeading) headings[s.slug] = s.rawHeading
       const before = prevByLabel.get(s.label)
       if (!before) {
         (events[s.slug] ??= []).push({
@@ -122,5 +132,5 @@ export async function computeChronology(opts: {
 
     prevSegments = segs
   }
-  return events
+  return { events, headings }
 }

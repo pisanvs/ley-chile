@@ -214,3 +214,102 @@ function wordsAsLines(text: string): { text: string } {
 export function joinDiffText(s: string): string {
   return s.replace(/\n/g, '')
 }
+
+/** A single paragraph-level slot in a modified-segment diff. */
+export interface ParaDiff {
+  status: 'unchanged' | 'modified' | 'added' | 'removed'
+  /** The paragraph text from the previous version (null when 'added'). */
+  prev: string | null
+  /** The paragraph text from the current version (null when 'removed'). */
+  curr: string | null
+}
+
+/**
+ * Splits an article body into paragraphs and aligns them between two versions.
+ * The post-renderer markdown uses blank-line-separated paragraphs (`\n\n+`),
+ * one per inciso, plus the occasional `> blockquote` block. We diff at that
+ * granularity so the markdown for each paragraph survives even when other
+ * paragraphs in the same article changed.
+ *
+ * Alignment is greedy-LCS-via-diff-match-patch over paragraph-keyed character
+ * codes — fast and robust to insertions/deletions in the middle of an article.
+ */
+export function paragraphDiff(prev: string, curr: string): ParaDiff[] {
+  const a = splitParagraphs(prev)
+  const b = splitParagraphs(curr)
+  if (a.length === 0 && b.length === 0) return []
+
+  // Map each unique paragraph to a single code unit so we can run a sequence
+  // diff on paragraph identity. The lineToChars helper in diff-match-patch
+  // is exactly what we want.
+  const dmp = new DiffMatchPatch()
+  const enc = dmp.diff_linesToChars_(a.join('\n'), b.join('\n'))
+  const ops = dmp.diff_main(enc.chars1, enc.chars2, false)
+  dmp.diff_cleanupSemantic(ops)
+
+  // Walk ops in order; for each delete immediately followed by insert, treat
+  // as a paragraph rewrite ('modified'). Otherwise emit as added/removed.
+  type RawSlot =
+    | { status: 'unchanged' | 'added' | 'removed'; prev: string | null; curr: string | null }
+    | { status: 'modified'; prev: string; curr: string }
+  const slots: RawSlot[] = []
+  let aIdx = 0
+  let bIdx = 0
+  for (let i = 0; i < ops.length; i++) {
+    const [op, chunk] = ops[i]
+    const count = chunk.length
+    if (op === 0) {
+      for (let k = 0; k < count; k++) {
+        slots.push({ status: 'unchanged', prev: a[aIdx], curr: b[bIdx] })
+        aIdx++
+        bIdx++
+      }
+      continue
+    }
+    if (op === -1 && i + 1 < ops.length && ops[i + 1][0] === 1) {
+      // Pair deletes with adjacent inserts so a paragraph rewrite shows as
+      // 'modified' (single side-by-side slot) instead of two stacked blocks.
+      const [, insChunk] = ops[i + 1]
+      const insCount = insChunk.length
+      const pairs = Math.min(count, insCount)
+      for (let k = 0; k < pairs; k++) {
+        slots.push({ status: 'modified', prev: a[aIdx + k], curr: b[bIdx + k] })
+      }
+      // Surplus deletes / inserts emit as standalone removed / added rows.
+      for (let k = pairs; k < count; k++) {
+        slots.push({ status: 'removed', prev: a[aIdx + k], curr: null })
+      }
+      for (let k = pairs; k < insCount; k++) {
+        slots.push({ status: 'added', prev: null, curr: b[bIdx + k] })
+      }
+      aIdx += count
+      bIdx += insCount
+      i++ // consumed the next op
+      continue
+    }
+    if (op === -1) {
+      for (let k = 0; k < count; k++) {
+        slots.push({ status: 'removed', prev: a[aIdx + k], curr: null })
+      }
+      aIdx += count
+      continue
+    }
+    // op === 1, isolated insert
+    for (let k = 0; k < count; k++) {
+      slots.push({ status: 'added', prev: null, curr: b[bIdx + k] })
+    }
+    bIdx += count
+  }
+  return slots
+}
+
+/**
+ * Split a body on paragraph boundaries (blank lines). Trims trailing
+ * whitespace per paragraph and drops empty entries.
+ */
+export function splitParagraphs(body: string): string[] {
+  return body
+    .split(/\n{2,}/)
+    .map(p => p.replace(/\s+$/g, ''))
+    .filter(p => p.length > 0)
+}

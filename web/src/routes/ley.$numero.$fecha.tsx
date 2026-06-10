@@ -6,6 +6,7 @@ import { IDEShell } from '@/components/IDEShell'
 import { VersionScrubber } from '@/components/VersionScrubber'
 import { RedlineReader, type ReaderViewMode } from '@/components/RedlineReader'
 import { RightRail } from '@/components/RightRail'
+import { Navigator } from '@/components/Navigator'
 import { readPrefs, writePrefs } from '@/lib/annotations'
 import { ds } from '@/lib/datasource'
 import { tabs } from '@/lib/tabs'
@@ -162,9 +163,9 @@ function IDEPage() {
                   ? 'bg-ink text-paper border-ink'
                   : 'text-ink-soft hover:text-ink border-rule'
               }`}
-              title="Colapsar secciones sin cambios"
+              title={prefs.collapseUnchanged ? 'Mostrar todas las secciones' : 'Colapsar secciones sin cambios'}
             >
-              Colapsar
+              {prefs.collapseUnchanged ? 'Expandir todo' : 'Colapsar'}
             </button>
           )}
         </div>
@@ -188,6 +189,7 @@ function IDEPage() {
 
   return (
     <IDEShell
+      navigator={<Navigator activeId={idx.norma.idNorma} />}
       center={center}
       rightRail={<RightRail idx={idx} active={active} activeSlug={activeSlug} />}
     />

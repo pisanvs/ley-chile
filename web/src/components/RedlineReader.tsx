@@ -3,7 +3,7 @@ import { useQuery } from '@tanstack/react-query'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { fetchRawText } from '@/lib/rawtext'
-import { segment, align, wordDiff, joinDiffText, type Aligned } from '@/lib/diff'
+import { segment, align, wordDiff, joinDiffText, paragraphDiff, type Aligned, type ParaDiff } from '@/lib/diff'
 import { ArticleSegment } from '@/components/ArticleSegment'
 
 export type ReaderViewMode = 'redline' | 'clean' | 'source' | 'side-by-side'
@@ -243,30 +243,70 @@ function SideBySidePane({ side, aligned }: { side: 'prev' | 'curr'; aligned: Ali
       </div>
     )
   }
-  // modified — word-diff is inherently inline, so paragraph structure inside
-  // an article body is collapsed here. The redline mode keeps full markdown
-  // for added/removed segments; users who need block-level structure on
-  // modified ones can switch back.
+  // modified — paragraph-aware so block-level markdown survives. Unchanged
+  // paragraphs render as full MD; modified paragraphs collapse to the
+  // single-side word-diff (keeping insertions on curr / deletions on prev);
+  // added paragraphs only appear in curr; removed only in prev.
   if (!aligned.prev || !aligned.curr) return null
-  const ops = wordDiff(aligned.prev.body, aligned.curr.body)
   const heading = aligned.curr.rawHeading || aligned.prev.rawHeading
+  const paras = paragraphDiff(aligned.prev.body, aligned.curr.body)
   return (
     <div className="border-l-2 border-rule pl-3">
       {heading && <h3 className="font-display text-lg mb-1">{heading}</h3>}
-      <p className="my-2 whitespace-pre-wrap">
-        {ops.map((o, i) => {
-          const text = joinDiffText(o.text)
-          if (o.op === 'equal') return <span key={i}>{text}</span>
-          if (side === 'prev') {
-            if (o.op === 'delete') return <del key={i}>{text}</del>
-            return null
-          } else {
-            if (o.op === 'insert') return <ins key={i}>{text}</ins>
-            return null
-          }
-        })}
-      </p>
+      <div className="space-y-3">
+        {paras.map((p, i) => <SideBySideParaSlot key={i} para={p} side={side} />)}
+      </div>
     </div>
+  )
+}
+
+function SideBySideParaSlot({ para, side }: { para: ParaDiff; side: 'prev' | 'curr' }) {
+  if (para.status === 'unchanged' && para.curr !== null) {
+    return (
+      <div className="prose-reader opacity-70">
+        <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
+          {para.curr}
+        </ReactMarkdown>
+      </div>
+    )
+  }
+  if (para.status === 'added') {
+    if (side === 'prev') return <div className="opacity-30 italic text-[11px]">— sin contraparte —</div>
+    return (
+      <div className="prose-reader border-l-4 border-moss bg-moss-soft/40 pl-3 py-0.5 rounded-r">
+        <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
+          {para.curr ?? ''}
+        </ReactMarkdown>
+      </div>
+    )
+  }
+  if (para.status === 'removed') {
+    if (side === 'curr') return <div className="opacity-30 italic text-[11px]">— eliminado —</div>
+    return (
+      <div className="prose-reader border-l-4 border-ruby bg-ruby-soft/40 pl-3 py-0.5 rounded-r line-through opacity-80">
+        <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
+          {para.prev ?? ''}
+        </ReactMarkdown>
+      </div>
+    )
+  }
+  // modified
+  if (para.prev === null || para.curr === null) return null
+  const ops = wordDiff(para.prev, para.curr)
+  return (
+    <p className="my-0 whitespace-pre-wrap">
+      {ops.map((o, j) => {
+        const text = joinDiffText(o.text)
+        if (o.op === 'equal') return <span key={j}>{text}</span>
+        if (side === 'prev') {
+          if (o.op === 'delete') return <del key={j}>{text}</del>
+          return null
+        } else {
+          if (o.op === 'insert') return <ins key={j}>{text}</ins>
+          return null
+        }
+      })}
+    </p>
   )
 }
 
@@ -321,22 +361,47 @@ function CollapsedGroup({
   if (open) {
     return (
       <div className="space-y-6">
+        <CollapseBar items={items} onClick={() => setOpen(false)} expanded />
         {items.map((a, i) => <div key={i}>{render(a)}</div>)}
-        <button
-          onClick={() => setOpen(false)}
-          className="text-xs text-ink-faint hover:text-ink underline underline-offset-4"
-        >
-          colapsar {items.length} sin cambios
-        </button>
+        <CollapseBar items={items} onClick={() => setOpen(false)} expanded />
       </div>
     )
   }
+  return <CollapseBar items={items} onClick={() => setOpen(true)} expanded={false} />
+}
+
+/**
+ * GitHub-style hidden-context bar: a slim row with horizontal rules on either
+ * side and a centered chip telling you how many sections it's hiding. Clicking
+ * anywhere on the bar toggles. When the group is open we render the same bar
+ * twice (above + below the revealed content) so the user can re-collapse
+ * without scrolling back.
+ */
+function CollapseBar({
+  items,
+  onClick,
+  expanded,
+}: {
+  items: Aligned[]
+  onClick: () => void
+  expanded: boolean
+}) {
+  const label = expanded
+    ? `colapsar ${items.length} ${items.length === 1 ? 'sección' : 'secciones'}`
+    : `${items.length} ${items.length === 1 ? 'sección' : 'secciones'} sin cambios`
   return (
     <button
-      onClick={() => setOpen(true)}
-      className="block w-full text-left text-xs text-ink-faint hover:text-ink border border-dashed border-rule rounded-md py-2 px-3 transition hover:border-ink-soft"
+      onClick={onClick}
+      className="group/coll flex items-center w-full gap-3 py-1 text-[11px] font-ui text-ink-faint hover:text-ink transition"
+      title={expanded ? 'Volver a colapsar' : 'Mostrar sección oculta'}
     >
-      <span className="font-ui">↕ Mostrar {items.length} {items.length === 1 ? 'sección' : 'secciones'} sin cambios</span>
+      <span className="flex-1 border-t border-dashed border-rule group-hover/coll:border-ink-soft transition" />
+      <span className="px-3 py-1 rounded-full border border-rule bg-paper-sunk/60 backdrop-blur-sm tracking-wide group-hover/coll:bg-paper-sunk group-hover/coll:border-ink-soft transition whitespace-nowrap">
+        <span aria-hidden className="mr-1.5 opacity-60">···</span>
+        {label}
+        <span aria-hidden className="ml-1.5 opacity-60">···</span>
+      </span>
+      <span className="flex-1 border-t border-dashed border-rule group-hover/coll:border-ink-soft transition" />
     </button>
   )
 }
@@ -422,7 +487,6 @@ function RedlineSegment({
     )
   }
   if (aligned.prev && aligned.curr) {
-    const ops = wordDiff(aligned.prev.body, aligned.curr.body)
     return (
       <ArticleSegment
         idNorma={idNorma}
@@ -432,15 +496,69 @@ function RedlineSegment({
         causaId={prevCausaId}
         monospace={monospace}
       >
-        <p className="my-2 whitespace-pre-wrap">
-          {ops.map((o, j) => {
-            const text = joinDiffText(o.text)
-            if (o.op === 'equal') return <span key={j}>{text}</span>
-            if (o.op === 'insert') return <ins key={j}>{text}</ins>
-            return <del key={j}>{text}</del>
-          })}
-        </p>
+        <ParagraphRedline prev={aligned.prev.body} curr={aligned.curr.body} />
       </ArticleSegment>
+    )
+  }
+  return null
+}
+
+/**
+ * Paragraph-aware redline. Aligns paragraphs first so unchanged paragraphs
+ * render as fully-formed markdown (lists, blockquotes, emphasis all survive);
+ * modified paragraphs collapse to inline word-diff; added/removed paragraphs
+ * still render as markdown but with the diff styling. This is the sweet spot:
+ * block-level structure stays intact and we keep word-level resolution where
+ * the user actually needs it.
+ */
+function ParagraphRedline({ prev, curr }: { prev: string; curr: string }) {
+  const paras = useMemo(() => paragraphDiff(prev, curr), [prev, curr])
+  return (
+    <div className="space-y-3">
+      {paras.map((p, i) => <ParaSlot key={i} para={p} />)}
+    </div>
+  )
+}
+
+function ParaSlot({ para }: { para: ParaDiff }) {
+  if (para.status === 'unchanged' && para.curr !== null) {
+    return (
+      <div className="prose-reader">
+        <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
+          {para.curr}
+        </ReactMarkdown>
+      </div>
+    )
+  }
+  if (para.status === 'added' && para.curr !== null) {
+    return (
+      <div className="prose-reader border-l-4 border-moss bg-moss-soft/40 pl-3 py-0.5 rounded-r">
+        <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
+          {para.curr}
+        </ReactMarkdown>
+      </div>
+    )
+  }
+  if (para.status === 'removed' && para.prev !== null) {
+    return (
+      <div className="prose-reader border-l-4 border-ruby bg-ruby-soft/40 pl-3 py-0.5 rounded-r line-through opacity-80">
+        <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
+          {para.prev}
+        </ReactMarkdown>
+      </div>
+    )
+  }
+  if (para.status === 'modified' && para.prev !== null && para.curr !== null) {
+    const ops = wordDiff(para.prev, para.curr)
+    return (
+      <p className="my-0 whitespace-pre-wrap leading-relaxed">
+        {ops.map((o, j) => {
+          const text = joinDiffText(o.text)
+          if (o.op === 'equal') return <span key={j}>{text}</span>
+          if (o.op === 'insert') return <ins key={j}>{text}</ins>
+          return <del key={j}>{text}</del>
+        })}
+      </p>
     )
   }
   return null

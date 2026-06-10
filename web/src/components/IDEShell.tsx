@@ -30,11 +30,14 @@ export function IDEShell({ navigator, center, rightRail }: Props) {
         ))}
       </div>
 
-      <div className="flex-1 grid grid-cols-1 md:grid-cols-[240px_minmax(0,1fr)_320px] xl:grid-cols-[280px_minmax(0,1fr)_360px]">
+      {/* min-h-0 on every flex/grid descendant is what unlocks scrolling
+          inside the grid cells; without it the cells grow to fit content
+          and overflow-y-auto becomes a no-op. */}
+      <div className="flex-1 min-h-0 grid grid-cols-1 md:grid-cols-[260px_minmax(0,1fr)_320px] xl:grid-cols-[300px_minmax(0,1fr)_360px]">
         <aside
           className={`${
             pane === 'nav' ? 'block' : 'hidden'
-          } md:block border-r border-rule overflow-y-auto scrollbar-quiet p-4 bg-paper-sunk/40`}
+          } md:block border-r border-rule overflow-y-auto scrollbar-quiet p-4 bg-paper-sunk/40 min-h-0`}
         >
           {navigator ?? <NavPlaceholder />}
         </aside>
@@ -42,7 +45,7 @@ export function IDEShell({ navigator, center, rightRail }: Props) {
         <section
           className={`${
             pane === 'center' ? 'block' : 'hidden'
-          } md:block overflow-y-auto scrollbar-quiet`}
+          } md:block overflow-y-auto scrollbar-quiet min-h-0`}
         >
           <div className="px-4 md:px-10 py-8 md:py-12 max-w-3xl mx-auto w-full">
             {center}
@@ -52,7 +55,7 @@ export function IDEShell({ navigator, center, rightRail }: Props) {
         <aside
           className={`${
             pane === 'right' ? 'block' : 'hidden'
-          } md:block border-l border-rule overflow-y-auto scrollbar-quiet p-4 bg-paper-sunk/40`}
+          } md:block border-l border-rule overflow-y-auto scrollbar-quiet p-4 bg-paper-sunk/40 min-h-0`}
         >
           {rightRail ?? <RightPlaceholder />}
         </aside>

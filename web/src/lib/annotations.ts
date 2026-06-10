@@ -150,7 +150,7 @@ const PREFS_KEY = 'lc-reader-prefs-v1'
 export const defaultPrefs: ReaderPrefs = {
   mode: 'redline',
   monospace: false,
-  collapseUnchanged: false,
+  collapseUnchanged: true,
 }
 
 export function readPrefs(): ReaderPrefs {

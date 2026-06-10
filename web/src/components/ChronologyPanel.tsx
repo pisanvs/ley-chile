@@ -25,8 +25,10 @@ export function ChronologyPanel({ idx, activeSlug }: Props) {
 
   if (q.isLoading) return <p className="text-xs text-ink-faint">Calculando…</p>
   if (q.isError) return <p className="text-xs text-ruby">No se pudo calcular.</p>
-  const chronology = q.data ?? {}
-  const slugs = Object.keys(chronology).sort()
+  const { events, headings } = q.data ?? { events: {}, headings: {} }
+  // Sort slugs by their position in the live segment ordering, falling back
+  // to alphabetical for the long-tail.
+  const slugs = Object.keys(events).sort(slugSort)
 
   return (
     <div className="space-y-4">
@@ -34,18 +36,18 @@ export function ChronologyPanel({ idx, activeSlug }: Props) {
       <select
         value={picked ?? ''}
         onChange={e => setPicked(e.target.value || null)}
-        className="w-full bg-paper-sunk border border-rule rounded px-2 py-1 text-xs font-mono"
+        className="w-full bg-paper-sunk border border-rule rounded px-2 py-1 text-xs"
       >
         <option value="">Elige un artículo…</option>
         {slugs.map(s => (
           <option key={s} value={s}>
-            {prettySlug(s)} ({chronology[s].length})
+            {headings[s] || prettySlug(s)} ({events[s].length})
           </option>
         ))}
       </select>
       {picked && (
         <ol className="space-y-2 text-xs">
-          {chronology[picked].map((ev, i) => (
+          {events[picked].map((ev, i) => (
             <EventRow key={i} ev={ev} idNorma={idx.norma.idNorma} />
           ))}
         </ol>
@@ -57,6 +59,28 @@ export function ChronologyPanel({ idx, activeSlug }: Props) {
       )}
     </div>
   )
+}
+
+/**
+ * Numeric ordering of article slugs: `art-1` < `art-2` < `art-5-bis`
+ * < `art-10` < `art-unico` < `preambulo`. Plain alphabetic would put
+ * art-10 before art-2, which reads wrong.
+ */
+function slugSort(a: string, b: string): number {
+  const rank = (s: string) => {
+    if (s === 'preambulo') return [-2, 0, '']
+    if (s === 'doc') return [-1, 0, '']
+    const m = s.match(/^art-(\d+)(?:-(.*))?$/)
+    if (m) return [0, Number(m[1]), m[2] ?? '']
+    return [1, 0, s]
+  }
+  const ra = rank(a)
+  const rb = rank(b)
+  for (let i = 0; i < ra.length; i++) {
+    if (ra[i] < rb[i]) return -1
+    if (ra[i] > rb[i]) return 1
+  }
+  return 0
 }
 
 function EventRow({ ev, idNorma }: { ev: SlugEvent; idNorma: number }) {
