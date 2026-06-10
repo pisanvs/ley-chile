@@ -1,9 +1,35 @@
+import { useEffect, useState } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import { Link } from '@tanstack/react-router'
 import { SidebarHeading } from '@/components/IDEShell'
 import { chronologicalNeighbours, type TitleEntry } from '@/lib/titles'
 import { fetchModifications, type ModificationRow } from '@/lib/modifies'
 import { fetchModifiedBy } from '@/lib/modifiedBy'
+
+/**
+ * Resolves to true after the browser has finished its critical work for
+ * the current paint — gives any opt-in fetch a chance to defer until LCP
+ * is no longer contested. Falls back to a 500ms timeout on browsers
+ * without requestIdleCallback (Safari).
+ */
+function useIdleReady(): boolean {
+  const [ready, setReady] = useState(false)
+  useEffect(() => {
+    const w = window as Window & {
+      requestIdleCallback?: (cb: () => void, opts?: { timeout?: number }) => number
+    }
+    if (typeof w.requestIdleCallback === 'function') {
+      const handle = w.requestIdleCallback(() => setReady(true), { timeout: 2000 })
+      return () => {
+        const cancel = (window as Window & { cancelIdleCallback?: (h: number) => void }).cancelIdleCallback
+        if (typeof cancel === 'function') cancel(handle)
+      }
+    }
+    const t = window.setTimeout(() => setReady(true), 500)
+    return () => window.clearTimeout(t)
+  }, [])
+  return ready
+}
 
 interface Props {
   /** idNorma of the law currently on screen — the center of the view. */
@@ -33,9 +59,13 @@ export function Navigator({ activeId }: Props) {
 }
 
 function ChronologyGroup({ activeId }: { activeId: number }) {
+  // The chronology call pulls the whole titles index. Defer until the
+  // browser is idle so the law text wins the LCP fetch race.
+  const idleReady = useIdleReady()
   const q = useQuery({
     queryKey: ['nav', 'chrono', activeId],
     queryFn: () => chronologicalNeighbours(activeId, 5),
+    enabled: idleReady,
     staleTime: Infinity,
   })
 
@@ -45,7 +75,7 @@ function ChronologyGroup({ activeId }: { activeId: number }) {
       <p className="text-[10px] text-ink-faint -mt-1">
         ±5 normas publicadas alrededor de ésta.
       </p>
-      {q.isLoading && <ListSkeleton />}
+      {!q.data && !q.isError && <ListSkeleton />}
       {q.isError && <p className="text-[11px] text-ruby">No se pudo cargar.</p>}
       {q.data && q.data.length === 0 && (
         <p className="text-[11px] text-ink-faint">Esta norma no aparece en el índice.</p>

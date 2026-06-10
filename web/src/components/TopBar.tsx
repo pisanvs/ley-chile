@@ -9,7 +9,7 @@ interface Props {
 
 export function TopBar({ crumb }: Props) {
   const { theme, toggle } = useTheme()
-  const { open } = useCmdK()
+  const { open, prefetch } = useCmdK()
 
   return (
     <header className="sticky top-0 z-30 backdrop-blur-md bg-[color-mix(in_oklab,var(--color-paper)_82%,transparent)] border-b border-rule">
@@ -30,6 +30,8 @@ export function TopBar({ crumb }: Props) {
         <div className="ml-auto flex items-center gap-2">
           <button
             onClick={open}
+            onMouseEnter={prefetch}
+            onFocus={prefetch}
             className="hidden sm:inline-flex items-center gap-2 text-xs text-ink-soft hover:text-ink border border-rule rounded-md pl-2 pr-1.5 py-1 transition"
             aria-label="Buscar"
           >

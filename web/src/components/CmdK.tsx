@@ -5,18 +5,31 @@ import { useQuery } from '@tanstack/react-query'
 import MiniSearch, { type SearchResult } from 'minisearch'
 import { loadTitles, type TitleEntry } from '@/lib/titles'
 
-interface CmdKCtx { open: () => void; close: () => void; isOpen: boolean }
+interface CmdKCtx {
+  open: () => void
+  close: () => void
+  /** Best-effort prefetch — call on hover/focus of any CTA that will need
+   *  the titles index. Safe to call repeatedly; titles.ts dedupes. */
+  prefetch: () => void
+  isOpen: boolean
+}
 
 const Ctx = createContext<CmdKCtx | null>(null)
 
 export function CmdKProvider({ children }: { children: ReactNode }) {
   const [isOpen, setOpen] = useState(false)
+  const [prefetched, setPrefetched] = useState(false)
   const [query, setQuery] = useState('')
   const navigate = useNavigate()
   const inputRef = useRef<HTMLInputElement>(null)
 
   const open = useCallback(() => setOpen(true), [])
   const close = useCallback(() => setOpen(false), [])
+  const prefetch = useCallback(() => {
+    if (prefetched) return
+    setPrefetched(true)
+    loadTitles().catch(() => { /* swallow — useQuery surfaces it later */ })
+  }, [prefetched])
 
   // Global ⌘K / Ctrl+K binding
   useEffect(() => {
@@ -31,19 +44,14 @@ export function CmdKProvider({ children }: { children: ReactNode }) {
     return () => window.removeEventListener('keydown', onKey)
   }, [])
 
-  // Eager: kick off the titles fetch as soon as the provider mounts so that
-  // by the time the user hits ⌘K or the navigator needs ±5 chronology, the
-  // payload is already in the process-level cache (see lib/titles.ts).
-  // React Query still owns the query state for `useQuery` consumers; the
-  // module-level cache makes it cheap for non-React callers like
-  // chronologicalNeighbours().
-  useEffect(() => {
-    loadTitles().catch(() => { /* surfaced by consumers via useQuery */ })
-  }, [])
-
+  // Don't eager-fetch on mount — the titles index is multi-megabyte and
+  // competes with the LCP element. Wait until *anything* signals intent:
+  // user hovers the Buscar button (sets `prefetched`), opens ⌘K, or the
+  // navigator's chronology group decides it's done with idle priority.
   const titlesQ = useQuery({
     queryKey: ['titles'],
     queryFn: loadTitles,
+    enabled: isOpen || prefetched,
     staleTime: Infinity,
     gcTime: Infinity,
   })
@@ -65,7 +73,10 @@ export function CmdKProvider({ children }: { children: ReactNode }) {
     return mini.search(query).slice(0, 20)
   }, [mini, query])
 
-  const value = useMemo<CmdKCtx>(() => ({ open, close, isOpen }), [open, close, isOpen])
+  const value = useMemo<CmdKCtx>(
+    () => ({ open, close, prefetch, isOpen }),
+    [open, close, prefetch, isOpen],
+  )
 
   return (
     <Ctx.Provider value={value}>
