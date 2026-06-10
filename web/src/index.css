@@ -224,3 +224,13 @@ body {
   to   { opacity: 1; transform: translateY(0); }
 }
 .lc-fade-up { animation: lc-fade-up 360ms ease both; }
+
+/* Modal entrance — opacity + scale only so the modal can sit inside a
+ * portaled container without any transformed ancestor reinterpreting
+ * `position: fixed` against itself. Apply this on the modal *card*; the
+ * full-viewport backdrop should stay un-transformed. */
+@keyframes lc-modal-pop {
+  from { opacity: 0; transform: scale(0.97); }
+  to   { opacity: 1; transform: scale(1); }
+}
+.lc-modal-pop { animation: lc-modal-pop 180ms cubic-bezier(0.16, 1, 0.3, 1) both; }

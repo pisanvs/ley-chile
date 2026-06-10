@@ -1,4 +1,5 @@
 import { useEffect, useRef } from 'react'
+import { createPortal } from 'react-dom'
 import type { HighlightColor } from '@/lib/annotations'
 
 interface Props {
@@ -30,10 +31,10 @@ export function SelectionToolbar({ rect, onPickColor, onAddNote, onDismiss }: Pr
   const x = rect.left + rect.width / 2
   const y = rect.top + window.scrollY - 48
 
-  return (
+  return createPortal(
     <div
       ref={ref}
-      className="fixed z-40 -translate-x-1/2 bg-paper-raised border border-rule rounded-lg shadow-lg flex items-center gap-1 p-1 lc-fade-up"
+      className="fixed z-40 -translate-x-1/2 bg-paper-raised border border-rule rounded-lg shadow-lg flex items-center gap-1 p-1 lc-modal-pop"
       style={{ left: x, top: y - window.scrollY }}
       role="toolbar"
     >
@@ -53,6 +54,7 @@ export function SelectionToolbar({ rect, onPickColor, onAddNote, onDismiss }: Pr
       >
         + Nota
       </button>
-    </div>
+    </div>,
+    document.body,
   )
 }

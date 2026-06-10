@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { createPortal } from 'react-dom'
 import { useQuery } from '@tanstack/react-query'
 import { fetchModifications, type ModificationRow } from '@/lib/modifies'
 
@@ -74,14 +75,14 @@ function ModificationsModal({
     rows.forEach(r => window.open(buildHref(r.idNorma, r.date), '_blank', 'noopener'))
   }
 
-  return (
+  return createPortal(
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/40"
+      className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/40 backdrop-blur-sm"
       onClick={onClose}
     >
       <div
         onClick={e => e.stopPropagation()}
-        className="bg-paper-raised border border-rule rounded-lg shadow-2xl w-full max-w-2xl max-h-[80vh] flex flex-col lc-fade-up"
+        className="bg-paper-raised border border-rule rounded-lg shadow-2xl w-full max-w-2xl max-h-[80vh] flex flex-col lc-modal-pop"
       >
         <header className="px-5 py-4 border-b border-rule flex items-start gap-3">
           <div className="flex-1 min-w-0">
@@ -127,7 +128,8 @@ function ModificationsModal({
           </>
         )}
       </div>
-    </div>
+    </div>,
+    document.body,
   )
 }
 
