@@ -46,26 +46,56 @@ export function YearRibbon({ data, yearMin, yearMax, selected, onSelect }: Props
 
   const scrollerRef = useRef<HTMLDivElement | null>(null)
 
-  // React attaches onWheel as a passive listener, so preventDefault() inside
+  // React attaches onWheel as a passive listener, so e.preventDefault() inside
   // a JSX-style handler is silently ignored. Attach manually with
   // `{ passive: false }` so we can actually stop the page from scrolling.
+  //
+  // Smoothing model: we don't write to scrollLeft directly. Instead each wheel
+  // tick adds to a *target* scrollLeft, and a rAF loop lerps the real
+  // scrollLeft toward that target. This decouples animation cadence from
+  // wheel cadence (mouse wheels fire in 100px chunks, trackpads in many tiny
+  // ones) so both feel like one continuous glide.
   useEffect(() => {
     const el = scrollerRef.current
     if (!el) return
+
+    let target = el.scrollLeft
+    let raf = 0
+    const ease = 0.18 // higher = snappier; lower = floatier
+    const speed = 1.2 // wheel multiplier — bumps mouse-wheel responsiveness
+
+    const tick = () => {
+      const maxScroll = el.scrollWidth - el.clientWidth
+      target = Math.max(0, Math.min(maxScroll, target))
+      const dx = target - el.scrollLeft
+      if (Math.abs(dx) < 0.5) {
+        el.scrollLeft = target
+        raf = 0
+        return
+      }
+      el.scrollLeft += dx * ease
+      raf = requestAnimationFrame(tick)
+    }
+
     const onWheel = (e: WheelEvent) => {
       if (e.deltaY === 0) return
       if (Math.abs(e.deltaY) < Math.abs(e.deltaX)) return
       const maxScroll = el.scrollWidth - el.clientWidth
       if (maxScroll <= 0) return
-      const atStart = el.scrollLeft <= 0
-      const atEnd = el.scrollLeft >= maxScroll - 0.5
-      // Release at edges so the page can keep scrolling.
+      // Release at edges so the page can keep scrolling past the ribbon.
+      const atStart = target <= 0
+      const atEnd = target >= maxScroll - 0.5
       if ((e.deltaY > 0 && atEnd) || (e.deltaY < 0 && atStart)) return
       e.preventDefault()
-      el.scrollLeft = Math.max(0, Math.min(maxScroll, el.scrollLeft + e.deltaY))
+      target = Math.max(0, Math.min(maxScroll, target + e.deltaY * speed))
+      if (!raf) raf = requestAnimationFrame(tick)
     }
+
     el.addEventListener('wheel', onWheel, { passive: false })
-    return () => el.removeEventListener('wheel', onWheel)
+    return () => {
+      el.removeEventListener('wheel', onWheel)
+      if (raf) cancelAnimationFrame(raf)
+    }
   }, [])
 
   return (
