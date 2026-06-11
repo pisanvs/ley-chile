@@ -66,7 +66,18 @@ export async function fetchCommits(idNorma: number): Promise<CommitsIndex> {
   const r = await fetch(ds.commitsUrl(idNorma))
   if (!r.ok) throw new Error(`commits ${idNorma}: ${r.status}`)
   const raw = (await r.json()) as RawShard
-  const sorted = [...raw.commits].sort((a, b) => a.date.localeCompare(b.date))
+  // Multiple causa-norms can modify a single target on the same date. The
+  // pipeline emits one git commit per (causa_fecha, causa_id) pair, so the
+  // shard can contain >1 entry sharing a date. We need a deterministic
+  // total order for `prev = commits[activeIdx - 1]` to mean "the version
+  // immediately before this one". Stable sort by date alone preserves
+  // shard order, which is git-log order (newest-first) — that puts same-date
+  // ties backwards. Break ties by SHA ascending: not semantically tied to
+  // build order, but stable across renders and reproducible across clients.
+  const sorted = [...raw.commits].sort((a, b) => {
+    if (a.date !== b.date) return a.date.localeCompare(b.date)
+    return a.sha.localeCompare(b.sha)
+  })
   return {
     norma: {
       idNorma: raw.norma.id_norma,

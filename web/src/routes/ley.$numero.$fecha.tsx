@@ -12,18 +12,25 @@ import { ds } from '@/lib/datasource'
 import { tabs } from '@/lib/tabs'
 
 interface LawSearch {
-  /** Date (YYYY-MM-DD) of a non-adjacent version to compare against.
-   *  When set, the redline diffs $fecha against $vs instead of the
-   *  immediate previous commit. */
+  /** 7-char SHA prefix that disambiguates the active version when multiple
+   *  commits share $fecha. When unset, falls back to the latest commit on
+   *  $fecha (which matches what the version scrubber shows as "today"). */
+  at?: string
+  /** SHA prefix (7 chars) of an arbitrary earlier or later version to
+   *  compare against. When set, the redline diffs the active version
+   *  against this one instead of the immediate previous commit. */
   vs?: string
 }
+
+const SHA7_RE = /^[0-9a-f]{7,40}$/i
 
 export const Route = createFileRoute('/ley/$numero/$fecha')({
   component: IDEPage,
   validateSearch: (raw: Record<string, unknown>): LawSearch => {
-    const vs = raw.vs
-    if (typeof vs === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(vs)) return { vs }
-    return {}
+    const out: LawSearch = {}
+    if (typeof raw.at === 'string' && SHA7_RE.test(raw.at)) out.at = raw.at.slice(0, 7)
+    if (typeof raw.vs === 'string' && SHA7_RE.test(raw.vs)) out.vs = raw.vs.slice(0, 7)
+    return out
   },
 })
 
@@ -76,8 +83,20 @@ function IDEPage() {
   if (resolved.isError || !idNorma) return <IDEShell center={<Failed />} />
   if (q.isError) return <IDEShell center={<Failed />} />
   const idx = q.data!
+  // Active version resolution is SHA-authoritative when `?at=sha7` is set.
+  // This matters when multiple commits share $fecha — without a SHA, find()
+  // would return the first match and `commits[activeIdx-1]` would land on a
+  // sibling same-date commit instead of the genuinely-prior date.
+  // Falls back to the LATEST commit with that date when no SHA hint, so the
+  // user always lands on "today's most recent state" by default.
+  const sameDate = idx.commits.filter(c => c.date === fecha)
+  const byShaHint = search.at
+    ? idx.commits.find(c => c.sha.startsWith(search.at!))
+    : undefined
   const active: Commit | undefined =
-    idx.commits.find(c => c.date === fecha) ?? idx.commits[idx.commits.length - 1]
+    byShaHint
+    ?? sameDate[sameDate.length - 1]
+    ?? idx.commits[idx.commits.length - 1]
 
   if (active && idx.norma) {
     if (!tabs.has(idx.norma.idNorma, active.date)) {
@@ -92,11 +111,11 @@ function IDEPage() {
   }
   const activeIdx = active ? idx.commits.findIndex(c => c.sha === active.sha) : -1
 
-  // Range diff: ?vs=YYYY-MM-DD picks a specific earlier (or later) version
-  // to compare against. Falls back to the immediate previous commit.
+  // Range diff: `?vs=sha7` picks a specific earlier (or later) version to
+  // compare against. Falls back to the commit immediately preceding active.
   const adjacentPrev = activeIdx > 0 ? idx.commits[activeIdx - 1] : null
   const vsCommit = search.vs
-    ? idx.commits.find(c => c.date === search.vs) ?? null
+    ? idx.commits.find(c => c.sha.startsWith(search.vs!)) ?? null
     : null
   const prev = vsCommit ?? adjacentPrev
   const isOriginal = activeIdx === 0 && !vsCommit
@@ -113,12 +132,22 @@ function IDEPage() {
   const onToggleCollapse = () =>
     setPrefs(writePrefs({ collapseUnchanged: !prefs.collapseUnchanged }))
 
-  const onPickVs = (date: string | null) => {
+  const onPickVs = (sha: string | null) => {
     navigate({
       to: '/ley/$numero/$fecha',
       params: { numero, fecha },
-      search: date ? { vs: date } : {},
+      search: prev => ({ ...prev, vs: sha ? sha.slice(0, 7) : undefined }),
       replace: true,
+    })
+  }
+
+  const onPickActive = (c: Commit) => {
+    // Carry the SHA prefix so URLs always land on the exact commit clicked,
+    // even when the version scrubber has multiple dots on a single date.
+    navigate({
+      to: '/ley/$numero/$fecha',
+      params: { numero, fecha: c.date },
+      search: { at: c.sha.slice(0, 7) },
     })
   }
 
@@ -195,7 +224,7 @@ function IDEPage() {
         <VersionScrubber
           commits={idx.commits}
           activeSha={active?.sha ?? null}
-          onPick={c => navigate({ to: '/ley/$numero/$fecha', params: { numero, fecha: c.date } })}
+          onPick={onPickActive}
         />
         <div className="flex flex-wrap items-center gap-2">
           <ModeToggle mode={effectiveMode} setMode={onMode} canDiff={!isOriginal} />
@@ -286,17 +315,18 @@ function CompareBar({
   commits: Commit[]
   active: Commit | undefined
   vs: string | null
-  onPickVs: (date: string | null) => void
+  onPickVs: (sha: string | null) => void
   isRangeDiff: boolean
   adjacentDate: string | null
 }) {
+  const vsSha = vs ? commits.find(c => c.sha.startsWith(vs))?.sha ?? '' : ''
   return (
     <div className="rounded-md border border-indigo/30 bg-indigo/[0.04] p-3 flex flex-wrap items-center gap-2">
       <span className="text-[10px] uppercase tracking-widest text-ink-faint font-ui">
         Comparar con
       </span>
       <select
-        value={vs ?? ''}
+        value={vsSha}
         onChange={e => onPickVs(e.target.value || null)}
         className="text-xs bg-paper-raised border border-rule rounded px-2 py-1 font-mono"
       >
@@ -304,16 +334,19 @@ function CompareBar({
           ← versión inmediatamente anterior{adjacentDate ? ` (${adjacentDate})` : ''}
         </option>
         {commits
-          .filter(c => c.date !== active?.date)
+          .filter(c => c.sha !== active?.sha)
           .map(c => (
-            <option key={c.sha} value={c.date}>
+            <option key={c.sha} value={c.sha}>
               {c.date} · {c.sha.slice(0, 7)}
             </option>
           ))}
       </select>
       <span className="text-[11px] text-ink-soft">
         contra{' '}
-        <span className="font-mono">{active?.date ?? '—'}</span>
+        <span className="font-mono">
+          {active?.date ?? '—'}
+          {active && ` · ${active.sha.slice(0, 7)}`}
+        </span>
       </span>
       {isRangeDiff && (
         <button
