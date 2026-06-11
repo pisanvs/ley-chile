@@ -13,8 +13,11 @@ export const ds = {
   titlesUrl: () => joinBase('idx/titles.json'),
   byNumeroUrl: () => joinBase('idx/by-numero.json'),
   landingUrl: () => joinBase('idx/landing.json'),
+  yearUrl: (year: number) => joinBase(`idx/by-year/${year}.json`),
   rawTextUrl: (sha: string, relPath: string) =>
     `https://raw.githubusercontent.com/${REPO}/${sha}/${relPath}`,
+  /** Permalink to the historial commit on GitHub. */
+  commitUrl: (sha: string) => `https://github.com/${REPO}/commit/${sha}`,
 }
 
 export const searchUrl = ds.titlesUrl

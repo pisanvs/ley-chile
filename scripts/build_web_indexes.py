@@ -198,6 +198,7 @@ def build(*, historial: Path, out_dir: Path, repo: str) -> dict[str, Any]:
     _emit_titles(idx_dir, by_id, populated)
     _emit_by_numero(idx_dir, by_id, populated)
     _emit_landing(idx_dir, by_id, populated)
+    _emit_by_year(idx_dir, by_id, populated)
     _emit_modifies(idx_dir, by_id, populated)
     _emit_modified_by(idx_dir, by_id, populated)
 
@@ -240,21 +241,15 @@ def _emit_by_numero(idx_dir: Path, by_id: dict[int, tuple[str, NormaMetadata]],
     )
 
 
-def _emit_landing(idx_dir: Path, by_id: dict[int, tuple[str, NormaMetadata]],
-                  populated: dict[int, list[Commit]]) -> None:
-    """Powers the Time Machine landing: year histogram + recent events feed."""
-    year_counts: dict[int, int] = {}
-    for cs in populated.values():
-        for c in cs:
-            if len(c.date) >= 4 and c.date[:4].isdigit():
-                y = int(c.date[:4])
-                year_counts[y] = year_counts.get(y, 0) + 1
-
-    recent: list[dict[str, Any]] = []
+def _all_events(by_id: dict[int, tuple[str, NormaMetadata]],
+                populated: dict[int, list[Commit]]) -> list[dict[str, Any]]:
+    """Flatten every (norma, commit) pair into the landing event shape.
+    Includes organismo so the homepage can show origin without an extra fetch."""
+    out: list[dict[str, Any]] = []
     for nm_id, cs in populated.items():
         _, nm = by_id[nm_id]
         for c in cs:
-            recent.append({
+            out.append({
                 "sha": c.sha,
                 "date": c.date,
                 "causaId": c.causa_id,
@@ -263,7 +258,29 @@ def _emit_landing(idx_dir: Path, by_id: dict[int, tuple[str, NormaMetadata]],
                 "numero": nm.numero,
                 "tipo": nm.tipo,
                 "titulo": nm.titulo,
+                "organismo": nm.organismo,
             })
+    return out
+
+
+def _emit_landing(idx_dir: Path, by_id: dict[int, tuple[str, NormaMetadata]],
+                  populated: dict[int, list[Commit]]) -> None:
+    """Powers the Time Machine landing: year histogram + tipos histogram +
+    recent events feed. The full event corpus is sharded by year via
+    _emit_by_year so clicking on any year resolves to a real page of events."""
+    year_counts: dict[int, int] = {}
+    tipo_counts: dict[str, int] = {}
+    for nm_id, cs in populated.items():
+        _, nm = by_id[nm_id]
+        for c in cs:
+            if len(c.date) >= 4 and c.date[:4].isdigit():
+                y = int(c.date[:4])
+                year_counts[y] = year_counts.get(y, 0) + 1
+        # One tipo bucket per norma (not per commit) — keeps the chip counts
+        # aligned with how users think of the catalog.
+        tipo_counts[nm.tipo] = tipo_counts.get(nm.tipo, 0) + 1
+
+    recent = _all_events(by_id, populated)
     recent.sort(key=lambda e: e["date"], reverse=True)
 
     landing = {
@@ -271,10 +288,33 @@ def _emit_landing(idx_dir: Path, by_id: dict[int, tuple[str, NormaMetadata]],
             {"year": y, "count": c} for y, c in sorted(year_counts.items())
         ],
         "recentEvents": recent[:500],
+        "tipos": [
+            {"tipo": t, "count": c}
+            for t, c in sorted(tipo_counts.items(), key=lambda x: -x[1])
+        ],
     }
     (idx_dir / "landing.json").write_text(
         json.dumps(landing, ensure_ascii=False, separators=(",", ":"))
     )
+
+
+def _emit_by_year(idx_dir: Path, by_id: dict[int, tuple[str, NormaMetadata]],
+                  populated: dict[int, list[Commit]]) -> None:
+    """Per-year shards so the homepage can resolve a year click to real
+    events even when the year is older than the recentEvents window."""
+    by_year: dict[int, list[dict[str, Any]]] = {}
+    for ev in _all_events(by_id, populated):
+        if len(ev["date"]) >= 4 and ev["date"][:4].isdigit():
+            y = int(ev["date"][:4])
+            by_year.setdefault(y, []).append(ev)
+
+    out_dir = idx_dir / "by-year"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for y, events in by_year.items():
+        events.sort(key=lambda e: e["date"], reverse=True)
+        (out_dir / f"{y}.json").write_text(
+            json.dumps(events, ensure_ascii=False, separators=(",", ":"))
+        )
 
 
 def build_modifies(

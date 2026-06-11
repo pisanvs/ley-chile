@@ -11,16 +11,30 @@ import { readPrefs, writePrefs } from '@/lib/annotations'
 import { ds } from '@/lib/datasource'
 import { tabs } from '@/lib/tabs'
 
+interface LawSearch {
+  /** Date (YYYY-MM-DD) of a non-adjacent version to compare against.
+   *  When set, the redline diffs $fecha against $vs instead of the
+   *  immediate previous commit. */
+  vs?: string
+}
+
 export const Route = createFileRoute('/ley/$numero/$fecha')({
   component: IDEPage,
+  validateSearch: (raw: Record<string, unknown>): LawSearch => {
+    const vs = raw.vs
+    if (typeof vs === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(vs)) return { vs }
+    return {}
+  },
 })
 
 function IDEPage() {
   const { numero, fecha } = Route.useParams()
+  const search = Route.useSearch()
   const navigate = useNavigate()
   const [prefs, setPrefs] = useState(readPrefs)
   const [citationCopied, setCitationCopied] = useState(false)
   const [activeSlug, setActiveSlug] = useState<string | null>(null)
+  const [compareOpen, setCompareOpen] = useState<boolean>(!!search.vs)
 
   const resolved = useQuery({
     queryKey: ['resolve', numero],
@@ -34,8 +48,6 @@ function IDEPage() {
     enabled: !!idNorma,
   })
 
-  // Track which article is on screen via hash + IntersectionObserver. For
-  // simplicity, just snapshot the hash here so the rail can pre-select it.
   useEffect(() => {
     const onHash = () => {
       const h = window.location.hash.replace(/^#/, '')
@@ -46,8 +58,6 @@ function IDEPage() {
     return () => window.removeEventListener('hashchange', onHash)
   }, [])
 
-  // After the data lands, if there's a hash, scroll to it. Beats the
-  // autoscroll-to-first-diff because deliberate intent.
   useEffect(() => {
     if (!q.data) return
     const h = window.location.hash.replace(/^#/, '')
@@ -69,7 +79,6 @@ function IDEPage() {
   const active: Commit | undefined =
     idx.commits.find(c => c.date === fecha) ?? idx.commits[idx.commits.length - 1]
 
-  // Ensure this (idNorma, date) is in the tab session so the bar shows it.
   if (active && idx.norma) {
     if (!tabs.has(idx.norma.idNorma, active.date)) {
       tabs.add({
@@ -82,8 +91,17 @@ function IDEPage() {
     }
   }
   const activeIdx = active ? idx.commits.findIndex(c => c.sha === active.sha) : -1
-  const prev = activeIdx > 0 ? idx.commits[activeIdx - 1] : null
-  const isOriginal = activeIdx === 0
+
+  // Range diff: ?vs=YYYY-MM-DD picks a specific earlier (or later) version
+  // to compare against. Falls back to the immediate previous commit.
+  const adjacentPrev = activeIdx > 0 ? idx.commits[activeIdx - 1] : null
+  const vsCommit = search.vs
+    ? idx.commits.find(c => c.date === search.vs) ?? null
+    : null
+  const prev = vsCommit ?? adjacentPrev
+  const isOriginal = activeIdx === 0 && !vsCommit
+  const isRangeDiff = !!vsCommit && vsCommit.sha !== adjacentPrev?.sha
+
   const requestedMode = prefs.mode
   const effectiveMode: ReaderViewMode =
     (isOriginal && (requestedMode === 'redline' || requestedMode === 'side-by-side'))
@@ -94,6 +112,15 @@ function IDEPage() {
   const onToggleMono = () => setPrefs(writePrefs({ monospace: !prefs.monospace }))
   const onToggleCollapse = () =>
     setPrefs(writePrefs({ collapseUnchanged: !prefs.collapseUnchanged }))
+
+  const onPickVs = (date: string | null) => {
+    navigate({
+      to: '/ley/$numero/$fecha',
+      params: { numero, fecha },
+      search: date ? { vs: date } : {},
+      replace: true,
+    })
+  }
 
   const onCopyCitation = async () => {
     const cite = formatCitation({
@@ -115,18 +142,46 @@ function IDEPage() {
   const center = (
     <div className="lc-fade-up">
       <header className="mb-8 pb-6 border-b border-rule">
-        <div className="flex items-baseline gap-3 mb-1">
-          <div className="text-[10px] uppercase tracking-[0.18em] text-ink-faint">
-            {idx.norma.tipo} · Nº {idx.norma.numero}
-            {idx.norma.fechaPublicacion && ` · ${idx.norma.fechaPublicacion}`}
+        <div className="flex items-baseline gap-3 mb-1 flex-wrap">
+          <div className="text-[10px] uppercase tracking-[0.18em] text-ink-faint flex items-baseline gap-2">
+            <span>{idx.norma.tipo} · Nº {idx.norma.numero}</span>
+            {idx.norma.fechaPublicacion && <span>· {idx.norma.fechaPublicacion}</span>}
+            {active && (
+              <a
+                href={ds.commitUrl(active.sha)}
+                target="_blank"
+                rel="noopener noreferrer"
+                title={`Ver commit ${active.sha.slice(0, 7)} en GitHub`}
+                className="font-mono normal-case tracking-normal text-ink-faint hover:text-indigo transition border border-rule px-1 py-px rounded inline-flex items-center gap-1"
+              >
+                <GitHubIcon />
+                {active.sha.slice(0, 7)}
+              </a>
+            )}
           </div>
-          <button
-            onClick={onCopyCitation}
-            className="ml-auto text-[10px] text-ink-faint hover:text-indigo border border-rule rounded px-1.5 py-0.5 transition font-ui"
-            title="Copiar cita y URL inmutable"
-          >
-            {citationCopied ? '✓ copiado' : 'Copiar cita'}
-          </button>
+          <div className="ml-auto flex items-center gap-1.5">
+            <LLMButton
+              kind="chatgpt"
+              law={idx.norma}
+              versionDate={active?.date}
+              sha={active?.sha}
+              relDir={idx.relDir}
+            />
+            <LLMButton
+              kind="claude"
+              law={idx.norma}
+              versionDate={active?.date}
+              sha={active?.sha}
+              relDir={idx.relDir}
+            />
+            <button
+              onClick={onCopyCitation}
+              className="text-[10px] text-ink-faint hover:text-indigo border border-rule rounded px-1.5 py-0.5 transition font-ui"
+              title="Copiar cita y URL inmutable"
+            >
+              {citationCopied ? '✓ copiado' : 'Copiar cita'}
+            </button>
+          </div>
         </div>
         <h1 className="font-display text-3xl md:text-[2.1rem] leading-[1.1] mt-2 text-balance">
           {idx.norma.titulo}
@@ -168,7 +223,31 @@ function IDEPage() {
               {prefs.collapseUnchanged ? 'Expandir todo' : 'Colapsar'}
             </button>
           )}
+          {idx.commits.length > 1 && (
+            <button
+              onClick={() => setCompareOpen(o => !o)}
+              className={`text-xs px-3 py-1.5 rounded font-ui border transition ${
+                compareOpen || isRangeDiff
+                  ? 'bg-indigo text-paper border-indigo'
+                  : 'text-ink-soft hover:text-ink border-rule'
+              }`}
+              title="Comparar esta versión con cualquier otra versión histórica"
+            >
+              Comparar versiones
+            </button>
+          )}
         </div>
+
+        {compareOpen && idx.commits.length > 1 && (
+          <CompareBar
+            commits={idx.commits}
+            active={active}
+            vs={search.vs ?? null}
+            onPickVs={onPickVs}
+            isRangeDiff={isRangeDiff}
+            adjacentDate={adjacentPrev?.date ?? null}
+          />
+        )}
       </div>
 
       {active && (
@@ -193,6 +272,99 @@ function IDEPage() {
       center={center}
       rightRail={<RightRail idx={idx} active={active} activeSlug={activeSlug} />}
     />
+  )
+}
+
+function CompareBar({
+  commits,
+  active,
+  vs,
+  onPickVs,
+  isRangeDiff,
+  adjacentDate,
+}: {
+  commits: Commit[]
+  active: Commit | undefined
+  vs: string | null
+  onPickVs: (date: string | null) => void
+  isRangeDiff: boolean
+  adjacentDate: string | null
+}) {
+  return (
+    <div className="rounded-md border border-indigo/30 bg-indigo/[0.04] p-3 flex flex-wrap items-center gap-2">
+      <span className="text-[10px] uppercase tracking-widest text-ink-faint font-ui">
+        Comparar con
+      </span>
+      <select
+        value={vs ?? ''}
+        onChange={e => onPickVs(e.target.value || null)}
+        className="text-xs bg-paper-raised border border-rule rounded px-2 py-1 font-mono"
+      >
+        <option value="">
+          ← versión inmediatamente anterior{adjacentDate ? ` (${adjacentDate})` : ''}
+        </option>
+        {commits
+          .filter(c => c.date !== active?.date)
+          .map(c => (
+            <option key={c.sha} value={c.date}>
+              {c.date} · {c.sha.slice(0, 7)}
+            </option>
+          ))}
+      </select>
+      <span className="text-[11px] text-ink-soft">
+        contra{' '}
+        <span className="font-mono">{active?.date ?? '—'}</span>
+      </span>
+      {isRangeDiff && (
+        <button
+          onClick={() => onPickVs(null)}
+          className="ml-auto text-[10px] text-ink-faint hover:text-ink"
+          title="Volver a la comparación con la versión anterior"
+        >
+          ✕ limpiar
+        </button>
+      )}
+    </div>
+  )
+}
+
+function LLMButton({
+  kind,
+  law,
+  versionDate,
+  sha,
+  relDir,
+}: {
+  kind: 'chatgpt' | 'claude'
+  law: { tipo: string; numero: string; titulo: string }
+  versionDate?: string
+  sha?: string
+  relDir: string
+}) {
+  if (!sha || !versionDate) return null
+  const rawUrl = ds.rawTextUrl(sha, relDir + '/texto.md')
+  const prompt =
+    `Analiza esta norma chilena y respóndeme en español:\n\n` +
+    `${capitalize(law.tipo)} N° ${law.numero} — "${law.titulo}"\n` +
+    `Versión vigente al ${versionDate}.\n` +
+    `Texto completo: ${rawUrl}\n\n` +
+    `Necesito un resumen y los puntos más importantes.`
+  const href =
+    kind === 'chatgpt'
+      ? `https://chat.openai.com/?q=${encodeURIComponent(prompt)}`
+      : `https://claude.ai/new?q=${encodeURIComponent(prompt)}`
+  const label = kind === 'chatgpt' ? 'ChatGPT' : 'Claude'
+  return (
+    <a
+      href={href}
+      target="_blank"
+      rel="noopener noreferrer"
+      title={`Abrir esta versión en ${label} con un prompt prellenado`}
+      className="text-[10px] text-ink-faint hover:text-indigo border border-rule rounded px-1.5 py-0.5 transition font-ui inline-flex items-center gap-1"
+    >
+      <SparkleIcon />
+      {label}
+    </a>
   )
 }
 
@@ -259,6 +431,22 @@ function capitalize(s: string): string {
 }
 function truncate(s: string, n: number): string {
   return s.length <= n ? s : s.slice(0, n - 1).trimEnd() + '…'
+}
+
+function GitHubIcon() {
+  return (
+    <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+      <path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.1.79-.25.79-.56v-2.18c-3.2.7-3.87-1.36-3.87-1.36-.52-1.33-1.27-1.68-1.27-1.68-1.04-.71.08-.69.08-.69 1.15.08 1.76 1.18 1.76 1.18 1.02 1.75 2.68 1.24 3.34.95.1-.74.4-1.24.72-1.53-2.55-.29-5.23-1.27-5.23-5.65 0-1.25.45-2.27 1.18-3.07-.12-.29-.51-1.46.11-3.04 0 0 .96-.31 3.15 1.18a10.9 10.9 0 0 1 5.74 0c2.19-1.49 3.15-1.18 3.15-1.18.62 1.58.23 2.75.11 3.04.73.8 1.18 1.82 1.18 3.07 0 4.39-2.69 5.36-5.25 5.64.41.35.78 1.05.78 2.12v3.14c0 .31.21.67.8.56 4.56-1.52 7.85-5.83 7.85-10.91C23.5 5.65 18.35.5 12 .5z"/>
+    </svg>
+  )
+}
+
+function SparkleIcon() {
+  return (
+    <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+      <path d="M12 2v6M12 16v6M2 12h6M16 12h6M5 5l3.5 3.5M15.5 15.5L19 19M19 5l-3.5 3.5M8.5 15.5L5 19" />
+    </svg>
+  )
 }
 
 function Loading() {

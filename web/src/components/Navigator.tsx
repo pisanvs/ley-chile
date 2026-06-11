@@ -64,7 +64,7 @@ function ChronologyGroup({ activeId }: { activeId: number }) {
   const idleReady = useIdleReady()
   const q = useQuery({
     queryKey: ['nav', 'chrono', activeId],
-    queryFn: () => chronologicalNeighbours(activeId, 5),
+    queryFn: () => chronologicalNeighbours(activeId, 3),
     enabled: idleReady,
     staleTime: Infinity,
   })
@@ -73,7 +73,7 @@ function ChronologyGroup({ activeId }: { activeId: number }) {
     <section className="space-y-2">
       <SidebarHeading>Cronología</SidebarHeading>
       <p className="text-[10px] text-ink-faint -mt-1">
-        ±5 normas publicadas alrededor de ésta.
+        ±3 normas publicadas alrededor de ésta.
       </p>
       {!q.data && !q.isError && <ListSkeleton />}
       {q.isError && <p className="text-[11px] text-ruby">No se pudo cargar.</p>}
