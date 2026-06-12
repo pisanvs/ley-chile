@@ -24,7 +24,7 @@ export function orderByMention(
     const slug = findMentionSlug(mod, segments)
     const segIdx = slug !== null
       ? segments.findIndex(s => s.slug === slug)
-      : Infinity + originalIdx
+      : Number.POSITIVE_INFINITY + originalIdx
     return { mod, slug, segIdx, originalIdx }
   })
 

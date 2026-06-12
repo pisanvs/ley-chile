@@ -138,7 +138,7 @@ export const annotations = {
 /** Reader preferences — also localStorage but a separate namespace so they're
  *  not exported with annotations. */
 
-export type ReaderMode = 'redline' | 'clean' | 'source' | 'side-by-side'
+export type ReaderMode = 'redline' | 'clean' | 'source' | 'side-by-side' | 'effects'
 export interface ReaderPrefs {
   mode: ReaderMode
   monospace: boolean
