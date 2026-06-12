@@ -189,6 +189,18 @@ Prevents duplicate indexing of `?` query variants.
 
 ---
 
+## Out of scope (future)
+
+Three content/distribution ideas to revisit separately:
+
+1. **Programmatic SEO pages** — static HTML per law × date ("Código del Trabajo en 2010", "Cómo cambió la ley X en 2019"). Requires migrating the SPA to SSG (e.g. Astro or Vite SSG). High SEO impact, significant architectural change.
+2. **Instagram content agent** — daily Claude pipeline that finds interesting law changes in the git history, writes a post, generates an image, posts via Instagram Graph API.
+3. **Blog** — long-form AI-drafted content about legal evolution: most-amended laws, biggest changes by year, historically significant modifications.
+
+Each is an independent subsystem with its own spec/plan.
+
+---
+
 ## Implementation scope
 
 1. **`web/index.html`** — update `<title>` and add base `<meta>` tags
