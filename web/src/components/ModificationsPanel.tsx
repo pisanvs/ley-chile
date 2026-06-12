@@ -79,7 +79,7 @@ export function ModificationsPanel({ causaId }: Props) {
           className="text-[10px] bg-indigo text-paper px-2 py-1 rounded hover:opacity-90 font-ui"
           title="Cargar todas y saltar a la primera"
         >
-          Abrir + saltar →
+          Abrir y navegar
         </button>
       </div>
       <ul className="space-y-1.5 max-h-[60vh] overflow-y-auto scrollbar-quiet pr-1 -mr-1">
@@ -122,7 +122,7 @@ function ModRow({
           className="text-[9.5px] text-ink-faint opacity-0 group-hover:opacity-100 hover:text-ink transition"
           title="Abrir en pestaña sin saltar"
         >
-          ⤴ segundo plano
+          Abrir sin saltar
         </button>
       </div>
     </li>
