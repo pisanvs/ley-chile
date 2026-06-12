@@ -56,8 +56,7 @@ function TimeMachine() {
           className="font-display text-4xl md:text-[3.6rem] leading-[1.04] tracking-tight text-balance lc-fade-up"
           style={{ animationDelay: '60ms' }}
         >
-          El corpus jurídico chileno,
-          <span className="text-ruby"> en vivo</span>.
+          Para agentes y humanos.
         </h1>
         <p
           className="mt-6 text-ink-soft max-w-2xl text-[15.5px] leading-relaxed lc-fade-up"
