@@ -237,9 +237,16 @@ en el array `commits` del historial.
 
 ### Diff entre versiones
 
-No existe un endpoint de diff precalculado. Para comparar dos versiones:
-1. Obtén `texto.md` del sha A y del sha B.
-2. Aplica un diff estándar (unified diff, word diff, etc.) según tu necesidad.
+GitHub expone diffs directamente desde los commits de la rama `historial`:
+
+Cambios introducidos por un commit específico (una publicación legislativa):
+- GET https://github.com/pisanvs/ley-chile/commit/{sha}.diff  → unified diff patch
+
+Diff entre dos versiones cualesquiera:
+- GET https://github.com/pisanvs/ley-chile/compare/{shaA}...{shaB}.diff  → patch completo
+
+Cada commit en `historial` representa exactamente una publicación legislativa,
+por lo que `commit/{sha}.diff` equivale a "qué cambió en esta reforma".
 
 ### Grafo de modificaciones
 
@@ -270,10 +277,12 @@ Obtener texto vigente de la Ley 20.720:
 2. GET idx/commits/1003455.json → tomar sha del último commit
 3. GET raw.githubusercontent.com/pisanvs/ley-chile/{sha}/leyes/20720/texto.md
 
-Ver cómo cambió un artículo en una reforma:
-1. GET idx/commits/{idNorma}.json → identificar dos shas consecutivos
-2. GET texto.md para cada sha
-3. Aplicar diff sobre el contenido
+Ver qué cambió en una reforma específica:
+1. GET idx/commits/{idNorma}.json → identificar el sha del commit de esa reforma
+2. GET https://github.com/pisanvs/ley-chile/commit/{sha}.diff → patch completo
+
+Comparar dos versiones arbitrarias:
+- GET https://github.com/pisanvs/ley-chile/compare/{shaA}...{shaB}.diff
 
 Identificar qué leyes han modificado el Código del Trabajo:
 1. Resolver número → idNorma vía by-numero.json
