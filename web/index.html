@@ -5,6 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>ley-chile · corpus jurídico chileno en vivo</title>
     <link rel="preconnect" href="https://raw.githubusercontent.com" />
+    <script>
+      // GitHub Pages SPA fallback: 404.html re-issues deep links as
+      // /?/ley/12345/2020-01-01 — unwrap that here back to the real
+      // path before the router boots, so TanStack sees the genuine URL
+      // and shareable deep links resolve straight into the app.
+      (function (l) {
+        if (l.search[1] === '/') {
+          var decoded = l.search
+            .slice(1)
+            .split('&')
+            .map(function (s) { return s.replace(/~and~/g, '&'); })
+            .join('?');
+          window.history.replaceState(null, null,
+            l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      })(window.location);
+    </script>
   </head>
   <body>
     <div id="root"></div>

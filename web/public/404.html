@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>ley·chile — redirigiendo…</title>
+    <script>
+      // SPA fallback for GitHub Pages.
+      //
+      // Project Pages serves files literally: a request for
+      // /ley-chile/ley/12345/2020-01-01 looks for that exact file on disk
+      // and 404s. By copying this page in for 404s, we get the SPA bundle
+      // loaded; we then encode the requested path into the query string
+      // (/ley-chile/?/ley/12345/2020-01-01) and let index.html unwrap it
+      // back to the original URL with history.replaceState, so the
+      // TanStack Router sees the real route.
+      //
+      // segmentCount = number of path segments BEFORE the SPA mount point.
+      // For a project page hosted at https://user.github.io/REPO/, this
+      // is 1 (the REPO segment). For a user/org page (apex), use 0.
+      var segmentCount = 1;
+      var l = window.location;
+      l.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+        l.pathname.split('/').slice(0, 1 + segmentCount).join('/') + '/?/' +
+        l.pathname.slice(1).split('/').slice(segmentCount).join('/').replace(/&/g, '~and~') +
+        (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+        l.hash
+      );
+    </script>
+  </head>
+  <body>
+    <noscript>
+      Para usar este sitio necesitás JavaScript habilitado.
+      <a href="https://pisanvs.github.io/ley-chile/">Volver al inicio</a>
+    </noscript>
+  </body>
+</html>
