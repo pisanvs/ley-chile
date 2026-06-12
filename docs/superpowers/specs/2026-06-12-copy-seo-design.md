@@ -189,6 +189,99 @@ Prevents duplicate indexing of `?` query variants.
 
 ---
 
+## `llms.txt` — agent instructions
+
+A file at `https://pisanvs.github.io/ley-chile/llms.txt` following the [llmstxt convention](https://llmstxt.org/) — a structured markdown document telling AI agents how to query the corpus programmatically. This fits directly with the "Para agentes y humanos" positioning.
+
+### Content (`web/public/llms.txt`)
+
+```markdown
+# ley·chile
+
+> El corpus jurídico chileno completo en formato legible para agentes y humanos.
+> Todas las leyes, decretos y códigos de Chile desde su promulgación, con historial
+> de versiones y diff entre modificaciones. Datos oficiales de la BCN.
+
+## Acceso programático
+
+### Descubrir normas
+
+Buscar por número de ley (e.g. "20720"):
+- GET https://pisanvs.github.io/ley-chile/idx/by-numero.json
+  → objeto { "20720": 1003455, ... } que mapea número → idNorma
+
+Índice completo de títulos y tipos:
+- GET https://pisanvs.github.io/ley-chile/idx/titles.json
+
+### Historial de versiones de una norma
+
+- GET https://pisanvs.github.io/ley-chile/idx/commits/{idNorma}.json
+  → { norma: { id_norma, numero, tipo, titulo, organismo, fecha_publicacion },
+      commits: [{ sha, date, causa_id, subject, magnitude }],
+      rel_dir: "leyes/20720" }
+
+Cada commit representa una publicación legislativa. `date` es YYYY-MM-DD.
+`causa_id` es el idNorma de la norma que causó este cambio (puede ser la misma).
+`magnitude` indica el tamaño del cambio en líneas.
+
+### Texto de una versión específica
+
+- GET https://raw.githubusercontent.com/pisanvs/ley-chile/{sha}/{rel_dir}/texto.md
+  → texto completo en Markdown, artículos delimitados por encabezados
+
+- GET https://raw.githubusercontent.com/pisanvs/ley-chile/{sha}/{rel_dir}/metadata.json
+  → metadatos de esa versión (fecha, organismo, título, etc.)
+
+Para obtener el texto vigente (versión más reciente), usa el sha del último commit
+en el array `commits` del historial.
+
+### Diff entre versiones
+
+No existe un endpoint de diff precalculado. Para comparar dos versiones:
+1. Obtén `texto.md` del sha A y del sha B.
+2. Aplica un diff estándar (unified diff, word diff, etc.) según tu necesidad.
+
+### Grafo de modificaciones
+
+Leyes que esta norma modificó:
+- GET https://pisanvs.github.io/ley-chile/idx/modifies/{idNorma}.json
+
+Leyes que modificaron a esta norma:
+- GET https://pisanvs.github.io/ley-chile/idx/modified_by/{idNorma}.json
+
+### Repositorio git completo
+
+El historial legislativo completo está disponible como repositorio git:
+- git clone --branch historial --single-branch https://github.com/pisanvs/ley-chile historial
+
+Cada commit en la rama `historial` corresponde a una publicación legislativa.
+El mensaje de commit identifica la norma causante.
+Los archivos dentro de cada commit siguen la estructura:
+  leyes/{numero}/texto.md
+  leyes/{numero}/metadata.json
+  modificaciones/{numero}/texto.md  (para leyes modificatorias)
+  dl/{numero}/texto.md              (decretos ley)
+  dfl/{organismo}/{numero}/texto.md (decretos con fuerza de ley)
+
+## Ejemplos de uso
+
+Obtener texto vigente de la Ley 20.720:
+1. GET idx/by-numero.json → idNorma = 1003455
+2. GET idx/commits/1003455.json → tomar sha del último commit
+3. GET raw.githubusercontent.com/pisanvs/ley-chile/{sha}/leyes/20720/texto.md
+
+Ver cómo cambió un artículo en una reforma:
+1. GET idx/commits/{idNorma}.json → identificar dos shas consecutivos
+2. GET texto.md para cada sha
+3. Aplicar diff sobre el contenido
+
+Identificar qué leyes han modificado el Código del Trabajo:
+1. Resolver número → idNorma vía by-numero.json
+2. GET idx/modified_by/{idNorma}.json
+```
+
+---
+
 ## Out of scope (future)
 
 Three content/distribution ideas to revisit separately:
@@ -215,3 +308,4 @@ Each is an independent subsystem with its own spec/plan.
 10. **`web/public/robots.txt`** — new file
 11. **`scripts/build_sitemap.py`** — new script, reads catalog.json, writes web/public/sitemap.xml
 12. **CI workflow** — add sitemap build step after catalog is updated
+13. **`web/public/llms.txt`** — new file, static, content as defined in spec above
