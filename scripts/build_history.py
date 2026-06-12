@@ -391,8 +391,16 @@ def _version_files(
     fecha: str,
     node: dict,
     rel_dir: Path,
+    include_metadata: bool = True,
 ) -> dict[str, bytes]:
-    """Build the files dict for one law version commit."""
+    """Build the files dict for one law version commit.
+
+    When ``include_metadata`` is False (modifying commits, ``i > 0``), the
+    metadata.json from the creating commit is preserved unchanged. This is
+    what guarantees that a law's tipo/numero/titulo reflect its publication
+    and never the latest modifier — even if BCN's graph later reclassifies
+    the norma when scraping a modifier of a different tipo.
+    """
     ver_data = _load_version_json(cache_dir, id_norma, fecha)
     files: dict[str, bytes] = {}
 
@@ -402,18 +410,18 @@ def _version_files(
             path = str(rel_dir / "texto.md")
             files[path] = texto.encode("utf-8")
 
-    # Always write metadata.json
-    meta = {
-        "idNorma": id_norma,
-        "numero": node.get("numero"),
-        "titulo": node.get("titulo"),
-        "fechaPublicacion": node.get("fechaPublicacion"),
-        "tipo": node.get("tipo"),
-        "clasificacion": node.get("clasificacion"),
-        "version": fecha,
-    }
-    meta_path = str(rel_dir / "metadata.json")
-    files[meta_path] = json.dumps(meta, ensure_ascii=False, indent=2).encode("utf-8")
+    if include_metadata:
+        meta = {
+            "idNorma": id_norma,
+            "numero": node.get("numero"),
+            "titulo": node.get("titulo"),
+            "fechaPublicacion": node.get("fechaPublicacion"),
+            "tipo": node.get("tipo"),
+            "clasificacion": node.get("clasificacion"),
+            "version": fecha,
+        }
+        meta_path = str(rel_dir / "metadata.json")
+        files[meta_path] = json.dumps(meta, ensure_ascii=False, indent=2).encode("utf-8")
 
     return files
 
@@ -541,9 +549,16 @@ def _collect_events(
                     _rank=0,
                 )
 
-            # Add this version's files to the causing commit
+            # Add this version's files to the causing commit. metadata.json
+            # is included only on the law's creating commit (i == 0); later
+            # modifications carry just texto.md, so the recorded tipo is
+            # forever the original tipo as published and can't drift if the
+            # BCN graph reclassifies the norma during a later scrape.
             events_by_cause[key].files.update(
-                _version_files(data_root, cache_dir, id_norma, fecha, node, rel_dir)
+                _version_files(
+                    data_root, cache_dir, id_norma, fecha, node, rel_dir,
+                    include_metadata=(i == 0),
+                )
             )
 
             # Derogation: deletes + optional symlink attached to the same causing commit

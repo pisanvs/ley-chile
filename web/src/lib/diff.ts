@@ -155,27 +155,65 @@ export interface Aligned {
 }
 
 export function align(prev: Segment[], curr: Segment[]): Aligned[] {
-  const prevByLabel = new Map<string, Segment>()
-  prev.forEach(s => prevByLabel.set(s.label, s))
+  // Sequence diff over the LABEL sequence (not a Map). Codes like the Código
+  // del Trabajo contain the same article number in multiple capítulos, so
+  // labels are NOT unique. A map-keyed-by-label collapsed all duplicates
+  // onto the last entry, which made every duplicate label compare against
+  // the wrong body and surface as 'modified' — even when the two versions
+  // were byte-identical. A positional sequence diff handles duplicates
+  // correctly because the alignment is over positions, not identities.
+  //
+  // diff_match_patch.diff_linesToChars_ collapses each unique line (here,
+  // each unique label) into a single code-unit. The diff then runs on those
+  // code-units. Two identical label sequences produce a single equal op
+  // covering everything, so identical input → all 'unchanged'.
+  const dmp = new DiffMatchPatch()
+  const prevText = prev.map(s => s.label).join('\n')
+  const currText = curr.map(s => s.label).join('\n')
+  const enc = dmp.diff_linesToChars_(prevText, currText)
+  const ops = dmp.diff_main(enc.chars1, enc.chars2, false)
+  dmp.diff_cleanupSemantic(ops)
 
   const result: Aligned[] = []
-  const usedPrev = new Set<string>()
-
-  for (const c of curr) {
-    const p = prevByLabel.get(c.label)
-    if (!p) {
-      result.push({ prev: null, curr: c, status: 'added' })
-    } else {
-      usedPrev.add(c.label)
-      const status: Aligned['status'] = p.body === c.body ? 'unchanged' : 'modified'
-      result.push({ prev: p, curr: c, status })
+  let pi = 0
+  let ci = 0
+  for (let i = 0; i < ops.length; i++) {
+    const [op, chunk] = ops[i]
+    const n = chunk.length
+    if (op === 0) {
+      for (let k = 0; k < n; k++) {
+        const p = prev[pi++]
+        const c = curr[ci++]
+        result.push({ prev: p, curr: c, status: p.body === c.body ? 'unchanged' : 'modified' })
+      }
+      continue
     }
-  }
-  // Removed segments (in prev but not in curr) — append at the end so the
-  // reader sees what disappeared, with order preserved.
-  for (const p of prev) {
-    if (!usedPrev.has(p.label)) {
-      result.push({ prev: p, curr: null, status: 'removed' })
+    if (op === -1 && i + 1 < ops.length && ops[i + 1][0] === 1) {
+      // Adjacent delete+insert: pair as 'modified' so a renamed-or-rewritten
+      // article shows as one slot instead of two stacked blocks.
+      const insN = ops[i + 1][1].length
+      const pairs = Math.min(n, insN)
+      for (let k = 0; k < pairs; k++) {
+        result.push({ prev: prev[pi++], curr: curr[ci++], status: 'modified' })
+      }
+      for (let k = pairs; k < n; k++) {
+        result.push({ prev: prev[pi++], curr: null, status: 'removed' })
+      }
+      for (let k = pairs; k < insN; k++) {
+        result.push({ prev: null, curr: curr[ci++], status: 'added' })
+      }
+      i++
+      continue
+    }
+    if (op === -1) {
+      for (let k = 0; k < n; k++) {
+        result.push({ prev: prev[pi++], curr: null, status: 'removed' })
+      }
+      continue
+    }
+    // op === 1, isolated insert
+    for (let k = 0; k < n; k++) {
+      result.push({ prev: null, curr: curr[ci++], status: 'added' })
     }
   }
   return result

@@ -109,6 +109,39 @@ describe('align', () => {
     )
     expect(out[0].status).toBe('added')
   })
+
+  // Regression: laws containing the same article number in multiple
+  // chapters (e.g. Código del Trabajo has many "Artículo 1" repeating
+  // across libros and capítulos) used to collapse onto the last
+  // occurrence in a Map<label, Segment>, so every duplicate label
+  // surfaced as 'modified' even when the two versions were byte-identical.
+  it('handles duplicate labels positionally (no false modifications)', () => {
+    const make = (label: string, body: string) => ({ label, slug: label, rawHeading: '', body })
+    const same = [
+      make('art-1', 'libro 1 art 1'),
+      make('art-2', 'libro 1 art 2'),
+      make('art-1', 'libro 2 art 1'),
+      make('art-2', 'libro 2 art 2'),
+    ]
+    const out = align(same, same)
+    expect(out).toHaveLength(4)
+    expect(out.every(a => a.status === 'unchanged')).toBe(true)
+  })
+  it('detects a real modification amid duplicate labels', () => {
+    const make = (label: string, body: string) => ({ label, slug: label, rawHeading: '', body })
+    const prev = [
+      make('art-1', 'libro 1 art 1 v1'),
+      make('art-1', 'libro 2 art 1 v1'),
+    ]
+    const curr = [
+      make('art-1', 'libro 1 art 1 v1'),
+      make('art-1', 'libro 2 art 1 v2 nuevo'),
+    ]
+    const out = align(prev, curr)
+    expect(out).toHaveLength(2)
+    expect(out[0].status).toBe('unchanged')
+    expect(out[1].status).toBe('modified')
+  })
 })
 
 describe('paragraphDiff', () => {

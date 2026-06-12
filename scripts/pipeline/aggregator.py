@@ -315,10 +315,15 @@ def collect_publications(
             change_set = _find_or_create_change_set(
                 pub, id_norma, affected_numero, affected_scope
             )
+            # metadata.json only on the creating commit (i == 0). After that
+            # the law's tipo/numero/titulo are frozen against later
+            # modifications, so a Decreto modifying a Ley can never re-tag
+            # the Ley as a Decreto.
             change_set.files.update(
                 _version_files(
                     data_root, cache_dir, id_norma, fecha,
                     affected_node_dict, affected_rel_dir,
+                    include_metadata=(i == 0),
                 )
             )
 
