@@ -1,8 +1,10 @@
 const BASE = import.meta.env.BASE_URL ?? '/'
 const REPO = import.meta.env.VITE_REPO ?? 'pisanvs/ley-chile'
+// Allow overriding the data origin (e.g. point at prod GH Pages while running locally)
+const DATA_BASE = import.meta.env.VITE_DATA_BASE ?? BASE
 
 function joinBase(rel: string): string {
-  return (BASE.endsWith('/') ? BASE : BASE + '/') + rel.replace(/^\//, '')
+  return (DATA_BASE.endsWith('/') ? DATA_BASE : DATA_BASE + '/') + rel.replace(/^\//, '')
 }
 
 export const ds = {

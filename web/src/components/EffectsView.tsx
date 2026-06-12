@@ -24,7 +24,7 @@ const LABEL_PX = 44
 const GROUP_GAP = 12
 
 export function EffectsView({ causaId, sha, relDir }: Props) {
-  const [mode, setMode] = useState<DisplayMode>('split')
+  const [mode, setMode] = useState<DisplayMode>('effects-only')
 
   const modQ = useQuery({
     queryKey: ['modifies', causaId],
@@ -152,46 +152,45 @@ export function EffectsView({ causaId, sha, relDir }: Props) {
             ? 'grid-cols-[0px_1fr]'
             : 'grid-cols-[1fr_0px]'
       }`}>
-
-        <div
-          ref={leftRef}
-          className={`overflow-y-auto scrollbar-quiet border-r-2 border-rule ${
-            mode === 'effects-only' ? 'hidden' : ''
-          }`}
-        >
-          <PaneLabel dot="indigo">Ley modificadora — texto íntegro</PaneLabel>
-          <div className="px-8 pb-20 prose-reader text-[14px] leading-relaxed">
-            {modifierSegs.map(s => (
-              <ArticleSegment
-                key={s.slug}
-                idNorma={causaId}
-                slug={s.slug}
-                heading={s.rawHeading}
-                status="unchanged"
-              >
-                <ReactMarkdown remarkPlugins={[remarkGfm]}>{s.body}</ReactMarkdown>
-              </ArticleSegment>
-            ))}
-          </div>
+        {/* Left pane — stays in DOM so grid tracks are preserved; content gated */}
+        <div ref={leftRef} className="overflow-hidden overflow-y-auto scrollbar-quiet border-r-2 border-rule">
+          {mode !== 'effects-only' && (
+            <>
+              <PaneLabel dot="indigo">Ley modificadora — texto íntegro</PaneLabel>
+              <div className="px-8 pb-20 prose-reader text-[14px] leading-relaxed">
+                {modifierSegs.map(s => (
+                  <ArticleSegment
+                    key={s.slug}
+                    idNorma={causaId}
+                    slug={s.slug}
+                    heading={s.rawHeading}
+                    status="unchanged"
+                  >
+                    <ReactMarkdown remarkPlugins={[remarkGfm]}>{s.body}</ReactMarkdown>
+                  </ArticleSegment>
+                ))}
+              </div>
+            </>
+          )}
         </div>
 
-        <div
-          ref={rightRef}
-          className={`overflow-y-auto scrollbar-quiet bg-paper-sunk/40 ${
-            mode === 'text-only' ? 'hidden' : ''
-          }`}
-        >
-          <PaneLabel dot="moss">
-            Cambios en otras normas
-            <span className="ml-auto text-[9px] bg-rule rounded-full px-2 py-0.5 text-ink-soft normal-case tracking-normal">
-              {orderedMods.length}
-            </span>
-          </PaneLabel>
-          <div className="px-4 pb-20">
-            {orderedMods.map(mod => (
-              <EffectGroup key={mod.idNorma} mod={mod} />
-            ))}
-          </div>
+        {/* Right pane — stays in DOM so grid tracks are preserved; content gated */}
+        <div ref={rightRef} className="overflow-hidden overflow-y-auto scrollbar-quiet bg-paper-sunk/40">
+          {mode !== 'text-only' && (
+            <>
+              <PaneLabel dot="moss">
+                Cambios en otras normas
+                <span className="ml-auto text-[9px] bg-rule rounded-full px-2 py-0.5 text-ink-soft normal-case tracking-normal">
+                  {orderedMods.length}
+                </span>
+              </PaneLabel>
+              <div className="px-4 pb-20">
+                {orderedMods.map(mod => (
+                  <EffectGroup key={mod.idNorma} mod={mod} />
+                ))}
+              </div>
+            </>
+          )}
         </div>
       </div>
     </div>
@@ -276,17 +275,9 @@ function EffectGroup({
         )}
       </div>
 
-      {changed.map((a, i) => {
-        const label = (a.curr ?? a.prev)?.rawHeading ?? `Cambio ${i + 1}`
-        return (
-          <EffectCard
-            key={i}
-            aligned={a}
-            artLabel={label}
-            lawName={lawLabel}
-          />
-        )
-      })}
+      {changed.map((a, i) => (
+        <EffectCard key={i} aligned={a} />
+      ))}
 
       {changed.length === 0 && !currQ.isLoading && (
         <p className="text-[11px] text-ink-faint italic py-2">

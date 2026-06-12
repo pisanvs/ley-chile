@@ -96,7 +96,9 @@ function IDEPage() {
   const effectiveMode: ReaderViewMode =
     (isOriginal && (requestedMode === 'redline' || requestedMode === 'side-by-side'))
       ? 'clean'
-      : requestedMode
+      : (hasModifications && (requestedMode === 'redline' || requestedMode === 'side-by-side'))
+        ? 'effects'
+        : requestedMode
 
   const isEffectsMode = effectiveMode === 'effects'
   const onMode = (m: ReaderViewMode) => setPrefs(writePrefs({ mode: m }))
@@ -239,8 +241,8 @@ function ModeToggle({
   canEffects: boolean
 }) {
   const opts: { id: ReaderViewMode; label: string; needsDiff?: boolean; hidden?: boolean }[] = [
-    { id: 'redline', label: 'Redline', needsDiff: true },
-    { id: 'side-by-side', label: 'Lado a lado', needsDiff: true },
+    { id: 'redline', label: 'Redline', needsDiff: true, hidden: canEffects },
+    { id: 'side-by-side', label: 'Lado a lado', needsDiff: true, hidden: canEffects },
     { id: 'clean', label: 'Limpio' },
     { id: 'source', label: 'Fuente' },
     { id: 'effects', label: 'Efectos ↗', hidden: !canEffects },
