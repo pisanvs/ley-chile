@@ -25,6 +25,7 @@ const GROUP_GAP = 12
 
 export function EffectsView({ causaId, sha, relDir }: Props) {
   const [mode, setMode] = useState<DisplayMode>('effects-only')
+  const [hoveredSlug, setHoveredSlug] = useState<string | null>(null)
 
   const modQ = useQuery({
     queryKey: ['modifies', causaId],
@@ -123,6 +124,26 @@ export function EffectsView({ causaId, sha, relDir }: Props) {
   const modifierText = textQ.data ?? ''
   const modifierSegs = useMemo(() => segment(modifierText), [modifierText])
 
+  const slugToMod = useMemo(() => {
+    const map = new Map<string, typeof orderedMods[0]>()
+    for (const m of orderedMods) if (m.artSlug) map.set(m.artSlug, m)
+    return map
+  }, [orderedMods])
+
+  const scrollToGroup = useCallback((artSlug: string) => {
+    const mod = slugToMod.get(artSlug)
+    if (!mod || !rightRef.current) return
+    const el = rightRef.current.querySelector<HTMLElement>(`[data-group-id="${mod.idNorma}"]`)
+    el?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
+  }, [slugToMod])
+
+  const scrollToArticle = useCallback((idNorma: number) => {
+    const mod = orderedMods.find(m => m.idNorma === idNorma)
+    if (!mod?.artSlug || !leftRef.current) return
+    const el = leftRef.current.querySelector<HTMLElement>(`#art-${mod.artSlug}`)
+    el?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
+  }, [orderedMods])
+
   if (modQ.isLoading || textQ.isLoading) {
     return <div className="p-10 text-sm text-ink-faint">Cargando efectos…</div>
   }
@@ -158,17 +179,36 @@ export function EffectsView({ causaId, sha, relDir }: Props) {
             <>
               <PaneLabel dot="indigo">Ley modificadora — texto íntegro</PaneLabel>
               <div className="px-8 pb-20 prose-reader text-[14px] leading-relaxed">
-                {modifierSegs.map(s => (
-                  <ArticleSegment
-                    key={s.slug}
-                    idNorma={causaId}
-                    slug={s.slug}
-                    heading={s.rawHeading}
-                    status="unchanged"
-                  >
-                    <ReactMarkdown remarkPlugins={[remarkGfm]}>{s.body}</ReactMarkdown>
-                  </ArticleSegment>
-                ))}
+                {modifierSegs.map(s => {
+                  const hasDiff = slugToMod.has(s.slug)
+                  const isHovered = hoveredSlug === s.slug
+                  return (
+                    <div
+                      key={s.slug}
+                      onMouseEnter={() => {
+                        setHoveredSlug(s.slug)
+                        if (hasDiff) scrollToGroup(s.slug)
+                      }}
+                      onMouseLeave={() => setHoveredSlug(null)}
+                      className={`rounded-sm transition-colors ${
+                        hasDiff
+                          ? isHovered
+                            ? 'bg-indigo/8 cursor-pointer'
+                            : 'hover:bg-indigo/5 cursor-pointer'
+                          : ''
+                      }`}
+                    >
+                      <ArticleSegment
+                        idNorma={causaId}
+                        slug={s.slug}
+                        heading={s.rawHeading}
+                        status="unchanged"
+                      >
+                        <ReactMarkdown remarkPlugins={[remarkGfm]}>{s.body}</ReactMarkdown>
+                      </ArticleSegment>
+                    </div>
+                  )
+                })}
               </div>
             </>
           )}
@@ -186,7 +226,16 @@ export function EffectsView({ causaId, sha, relDir }: Props) {
               </PaneLabel>
               <div className="px-4 pb-20">
                 {orderedMods.map(mod => (
-                  <EffectGroup key={mod.idNorma} mod={mod} />
+                  <EffectGroup
+                    key={mod.idNorma}
+                    mod={mod}
+                    highlighted={mod.artSlug !== null && mod.artSlug === hoveredSlug}
+                    onHover={() => {
+                      setHoveredSlug(mod.artSlug)
+                      if (mode === 'split') scrollToArticle(mod.idNorma)
+                    }}
+                    onLeave={() => setHoveredSlug(null)}
+                  />
                 ))}
               </div>
             </>
@@ -231,8 +280,14 @@ function ModeBtn({
 
 function EffectGroup({
   mod,
+  highlighted,
+  onHover,
+  onLeave,
 }: {
   mod: OrderedMod & { prevSha: string | null; affectedRelDir: string }
+  highlighted?: boolean
+  onHover?: () => void
+  onLeave?: () => void
 }) {
   const currQ = useQuery({
     queryKey: ['rawtext', mod.sha, mod.affectedRelDir],
@@ -261,7 +316,9 @@ function EffectGroup({
   return (
     <div
       data-group-id={mod.idNorma}
-      className="mb-2"
+      onMouseEnter={onHover}
+      onMouseLeave={onLeave}
+      className={`mb-2 rounded transition-colors ${highlighted ? 'bg-indigo/5 ring-1 ring-inset ring-indigo/20' : ''}`}
     >
       <div className="text-[9px] uppercase tracking-[0.09em] text-ink-faint font-ui py-2.5 border-b border-rule mb-2 flex items-center gap-2">
         <span className="font-semibold text-ink-soft">{lawLabel}</span>
