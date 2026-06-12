@@ -4,13 +4,14 @@ interface Props {
   navigator?: ReactNode
   center: ReactNode
   rightRail?: ReactNode
+  fullBleedCenter?: boolean
 }
 
 /**
  * Three-pane layout that collapses cleanly to single-pane on mobile.
  * Rails are sticky inside the viewport; the center column scrolls.
  */
-export function IDEShell({ navigator, center, rightRail }: Props) {
+export function IDEShell({ navigator, center, rightRail, fullBleedCenter }: Props) {
   const [pane, setPane] = useState<'center' | 'nav' | 'right'>('center')
 
   return (
@@ -41,12 +42,13 @@ export function IDEShell({ navigator, center, rightRail }: Props) {
 
         <section
           className={`${
-            pane === 'center' ? 'block' : 'hidden'
-          } md:block overflow-y-auto scrollbar-quiet`}
+            pane === 'center' ? 'flex' : 'hidden'
+          } md:flex flex-col ${fullBleedCenter ? 'overflow-hidden' : 'overflow-y-auto scrollbar-quiet'}`}
         >
-          <div className="px-4 md:px-10 py-8 md:py-12 max-w-3xl mx-auto w-full">
-            {center}
-          </div>
+          {fullBleedCenter
+            ? center
+            : <div className="px-4 md:px-10 py-8 md:py-12 max-w-3xl mx-auto w-full">{center}</div>
+          }
         </section>
 
         <aside

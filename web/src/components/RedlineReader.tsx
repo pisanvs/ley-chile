@@ -6,7 +6,7 @@ import { fetchRawText } from '@/lib/rawtext'
 import { segment, align, wordDiff, joinDiffText, type Aligned } from '@/lib/diff'
 import { ArticleSegment } from '@/components/ArticleSegment'
 
-export type ReaderViewMode = 'redline' | 'clean' | 'source' | 'side-by-side'
+export type ReaderViewMode = 'redline' | 'clean' | 'source' | 'side-by-side' | 'effects'
 
 interface Props {
   idNorma: number
