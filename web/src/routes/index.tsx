@@ -220,6 +220,10 @@ function TimeMachine() {
         />
       </section>
 
+      <section className="px-6 md:px-12 max-w-5xl mx-auto pb-20">
+        <TerminalDemo />
+      </section>
+
       <section className="px-6 md:px-12 max-w-5xl mx-auto pb-24">
         <div className="flex items-baseline justify-between mb-3">
           <h2 className="font-display text-xl">
@@ -290,10 +294,6 @@ function TimeMachine() {
             </button>
           </div>
         )}
-      </section>
-
-      <section className="px-6 md:px-12 max-w-5xl mx-auto pb-24">
-        <TerminalDemo />
       </section>
 
       <ResearchSection />
