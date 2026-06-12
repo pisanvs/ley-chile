@@ -125,6 +125,9 @@ jobs:
       - name: Install web deps
         run: pnpm --dir code/web install --frozen-lockfile
 
+      - name: Generate sitemap
+        run: python code/scripts/build_sitemap.py --catalog code/web/public/catalog.json --out code/web/public/sitemap.xml
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
