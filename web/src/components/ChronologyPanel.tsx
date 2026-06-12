@@ -81,7 +81,7 @@ function EventRow({ ev, idNorma }: { ev: SlugEvent; idNorma: number }) {
           params={{ numero: String(ev.causaId) }}
           className="ml-auto text-[10px] text-ink-faint hover:text-indigo"
         >
-          causa →
+          ley origen →
         </Link>
       )}
     </li>
