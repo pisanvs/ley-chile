@@ -5,6 +5,8 @@ import { ds, landingUrl } from '@/lib/datasource'
 import { useCmdK } from '@/components/CmdK'
 import { YearRibbon } from '@/components/YearRibbon'
 import { loadTitles, type TitleEntry } from '@/lib/titles'
+import { TerminalDemo } from '@/components/TerminalDemo'
+import '@/components/TerminalDemo.css'
 
 export const Route = createFileRoute('/')({
   component: TimeMachine,
@@ -132,7 +134,12 @@ function TimeMachine() {
     if (selectedTipo) {
       pool = pool.filter(e => e.tipo.toLowerCase() === selectedTipo.toLowerCase())
     }
-    return pool.slice(0, 80)
+    // The unfiltered "Publicaciones recientes" view shows the top 5 by
+    // default — the demo section below it does the heavy lifting for
+    // showing what the corpus IS. Explicit filters (year / tipo) keep a
+    // wider window since the user is exploring at that point.
+    const cap = selectedYear === null && selectedTipo === null ? 5 : 80
+    return pool.slice(0, cap)
   }, [q.data, yearQ.data, titlesQ.data, selectedYear, selectedTipo])
 
   // Loading state used by the empty-state guard so we don't flash "no events"
@@ -270,6 +277,23 @@ function TimeMachine() {
             <EventRow key={`${e.sha}-${e.idNorma}`} ev={e} />
           ))}
         </ul>
+        {selectedYear === null && selectedTipo === null && filteredEvents.length > 0 && (
+          <div className="mt-4 flex justify-center">
+            <button
+              onClick={cmdk.open}
+              onMouseEnter={cmdk.prefetch}
+              onFocus={cmdk.prefetch}
+              className="text-xs text-ink-faint hover:text-indigo font-ui transition"
+              title="Buscar en todo el corpus"
+            >
+              Ver todo el corpus →
+            </button>
+          </div>
+        )}
+      </section>
+
+      <section className="px-6 md:px-12 max-w-5xl mx-auto pb-24">
+        <TerminalDemo />
       </section>
 
       <ResearchSection />

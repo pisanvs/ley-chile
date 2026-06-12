@@ -1,0 +1,226 @@
+/* TerminalDemo — drop-in styles. Uses the site's CSS variables so light
+   and dark themes are honoured automatically. */
+
+.td-section {
+  max-width: 760px;
+}
+.td-eyebrow {
+  display: inline-block;
+  font-family: var(--font-ui);
+  font-size: 10px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--color-ink-faint);
+  margin-bottom: 14px;
+}
+.td-title {
+  font-family: var(--font-display);
+  font-size: clamp(22px, 3.4vw, 30px);
+  line-height: 1.18;
+  letter-spacing: -0.01em;
+  margin: 0 0 14px;
+  text-wrap: balance;
+}
+.td-title em {
+  font-style: italic;
+  color: var(--color-ruby);
+}
+.td-sub {
+  color: var(--color-ink-soft);
+  font-size: 14.5px;
+  line-height: 1.55;
+  max-width: 62ch;
+  margin: 0 0 22px;
+}
+.td-inline-code {
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+  background: var(--color-paper-sunk);
+  border: 1px solid var(--color-rule);
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: var(--color-ink-soft);
+}
+
+.td-tabs {
+  display: flex;
+  gap: 6px;
+  margin: 18px 0 18px;
+  flex-wrap: wrap;
+}
+.td-tab {
+  font-family: var(--font-ui);
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  padding: 6px 11px;
+  border: 1px solid var(--color-rule);
+  border-radius: 999px;
+  color: var(--color-ink-faint);
+  background: transparent;
+  cursor: pointer;
+  transition: color 180ms ease, background 180ms ease, border-color 180ms ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.td-tab:hover {
+  color: var(--color-ink);
+  border-color: color-mix(in oklab, var(--color-ink) 30%, transparent);
+}
+.td-tab-dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: currentColor;
+  opacity: 0.45;
+}
+.td-tab--active {
+  background: var(--color-ink);
+  color: var(--color-paper);
+  border-color: var(--color-ink);
+}
+.td-tab--active .td-tab-dot { opacity: 1; }
+
+.td-question {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 17px;
+  line-height: 1.42;
+  color: var(--color-ink);
+  margin: 6px 0 14px;
+  text-wrap: balance;
+}
+.td-question::before {
+  content: "Q.";
+  display: inline-block;
+  margin-right: 8px;
+  font-family: var(--font-mono);
+  font-style: normal;
+  color: var(--color-ruby);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+.td-terminal {
+  background: var(--color-paper-raised);
+  border: 1px solid var(--color-rule);
+  border-radius: 10px;
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+  line-height: 1.65;
+  overflow: hidden;
+  box-shadow:
+    0 1px 0 rgba(0, 0, 0, 0.02),
+    0 6px 20px -8px rgba(0, 0, 0, 0.08);
+}
+[data-theme="dark"] .td-terminal {
+  background: var(--color-paper-sunk);
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.02),
+    0 8px 30px -10px rgba(0, 0, 0, 0.6);
+}
+.td-chrome {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 14px;
+  background: var(--color-paper-sunk);
+  border-bottom: 1px solid var(--color-rule);
+  font-family: var(--font-ui);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--color-ink-faint);
+}
+[data-theme="dark"] .td-chrome {
+  background: rgba(255, 255, 255, 0.02);
+}
+.td-dots {
+  display: flex;
+  gap: 6px;
+}
+.td-dots span {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--color-rule);
+}
+.td-chrome-path { color: var(--color-ink-faint); }
+.td-chrome-branch {
+  margin-left: auto;
+  color: var(--color-moss);
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  text-transform: none;
+  letter-spacing: 0;
+}
+[data-theme="dark"] .td-chrome-branch {
+  color: color-mix(in oklab, var(--color-moss) 90%, var(--color-paper) 10%);
+}
+
+.td-body {
+  padding: 14px 16px 18px;
+  min-height: 280px;
+  color: var(--color-ink-soft);
+}
+.td-cmd-line {
+  display: block;
+  color: var(--color-ink);
+}
+.td-cmd-text {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+.td-prompt {
+  color: var(--color-moss);
+  user-select: none;
+  font-weight: 600;
+}
+[data-theme="dark"] .td-prompt { color: var(--color-gold); }
+
+.td-cursor {
+  display: inline-block;
+  width: 7px;
+  height: 14px;
+  background: var(--color-ink);
+  margin-left: 2px;
+  vertical-align: -2px;
+  animation: td-blink 1s steps(2) infinite;
+}
+@keyframes td-blink { 50% { opacity: 0; } }
+
+.td-out {
+  margin-top: 10px;
+  opacity: 0;
+  transform: translateY(2px);
+  transition: opacity 380ms ease, transform 380ms ease;
+}
+.td-out--shown {
+  opacity: 1;
+  transform: translateY(0);
+}
+.td-out-text {
+  white-space: pre-wrap;
+  display: block;
+  color: var(--color-ink-soft);
+}
+
+/* Token roles shared between cmd and output. */
+.td-section .h    { color: var(--color-ink); font-weight: 600; }
+.td-section .flag { color: var(--color-indigo); }
+.td-section .path { color: var(--color-ink-soft); }
+.td-section .str  { color: var(--color-gold); }
+.td-section .sha  { color: var(--color-ruby); font-weight: 600; }
+.td-section .date { color: var(--color-indigo); }
+.td-section .com  { color: var(--color-ink-faint); font-style: italic; }
+
+.td-footer {
+  margin-top: 18px;
+  font-family: var(--font-ui);
+  font-size: 12.5px;
+  color: var(--color-ink-soft);
+  line-height: 1.55;
+}
+.td-footer-arrow { color: var(--color-ink-faint); }
