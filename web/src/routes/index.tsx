@@ -4,6 +4,7 @@ import { useMemo, useState } from 'react'
 import { ds, landingUrl } from '@/lib/datasource'
 import { useCmdK } from '@/components/CmdK'
 import { YearRibbon } from '@/components/YearRibbon'
+import { loadTitles, type TitleEntry } from '@/lib/titles'
 
 export const Route = createFileRoute('/')({
   component: TimeMachine,
@@ -42,6 +43,23 @@ async function fetchYearEvents(year: number): Promise<LandingEvent[]> {
   return (await r.json()) as LandingEvent[]
 }
 
+/** Promote a TitleEntry (from titles.json) into the LandingEvent shape the
+ *  homepage event row already knows how to render. The `date` is the law's
+ *  publication date so the row's anchor still navigates to a real version. */
+function titleToEvent(t: TitleEntry): LandingEvent {
+  return {
+    sha: '',
+    date: t.fechaPublicacion,
+    causaId: t.idNorma,
+    subject: '',
+    idNorma: t.idNorma,
+    numero: t.numero,
+    tipo: t.tipo,
+    titulo: t.titulo,
+    organismo: t.organismo,
+  }
+}
+
 function TimeMachine() {
   const q = useQuery({ queryKey: ['landing'], queryFn: fetchLanding })
   const cmdk = useCmdK()
@@ -62,6 +80,19 @@ function TimeMachine() {
     staleTime: Infinity,
   })
 
+  // The recentEvents window only has the last ~500 commits (12 months or so).
+  // That makes "filter by tipo" with no year look broken for low-frequency
+  // tipos: tipo=cod yields 1 result because only one código happened to be
+  // touched in that window, even though the corpus has 4 of them. When a tipo
+  // is selected on its own, we promote to the full titles index so the result
+  // pool is "every norma of this tipo", sorted by publication date desc.
+  const titlesQ = useQuery({
+    queryKey: ['titles'],
+    queryFn: loadTitles,
+    enabled: selectedTipo !== null && selectedYear === null,
+    staleTime: Infinity,
+  })
+
   const tipos = useMemo<{ tipo: string; count: number }[]>(() => {
     if (q.data?.tipos && q.data.tipos.length > 0) return q.data.tipos
     // Derive from recentEvents when the build hasn't populated tipos yet.
@@ -73,7 +104,23 @@ function TimeMachine() {
       .sort((a, b) => b.count - a.count)
   }, [q.data])
 
-  const filteredEvents = useMemo(() => {
+  const filteredEvents = useMemo<LandingEvent[]>(() => {
+    // Tipo-only path: pull from titles.json (the full corpus) so we see
+    // every norma of that tipo, not just whatever's been modified recently.
+    if (selectedTipo && selectedYear === null) {
+      const all = titlesQ.data ?? []
+      return all
+        .filter(t => t.tipo.toLowerCase() === selectedTipo.toLowerCase())
+        .sort((a, b) => {
+          const da = a.fechaPublicacion || '9999-99-99'
+          const db = b.fechaPublicacion || '9999-99-99'
+          if (da !== db) return da < db ? 1 : -1
+          return b.idNorma - a.idNorma
+        })
+        .slice(0, 80)
+        .map<LandingEvent>(t => titleToEvent(t))
+    }
+
     let pool: LandingEvent[]
     if (selectedYear !== null) {
       const shard = yearQ.data
@@ -86,7 +133,13 @@ function TimeMachine() {
       pool = pool.filter(e => e.tipo.toLowerCase() === selectedTipo.toLowerCase())
     }
     return pool.slice(0, 80)
-  }, [q.data, yearQ.data, selectedYear, selectedTipo])
+  }, [q.data, yearQ.data, titlesQ.data, selectedYear, selectedTipo])
+
+  // Loading state used by the empty-state guard so we don't flash "no events"
+  // while the titles index is still in flight.
+  const isFetchingPool =
+    (selectedYear !== null && yearQ.isLoading) ||
+    (selectedTipo !== null && selectedYear === null && titlesQ.isLoading)
 
   return (
     <div className="flex-1 overflow-y-auto scrollbar-quiet">
@@ -163,10 +216,18 @@ function TimeMachine() {
       <section className="px-6 md:px-12 max-w-5xl mx-auto pb-24">
         <div className="flex items-baseline justify-between mb-3">
           <h2 className="font-display text-xl">
-            {selectedYear ? `Eventos en ${selectedYear}` : 'Publicaciones recientes'}
+            {selectedYear && selectedTipo
+              ? `${selectedTipo.toUpperCase()} en ${selectedYear}`
+              : selectedYear
+                ? `Eventos en ${selectedYear}`
+                : selectedTipo
+                  ? `Todas las normas de tipo ${selectedTipo.toUpperCase()}`
+                  : 'Publicaciones recientes'}
           </h2>
-          {selectedYear && yearQ.isLoading && (
-            <span className="text-xs text-ink-faint">cargando año…</span>
+          {isFetchingPool && (
+            <span className="text-xs text-ink-faint">
+              {selectedYear && yearQ.isLoading ? 'cargando año…' : 'cargando índice…'}
+            </span>
           )}
         </div>
 
@@ -183,6 +244,11 @@ function TimeMachine() {
                 label={tipo}
                 count={count}
                 active={selectedTipo?.toLowerCase() === tipo.toLowerCase()}
+                onHover={() => {
+                  // Warm the titles cache on hover so the click resolves
+                  // instantly even for the full-corpus tipo path.
+                  if (selectedYear === null) loadTitles().catch(() => {})
+                }}
                 onClick={() =>
                   setSelectedTipo(
                     selectedTipo?.toLowerCase() === tipo.toLowerCase() ? null : tipo,
@@ -194,7 +260,7 @@ function TimeMachine() {
         )}
 
         {q.isError && <p className="text-ruby text-sm">No se pudo cargar el corpus.</p>}
-        {!q.isError && filteredEvents.length === 0 && q.data && !yearQ.isLoading && (
+        {!q.isError && filteredEvents.length === 0 && q.data && !isFetchingPool && (
           <p className="text-sm text-ink-faint">
             Sin eventos para los filtros seleccionados.
           </p>
@@ -230,15 +296,19 @@ function TipoChip({
   count,
   active,
   onClick,
+  onHover,
 }: {
   label: string
   count?: number
   active: boolean
   onClick: () => void
+  onHover?: () => void
 }) {
   return (
     <button
       onClick={onClick}
+      onMouseEnter={onHover}
+      onFocus={onHover}
       className={`text-[11px] font-ui uppercase tracking-widest px-2.5 py-1 rounded-full border transition ${
         active
           ? 'bg-ink text-paper border-ink'
