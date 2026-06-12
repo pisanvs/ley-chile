@@ -8,7 +8,15 @@ ley·chile is two things:
 1. **A git repository** — the entire Chilean legislative corpus as a git history (one commit per legislative publication event). This is unique in the world: nobody else has done this with Chilean law. Valuable for developers, researchers, and LLM pipelines.
 2. **A web UI** — a frontend for the git repo because GitHub can't handle pre-1970 dates and can't load thousands of files. Also makes the repo accessible to non-technical users (lawyers, students, journalists).
 
-Data source: Biblioteca del Congreso Nacional (BCN), which publishes all Chilean law via an open API. BCN has the data; what it doesn't have is a way to read how one law changes another.
+Data source: Biblioteca del Congreso Nacional (BCN), which publishes all Chilean law via an open API. BCN has the data; what it doesn't have is a readable way to explore it.
+
+### Three core use cases for the web UI
+
+1. **Read modification laws** — when a law modifies another, BCN shows you the modifying law as prose. ley·chile shows you the diff: exactly what changed, line by line.
+2. **Compare versions of the same law** — pick any two dates and see what a law looked like at each point, side by side or as a redline.
+3. **Track legal evolution (historiographic)** — a time machine for Chilean law. Understand how legislation has evolved since promulgation — useful for historians, journalists, researchers, and policy analysts.
+
+This historiographic purpose is one of the most distinctive angles: ley·chile is not just a better reader, it's a historical record.
 
 ---
 
@@ -26,6 +34,7 @@ Para agentes y humanos.
 - Plain language first — the problem being solved is that law is unreadable. The copy can't be either.
 - BCN as trust signal — "datos oficiales de la BCN" answers "¿puedo confiar en esto?" immediately.
 - Git metaphor for developers, diff metaphor for everyone else — "diff" needs no explanation; "git repo" only appears in the developer callout.
+- Time machine framing for the historiographic angle — "¿Qué decía esta ley en 2005?" is more evocative than "historial de versiones".
 - Two audiences, one page — non-techies read straight through; devs find the git callout.
 
 ---
@@ -39,9 +48,9 @@ ley·chile — El corpus jurídico chileno
 
 ### Site-wide `<meta name="description">`
 ```
-Leyes, decretos y códigos de Chile con diff visual entre versiones
-e historial completo de modificaciones. Datos oficiales de la BCN.
-Para humanos y agentes.
+Leyes, decretos y códigos de Chile con diff visual entre versiones,
+historial completo y comparación en cualquier fecha. Datos oficiales
+de la BCN. Para humanos y agentes.
 ```
 
 ### Homepage — replaces current placeholder
@@ -54,14 +63,14 @@ El corpus jurídico chileno, en formato amigable.
 **Sub:**
 ```
 La BCN publica todas las leyes de Chile. Pero cuando una ley
-modifica a otra, leer el cambio es casi imposible.
-ley·chile lo convierte en algo legible — con diff visual,
-historial completo y navegación cruzada entre normas.
+modifica a otra, leer el cambio es casi imposible — y volver
+atrás en el tiempo para ver cómo era antes, directamente imposible.
+ley·chile lo convierte en algo legible.
 ```
 
 **Feature highlights (3 pills):**
 - `Diff visual` — ve exactamente qué cambió entre versiones
-- `Historial completo` — cada publicación legislativa, con fecha
+- `Máquina del tiempo` — ¿qué decía esta ley en 2005? Viaja a cualquier fecha
 - `Modificaciones cruzadas` — qué leyes modificó, quién la modificó
 
 **Developer callout (subtle, below the fold):**
@@ -90,8 +99,8 @@ Example: `Ley N° 20.720 — Supresión del régimen de quiebras y... | ley·chi
 
 ### Per-law page — `<meta name="description">` (dynamic)
 ```
-Texto vigente de {Tipo} N° {numero} con {N} versiones históricas
-y diff visual entre modificaciones. Datos BCN.
+{Tipo} N° {numero} — texto en cualquier fecha desde {fechaPublicacion},
+con diff visual entre versiones. {N} publicaciones registradas. Datos BCN.
 ```
 
 ### Per-law page — JSON-LD structured data
