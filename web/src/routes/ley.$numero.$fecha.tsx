@@ -9,6 +9,8 @@ import { RightRail } from '@/components/RightRail'
 import { readPrefs, writePrefs } from '@/lib/annotations'
 import { ds } from '@/lib/datasource'
 import { tabs } from '@/lib/tabs'
+import { fetchModifications } from '@/lib/modifies'
+import { EffectsView } from '@/components/EffectsView'
 
 export const Route = createFileRoute('/ley/$numero/$fecha')({
   component: IDEPage,
@@ -32,6 +34,13 @@ function IDEPage() {
     queryFn: () => fetchCommits(idNorma!),
     enabled: !!idNorma,
   })
+  const modsQ = useQuery({
+    queryKey: ['modifies', idNorma],
+    queryFn: () => fetchModifications(idNorma!),
+    enabled: !!idNorma,
+    staleTime: Infinity,
+  })
+  const hasModifications = (modsQ.data?.length ?? 0) > 0
 
   // Track which article is on screen via hash + IntersectionObserver. For
   // simplicity, just snapshot the hash here so the rail can pre-select it.
@@ -89,6 +98,7 @@ function IDEPage() {
       ? 'clean'
       : requestedMode
 
+  const isEffectsMode = effectiveMode === 'effects'
   const onMode = (m: ReaderViewMode) => setPrefs(writePrefs({ mode: m }))
   const onToggleMono = () => setPrefs(writePrefs({ monospace: !prefs.monospace }))
   const onToggleCollapse = () =>
@@ -109,6 +119,62 @@ function IDEPage() {
     } catch {
       // ignore
     }
+  }
+
+  const toolbar = (
+    <div className="mb-6 space-y-3">
+      <VersionScrubber
+        commits={idx.commits}
+        activeSha={active?.sha ?? null}
+        onPick={c => navigate({ to: '/ley/$numero/$fecha', params: { numero, fecha: c.date } })}
+      />
+      <div className="flex flex-wrap items-center gap-2">
+        <ModeToggle mode={effectiveMode} setMode={onMode} canDiff={!isOriginal} canEffects={hasModifications} />
+        {!isEffectsMode && (
+          <button
+            onClick={onToggleMono}
+            className={`text-xs px-3 py-1.5 rounded font-mono border transition ${
+              prefs.monospace
+                ? 'bg-ink text-paper border-ink'
+                : 'text-ink-soft hover:text-ink border-rule'
+            }`}
+            title="Cambiar a monoespaciada"
+          >
+            Mono
+          </button>
+        )}
+        {!isOriginal && !isEffectsMode && (effectiveMode === 'redline' || effectiveMode === 'side-by-side') && (
+          <button
+            onClick={onToggleCollapse}
+            className={`text-xs px-3 py-1.5 rounded font-ui border transition ${
+              prefs.collapseUnchanged
+                ? 'bg-ink text-paper border-ink'
+                : 'text-ink-soft hover:text-ink border-rule'
+            }`}
+            title="Colapsar secciones sin cambios"
+          >
+            Colapsar
+          </button>
+        )}
+      </div>
+    </div>
+  )
+
+  if (isEffectsMode && active) {
+    return (
+      <IDEShell
+        fullBleedCenter
+        center={
+          <div className="flex flex-col h-full">
+            <div className="px-6 py-3 border-b border-rule shrink-0 bg-paper">
+              {toolbar}
+            </div>
+            <EffectsView causaId={idx.norma.idNorma} sha={active.sha} relDir={idx.relDir} />
+          </div>
+        }
+        rightRail={<RightRail idx={idx} active={active} activeSlug={activeSlug} />}
+      />
+    )
   }
 
   const center = (
@@ -135,40 +201,7 @@ function IDEPage() {
         )}
       </header>
 
-      <div className="mb-6 space-y-3">
-        <VersionScrubber
-          commits={idx.commits}
-          activeSha={active?.sha ?? null}
-          onPick={c => navigate({ to: '/ley/$numero/$fecha', params: { numero, fecha: c.date } })}
-        />
-        <div className="flex flex-wrap items-center gap-2">
-          <ModeToggle mode={effectiveMode} setMode={onMode} canDiff={!isOriginal} />
-          <button
-            onClick={onToggleMono}
-            className={`text-xs px-3 py-1.5 rounded font-mono border transition ${
-              prefs.monospace
-                ? 'bg-ink text-paper border-ink'
-                : 'text-ink-soft hover:text-ink border-rule'
-            }`}
-            title="Cambiar a monoespaciada"
-          >
-            Mono
-          </button>
-          {!isOriginal && (effectiveMode === 'redline' || effectiveMode === 'side-by-side') && (
-            <button
-              onClick={onToggleCollapse}
-              className={`text-xs px-3 py-1.5 rounded font-ui border transition ${
-                prefs.collapseUnchanged
-                  ? 'bg-ink text-paper border-ink'
-                  : 'text-ink-soft hover:text-ink border-rule'
-              }`}
-              title="Colapsar secciones sin cambios"
-            >
-              Colapsar
-            </button>
-          )}
-        </div>
-      </div>
+      {toolbar}
 
       {active && (
         <RedlineReader
@@ -198,20 +231,24 @@ function ModeToggle({
   mode,
   setMode,
   canDiff,
+  canEffects,
 }: {
   mode: ReaderViewMode
   setMode: (m: ReaderViewMode) => void
   canDiff: boolean
+  canEffects: boolean
 }) {
-  const opts: { id: ReaderViewMode; label: string; needsDiff?: boolean }[] = [
+  const opts: { id: ReaderViewMode; label: string; needsDiff?: boolean; hidden?: boolean }[] = [
     { id: 'redline', label: 'Redline', needsDiff: true },
     { id: 'side-by-side', label: 'Lado a lado', needsDiff: true },
     { id: 'clean', label: 'Limpio' },
     { id: 'source', label: 'Fuente' },
+    { id: 'effects', label: 'Efectos ↗', hidden: !canEffects },
   ]
   return (
     <div className="inline-flex items-center bg-paper-sunk rounded-md p-0.5 border border-rule text-xs">
       {opts.map(o => {
+        if (o.hidden) return null
         const disabled = o.needsDiff && !canDiff
         return (
           <button
