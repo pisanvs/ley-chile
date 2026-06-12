@@ -10,6 +10,78 @@ import { readPrefs, writePrefs } from '@/lib/annotations'
 import { ds } from '@/lib/datasource'
 import { tabs } from '@/lib/tabs'
 
+// ── helpers ──────────────────────────────────────────────────────────────────
+
+function capitalize(s: string): string {
+  return s ? s[0].toUpperCase() + s.slice(1) : s
+}
+
+function truncate(s: string, n: number): string {
+  return s.length <= n ? s : s.slice(0, n - 1).trimEnd() + '…'
+}
+
+// ── JSON-LD injection ─────────────────────────────────────────────────────────
+
+function useJsonLd(json: Record<string, unknown>) {
+  useEffect(() => {
+    const script = document.createElement('script')
+    script.type = 'application/ld+json'
+    script.text = JSON.stringify(json)
+    document.head.appendChild(script)
+    return () => { document.head.removeChild(script) }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [JSON.stringify(json)])
+}
+
+// ── per-law <head> ────────────────────────────────────────────────────────────
+
+function LawHead({
+  norma,
+  active,
+  commitCount,
+  idNorma,
+}: {
+  norma: { tipo: string; numero: string; titulo: string; fechaPublicacion: string }
+  active: Commit | undefined
+  commitCount: number
+  idNorma: number
+}) {
+  const pageTitle = `${capitalize(norma.tipo)} N° ${norma.numero} — ${truncate(norma.titulo, 60)} | ley·chile`
+  const description = `${capitalize(norma.tipo)} N° ${norma.numero} — texto en cualquier fecha desde ${norma.fechaPublicacion}, con diff visual entre versiones. ${commitCount} publicaciones registradas. Datos BCN.`
+  const ogTitle = `${capitalize(norma.tipo)} N° ${norma.numero} | ley·chile`
+  const url = `https://pisanvs.github.io/ley-chile/ley/${idNorma}/${active?.date ?? ''}`
+
+  useJsonLd({
+    '@context': 'https://schema.org',
+    '@type': 'Legislation',
+    name: `${capitalize(norma.tipo)} N° ${norma.numero}`,
+    alternateName: norma.titulo,
+    legislationIdentifier: norma.numero,
+    datePublished: norma.fechaPublicacion,
+    jurisdiction: { '@type': 'AdministrativeArea', name: 'Chile' },
+    publisher: {
+      '@type': 'Organization',
+      name: 'Biblioteca del Congreso Nacional de Chile',
+      url: 'https://www.bcn.cl',
+    },
+    url,
+  })
+
+  return (
+    <>
+      <title>{pageTitle}</title>
+      <meta name="description" content={description} />
+      <meta property="og:title" content={ogTitle} />
+      <meta property="og:description" content="Texto vigente con diff visual e historial. Datos BCN." />
+      <meta property="og:type" content="article" />
+      <meta property="og:url" content={url} />
+      <link rel="canonical" href={url} />
+    </>
+  )
+}
+
+// ── route ─────────────────────────────────────────────────────────────────────
+
 export const Route = createFileRoute('/ley/$numero/$fecha')({
   component: IDEPage,
 })
@@ -187,10 +259,18 @@ function IDEPage() {
   )
 
   return (
-    <IDEShell
-      center={center}
-      rightRail={<RightRail idx={idx} active={active} activeSlug={activeSlug} />}
-    />
+    <>
+      <LawHead
+        norma={idx.norma}
+        active={active}
+        commitCount={idx.commits.length}
+        idNorma={idx.norma.idNorma}
+      />
+      <IDEShell
+        center={center}
+        rightRail={<RightRail idx={idx} active={active} activeSlug={activeSlug} />}
+      />
+    </>
   )
 }
 
@@ -203,11 +283,11 @@ function ModeToggle({
   setMode: (m: ReaderViewMode) => void
   canDiff: boolean
 }) {
-  const opts: { id: ReaderViewMode; label: string; needsDiff?: boolean }[] = [
-    { id: 'redline', label: 'Redline', needsDiff: true },
-    { id: 'side-by-side', label: 'Lado a lado', needsDiff: true },
-    { id: 'clean', label: 'Limpio' },
-    { id: 'source', label: 'Fuente' },
+  const opts: { id: ReaderViewMode; label: string; title?: string; needsDiff?: boolean }[] = [
+    { id: 'redline', label: 'Tachado', title: 'Vista redline — cambios marcados', needsDiff: true },
+    { id: 'side-by-side', label: 'Paralelo', needsDiff: true },
+    { id: 'clean', label: 'Texto limpio' },
+    { id: 'source', label: 'Markdown' },
   ]
   return (
     <div className="inline-flex items-center bg-paper-sunk rounded-md p-0.5 border border-rule text-xs">
@@ -217,6 +297,7 @@ function ModeToggle({
           <button
             key={o.id}
             disabled={disabled}
+            title={o.title}
             onClick={() => setMode(o.id)}
             className={`px-3 py-1.5 rounded font-ui transition ${
               disabled
@@ -249,14 +330,7 @@ function formatCitation({
 }): string {
   const head = `${capitalize(tipo)} N° ${numero}, "${truncate(titulo, 80)}"`
   const date = versionDate ? `, versión vigente al ${versionDate}` : ''
-  return `${head}${date}.\nTexto: ${url}\nVía ley·chile (BCN, https://pisanvs.github.io/ley-chile)`
-}
-
-function capitalize(s: string): string {
-  return s ? s[0].toUpperCase() + s.slice(1) : s
-}
-function truncate(s: string, n: number): string {
-  return s.length <= n ? s : s.slice(0, n - 1).trimEnd() + '…'
+  return `${head}${date}.\nTexto: ${url}\nley·chile · Biblioteca del Congreso Nacional (BCN)`
 }
 
 function Loading() {
