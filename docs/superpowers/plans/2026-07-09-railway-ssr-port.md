@@ -635,8 +635,18 @@ import json
 d = json.load(open('tests/fixtures/segment_expected.json'))
 a = [s['slug'] for s in d['inline_markers']['segments']]
 b = [s['slug'] for s in d['inline_markers_masculine_ordinal']['segments']]
-print('converge' if a == b == ['art-1','art-2'] else f'DIVERGE {a} vs {b}')"`
-Expected: `converge` — the two ordinal characters must yield identical slugs on the inline path. If it prints `DIVERGE`, the widened `HEADING_RE` did not land.
+# Both fixtures open with 'Vistos: lo dispuesto.', which is a preamble — so the
+# expected list is ['preambulo','art-1','art-2'], not ['art-1','art-2'].
+expected = ['preambulo', 'art-1', 'art-2']
+if a != b:
+    print(f'DIVERGE {a} vs {b}')          # the ordinals disagree
+elif a != expected:
+    print(f'DEGENERATE {a}')              # e.g. ['doc'] — HEADING_RE never matched
+else:
+    print('converge')"`
+Expected: `converge`.
+
+The two failure modes are distinct and both matter. `DIVERGE` means `°` and `º` segment differently — the widened `HEADING_RE` did not land. `DEGENERATE` means *both* collapsed to `['doc']`, which would make `a == b` trivially true while proving nothing: a check that only asserted `a == b` would pass on total failure. Assert the expected shape too.
 
 - [ ] **Step 5: Write the Python side of the golden test**
 
