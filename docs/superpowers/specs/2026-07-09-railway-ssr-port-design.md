@@ -129,6 +129,10 @@ A version's text is *reconstructed* by selecting the articles whose validity ran
 ### 6.1 Schema
 
 ```sql
+CREATE EXTENSION IF NOT EXISTS pg_trgm;     -- fuzzy título lookup (search fallback)
+CREATE EXTENSION IF NOT EXISTS btree_gist;  -- required: EXCLUDE mixes `id_norma WITH =` (btree)
+                                            -- with `vigencia WITH &&` (gist) in one index
+
 CREATE TABLE norma (
   id_norma           integer PRIMARY KEY,
   tipo               text NOT NULL,      -- ley | dto | res | dl | dfl | cod …
@@ -154,7 +158,8 @@ CREATE TABLE version (
   causa_id      integer,                 -- norma that caused this version
   subject       text,
   magnitude     integer,
-  texto_sha256  text NOT NULL,           -- integrity check, see §8.1
+  texto_sha256      text NOT NULL,       -- sha256 of the committed texto.md (provenance)
+  canonical_sha256  text NOT NULL,       -- sha256 of canonical_text(segment(texto.md)); the gate, §8.1
   vigencia      daterange GENERATED ALWAYS AS (daterange(desde, hasta, '[]')) STORED,
   UNIQUE (id_norma, desde),
   EXCLUDE USING gist (id_norma WITH =, vigencia WITH &&)
@@ -165,6 +170,7 @@ CREATE TABLE articulo (
   id_norma     integer NOT NULL REFERENCES norma,
   slug         text NOT NULL,            -- 'art-5-bis'
   label        text NOT NULL,
+  raw_heading  text NOT NULL,            -- 'Artículo 5º' as it appeared; needed to reconstruct
   body         text NOT NULL,
   body_sha256  text NOT NULL,
   tsv          tsvector GENERATED ALWAYS AS (to_tsvector('spanish', body)) STORED,
@@ -213,7 +219,28 @@ Article segmentation currently lives in TypeScript (`HEADING_RE`, `labelToSlug` 
 
 **Segmentation moves to Python, at ingest, as the single source of truth.** Articles land pre-segmented with stable slugs; the frontend receives structured articles and stops re-parsing `texto.md`. This is an improvement independent of the port — the heuristic runs once over the corpus where it can be tested against all 408k versions, rather than on every page render.
 
-`diff.ts` keeps its diffing role and loses its parsing role. `labelToSlug` must be ported **exactly**, guarded by the golden test in §8.2.
+`diff.ts` keeps its diffing role and loses its parsing role.
+
+### 6.3 The ordinal-character bug (fix before porting)
+
+`normalizeLabel()` strips `[°º]` **after** applying NFKD normalization. But `º` (U+00BA, masculine ordinal) has a compatibility decomposition to the letter `o`, while `°` (U+00B0, degree sign) has none. By the time the strip runs, `º` is already an `o` and survives:
+
+| Heading | label | slug |
+|---|---|---|
+| `Artículo 1º` | `articulo 1o` | `art-1o` |
+| `Artículo 1°` | `articulo 1` | `art-1` |
+
+**The same artículo gets two identities depending on which ordinal character BCN happened to emit.** Both characters appear *in the same file* — `leyes/20330/texto.md` on `historial` mixes `#### Artículo 1º` and `#### Artículo 5°`.
+
+This is not a porting hazard; it is a **live bug in the deployed SPA**, where `align(prev, curr)` matches segments by label. Any version where BCN switched ordinal characters renders as a total rewrite: every artículo shows as removed and re-added.
+
+For the new design it is fatal rather than cosmetic. `articulo`'s uniqueness key is `(id_norma, slug, body_sha256)`, so a flipped ordinal fragments `articulo_span` into disjoint ranges for what is one continuous article, breaks cross-version dedup, and changes Meilisearch document ids.
+
+**Fix:** strip `[°º]` *before* NFKD, in both the Python port and `diff.ts`, so the two implementations stay in lockstep. The golden test (§8.2) is written against the **fixed** behavior.
+
+Consequence: article anchor slugs change (`#art-1o` → `#art-1`). This invalidates some existing deep links and `localStorage` annotation keys keyed by slug. Since the port re-derives every slug anyway, absorbing the change now is strictly cheaper than after launch.
+
+`labelToSlug` must otherwise be ported **exactly**, guarded by the golden test in §8.2. One quirk is preserved deliberately: `MD_HEADING_RE` can never match the `Art.` abbreviation, because its `\b` falls between `.` and a space (both non-word characters). This is harmless — `render_texto.py:286` always emits `#### Artículo {num}` — and "fixing" it would alter segmentation of already-committed text.
 
 ## 7 · Search
 
@@ -320,9 +347,22 @@ CREATE UNIQUE INDEX ON analytics.norma_signal (id_norma);
 
 ### 8.1 The validation gate
 
-One acceptance criterion, binary: **reconstruct all 408,182 versions from `articulo` + `articulo_span`, hash each, and compare against the `texto.md` committed to `historial`. 100% match, or no cutover.**
+**Correction to an earlier draft of this spec:** the gate cannot be "reconstruct and compare against `texto.md`'s bytes." Segmentation is deliberately lossy — it `.strip()`s bodies, drops inter-segment whitespace, and rewrites `#### Artículo 1º` into a `raw_heading` of `Artículo 1º`. Byte-identity with the committed file is unachievable by construction, so a gate demanding it would fail on every norma and teach us nothing.
 
-This is why `version.texto_sha256` exists. It converts *did our dedup scheme silently lose text from a 1943 decreto* from a question discovered in production into a number computed before launch. The loader runs the same check per-batch on every incremental load, and fails loudly.
+Define instead a canonical form:
+
+```python
+def canonical_text(segments: list[Segment]) -> str:
+    """Order-, heading-, and body-sensitive; whitespace-insensitive."""
+    return "\n\n".join(
+        f"{s.raw_heading}\n{s.body}" if s.raw_heading else s.body
+        for s in segments
+    )
+```
+
+The gate, binary: **for all 408,182 versions, `canonical_text(reconstruct_from_db(id_norma, fecha))` must equal `canonical_text(segment(texto.md))`, compared by sha256. 100% match, or no cutover.**
+
+This proves what we actually need — no artículo lost, none duplicated, none reordered, no body drift — while remaining insensitive to whitespace segmentation was always going to discard. `version.canonical_sha256` stores the right-hand side at export time; `version.texto_sha256` retains the original file's hash for provenance and permalink verification. The loader runs the same check per-batch on every incremental load, and fails loudly.
 
 ### 8.2 Tests
 
@@ -411,6 +451,8 @@ The soft number is Meilisearch RAM. It memory-maps LMDB, so resident set grows w
 
 1. `git clone --single-branch -b historial && git count-objects -vH`. If `historial` alone is under ~1 GB, reconsider §5.4's rejected worker-clone ingestion.
 2. Segmentation coverage over a stratified sample across `tipo` and century. What fraction segments cleanly into artículos? (§8.3 stop condition.)
+
+   **Must run against the real `historial` branch, not a local worktree.** The local checkout is a stale one-commit dev subset whose `texto.md` files predate `render_texto.py`; they carry no `####` headings and fall through to the inline path, where `HEADING_RE`'s required `.-` suffix misses almost everything (the Código Civil yields 4 matches for ~2,500 artículos). Measuring there would produce a catastrophic and entirely fictitious coverage number. The real branch is rendered markdown — `leyes/20330/texto.md` segments into all 9 of its artículos via `MD_HEADING_RE`.
 3. Meilisearch index size from a 5% stratified sample of the seed tier, extrapolated. Sizes the volume and validates the §10 RAM guess.
 
 **Then:**
