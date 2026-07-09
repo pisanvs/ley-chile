@@ -328,9 +328,12 @@ def test_segment_falls_back_to_doc():
     assert segs[0].raw_heading == ""
 
 
-def test_segment_inline_markers():
-    segs = segment("Artículo 1°.- Cuerpo uno. Artículo 2°.- Cuerpo dos.")
-    assert [s.slug for s in segs] == ["art-1", "art-2"]
+@pytest.mark.parametrize("ord_char", ["°", "º"])
+def test_segment_inline_markers(ord_char):
+    # Both ordinal characters must split. Without the widened HEADING_RE the
+    # 'º' variant matches nothing and degrades to a single __doc__ segment.
+    text = f"Artículo 1{ord_char}.- Cuerpo uno. Artículo 2{ord_char}.- Cuerpo dos."
+    assert [s.slug for s in segment(text)] == ["art-1", "art-2"]
 
 
 def test_md_heading_re_never_matches_abbreviation():
@@ -566,6 +569,10 @@ Create `tests/fixtures/segment_corpus.json`. Every entry exercises a path that h
     "text": "Vistos: lo dispuesto.\n\nArtículo 1°.- Cuerpo uno. Artículo 2°.- Cuerpo dos."
   },
   {
+    "name": "inline_markers_masculine_ordinal",
+    "text": "Vistos: lo dispuesto.\n\nArtículo 1º.- Cuerpo uno. Artículo 2º.- Cuerpo dos."
+  },
+  {
     "name": "transitorio",
     "text": "#### Artículo primero transitorio\nCuerpo transitorio."
   }
@@ -622,6 +629,14 @@ Expected: prints `clean` (grep finds nothing). If it prints a number, Task 1's f
 
 Run: `cd /home/pisanvs/code/ley-chile/.worktrees/railway-ssr && python3 -c "import json;d=json.load(open('tests/fixtures/segment_expected.json'));print(d['abbreviation_never_matches']['segments'][0]['slug'])"`
 Expected: `doc`
+
+Run: `cd /home/pisanvs/code/ley-chile/.worktrees/railway-ssr && python3 -c "
+import json
+d = json.load(open('tests/fixtures/segment_expected.json'))
+a = [s['slug'] for s in d['inline_markers']['segments']]
+b = [s['slug'] for s in d['inline_markers_masculine_ordinal']['segments']]
+print('converge' if a == b == ['art-1','art-2'] else f'DIVERGE {a} vs {b}')"`
+Expected: `converge` — the two ordinal characters must yield identical slugs on the inline path. If it prints `DIVERGE`, the widened `HEADING_RE` did not land.
 
 - [ ] **Step 5: Write the Python side of the golden test**
 
