@@ -17,7 +17,7 @@ Move ley-chile off GitHub Pages onto a deployed Railway server with server-side 
 
 - **No change to the pipeline's output contract.** `build_catalog → fetch_normas → fetch_versions → build_history` continues to run in GitHub Actions and continues to write `historial`. One new export step is appended.
 - **No user accounts.** Annotations remain in `localStorage`, exactly as today.
-- **No user tracking.** The usage-based indexing policy (§7) stores per-norma counters only. No user identifiers, no analytics vendor, no beacon.
+- **No user dimension in analytics.** Search events are logged (§7.5), but no IP, cookie, session id, or any other joinable identifier is ever collected. Not "retained briefly" — never collected. No analytics vendor, no beacon in v1.
 - **No migration of `historial` into a database as canonical.** Git stays canonical (§3).
 - **No demotion/eviction in v1.** The index budget is enforced by refusing promotion, not by evicting. Eviction ships when the cap actually binds.
 
@@ -35,7 +35,7 @@ git (historial) ──▶ snapshot artifacts ──▶ Postgres ──▶ Meilis
 
 Nothing writes to Meilisearch except the indexer reading from Postgres. Indexing both stores in parallel from the pipeline would create two ingestion paths that drift, and the drift surfaces as *search returns a norma whose page 404s* — the worst available failure mode for a legal reference site.
 
-The one writer outside this chain is the web tier, which appends to `norma_signal` (§7.3). It writes no corpus data, and dropping that table costs only the promotion history.
+The one writer outside this chain is the web tier, which appends to `analytics.event` (§7.5). It writes no corpus data, and dropping the `analytics` schema costs only the promotion history and the query log.
 
 ## 4 · Service topology
 
@@ -117,7 +117,7 @@ Phases, in order: **load → verify (§8.1) → index → retier (§7.3) → rev
 ### 5.4 Rejected alternatives
 
 - **Actions pushes directly into Railway Postgres.** Fastest to stand up. Rejected: production credentials in CI secrets; a cancelled job leaves the DB half-updated with no clean recovery; "rebuild from scratch" becomes "re-run the pipeline against production."
-- **Railway worker clones `historial` and replays commits.** Self-contained. Rejected: ingesting every historical version means walking ~408k commits, so shallow/blobless clones don't help — the blobs are the payload. Multi-GB pack onto a Railway volume, `git` in the runtime image, paid on every cold rebuild, to re-derive what CI already had in a directory. **Reconsider if Phase 0 (§9) finds `historial` alone is under ~1 GB.**
+- **Railway worker clones `historial` and replays commits.** Self-contained. Rejected: ingesting every historical version means walking ~408k commits, so shallow/blobless clones don't help — the blobs are the payload. Multi-GB pack onto a Railway volume, `git` in the runtime image, paid on every cold rebuild, to re-derive what CI already had in a directory. **Reconsider if Phase 0 (§11) finds `historial` alone is under ~1 GB.**
 - **Ingest from `pipeline-cache` instead.** That branch holds every version as flat files (`cache/versions/{id}/{fecha}.json`), so a depth-1 clone yields the whole corpus with no commit-walking. Rejected as a foundation: `historial`'s `texto.md` is the *rendered* output of `render_texto.py`, and its commit SHAs back the permalinks. Ingesting from cache means re-running the renderer and hoping for byte-identical output — a silent-drift generator. Retained as an escape hatch if artifact generation proves slow.
 
 ## 6 · Data model
@@ -190,16 +190,8 @@ CREATE TABLE modificacion (
   PRIMARY KEY (causa_id, target_id, fecha)
 );
 
--- Daily buckets, not a cumulative counter: the promotion rule (§7.3) is
--- "hits >= 3 in a trailing 90 days", which a single lifetime total cannot
--- express. Retier sums the window; rows older than 90 days are pruned.
-CREATE TABLE norma_signal (
-  id_norma integer NOT NULL REFERENCES norma,
-  day      date NOT NULL,
-  hits     integer NOT NULL DEFAULT 0,
-  PRIMARY KEY (id_norma, day)
-);
-CREATE INDEX ON norma_signal (day);
+-- Promotion signals derive from analytics.event (§7.5), not from a bespoke
+-- counter table. norma_signal is a materialized view over that log.
 
 CREATE TABLE load_state (
   id               boolean PRIMARY KEY DEFAULT true CHECK (id),
@@ -240,7 +232,7 @@ So: **Meilisearch is the fast, forgiving hot path over the ~8% of the corpus any
 
 1. Query Meilisearch over the `full` tier. Render immediately.
 2. If it returns fewer than `K` hits (or the user asks for *buscar en todo el corpus*), run Postgres FTS over `index_tier = 'meta'` and stream the results in as a **separately labeled section**.
-3. Any norma surfaced by the cold path increments `norma_signal` by 3.
+3. Every search emits a `search` event; every click a `result_click`; every norma surfaced by the cold path a `cold_surface` (§7.5). Weighting happens at retier, not at write time.
 
 The `WHERE index_tier = 'meta'` predicate keeps the two result sets disjoint.
 
@@ -250,15 +242,13 @@ The `WHERE index_tier = 'meta'` predicate keeps the two result sets disjoint.
 
 **Seed** (`seeded = true`, never demoted): `tipo ∈ (ley, dl, dfl, cod)` plus any `dto` appearing in `modificacion`. Roughly 30k normas, ~8% of the corpus.
 
-**Signals**, incremented server-side into the current day's bucket:
-- `+1` when a user clicks a search result
-- `+3` when a norma is surfaced by the cold path
-
-**Not measured: page views.** Cloudflare caches those at the edge, so the origin never sees most of them and the signal would be silently biased toward uncached pages. Browsing to a law from a link means someone followed a link, not that anyone searched its text. Search-derived signals are inherently uncacheable, origin-visible, and measure precisely the thing the index exists to serve.
+**Signals**, weighted from `analytics.event` (§7.5):
+- `+1` per `result_click`
+- `+3` per `cold_surface` — a strong signal: Meilisearch could not find something a user wanted, and Postgres could
 
 **Retiering** runs as a phase of the loader cron, daily:
-- Promote `meta` normas whose `norma_signal` buckets sum to `≥ 3` over the trailing 90 days.
-- Prune `norma_signal` rows older than 90 days.
+- `REFRESH MATERIALIZED VIEW analytics.norma_signal` (trailing-90-day weighted score per norma).
+- Promote `meta` normas scoring `≥ 3`.
 - Enforce `INDEX_BUDGET_BYTES`. In v1, exceeding the budget **refuses further promotion** and logs. Eviction of the coldest non-seeded normas ships in v2, when the cap actually binds.
 - Tier changes translate to Meilisearch document adds and deletes by `id_norma`.
 
@@ -277,7 +267,51 @@ Two indexes.
 
 `normas` — 357k tiny metadata docs (id, tipo, número, título, organismo, año) backing the Cmd-K palette. All normas appear here regardless of tier, so **no norma is ever unfindable by name or number.**
 
-### 7.5 Accepted costs
+### 7.5 Analytics and signal collection
+
+**Centralize collection; keep interpretation per-consumer.** One event schema, one write path, one place to query. The retier job decides which events it trusts; a stats page decides separately; future consumers do not renegotiate the contract.
+
+A counter table (`norma_signal(id_norma, day, hits)`) was the original design and is rejected: it records *which norma was surfaced* but never *what the user typed*. Zero-result queries are the highest-value dataset a search product has — they say what people expect to find and cannot. Under a counter table, a user searching *ley de alquileres* and finding nothing (Chilean law says *arrendamiento*) leaves no trace, so the retier job cannot learn from a failure that was never recorded. That is a search-quality gap, not an analytics gap.
+
+```sql
+CREATE SCHEMA analytics;
+
+CREATE TABLE analytics.event (
+  ts           timestamptz NOT NULL DEFAULT now(),
+  kind         text NOT NULL,   -- search | result_click | cold_surface
+  query_norm   text,            -- lowercased, accent-folded; NULL for non-search
+  id_norma     integer,         -- NULL for search events
+  tier         text,            -- hot | cold
+  result_count integer,
+  clicked_rank integer
+);
+CREATE INDEX ON analytics.event (ts);
+CREATE INDEX ON analytics.event (kind, id_norma);
+
+-- Retier reads this; it is the only consumer that feeds the index policy.
+CREATE MATERIALIZED VIEW analytics.norma_signal AS
+  SELECT id_norma,
+         SUM(CASE kind WHEN 'cold_surface' THEN 3
+                       WHEN 'result_click' THEN 1
+                       ELSE 0 END) AS score
+  FROM analytics.event
+  WHERE id_norma IS NOT NULL
+    AND ts >= now() - interval '90 days'
+  GROUP BY id_norma;
+CREATE UNIQUE INDEX ON analytics.norma_signal (id_norma);
+```
+
+**No user dimension exists.** No IP, cookie, session id, or fingerprint is collected — not retained briefly, *never collected*. For a public legal-reference site where a user may search *ley de aborto* or *ley antiterrorista*, "we cannot link queries to people because we never collected the means to" is a categorically stronger guarantee than any retention policy.
+
+**Writes are buffered.** The web tier batches events in-process and flushes every ~10 seconds, so a search click costs zero round-trips on the hot path. A redeploy loses at most ten seconds of events, which against a 90-day promotion window is beneath noise.
+
+**Retention.** Raw events age out after 90 days into aggregates. Aggregation drops any `query_norm` seen fewer than 5 times, so nothing rare enough to be identifying survives.
+
+**Page views are still not collected in v1**, but the reasoning now narrows correctly. Cloudflare caches pages at the edge, so origin-side view counts would be biased toward uncached pages; and a page view means someone followed a link, not that anyone searched the text. Those objections rule page views out of **retier**. They do not rule them out of **analytics** — a beacon could feed the event log without contaminating the index policy, because the consumer chooses. Deferred, not conflated.
+
+**Escalation path.** If flush latency or event volume shows the web tier suffering, extract a dedicated ingest service. Same escalation logic as Redis (§9.2) and Meilisearch (§7.1): measure first, pay second. A fifth always-on Railway service costs $3–5/month of RAM to move rows into a Postgres already being paid for.
+
+### 7.6 Accepted costs
 
 - **Two rankers means two ranking behaviors.** The seam between hot and cold results is visible. The UI presents a labeled second section, not a silently merged list — a merged list would imply a coherence that does not exist.
 - **Promotion has latency.** A norma promoted today is not typo-tolerant until tomorrow's cron. The first few people searching an obscure resolución get the slow path. This is the price of not indexing everything.
@@ -393,4 +427,5 @@ The soft number is Meilisearch RAM. It memory-maps LMDB, so resident set grows w
 
 - `K` (the hot-path result threshold that triggers the cold path) — pick empirically once real queries exist.
 - `INDEX_BUDGET_BYTES` initial value — set from the Phase 0 sample extrapolation.
+- Whether to add a client beacon so `analytics.event` also captures edge-cached page views. Would inform product questions; must never feed retier (§7.5). Deferred to v2.
 - Whether `res` results should be **ranked down or filtered out by default** in the Cmd-K palette. They remain present in the `normas` index either way — §7.4's guarantee that no norma is unfindable by name or number is not negotiable. This is a ranking default, not an indexing decision.
