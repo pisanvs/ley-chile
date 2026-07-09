@@ -30,6 +30,13 @@ describe('segment', () => {
     const segs = segment('Artículo 1°.- Cuerpo uno. Artículo 2°.- Cuerpo dos.')
     expect(segs.map(s => s.slug)).toEqual(['art-1', 'art-2'])
   })
+
+  it('handles inline markers using the masculine ordinal', () => {
+    // '°' (U+00B0) and 'º' (U+00BA) must both split; without the widened
+    // HEADING_RE this degrades to a single __doc__ segment.
+    const segs = segment('Artículo 1º.- Cuerpo uno. Artículo 2º.- Cuerpo dos.')
+    expect(segs.map(s => s.slug)).toEqual(['art-1', 'art-2'])
+  })
 })
 
 describe('canonicalText', () => {
@@ -38,5 +45,17 @@ describe('canonicalText', () => {
     const b = segment('#### Artículo 1º\n\n   Cuerpo.   ')
     expect(canonicalText(a)).toBe(canonicalText(b))
     expect(canonicalText(a)).toBe('Artículo 1º\nCuerpo.')
+  })
+
+  it('is sensitive to article order', () => {
+    const a = segment('#### Artículo 1º\nUno.\n\n#### Artículo 2°\nDos.')
+    const b = segment('#### Artículo 2°\nDos.\n\n#### Artículo 1º\nUno.')
+    expect(canonicalText(a)).not.toBe(canonicalText(b))
+  })
+
+  it('is sensitive to heading and body text', () => {
+    const base = segment('#### Artículo 1º\nUno.')
+    expect(canonicalText(base)).not.toBe(canonicalText(segment('#### Artículo 2°\nUno.')))
+    expect(canonicalText(base)).not.toBe(canonicalText(segment('#### Artículo 1º\nDos.')))
   })
 })
