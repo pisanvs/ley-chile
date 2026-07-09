@@ -1,0 +1,121 @@
+{
+  "mixed_ordinals": {
+    "segments": [
+      {
+        "label": "__preamble__",
+        "slug": "preambulo",
+        "rawHeading": "",
+        "body": "Ley N° 20.330"
+      },
+      {
+        "label": "articulo 1",
+        "slug": "art-1",
+        "rawHeading": "Artículo 1º",
+        "body": "Cuerpo uno."
+      },
+      {
+        "label": "articulo 5",
+        "slug": "art-5",
+        "rawHeading": "Artículo 5°",
+        "body": "Cuerpo cinco."
+      },
+      {
+        "label": "articulo 5 bis",
+        "slug": "art-5-bis",
+        "rawHeading": "Artículo 5° bis",
+        "body": "Cuerpo cinco bis."
+      }
+    ],
+    "canonical": "Ley N° 20.330\n\nArtículo 1º\nCuerpo uno.\n\nArtículo 5°\nCuerpo cinco.\n\nArtículo 5° bis\nCuerpo cinco bis."
+  },
+  "no_preamble": {
+    "segments": [
+      {
+        "label": "articulo unico",
+        "slug": "art-unico",
+        "rawHeading": "Artículo único",
+        "body": "Cuerpo único."
+      }
+    ],
+    "canonical": "Artículo único\nCuerpo único."
+  },
+  "abbreviation_never_matches": {
+    "segments": [
+      {
+        "label": "__doc__",
+        "slug": "doc",
+        "rawHeading": "",
+        "body": "#### Art. 5\nCuerpo."
+      }
+    ],
+    "canonical": "#### Art. 5\nCuerpo."
+  },
+  "doc_fallback": {
+    "segments": [
+      {
+        "label": "__doc__",
+        "slug": "doc",
+        "rawHeading": "",
+        "body": "Considerando lo anterior, se resuelve lo siguiente."
+      }
+    ],
+    "canonical": "Considerando lo anterior, se resuelve lo siguiente."
+  },
+  "inline_markers": {
+    "segments": [
+      {
+        "label": "__preamble__",
+        "slug": "preambulo",
+        "rawHeading": "",
+        "body": "Vistos: lo dispuesto."
+      },
+      {
+        "label": "articulo 1",
+        "slug": "art-1",
+        "rawHeading": "Artículo 1°.-",
+        "body": "Cuerpo uno."
+      },
+      {
+        "label": "articulo 2",
+        "slug": "art-2",
+        "rawHeading": "Artículo 2°.-",
+        "body": "Cuerpo dos."
+      }
+    ],
+    "canonical": "Vistos: lo dispuesto.\n\nArtículo 1°.-\nCuerpo uno.\n\nArtículo 2°.-\nCuerpo dos."
+  },
+  "inline_markers_masculine_ordinal": {
+    "segments": [
+      {
+        "label": "__preamble__",
+        "slug": "preambulo",
+        "rawHeading": "",
+        "body": "Vistos: lo dispuesto."
+      },
+      {
+        "label": "articulo 1",
+        "slug": "art-1",
+        "rawHeading": "Artículo 1º.-",
+        "body": "Cuerpo uno."
+      },
+      {
+        "label": "articulo 2",
+        "slug": "art-2",
+        "rawHeading": "Artículo 2º.-",
+        "body": "Cuerpo dos."
+      }
+    ],
+    "canonical": "Vistos: lo dispuesto.\n\nArtículo 1º.-\nCuerpo uno.\n\nArtículo 2º.-\nCuerpo dos."
+  },
+  "transitorio": {
+    "segments": [
+      {
+        "label": "articulo primero transitorio",
+        "slug": "art-primero-transitorio",
+        "rawHeading": "Artículo primero transitorio",
+        "body": "Cuerpo transitorio."
+      }
+    ],
+    "canonical": "Artículo primero transitorio\nCuerpo transitorio."
+  }
+}

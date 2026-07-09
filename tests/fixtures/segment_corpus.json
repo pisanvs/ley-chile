@@ -1,0 +1,30 @@
+[
+  {
+    "name": "mixed_ordinals",
+    "text": "Ley N° 20.330\n\n#### Artículo 1º\nCuerpo uno.\n\n#### Artículo 5°\nCuerpo cinco.\n\n#### Artículo 5° bis\nCuerpo cinco bis."
+  },
+  {
+    "name": "no_preamble",
+    "text": "#### Artículo único\nCuerpo único."
+  },
+  {
+    "name": "abbreviation_never_matches",
+    "text": "#### Art. 5\nCuerpo."
+  },
+  {
+    "name": "doc_fallback",
+    "text": "Considerando lo anterior, se resuelve lo siguiente."
+  },
+  {
+    "name": "inline_markers",
+    "text": "Vistos: lo dispuesto.\n\nArtículo 1°.- Cuerpo uno. Artículo 2°.- Cuerpo dos."
+  },
+  {
+    "name": "inline_markers_masculine_ordinal",
+    "text": "Vistos: lo dispuesto.\n\nArtículo 1º.- Cuerpo uno. Artículo 2º.- Cuerpo dos."
+  },
+  {
+    "name": "transitorio",
+    "text": "#### Artículo primero transitorio\nCuerpo transitorio."
+  }
+]
