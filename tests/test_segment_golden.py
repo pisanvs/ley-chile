@@ -4,7 +4,6 @@ Both sides assert against tests/fixtures/segment_expected.json. Regenerate it
 from TypeScript with:  cd web && UPDATE_GOLDEN=1 pnpm vitest run src/lib/segment.golden.test.ts
 """
 import json
-from dataclasses import asdict
 from pathlib import Path
 
 from segment import segment, canonical_text
