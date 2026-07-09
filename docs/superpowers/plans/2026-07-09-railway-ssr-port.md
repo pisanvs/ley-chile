@@ -1653,6 +1653,7 @@ Dates come from real_date(), never committer dates."
 - Create: `scripts/loader/db.py`
 - Create: `requirements-loader.txt`
 - Create: `tests/test_db_schema.py`
+- Modify: `tests/conftest.py` (add the shared `conn` fixture used by Tasks 8, 9, 10, 12)
 - Modify: `pytest.ini` (register the `integration` marker)
 
 **Interfaces:**
@@ -1678,7 +1679,39 @@ markers =
 
 Install: `cd /home/pisanvs/code/ley-chile/.worktrees/railway-ssr && pip install -r requirements-loader.txt`
 
-- [ ] **Step 2: Write the failing test**
+- [ ] **Step 2: Add the shared `conn` fixture to `tests/conftest.py`**
+
+Four test modules (Tasks 8, 9, 10, 12) need a clean database per test. Define it once. Append to `tests/conftest.py`:
+
+```python
+import os
+
+DSN = os.environ.get("DATABASE_URL")
+
+
+@pytest.fixture()
+def conn():
+    """A connection to a freshly-schema'd database. Integration tests only.
+
+    Skips rather than fails when DATABASE_URL is unset, so the default
+    `pytest -m "not integration"` run needs no Postgres.
+    """
+    if not DSN:
+        pytest.skip("DATABASE_URL not set")
+    from loader.db import SCHEMA_PATH, apply_schema, connect
+
+    c = connect(DSN)
+    c.execute("DROP SCHEMA IF EXISTS analytics CASCADE")
+    c.execute("DROP TABLE IF EXISTS articulo_span, articulo, version, "
+              "modificacion, norma, load_state CASCADE")
+    apply_schema(c, SCHEMA_PATH)
+    yield c
+    c.close()
+```
+
+`tests/conftest.py` already inserts `scripts/` onto `sys.path`, so `from loader.db import ...` resolves.
+
+- [ ] **Step 3: Write the failing test**
 
 Create `tests/test_db_schema.py`. These assert the constraints that make a bad load impossible — the `EXCLUDE` on overlapping versions is the one that catches delta-loader bugs.
 
@@ -1695,15 +1728,8 @@ DSN = os.environ.get("DATABASE_URL")
 requires_db = pytest.mark.skipif(not DSN, reason="DATABASE_URL not set")
 
 
-@pytest.fixture()
-def conn():
-    from loader.db import SCHEMA_PATH, apply_schema, connect
-    c = connect(DSN)
-    c.execute("DROP SCHEMA IF EXISTS analytics CASCADE")
-    c.execute("DROP TABLE IF EXISTS articulo_span, articulo, version, modificacion, norma, load_state CASCADE")
-    apply_schema(c, SCHEMA_PATH)
-    yield c
-    c.close()
+# The `conn` fixture is shared, from tests/conftest.py (added in Task 8).
+# It drops and reapplies the schema per test. Do not redefine it here.
 
 
 @requires_db
@@ -1774,7 +1800,7 @@ def test_analytics_matview_exists_and_refreshes(conn):
     assert conn.execute("SELECT count(*) FROM analytics.norma_signal").fetchone()[0] == 0
 ```
 
-- [ ] **Step 3: Run test to verify it fails**
+- [ ] **Step 4: Run test to verify it fails**
 
 Start a throwaway Postgres and run:
 
@@ -1786,7 +1812,7 @@ cd /home/pisanvs/code/ley-chile/.worktrees/railway-ssr && python -m pytest tests
 
 Expected: FAIL with `ModuleNotFoundError: No module named 'loader.db'`.
 
-- [ ] **Step 4: Write `sql/001_schema.sql`**
+- [ ] **Step 5: Write `sql/001_schema.sql`**
 
 ```sql
 -- Derived read model. Droppable: everything here rebuilds from snapshot artifacts.
@@ -1901,7 +1927,7 @@ CREATE MATERIALIZED VIEW IF NOT EXISTS analytics.norma_signal AS
 CREATE UNIQUE INDEX IF NOT EXISTS norma_signal_pk ON analytics.norma_signal (id_norma);
 ```
 
-- [ ] **Step 5: Write `scripts/loader/db.py` and empty `scripts/loader/__init__.py`**
+- [ ] **Step 6: Write `scripts/loader/db.py` and empty `scripts/loader/__init__.py`**
 
 ```python
 """Postgres connection and schema application for the Railway loader."""
@@ -1926,7 +1952,7 @@ def apply_schema(conn: psycopg.Connection, sql_path: Path = SCHEMA_PATH) -> None
     conn.execute(sql_path.read_text(encoding="utf-8"))
 ```
 
-- [ ] **Step 6: Run test to verify it passes**
+- [ ] **Step 7: Run test to verify it passes**
 
 Run: `cd /home/pisanvs/code/ley-chile/.worktrees/railway-ssr && DATABASE_URL=postgresql://postgres:pg@localhost:5433/postgres python -m pytest tests/test_db_schema.py -q`
 Expected: PASS, 7 tests.
@@ -1935,7 +1961,7 @@ Verify the whole suite still ignores integration tests by default:
 Run: `cd /home/pisanvs/code/ley-chile/.worktrees/railway-ssr && python -m pytest -q -m "not integration"`
 Expected: PASS, no DB required.
 
-- [ ] **Step 7: Commit**
+- [ ] **Step 8: Commit**
 
 ```bash
 cd /home/pisanvs/code/ley-chile/.worktrees/railway-ssr
@@ -1989,15 +2015,8 @@ DSN = os.environ.get("DATABASE_URL")
 requires_db = pytest.mark.skipif(not DSN, reason="DATABASE_URL not set")
 
 
-@pytest.fixture()
-def conn():
-    from loader.db import SCHEMA_PATH, apply_schema, connect
-    c = connect(DSN)
-    c.execute("DROP SCHEMA IF EXISTS analytics CASCADE")
-    c.execute("DROP TABLE IF EXISTS articulo_span, articulo, version, modificacion, norma, load_state CASCADE")
-    apply_schema(c, SCHEMA_PATH)
-    yield c
-    c.close()
+# The `conn` fixture is shared, from tests/conftest.py (added in Task 8).
+# It drops and reapplies the schema per test. Do not redefine it here.
 
 
 NORMA = NormaRow(id_norma=42, tipo="ley", numero="42", titulo="LEY CUARENTA Y DOS",
@@ -2297,15 +2316,8 @@ V1 = "#### Artículo 1º\nUno.\n\n#### Artículo 2°\nDos."
 V2 = "#### Artículo 1º\nUno.\n\n#### Artículo 2°\nDos MODIFICADO."
 
 
-@pytest.fixture()
-def conn():
-    from loader.db import SCHEMA_PATH, apply_schema, connect
-    c = connect(DSN)
-    c.execute("DROP SCHEMA IF EXISTS analytics CASCADE")
-    c.execute("DROP TABLE IF EXISTS articulo_span, articulo, version, modificacion, norma, load_state CASCADE")
-    apply_schema(c, SCHEMA_PATH)
-    yield c
-    c.close()
+# The `conn` fixture is shared, from tests/conftest.py (added in Task 8).
+# It drops and reapplies the schema per test. Do not redefine it here.
 
 
 def _seed(conn, textos: dict[str, str]):
@@ -2771,19 +2783,16 @@ DSN = os.environ.get("DATABASE_URL")
 requires_db = pytest.mark.skipif(not DSN, reason="DATABASE_URL not set")
 
 
+# Pytest fixture override: this `conn` requests the shared `conn` from
+# tests/conftest.py (Task 8) and layers a small corpus on top. Test bodies
+# below take `conn` and get the seeded connection.
 @pytest.fixture()
-def conn():
-    from loader.db import SCHEMA_PATH, apply_schema, connect
-    c = connect(DSN)
-    c.execute("DROP SCHEMA IF EXISTS analytics CASCADE")
-    c.execute("DROP TABLE IF EXISTS articulo_span, articulo, version, modificacion, norma, load_state CASCADE")
-    apply_schema(c, SCHEMA_PATH)
+def conn(conn):  # noqa: F811 — intentional pytest fixture override
     for i, tipo in [(1, "ley"), (2, "res"), (3, "dto"), (4, "dto"), (5, "cod")]:
-        c.execute("INSERT INTO norma (id_norma, tipo, numero, titulo, law_dir) "
-                  "VALUES (%s, %s, %s, 'T', %s)", (i, tipo, str(i), f"{tipo}/{i}"))
-    c.execute("INSERT INTO modificacion (causa_id, target_id, fecha) VALUES (3, 1, '2001-01-01')")
-    yield c
-    c.close()
+        conn.execute("INSERT INTO norma (id_norma, tipo, numero, titulo, law_dir) "
+                     "VALUES (%s, %s, %s, 'T', %s)", (i, tipo, str(i), f"{tipo}/{i}"))
+    conn.execute("INSERT INTO modificacion (causa_id, target_id, fecha) VALUES (3, 1, '2001-01-01')")
+    return conn
 
 
 @requires_db
@@ -4280,6 +4289,8 @@ Expected: the artículo heading renders, JSON-LD is present, search returns resu
 - [ ] **Step 3: Delete the TypeScript segmentation**
 
 Its only consumer was the golden test, and Python is now the single source of truth (spec §6.2). The frontend receives pre-segmented articles from the database.
+
+**This deletes tests, which is normally a red flag — brief the final reviewer explicitly.** The justification: the golden test's job was to prove the *port* correct, and once the §8.1 validation gate passes on real data that job is done. `web/src/lib/segment.ts` then has no runtime consumer, so its test guards dead code. `tests/test_segment.py` and `tests/fixtures/segment_corpus.json` remain as the live regression suite for the surviving implementation. Coverage of segmentation behaviour does not decrease; what is removed is the duplicate implementation and the cross-language check that existed solely to retire it.
 
 ```bash
 cd /home/pisanvs/code/ley-chile/.worktrees/railway-ssr
