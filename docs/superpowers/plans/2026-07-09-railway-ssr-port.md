@@ -582,8 +582,9 @@ import { readFileSync, writeFileSync } from 'node:fs'
 import { resolve } from 'node:path'
 import { segment, canonicalText } from './segment'
 
-const CORPUS = resolve(__dirname, '../../../tests/fixtures/segment_corpus.json')
-const GOLDEN = resolve(__dirname, '../../../tests/fixtures/segment_expected.json')
+// web/package.json sets "type": "module", so __dirname does not exist here.
+const CORPUS = resolve(import.meta.dirname, '../../../tests/fixtures/segment_corpus.json')
+const GOLDEN = resolve(import.meta.dirname, '../../../tests/fixtures/segment_expected.json')
 
 interface Fixture { name: string; text: string }
 
@@ -3463,6 +3464,8 @@ canonicalPath collapses ~350k duplicate dated URLs for single-version normas."
 **Files:**
 - Create: `site/lib/jsonld.ts`
 - Create: `site/lib/jsonld.test.ts`
+- Create: `site/lib/page-data.ts` (the shared `'use cache'` loader)
+- Create: `site/components/NormaView.tsx` (the shared view)
 - Create: `site/app/[tipo]/[numero]/page.tsx`
 - Create: `site/app/[tipo]/[numero]/[fecha]/page.tsx`
 - Create: `site/app/sitemap.ts`
@@ -3642,25 +3645,83 @@ export default async function Page({ params }: Props) {
 }
 ```
 
-`site/app/[tipo]/[numero]/page.tsx` — the undated URL renders the current version by delegating.
+`site/app/[tipo]/[numero]/page.tsx` — the undated URL renders the current version.
+
+It must **not** call the dated page component as a plain function. A route component is not a reusable view: doing so skips that route's `generateMetadata`, so `/ley/20330` would ship no canonical link — defeating the entire duplicate-content fix this route exists to serve. Both routes share a view component instead.
+
+Extract `loadNorma` into `site/lib/page-data.ts` (exporting the same `'use cache'` function shown above) and the markup into `site/components/NormaView.tsx`:
 
 ```tsx
+// site/components/NormaView.tsx
+import { legislationJsonLd } from '@/lib/jsonld'
+import { currentFecha, type Article, type Norma, type Version } from '@/lib/norma'
+
+export function NormaView(
+  { norma, fecha, versions, articles, mods }:
+  { norma: Norma; fecha: string; versions: Version[]; articles: Article[]; mods: number[] },
+) {
+  return (
+    <main>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(legislationJsonLd(norma, fecha, versions, mods)),
+        }}
+      />
+      <h1>{norma.titulo}</h1>
+      <p>
+        {norma.tipo.toUpperCase()} {norma.numero} · texto vigente al {fecha}
+        {fecha !== currentFecha(versions) && ' (versión histórica)'}
+      </p>
+      {articles.map(a => (
+        <section key={a.slug} id={a.slug}>
+          {a.rawHeading && <h2>{a.rawHeading}</h2>}
+          <div>{a.body}</div>
+        </section>
+      ))}
+    </main>
+  )
+}
+```
+
+```tsx
+// site/app/[tipo]/[numero]/page.tsx
 import { notFound } from 'next/navigation'
-import DatedPage from './[fecha]/page'
-import { RESERVED_TIPOS } from '@/lib/jsonld'
-import { currentFecha, getNorma, getVersions } from '@/lib/norma'
+import { NormaView } from '@/components/NormaView'
+import { RESERVED_TIPOS, SITE } from '@/lib/jsonld'
+import { canonicalPath, currentFecha, getNorma, getVersions } from '@/lib/norma'
+import { loadNorma } from '@/lib/page-data'
 
 interface Props { params: Promise<{ tipo: string; numero: string }> }
+
+async function resolveCurrent(tipo: string, numero: string) {
+  const norma = await getNorma(tipo, numero)
+  if (!norma) return null
+  const fecha = currentFecha(await getVersions(norma.idNorma))
+  return loadNorma(tipo, numero, fecha)
+}
+
+export async function generateMetadata({ params }: Props) {
+  const { tipo, numero } = await params
+  const data = await resolveCurrent(tipo, numero)
+  if (!data) return {}
+  const fecha = currentFecha(data.versions)
+  return {
+    title: data.norma.titulo,
+    alternates: { canonical: `${SITE}${canonicalPath(data.norma, fecha, data.versions)}` },
+  }
+}
 
 export default async function Page({ params }: Props) {
   const { tipo, numero } = await params
   if (RESERVED_TIPOS.has(tipo)) notFound()
-  const norma = await getNorma(tipo, numero)
-  if (!norma) notFound()
-  const fecha = currentFecha(await getVersions(norma.idNorma))
-  return DatedPage({ params: Promise.resolve({ tipo, numero, fecha }) })
+  const data = await resolveCurrent(tipo, numero)
+  if (!data || data.articles.length === 0) notFound()
+  return <NormaView {...data} fecha={currentFecha(data.versions)} />
 }
 ```
+
+The dated route (`[fecha]/page.tsx`) likewise imports `loadNorma` and `NormaView` rather than defining them inline; its `generateMetadata` is as shown above.
 
 - [ ] **Step 6: Write `site/app/sitemap.ts` and `site/app/robots.ts`**
 
@@ -4093,32 +4154,37 @@ ENV PYTHONPATH=/app/scripts
 CMD ["python", "-m", "loader.main", "--artifacts", "/tmp/artifacts"]
 ```
 
-- [ ] **Step 4: Write `railway.toml`**
+- [ ] **Step 4: Write the per-service Railway configs**
+
+Railway's config-as-code is **per-service**, not project-wide: each service reads its own `railway.toml` (or `railway.json`) from its root directory, with top-level `build`, `deploy` and `environments` keys. There is no `[[services]]` array. Postgres and Meilisearch are provisioned from Railway's dashboard as image-backed services (no repo, so no config file); set their root directories and private networking there.
+
+Create `site/railway.toml`:
 
 ```toml
-# Four services. Only `web` is public. Meilisearch and Postgres bind to the
-# private network. Serverless/app-sleeping is deliberately OFF for `web`:
-# Railway's docs note the first request to a slept service "may return a 502",
-# and a 502 to Googlebot on a cold page is the outcome this port exists to avoid.
+[build]
+builder = "dockerfile"
+dockerfilePath = "Dockerfile"
 
-[[services]]
-name = "web"
-build.dockerfile = "site/Dockerfile"
-deploy.numReplicas = 1          # `use cache` is in-memory; replicas would not share it
+[deploy]
+# `use cache` is backed by process memory on Railway, not a distributed cache,
+# so replicas would not share it. Single replica; see spec §9.2.
+numReplicas = 1
+restartPolicyType = "on_failure"
+# Serverless/app-sleeping is deliberately NOT enabled. Railway's docs note the
+# first request to a slept service "may return a 502 Bad Gateway", and a 502
+# served to Googlebot on a cold page is the outcome this port exists to avoid.
+```
 
-[[services]]
-name = "loader"
-build.dockerfile = "Dockerfile.loader"
-deploy.cronSchedule = "0 */6 * * *"
-deploy.restartPolicyType = "never"
+Create `railway.loader.toml` (set the loader service's config path to this file in the Railway dashboard):
 
-[[services]]
-name = "meilisearch"
-build.image = "getmeili/meilisearch:v1.11"
+```toml
+[build]
+builder = "dockerfile"
+dockerfilePath = "Dockerfile.loader"
 
-[[services]]
-name = "postgres"
-build.image = "postgres:16"
+[deploy]
+cronSchedule = "0 */6 * * *"
+restartPolicyType = "never"   # a cron job that exits must not be restarted
 ```
 
 - [ ] **Step 5: Append the export step to the pipeline workflow**
