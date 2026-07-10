@@ -1,6 +1,6 @@
 import pytest
 from schemas.snapshot import (
-    Manifest, ModRow, NormaRow, VersionRow, close_ranges, from_ndjson, to_ndjson,
+    EventRow, Manifest, ModRow, NormaRow, VersionRow, close_ranges, from_ndjson, to_ndjson,
 )
 
 
@@ -68,3 +68,9 @@ def test_manifest_round_trip():
 def test_mod_row_round_trip():
     m = ModRow(causa_id=1, target_id=2, fecha="2001-01-01", commit_sha="deadbeef")
     assert from_ndjson(to_ndjson([m]).strip(), ModRow) == m
+
+
+def test_event_row_round_trip():
+    e = EventRow(id_norma=1984, commit_sha="c1", fecha="2023-04-10",
+                 causa_id=1, subject="Otra [id 1] publicada (2023-04-10)", magnitude=0)
+    assert from_ndjson(to_ndjson([e]).strip(), EventRow) == e

@@ -19,11 +19,17 @@ from dataclasses import dataclass
 from pathlib import Path
 
 from build_web_indexes import real_date
-from schemas.snapshot import Manifest, ModRow, NormaRow, VersionRow, close_ranges, to_ndjson
+from schemas.snapshot import (
+    EventRow, Manifest, ModRow, NormaRow, VersionRow, close_ranges, to_ndjson,
+)
 from segment import canonical_text, segment, sha256_text
 from spans import ArticleRow, SpanRow, VersionInput, build_articles_and_spans
 
 SHARD_SIZE = 50_000
+
+# A single malformed norma must not kill a 357k-norma export; a systemic
+# breakage must not pass silently. Abort past this failure rate.
+FAILURE_RATE_ABORT = 0.001
 
 
 @dataclass(frozen=True)
@@ -50,17 +56,57 @@ def build_manifest(
     )
 
 
+def coalesce_same_date(dated: list[tuple[str, CommitMeta]]) -> list[tuple[str, CommitMeta]]:
+    """Collapse events sharing a date to the LAST commit of that date.
+
+    Measured: 87 of 357,249 normas have 2+ publication events on one date, and
+    idNorma 1984 was amended by three distinct laws on 2023-04-10. `version` has
+    UNIQUE (id_norma, desde) and an EXCLUDE over overlapping dateranges, so two
+    rows cannot share a date — and "the law as it read on 2023-04-10" has one
+    answer: the tree state after all of that day's commits, i.e. the last one.
+
+    `dated` must already be sorted by (date, git order); Python's sort is stable,
+    so the last entry for a date is the last commit of that date. Every event
+    survives in EventRow (see `events_for_norma`); nothing is discarded here
+    except the redundant intermediate texts.
+    """
+    out: dict[str, CommitMeta] = {}
+    for date, commit in dated:
+        out[date] = commit          # later entries overwrite earlier ones
+    return sorted(out.items())
+
+
+def events_for_norma(
+    id_norma: int, commits: list[CommitMeta]
+) -> list[EventRow]:
+    """One row per commit. Never coalesced — this is the audit trail."""
+    return [
+        EventRow(
+            id_norma=id_norma,
+            commit_sha=c.sha,
+            fecha=real_date(subject=c.subject, committer_date=c.committer_date),
+            causa_id=c.causa_id,
+            subject=c.subject,
+            magnitude=c.magnitude,
+        )
+        for c in commits
+    ]
+
+
 def versions_for_norma(
     id_norma: int,
     law_dir: str,
     commits: list[CommitMeta],
     textos: dict[str, str],
-) -> tuple[list[VersionRow], list[ArticleRow], list[SpanRow]]:
-    """Project a norma's commit history onto version, article and span rows."""
+) -> tuple[list[VersionRow], list[ArticleRow], list[SpanRow], list[EventRow]]:
+    """Project a norma's commit history onto version, article, span and event rows."""
+    events = events_for_norma(id_norma, commits)
+
     dated = sorted(
         ((real_date(subject=c.subject, committer_date=c.committer_date), c) for c in commits),
-        key=lambda pair: pair[0],
+        key=lambda pair: pair[0],   # stable: preserves git order within a date
     )
+    dated = coalesce_same_date(dated)
     ranges = close_ranges([d for d, _ in dated])
 
     versions = [
@@ -82,7 +128,45 @@ def versions_for_norma(
         id_norma,
         [VersionInput(desde=v.desde, hasta=v.hasta, texto=textos[v.commit_sha]) for v in versions],
     )
-    return versions, articles, spans
+    return versions, articles, spans, events
+
+
+SENTINEL_YEAR = 2100   # LeyChile uses 2222-02-02 for open-ended "current"
+
+
+def mod_rows_for(id_norma: int, node: dict) -> list[ModRow]:
+    """Build modificacion rows from a graph node's `modificadaPor_edges`.
+
+    Edges are DICTS — `{"idNorma": 30232, "fecha": "1989-12-06"}` — written by
+    fetch_normas.py's `_extract_edges_from_html`. Verified: all 12,010 edges in
+    the real graph are dicts, zero are bare ints. `int(edge)` on a dict raises
+    TypeError on the first modified norma, i.e. most of the corpus.
+
+    Each edge carries its OWN fecha: the date that modification took effect.
+    Using the target's `fechaPublicacion` instead would stamp every modification
+    of a law with the law's own publication date.
+
+    Bare ints are tolerated for legacy caches (see `NormaNode.from_legacy`).
+    Sentinel dates (2222-02-02) are dropped.
+    """
+    rows: list[ModRow] = []
+    seen: set[tuple[int, str]] = set()
+    for edge in node.get("modificadaPor_edges") or []:
+        if isinstance(edge, dict):
+            causa, fecha = edge.get("idNorma"), edge.get("fecha") or ""
+        else:
+            causa, fecha = edge, node.get("fechaPublicacion") or ""
+        if causa is None or len(fecha) < 4 or not fecha[:4].isdigit():
+            continue
+        if int(fecha[:4]) > SENTINEL_YEAR:
+            continue
+        key = (int(causa), fecha)
+        if key in seen:                       # PK is (causa_id, target_id, fecha)
+            continue
+        seen.add(key)
+        rows.append(ModRow(causa_id=int(causa), target_id=id_norma,
+                           fecha=fecha, commit_sha=""))
+    return rows
 
 
 def build_law_dir_index(historial: Path) -> dict[int, str]:
@@ -225,7 +309,10 @@ def main() -> int:
     if args.only:
         wanted = {int(x) for x in args.only.read_text().split()}
 
-    normas, versions, articles, spans, mods = [], [], [], [], []
+    normas, versions, articles, spans, mods, events = [], [], [], [], [], []
+    considered = 0
+    failures: list[tuple[int, str]] = []
+
     for key, node in graph.items():
         id_norma = int(key)
         if wanted is not None and id_norma not in wanted:
@@ -233,19 +320,28 @@ def main() -> int:
         law_dir = law_dirs.get(id_norma)
         if not law_dir or not (args.historial / law_dir / "texto.md").exists():
             continue
+        considered += 1
 
-        commits = read_commits(args.historial, law_dir)
-        if not commits:
-            continue
-        textos = read_textos(args.historial, [(c.sha, f"{law_dir}/texto.md") for c in commits])
-        commits = [c for c in commits if c.sha in textos]
-        if not commits:
+        # Isolate per norma. One legislatively-odd law must not take down a
+        # 357k-norma export; the failure-rate check below still catches a
+        # systemic breakage.
+        try:
+            commits = read_commits(args.historial, law_dir)
+            if not commits:
+                continue
+            textos = read_textos(args.historial, [(c.sha, f"{law_dir}/texto.md") for c in commits])
+            commits = [c for c in commits if c.sha in textos]
+            if not commits:
+                continue
+            v, a, s, e = versions_for_norma(id_norma, law_dir, commits, textos)
+        except Exception as exc:                      # noqa: BLE001 — isolation is the point
+            failures.append((id_norma, f"{type(exc).__name__}: {exc}"))
             continue
 
-        v, a, s = versions_for_norma(id_norma, law_dir, commits, textos)
         versions += v
         articles += a
         spans += s
+        events += e
         normas.append(NormaRow(
             id_norma=id_norma,
             tipo=node.get("tipo", ""),
@@ -257,9 +353,14 @@ def main() -> int:
             fecha_publicacion=node.get("fechaPublicacion") or None,
             law_dir=law_dir,
         ))
-        for edge in node.get("modificadaPor_edges") or []:
-            mods.append(ModRow(causa_id=int(edge), target_id=id_norma,
-                               fecha=node.get("fechaPublicacion", ""), commit_sha=""))
+        mods += mod_rows_for(id_norma, node)
+
+    for id_norma, why in failures[:20]:
+        print(f"  SKIPPED idNorma={id_norma}: {why}")
+    if failures and len(failures) > max(1, int(FAILURE_RATE_ABORT * considered)):
+        print(f"ABORT: {len(failures)} of {considered} normas failed "
+              f"(> {FAILURE_RATE_ABORT:.1%}). No manifest written.")
+        return 1
 
     # Fail closed. An export that matched nothing must not write a manifest: the
     # loader would happily ingest it, advance its watermark, and report success
@@ -272,15 +373,17 @@ def main() -> int:
 
     shards: list[str] = []
     for kind, rows in [("normas", normas), ("versions", versions),
-                       ("articulos", articles), ("spans", spans), ("mods", mods)]:
+                       ("articulos", articles), ("spans", spans),
+                       ("mods", mods), ("events", events)]:
         shards += _write_shards(args.out, kind, rows)
 
     manifest = build_manifest(args.snapshot_version, args.watermark, args.delta_seq, shards)
     (args.out / "manifest.json").write_text(
         json.dumps(manifest.__dict__, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-    print(f"normas={len(normas)} versions={len(versions)} "
-          f"articulos={len(articles)} spans={len(spans)} shards={len(shards)}")
+    print(f"normas={len(normas)} versions={len(versions)} events={len(events)} "
+          f"articulos={len(articles)} spans={len(spans)} mods={len(mods)} "
+          f"shards={len(shards)} skipped={len(failures)}")
     return 0
 
 

@@ -12,7 +12,7 @@ from datetime import date, timedelta
 from typing import Any, Iterable, TypeVar
 
 __all__ = [
-    "NormaRow", "VersionRow", "ModRow", "Manifest",
+    "NormaRow", "VersionRow", "ModRow", "EventRow", "Manifest",
     "close_ranges", "to_ndjson", "from_ndjson",
 ]
 
@@ -51,6 +51,16 @@ class ModRow:
     target_id: int
     fecha: str
     commit_sha: str
+
+
+@dataclass(frozen=True)
+class EventRow:
+    id_norma: int
+    commit_sha: str
+    fecha: str
+    causa_id: int | None
+    subject: str
+    magnitude: int
 
 
 @dataclass(frozen=True)
