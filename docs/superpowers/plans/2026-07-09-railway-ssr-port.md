@@ -1156,12 +1156,21 @@ from schemas.snapshot import (
 )
 
 
-def test_close_ranges_makes_adjacent_half_open_ranges():
+def test_close_ranges_makes_adjacent_non_overlapping_ranges():
+    # Each range ends the day BEFORE the next date in the list. The last is open.
     assert close_ranges(["2000-01-01", "2010-06-15", "2020-03-01"]) == [
-        ("2000-01-01", "2009-12-31"),
-        ("2010-06-15", "2020-02-29"),   # 2020 is a leap year
-        ("2020-03-01", None),
+        ("2000-01-01", "2010-06-14"),   # day before 2010-06-15
+        ("2010-06-15", "2020-02-29"),   # day before 2020-03-01; 2020 is a leap year
+        ("2020-03-01", None),           # still in force
     ]
+
+
+def test_close_ranges_boundary_arithmetic():
+    # The cases where naive string surgery goes wrong.
+    assert close_ranges(["2010-06-01", "2010-07-01"])[0][1] == "2010-06-30"  # month
+    assert close_ranges(["2019-01-01", "2020-01-01"])[0][1] == "2019-12-31"  # year
+    assert close_ranges(["2020-01-01", "2020-03-01"])[0][1] == "2020-02-29"  # leap
+    assert close_ranges(["2019-01-01", "2019-03-01"])[0][1] == "2019-02-28"  # non-leap
 
 
 def test_close_ranges_single_version_is_open_ended():
