@@ -3,16 +3,16 @@
 Store each distinct article body once; store when it was in force. A version's
 text is reconstructed by selecting the articles whose span contains the date.
 
-Run identity is (slug, body_sha256, ord): a body that survives unchanged but
-moves position must split its span, because `ord` determines reading order and
-reading order is a property of the version, not of the article.
+Run identity is (slug, content_sha256, ord): a body that survives unchanged
+but moves position must split its span, because `ord` determines reading
+order and reading order is a property of the version, not of the article.
 """
 from __future__ import annotations
 
 from dataclasses import dataclass
 from itertools import groupby
 
-from segment import Segment, segment, sha256_text
+from segment import Segment, content_text, segment, sha256_text
 
 __all__ = [
     "VersionInput", "ArticleRow", "SpanRow", "build_articles_and_spans", "reconstruct",
@@ -33,14 +33,14 @@ class ArticleRow:
     label: str
     raw_heading: str
     body: str
-    body_sha256: str
+    content_sha256: str
 
 
 @dataclass(frozen=True)
 class SpanRow:
     id_norma: int
     slug: str
-    body_sha256: str
+    content_sha256: str
     desde: str
     hasta: str | None
     ord: int
@@ -60,12 +60,12 @@ def build_articles_and_spans(
     ordered = sorted(versions, key=lambda v: v.desde)
 
     articles: dict[tuple[str, str], ArticleRow] = {}
-    # (slug, body_sha256, ord) -> version indices where it appears at that position
+    # (slug, content_sha256, ord) -> version indices where it appears at that position
     occurrences: dict[tuple[str, str, int], list[int]] = {}
 
     for i, v in enumerate(ordered):
         for position, seg in enumerate(segment(v.texto)):
-            sha = sha256_text(seg.body)
+            sha = sha256_text(content_text(seg))
             articles.setdefault(
                 (seg.slug, sha),
                 ArticleRow(id_norma, seg.slug, seg.label, seg.raw_heading, seg.body, sha),
@@ -76,7 +76,7 @@ def build_articles_and_spans(
     for (slug, sha, position), idxs in occurrences.items():
         for run in _contiguous_runs(idxs):
             spans.append(SpanRow(
-                id_norma=id_norma, slug=slug, body_sha256=sha,
+                id_norma=id_norma, slug=slug, content_sha256=sha,
                 desde=ordered[run[0]].desde, hasta=ordered[run[-1]].hasta, ord=position,
             ))
 
@@ -92,14 +92,14 @@ def reconstruct(
     articles: list[ArticleRow], spans: list[SpanRow], fecha: str
 ) -> list[Segment]:
     """Rebuild a version's segments as of `fecha`, in reading order."""
-    by_key = {(a.slug, a.body_sha256): a for a in articles}
+    by_key = {(a.id_norma, a.slug, a.content_sha256): a for a in articles}
     live = sorted((s for s in spans if _contains(s, fecha)), key=lambda s: s.ord)
     return [
         Segment(
-            label=by_key[(s.slug, s.body_sha256)].label,
+            label=by_key[(s.id_norma, s.slug, s.content_sha256)].label,
             slug=s.slug,
-            raw_heading=by_key[(s.slug, s.body_sha256)].raw_heading,
-            body=by_key[(s.slug, s.body_sha256)].body,
+            raw_heading=by_key[(s.id_norma, s.slug, s.content_sha256)].raw_heading,
+            body=by_key[(s.id_norma, s.slug, s.content_sha256)].body,
         )
         for s in live
     ]

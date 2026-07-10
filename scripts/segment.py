@@ -22,7 +22,7 @@ from dataclasses import dataclass
 
 __all__ = [
     "Segment", "normalize_label", "label_to_slug", "segment",
-    "canonical_text", "sha256_text",
+    "content_text", "canonical_text", "sha256_text",
 ]
 
 
@@ -135,6 +135,11 @@ def segment(text: str) -> list[Segment]:
     return _segment_inline(text, inline)
 
 
+def content_text(seg: Segment) -> str:
+    """The canonical unit of one segment: heading and body, or body alone."""
+    return f"{seg.raw_heading}\n{seg.body}" if seg.raw_heading else seg.body
+
+
 def canonical_text(segs: list[Segment]) -> str:
     """Order-, heading- and body-sensitive; whitespace-insensitive.
 
@@ -142,9 +147,7 @@ def canonical_text(segs: list[Segment]) -> str:
     segmentation strips bodies and rewrites headings, so byte-identity with
     the committed file is unachievable by construction.
     """
-    return "\n\n".join(
-        f"{s.raw_heading}\n{s.body}" if s.raw_heading else s.body for s in segs
-    )
+    return "\n\n".join(content_text(s) for s in segs)
 
 
 def sha256_text(s: str) -> str:

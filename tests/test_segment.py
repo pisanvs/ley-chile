@@ -1,7 +1,8 @@
 """Segmentation is the single source of truth for article identity."""
 import pytest
 from segment import (
-    Segment, normalize_label, label_to_slug, segment, canonical_text, sha256_text,
+    Segment, normalize_label, label_to_slug, segment, content_text,
+    canonical_text, sha256_text,
 )
 
 
@@ -54,3 +55,13 @@ def test_canonical_text_is_whitespace_insensitive():
 def test_sha256_text_is_stable():
     assert sha256_text("abc") == sha256_text("abc")
     assert sha256_text("abc") != sha256_text("abd")
+
+
+def test_content_text_headingless_falls_back_to_body_alone():
+    seg = Segment("__doc__", label_to_slug("__doc__"), "", "Texto sin artículos.")
+    assert content_text(seg) == "Texto sin artículos."
+
+
+def test_content_text_joins_heading_and_body():
+    seg = Segment("articulo 1", "art-1", "Artículo 1º", "Cuerpo.")
+    assert content_text(seg) == "Artículo 1º\nCuerpo."

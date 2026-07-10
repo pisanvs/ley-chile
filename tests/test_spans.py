@@ -1,3 +1,5 @@
+import pytest
+
 from segment import canonical_text, segment
 from spans import (
     ArticleRow, SpanRow, VersionInput, build_articles_and_spans, reconstruct,
@@ -46,7 +48,7 @@ def test_article_that_reverts_produces_two_spans_for_one_article_row():
     # art-2 body A appears in v0 and v2 (non-contiguous) -> one row, two spans
     a2 = [a for a in arts if a.slug == "art-2" and a.body == "Original dos."]
     assert len(a2) == 1
-    revert_spans = [s for s in spans if s.slug == "art-2" and s.body_sha256 == a2[0].body_sha256]
+    revert_spans = [s for s in spans if s.slug == "art-2" and s.content_sha256 == a2[0].content_sha256]
     assert len(revert_spans) == 2
 
 
@@ -79,3 +81,48 @@ def test_reconstruct_at_a_date_inside_a_range():
 def test_reconstruct_outside_every_span_is_empty():
     arts, spans = build_articles_and_spans(42, [_v("2000-01-01", "2001-01-01", V1)])
     assert reconstruct(arts, spans, "1999-01-01") == []
+
+
+V_ORDINAL_MASC = "#### Artículo 1º\nUno."
+V_ORDINAL_DEG = "#### Artículo 1°\nUno."
+
+
+def test_heading_glyph_change_is_a_content_change():
+    # Byte-identical body, but the heading's ordinal glyph flips: BCN mixes
+    # 'º' (masculine ordinal) and '°' (degree sign) inside a single file.
+    versions = [
+        _v("2000-01-01", "2009-12-31", V_ORDINAL_MASC),
+        _v("2010-01-01", None, V_ORDINAL_DEG),
+    ]
+    arts, spans = build_articles_and_spans(42, versions)
+
+    assert len(arts) == 2, "heading differs: two distinct article rows"
+    assert len(spans) == 2, "heading differs: two distinct spans, not one wide span"
+
+    for v in versions:
+        got = reconstruct(arts, spans, v.desde)
+        assert canonical_text(got) == canonical_text(segment(v.texto))
+
+
+def test_content_sha256_reflects_heading_not_just_body():
+    arts_same, _ = build_articles_and_spans(42, [
+        _v("2000-01-01", "2009-12-31", V_ORDINAL_MASC),
+        _v("2010-01-01", None, V_ORDINAL_MASC),
+    ])
+    assert len({a.content_sha256 for a in arts_same}) == 1, \
+        "same heading, same body -> same content_sha256"
+
+    arts_diff, _ = build_articles_and_spans(42, [
+        _v("2000-01-01", "2009-12-31", V_ORDINAL_MASC),
+        _v("2010-01-01", None, V_ORDINAL_DEG),
+    ])
+    assert len({a.content_sha256 for a in arts_diff}) == 2, \
+        "only the heading differs -> different content_sha256"
+
+
+def test_reconstruct_raises_key_error_across_norma():
+    arts1, spans1 = build_articles_and_spans(1, [_v("2000-01-01", None, V1)])
+    arts2, spans2 = build_articles_and_spans(2, [_v("2000-01-01", None, V1)])
+    # spans reference norma 2, but we hand reconstruct() norma 1's articles.
+    with pytest.raises(KeyError):
+        reconstruct(arts1, spans2, "2000-01-01")
