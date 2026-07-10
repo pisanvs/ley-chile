@@ -1369,7 +1369,8 @@ Create `tests/test_export_snapshot.py`:
 import json
 
 from export_snapshot import (
-    CommitMeta, build_law_dir_index, build_manifest, shard_name, versions_for_norma,
+    CommitMeta, build_law_dir_index, build_manifest, causa_from_message, shard_name,
+    versions_for_norma,
 )
 from segment import canonical_text, segment, sha256_text
 
@@ -1425,6 +1426,22 @@ def test_commits_out_of_order_are_sorted_by_real_date():
     versions, _, _ = versions_for_norma(42, "leyes/42", list(reversed(_commits())),
                                         {"aaa": V1, "bbb": V2})
     assert [v.desde for v in versions] == ["1943-05-10", "2011-02-21"]
+
+
+def test_causa_comes_from_the_body_not_the_subject():
+    # Real commit shape at historial@51c7f611c:
+    #   subject: "Otra [id 1224599] publicada (2026-05-29)"
+    #   body:    "BCN idNorma=1224599"
+    # The subject's `[id N]` is a different shape and must not be relied on;
+    # named laws ("Ley N°21819 publicada (...)") carry no id in the subject.
+    assert causa_from_message("Otra [id 1224599] publicada (2026-05-29)",
+                              "BCN idNorma=1224599") == 1224599
+    assert causa_from_message("Ley N°21819 publicada (2026-05-25)", "") is None
+    assert causa_from_message("Otra [id 999] publicada (2020-01-01)", "") is None
+
+
+def test_causa_falls_back_to_the_subject():
+    assert causa_from_message("update: BCN idNorma=42", "") == 42
 
 
 def test_build_law_dir_index_reads_the_tree_not_the_graph(tmp_path):
@@ -1486,6 +1503,7 @@ from __future__ import annotations
 import argparse
 import gzip
 import json
+import re
 import subprocess
 from dataclasses import dataclass
 from pathlib import Path
@@ -1585,27 +1603,48 @@ def build_law_dir_index(historial: Path) -> dict[int, str]:
 # --------------------------------------------------------------------------
 
 def read_commits(historial: Path, law_dir: str) -> list[CommitMeta]:
-    """`git log` over one law's directory, newest last."""
+    """`git log` over one law's directory, oldest first.
+
+    Reads the body as well as the subject. The causa lives in the body — real
+    commits look like:
+
+        Otra [id 1224599] publicada (2026-05-29)
+        <blank>
+        BCN idNorma=1224599
+
+    Records are \\x1e-separated because bodies contain newlines.
+    """
     out = subprocess.run(
         ["git", "-C", str(historial), "log", "--reverse",
-         "--format=%H%x1f%cI%x1f%s", "--", law_dir],
+         "--format=%H%x1f%cI%x1f%s%x1f%b%x1e", "--", law_dir],
         capture_output=True, text=True, check=True,
     ).stdout
     commits: list[CommitMeta] = []
-    for line in out.splitlines():
-        sha, cdate, subject = line.split("\x1f", 2)
+    for record in out.split("\x1e"):
+        record = record.strip("\n")
+        if not record:
+            continue
+        sha, cdate, subject, body = record.split("\x1f", 3)
         commits.append(CommitMeta(
             sha=sha, committer_date=cdate[:10], subject=subject,
-            causa_id=_causa_from_subject(subject), magnitude=0,
+            causa_id=causa_from_message(subject, body), magnitude=0,
         ))
     return commits
 
 
-_CAUSA_RE = __import__("re").compile(r"\bidNorma=(\d+)\b")
+_CAUSA_RE = re.compile(r"\bidNorma=(\d+)\b")
 
 
-def _causa_from_subject(subject: str) -> int | None:
-    m = _CAUSA_RE.search(subject)
+def causa_from_message(subject: str, body: str) -> int | None:
+    """Body first, then subject — mirrors build_web_indexes.py's _CAUSA_RE use.
+
+    `build_history.py` writes the causa as `BCN idNorma={id}` in the body. The
+    subject carries `[id 1224599]` in a different shape, and for named laws
+    (`Ley N°21819 publicada (...)`) it carries no id at all. Parsing only the
+    subject would silently null every causa_id, dropping the modificadora →
+    modificada relationship the whole project exists to expose.
+    """
+    m = _CAUSA_RE.search(body) or _CAUSA_RE.search(subject)
     return int(m.group(1)) if m else None
 
 
