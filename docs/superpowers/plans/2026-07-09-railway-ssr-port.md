@@ -3019,9 +3019,11 @@ class FakeMeiliIndex:
 
     def add_documents(self, docs, primary_key=None):
         self.added.extend(docs)
+        return {"taskUid": 100 + len(self.added)}
 
-    def delete_documents_by_filter(self, filter):
+    def delete_documents(self, ids=None, *, filter=None, metadata=None):
         self.deleted.append(filter)
+        return {"taskUid": len(self.deleted)}
 
     def update_settings(self, settings):
         self.settings = settings
@@ -3120,16 +3122,21 @@ SETTINGS: dict = {
 _VALID_DOC_ID = re.compile(r"^[a-zA-Z0-9_-]+$")
 
 
-def document_id(id_norma: int, slug: str, content_sha256: str, desde_ts: int) -> str:
+def document_id(id_norma: int, slug: str, content_sha256: str,
+                desde_ts: int, ord_: int) -> str:
     """Stable, Meilisearch-legal id for one (article, span) pair.
 
-    `desde_ts` is part of the key. `articulo_documents` emits one document per
-    (article, span), and an article whose body was changed then reverted has ONE
-    articulo row with TWO disjoint spans. Keying on (id_norma, slug, sha) alone
-    would collide, so the later span would overwrite the earlier one and the law
-    would drop out of search for one of its two validity windows.
+    The key must mirror `articulo_span`'s primary key, `(articulo_id, desde,
+    ord)`, because `articulo_documents` emits one document per (article, span):
+
+      - `desde_ts`: an article changed then reverted has ONE articulo row with
+        TWO disjoint spans. Without it they collide and the later span
+        overwrites the earlier, dropping the law out of search for one window.
+      - `ord_`: the schema deliberately admits two spans of one article sharing
+        a `desde` — the same body at two positions within one version. Without
+        it those two collide too.
     """
-    doc_id = f"{id_norma}_{slug}_{content_sha256[:8]}_{desde_ts}"
+    doc_id = f"{id_norma}_{slug}_{content_sha256[:8]}_{desde_ts}_{ord_}"
     if not _VALID_DOC_ID.match(doc_id):
         raise ValueError(
             f"document id {doc_id!r} is not Meilisearch-legal; ids may contain "
@@ -3151,7 +3158,7 @@ def to_ts(d: date | None) -> int:
 _ARTICULO_SQL = """
 SELECT n.id_norma, n.tipo, n.numero, n.titulo, n.organismo, n.derogado,
        n.fecha_publicacion, a.slug, a.label, a.body, a.content_sha256,
-       s.desde, s.hasta
+       s.desde, s.hasta, s.ord
   FROM articulo a
   JOIN norma n ON n.id_norma = a.id_norma
   JOIN articulo_span s ON s.articulo_id = a.id
@@ -3169,7 +3176,7 @@ def articulo_documents(
     rows = conn.execute(_ARTICULO_SQL.format(norma_filter=clause), params).fetchall()
     return [
         {
-            "id": document_id(id_norma, slug, sha, to_ts(desde)),
+            "id": document_id(id_norma, slug, sha, to_ts(desde), ord_),
             "id_norma": id_norma,
             "tipo": tipo,
             "numero": numero,
@@ -3185,7 +3192,7 @@ def articulo_documents(
             "rank_tipo": rank_tipo(tipo),
         }
         for (id_norma, tipo, numero, titulo, organismo, derogado, fecha_pub,
-             slug, label, body, sha, desde, hasta) in rows
+             slug, label, body, sha, desde, hasta, ord_) in rows
     ]
 
 
@@ -3219,7 +3226,9 @@ def sync_articulos(index, docs: list[dict], delete_id_normas: list[int]) -> list
     """
     tasks = []
     if delete_id_normas:
-        tasks.append(index.delete_documents_by_filter(f"id_norma IN {sorted(delete_id_normas)}"))
+        # The client exposes delete_documents(filter=...). There is no
+        # delete_documents_by_filter — calling it raises AttributeError.
+        tasks.append(index.delete_documents(filter=f"id_norma IN {sorted(delete_id_normas)}"))
     if docs:
         tasks.append(index.add_documents(docs, primary_key="id"))
     return [t for t in tasks if t is not None]
@@ -3241,18 +3250,26 @@ def _task_status(task) -> str | None:
     return status
 
 
-def wait_for_tasks(client, tasks: list) -> None:
-    """Block until every enqueued task settles; raise if any failed.
+# The client's wait_for_task default is 5_000 ms. A bulk add_documents over the
+# full-tier article bodies routinely takes longer, and a timeout there would
+# fail a healthy run. Wait generously; a genuinely stuck task still surfaces.
+TASK_TIMEOUT_MS = 10 * 60 * 1000
+
+
+def wait_for_tasks(client, tasks: list, *, timeout_ms: int = TASK_TIMEOUT_MS) -> None:
+    """Block until every enqueued task settles; raise unless it succeeded.
 
     Without this, an index that rejected every document (Meilisearch ids admit
     only [a-zA-Z0-9_-]) looks exactly like a successful index: the client call
     returned, the loader advanced its watermark, and search is empty.
+
+    Raises on `failed` AND `canceled` — anything that is not `succeeded`.
     """
     for task in tasks:
         uid = _task_uid(task)
         if uid is None:
             continue
-        done = client.wait_for_task(uid)
+        done = client.wait_for_task(uid, timeout_in_ms=timeout_ms)
         status = _task_status(done)
         if status != "succeeded":
             error = getattr(done, "error", None) or (

@@ -8,9 +8,11 @@ class FakeMeiliIndex:
 
     def add_documents(self, docs, primary_key=None):
         self.added.extend(docs)
+        return {"taskUid": 100 + len(self.added)}
 
-    def delete_documents_by_filter(self, filter):
+    def delete_documents(self, ids=None, *, filter=None, metadata=None):
         self.deleted.append(filter)
+        return {"taskUid": len(self.deleted)}
 
     def update_settings(self, settings):
         self.settings = settings
@@ -63,15 +65,15 @@ def test_document_id_is_meilisearch_legal():
     """Meilisearch ids admit only [a-zA-Z0-9_-]. A colon fails the whole batch."""
     import re
     from loader.index_meili import document_id
-    doc_id = document_id(1984, "art-5-bis", "a462e6ee9c1d", 946684800)
+    doc_id = document_id(1984, "art-5-bis", "a462e6ee9c1d", 946684800, 0)
     assert re.fullmatch(r"[a-zA-Z0-9_-]+", doc_id), doc_id
-    assert doc_id == "1984_art-5-bis_a462e6ee_946684800"
+    assert doc_id == "1984_art-5-bis_a462e6ee_946684800_0"
 
 
 def test_document_id_rejects_an_illegal_slug():
     from loader.index_meili import document_id
     with pytest.raises(ValueError, match="not Meilisearch-legal"):
-        document_id(1, "art:1", "abcdef12", 0)
+        document_id(1, "art:1", "abcdef12", 0, 0)
 
 
 def test_document_id_is_span_scoped():
@@ -79,16 +81,22 @@ def test_document_id_is_span_scoped():
     disjoint spans. Without desde_ts in the key they collide, and the later
     span silently overwrites the earlier one."""
     from loader.index_meili import document_id
-    a = document_id(4, "art-1", "a462e6ee", 946684800)     # in force 2000-2004
-    b = document_id(4, "art-1", "a462e6ee", 1262304000)    # same body, 2010-
+    a = document_id(4, "art-1", "a462e6ee", 946684800, 0)     # in force 2000-2004
+    b = document_id(4, "art-1", "a462e6ee", 1262304000, 0)    # same body, 2010-
     assert a != b
+
+    # articulo_span's PK is (articulo_id, desde, ord): the schema deliberately
+    # admits the same body at two positions within ONE version. Same desde,
+    # different ord, so the id must differ too.
+    c = document_id(4, "art-1", "a462e6ee", 946684800, 1)
+    assert a != c
 
 
 def test_sync_articulos_returns_enqueued_tasks():
     from loader.index_meili import sync_articulos
     idx = FakeMeiliIndex()
     idx.add_documents = lambda docs, primary_key=None: {"taskUid": 7}
-    idx.delete_documents_by_filter = lambda filter: {"taskUid": 6}
+    idx.delete_documents = lambda ids=None, *, filter=None, metadata=None: {"taskUid": 6}
     tasks = sync_articulos(idx, [{"id": "1_art-1_abc_0"}], [1])
     assert [t["taskUid"] for t in tasks] == [6, 7]
 
@@ -98,7 +106,7 @@ def test_wait_for_tasks_raises_on_a_failed_task():
     from loader.index_meili import wait_for_tasks
 
     class FakeClient:
-        def wait_for_task(self, uid):
+        def wait_for_task(self, uid, timeout_in_ms=None):
             return {"status": "failed", "error": {"code": "invalid_document_id"}}
 
     with pytest.raises(RuntimeError, match="invalid_document_id"):
@@ -109,8 +117,77 @@ def test_wait_for_tasks_accepts_a_succeeded_task():
     from loader.index_meili import wait_for_tasks
 
     class FakeClient:
-        def wait_for_task(self, uid):
+        def wait_for_task(self, uid, timeout_in_ms=None):
             return {"status": "succeeded"}
 
     wait_for_tasks(FakeClient(), [{"taskUid": 7}])
+
+
+def test_fake_client_mirrors_the_real_meilisearch_api():
+    """The fake must not invent methods the real client lacks.
+
+    sync_articulos originally called index.delete_documents_by_filter(), which
+    has never existed in the Python client — and the fake defined a method with
+    that same wrong name, so every test passed while the real call would raise
+    AttributeError. Pin the surface we actually use.
+    """
+    import inspect
+    meilisearch = pytest.importorskip("meilisearch")
+    from meilisearch.client import Client
+    from meilisearch.index import Index
+
+    for name in ("add_documents", "delete_documents", "update_settings"):
+        assert hasattr(Index, name), f"real Index lacks {name}"
+    assert not hasattr(Index, "delete_documents_by_filter"), "this method does not exist"
+
+    assert "filter" in inspect.signature(Index.delete_documents).parameters
+    assert "timeout_in_ms" in inspect.signature(Client.wait_for_task).parameters
+
+    for name in ("add_documents", "delete_documents", "update_settings"):
+        assert hasattr(FakeMeiliIndex, name), f"fake lacks {name}"
+
+
+def test_wait_for_tasks_reads_attribute_style_tasks():
+    """The real client returns pydantic models, not dicts."""
+    from loader.index_meili import wait_for_tasks
+
+    class TaskInfo:
+        task_uid = 7
+
+    class Task:
+        status = "failed"
+        error = {"code": "invalid_document_id"}
+
+    class FakeClient:
+        def wait_for_task(self, uid, timeout_in_ms=None):
+            assert uid == 7
+            return Task()
+
+    with pytest.raises(RuntimeError, match="invalid_document_id"):
+        wait_for_tasks(FakeClient(), [TaskInfo()])
+
+
+def test_wait_for_tasks_raises_on_a_canceled_task():
+    from loader.index_meili import wait_for_tasks
+
+    class FakeClient:
+        def wait_for_task(self, uid, timeout_in_ms=None):
+            return {"status": "canceled", "error": None}
+
+    with pytest.raises(RuntimeError, match="canceled"):
+        wait_for_tasks(FakeClient(), [{"taskUid": 1}])
+
+
+def test_wait_for_tasks_passes_a_generous_timeout():
+    """The client default is 5s; a bulk add_documents exceeds it routinely."""
+    from loader.index_meili import TASK_TIMEOUT_MS, wait_for_tasks
+    seen = {}
+
+    class FakeClient:
+        def wait_for_task(self, uid, timeout_in_ms=None):
+            seen["timeout"] = timeout_in_ms
+            return {"status": "succeeded"}
+
+    wait_for_tasks(FakeClient(), [{"taskUid": 1}])
+    assert seen["timeout"] == TASK_TIMEOUT_MS >= 60_000
 
