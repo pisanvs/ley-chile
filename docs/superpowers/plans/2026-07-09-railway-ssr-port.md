@@ -1357,6 +1357,7 @@ Runs in GitHub Actions where `historial` and `graph.json` are already on disk. R
 - Produces:
   - `CommitMeta` (frozen: `sha: str`, `committer_date: str`, `subject: str`, `causa_id: int | None`, `magnitude: int`)
   - `versions_for_norma(id_norma: int, law_dir: str, commits: list[CommitMeta], textos: dict[str, str]) -> tuple[list[VersionRow], list[ArticleRow], list[SpanRow]]` — `textos` maps commit sha → that commit's `texto.md`
+  - `build_law_dir_index(historial: Path) -> dict[int, str]` — maps `idNorma` → the norma's directory relative to `historial`, read from the `metadata.json` files actually on disk
   - `shard_name(kind: str, index: int) -> str`
   - `build_manifest(snapshot_version: str, watermark: str, last_delta_seq: int, shards: list[str]) -> Manifest`
 
@@ -1365,7 +1366,11 @@ Runs in GitHub Actions where `historial` and `graph.json` are already on disk. R
 Create `tests/test_export_snapshot.py`:
 
 ```python
-from export_snapshot import CommitMeta, build_manifest, shard_name, versions_for_norma
+import json
+
+from export_snapshot import (
+    CommitMeta, build_law_dir_index, build_manifest, shard_name, versions_for_norma,
+)
 from segment import canonical_text, segment, sha256_text
 
 V1 = "#### Artículo 1º\nUno."
@@ -1420,6 +1425,32 @@ def test_commits_out_of_order_are_sorted_by_real_date():
     versions, _, _ = versions_for_norma(42, "leyes/42", list(reversed(_commits())),
                                         {"aaa": V1, "bbb": V2})
     assert [v.desde for v in versions] == ["1943-05-10", "2011-02-21"]
+
+
+def test_build_law_dir_index_reads_the_tree_not_the_graph(tmp_path):
+    # graph.json has no law_dir; the layout comes from metadata.json on disk.
+    for rel, id_norma in [("leyes/42", 42), ("dfl/hacienda/1", 7), ("cod/1", 9)]:
+        d = tmp_path / rel
+        d.mkdir(parents=True)
+        (d / "metadata.json").write_text(json.dumps({"idNorma": id_norma}), encoding="utf-8")
+    assert build_law_dir_index(tmp_path) == {
+        42: "leyes/42", 7: "dfl/hacienda/1", 9: "cod/1",
+    }
+
+
+def test_build_law_dir_index_skips_malformed_metadata(tmp_path):
+    # One bad norma must not abort a corpus-wide export.
+    good = tmp_path / "leyes/1"; good.mkdir(parents=True)
+    (good / "metadata.json").write_text('{"idNorma": 1}', encoding="utf-8")
+    for rel, blob in [("leyes/2", "not json {"), ("leyes/3", "[1,2]"), ("leyes/4", "{}")]:
+        d = tmp_path / rel; d.mkdir(parents=True)
+        (d / "metadata.json").write_text(blob, encoding="utf-8")
+    assert build_law_dir_index(tmp_path) == {1: "leyes/1"}
+
+
+def test_build_law_dir_index_empty_tree_is_empty(tmp_path):
+    # main() turns this into a hard abort rather than an empty manifest.
+    assert build_law_dir_index(tmp_path) == {}
 
 
 def test_shard_name():
@@ -1526,6 +1557,29 @@ def versions_for_norma(
     return versions, articles, spans
 
 
+def build_law_dir_index(historial: Path) -> dict[int, str]:
+    """Map idNorma -> the norma's directory, relative to `historial`.
+
+    `graph.json` does not carry `law_dir`; its nodes hold only idNorma, tipo,
+    numero, titulo, organismos, clasificacion, derogado, the fechas, vigencias
+    and modificadaPor_edges. Rather than re-derive the layout with
+    `utils.law_dir()` — which resolves collisions by reading metadata.json
+    anyway, and which would silently export nothing if it ever disagreed with
+    the tree — read the layout `build_history.py` actually wrote.
+
+    A malformed metadata.json is skipped, not fatal: one bad norma must not
+    abort a corpus-wide export. `main()` aborts if the whole index is empty.
+    """
+    index: dict[int, str] = {}
+    for meta in historial.rglob("metadata.json"):
+        try:
+            id_norma = json.loads(meta.read_text(encoding="utf-8", errors="replace"))["idNorma"]
+        except (OSError, ValueError, KeyError, TypeError):
+            continue
+        index[int(id_norma)] = meta.parent.relative_to(historial).as_posix()
+    return index
+
+
 # --------------------------------------------------------------------------
 # Git reading. Not unit-tested (requires a repo); exercised by Task 11's E2E.
 # --------------------------------------------------------------------------
@@ -1608,6 +1662,16 @@ def main() -> int:
     args.out.mkdir(parents=True, exist_ok=True)
     graph = json.loads(args.graph.read_text(encoding="utf-8"))
 
+    # graph.json does NOT carry law_dir — its nodes hold only idNorma, tipo, numero,
+    # titulo, organismos, clasificacion, derogado, fechaPublicacion/Promulgacion,
+    # vigencias and modificadaPor_edges. Read the directory layout from the tree
+    # build_history.py actually wrote, rather than re-deriving it with utils.law_dir():
+    # a re-derivation that disagreed with the tree would silently export nothing.
+    law_dirs = build_law_dir_index(args.historial)
+    if not law_dirs:
+        print(f"ABORT: no metadata.json found under {args.historial}; nothing to export.")
+        return 1
+
     wanted = None
     if args.only:
         wanted = {int(x) for x in args.only.read_text().split()}
@@ -1617,7 +1681,7 @@ def main() -> int:
         id_norma = int(key)
         if wanted is not None and id_norma not in wanted:
             continue
-        law_dir = node.get("law_dir")
+        law_dir = law_dirs.get(id_norma)
         if not law_dir or not (args.historial / law_dir / "texto.md").exists():
             continue
 
@@ -1647,6 +1711,15 @@ def main() -> int:
         for edge in node.get("modificadaPor_edges") or []:
             mods.append(ModRow(causa_id=int(edge), target_id=id_norma,
                                fecha=node.get("fechaPublicacion", ""), commit_sha=""))
+
+    # Fail closed. An export that matched nothing must not write a manifest: the
+    # loader would happily ingest it, advance its watermark, and report success
+    # while the database stayed empty. A delta legitimately selecting no normas
+    # should not have been invoked in the first place.
+    if not normas:
+        print(f"ABORT: matched 0 normas from {len(graph)} graph nodes and "
+              f"{len(law_dirs)} law dirs. No manifest written.")
+        return 1
 
     shards: list[str] = []
     for kind, rows in [("normas", normas), ("versions", versions),
