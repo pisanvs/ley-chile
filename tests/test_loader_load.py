@@ -109,3 +109,29 @@ def test_load_state_round_trip(conn):
     load.set_load_state(conn, watermark="2026-05-29", snapshot_version="v1", last_delta_seq=3)
     load.set_load_state(conn, watermark="2026-06-01", snapshot_version="v1", last_delta_seq=4)
     assert load.get_load_state(conn) == ("2026-06-01", "v1", 4)
+
+
+@requires_db
+def test_load_spans_fails_closed_on_a_dangling_span(conn):
+    """A span whose article was never loaded must raise, not vanish.
+
+    Silently dropping it loses an artículo from a version. The validation gate
+    would catch it later as a canonical-hash mismatch, but far from the cause.
+    """
+    from loader import load
+    load.load_normas(conn, [NORMA])
+    load.load_articles(conn, [ARTICLE])
+    dangling = SpanRow(id_norma=42, slug="art-2", content_sha256="never-loaded",
+                       desde="1943-05-10", hasta=None, ord=1)
+    with pytest.raises(ValueError, match="reference articles that were not loaded"):
+        load.load_spans(conn, [SPAN, dangling])
+
+
+@requires_db
+def test_load_spans_reports_rows_written(conn):
+    from loader import load
+    load.load_normas(conn, [NORMA])
+    load.load_articles(conn, [ARTICLE])
+    assert load.load_spans(conn, [SPAN]) == 1
+    assert load.load_spans(conn, [SPAN]) == 1, "re-applying the same span is a no-op"
+    assert conn.execute("SELECT count(*) FROM articulo_span").fetchone()[0] == 1

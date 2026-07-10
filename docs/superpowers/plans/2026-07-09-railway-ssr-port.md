@@ -2571,8 +2571,17 @@ def load_articles(conn: psycopg.Connection, rows: Iterable[ArticleRow]) -> int:
 
 
 def load_spans(conn: psycopg.Connection, rows: Iterable[SpanRow]) -> int:
-    """Resolve articulo_id from the dedup key, then upsert the span."""
+    """Resolve articulo_id from the dedup key, then upsert the span.
+
+    Fails closed. The INSERT ... SELECT writes nothing when a span references an
+    article that was not loaded, so a naive `return len(rows)` would report
+    success while a version silently lost an artículo — surfacing much later as
+    a canonical-hash mismatch in the validation gate, far from the cause.
+    `cur.rowcount` carries the truth; compare it and raise.
+    """
     rows = list(rows)
+    if not rows:
+        return 0
     with conn.cursor() as cur:
         cur.executemany(
             """
@@ -2586,7 +2595,26 @@ def load_spans(conn: psycopg.Connection, rows: Iterable[SpanRow]) -> int:
             """,
             [r.__dict__ for r in rows],
         )
-    return len(rows)
+        written = cur.rowcount
+    if written != len(rows):
+        raise ValueError(
+            f"{len(rows) - written} of {len(rows)} spans reference articles that were "
+            f"not loaded: {_unresolved_spans(conn, rows)[:5]}"
+        )
+    return written
+
+
+def _unresolved_spans(conn: psycopg.Connection, rows: list[SpanRow]) -> list[tuple]:
+    """Which spans have no matching articulo? Failure path only."""
+    missing = []
+    for r in rows:
+        hit = conn.execute(
+            "SELECT 1 FROM articulo WHERE id_norma=%s AND slug=%s AND content_sha256=%s",
+            (r.id_norma, r.slug, r.content_sha256),
+        ).fetchone()
+        if hit is None:
+            missing.append((r.id_norma, r.slug, r.content_sha256[:8]))
+    return missing
 
 
 def load_mods(conn: psycopg.Connection, rows: Iterable[ModRow]) -> int:
