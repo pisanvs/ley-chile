@@ -163,3 +163,23 @@ def test_shard_name():
 def test_build_manifest():
     m = build_manifest("v1", "2026-05-29", 3, ["normas-000.ndjson.gz"])
     assert (m.watermark, m.last_delta_seq) == ("2026-05-29", 3)
+
+
+def test_mod_rows_for_survives_a_non_string_fecha():
+    # `or ""` rescues only falsy values; a truthy non-string reaches len().
+    # mod_rows_for runs inside main()'s per-norma isolation, but it must not
+    # raise at all: an unhandled TypeError here once killed the whole export.
+    node = {"fechaPublicacion": "1980-01-01", "modificadaPor_edges": [
+        {"idNorma": 1, "fecha": 20220101},
+        {"idNorma": 2, "fecha": True},
+        {"idNorma": 3, "fecha": "2001-01-01"},
+    ]}
+    assert [(r.causa_id, r.fecha) for r in mod_rows_for(9, node)] == [(3, "2001-01-01")]
+
+
+def test_mod_rows_for_skips_a_non_numeric_causa():
+    node = {"fechaPublicacion": "1980-01-01", "modificadaPor_edges": [
+        {"idNorma": "no-soy-un-numero", "fecha": "2001-01-01"},
+        {"idNorma": 5, "fecha": "2001-01-01"},
+    ]}
+    assert [r.causa_id for r in mod_rows_for(9, node)] == [5]

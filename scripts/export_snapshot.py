@@ -132,6 +132,7 @@ def versions_for_norma(
 
 
 SENTINEL_YEAR = 2100   # LeyChile uses 2222-02-02 for open-ended "current"
+_ISO_DATE = re.compile(r"\d{4}-\d{2}-\d{2}")
 
 
 def mod_rows_for(id_norma: int, node: dict) -> list[ModRow]:
@@ -153,18 +154,29 @@ def mod_rows_for(id_norma: int, node: dict) -> list[ModRow]:
     seen: set[tuple[int, str]] = set()
     for edge in node.get("modificadaPor_edges") or []:
         if isinstance(edge, dict):
-            causa, fecha = edge.get("idNorma"), edge.get("fecha") or ""
+            causa, fecha = edge.get("idNorma"), edge.get("fecha")
         else:
-            causa, fecha = edge, node.get("fechaPublicacion") or ""
-        if causa is None or len(fecha) < 4 or not fecha[:4].isdigit():
+            causa, fecha = edge, node.get("fechaPublicacion")
+        # Coerce before inspecting. `or ""` only rescues FALSY values, so a
+        # truthy non-string (an int date from a re-encoded graph, say) would
+        # reach len()/slicing and raise TypeError.
+        fecha = str(fecha or "")
+        # Validate the WHOLE date, not just a year prefix. `str(20220101)` is
+        # "20220101": four leading digits, so a prefix check passes it straight
+        # into a Postgres `date` column. ModRow.fecha must be ISO or nothing.
+        if causa is None or not _ISO_DATE.fullmatch(fecha):
             continue
         if int(fecha[:4]) > SENTINEL_YEAR:
             continue
-        key = (int(causa), fecha)
+        try:
+            causa_id = int(causa)
+        except (TypeError, ValueError):
+            continue
+        key = (causa_id, fecha)
         if key in seen:                       # PK is (causa_id, target_id, fecha)
             continue
         seen.add(key)
-        rows.append(ModRow(causa_id=int(causa), target_id=id_norma,
+        rows.append(ModRow(causa_id=causa_id, target_id=id_norma,
                            fecha=fecha, commit_sha=""))
     return rows
 
@@ -334,6 +346,7 @@ def main() -> int:
             if not commits:
                 continue
             v, a, s, e = versions_for_norma(id_norma, law_dir, commits, textos)
+            m = mod_rows_for(id_norma, node)
         except Exception as exc:                      # noqa: BLE001 — isolation is the point
             failures.append((id_norma, f"{type(exc).__name__}: {exc}"))
             continue
@@ -353,7 +366,7 @@ def main() -> int:
             fecha_publicacion=node.get("fechaPublicacion") or None,
             law_dir=law_dir,
         ))
-        mods += mod_rows_for(id_norma, node)
+        mods += m
 
     for id_norma, why in failures[:20]:
         print(f"  SKIPPED idNorma={id_norma}: {why}")

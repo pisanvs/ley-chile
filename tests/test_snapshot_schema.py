@@ -70,7 +70,7 @@ def test_mod_row_round_trip():
     assert from_ndjson(to_ndjson([m]).strip(), ModRow) == m
 
 
-def test_event_row_round_trip():
+def test_event_row_round_trip_with_null_causa():
     e = EventRow(id_norma=1984, commit_sha="c1", fecha="2023-04-10",
-                 causa_id=1, subject="Otra [id 1] publicada (2023-04-10)", magnitude=0)
+                 causa_id=None, subject="Otra [id 1] publicada (2023-04-10)", magnitude=0)
     assert from_ndjson(to_ndjson([e]).strip(), EventRow) == e
