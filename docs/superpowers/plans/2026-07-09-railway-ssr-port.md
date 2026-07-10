@@ -2385,7 +2385,7 @@ import pytest
 pytest.importorskip("psycopg")
 pytestmark = pytest.mark.integration
 
-from schemas.snapshot import ModRow, NormaRow, VersionRow          # noqa: E402
+from schemas.snapshot import EventRow, ModRow, NormaRow, VersionRow   # noqa: E402
 from spans import ArticleRow, SpanRow                              # noqa: E402
 
 DSN = os.environ.get("DATABASE_URL")
@@ -2409,6 +2409,10 @@ SPAN = SpanRow(id_norma=42, slug="art-1", content_sha256="sha1",
 MOD = ModRow(causa_id=99, target_id=42, fecha="2011-02-21", commit_sha="bbb")
 
 
+EVENT = EventRow(id_norma=42, commit_sha="aaa", fecha="1943-05-10",
+                 causa_id=42, subject="s", magnitude=1)
+
+
 def _load_all(conn):
     from loader import load
     load.load_normas(conn, [NORMA])
@@ -2416,6 +2420,7 @@ def _load_all(conn):
     load.load_articles(conn, [ARTICLE])
     load.load_spans(conn, [SPAN])
     load.load_mods(conn, [MOD])
+    load.load_events(conn, [EVENT])
 
 
 @requires_db
@@ -2424,10 +2429,11 @@ def test_load_is_idempotent(conn):
     _load_all(conn)   # same delta applied twice
     counts = {
         t: conn.execute(f"SELECT count(*) FROM {t}").fetchone()[0]
-        for t in ("norma", "version", "articulo", "articulo_span", "modificacion")
+        for t in ("norma", "version", "articulo", "articulo_span",
+                  "modificacion", "publication_event")
     }
-    assert counts == {"norma": 1, "version": 1, "articulo": 1,
-                      "articulo_span": 1, "modificacion": 1}
+    assert counts == {"norma": 1, "version": 1, "articulo": 1, "articulo_span": 1,
+                      "modificacion": 1, "publication_event": 1}
 
 
 @requires_db
@@ -2464,7 +2470,12 @@ def test_replace_norma_clears_derived_rows_only(conn):
     load.replace_norma(conn, 42)
     assert conn.execute("SELECT count(*) FROM version").fetchone()[0] == 0
     assert conn.execute("SELECT count(*) FROM articulo").fetchone()[0] == 0
+    assert conn.execute("SELECT count(*) FROM articulo_span").fetchone()[0] == 0, "cascades"
+    assert conn.execute("SELECT count(*) FROM publication_event").fetchone()[0] == 0
+    # the norma row and its loader-owned retier state must survive
     assert conn.execute("SELECT count(*) FROM norma").fetchone()[0] == 1
+    # modificacion is NOT cleared: it has no EXCLUDE hazard and no FK to norma
+    assert conn.execute("SELECT count(*) FROM modificacion").fetchone()[0] == 1
 
 
 @requires_db
