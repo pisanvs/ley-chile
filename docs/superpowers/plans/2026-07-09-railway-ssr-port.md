@@ -900,8 +900,8 @@ The load-bearing bet: an artículo unchanged across five versions is one `articu
 - Consumes: `segment`, `sha256_text`, `Segment`, `canonical_text` from Task 2.
 - Produces:
   - `VersionInput` (frozen: `desde: str`, `hasta: str | None`, `texto: str`)
-  - `ArticleRow` (frozen: `id_norma: int`, `slug: str`, `label: str`, `raw_heading: str`, `body: str`, `body_sha256: str`)
-  - `SpanRow` (frozen: `id_norma: int`, `slug: str`, `body_sha256: str`, `desde: str`, `hasta: str | None`, `ord: int`)
+  - `ArticleRow` (frozen: `id_norma: int`, `slug: str`, `label: str`, `raw_heading: str`, `body: str`, `content_sha256: str`)
+  - `SpanRow` (frozen: `id_norma: int`, `slug: str`, `content_sha256: str`, `desde: str`, `hasta: str | None`, `ord: int`)
   - `build_articles_and_spans(id_norma: int, versions: list[VersionInput]) -> tuple[list[ArticleRow], list[SpanRow]]`
   - `reconstruct(articles: list[ArticleRow], spans: list[SpanRow], fecha: str) -> list[Segment]`
 
@@ -958,7 +958,7 @@ def test_article_that_reverts_produces_two_spans_for_one_article_row():
     # art-2 body A appears in v0 and v2 (non-contiguous) -> one row, two spans
     a2 = [a for a in arts if a.slug == "art-2" and a.body == "Original dos."]
     assert len(a2) == 1
-    revert_spans = [s for s in spans if s.slug == "art-2" and s.body_sha256 == a2[0].body_sha256]
+    revert_spans = [s for s in spans if s.slug == "art-2" and s.content_sha256 == a2[0].content_sha256]
     assert len(revert_spans) == 2
 
 
@@ -1006,7 +1006,7 @@ Expected: FAIL with `ModuleNotFoundError: No module named 'spans'`.
 Store each distinct article body once; store when it was in force. A version's
 text is reconstructed by selecting the articles whose span contains the date.
 
-Run identity is (slug, body_sha256, ord): a body that survives unchanged but
+Run identity is (slug, content_sha256, ord): a body that survives unchanged but
 moves position must split its span, because `ord` determines reading order and
 reading order is a property of the version, not of the article.
 """
@@ -1036,14 +1036,14 @@ class ArticleRow:
     label: str
     raw_heading: str
     body: str
-    body_sha256: str
+    content_sha256: str
 
 
 @dataclass(frozen=True)
 class SpanRow:
     id_norma: int
     slug: str
-    body_sha256: str
+    content_sha256: str
     desde: str
     hasta: str | None
     ord: int
@@ -1063,7 +1063,7 @@ def build_articles_and_spans(
     ordered = sorted(versions, key=lambda v: v.desde)
 
     articles: dict[tuple[str, str], ArticleRow] = {}
-    # (slug, body_sha256, ord) -> version indices where it appears at that position
+    # (slug, content_sha256, ord) -> version indices where it appears at that position
     occurrences: dict[tuple[str, str, int], list[int]] = {}
 
     for i, v in enumerate(ordered):
@@ -1079,7 +1079,7 @@ def build_articles_and_spans(
     for (slug, sha, position), idxs in occurrences.items():
         for run in _contiguous_runs(idxs):
             spans.append(SpanRow(
-                id_norma=id_norma, slug=slug, body_sha256=sha,
+                id_norma=id_norma, slug=slug, content_sha256=sha,
                 desde=ordered[run[0]].desde, hasta=ordered[run[-1]].hasta, ord=position,
             ))
 
@@ -1095,14 +1095,14 @@ def reconstruct(
     articles: list[ArticleRow], spans: list[SpanRow], fecha: str
 ) -> list[Segment]:
     """Rebuild a version's segments as of `fecha`, in reading order."""
-    by_key = {(a.slug, a.body_sha256): a for a in articles}
+    by_key = {(a.slug, a.content_sha256): a for a in articles}
     live = sorted((s for s in spans if _contains(s, fecha)), key=lambda s: s.ord)
     return [
         Segment(
-            label=by_key[(s.slug, s.body_sha256)].label,
+            label=by_key[(s.slug, s.content_sha256)].label,
             slug=s.slug,
-            raw_heading=by_key[(s.slug, s.body_sha256)].raw_heading,
-            body=by_key[(s.slug, s.body_sha256)].body,
+            raw_heading=by_key[(s.slug, s.content_sha256)].raw_heading,
+            body=by_key[(s.slug, s.content_sha256)].body,
         )
         for s in live
     ]
@@ -1805,7 +1805,7 @@ def test_duplicate_desde_is_rejected(conn):
 def test_articulo_dedup_key_rejects_exact_duplicates(conn):
     conn.execute("INSERT INTO norma (id_norma, tipo, numero, titulo, law_dir) "
                  "VALUES (1, 'ley', '1', 'T', 'leyes/1')")
-    ins = ("INSERT INTO articulo (id_norma, slug, label, raw_heading, body, body_sha256) "
+    ins = ("INSERT INTO articulo (id_norma, slug, label, raw_heading, body, content_sha256) "
            "VALUES (1, 'art-1', 'articulo 1', 'Artículo 1', 'B', 'sha')")
     conn.execute(ins)
     with pytest.raises(psycopg.errors.UniqueViolation):
@@ -1816,7 +1816,7 @@ def test_articulo_dedup_key_rejects_exact_duplicates(conn):
 def test_tsvector_is_generated_and_indexed(conn):
     conn.execute("INSERT INTO norma (id_norma, tipo, numero, titulo, law_dir) "
                  "VALUES (1, 'ley', '1', 'T', 'leyes/1')")
-    conn.execute("INSERT INTO articulo (id_norma, slug, label, raw_heading, body, body_sha256) "
+    conn.execute("INSERT INTO articulo (id_norma, slug, label, raw_heading, body, content_sha256) "
                  "VALUES (1, 'art-1', 'articulo 1', 'Artículo 1', 'Los contratos de arrendamiento', 'sha')")
     hit = conn.execute(
         "SELECT 1 FROM articulo WHERE tsv @@ websearch_to_tsquery('spanish', 'arrendamiento')"
@@ -1892,9 +1892,9 @@ CREATE TABLE IF NOT EXISTS articulo (
   label        text NOT NULL,
   raw_heading  text NOT NULL,
   body         text NOT NULL,
-  body_sha256  text NOT NULL,
+  content_sha256  text NOT NULL,
   tsv          tsvector GENERATED ALWAYS AS (to_tsvector('spanish', body)) STORED,
-  UNIQUE (id_norma, slug, body_sha256)
+  UNIQUE (id_norma, slug, content_sha256)
 );
 CREATE INDEX IF NOT EXISTS articulo_tsv_idx ON articulo USING gin (tsv);
 
@@ -2020,7 +2020,7 @@ Every write is an upsert. A crashed load is retried, never repaired. The test th
   - `load_normas(conn, rows: list[NormaRow]) -> int`
   - `load_versions(conn, rows: list[VersionRow]) -> int`
   - `load_articles(conn, rows: list[ArticleRow]) -> int`
-  - `load_spans(conn, rows: list[SpanRow]) -> int` — resolves `articulo_id` from `(id_norma, slug, body_sha256)`
+  - `load_spans(conn, rows: list[SpanRow]) -> int` — resolves `articulo_id` from `(id_norma, slug, content_sha256)`
   - `load_mods(conn, rows: list[ModRow]) -> int`
   - `replace_norma(conn, id_norma: int) -> None` — deletes versions/articles/spans for one norma so a delta can rewrite it cleanly
   - `set_load_state(conn, *, watermark: str, snapshot_version: str, last_delta_seq: int) -> None`
@@ -2056,8 +2056,8 @@ VERSION = VersionRow(id_norma=42, desde="1943-05-10", hasta=None, commit_sha="aa
                      causa_id=42, subject="s", magnitude=1,
                      texto_sha256="t1", canonical_sha256="c1")
 ARTICLE = ArticleRow(id_norma=42, slug="art-1", label="articulo 1",
-                     raw_heading="Artículo 1º", body="Uno.", body_sha256="sha1")
-SPAN = SpanRow(id_norma=42, slug="art-1", body_sha256="sha1",
+                     raw_heading="Artículo 1º", body="Uno.", content_sha256="sha1")
+SPAN = SpanRow(id_norma=42, slug="art-1", content_sha256="sha1",
                desde="1943-05-10", hasta=None, ord=0)
 MOD = ModRow(causa_id=99, target_id=42, fecha="2011-02-21", commit_sha="bbb")
 
@@ -2213,9 +2213,9 @@ def load_articles(conn: psycopg.Connection, rows: Iterable[ArticleRow]) -> int:
     with conn.cursor() as cur:
         cur.executemany(
             """
-            INSERT INTO articulo (id_norma, slug, label, raw_heading, body, body_sha256)
-            VALUES (%(id_norma)s, %(slug)s, %(label)s, %(raw_heading)s, %(body)s, %(body_sha256)s)
-            ON CONFLICT (id_norma, slug, body_sha256) DO UPDATE SET
+            INSERT INTO articulo (id_norma, slug, label, raw_heading, body, content_sha256)
+            VALUES (%(id_norma)s, %(slug)s, %(label)s, %(raw_heading)s, %(body)s, %(content_sha256)s)
+            ON CONFLICT (id_norma, slug, content_sha256) DO UPDATE SET
                 label = EXCLUDED.label, raw_heading = EXCLUDED.raw_heading
             """,
             [r.__dict__ for r in rows],
@@ -2234,7 +2234,7 @@ def load_spans(conn: psycopg.Connection, rows: Iterable[SpanRow]) -> int:
               FROM articulo a
              WHERE a.id_norma = %(id_norma)s
                AND a.slug = %(slug)s
-               AND a.body_sha256 = %(body_sha256)s
+               AND a.content_sha256 = %(content_sha256)s
             ON CONFLICT (articulo_id, desde, ord) DO UPDATE SET hasta = EXCLUDED.hasta
             """,
             [r.__dict__ for r in rows],
@@ -2462,18 +2462,18 @@ class Mismatch:
 def _rows_for(conn: psycopg.Connection, id_norma: int) -> tuple[list[ArticleRow], list[SpanRow]]:
     articles = [
         ArticleRow(id_norma=id_norma, slug=slug, label=label,
-                   raw_heading=raw_heading, body=body, body_sha256=sha)
+                   raw_heading=raw_heading, body=body, content_sha256=sha)
         for slug, label, raw_heading, body, sha in conn.execute(
-            "SELECT slug, label, raw_heading, body, body_sha256 FROM articulo WHERE id_norma = %s",
+            "SELECT slug, label, raw_heading, body, content_sha256 FROM articulo WHERE id_norma = %s",
             (id_norma,),
         )
     ]
     spans = [
-        SpanRow(id_norma=id_norma, slug=slug, body_sha256=sha,
+        SpanRow(id_norma=id_norma, slug=slug, content_sha256=sha,
                 desde=desde.isoformat(), hasta=hasta.isoformat() if hasta else None, ord=ord_)
         for slug, sha, desde, hasta, ord_ in conn.execute(
             """
-            SELECT a.slug, a.body_sha256, s.desde, s.hasta, s.ord
+            SELECT a.slug, a.content_sha256, s.desde, s.hasta, s.ord
               FROM articulo_span s JOIN articulo a ON a.id = s.articulo_id
              WHERE a.id_norma = %s
             """,
@@ -2681,7 +2681,7 @@ def to_ts(d: date | None) -> int:
 
 _ARTICULO_SQL = """
 SELECT n.id_norma, n.tipo, n.numero, n.titulo, n.organismo, n.derogado,
-       n.fecha_publicacion, a.slug, a.label, a.body, a.body_sha256,
+       n.fecha_publicacion, a.slug, a.label, a.body, a.content_sha256,
        s.desde, s.hasta
   FROM articulo a
   JOIN norma n ON n.id_norma = a.id_norma

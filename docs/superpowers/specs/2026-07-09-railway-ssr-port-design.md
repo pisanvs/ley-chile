@@ -172,9 +172,14 @@ CREATE TABLE articulo (
   label        text NOT NULL,
   raw_heading  text NOT NULL,            -- 'Artículo 5º' as it appeared; needed to reconstruct
   body         text NOT NULL,
-  body_sha256  text NOT NULL,
+  -- sha256 of the segment's canonical unit: f"{raw_heading}\n{body}" (or body alone
+  -- when there is no heading) — the SAME unit canonical_text() joins. Hashing the
+  -- body alone would collapse two versions whose bodies match but whose heading glyph
+  -- differs ('Artículo 1º' vs 'Artículo 1°' — BCN mixes both inside one file), freezing
+  -- the first version's heading and failing the §8.1 gate on the second.
+  content_sha256  text NOT NULL,
   tsv          tsvector GENERATED ALWAYS AS (to_tsvector('spanish', body)) STORED,
-  UNIQUE (id_norma, slug, body_sha256)   -- the dedup key
+  UNIQUE (id_norma, slug, content_sha256)   -- the dedup key
 );
 CREATE INDEX articulo_tsv_idx ON articulo USING gin (tsv);
 
@@ -234,7 +239,7 @@ Article segmentation currently lives in TypeScript (`HEADING_RE`, `labelToSlug` 
 
 This is not a porting hazard; it is a **live bug in the deployed SPA**, where `align(prev, curr)` matches segments by label. Any version where BCN switched ordinal characters renders as a total rewrite: every artículo shows as removed and re-added.
 
-For the new design it is fatal rather than cosmetic. `articulo`'s uniqueness key is `(id_norma, slug, body_sha256)`, so a flipped ordinal fragments `articulo_span` into disjoint ranges for what is one continuous article, breaks cross-version dedup, and changes Meilisearch document ids.
+For the new design it is fatal rather than cosmetic. `articulo`'s uniqueness key is `(id_norma, slug, content_sha256)`, so a flipped ordinal fragments `articulo_span` into disjoint ranges for what is one continuous article, breaks cross-version dedup, and changes Meilisearch document ids.
 
 **Fix:** strip `[°º]` *before* NFKD, in both the Python port and `diff.ts`, so the two implementations stay in lockstep. The golden test (§8.2) is written against the **fixed** behavior.
 
