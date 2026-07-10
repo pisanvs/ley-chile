@@ -138,3 +138,14 @@ def test_gate_catches_a_heading_glyph_swap(conn):
     mismatches = verify_all(conn)
     assert len(mismatches) == 1 and mismatches[0].id_norma == 42
 
+
+@requires_db
+def test_verify_normas_checks_only_the_ids_given(conn):
+    """The incremental path must not re-walk the whole corpus."""
+    from loader.verify import verify_normas
+    _seed(conn, {"2000-01-01": V1})
+    conn.execute("UPDATE articulo SET body = 'CORRUPTO' WHERE slug = 'art-1'")
+    assert verify_normas(conn, []) == [], "no ids -> nothing checked"
+    assert verify_normas(conn, [999]) == [], "unknown id -> nothing to check"
+    assert len(verify_normas(conn, [42])) == 1, "the touched norma IS checked"
+

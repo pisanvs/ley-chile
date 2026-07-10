@@ -2727,6 +2727,7 @@ Reconstruct every version from `articulo` + `articulo_span`, hash its canonical 
   - `Mismatch` (frozen: `id_norma: int`, `desde: str`, `expected: str`, `actual: str`)
   - `verify_norma(conn, id_norma: int) -> list[Mismatch]`
   - `verify_all(conn, *, limit: int | None = None) -> list[Mismatch]`
+  - `verify_normas(conn, id_normas: list[int]) -> list[Mismatch]` — the incremental path
   - `count_versions(conn) -> int`
   - `gate(conn) -> int` — exit code; fails closed when zero versions exist
 
@@ -2901,6 +2902,20 @@ def verify_norma(conn: psycopg.Connection, id_norma: int) -> list[Mismatch]:
         if actual != expected:
             out.append(Mismatch(id_norma, desde.isoformat(), expected, actual))
     return out
+
+
+def verify_normas(conn: psycopg.Connection, id_normas: list[int]) -> list[Mismatch]:
+    """Verify only the normas a delta touched.
+
+    The incremental loader must not re-verify the whole corpus on every run:
+    verify_norma is O(versions x (articles + spans)) for one norma, so a delta
+    touching three laws would otherwise walk all ~408k versions. verify_all()
+    remains the cutover gate.
+    """
+    mismatches: list[Mismatch] = []
+    for id_norma in id_normas:
+        mismatches += verify_norma(conn, id_norma)
+    return mismatches
 
 
 def verify_all(conn: psycopg.Connection, *, limit: int | None = None) -> list[Mismatch]:
@@ -3595,11 +3610,18 @@ def run(conn, client, artifacts_dir: Path, *, budget_bytes: int,
         for shard in sorted(artifacts_dir.glob(f"{kind}-*.ndjson.gz")):
             fn(conn, _read_shard(shard, cls))
 
-    mismatches = verify.verify_all(conn)
+    # Scope verification to the normas this delta touched. verify_norma is
+    # O(versions x (articles + spans)) per norma — verifying the whole corpus on
+    # every incremental run would re-walk all ~408k versions to check three.
+    # verify.gate(conn) over everything remains the cutover check.
+    mismatches = verify.verify_normas(conn, touched)
     if mismatches:
         for m in mismatches[:20]:
             print(f"MISMATCH id_norma={m.id_norma} desde={m.desde}")
         print(f"ABORT: {len(mismatches)} versions failed to reconstruct; nothing indexed.")
+        return 1
+    if not touched:
+        print("ABORT: delta touched 0 normas; nothing verified, nothing indexed.")
         return 1
 
     retier.apply_seed(conn)

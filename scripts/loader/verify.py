@@ -63,6 +63,20 @@ def verify_norma(conn: psycopg.Connection, id_norma: int) -> list[Mismatch]:
     return out
 
 
+def verify_normas(conn: psycopg.Connection, id_normas: list[int]) -> list[Mismatch]:
+    """Verify only the normas a delta touched.
+
+    The incremental loader must not re-verify the whole corpus on every run:
+    verify_norma is O(versions x (articles + spans)) for one norma, so a delta
+    touching three laws would otherwise walk all ~408k versions. verify_all()
+    remains the cutover gate.
+    """
+    mismatches: list[Mismatch] = []
+    for id_norma in id_normas:
+        mismatches += verify_norma(conn, id_norma)
+    return mismatches
+
+
 def verify_all(conn: psycopg.Connection, *, limit: int | None = None) -> list[Mismatch]:
     sql = "SELECT id_norma FROM norma ORDER BY id_norma"
     if limit:
