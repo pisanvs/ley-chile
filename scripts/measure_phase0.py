@@ -57,7 +57,9 @@ def _iter_textos(historial: Path, sample: int, seed: int = 0):
         tipo = "unknown"
         if meta.exists():
             try:
-                tipo = json.loads(meta.read_text(encoding="utf-8")).get("tipo", "unknown")
+                parsed = json.loads(meta.read_text(encoding="utf-8", errors="replace"))
+                if isinstance(parsed, dict):
+                    tipo = parsed.get("tipo", "unknown")
             except json.JSONDecodeError:
                 pass
         yield tipo, p.read_text(encoding="utf-8", errors="replace")
@@ -85,7 +87,11 @@ def main() -> int:
         print(f"{c.tipo:<10} {c.total:>7} {c.md:>7} {c.inline:>7} {c.doc:>7} {doc_rate(c):>6.1%}")
 
     leyes = next((c for c in rows if c.tipo == "ley"), None)
-    if leyes and doc_rate(leyes) > LEY_DOC_RATE_STOP:
+    if leyes is None:
+        print("\nNO EVIDENCE: no normas with tipo='ley' were classified. "
+              "The gate measured nothing; refusing to pass.")
+        return 1
+    if doc_rate(leyes) > LEY_DOC_RATE_STOP:
         print(f"\nSTOP: {doc_rate(leyes):.1%} of leyes fall back to __doc__ "
               f"(threshold {LEY_DOC_RATE_STOP:.0%}). Article dedup is unfounded. "
               f"Fix the heuristic before proceeding.")
