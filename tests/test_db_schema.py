@@ -75,6 +75,20 @@ def test_tsvector_is_generated_and_indexed(conn):
     ).fetchone()
     assert hit is not None
 
+    # Stemming is the whole reason for the 'spanish' config: the plural query
+    # must match the singular body. An exact-word assertion alone would pass
+    # against a plain 'simple' config, or against substring matching.
+    stemmed = conn.execute(
+        "SELECT 1 FROM articulo WHERE tsv @@ websearch_to_tsquery('spanish', 'arrendamientos')"
+    ).fetchone()
+    assert stemmed is not None, "spanish config must stem arrendamientos -> arrendamiento"
+
+    # ...and an unrelated word must NOT match, so the test can actually fail.
+    miss = conn.execute(
+        "SELECT 1 FROM articulo WHERE tsv @@ websearch_to_tsquery('spanish', 'hipoteca')"
+    ).fetchone()
+    assert miss is None
+
 
 @requires_db
 def test_analytics_matview_exists_and_refreshes(conn):
