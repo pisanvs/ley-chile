@@ -193,6 +193,26 @@ CREATE TABLE articulo_span (
 );
 CREATE INDEX ON articulo_span USING gist (vigencia);
 
+-- One row per publication EVENT (git commit touching this norma). The `version`
+-- table coalesces same-date events into a single row, because "the text as of
+-- date D" must have exactly one answer — that is what the EXCLUDE constraint
+-- above enforces. But 87 normas (0.02%) have two or more events on one date:
+-- idNorma 1984 was amended by three distinct laws on 2023-04-10. Coalescing
+-- alone would erase those three causas from the timeline, so they live here.
+--
+-- version    : "what did the law say on 2023-04-10"  -> one answer
+-- publication_event : "what happened to it that day" -> three rows
+CREATE TABLE publication_event (
+  id_norma    integer NOT NULL REFERENCES norma ON DELETE CASCADE,
+  commit_sha  text NOT NULL,
+  fecha       date NOT NULL,          -- real_date(), never the committer date
+  causa_id    integer,                -- the norma that caused this event
+  subject     text,
+  magnitude   integer,
+  PRIMARY KEY (id_norma, commit_sha)
+);
+CREATE INDEX ON publication_event (id_norma, fecha);
+
 CREATE TABLE modificacion (
   causa_id   integer NOT NULL,
   target_id  integer NOT NULL,
@@ -216,6 +236,7 @@ Three decisions worth defending:
 
 - **`ord` lives on the span, not the article.** Amendments insert articles, so reading order is a property of a version, not of an article. Putting `ord` on `articulo` would silently corrupt the order of historical versions.
 - **The exclusion constraint is load-time protection, not decoration.** Overlapping version ranges for one norma is exactly the bug a delta loader introduces, and exactly the bug that makes "text as of date D" ambiguous. Let the database refuse it.
+- **Same-date events coalesce into one `version`.** Measured on the real corpus: 87 of 357,249 normas (0.02%) have two or more publication events sharing a date, and 102 normas are amended by two or more distinct causas on one date — `idNorma` 1984 by three laws on 2023-04-10. A `version` row's text is the tree state after *all* of that date's commits, which is what a reader means by "the law as it read on 2023-04-10". The individual events survive in `publication_event`, so nothing is lost: the chronology panel still shows three amendments, and `modificacion` still records three causas. Adding a `seq` column to `version` instead would have forced dropping the EXCLUDE constraint (same-date ranges necessarily overlap) and left `/ley/X/2023-04-10` with no way to choose among three rows.
 - **`version.texto_sha256` closes the loop.** See §8.1.
 
 ### 6.2 Segmentation moves to Python
