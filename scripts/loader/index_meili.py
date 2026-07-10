@@ -7,6 +7,7 @@ whose page 404s".
 """
 from __future__ import annotations
 
+import re
 from datetime import date, datetime, timezone
 
 import psycopg
@@ -31,6 +32,30 @@ SETTINGS: dict = {
     # to every query and would silently break "show me all matching artículos
     # inside this law". Pass distinct: "id_norma" as a per-search parameter.
 }
+
+
+# Meilisearch primary keys accept ONLY [a-zA-Z0-9_-]. A colon makes the whole
+# batch fail with invalid_document_id — and add_documents() is asynchronous, so
+# the client call succeeds and the hot tier silently stays empty.
+_VALID_DOC_ID = re.compile(r"^[a-zA-Z0-9_-]+$")
+
+
+def document_id(id_norma: int, slug: str, content_sha256: str, desde_ts: int) -> str:
+    """Stable, Meilisearch-legal id for one (article, span) pair.
+
+    `desde_ts` is part of the key. `articulo_documents` emits one document per
+    (article, span), and an article whose body was changed then reverted has ONE
+    articulo row with TWO disjoint spans. Keying on (id_norma, slug, sha) alone
+    would collide, so the later span would overwrite the earlier one and the law
+    would drop out of search for one of its two validity windows.
+    """
+    doc_id = f"{id_norma}_{slug}_{content_sha256[:8]}_{desde_ts}"
+    if not _VALID_DOC_ID.match(doc_id):
+        raise ValueError(
+            f"document id {doc_id!r} is not Meilisearch-legal; ids may contain "
+            f"only alphanumerics, hyphens and underscores"
+        )
+    return doc_id
 
 
 def rank_tipo(tipo: str) -> int:
@@ -64,7 +89,7 @@ def articulo_documents(
     rows = conn.execute(_ARTICULO_SQL.format(norma_filter=clause), params).fetchall()
     return [
         {
-            "id": f"{id_norma}:{slug}:{sha[:8]}",
+            "id": document_id(id_norma, slug, sha, to_ts(desde)),
             "id_norma": id_norma,
             "tipo": tipo,
             "numero": numero,
@@ -104,10 +129,52 @@ def norma_documents(
     ]
 
 
-def sync_articulos(index, docs: list[dict], delete_id_normas: list[int]) -> None:
-    """Delete demoted/stale normas' documents first, then add. Order matters: a
-    promoted norma whose articles changed must not keep its old documents."""
+def sync_articulos(index, docs: list[dict], delete_id_normas: list[int]) -> list:
+    """Delete demoted/stale normas' documents first, then add.
+
+    Order matters: a promoted norma whose articles changed must not keep its old
+    documents. Returns the enqueued tasks — Meilisearch writes are ASYNCHRONOUS,
+    so a rejected batch (bad document id, schema error) fails the *task*, not
+    this call. Pass the result to `wait_for_tasks` or the failure is invisible.
+    """
+    tasks = []
     if delete_id_normas:
-        index.delete_documents_by_filter(f"id_norma IN {sorted(delete_id_normas)}")
+        tasks.append(index.delete_documents_by_filter(f"id_norma IN {sorted(delete_id_normas)}"))
     if docs:
-        index.add_documents(docs, primary_key="id")
+        tasks.append(index.add_documents(docs, primary_key="id"))
+    return [t for t in tasks if t is not None]
+
+
+def _task_uid(task) -> int | None:
+    if task is None:
+        return None
+    uid = getattr(task, "task_uid", None)
+    if uid is None and isinstance(task, dict):
+        uid = task.get("taskUid") or task.get("task_uid")
+    return uid
+
+
+def _task_status(task) -> str | None:
+    status = getattr(task, "status", None)
+    if status is None and isinstance(task, dict):
+        status = task.get("status")
+    return status
+
+
+def wait_for_tasks(client, tasks: list) -> None:
+    """Block until every enqueued task settles; raise if any failed.
+
+    Without this, an index that rejected every document (Meilisearch ids admit
+    only [a-zA-Z0-9_-]) looks exactly like a successful index: the client call
+    returned, the loader advanced its watermark, and search is empty.
+    """
+    for task in tasks:
+        uid = _task_uid(task)
+        if uid is None:
+            continue
+        done = client.wait_for_task(uid)
+        status = _task_status(done)
+        if status != "succeeded":
+            error = getattr(done, "error", None) or (
+                done.get("error") if isinstance(done, dict) else None)
+            raise RuntimeError(f"Meilisearch task {uid} {status}: {error}")

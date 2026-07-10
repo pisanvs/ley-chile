@@ -309,7 +309,9 @@ The `WHERE index_tier = 'meta'` predicate keeps the two result sets disjoint.
 
 Two indexes.
 
-`articulos` — documents keyed `{id_norma}:{slug}:{body_sha[:8]}`, carrying `body`, `label`, `titulo`, and `desde_ts` / `hasta_ts` as integer timestamps (`hasta_ts = 253402300799` for open-ended).
+`articulos` — documents keyed `{id_norma}_{slug}_{content_sha[:8]}_{desde_ts}`, carrying `body`, `label`, `titulo`, and `desde_ts` / `hasta_ts` as integer timestamps (`hasta_ts = 253402300799` for open-ended).
+
+Two constraints on that key. Meilisearch primary keys admit only `[a-zA-Z0-9_-]`, so colons are illegal — and `add_documents` is asynchronous, so an illegal id fails the *task*, not the call: the client returns success and the hot tier silently stays empty. And `desde_ts` must be in the key, because one document is emitted per **(article, span)** pair: an article changed then reverted has one `articulo` row with two disjoint spans, which would otherwise collide and drop the law out of search for one of its validity windows.
 
 - `searchableAttributes: ["titulo", "label", "body"]` — order sets ranking priority
 - `filterableAttributes: ["id_norma", "tipo", "organismo", "anio_pub", "derogado", "desde_ts", "hasta_ts"]`
