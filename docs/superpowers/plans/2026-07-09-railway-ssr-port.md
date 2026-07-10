@@ -1141,6 +1141,7 @@ The NDJSON wire format shared by exporter and loader. Also the pure function tha
   - `NormaRow` (frozen: `id_norma: int`, `tipo: str`, `numero: str`, `titulo: str`, `organismo: str`, `clasificacion: str`, `derogado: bool`, `fecha_publicacion: str | None`, `law_dir: str`)
   - `VersionRow` (frozen: `id_norma: int`, `desde: str`, `hasta: str | None`, `commit_sha: str`, `causa_id: int | None`, `subject: str`, `magnitude: int`, `texto_sha256: str`, `canonical_sha256: str`)
   - `ModRow` (frozen: `causa_id: int`, `target_id: int`, `fecha: str`, `commit_sha: str`)
+  - `EventRow` (frozen: `id_norma: int`, `commit_sha: str`, `fecha: str`, `causa_id: int | None`, `subject: str`, `magnitude: int`)
   - `close_ranges(desde_dates: list[str]) -> list[tuple[str, str | None]]`
   - `to_ndjson(rows) -> str`, `from_ndjson(line: str, cls) -> Any`
   - `Manifest` (frozen: `snapshot_version: str`, `watermark: str`, `last_delta_seq: int`, `shards: list[str]`)
@@ -1152,7 +1153,7 @@ Create `tests/test_snapshot_schema.py`:
 ```python
 import pytest
 from schemas.snapshot import (
-    Manifest, ModRow, NormaRow, VersionRow, close_ranges, from_ndjson, to_ndjson,
+    EventRow, Manifest, ModRow, NormaRow, VersionRow, close_ranges, from_ndjson, to_ndjson,
 )
 
 
@@ -1220,6 +1221,12 @@ def test_manifest_round_trip():
 def test_mod_row_round_trip():
     m = ModRow(causa_id=1, target_id=2, fecha="2001-01-01", commit_sha="deadbeef")
     assert from_ndjson(to_ndjson([m]).strip(), ModRow) == m
+
+
+def test_event_row_round_trip_with_null_causa():
+    e = EventRow(id_norma=1984, commit_sha="abc", fecha="2023-04-10",
+                 causa_id=None, subject="s", magnitude=3)
+    assert from_ndjson(to_ndjson([e]).strip(), EventRow) == e
 ```
 
 - [ ] **Step 2: Run test to verify it fails**
@@ -1244,7 +1251,7 @@ from datetime import date, timedelta
 from typing import Any, Iterable, TypeVar
 
 __all__ = [
-    "NormaRow", "VersionRow", "ModRow", "Manifest",
+    "NormaRow", "VersionRow", "ModRow", "EventRow", "Manifest",
     "close_ranges", "to_ndjson", "from_ndjson",
 ]
 
@@ -1283,6 +1290,23 @@ class ModRow:
     target_id: int
     fecha: str
     commit_sha: str
+
+
+@dataclass(frozen=True)
+class EventRow:
+    """One publication event = one git commit touching one norma.
+
+    `version` coalesces same-date events into a single row so that "the text as
+    of date D" has one answer. These rows keep every event: 87 normas have 2+
+    events on one date, and idNorma 1984 was amended by three laws on
+    2023-04-10.
+    """
+    id_norma: int
+    commit_sha: str
+    fecha: str
+    causa_id: int | None
+    subject: str
+    magnitude: int
 
 
 @dataclass(frozen=True)
@@ -1356,7 +1380,10 @@ Runs in GitHub Actions where `historial` and `graph.json` are already on disk. R
 - Consumes: `real_date` from `build_web_indexes`; `segment`, `canonical_text`, `sha256_text` from Task 2; `build_articles_and_spans` from Task 5; all rows from Task 6.
 - Produces:
   - `CommitMeta` (frozen: `sha: str`, `committer_date: str`, `subject: str`, `causa_id: int | None`, `magnitude: int`)
-  - `versions_for_norma(id_norma: int, law_dir: str, commits: list[CommitMeta], textos: dict[str, str]) -> tuple[list[VersionRow], list[ArticleRow], list[SpanRow]]` — `textos` maps commit sha → that commit's `texto.md`
+  - `versions_for_norma(id_norma, law_dir, commits, textos) -> tuple[list[VersionRow], list[ArticleRow], list[SpanRow], list[EventRow]]` — `textos` maps commit sha → that commit's `texto.md`
+  - `coalesce_same_date(dated: list[tuple[str, CommitMeta]]) -> list[tuple[str, CommitMeta]]`
+  - `events_for_norma(id_norma: int, commits: list[CommitMeta]) -> list[EventRow]`
+  - `mod_rows_for(id_norma: int, node: dict) -> list[ModRow]`
   - `build_law_dir_index(historial: Path) -> dict[int, str]` — maps `idNorma` → the norma's directory relative to `historial`, read from the `metadata.json` files actually on disk
   - `shard_name(kind: str, index: int) -> str`
   - `build_manifest(snapshot_version: str, watermark: str, last_delta_seq: int, shards: list[str]) -> Manifest`
@@ -1369,8 +1396,8 @@ Create `tests/test_export_snapshot.py`:
 import json
 
 from export_snapshot import (
-    CommitMeta, build_law_dir_index, build_manifest, causa_from_message, shard_name,
-    versions_for_norma,
+    CommitMeta, build_law_dir_index, build_manifest, causa_from_message,
+    coalesce_same_date, mod_rows_for, shard_name, versions_for_norma,
 )
 from segment import canonical_text, segment, sha256_text
 
@@ -1391,40 +1418,93 @@ def _commits():
 
 
 def test_real_date_overrides_bogus_committer_date():
-    versions, _, _ = versions_for_norma(42, "leyes/42", _commits(), {"aaa": V1, "bbb": V2})
+    versions, _, _, _ = versions_for_norma(42, "leyes/42", _commits(), {"aaa": V1, "bbb": V2})
     assert [v.desde for v in versions] == ["1943-05-10", "2011-02-21"]
 
 
+def test_same_date_events_coalesce_to_the_last_commit():
+    # 87 real normas have 2+ events on one date; idNorma 1984 has three on
+    # 2023-04-10. version has UNIQUE (id_norma, desde), so they must collapse.
+    commits = [
+        CommitMeta("c1", "2020-01-01", "Otra [id 1] publicada (2023-04-10)", 1, 0),
+        CommitMeta("c2", "2020-01-01", "Otra [id 2] publicada (2023-04-10)", 2, 0),
+        CommitMeta("c3", "2020-01-01", "Otra [id 3] publicada (2023-04-10)", 3, 0),
+    ]
+    textos = {"c1": V1, "c2": V1, "c3": V2}
+    versions, _, _, events = versions_for_norma(1984, "leyes/1984", commits, textos)
+
+    assert len(versions) == 1, "one answer for 'the law on 2023-04-10'"
+    assert versions[0].desde == "2023-04-10" and versions[0].hasta is None
+    assert versions[0].commit_sha == "c3", "text is the state after ALL that day's commits"
+    # ...but every event survives, with its own causa
+    assert [e.commit_sha for e in events] == ["c1", "c2", "c3"]
+    assert [e.causa_id for e in events] == [1, 2, 3]
+
+
+def test_events_are_never_coalesced():
+    _, _, _, events = versions_for_norma(42, "leyes/42", _commits(), {"aaa": V1, "bbb": V2})
+    assert [e.fecha for e in events] == ["1943-05-10", "2011-02-21"]
+    assert [e.causa_id for e in events] == [42, 99]
+
+
+def test_mod_rows_for_reads_dict_edges_with_their_own_fecha():
+    # Real shape from fetch_normas.py:_extract_edges_from_html. All 12,010 edges
+    # in the real graph are dicts; int(edge) would raise TypeError.
+    node = {"fechaPublicacion": "1980-01-01", "modificadaPor_edges": [
+        {"idNorma": 30232, "fecha": "1989-12-06"},
+        {"idNorma": 244803, "fecha": "2005-12-07"},
+    ]}
+    rows = mod_rows_for(1984, node)
+    assert [(r.causa_id, r.fecha) for r in rows] == [
+        (30232, "1989-12-06"), (244803, "2005-12-07"),
+    ], "each edge carries its own modification date, not the target's fechaPublicacion"
+    assert all(r.target_id == 1984 for r in rows)
+
+
+def test_mod_rows_for_drops_sentinel_dates_and_dedupes():
+    node = {"fechaPublicacion": "1980-01-01", "modificadaPor_edges": [
+        {"idNorma": 1, "fecha": "2222-02-02"},          # sentinel: open-ended
+        {"idNorma": 2, "fecha": "2001-01-01"},
+        {"idNorma": 2, "fecha": "2001-01-01"},          # PK (causa, target, fecha)
+    ]}
+    assert [(r.causa_id, r.fecha) for r in mod_rows_for(7, node)] == [(2, "2001-01-01")]
+
+
+def test_mod_rows_for_tolerates_legacy_bare_int_edges():
+    node = {"fechaPublicacion": "1980-01-01", "modificadaPor_edges": [30232]}
+    assert [(r.causa_id, r.fecha) for r in mod_rows_for(1984, node)] == [(30232, "1980-01-01")]
+
+
 def test_ranges_are_closed_and_last_is_open_ended():
-    versions, _, _ = versions_for_norma(42, "leyes/42", _commits(), {"aaa": V1, "bbb": V2})
+    versions, _, _, _ = versions_for_norma(42, "leyes/42", _commits(), {"aaa": V1, "bbb": V2})
     assert versions[0].hasta == "2011-02-20"
     assert versions[1].hasta is None
 
 
 def test_canonical_sha_matches_the_gate_definition():
-    versions, _, _ = versions_for_norma(42, "leyes/42", _commits(), {"aaa": V1, "bbb": V2})
+    versions, _, _, _ = versions_for_norma(42, "leyes/42", _commits(), {"aaa": V1, "bbb": V2})
     assert versions[0].canonical_sha256 == sha256_text(canonical_text(segment(V1)))
     assert versions[0].texto_sha256 == sha256_text(V1)
     assert versions[0].canonical_sha256 != versions[0].texto_sha256
 
 
 def test_commit_sha_and_causa_are_carried_through():
-    versions, _, _ = versions_for_norma(42, "leyes/42", _commits(), {"aaa": V1, "bbb": V2})
+    versions, _, _, _ = versions_for_norma(42, "leyes/42", _commits(), {"aaa": V1, "bbb": V2})
     assert (versions[1].commit_sha, versions[1].causa_id) == ("bbb", 99)
 
 
 def test_articles_are_deduped_across_versions():
     unchanged = "#### Artículo 1º\nUno.\n\n#### Artículo 2°\nDos."
     changed = "#### Artículo 1º\nUno.\n\n#### Artículo 2°\nDos MODIFICADO."
-    _, arts, spans = versions_for_norma(42, "leyes/42", _commits(),
-                                        {"aaa": unchanged, "bbb": changed})
+    _, arts, spans, _ = versions_for_norma(42, "leyes/42", _commits(),
+                                           {"aaa": unchanged, "bbb": changed})
     assert len([a for a in arts if a.slug == "art-1"]) == 1
     assert len([s for s in spans if s.slug == "art-1"]) == 1
 
 
 def test_commits_out_of_order_are_sorted_by_real_date():
-    versions, _, _ = versions_for_norma(42, "leyes/42", list(reversed(_commits())),
-                                        {"aaa": V1, "bbb": V2})
+    versions, _, _, _ = versions_for_norma(42, "leyes/42", list(reversed(_commits())),
+                                           {"aaa": V1, "bbb": V2})
     assert [v.desde for v in versions] == ["1943-05-10", "2011-02-21"]
 
 
@@ -1509,11 +1589,17 @@ from dataclasses import dataclass
 from pathlib import Path
 
 from build_web_indexes import real_date
-from schemas.snapshot import Manifest, ModRow, NormaRow, VersionRow, close_ranges, to_ndjson
+from schemas.snapshot import (
+    EventRow, Manifest, ModRow, NormaRow, VersionRow, close_ranges, to_ndjson,
+)
 from segment import canonical_text, segment, sha256_text
 from spans import ArticleRow, SpanRow, VersionInput, build_articles_and_spans
 
 SHARD_SIZE = 50_000
+
+# A single malformed norma must not kill a 357k-norma export; a systemic
+# breakage must not pass silently. Abort past this failure rate.
+FAILURE_RATE_ABORT = 0.001
 
 
 @dataclass(frozen=True)
@@ -1540,17 +1626,57 @@ def build_manifest(
     )
 
 
+def coalesce_same_date(dated: list[tuple[str, CommitMeta]]) -> list[tuple[str, CommitMeta]]:
+    """Collapse events sharing a date to the LAST commit of that date.
+
+    Measured: 87 of 357,249 normas have 2+ publication events on one date, and
+    idNorma 1984 was amended by three distinct laws on 2023-04-10. `version` has
+    UNIQUE (id_norma, desde) and an EXCLUDE over overlapping dateranges, so two
+    rows cannot share a date — and "the law as it read on 2023-04-10" has one
+    answer: the tree state after all of that day's commits, i.e. the last one.
+
+    `dated` must already be sorted by (date, git order); Python's sort is stable,
+    so the last entry for a date is the last commit of that date. Every event
+    survives in EventRow (see `events_for_norma`); nothing is discarded here
+    except the redundant intermediate texts.
+    """
+    out: dict[str, CommitMeta] = {}
+    for date, commit in dated:
+        out[date] = commit          # later entries overwrite earlier ones
+    return sorted(out.items())
+
+
+def events_for_norma(
+    id_norma: int, commits: list[CommitMeta]
+) -> list[EventRow]:
+    """One row per commit. Never coalesced — this is the audit trail."""
+    return [
+        EventRow(
+            id_norma=id_norma,
+            commit_sha=c.sha,
+            fecha=real_date(subject=c.subject, committer_date=c.committer_date),
+            causa_id=c.causa_id,
+            subject=c.subject,
+            magnitude=c.magnitude,
+        )
+        for c in commits
+    ]
+
+
 def versions_for_norma(
     id_norma: int,
     law_dir: str,
     commits: list[CommitMeta],
     textos: dict[str, str],
-) -> tuple[list[VersionRow], list[ArticleRow], list[SpanRow]]:
-    """Project a norma's commit history onto version, article and span rows."""
+) -> tuple[list[VersionRow], list[ArticleRow], list[SpanRow], list[EventRow]]:
+    """Project a norma's commit history onto version, article, span and event rows."""
+    events = events_for_norma(id_norma, commits)
+
     dated = sorted(
         ((real_date(subject=c.subject, committer_date=c.committer_date), c) for c in commits),
-        key=lambda pair: pair[0],
+        key=lambda pair: pair[0],   # stable: preserves git order within a date
     )
+    dated = coalesce_same_date(dated)
     ranges = close_ranges([d for d, _ in dated])
 
     versions = [
@@ -1572,7 +1698,45 @@ def versions_for_norma(
         id_norma,
         [VersionInput(desde=v.desde, hasta=v.hasta, texto=textos[v.commit_sha]) for v in versions],
     )
-    return versions, articles, spans
+    return versions, articles, spans, events
+
+
+SENTINEL_YEAR = 2100   # LeyChile uses 2222-02-02 for open-ended "current"
+
+
+def mod_rows_for(id_norma: int, node: dict) -> list[ModRow]:
+    """Build modificacion rows from a graph node's `modificadaPor_edges`.
+
+    Edges are DICTS — `{"idNorma": 30232, "fecha": "1989-12-06"}` — written by
+    fetch_normas.py's `_extract_edges_from_html`. Verified: all 12,010 edges in
+    the real graph are dicts, zero are bare ints. `int(edge)` on a dict raises
+    TypeError on the first modified norma, i.e. most of the corpus.
+
+    Each edge carries its OWN fecha: the date that modification took effect.
+    Using the target's `fechaPublicacion` instead would stamp every modification
+    of a law with the law's own publication date.
+
+    Bare ints are tolerated for legacy caches (see `NormaNode.from_legacy`).
+    Sentinel dates (2222-02-02) are dropped.
+    """
+    rows: list[ModRow] = []
+    seen: set[tuple[int, str]] = set()
+    for edge in node.get("modificadaPor_edges") or []:
+        if isinstance(edge, dict):
+            causa, fecha = edge.get("idNorma"), edge.get("fecha") or ""
+        else:
+            causa, fecha = edge, node.get("fechaPublicacion") or ""
+        if causa is None or len(fecha) < 4 or not fecha[:4].isdigit():
+            continue
+        if int(fecha[:4]) > SENTINEL_YEAR:
+            continue
+        key = (int(causa), fecha)
+        if key in seen:                       # PK is (causa_id, target_id, fecha)
+            continue
+        seen.add(key)
+        rows.append(ModRow(causa_id=int(causa), target_id=id_norma,
+                           fecha=fecha, commit_sha=""))
+    return rows
 
 
 def build_law_dir_index(historial: Path) -> dict[int, str]:
@@ -1715,7 +1879,10 @@ def main() -> int:
     if args.only:
         wanted = {int(x) for x in args.only.read_text().split()}
 
-    normas, versions, articles, spans, mods = [], [], [], [], []
+    normas, versions, articles, spans, mods, events = [], [], [], [], [], []
+    considered = 0
+    failures: list[tuple[int, str]] = []
+
     for key, node in graph.items():
         id_norma = int(key)
         if wanted is not None and id_norma not in wanted:
@@ -1723,19 +1890,28 @@ def main() -> int:
         law_dir = law_dirs.get(id_norma)
         if not law_dir or not (args.historial / law_dir / "texto.md").exists():
             continue
+        considered += 1
 
-        commits = read_commits(args.historial, law_dir)
-        if not commits:
-            continue
-        textos = read_textos(args.historial, [(c.sha, f"{law_dir}/texto.md") for c in commits])
-        commits = [c for c in commits if c.sha in textos]
-        if not commits:
+        # Isolate per norma. One legislatively-odd law must not take down a
+        # 357k-norma export; the failure-rate check below still catches a
+        # systemic breakage.
+        try:
+            commits = read_commits(args.historial, law_dir)
+            if not commits:
+                continue
+            textos = read_textos(args.historial, [(c.sha, f"{law_dir}/texto.md") for c in commits])
+            commits = [c for c in commits if c.sha in textos]
+            if not commits:
+                continue
+            v, a, s, e = versions_for_norma(id_norma, law_dir, commits, textos)
+        except Exception as exc:                      # noqa: BLE001 — isolation is the point
+            failures.append((id_norma, f"{type(exc).__name__}: {exc}"))
             continue
 
-        v, a, s = versions_for_norma(id_norma, law_dir, commits, textos)
         versions += v
         articles += a
         spans += s
+        events += e
         normas.append(NormaRow(
             id_norma=id_norma,
             tipo=node.get("tipo", ""),
@@ -1747,9 +1923,14 @@ def main() -> int:
             fecha_publicacion=node.get("fechaPublicacion") or None,
             law_dir=law_dir,
         ))
-        for edge in node.get("modificadaPor_edges") or []:
-            mods.append(ModRow(causa_id=int(edge), target_id=id_norma,
-                               fecha=node.get("fechaPublicacion", ""), commit_sha=""))
+        mods += mod_rows_for(id_norma, node)
+
+    for id_norma, why in failures[:20]:
+        print(f"  SKIPPED idNorma={id_norma}: {why}")
+    if failures and len(failures) > max(1, int(FAILURE_RATE_ABORT * considered)):
+        print(f"ABORT: {len(failures)} of {considered} normas failed "
+              f"(> {FAILURE_RATE_ABORT:.1%}). No manifest written.")
+        return 1
 
     # Fail closed. An export that matched nothing must not write a manifest: the
     # loader would happily ingest it, advance its watermark, and report success
@@ -1762,15 +1943,17 @@ def main() -> int:
 
     shards: list[str] = []
     for kind, rows in [("normas", normas), ("versions", versions),
-                       ("articulos", articles), ("spans", spans), ("mods", mods)]:
+                       ("articulos", articles), ("spans", spans),
+                       ("mods", mods), ("events", events)]:
         shards += _write_shards(args.out, kind, rows)
 
     manifest = build_manifest(args.snapshot_version, args.watermark, args.delta_seq, shards)
     (args.out / "manifest.json").write_text(
         json.dumps(manifest.__dict__, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-    print(f"normas={len(normas)} versions={len(versions)} "
-          f"articulos={len(articles)} spans={len(spans)} shards={len(shards)}")
+    print(f"normas={len(normas)} versions={len(versions)} events={len(events)} "
+          f"articulos={len(articles)} spans={len(spans)} mods={len(mods)} "
+          f"shards={len(shards)} skipped={len(failures)}")
     return 0
 
 
@@ -1854,7 +2037,7 @@ def conn():
     c = connect(DSN)
     c.execute("DROP SCHEMA IF EXISTS analytics CASCADE")
     c.execute("DROP TABLE IF EXISTS articulo_span, articulo, version, "
-              "modificacion, norma, load_state CASCADE")
+              "publication_event, modificacion, norma, load_state CASCADE")
     apply_schema(c, SCHEMA_PATH)
     yield c
     c.close()
@@ -2032,6 +2215,21 @@ CREATE TABLE IF NOT EXISTS articulo_span (
 );
 CREATE INDEX IF NOT EXISTS articulo_span_vigencia_idx ON articulo_span USING gist (vigencia);
 
+-- One row per publication EVENT. `version` coalesces same-date events (87 real
+-- normas have 2+ on one date; idNorma 1984 has three on 2023-04-10) so that
+-- "the text as of date D" has exactly one answer. Every event survives here.
+CREATE TABLE IF NOT EXISTS publication_event (
+  id_norma    integer NOT NULL REFERENCES norma ON DELETE CASCADE,
+  commit_sha  text NOT NULL,
+  fecha       date NOT NULL,      -- real_date(), never the committer date
+  causa_id    integer,
+  subject     text,
+  magnitude   integer,
+  PRIMARY KEY (id_norma, commit_sha)
+);
+CREATE INDEX IF NOT EXISTS publication_event_norma_fecha_idx
+  ON publication_event (id_norma, fecha);
+
 CREATE TABLE IF NOT EXISTS modificacion (
   causa_id   integer NOT NULL,
   target_id  integer NOT NULL,
@@ -2143,6 +2341,7 @@ Every write is an upsert. A crashed load is retried, never repaired. The test th
   - `load_articles(conn, rows: list[ArticleRow]) -> int`
   - `load_spans(conn, rows: list[SpanRow]) -> int` — resolves `articulo_id` from `(id_norma, slug, content_sha256)`
   - `load_mods(conn, rows: list[ModRow]) -> int`
+  - `load_events(conn, rows: list[EventRow]) -> int`
   - `replace_norma(conn, id_norma: int) -> None` — deletes versions/articles/spans for one norma so a delta can rewrite it cleanly
   - `set_load_state(conn, *, watermark: str, snapshot_version: str, last_delta_seq: int) -> None`
   - `get_load_state(conn) -> tuple[str, str, int] | None`
@@ -2285,7 +2484,7 @@ from typing import Iterable
 
 import psycopg
 
-from schemas.snapshot import ModRow, NormaRow, VersionRow
+from schemas.snapshot import EventRow, ModRow, NormaRow, VersionRow
 from spans import ArticleRow, SpanRow
 
 
@@ -2377,6 +2576,24 @@ def load_mods(conn: psycopg.Connection, rows: Iterable[ModRow]) -> int:
     return len(rows)
 
 
+def load_events(conn: psycopg.Connection, rows: Iterable[EventRow]) -> int:
+    rows = list(rows)
+    with conn.cursor() as cur:
+        cur.executemany(
+            """
+            INSERT INTO publication_event
+                (id_norma, commit_sha, fecha, causa_id, subject, magnitude)
+            VALUES (%(id_norma)s, %(commit_sha)s, %(fecha)s, %(causa_id)s,
+                    %(subject)s, %(magnitude)s)
+            ON CONFLICT (id_norma, commit_sha) DO UPDATE SET
+                fecha = EXCLUDED.fecha, causa_id = EXCLUDED.causa_id,
+                subject = EXCLUDED.subject, magnitude = EXCLUDED.magnitude
+            """,
+            [r.__dict__ for r in rows],
+        )
+    return len(rows)
+
+
 def replace_norma(conn: psycopg.Connection, id_norma: int) -> None:
     """Drop a norma's derived rows so a delta can rewrite them.
 
@@ -2385,6 +2602,7 @@ def replace_norma(conn: psycopg.Connection, id_norma: int) -> None:
     The norma row itself survives, preserving index_tier and seeded.
     """
     conn.execute("DELETE FROM version WHERE id_norma = %s", (id_norma,))
+    conn.execute("DELETE FROM publication_event WHERE id_norma = %s", (id_norma,))
     conn.execute("DELETE FROM articulo WHERE id_norma = %s", (id_norma,))  # cascades to spans
 
 
@@ -3230,7 +3448,7 @@ from pathlib import Path
 
 import requests
 
-from schemas.snapshot import Manifest, ModRow, NormaRow, VersionRow, from_ndjson
+from schemas.snapshot import EventRow, Manifest, ModRow, NormaRow, VersionRow, from_ndjson
 from spans import ArticleRow, SpanRow
 
 from . import index_meili, load, retier, verify
@@ -3242,6 +3460,7 @@ _KINDS = {
     "articulos": (ArticleRow, load.load_articles),
     "spans": (SpanRow, load.load_spans),
     "mods": (ModRow, load.load_mods),
+    "events": (EventRow, load.load_events),
 }
 
 
@@ -3283,7 +3502,7 @@ def run(conn, client, artifacts_dir: Path, *, budget_bytes: int,
     for id_norma in touched:
         load.replace_norma(conn, id_norma)
 
-    for kind in ("versions", "articulos", "spans", "mods"):
+    for kind in ("versions", "articulos", "spans", "mods", "events"):
         cls, fn = _KINDS[kind]
         for shard in sorted(artifacts_dir.glob(f"{kind}-*.ndjson.gz")):
             fn(conn, _read_shard(shard, cls))
