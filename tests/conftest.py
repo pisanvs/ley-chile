@@ -102,3 +102,28 @@ def versiones_json(tmp_path) -> Path:
         json.dumps(versions, ensure_ascii=False), encoding="utf-8"
     )
     return law_dir
+
+
+import os
+
+DSN = os.environ.get("DATABASE_URL")
+
+
+@pytest.fixture()
+def conn():
+    """A connection to a freshly-schema'd database. Integration tests only.
+
+    Skips rather than fails when DATABASE_URL is unset, so the default
+    `pytest -m "not integration"` run needs no Postgres.
+    """
+    if not DSN:
+        pytest.skip("DATABASE_URL not set")
+    from loader.db import SCHEMA_PATH, apply_schema, connect
+
+    c = connect(DSN)
+    c.execute("DROP SCHEMA IF EXISTS analytics CASCADE")
+    c.execute("DROP TABLE IF EXISTS articulo_span, articulo, version, "
+              "publication_event, modificacion, norma, load_state CASCADE")
+    apply_schema(c, SCHEMA_PATH)
+    yield c
+    c.close()
