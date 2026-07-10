@@ -2727,6 +2727,8 @@ Reconstruct every version from `articulo` + `articulo_span`, hash its canonical 
   - `Mismatch` (frozen: `id_norma: int`, `desde: str`, `expected: str`, `actual: str`)
   - `verify_norma(conn, id_norma: int) -> list[Mismatch]`
   - `verify_all(conn, *, limit: int | None = None) -> list[Mismatch]`
+  - `count_versions(conn) -> int`
+  - `gate(conn) -> int` — exit code; fails closed when zero versions exist
 
 - [ ] **Step 1: Write the failing test**
 
@@ -2912,17 +2914,37 @@ def verify_all(conn: psycopg.Connection, *, limit: int | None = None) -> list[Mi
     return mismatches
 
 
-def main() -> int:
-    from loader.db import connect
-    conn = connect()
+def count_versions(conn: psycopg.Connection) -> int:
+    return conn.execute("SELECT count(*) FROM version").fetchone()[0]
+
+
+def gate(conn: psycopg.Connection) -> int:
+    """Exit code for the cutover gate. Fails closed on no evidence.
+
+    verify_all() returns [] for a database with zero versions — indistinguishable
+    from "all 408,182 reconstructed". A gate that passes when it checked nothing
+    manufactures the confidence it exists to establish, so count first.
+    """
+    total = count_versions(conn)
+    if total == 0:
+        print("NO EVIDENCE: the database holds 0 versions. The gate checked "
+              "nothing; refusing to pass.")
+        return 1
+
     mismatches = verify_all(conn)
     if mismatches:
         for m in mismatches[:20]:
             print(f"MISMATCH id_norma={m.id_norma} desde={m.desde}")
-        print(f"\nGATE FAILED: {len(mismatches)} versions did not reconstruct.")
+        print(f"\nGATE FAILED: {len(mismatches)} of {total:,} versions did not reconstruct.")
         return 1
-    print("GATE PASSED: every version reconstructs.")
+
+    print(f"GATE PASSED: all {total:,} versions reconstruct.")
     return 0
+
+
+def main() -> int:
+    from loader.db import connect
+    return gate(connect())
 
 
 if __name__ == "__main__":

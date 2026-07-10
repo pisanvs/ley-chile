@@ -91,3 +91,50 @@ def test_whitespace_in_the_source_does_not_trip_the_gate(conn):
     from loader.verify import verify_all
     _seed(conn, {"2000-01-01": "#### Artículo 1º\n\n\n   Uno.   \n\n"})
     assert verify_all(conn) == []
+
+
+@requires_db
+def test_gate_fails_closed_on_an_empty_database(conn, capsys):
+    """verify_all([]) is indistinguishable from "all 408k reconstructed".
+
+    The gate that blocks cutover must not pass on a database it never examined.
+    """
+    from loader.verify import count_versions, gate
+    assert count_versions(conn) == 0
+    assert gate(conn) == 1
+    assert "NO EVIDENCE" in capsys.readouterr().out
+
+
+@requires_db
+def test_gate_passes_and_reports_how_many_it_checked(conn, capsys):
+    from loader.verify import gate
+    _seed(conn, {"2000-01-01": V1, "2010-01-01": V2})
+    assert gate(conn) == 0
+    out = capsys.readouterr().out
+    assert "GATE PASSED" in out and "2 versions" in out
+
+
+@requires_db
+def test_gate_fails_on_a_mismatch_and_names_the_norma(conn, capsys):
+    from loader.verify import gate
+    _seed(conn, {"2000-01-01": V1})
+    conn.execute("UPDATE articulo SET body = 'CORRUPTO' WHERE slug = 'art-1'")
+    assert gate(conn) == 1
+    out = capsys.readouterr().out
+    assert "MISMATCH id_norma=42" in out and "GATE FAILED" in out
+
+
+@requires_db
+def test_gate_catches_a_heading_glyph_swap(conn):
+    """The bug that motivated content_sha256: same body, different ordinal.
+
+    BCN mixes 'Artículo 1º' (U+00BA) and 'Artículo 1°' (U+00B0) inside one file.
+    canonical_text is heading-sensitive, so the gate must see this.
+    """
+    from loader.verify import verify_all
+    _seed(conn, {"2000-01-01": V1})
+    assert verify_all(conn) == []
+    conn.execute("UPDATE articulo SET raw_heading = replace(raw_heading, 'º', '°')")
+    mismatches = verify_all(conn)
+    assert len(mismatches) == 1 and mismatches[0].id_norma == 42
+
