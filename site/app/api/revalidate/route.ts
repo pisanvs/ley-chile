@@ -9,6 +9,6 @@ export async function POST(req: Request) {
 
   // stale-while-revalidate: this is not read-your-writes, so revalidateTag,
   // not updateTag.
-  for (const id of idNormas) revalidateTag(`norma:${id}`)
+  for (const id of idNormas) revalidateTag(`norma:${id}`, 'max')
   return Response.json({ revalidated: idNormas.length })
 }
