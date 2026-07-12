@@ -178,6 +178,21 @@ def test_wait_for_tasks_raises_on_a_canceled_task():
         wait_for_tasks(FakeClient(), [{"taskUid": 1}])
 
 
+def test_wait_for_tasks_raises_when_a_task_has_no_extractable_uid():
+    """A task we can't identify can't be confirmed — fail closed, don't skip it."""
+    from loader.index_meili import wait_for_tasks
+
+    class Unidentifiable:  # no task_uid attr, not a dict
+        status = "succeeded"
+
+    class FakeClient:
+        def wait_for_task(self, uid, timeout_in_ms=None):
+            raise AssertionError("should never be reached — uid was unextractable")
+
+    with pytest.raises(RuntimeError, match="no extractable uid"):
+        wait_for_tasks(FakeClient(), [Unidentifiable()])
+
+
 def test_wait_for_tasks_passes_a_generous_timeout():
     """The client default is 5s; a bulk add_documents exceeds it routinely."""
     from loader.index_meili import TASK_TIMEOUT_MS, wait_for_tasks

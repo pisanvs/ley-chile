@@ -186,7 +186,10 @@ def wait_for_tasks(client, tasks: list, *, timeout_ms: int = TASK_TIMEOUT_MS) ->
     for task in tasks:
         uid = _task_uid(task)
         if uid is None:
-            continue
+            # A task we cannot identify is a task we cannot confirm succeeded.
+            # Skipping it silently is the exact fail-open shape this guard exists
+            # to prevent, so treat an unextractable uid as a failure.
+            raise RuntimeError(f"Meilisearch task has no extractable uid: {task!r}")
         done = client.wait_for_task(uid, timeout_in_ms=timeout_ms)
         status = _task_status(done)
         if status != "succeeded":
