@@ -1,0 +1,7 @@
+[build]
+builder = "dockerfile"
+dockerfilePath = "Dockerfile.loader"
+
+[deploy]
+cronSchedule = "0 */6 * * *"
+restartPolicyType = "never"   # a cron job that exits must not be restarted

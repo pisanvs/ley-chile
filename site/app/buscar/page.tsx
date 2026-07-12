@@ -1,8 +1,14 @@
+import { Suspense } from 'react'
 import Link from 'next/link'
 import { recordEvent } from '@/lib/analytics'
 import { needsColdPath, normalizeQuery, searchCold, searchHot, type Hit } from '@/lib/search'
 
-export const dynamic = 'force-dynamic'   // queries vary; never cache
+// No `export const dynamic` here: with `cacheComponents` enabled (next.config.ts),
+// the route segment config is incompatible and Turbopack rejects the build.
+// Reading `searchParams` is a dynamic API access, and under Cache Components
+// any uncached data access must sit inside a <Suspense> boundary (build error
+// otherwise: "Uncached data was accessed outside of <Suspense>") — see the
+// Page wrapper below.
 
 function Results({ hits }: { hits: Hit[] }) {
   return (
@@ -17,7 +23,17 @@ function Results({ hits }: { hits: Hit[] }) {
   )
 }
 
-export default async function Buscar({
+export default async function Page({
+  searchParams,
+}: { searchParams: Promise<{ q?: string; asOf?: string }> }) {
+  return (
+    <Suspense fallback={null}>
+      <Buscar searchParams={searchParams} />
+    </Suspense>
+  )
+}
+
+async function Buscar({
   searchParams,
 }: { searchParams: Promise<{ q?: string; asOf?: string }> }) {
   const { q = '', asOf = new Date().toISOString().slice(0, 10) } = await searchParams

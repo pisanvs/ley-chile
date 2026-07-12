@@ -4,19 +4,24 @@ import { SITE } from '@/lib/jsonld'
 
 const PER_SITEMAP = 50_000   // Google's hard limit
 
+// Railway (and this repo's Docker build, verified in CI) builds the image
+// with no DATABASE_URL reachable — the DB only exists at container runtime.
+// generateSitemaps() runs unconditionally at build time (that's how Next.js
+// determines how many /sitemap/N.xml files to register), so it cannot query
+// Postgres for the shard count the way the original design did: that made
+// `next build` hard-fail with ECONNREFUSED in every environment that builds
+// this image, not just local testing.
+//
+// Fixed instead: pick a shard count with headroom over corpus size (~357k
+// normas per scripts/export_snapshot.py's failure-rate comment, easily
+// doubled by non-current versions) and over-provision. Shards beyond the
+// real data just return zero rows at request time (OFFSET past the end of a
+// result set, not an error) — Google gets a valid, empty sitemap for those,
+// which is harmless. Bump MAX_SITEMAP_SHARDS if the corpus outgrows it.
+const MAX_SITEMAP_SHARDS = 32
+
 export async function generateSitemaps() {
-  // Indexable URLs: one per norma, plus one per *non-current* version of a
-  // multi-version norma. Single-version dated URLs are canonicalised away.
-  const { rows } = await pool.query(`
-    SELECT count(*)::int AS n FROM (
-      SELECT id_norma FROM norma
-      UNION ALL
-      SELECT v.id_norma FROM version v
-       WHERE v.hasta IS NOT NULL
-         AND (SELECT count(*) FROM version w WHERE w.id_norma = v.id_norma) > 1
-    ) t`)
-  const total = rows[0].n as number
-  return Array.from({ length: Math.ceil(total / PER_SITEMAP) }, (_, id) => ({ id }))
+  return Array.from({ length: MAX_SITEMAP_SHARDS }, (_, id) => ({ id }))
 }
 
 export default async function sitemap(props: { id: Promise<string> }): Promise<MetadataRoute.Sitemap> {

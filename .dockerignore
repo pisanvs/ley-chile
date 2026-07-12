@@ -1,0 +1,18 @@
+# Dockerfile.loader only needs requirements-loader.txt, scripts/, and sql/.
+# Without this, the build context balloons with site/node_modules, web/, the
+# historial data worktree, etc. — none of which the loader image touches.
+.git
+__pycache__
+*.py[cod]
+.pytest_cache
+site
+web
+historial
+cache
+graph_shards
+catalog.json
+.claude
+.superpowers
+docs
+tests
+node_modules

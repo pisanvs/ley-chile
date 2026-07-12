@@ -1,3 +1,4 @@
+import { Suspense } from 'react'
 import { notFound } from 'next/navigation'
 import { NormaView } from '@/components/NormaView'
 import { RESERVED_TIPOS, SITE } from '@/lib/jsonld'
@@ -24,7 +25,17 @@ export async function generateMetadata({ params }: Props) {
   }
 }
 
+// See the sibling [fecha]/page.tsx comment: no generateStaticParams here
+// either, so this needs a <Suspense> boundary under `cacheComponents`.
 export default async function Page({ params }: Props) {
+  return (
+    <Suspense fallback={null}>
+      <CurrentNormaPage params={params} />
+    </Suspense>
+  )
+}
+
+async function CurrentNormaPage({ params }: Props) {
   const { tipo, numero } = await params
   if (RESERVED_TIPOS.has(tipo)) notFound()
   const data = await resolveCurrent(tipo, numero)

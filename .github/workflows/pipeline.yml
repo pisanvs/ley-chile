@@ -644,6 +644,56 @@ jobs:
           echo ""
           echo "=== All ${#BOUNDARIES[@]} chunks built and pushed successfully ==="
 
+      # ── Snapshot export + publish ────────────────────────────────────────
+      # Gated on the same condition as "Build & push historial": only export
+      # a snapshot when historial actually advanced this run. Without this,
+      # every 3-hour cron tick — even ones with no new data — would publish
+      # a duplicate GitHub Release.
+      #
+      # export_snapshot.py reads a flat graph.json; this pipeline stores the
+      # graph sharded (graph_shards/) once it grows past the monolithic-file
+      # threshold, so materialise a flat copy from utils.load_graph() first.
+      - name: Materialize graph.json for snapshot export
+        if: |
+          steps.watermark.outputs.cache_complete == 'true' &&
+          steps.watermark.outputs.watermark_advanced == 'true' &&
+          github.event.inputs.dry_run != 'true'
+        run: |
+          python - <<'EOF'
+          import json, sys
+          sys.path.insert(0, "scripts")
+          from utils import load_graph
+          graph = load_graph("graph.json")
+          with open("graph.json", "w", encoding="utf-8") as f:
+              json.dump(graph, f, ensure_ascii=False)
+          EOF
+
+      - name: Export snapshot artifacts
+        if: |
+          steps.watermark.outputs.cache_complete == 'true' &&
+          steps.watermark.outputs.watermark_advanced == 'true' &&
+          github.event.inputs.dry_run != 'true'
+        run: |
+          python scripts/export_snapshot.py \
+            --historial ./historial \
+            --graph ./graph.json \
+            --out ./artifacts \
+            --snapshot-version "${{ github.sha }}" \
+            --watermark "${{ steps.watermark.outputs.D }}" \
+            --delta-seq "${{ github.run_number }}"
+
+      - name: Publish snapshot to a GitHub Release
+        if: |
+          steps.watermark.outputs.cache_complete == 'true' &&
+          steps.watermark.outputs.watermark_advanced == 'true' &&
+          github.event.inputs.dry_run != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG="snapshot-${{ github.run_number }}"
+          gh release create "$TAG" ./artifacts/* \
+            --title "Snapshot ${{ github.run_number }}" --notes "Automated snapshot export"
+
       # ── Update README ───────────────────────────────────────────────────
       - name: Update README pipeline status
         if: github.event.inputs.dry_run != 'true'

@@ -1,0 +1,12 @@
+[build]
+builder = "dockerfile"
+dockerfilePath = "Dockerfile"
+
+[deploy]
+# `use cache` is backed by process memory on Railway, not a distributed cache,
+# so replicas would not share it. Single replica; see spec §9.2.
+numReplicas = 1
+restartPolicyType = "on_failure"
+# Serverless/app-sleeping is deliberately NOT enabled. Railway's docs note the
+# first request to a slept service "may return a 502 Bad Gateway", and a 502
+# served to Googlebot on a cold page is the outcome this port exists to avoid.
