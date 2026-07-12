@@ -46,7 +46,15 @@ def estimate_tier_bytes(conn: psycopg.Connection) -> int:
 
 
 def compute_promotions(conn: psycopg.Connection, *, budget_bytes: int) -> list[int]:
-    """Normas scoring >= threshold in the trailing 90 days, while under budget."""
+    """Normas scoring >= threshold in the trailing 90 days, while under budget.
+
+    The budget is a soft governor, not an incremental byte cap: once the full
+    tier is already at or over budget, promotion is refused entirely; while
+    under budget, every qualifying candidate is returned. This is deliberate
+    for v1 — the dominant tier cost is the uncapped seed (apply_seed), and
+    usage-driven promotions are a small increment on top. A true accumulating
+    cap ships alongside eviction, when the budget actually binds.
+    """
     if estimate_tier_bytes(conn) >= budget_bytes:
         return []
     return [

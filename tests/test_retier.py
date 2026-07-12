@@ -70,6 +70,37 @@ def test_budget_refuses_promotion_rather_than_evicting(conn):
 
 
 @requires_db
+def test_budget_gate_bites_on_real_full_tier_usage(conn):
+    """The gate must react to actual bytes, not pass trivially on an empty tier.
+
+    Give a seeded ('full') norma a 2000-byte article body so estimate_tier_bytes
+    is genuinely nonzero, then a 'meta' norma a promotion-worthy signal. A budget
+    below current usage refuses; a budget above it promotes the candidate. If the
+    byte-sum query summed the wrong column or ignored index_tier, one of these
+    two assertions would fail.
+    """
+    from loader.retier import (apply_seed, compute_promotions,
+                               estimate_tier_bytes, refresh_signal)
+    apply_seed(conn)  # norma 1 (ley) and 5 (cod) -> 'full'
+    conn.execute(
+        "INSERT INTO articulo (id_norma, slug, label, raw_heading, body, content_sha256) "
+        "VALUES (1, 'art-1', 'Artículo 1', '', %s, %s)",
+        ("x" * 2000, "a" * 64),
+    )
+    # A body on a 'meta' norma must NOT count toward the full-tier budget.
+    conn.execute(
+        "INSERT INTO articulo (id_norma, slug, label, raw_heading, body, content_sha256) "
+        "VALUES (2, 'art-1', 'Artículo 1', '', %s, %s)",
+        ("y" * 5000, "b" * 64),
+    )
+    conn.execute("INSERT INTO analytics.event (kind, id_norma) VALUES ('cold_surface', 2)")
+    refresh_signal(conn)
+    assert estimate_tier_bytes(conn) == 2000            # only the 'full' body counts
+    assert compute_promotions(conn, budget_bytes=1000) == []      # over budget -> refuse
+    assert compute_promotions(conn, budget_bytes=10**9) == [2]    # headroom -> promote
+
+
+@requires_db
 def test_apply_promotions_never_touches_seeded_rows(conn):
     from loader.retier import apply_promotions, apply_seed
     apply_seed(conn)
