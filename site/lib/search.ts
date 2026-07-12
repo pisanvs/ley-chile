@@ -4,13 +4,21 @@ import { pool } from './db'
 export const OPEN_ENDED_TS = 253402300799
 export const COLD_THRESHOLD = 5
 
-// Falls back to a placeholder host so importing this module (e.g. from pure
-// unit tests that only exercise asOfFilter/normalizeQuery/needsColdPath)
-// never crashes for lack of MEILI_URL. Real deployments always set it.
-const meili = new Meilisearch({
-  host: process.env.MEILI_URL ?? 'http://localhost:7700',
-  apiKey: process.env.MEILI_SEARCH_KEY,
-})
+// Constructed lazily so importing this module (e.g. from pure unit tests
+// that only exercise asOfFilter/normalizeQuery/needsColdPath) never
+// constructs a client and never touches MEILI_URL. Real deployments call
+// searchHot, which constructs on first use -- and fail loudly if MEILI_URL
+// is unset, rather than silently degrading to a localhost fallback.
+let _client: Meilisearch | null = null
+function meiliClient(): Meilisearch {
+  if (!_client) {
+    _client = new Meilisearch({
+      host: process.env.MEILI_URL!,
+      apiKey: process.env.MEILI_SEARCH_KEY,
+    })
+  }
+  return _client
+}
 
 export interface Hit {
   idNorma: number
@@ -40,7 +48,7 @@ export function needsColdPath(hotCount: number): boolean {
  *  `distinct` is a per-search parameter, never an index setting — otherwise
  *  "all matching artículos inside this law" would silently collapse to one. */
 export async function searchHot(q: string, asOf: string): Promise<Hit[]> {
-  const res = await meili.index('articulos').search(q, {
+  const res = await meiliClient().index('articulos').search(q, {
     filter: asOfFilter(asOf),
     distinct: 'id_norma',
     limit: 20,

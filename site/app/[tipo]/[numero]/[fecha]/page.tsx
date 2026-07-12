@@ -9,6 +9,9 @@ interface Props { params: Promise<{ tipo: string; numero: string; fecha: string 
 
 export async function generateMetadata({ params }: Props) {
   const { tipo, numero, fecha } = await params
+  if (RESERVED_TIPOS.has(tipo)) return {}
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(fecha)) return {}
+
   const data = await loadNorma(tipo, numero, fecha)
   if (!data) return {}
   return {
@@ -35,6 +38,7 @@ export default async function Page({ params }: Props) {
 async function NormaPage({ params }: Props) {
   const { tipo, numero, fecha } = await params
   if (RESERVED_TIPOS.has(tipo)) notFound()
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(fecha)) notFound()
 
   const data = await loadNorma(tipo, numero, fecha)
   if (!data || data.articles.length === 0) notFound()

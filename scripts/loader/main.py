@@ -123,8 +123,11 @@ def run(conn, client, artifacts_dir: Path, *, budget_bytes: int,
                         last_delta_seq=manifest.last_delta_seq)
 
     if revalidate_url:
-        ok = revalidate(revalidate_url, revalidate_token, touched)
-        print(f"revalidate: {'ok' if ok else 'FAILED (pages will serve stale)'}")
+        try:
+            ok = revalidate(revalidate_url, revalidate_token, touched)
+            print(f"revalidate: {'ok' if ok else 'FAILED (pages will serve stale)'}")
+        except Exception as err:
+            print(f"revalidate: FAILED ({err}); pages will serve stale until next touch")
 
     print(f"loaded {len(normas)} normas, promoted {len(promoted)}")
     return 0

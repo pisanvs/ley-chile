@@ -1,8 +1,11 @@
+import gzip
+import hashlib
+import json
 import os
 
 import pytest
 
-from schemas.snapshot import Manifest
+from schemas.snapshot import Manifest, NormaRow, VersionRow, to_ndjson
 
 DSN = os.environ.get("DATABASE_URL")
 requires_db = pytest.mark.skipif(not DSN, reason="DATABASE_URL not set")
@@ -118,3 +121,72 @@ def test_index_targets_reaches_a_norma_promoted_but_not_touched(conn):
 
     assert 100 not in touched_ids
     assert 100 in union_ids
+
+
+class _FakeMeiliIndex:
+    def update_settings(self, settings):
+        return {"taskUid": 1}
+
+    def add_documents(self, docs, primary_key=None):
+        return {"taskUid": 2}
+
+    def delete_documents(self, ids=None, *, filter=None, metadata=None):
+        return {"taskUid": 3}
+
+
+class _FakeMeiliClient:
+    def index(self, name):
+        return _FakeMeiliIndex()
+
+    def wait_for_task(self, uid, timeout_in_ms=None):
+        return {"status": "succeeded"}
+
+
+@pytest.mark.integration
+@requires_db
+def test_run_survives_a_revalidate_exception_and_keeps_load_state_advanced(
+    tmp_path, conn, monkeypatch, capsys
+):
+    """Reproduces the Minor bug: revalidate() runs after load_state is already
+    committed (autocommit=True). A ConnectionError from requests.post must not
+    escape run() and crash the process -- the load already succeeded, so the
+    run must still report success and leave last_delta_seq advanced.
+    """
+    import loader.main as main_mod
+
+    manifest = Manifest(snapshot_version="v1", watermark="2026-01-01",
+                        last_delta_seq=1, shards=[])
+    (tmp_path / "manifest.json").write_text(json.dumps(manifest.__dict__))
+
+    empty_body_sha = hashlib.sha256(b"").hexdigest()
+    norma = NormaRow(id_norma=900001, tipo="ley", numero="900001", titulo="T",
+                     organismo="O", clasificacion="c", derogado=False,
+                     fecha_publicacion="2020-01-01", law_dir="leyes/900001")
+    version = VersionRow(id_norma=900001, desde="2020-01-01", hasta=None,
+                         commit_sha="abc123", causa_id=None, subject="s",
+                         magnitude=0, texto_sha256="x" * 64,
+                         canonical_sha256=empty_body_sha)
+
+    with gzip.open(tmp_path / "normas-0.ndjson.gz", "wt", encoding="utf-8") as fh:
+        fh.write(to_ndjson([norma]))
+    with gzip.open(tmp_path / "versions-0.ndjson.gz", "wt", encoding="utf-8") as fh:
+        fh.write(to_ndjson([version]))
+
+    def exploding_revalidate(url, token, id_normas, *, post=None):
+        raise ConnectionError("boom")
+
+    monkeypatch.setattr(main_mod, "revalidate", exploding_revalidate)
+
+    rc = main_mod.run(
+        conn, _FakeMeiliClient(), tmp_path,
+        budget_bytes=10**12,
+        revalidate_url="https://x/api/revalidate",
+        revalidate_token="tok",
+    )
+
+    assert rc == 0
+    assert main_mod.load.get_load_state(conn)[2] == 1  # last_delta_seq stayed advanced
+
+    err = capsys.readouterr().out
+    assert "revalidate: FAILED" in err
+    assert "stale" in err
