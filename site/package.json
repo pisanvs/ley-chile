@@ -1,0 +1,26 @@
+{
+  "name": "site",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "test": "vitest run",
+    "build": "next build",
+    "start": "next start",
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "meilisearch": "^0.59.0",
+    "next": "16",
+    "pg": "^8.22.0",
+    "react": "19",
+    "react-dom": "19"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "@types/pg": "^8.20.0",
+    "@types/react": "^19.2.17",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.10"
+  }
+}
