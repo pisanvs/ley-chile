@@ -1,6 +1,6 @@
-"""Railway cron entrypoint: load → verify → index → retier → revalidate.
+"""Railway cron entrypoint: load → verify → retier → index → revalidate.
 
-Verify precedes index on purpose: never publish to search what did not
+Verify precedes retier/index on purpose: never publish to search what did not
 reconstruct. A failed verify aborts before Meilisearch or the web tier learn
 anything about the bad data.
 """
@@ -45,6 +45,12 @@ def revalidate(url: str, token: str, id_normas: list[int], *, post=requests.post
     resp = post(url, json={"idNormas": id_normas},
                 headers={"Authorization": f"Bearer {token}"}, timeout=30)
     return 200 <= resp.status_code < 300
+
+
+def index_targets(touched: list[int], promoted: list[int]) -> list[int]:
+    """Index the delta's normas AND any promoted this run — a norma promoted
+    by usage signal must reach the hot tier now, not on its next accidental touch."""
+    return sorted(set(touched) | set(promoted))
 
 
 def _read_shard(path: Path, cls):
@@ -95,13 +101,18 @@ def run(conn, client, artifacts_dir: Path, *, budget_bytes: int,
     retier.apply_promotions(conn, promoted)
     retier.prune_events(conn)
 
+    # Retier must run before index: promotion flips index_tier to 'full' in
+    # Postgres, and articulo_documents() only reads rows where index_tier =
+    # 'full'. Indexing first would miss anything promoted this run.
+    to_index = index_targets(touched, promoted)
+
     art_index = client.index("articulos")
-    art_index.update_settings(index_meili.SETTINGS)
-    tasks = index_meili.sync_articulos(
-        art_index, index_meili.articulo_documents(conn, touched), touched
+    tasks = [art_index.update_settings(index_meili.SETTINGS)]
+    tasks += index_meili.sync_articulos(
+        art_index, index_meili.articulo_documents(conn, to_index), to_index
     )
     tasks.append(client.index("normas").add_documents(
-        index_meili.norma_documents(conn, touched), primary_key="id"
+        index_meili.norma_documents(conn, to_index), primary_key="id"
     ))
     # Meilisearch writes are async. Without this, a batch rejected for bad
     # document ids leaves search empty while the loader reports success.
