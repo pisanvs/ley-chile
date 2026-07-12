@@ -27,8 +27,6 @@ export interface Article {
   ord: number
 }
 
-const iso = (d: Date | null): string | null => (d ? d.toISOString().slice(0, 10) : null)
-
 export async function getNorma(tipo: string, numero: string): Promise<Norma | null> {
   const { rows } = await pool.query(
     `SELECT id_norma, tipo, numero, titulo, organismo, derogado, fecha_publicacion, law_dir
@@ -40,7 +38,7 @@ export async function getNorma(tipo: string, numero: string): Promise<Norma | nu
   return {
     idNorma: r.id_norma, tipo: r.tipo, numero: r.numero, titulo: r.titulo,
     organismo: r.organismo, derogado: r.derogado,
-    fechaPublicacion: iso(r.fecha_publicacion), lawDir: r.law_dir,
+    fechaPublicacion: r.fecha_publicacion, lawDir: r.law_dir,
   }
 }
 
@@ -51,7 +49,7 @@ export async function getVersions(idNorma: number): Promise<Version[]> {
     [idNorma],
   )
   return rows.map(r => ({
-    desde: iso(r.desde)!, hasta: iso(r.hasta),
+    desde: r.desde, hasta: r.hasta,
     commitSha: r.commit_sha, causaId: r.causa_id, subject: r.subject ?? '',
   }))
 }
