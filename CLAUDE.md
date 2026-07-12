@@ -179,6 +179,8 @@ Collisions (same `numero`, different `idNorma`) get a `-{idNorma}` suffix.
 
 ## Frontend
 
+> **Migration in progress (`feat/railway-ssr`).** The `web/` SPA below is being superseded by the server-rendered `site/` app on Railway (see **Railway SSR** section). Until DNS cuts over to Railway, `web/` remains the live GitHub Pages frontend, so its source must stay buildable — the TypeScript segmentation in `web/src/lib/segment.ts` still has runtime consumers (`blame.ts`, `RedlineReader.tsx`) and must not be deleted before `web/` is retired.
+
 The SPA lives in `web/` (Vite + React 19 + TypeScript + Tailwind 4 + TanStack Router/Query). The deploy target is the orphan `pages` branch, mounted as a worktree at `web/dist/`. GH Pages serves it at `https://pisanvs.github.io/ley-chile/`.
 
 ```bash
@@ -204,3 +206,57 @@ The `pages` orphan branch is mounted as a worktree at `web/dist/`. **Never `git 
 Generated artifacts (gitignored): `web/node_modules/`, `web/public/idx/`, `web/*.tsbuildinfo`, `web/vite.config.{js,d.ts}`, `web/vitest.config.{js,d.ts}`.
 
 CI workflow `.github/workflows/build-pages.yml` rebuilds end-to-end on every `historial` push (or completion of the `pipeline` workflow) and force-pushes to the `pages` branch. Configure GH Pages → Source: `pages` branch / root.
+
+## Railway SSR (`site/` + loader)
+
+Server-rendered port of the frontend (spec: `docs/superpowers/specs/2026-07-09-railway-ssr-port-design.md`). `git` (the `historial` branch) stays the single source of truth; **Postgres and Meilisearch are derived, droppable read models** — rebuilt from snapshot artifacts, never authoritative.
+
+**Data flow.** The pipeline's export step (`scripts/export_snapshot.py`) walks `historial` + `graph.json` into gzipped NDJSON snapshot artifacts (a `manifest.json` + sharded `normas/versions/articulos/spans/mods/events`), published as a GitHub Release. The loader ingests them:
+
+```
+export_snapshot.py  → NDJSON artifacts (manifest + shards) → GitHub Release
+loader.main         → load → verify → retier → index → revalidate
+                      (Postgres read model + Meilisearch hot tier)
+site/ (Next.js 16)  → SSR pages + tiered search, on Railway
+```
+
+`loader.main` runs the phases in order — **verify before index**, so search never publishes text that failed to reconstruct; **retier before index**, so a norma promoted this run is indexed the same run (indexing reads `index_tier='full'`). It indexes `touched ∪ promoted`, not just the delta.
+
+**Data model.** Schema in `sql/001_schema.sql` (needs `btree_gist`). One `articulo` row per distinct body (deduped by `content_sha256` = sha256 of heading+body); `articulo_span` carries the validity window (`vigencia` daterange) and `ord`, with `EXCLUDE USING gist` forbidding overlapping versions. Segmentation is now **Python only** (`scripts/segment.py`, the single source of truth per spec §6.2); `scripts/spans.py` builds articles/spans; `scripts/schemas/snapshot.py` defines the artifact rows. The **validation gate** (`python -m loader.verify` → `GATE PASSED: every version reconstructs`) is the binary acceptance criterion: it reconstructs each version's canonical text and compares its sha256 to `version.canonical_sha256`.
+
+**Tiered search.** Meilisearch holds the hot tier (`norma.index_tier='full'` — seeded legislation + usage-promoted normas); Postgres `tsvector` FTS is the exhaustive cold path over `index_tier='meta'`. A `cold_surface` event (Meili missed, Postgres hit) drives promotion (`scripts/loader/retier.py`). Analytics live in `analytics.event` (Postgres) with **no user dimension** collected.
+
+**Local dev / running the loader:**
+
+```bash
+# Postgres + Meilisearch (Docker)
+docker run -d --name leychile-pg -p 5433:5432 -e POSTGRES_PASSWORD=pg postgres:16
+docker run -d --name leychile-meili -p 7700:7700 -e MEILI_MASTER_KEY=dev getmeili/meilisearch:v1.12
+
+# Apply schema
+psql "$DATABASE_URL" -f sql/001_schema.sql   # or: docker exec -i leychile-pg psql -U postgres < sql/001_schema.sql
+
+# Run the loader against a snapshot artifacts dir
+DATABASE_URL=postgresql://postgres:pg@localhost:5433/postgres \
+MEILI_URL=http://localhost:7700 MEILI_MASTER_KEY=dev \
+PYTHONPATH=scripts python -m loader.main --artifacts ./artifacts
+
+# Validation gate
+DATABASE_URL=... PYTHONPATH=scripts python -m loader.verify
+
+# The site
+cd site && pnpm dev            # dev server
+cd site && pnpm build          # standalone production build (Railway target)
+cd site && pnpm vitest run && pnpm tsc --noEmit   # tests + typecheck
+```
+
+**Loader env:** `DATABASE_URL`, `MEILI_URL`, `MEILI_MASTER_KEY`; `INDEX_BUDGET_BYTES` (hot-tier byte budget, default 4 GiB); `REVALIDATE_URL`/`REVALIDATE_TOKEN` (POST to `site/app/api/revalidate` → `revalidateTag`). **Site env:** `DATABASE_URL`, `MEILI_URL`, `MEILI_SEARCH_KEY`, `SITE_URL`.
+
+**Gotchas.**
+- Python tests default to `-m "not integration"`; the DB-backed suite runs only with `DATABASE_URL` set (integration tests skip *silently* without it — confirm the summary says `N passed`, not `N skipped`).
+- `git commit` here is GPG-signed; in a sandboxed shell it fails writing `~/.gnupg` — run commits with the sandbox disabled (never `--no-gpg-sign`).
+- `site/` pins `typescript` to **5.x** — an unpinned `pnpm add -D typescript` floats to the 7.0.x (`tsgo`) preview, which breaks Next 16's build type-checker. Never paper over it with `ignoreBuildErrors`.
+- `pnpm` inside `site/` works only because `site/package.json` declares `"packageManager": "pnpm@9.15.0"` (corepack otherwise honors the yarn pin in `~/package.json`).
+- Railway runs the web service as a **single replica** (`use cache` is in-process memory) with app-sleeping off (a 502 to Googlebot on a cold page defeats the port's SEO purpose).
+
+**Known open issue:** under `cacheComponents` (PPR), a request for a non-existent norma returns HTTP **200** with 404 content (a "soft 404") instead of a true 404 — an upstream Next.js bug ([vercel/next.js#95380](https://github.com/vercel/next.js/issues/95380), fix PR #95561). Track upstream and update Next when it merges; a node-runtime middleware existence-gate is a possible interim workaround.
