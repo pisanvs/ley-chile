@@ -1,11 +1,13 @@
-# Dockerfile.loader only needs requirements-loader.txt, scripts/, and sql/.
-# Without this, the build context balloons with site/node_modules, web/, the
-# historial data worktree, etc. — none of which the loader image touches.
+# Keeps build contexts lean. `site` is intentionally NOT excluded here: the web
+# service builds with root directory `site`, and Railway strips ignored paths
+# from the archive before resolving the root directory — excluding `site` would
+# remove site/Dockerfile from the web build. The loader's Dockerfile only COPYs
+# requirements-loader.txt, scripts/, and sql/, so the extra site/ source in its
+# context is harmless (site/node_modules stays excluded below).
 .git
 __pycache__
 *.py[cod]
 .pytest_cache
-site
 web
 historial
 cache
