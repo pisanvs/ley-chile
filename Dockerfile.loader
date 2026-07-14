@@ -5,4 +5,4 @@ RUN pip install --no-cache-dir -r requirements-loader.txt
 COPY scripts/ ./scripts/
 COPY sql/ ./sql/
 ENV PYTHONPATH=/app/scripts
-CMD ["python", "-m", "loader.main", "--artifacts", "/tmp/artifacts"]
+CMD ["python", "-m", "loader.fetch_and_load"]

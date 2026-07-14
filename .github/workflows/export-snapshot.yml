@@ -1,0 +1,81 @@
+name: Export Snapshot
+
+# Standalone snapshot export from the EXISTING historial branch (no fetching).
+# Produces NDJSON artifacts and publishes them as a GitHub Release that the
+# Railway loader ingests. Run manually via the Actions tab or `gh workflow run`.
+
+on:
+  workflow_dispatch:
+    inputs:
+      watermark:
+        description: "Watermark date (YYYY-MM-DD); defaults to today (UTC)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write   # create the release
+
+concurrency:
+  group: export-snapshot
+  cancel-in-progress: false
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout code (scripts, graph_shards)
+        uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r requirements-loader.txt
+
+      - name: Checkout historial (full history — export walks git log)
+        uses: actions/checkout@v4
+        with:
+          ref: historial
+          path: historial
+          fetch-depth: 0
+
+      - name: Materialize graph.json from graph_shards
+        run: |
+          python - <<'EOF'
+          import json, sys
+          sys.path.insert(0, "scripts")
+          from utils import load_graph
+          graph = load_graph("graph.json")
+          with open("graph.json", "w", encoding="utf-8") as f:
+              json.dump(graph, f, ensure_ascii=False)
+          print(f"materialized graph.json: {len(graph)} nodes")
+          EOF
+
+      - name: Export snapshot artifacts
+        run: |
+          WM="${{ github.event.inputs.watermark }}"
+          [ -z "$WM" ] && WM="$(date -u +%Y-%m-%d)"
+          echo "watermark=$WM"
+          PYTHONPATH=scripts python scripts/export_snapshot.py \
+            --historial ./historial \
+            --graph ./graph.json \
+            --out ./artifacts \
+            --snapshot-version "${{ github.sha }}" \
+            --watermark "$WM" \
+            --delta-seq "${{ github.run_number }}"
+          echo "=== artifacts ==="
+          ls -lh ./artifacts
+          echo "manifest:"; cat ./artifacts/manifest.json
+
+      - name: Publish snapshot to a GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG="snapshot-${{ github.run_number }}"
+          gh release create "$TAG" ./artifacts/* \
+            --repo "${{ github.repository }}" \
+            --title "Snapshot ${{ github.run_number }}" \
+            --notes "Full-corpus export from historial. snapshot_version=${{ github.sha }}"
+          echo "published release $TAG"
