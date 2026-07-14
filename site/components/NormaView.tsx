@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { legislationJsonLd } from '@/lib/jsonld'
-import { currentFecha, isMultiVersion, type Article, type Norma, type Version } from '@/lib/norma'
+import { currentFecha, isMultiVersion, type Article, type ModLink, type Norma, type Version } from '@/lib/norma'
 import { TopBar } from './TopBar'
 import { ArticleView } from './ArticleView'
 import { VersionScrubber } from './VersionScrubber'
@@ -18,11 +18,26 @@ function fmtDate(iso: string): string {
   return `${Number(d)} ${months[Number(m) - 1]} ${y}`
 }
 
+function ModRow({ m }: { m: ModLink }) {
+  const tipo = TIPO_LABEL[m.tipo] ?? m.tipo.toUpperCase()
+  return (
+    <li>
+      <Link
+        href={`/${m.tipo}/${m.numero}`}
+        className="block rounded-md px-2 py-1.5 transition-colors hover:bg-paper-sunk"
+      >
+        <span className="text-[11px] font-medium uppercase tracking-[0.12em] text-ink-faint">{tipo} {m.numero}</span>
+        <span className="mt-0.5 line-clamp-2 text-sm leading-snug text-ink-soft">{m.titulo}</span>
+      </Link>
+    </li>
+  )
+}
+
 export function NormaView({
-  norma, fecha, versions, articles, prevArticles = [], mods,
+  norma, fecha, versions, articles, prevArticles = [], mods, modifiedBy = [], modifies = [],
 }: {
   norma: Norma; fecha: string; versions: Version[]; articles: Article[]
-  prevArticles?: Article[]; mods: number[]
+  prevArticles?: Article[]; mods: number[]; modifiedBy?: ModLink[]; modifies?: ModLink[]
 }) {
   const isCurrent = fecha === currentFecha(versions)
   const multi = isMultiVersion(versions)
@@ -136,13 +151,25 @@ export function NormaView({
               </>
             )}
 
-            {mods.length > 0 && (
+            {modifiedBy.length > 0 && (
               <>
-                <h3 className="mt-6 text-xs font-semibold uppercase tracking-[0.14em] text-ink-faint">Modificaciones</h3>
-                <p className="mt-2 text-sm text-ink-soft">
-                  Modificada por <span className="font-medium text-ink">{mods.length}</span>{' '}
-                  {mods.length === 1 ? 'norma' : 'normas'}.
-                </p>
+                <h3 className="mt-6 text-xs font-semibold uppercase tracking-[0.14em] text-ink-faint">
+                  Modificada por
+                </h3>
+                <ul className="mt-2 space-y-1">
+                  {modifiedBy.map((m) => <ModRow key={`mb-${m.tipo}-${m.numero}`} m={m} />)}
+                </ul>
+              </>
+            )}
+
+            {modifies.length > 0 && (
+              <>
+                <h3 className="mt-6 text-xs font-semibold uppercase tracking-[0.14em] text-ink-faint">
+                  Modifica a
+                </h3>
+                <ul className="mt-2 space-y-1">
+                  {modifies.map((m) => <ModRow key={`mf-${m.tipo}-${m.numero}`} m={m} />)}
+                </ul>
               </>
             )}
           </div>

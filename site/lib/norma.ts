@@ -69,6 +69,41 @@ export async function getArticlesAsOf(idNorma: number, fecha: string): Promise<A
   }))
 }
 
+export interface ModLink {
+  tipo: string
+  numero: string
+  titulo: string
+  fecha: string
+}
+
+/** Laws that have modified this one (distinct causa normas, newest first). */
+export async function getModifiedBy(idNorma: number): Promise<ModLink[]> {
+  const { rows } = await pool.query(
+    `SELECT DISTINCT ON (n.id_norma) n.tipo, n.numero, n.titulo, m.fecha
+       FROM modificacion m JOIN norma n ON n.id_norma = m.causa_id
+      WHERE m.target_id = $1
+      ORDER BY n.id_norma, m.fecha DESC`,
+    [idNorma],
+  )
+  return rows
+    .map((r) => ({ tipo: r.tipo, numero: r.numero, titulo: r.titulo ?? '', fecha: r.fecha }))
+    .sort((a, b) => b.fecha.localeCompare(a.fecha))
+}
+
+/** Laws this one modifies (distinct target normas, newest first). */
+export async function getModifies(idNorma: number): Promise<ModLink[]> {
+  const { rows } = await pool.query(
+    `SELECT DISTINCT ON (n.id_norma) n.tipo, n.numero, n.titulo, m.fecha
+       FROM modificacion m JOIN norma n ON n.id_norma = m.target_id
+      WHERE m.causa_id = $1
+      ORDER BY n.id_norma, m.fecha DESC`,
+    [idNorma],
+  )
+  return rows
+    .map((r) => ({ tipo: r.tipo, numero: r.numero, titulo: r.titulo ?? '', fecha: r.fecha }))
+    .sort((a, b) => b.fecha.localeCompare(a.fecha))
+}
+
 export function currentFecha(versions: Version[]): string {
   const open = versions.find(v => v.hasta === null)
   if (open) return open.desde
