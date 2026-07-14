@@ -3,34 +3,26 @@
 import { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState, type ReactNode } from 'react'
 import { Command } from 'cmdk'
 import { useRouter } from 'next/navigation'
-import { useQuery } from '@tanstack/react-query'
-import MiniSearch, { type SearchResult } from 'minisearch'
-import { searchUrl } from '@/lib/datasource'
 
-interface TitleEntry {
+interface Hit {
   idNorma: number
   numero: string
   tipo: string
   titulo: string
-  organismo: string
-  fechaPublicacion: string
 }
 
 interface CmdKCtx { open: () => void; close: () => void; isOpen: boolean }
 
 const Ctx = createContext<CmdKCtx | null>(null)
 
-async function fetchTitles(): Promise<TitleEntry[]> {
-  const r = await fetch(searchUrl())
-  if (!r.ok) throw new Error(`titles fetch failed: ${r.status}`)
-  return r.json()
-}
-
 export function CmdKProvider({ children }: { children: ReactNode }) {
   const [isOpen, setOpen] = useState(false)
   const [query, setQuery] = useState('')
+  const [hits, setHits] = useState<Hit[]>([])
+  const [loading, setLoading] = useState(false)
   const router = useRouter()
   const inputRef = useRef<HTMLInputElement>(null)
+  const seq = useRef(0)
 
   const open = useCallback(() => setOpen(true), [])
   const close = useCallback(() => setOpen(false), [])
@@ -48,31 +40,27 @@ export function CmdKProvider({ children }: { children: ReactNode }) {
     return () => window.removeEventListener('keydown', onKey)
   }, [])
 
-  // Lazy-load titles only when the bar opens for the first time
-  const titlesQ = useQuery({
-    queryKey: ['titles'],
-    queryFn: fetchTitles,
-    enabled: isOpen,
-    staleTime: Infinity,
-    gcTime: Infinity,
-  })
-
-  const mini = useMemo(() => {
-    if (!titlesQ.data) return null
-    const ms = new MiniSearch<TitleEntry>({
-      fields: ['titulo', 'numero', 'organismo', 'tipo'],
-      storeFields: ['idNorma', 'numero', 'tipo', 'titulo', 'organismo', 'fechaPublicacion'],
-      idField: 'idNorma',
-      searchOptions: { prefix: true, fuzzy: 0.15, boost: { titulo: 2, numero: 3 } },
-    })
-    ms.addAll(titlesQ.data)
-    return ms
-  }, [titlesQ.data])
-
-  const results: SearchResult[] = useMemo(() => {
-    if (!mini || query.trim().length < 2) return []
-    return mini.search(query).slice(0, 20)
-  }, [mini, query])
+  // Server-side search (Meilisearch hot path + Postgres cold path), debounced.
+  // No client index is built and no full titles list is shipped — this is what
+  // the SSR/search rework exists to provide.
+  useEffect(() => {
+    const q = query.trim()
+    if (q.length < 2) { setHits([]); setLoading(false); return }
+    setLoading(true)
+    const id = ++seq.current
+    const t = setTimeout(async () => {
+      try {
+        const r = await fetch(`/api/search?q=${encodeURIComponent(q)}`)
+        const data = await r.json()
+        if (id === seq.current) setHits(data.hits ?? [])
+      } catch {
+        if (id === seq.current) setHits([])
+      } finally {
+        if (id === seq.current) setLoading(false)
+      }
+    }, 160)
+    return () => clearTimeout(t)
+  }, [query])
 
   const value = useMemo<CmdKCtx>(() => ({ open, close, isOpen }), [open, close, isOpen])
 
@@ -95,21 +83,21 @@ export function CmdKProvider({ children }: { children: ReactNode }) {
             <Command.Input
               ref={inputRef}
               autoFocus
-              placeholder={titlesQ.isLoading ? 'Cargando índice…' : 'Buscar por título, número, organismo…'}
+              placeholder="Buscar por título, número, texto…"
               value={query}
               onValueChange={setQuery}
             />
             <Command.List>
-              {titlesQ.isError && (
-                <Command.Empty>No se pudo cargar el índice.</Command.Empty>
+              {loading && query.trim().length >= 2 && (
+                <Command.Loading><div className="px-4 py-3 text-sm text-ink-faint">Buscando…</div></Command.Loading>
               )}
-              {!titlesQ.isLoading && results.length === 0 && query.length >= 2 && (
+              {!loading && hits.length === 0 && query.trim().length >= 2 && (
                 <Command.Empty>Sin resultados.</Command.Empty>
               )}
-              {!titlesQ.isLoading && results.length === 0 && query.length < 2 && (
+              {!loading && query.trim().length < 2 && (
                 <Command.Empty>Escribe al menos 2 caracteres.</Command.Empty>
               )}
-              {results.map((r) => (
+              {hits.map((r) => (
                 <Command.Item
                   key={r.idNorma}
                   value={String(r.idNorma)}
@@ -127,9 +115,6 @@ export function CmdKProvider({ children }: { children: ReactNode }) {
                   <div className="font-display text-[0.95rem] leading-snug truncate">
                     {r.titulo}
                   </div>
-                  {r.organismo && (
-                    <div className="text-[11px] text-ink-faint truncate">{r.organismo}</div>
-                  )}
                 </Command.Item>
               ))}
             </Command.List>
