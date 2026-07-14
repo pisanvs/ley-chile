@@ -5,6 +5,8 @@ import { TopBar } from './TopBar'
 import { ArticleView } from './ArticleView'
 import { VersionScrubber } from './VersionScrubber'
 import { CopyButton } from './CopyButton'
+import { ReaderTabs } from './ReaderTabs'
+import { RedlineView } from './RedlineView'
 
 const TIPO_LABEL: Record<string, string> = {
   ley: 'Ley', dl: 'Decreto Ley', dfl: 'DFL', dto: 'Decreto', cod: 'Código', res: 'Resolución',
@@ -17,9 +19,10 @@ function fmtDate(iso: string): string {
 }
 
 export function NormaView({
-  norma, fecha, versions, articles, mods,
+  norma, fecha, versions, articles, prevArticles = [], mods,
 }: {
-  norma: Norma; fecha: string; versions: Version[]; articles: Article[]; mods: number[]
+  norma: Norma; fecha: string; versions: Version[]; articles: Article[]
+  prevArticles?: Article[]; mods: number[]
 }) {
   const isCurrent = fecha === currentFecha(versions)
   const multi = isMultiVersion(versions)
@@ -83,10 +86,21 @@ export function NormaView({
             )}
           </header>
 
-          <div className="mt-8 space-y-8">
-            {articles.map((a) => (
-              <ArticleView key={a.slug} article={a} />
-            ))}
+          <div className="mt-8">
+            <ReaderTabs
+              clean={
+                <div className="space-y-8">
+                  {articles.map((a) => (
+                    <ArticleView key={a.slug} article={a} />
+                  ))}
+                </div>
+              }
+              redline={
+                prevArticles.length > 0
+                  ? <RedlineView prev={prevArticles} curr={articles} />
+                  : null
+              }
+            />
           </div>
         </main>
 

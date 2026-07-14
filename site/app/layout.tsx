@@ -1,5 +1,6 @@
 import './globals.css'
 import type { Metadata } from 'next'
+import { CommandPalette } from '@/components/CommandPalette'
 
 export const metadata: Metadata = {
   title: {
@@ -27,6 +28,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body className="min-h-screen bg-paper text-ink antialiased font-ui">
         {children}
+        <CommandPalette />
       </body>
     </html>
   )
