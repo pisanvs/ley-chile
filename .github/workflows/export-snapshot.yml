@@ -34,12 +34,16 @@ jobs:
       - name: Install deps
         run: pip install -r requirements-loader.txt
 
-      - name: Checkout historial (full history — export walks git log)
-        uses: actions/checkout@v4
-        with:
-          ref: historial
-          path: historial
-          fetch-depth: 0
+      # Blobless partial clone: fetch full commit history (export walks `git log`
+      # per law) but not every historical blob — HEAD's tree blobs are fetched
+      # lazily on checkout. This is dramatically faster than a full clone of the
+      # multi-GB historial pack.
+      - name: Checkout historial (blobless — history without all blobs)
+        run: |
+          git clone --filter=blob:none --single-branch --branch historial \
+            "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" \
+            historial
+          echo "historial cloned: $(du -sh historial | cut -f1)"
 
       - name: Materialize graph.json from graph_shards
         run: |
