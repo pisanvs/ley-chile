@@ -1,87 +1,161 @@
-import { Suspense } from 'react'
+'use client'
+
 import Link from 'next/link'
-import { pool } from '@/lib/db'
-import { TopBar } from '@/components/TopBar'
+import { useQuery } from '@tanstack/react-query'
+import { useMemo, useState } from 'react'
+import { landingUrl } from '@/lib/datasource'
+import { useCmdK } from '@/components/CmdK'
+import { YearRibbon } from '@/components/YearRibbon'
 
-const TIPO_LABEL: Record<string, string> = {
-  ley: 'Ley', dl: 'Decreto Ley', dfl: 'DFL', dto: 'Decreto', cod: 'Código', res: 'Resolución',
+interface LandingEvent {
+  sha: string
+  date: string
+  causaId: number
+  subject: string
+  idNorma: number
+  numero: string
+  tipo: string
+  titulo: string
 }
 
-export default function Home() {
-  return (
-    <>
-      <TopBar />
-      <main className="mx-auto max-w-4xl px-4 sm:px-6">
-        {/* Hero */}
-        <section className="lc-fade-up py-16 text-center md:py-24">
-          <p className="text-xs font-medium uppercase tracking-[0.28em] text-ink-faint">
-            La ley chilena, versión por versión
-          </p>
-          <h1 className="mx-auto mt-4 max-w-3xl font-display text-4xl font-semibold leading-[1.05] tracking-tight text-ink text-balance md:text-6xl">
-            Cada texto de cada ley,<br className="hidden sm:inline" /> desde <span className="text-ruby">1810</span> hasta hoy.
-          </h1>
-          <p className="mx-auto mt-5 max-w-xl font-body text-lg leading-relaxed text-ink-soft">
-            Lee cualquier ley, decreto o código chileno tal como estaba redactado en cualquier fecha
-            — con su historial de cambios y búsqueda sobre todo el corpus.
-          </p>
-
-          <form action="/buscar" method="get" className="mx-auto mt-8 flex max-w-xl items-center gap-2 rounded-xl border border-rule bg-paper-raised p-2 shadow-sm focus-within:border-indigo">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" className="ml-2 shrink-0 text-ink-faint">
-              <circle cx="11" cy="11" r="7" /><path d="m21 21-4.3-4.3" />
-            </svg>
-            <input
-              type="search"
-              name="q"
-              autoFocus
-              placeholder="Ej. arrendamiento, ley 20330, subsidio…"
-              className="w-full bg-transparent px-1 py-2 text-ink outline-none placeholder:text-ink-faint"
-            />
-            <button type="submit" className="rounded-lg bg-indigo px-4 py-2 text-sm font-medium text-paper-raised transition-opacity hover:opacity-90">
-              Buscar
-            </button>
-          </form>
-        </section>
-
-        {/* Explore */}
-        <section className="border-t border-rule py-12">
-          <h2 className="text-xs font-semibold uppercase tracking-[0.14em] text-ink-faint">Explora</h2>
-          <Suspense fallback={<p className="mt-4 text-sm text-ink-faint">Cargando…</p>}>
-            <ExampleLaws />
-          </Suspense>
-        </section>
-      </main>
-
-      <footer className="mx-auto max-w-4xl px-4 py-10 text-sm text-ink-faint sm:px-6">
-        <span>LeyChile — texto derivado de fuentes públicas de la BCN.</span>
-      </footer>
-    </>
-  )
+interface LandingData {
+  yearHistogram: { year: number; count: number }[]
+  recentEvents: LandingEvent[]
 }
 
-async function ExampleLaws() {
-  const { rows } = await pool.query(
-    `SELECT tipo, numero, titulo FROM norma
-      WHERE titulo <> '' ORDER BY id_norma DESC LIMIT 6`,
-  )
-  if (rows.length === 0) {
-    return <p className="mt-4 text-sm text-ink-faint">Aún no hay leyes cargadas.</p>
-  }
+async function fetchLanding(): Promise<LandingData> {
+  const r = await fetch(landingUrl())
+  if (!r.ok) throw new Error(`landing ${r.status}`)
+  return r.json()
+}
+
+export default function TimeMachine() {
+  const q = useQuery({ queryKey: ['landing'], queryFn: fetchLanding })
+  const cmdk = useCmdK()
+  const [selectedYear, setSelectedYear] = useState<number | null>(null)
+
+  const histogram = q.data?.yearHistogram ?? []
+  const yearMin = histogram[0]?.year ?? 1970
+  const yearMax = histogram[histogram.length - 1]?.year ?? 2026
+
+  const filteredEvents = useMemo(() => {
+    const all = q.data?.recentEvents ?? []
+    if (!selectedYear) return all.slice(0, 60)
+    return all.filter(e => e.date.startsWith(String(selectedYear))).slice(0, 60)
+  }, [q.data, selectedYear])
+
   return (
-    <ul className="mt-4 grid gap-3 sm:grid-cols-2">
-      {rows.map((r) => {
-        const tipo = TIPO_LABEL[r.tipo] ?? String(r.tipo).toUpperCase()
-        return (
-          <li key={`${r.tipo}-${r.numero}`}>
-            <Link
-              href={`/${r.tipo}/${r.numero}`}
-              className="block rounded-xl border border-rule bg-paper-raised p-4 transition-colors hover:border-indigo/60"
+    <div className="flex-1 overflow-y-auto scrollbar-quiet">
+      <section className="px-6 md:px-12 pt-16 md:pt-24 pb-12 max-w-5xl mx-auto">
+        <p className="text-xs uppercase tracking-[0.25em] text-ink-faint mb-5 lc-fade-up">
+          Una máquina del tiempo legislativa
+        </p>
+        <h1
+          className="font-display text-4xl md:text-[3.6rem] leading-[1.04] tracking-tight text-balance lc-fade-up"
+          style={{ animationDelay: '60ms' }}
+        >
+          El corpus jurídico chileno,
+          <span className="text-ruby"> en vivo</span>.
+        </h1>
+        <p
+          className="mt-6 text-ink-soft max-w-2xl text-[15.5px] leading-relaxed lc-fade-up"
+          style={{ animationDelay: '140ms' }}
+        >
+          Cada ley, decreto y resolución desde 1810, navegable en cada una de
+          sus versiones históricas. Reconstruido desde la Biblioteca del Congreso
+          como un repositorio git: una publicación, un commit.
+        </p>
+        <div
+          className="mt-8 flex flex-wrap gap-3 lc-fade-up"
+          style={{ animationDelay: '220ms' }}
+        >
+          <button
+            onClick={cmdk.open}
+            className="group inline-flex items-center gap-3 border border-ink/80 hover:border-ruby text-ink hover:text-ruby transition px-4 py-2.5 rounded-md"
+          >
+            <span className="text-sm">Buscar una ley o decreto…</span>
+            <kbd className="font-mono text-[10px] bg-paper-sunk text-ink-soft px-1.5 py-0.5 rounded">⌘K</kbd>
+          </button>
+          <Link
+            href="/ley/20330"
+            className="inline-flex items-center gap-2 text-sm text-indigo hover:underline px-4 py-2.5"
+          >
+            o explora una ley de ejemplo →
+          </Link>
+        </div>
+      </section>
+
+      <section className="px-6 md:px-12 max-w-5xl mx-auto pb-12">
+        <div className="flex items-baseline justify-between mb-4">
+          <h2 className="font-display text-xl">Densidad legislativa por año</h2>
+          {q.isLoading && <span className="text-xs text-ink-faint">cargando…</span>}
+          {selectedYear && (
+            <button
+              onClick={() => setSelectedYear(null)}
+              className="text-xs text-ink-faint hover:text-ink"
             >
-              <div className="text-xs font-medium uppercase tracking-[0.14em] text-ink-faint">{tipo} {r.numero}</div>
-              <div className="mt-1 line-clamp-2 font-display text-base font-semibold leading-snug text-ink">{r.titulo}</div>
-            </Link>
-          </li>
-        )
-      })}
-    </ul>
+              limpiar filtro ({selectedYear}) ✕
+            </button>
+          )}
+        </div>
+        <YearRibbon
+          data={histogram}
+          yearMin={yearMin}
+          yearMax={yearMax}
+          selected={selectedYear}
+          onSelect={setSelectedYear}
+        />
+      </section>
+
+      <section className="px-6 md:px-12 max-w-5xl mx-auto pb-24">
+        <h2 className="font-display text-xl mb-4">
+          {selectedYear ? `Eventos en ${selectedYear}` : 'Publicaciones recientes'}
+        </h2>
+        {q.isError && <p className="text-ruby text-sm">No se pudo cargar el corpus.</p>}
+        {!q.isError && filteredEvents.length === 0 && q.data && (
+          <p className="text-sm text-ink-faint">Sin eventos para este año en el subset cargado.</p>
+        )}
+        <ul className="divide-y divide-rule">
+          {filteredEvents.map(e => (
+            <EventRow key={`${e.sha}-${e.idNorma}`} ev={e} />
+          ))}
+        </ul>
+      </section>
+
+      <footer className="px-6 md:px-12 max-w-5xl mx-auto pb-16 text-xs text-ink-faint border-t border-rule pt-8">
+        <p>
+          Datos: Biblioteca del Congreso Nacional · Build:{' '}
+          <a
+            href="https://github.com/pisanvs/ley-chile"
+            target="_blank"
+            rel="noreferrer"
+            className="hover:text-ink"
+          >
+            github.com/pisanvs/ley-chile
+          </a>
+        </p>
+      </footer>
+    </div>
+  )
+}
+
+function EventRow({ ev }: { ev: LandingEvent }) {
+  return (
+    <li>
+      <Link
+        href={`/${ev.tipo}/${ev.numero}/${ev.date}`}
+        className="group flex flex-col md:flex-row md:items-baseline gap-1 md:gap-6 py-3 hover:bg-paper-sunk/50 -mx-2 px-2 rounded transition"
+      >
+        <div className="text-xs text-ink-faint font-mono w-24 shrink-0">{ev.date}</div>
+        <div className="flex-1 min-w-0">
+          <div className="text-[11px] uppercase tracking-widest text-ink-faint">
+            {ev.tipo} · Nº {ev.numero}
+          </div>
+          <div className="font-display text-[1.05rem] leading-snug text-ink group-hover:text-ruby transition line-clamp-2">
+            {ev.titulo}
+          </div>
+        </div>
+      </Link>
+    </li>
   )
 }

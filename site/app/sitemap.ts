@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import type { MetadataRoute } from 'next'
 import { pool } from '@/lib/db'
 import { SITE } from '@/lib/jsonld'

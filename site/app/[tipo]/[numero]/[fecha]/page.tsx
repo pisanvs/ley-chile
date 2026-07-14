@@ -1,48 +1,34 @@
 import { Suspense } from 'react'
 import { notFound } from 'next/navigation'
-import { NormaView } from '@/components/NormaView'
 import { RESERVED_TIPOS, SITE } from '@/lib/jsonld'
-import { canonicalPath } from '@/lib/norma'
-import { loadNorma } from '@/lib/page-data'
+import { canonicalPath, getNorma, getVersions } from '@/lib/norma'
+import { LawView } from '@/components/LawView'
 
 interface Props { params: Promise<{ tipo: string; numero: string; fecha: string }> }
 
 export async function generateMetadata({ params }: Props) {
   const { tipo, numero, fecha } = await params
-  if (RESERVED_TIPOS.has(tipo)) return {}
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(fecha)) return {}
-
-  const data = await loadNorma(tipo, numero, fecha)
-  if (!data) return {}
+  if (RESERVED_TIPOS.has(tipo) || !/^\d{4}-\d{2}-\d{2}$/.test(fecha)) return {}
+  const norma = await getNorma(tipo, numero)
+  if (!norma) return {}
+  const versions = await getVersions(norma.idNorma)
   return {
-    title: `${data.norma.titulo} — texto al ${fecha}`,
-    alternates: { canonical: `${SITE}${canonicalPath(data.norma, fecha, data.versions)}` },
+    title: `${norma.titulo} — texto al ${fecha}`,
+    alternates: { canonical: `${SITE}${canonicalPath(norma, fecha, versions)}` },
   }
 }
 
-// This route has no generateStaticParams — every request reads dynamic route
-// params and uncached DB state. With `cacheComponents` (next.config.ts),
-// accessing dynamic data outside a <Suspense> boundary is a build error
-// ("Uncached data was accessed outside of <Suspense>"): the framework needs a
-// boundary to know where the static shell ends and the per-request stream
-// begins. There's no meaningful static shell above this content, so the
-// boundary wraps the whole page.
 export default async function Page({ params }: Props) {
   return (
     <Suspense fallback={null}>
-      <NormaPage params={params} />
+      <Resolve params={params} />
     </Suspense>
   )
 }
 
-async function NormaPage({ params }: Props) {
+async function Resolve({ params }: Props) {
   const { tipo, numero, fecha } = await params
   if (RESERVED_TIPOS.has(tipo)) notFound()
   if (!/^\d{4}-\d{2}-\d{2}$/.test(fecha)) notFound()
-
-  const data = await loadNorma(tipo, numero, fecha)
-  if (!data || data.articles.length === 0) notFound()
-  const { norma, versions, articles, mods } = data
-
-  return <NormaView norma={norma} fecha={fecha} versions={versions} articles={articles} mods={mods} />
+  return <LawView tipo={tipo} numero={numero} fecha={fecha} />
 }

@@ -2,7 +2,6 @@ import { Suspense } from 'react'
 import Link from 'next/link'
 import { recordEvent } from '@/lib/analytics'
 import { needsColdPath, normalizeQuery, searchCold, searchHot, type Hit } from '@/lib/search'
-import { TopBar } from '@/components/TopBar'
 
 const TIPO_LABEL: Record<string, string> = {
   ley: 'Ley', dl: 'Decreto Ley', dfl: 'DFL', dto: 'Decreto', cod: 'Código', res: 'Resolución',
@@ -35,12 +34,9 @@ export default async function Page({
   searchParams,
 }: { searchParams: Promise<{ q?: string; asOf?: string }> }) {
   return (
-    <>
-      <TopBar />
-      <Suspense fallback={null}>
-        <Buscar searchParams={searchParams} />
-      </Suspense>
-    </>
+    <Suspense fallback={null}>
+      <Buscar searchParams={searchParams} />
+    </Suspense>
   )
 }
 

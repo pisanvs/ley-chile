@@ -1,47 +1,32 @@
 'use client'
 
-import { useRouter } from 'next/navigation'
-import type { Version } from '@/lib/norma'
+import type { Commit } from '@/lib/commits'
 
-/** Git-log-style timeline of every version as clickable ticks under the title. */
-export function VersionScrubber({
-  tipo,
-  numero,
-  versions,
-  activeDesde,
-  currentDesde,
-}: {
-  tipo: string
-  numero: string
-  versions: Version[]
-  activeDesde: string
-  currentDesde: string
-}) {
-  const router = useRouter()
+interface Props {
+  commits: Commit[]
+  activeSha: string | null
+  onPick: (c: Commit) => void
+}
 
-  function go(v: Version) {
-    const path =
-      v.desde === currentDesde ? `/${tipo}/${numero}` : `/${tipo}/${numero}/${v.desde}`
-    router.push(path)
+export function VersionScrubber({ commits, activeSha, onPick }: Props) {
+  if (commits.length === 0) {
+    return <div className="text-sm opacity-60">Sin versiones registradas.</div>
   }
-
   return (
-    <div className="scrollbar-quiet flex items-center gap-1 overflow-x-auto py-1">
-      {versions.map((v) => {
-        const active = v.desde === activeDesde
+    <div className="flex items-center gap-1 overflow-x-auto py-2" role="group" aria-label="Versiones de la ley">
+      {commits.map(c => {
+        const active = c.sha === activeSha
         return (
           <button
-            key={v.desde}
-            type="button"
-            onClick={() => go(v)}
-            title={`${v.desde}${v.subject ? ` — ${v.subject}` : ''}`}
-            aria-label={`Versión del ${v.desde}`}
-            className={
-              'shrink-0 rounded-full transition-all ' +
-              (active
-                ? 'h-7 w-1.5 bg-indigo'
-                : 'h-5 w-1.5 bg-ink-faint/40 hover:bg-indigo/60')
-            }
+            key={c.sha}
+            onClick={() => onPick(c)}
+            aria-current={active ? 'true' : undefined}
+            aria-label={`versión ${c.date}`}
+            title={`${c.date} · causa: ${c.causaId || '—'}`}
+            className={[
+              'h-6 w-1.5 rounded-full transition-all',
+              active ? 'bg-indigo h-8' : 'bg-ink/30 hover:bg-ink/60',
+            ].join(' ')}
           />
         )
       })}

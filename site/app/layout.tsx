@@ -1,6 +1,6 @@
 import './globals.css'
 import type { Metadata } from 'next'
-import { CommandPalette } from '@/components/CommandPalette'
+import { AppShell } from '@/components/AppShell'
 
 export const metadata: Metadata = {
   title: {
@@ -10,10 +10,10 @@ export const metadata: Metadata = {
   description: 'Cada versión de cada ley chilena, desde 1810. Texto vigente e histórico, con búsqueda.',
 }
 
-// Set the theme class before first paint to avoid a flash of the wrong palette.
+// Match the theme before first paint (web/ uses the `lc-theme` localStorage key).
 const noFlashTheme = `
 try {
-  var t = localStorage.getItem('theme');
+  var t = localStorage.getItem('lc-theme');
   if (t === 'dark' || (!t && matchMedia('(prefers-color-scheme: dark)').matches)) {
     document.documentElement.classList.add('dark');
   }
@@ -26,9 +26,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <head>
         <script dangerouslySetInnerHTML={{ __html: noFlashTheme }} />
       </head>
-      <body className="min-h-screen bg-paper text-ink antialiased font-ui">
-        {children}
-        <CommandPalette />
+      <body className="antialiased">
+        <AppShell>{children}</AppShell>
       </body>
     </html>
   )
