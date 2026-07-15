@@ -10,6 +10,12 @@ class FakeMeiliIndex:
         self.added.extend(docs)
         return {"taskUid": 100 + len(self.added)}
 
+    def add_documents_in_batches(self, docs, batch_size=1000, primary_key=None):
+        return [
+            self.add_documents(docs[i:i + batch_size], primary_key=primary_key)
+            for i in range(0, len(docs), batch_size)
+        ]
+
     def delete_documents(self, ids=None, *, filter=None, metadata=None):
         self.deleted.append(filter)
         return {"taskUid": len(self.deleted)}

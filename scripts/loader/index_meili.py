@@ -134,8 +134,20 @@ def norma_documents(
     ]
 
 
+# A full-tier reindex is ~218k article documents. A single add_documents of the
+# whole set is one oversized HTTP request Meilisearch stalls on; likewise a
+# delete filter naming tens of thousands of id_normas. Chunk both.
+ADD_BATCH = 10_000
+DELETE_ID_BATCH = 1_000
+
+
+def _chunks(seq: list, n: int):
+    for i in range(0, len(seq), n):
+        yield seq[i:i + n]
+
+
 def sync_articulos(index, docs: list[dict], delete_id_normas: list[int]) -> list:
-    """Delete demoted/stale normas' documents first, then add.
+    """Delete demoted/stale normas' documents first, then add, both in batches.
 
     Order matters: a promoted norma whose articles changed must not keep its old
     documents. Returns the enqueued tasks — Meilisearch writes are ASYNCHRONOUS,
@@ -143,12 +155,14 @@ def sync_articulos(index, docs: list[dict], delete_id_normas: list[int]) -> list
     this call. Pass the result to `wait_for_tasks` or the failure is invisible.
     """
     tasks = []
-    if delete_id_normas:
+    for chunk in _chunks(sorted(delete_id_normas), DELETE_ID_BATCH):
         # The client exposes delete_documents(filter=...). There is no
         # delete_documents_by_filter — calling it raises AttributeError.
-        tasks.append(index.delete_documents(filter=f"id_norma IN {sorted(delete_id_normas)}"))
+        tasks.append(index.delete_documents(filter=f"id_norma IN {chunk}"))
     if docs:
-        tasks.append(index.add_documents(docs, primary_key="id"))
+        # add_documents_in_batches splits the full tier into many tasks that
+        # index incrementally, instead of one request Meilisearch chokes on.
+        tasks += index.add_documents_in_batches(docs, batch_size=ADD_BATCH, primary_key="id")
     return [t for t in tasks if t is not None]
 
 
