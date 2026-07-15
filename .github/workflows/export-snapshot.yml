@@ -22,7 +22,7 @@ concurrency:
 jobs:
   export:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 180
     steps:
       - name: Checkout code (scripts, graph_shards)
         uses: actions/checkout@v4
@@ -34,12 +34,16 @@ jobs:
       - name: Install deps
         run: pip install -r requirements-loader.txt
 
-      - name: Checkout historial (full history — export walks git log)
-        uses: actions/checkout@v4
-        with:
-          ref: historial
-          path: historial
-          fetch-depth: 0
+      # Full single-branch clone: the bulk export reads every version's text via
+      # `git cat-file`, so all blobs must be present locally — a blobless clone
+      # would lazy-fetch ~408k blobs over the network, one per version. Skipping
+      # tags and other branches keeps this to just the historial pack.
+      - name: Checkout historial (full single-branch clone)
+        run: |
+          git clone --single-branch --no-tags --branch historial \
+            "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" \
+            historial
+          echo "historial cloned: $(du -sh historial | cut -f1), $(git -C historial rev-list --count HEAD) commits"
 
       - name: Materialize graph.json from graph_shards
         run: |
