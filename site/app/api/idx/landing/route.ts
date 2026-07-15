@@ -10,15 +10,21 @@ export async function GET() {
   )).rows
 
   const events = (await pool.query(
-    `SELECT v.desde, v.causa_id, v.subject, n.id_norma, n.numero, n.tipo, n.titulo
+    `SELECT v.desde, v.causa_id, v.subject, n.id_norma, n.numero, n.tipo, n.titulo, n.organismo
        FROM version v JOIN norma n ON n.id_norma = v.id_norma
       WHERE n.titulo <> ''
       ORDER BY v.desde DESC
       LIMIT 60`,
   )).rows
 
+  const tipos = (await pool.query(
+    `SELECT tipo, count(*)::int AS count FROM norma
+      WHERE tipo <> '' GROUP BY tipo ORDER BY count(*) DESC`,
+  )).rows
+
   return Response.json({
     yearHistogram: hist.map((r) => ({ year: r.year, count: r.count })),
+    tipos: tipos.map((r) => ({ tipo: r.tipo, count: r.count })),
     recentEvents: events.map((r) => ({
       sha: r.desde,
       date: r.desde,
@@ -28,6 +34,7 @@ export async function GET() {
       numero: r.numero,
       tipo: r.tipo,
       titulo: r.titulo ?? '',
+      organismo: r.organismo ?? '',
     })),
   })
 }

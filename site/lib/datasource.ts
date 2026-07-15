@@ -7,6 +7,7 @@ export const ds = {
   modifiedByUrl: (targetId: number) => `/api/idx/modified_by/${targetId}`,
   titlesUrl: () => `/api/idx/titles`,
   landingUrl: () => `/api/idx/landing`,
+  yearUrl: (year: number) => `/api/idx/by-year/${year}`,
   manifestUrl: () => `/api/idx/manifest`,
   /** Reconstructed markdown for one version: sha == desde (fecha), relDir == idNorma. */
   textUrl: (idNorma: number | string, fecha: string) => `/api/text/${idNorma}/${fecha}`,

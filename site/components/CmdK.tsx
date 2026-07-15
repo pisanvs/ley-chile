@@ -11,7 +11,7 @@ interface Hit {
   titulo: string
 }
 
-interface CmdKCtx { open: () => void; close: () => void; isOpen: boolean }
+interface CmdKCtx { open: () => void; close: () => void; isOpen: boolean; prefetch: () => void }
 
 const Ctx = createContext<CmdKCtx | null>(null)
 
@@ -62,7 +62,10 @@ export function CmdKProvider({ children }: { children: ReactNode }) {
     return () => clearTimeout(t)
   }, [query])
 
-  const value = useMemo<CmdKCtx>(() => ({ open, close, isOpen }), [open, close, isOpen])
+  // Server-side search needs no client index to warm; prefetch is a no-op kept
+  // for API parity with the callers (TopBar, landing) that hover-prefetch.
+  const prefetch = useCallback(() => {}, [])
+  const value = useMemo<CmdKCtx>(() => ({ open, close, isOpen, prefetch }), [open, close, isOpen, prefetch])
 
   return (
     <Ctx.Provider value={value}>
