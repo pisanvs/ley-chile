@@ -22,7 +22,7 @@ concurrency:
 jobs:
   export:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 180
     steps:
       - name: Checkout code (scripts, graph_shards)
         uses: actions/checkout@v4
@@ -34,16 +34,16 @@ jobs:
       - name: Install deps
         run: pip install -r requirements-loader.txt
 
-      # Blobless partial clone: fetch full commit history (export walks `git log`
-      # per law) but not every historical blob — HEAD's tree blobs are fetched
-      # lazily on checkout. This is dramatically faster than a full clone of the
-      # multi-GB historial pack.
-      - name: Checkout historial (blobless — history without all blobs)
+      # Full single-branch clone: the bulk export reads every version's text via
+      # `git cat-file`, so all blobs must be present locally — a blobless clone
+      # would lazy-fetch ~408k blobs over the network, one per version. Skipping
+      # tags and other branches keeps this to just the historial pack.
+      - name: Checkout historial (full single-branch clone)
         run: |
-          git clone --filter=blob:none --single-branch --branch historial \
+          git clone --single-branch --no-tags --branch historial \
             "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" \
             historial
-          echo "historial cloned: $(du -sh historial | cut -f1)"
+          echo "historial cloned: $(du -sh historial | cut -f1), $(git -C historial rev-list --count HEAD) commits"
 
       - name: Materialize graph.json from graph_shards
         run: |
