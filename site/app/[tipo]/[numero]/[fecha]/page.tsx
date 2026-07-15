@@ -30,5 +30,7 @@ async function Resolve({ params }: Props) {
   const { tipo, numero, fecha } = await params
   if (RESERVED_TIPOS.has(tipo)) notFound()
   if (!/^\d{4}-\d{2}-\d{2}$/.test(fecha)) notFound()
-  return <LawView tipo={tipo} numero={numero} fecha={fecha} />
+  const norma = await getNorma(tipo, numero)
+  if (!norma) notFound()
+  return <LawView tipo={tipo} numero={numero} idNorma={norma.idNorma} fecha={fecha} />
 }

@@ -3,7 +3,7 @@
 import { useRouter } from 'next/navigation'
 import { useQuery } from '@tanstack/react-query'
 import { useEffect, useState } from 'react'
-import { fetchCommits, resolveToIdNorma, type Commit } from '@/lib/commits'
+import { fetchCommits, type Commit } from '@/lib/commits'
 import { IDEShell } from '@/components/IDEShell'
 import { VersionScrubber } from '@/components/VersionScrubber'
 import { RedlineReader, type ReaderViewMode } from '@/components/RedlineReader'
@@ -14,22 +14,18 @@ import { tabs } from '@/lib/tabs'
 
 /** Faithful port of web/'s ley.$numero.$fecha route. `fecha` optional: when
  *  absent (the undated URL) the latest version is shown. */
-export function LawView({ tipo, numero, fecha }: { tipo: string; numero: string; fecha?: string }) {
+/** `idNorma` is resolved server-side from (tipo, numero) — passing it avoids the
+ *  numero/id_norma collision that a client-side numero lookup hits at full
+ *  corpus scale (an internal id_norma can equal an unrelated law's numero). */
+export function LawView({ tipo, numero, idNorma, fecha }: { tipo: string; numero: string; idNorma: number; fecha?: string }) {
   const router = useRouter()
   const [prefs, setPrefs] = useState(readPrefs)
   const [citationCopied, setCitationCopied] = useState(false)
   const [activeSlug, setActiveSlug] = useState<string | null>(null)
 
-  const resolved = useQuery({
-    queryKey: ['resolve', numero],
-    queryFn: () => resolveToIdNorma(numero),
-    staleTime: Infinity,
-  })
-  const idNorma = resolved.data ?? null
   const q = useQuery({
     queryKey: ['commits', idNorma],
-    queryFn: () => fetchCommits(idNorma!),
-    enabled: !!idNorma,
+    queryFn: () => fetchCommits(idNorma),
   })
 
   useEffect(() => {
@@ -52,8 +48,7 @@ export function LawView({ tipo, numero, fecha }: { tipo: string; numero: string;
     })
   }, [q.data])
 
-  if (resolved.isLoading || q.isLoading) return <IDEShell center={<Loading />} />
-  if (resolved.isError || !idNorma) return <IDEShell center={<Failed />} />
+  if (q.isLoading) return <IDEShell center={<Loading />} />
   if (q.isError) return <IDEShell center={<Failed />} />
   const idx = q.data!
   const active: Commit | undefined = fecha

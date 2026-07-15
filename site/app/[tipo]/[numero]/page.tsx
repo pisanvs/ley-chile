@@ -30,5 +30,7 @@ export default async function Page({ params }: Props) {
 async function Resolve({ params }: Props) {
   const { tipo, numero } = await params
   if (RESERVED_TIPOS.has(tipo)) notFound()
-  return <LawView tipo={tipo} numero={numero} />
+  const norma = await getNorma(tipo, numero)
+  if (!norma) notFound()
+  return <LawView tipo={tipo} numero={numero} idNorma={norma.idNorma} />
 }
