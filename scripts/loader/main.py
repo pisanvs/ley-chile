@@ -65,14 +65,28 @@ def run(conn, client, artifacts_dir: Path, *, budget_bytes: int,
         print("up to date; nothing to do")
         return 0
 
-    normas = _read_shard(next(artifacts_dir.glob("normas-*.ndjson.gz")), NormaRow)
+    # Read EVERY normas shard, not just the first. A delta fits in one 50k
+    # shard, but a full-corpus snapshot spans several (357k normas → 8 shards);
+    # `next(glob())` silently loaded only the first, leaving versions that
+    # reference the rest to fail against the norma FK.
+    normas = [
+        n for shard in sorted(artifacts_dir.glob("normas-*.ndjson.gz"))
+        for n in _read_shard(shard, NormaRow)
+    ]
     touched = [n.id_norma for n in normas]
 
-    # Clear derived rows first: a re-exported norma may close a previously
-    # open-ended version range, which the EXCLUDE constraint would reject.
+    # replace_norma clears a norma's derived rows so a re-export can close a
+    # previously open-ended version range without tripping the EXCLUDE
+    # constraint. On a fresh load (empty read model) there is nothing to clear,
+    # and the per-norma sweep over ~357k normas is not free — skip it.
+    with conn.cursor() as cur:
+        cur.execute("SELECT EXISTS (SELECT 1 FROM norma)")
+        had_normas = cur.fetchone()[0]
+
     load.load_normas(conn, normas)
-    for id_norma in touched:
-        load.replace_norma(conn, id_norma)
+    if had_normas:
+        for id_norma in touched:
+            load.replace_norma(conn, id_norma)
 
     for kind in ("versions", "articulos", "spans", "mods", "events"):
         cls, fn = _KINDS[kind]

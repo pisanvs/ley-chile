@@ -45,10 +45,10 @@ def download_assets(rel: dict) -> None:
     for asset in rel["assets"]:
         dest = OUT / asset["name"]
         print(f"  ↓ {asset['name']} ({asset['size'] / 1e6:.1f} MB)", flush=True)
+        # browser_download_url is a CDN redirect for public repos — not subject
+        # to the API rate limit that the `assets/{id}` endpoint enforces.
         with requests.get(
-            asset["url"],
-            headers={**_headers(), "Accept": "application/octet-stream"},
-            stream=True, timeout=TIMEOUT,
+            asset["browser_download_url"], stream=True, timeout=TIMEOUT,
         ) as resp:
             resp.raise_for_status()
             with open(dest, "wb") as f:
