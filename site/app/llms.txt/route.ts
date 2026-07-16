@@ -68,8 +68,12 @@ es la rama \`historial\` de ${REPO}: un commit por publicación legislativa.
 
     git clone -b historial ${REPO}
 
-Para comparar dos versiones sin clonar nada, GitHub sirve el diff directamente
-— añade .diff a la URL del commit en vez de reconstruirlo a mano:
+Para comparar dos versiones sin clonar nada, usa la herramienta MCP
+diff_versions, o pide el texto de cada fecha a ${SITE}/api/text/… y compáralos.
+
+GitHub también sirve el diff crudo añadiendo .diff a la URL del commit, pero
+limita y bloquea a clientes automatizados: sirve para leerlo tú, no para que
+dependa de ello un agente.
 
     ${REPO}/commit/{sha}.diff
 

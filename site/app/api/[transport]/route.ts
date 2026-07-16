@@ -7,7 +7,6 @@ import {
 import { needsColdPath, searchArticles, searchCold, searchHot } from '@/lib/search'
 import { align, joinDiffText, wordDiff } from '@/lib/diff'
 import { SITE } from '@/lib/jsonld'
-import { RAW, REPO } from '@/lib/site'
 import { normaHref } from '@/lib/href'
 
 /**
@@ -232,8 +231,8 @@ const handler = createMcpHandler(
         description:
           'Enlaces al texto íntegro y sin recortar de una norma, para descargarlo directamente. ' +
           'Úsalo cuando get_law o get_article devuelvan texto truncado, cuando necesites la ley ' +
-          'completa de una vez, o cuando quieras citar una fuente inmutable: el enlace a texto.md ' +
-          'apunta al commit exacto que publicó esa versión, así que su contenido nunca cambia. ' +
+          'completa de una vez, o cuando quieras citar el texto exacto vigente en una fecha. ' +
+          'El enlace es estable: (norma, fecha) siempre devuelve el mismo texto. ' +
           'Devuelve enlaces, no el texto: una norma puede pesar cientos de KB.',
         inputSchema: {
           tipo: z.string().describe('Tipo: ley, dl, dfl, dto, cod, res…'),
@@ -257,26 +256,26 @@ const handler = createMcpHandler(
           )
         }
 
-        // Two different artefacts, deliberately both offered:
-        //   texto.md is the byte-exact source as committed — immutable, citable.
-        //   /api/text is reconstructed per-article from Postgres, so it answers
-        //   for ANY date, including ones with no commit of their own.
+        // Every link points at this site on purpose. The text also exists as
+        // texto.md in the git repo, pinned to the commit below, but GitHub
+        // rate-limits and challenges automated clients on UA heuristics — so a
+        // github.com link is a promise we can't keep for the agents this tool
+        // exists to serve. Our own endpoints we control. The sha is still
+        // reported: it identifies the commit for anyone who clones the repo.
         const lines = [
           `${tipo.toUpperCase()} ${numero} — ${norma.titulo}`,
           `Versión vigente al ${fecha} (rige desde ${v.desde}${v.hasta ? ` hasta ${v.hasta}` : ', vigente'}).`,
           '',
-          `Texto fuente (markdown, inmutable, fijado al commit que publicó esta versión):`,
-          `  ${RAW}/${v.commitSha}/${norma.lawDir}/texto.md`,
-          '',
-          `Texto reconstruido (markdown, mismo contenido servido por este sitio):`,
+          `Texto completo (markdown, sin recortar):`,
           `  ${SITE}/api/text/${norma.idNorma}/${fecha}`,
           '',
-          `Commit que publicó esta versión${v.subject ? ` — ${v.subject}` : ''}:`,
-          `  ${REPO}/commit/${v.commitSha}`,
-          `  ${REPO}/commit/${v.commitSha}.diff  (solo el cambio, en formato diff)`,
+          `Metadatos y todas las versiones (JSON):`,
+          `  ${SITE}/api/idx/commits/${norma.idNorma}`,
           '',
           `Página legible: ${lawUrl(tipo, numero, fecha)}`,
-          `Fuente oficial (BCN, bloquea clientes automatizados): https://www.bcn.cl/leychile/navegar?idNorma=${norma.idNorma}`,
+          '',
+          `Publicada por el commit ${v.commitSha}${v.subject ? ` (${v.subject})` : ''} en la rama`,
+          `historial del repositorio. Para ver qué cambió, usa diff_versions.`,
         ]
         return text(lines.join('\n'))
       },
