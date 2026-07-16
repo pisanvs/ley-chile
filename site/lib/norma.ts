@@ -1,4 +1,5 @@
 import { pool } from './db'
+import { normaHref } from './href'
 
 export interface Norma {
   idNorma: number
@@ -117,7 +118,6 @@ export function isMultiVersion(versions: Version[]): boolean {
 /** SEO: ~350k single-version normas would otherwise serve byte-identical pages
  *  at /ley/X and /ley/X/<fecha>. Point the dated one at the undated one. */
 export function canonicalPath(n: Norma, fecha: string, versions: Version[]): string {
-  const base = `/${n.tipo}/${n.numero}`
-  if (!isMultiVersion(versions)) return base
-  return fecha === currentFecha(versions) ? base : `${base}/${fecha}`
+  if (!isMultiVersion(versions)) return normaHref(n.tipo, n.numero)
+  return fecha === currentFecha(versions) ? normaHref(n.tipo, n.numero) : normaHref(n.tipo, n.numero, fecha)
 }

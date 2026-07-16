@@ -3,6 +3,7 @@
 import { useQuery } from '@tanstack/react-query'
 import { useRouter } from 'next/navigation'
 import { fetchModifiedBy, type ModifierRow } from '@/lib/modifiedBy'
+import { normaHref } from '@/lib/href'
 
 interface Props {
   /** idNorma of the law currently in view (the modified target). */
@@ -53,7 +54,7 @@ export function ModifiedByPanel({ targetId }: Props) {
   // to the bare /:tipo/:numero — the norma route redirects to that law's
   // latest version, and the new IDE route registers the tab on mount.
   const openModifier = (row: ModifierRow) => {
-    router.push(`/${row.modifierTipo}/${row.modifierNumero}`)
+    router.push(normaHref(row.modifierTipo, row.modifierNumero))
   }
 
   const jumpToTouchHere = (row: ModifierRow) => {

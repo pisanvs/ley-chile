@@ -1,4 +1,3 @@
-import { Suspense } from 'react'
 import { notFound } from 'next/navigation'
 import { RESERVED_TIPOS, SITE } from '@/lib/jsonld'
 import { canonicalPath, currentFecha, getNorma, getVersions } from '@/lib/norma'
@@ -19,15 +18,13 @@ export async function generateMetadata({ params }: Props) {
   }
 }
 
+// Deliberately NOT wrapped in <Suspense>: resolve BEFORE anything streams.
+// Streaming the shell first sends headers (HTTP 200), after which notFound()
+// can no longer change the status — a request for a nonexistent norma would
+// return 200 with 404 content. Across ~333k pages that soft-404 is exactly the
+// SEO failure this port exists to avoid. (The boundary was only needed under
+// `cacheComponents`, which is now disabled.)
 export default async function Page({ params }: Props) {
-  return (
-    <Suspense fallback={null}>
-      <Resolve params={params} />
-    </Suspense>
-  )
-}
-
-async function Resolve({ params }: Props) {
   const { tipo, numero } = await params
   if (RESERVED_TIPOS.has(tipo)) notFound()
   const norma = await getNorma(tipo, numero)

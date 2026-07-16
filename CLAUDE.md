@@ -179,7 +179,7 @@ Collisions (same `numero`, different `idNorma`) get a `-{idNorma}` suffix.
 
 ## Frontend
 
-> **Migration in progress (`feat/railway-ssr`).** The `web/` SPA below is being superseded by the server-rendered `site/` app on Railway (see **Railway SSR** section). Until DNS cuts over to Railway, `web/` remains the live GitHub Pages frontend, so its source must stay buildable — the TypeScript segmentation in `web/src/lib/segment.ts` still has runtime consumers (`blame.ts`, `RedlineReader.tsx`) and must not be deleted before `web/` is retired.
+> **Railway SSR is live** at https://leyes.pisanvs.cl (custom domain, DNS cut over — see **Railway SSR** section), a faithful 1:1 port of this SPA. GitHub Pages at `https://pisanvs.github.io/ley-chile/` (below) is still live and `web/` has **not** been retired — its source must stay buildable. The TypeScript segmentation in `web/src/lib/segment.ts` still has runtime consumers (`blame.ts`, `RedlineReader.tsx`) and must not be deleted.
 
 The SPA lives in `web/` (Vite + React 19 + TypeScript + Tailwind 4 + TanStack Router/Query). The deploy target is the orphan `pages` branch, mounted as a worktree at `web/dist/`. GH Pages serves it at `https://pisanvs.github.io/ley-chile/`.
 
@@ -209,22 +209,31 @@ CI workflow `.github/workflows/build-pages.yml` rebuilds end-to-end on every `hi
 
 ## Railway SSR (`site/` + loader)
 
-Server-rendered port of the frontend (spec: `docs/superpowers/specs/2026-07-09-railway-ssr-port-design.md`). `git` (the `historial` branch) stays the single source of truth; **Postgres and Meilisearch are derived, droppable read models** — rebuilt from snapshot artifacts, never authoritative.
+Server-rendered port of the frontend (spec: `docs/superpowers/specs/2026-07-09-railway-ssr-port-design.md`), live at **https://leyes.pisanvs.cl**. `git` (the `historial` branch) stays the single source of truth; **Postgres and Meilisearch are derived, droppable read models** — rebuilt from snapshot artifacts, never authoritative.
+
+**Deployment.** Runs in a sponsored Railway project: workspace **Damian Panes's Projects**, project **`belmar`** (not the pisanvs workspace). Services: `Postgres`, `getmeili/meilisearch:v1.9.0` (deployed from Railway's Meilisearch template), `web`, `loader`.
 
 **Data flow.** The pipeline's export step (`scripts/export_snapshot.py`) walks `historial` + `graph.json` into gzipped NDJSON snapshot artifacts (a `manifest.json` + sharded `normas/versions/articulos/spans/mods/events`), published as a GitHub Release. The loader ingests them:
 
 ```
-export_snapshot.py  → NDJSON artifacts (manifest + shards) → GitHub Release
-loader.main         → load → verify → retier → index → revalidate
-                      (Postgres read model + Meilisearch hot tier)
-site/ (Next.js 16)  → SSR pages + tiered search, on Railway
+export_snapshot.py    → NDJSON artifacts (manifest + shards) → GitHub Release
+loader.fetch_and_load  → downloads latest snapshot-* Release → loader.main
+loader.main            → load → verify → retier → index → revalidate
+                         (Postgres read model + Meilisearch hot tier)
+site/ (Next.js 16)     → SSR pages + tiered search, on Railway
 ```
 
 `loader.main` runs the phases in order — **verify before index**, so search never publishes text that failed to reconstruct; **retier before index**, so a norma promoted this run is indexed the same run (indexing reads `index_tier='full'`). It indexes `touched ∪ promoted`, not just the delta.
 
+**Frontend (`site/`).** A faithful 1:1 port of the `web/` SPA, not a simplified reader: the 3-pane `IDEShell`, `TabBar`, `TopBar` (GitHub-stars badge), `CmdK` palette, `RedlineReader` (redline / side-by-side / clean / source modes), `ArticleSegment` with annotations, `VersionScrubber`, `RightRail` panels, `YearRibbon` landing + `TerminalDemo` — copied from `web/` with only TanStack Router → Next navigation adapted. The static-JSON datasource is replaced by Next API routes returning the same shapes from Postgres: `/api/idx/commits/[id]`, `/api/idx/modifies/[id]`, `/api/idx/modified_by/[id]`, `/api/idx/landing`, `/api/idx/titles`, `/api/idx/by-year/[year]`, `/api/text/[id]/[fecha]`. `cacheComponents` is **disabled** in `next.config.ts` (the client IDE fetches via react-query; the `use cache` loader was removed).
+
+**Export & loader.** `export_snapshot.py` has two paths: `export_delta` (per-norma `git log`/`cat-file`, used for `--only` deltas) and `export_bulk` (full corpus — two full-history `git log` passes + chunked `cat-file` batches, replacing ~714k subprocess spawns); `tests/test_export_snapshot_bulk.py` asserts byte-identical output between the two. `.github/workflows/export-snapshot.yml` (workflow_dispatch) does a full single-branch clone of `historial` (must be full, not `--filter=blob:none` — export cat-files every version's blobs) + bulk export + publishes a `snapshot-N` GitHub Release; it's registered on `main` (workflow_dispatch requires the workflow to exist on the default branch to be dispatchable) and run with `--ref deploy/railway`. Full-corpus export measured: 333,020 normas · 343,967 versions · 872,230 articulos · 1,011,532 spans · 11,769 mods (~19 min clone + ~43 min export). `scripts/loader/fetch_and_load.py` is the Railway `loader` entrypoint: downloads the latest `snapshot-*` Release via the CDN `browser_download_url` (dodges the API rate limit) into `ARTIFACTS_DIR`, then runs `loader.main` (`Dockerfile.loader` CMD: `python -m loader.fetch_and_load`). `loader.main` now reads every `normas-*` shard (was `next(glob(...))`, which loaded only the first 50k-row shard and crashed loading versions referencing the rest — a full snapshot spans 8 normas shards) and skips the per-norma `replace_norma` sweep on a fresh empty load. `index_meili.sync_articulos` batches document adds via `add_documents_in_batches` (`ADD_BATCH`) and chunks the delete filter — sending all ~320k article docs in one `add_documents` call previously stalled the loader indefinitely. `scripts/loader/reindex.py` rebuilds the Meilisearch hot tier from an already-loaded, already-verified Postgres with no reload/re-verify (`PYTHONPATH=scripts python -m loader.reindex`). Live tier split measured: 28,453 normas `index_tier='full'` (~319,819 article docs indexed) vs 304,567 `meta` (Postgres FTS cold path).
+
 **Data model.** Schema in `sql/001_schema.sql` (needs `btree_gist`). One `articulo` row per distinct body (deduped by `content_sha256` = sha256 of heading+body); `articulo_span` carries the validity window (`vigencia` daterange) and `ord`, with `EXCLUDE USING gist` forbidding overlapping versions. Segmentation is now **Python only** (`scripts/segment.py`, the single source of truth per spec §6.2); `scripts/spans.py` builds articles/spans; `scripts/schemas/snapshot.py` defines the artifact rows. The **validation gate** (`python -m loader.verify` → `GATE PASSED: every version reconstructs`) is the binary acceptance criterion: it reconstructs each version's canonical text and compares its sha256 to `version.canonical_sha256`.
 
 **Tiered search.** Meilisearch holds the hot tier (`norma.index_tier='full'` — seeded legislation + usage-promoted normas); Postgres `tsvector` FTS is the exhaustive cold path over `index_tier='meta'`. A `cold_surface` event (Meili missed, Postgres hit) drives promotion (`scripts/loader/retier.py`). Analytics live in `analytics.event` (Postgres) with **no user dimension** collected.
+
+**MCP server.** `site/app/api/[transport]/route.ts` is a stateless Streamable HTTP MCP server (`mcp-handler`) at **`https://leyes.pisanvs.cl/api/mcp`**, read-only, no auth. Tools: `search_laws`, `get_law`, `get_article`, `list_versions`, `diff_versions`, `get_modifications`, `search_articles`; output is deliberately capped (one norma can be ~350KB). The `[transport]` segment lives under `/api` because `app/[transport]` would collide with `app/[tipo]/[numero]` — static `/api/*` siblings still win over the dynamic segment.
 
 **Local dev / running the loader:**
 
@@ -250,7 +259,7 @@ cd site && pnpm build          # standalone production build (Railway target)
 cd site && pnpm vitest run && pnpm tsc --noEmit   # tests + typecheck
 ```
 
-**Loader env:** `DATABASE_URL`, `MEILI_URL`, `MEILI_MASTER_KEY`; `INDEX_BUDGET_BYTES` (hot-tier byte budget, default 4 GiB); `REVALIDATE_URL`/`REVALIDATE_TOKEN` (POST to `site/app/api/revalidate` → `revalidateTag`). **Site env:** `DATABASE_URL`, `MEILI_URL`, `MEILI_SEARCH_KEY`, `SITE_URL`.
+**Loader env:** `DATABASE_URL`, `MEILI_URL`, `MEILI_MASTER_KEY`; `INDEX_BUDGET_BYTES` (hot-tier byte budget, default 4 GiB); `REVALIDATE_URL`/`REVALIDATE_TOKEN` (POST to `site/app/api/revalidate` → `revalidateTag`); `fetch_and_load.py` adds `SNAPSHOT_REPO`, `ARTIFACTS_DIR`, optional `GITHUB_TOKEN`. **Site env:** `DATABASE_URL`, `MEILI_URL`, `MEILI_SEARCH_KEY`, `SITE_URL`.
 
 **Gotchas.**
 - Python tests default to `-m "not integration"`; the DB-backed suite runs only with `DATABASE_URL` set (integration tests skip *silently* without it — confirm the summary says `N passed`, not `N skipped`).
@@ -258,5 +267,7 @@ cd site && pnpm vitest run && pnpm tsc --noEmit   # tests + typecheck
 - `site/` pins `typescript` to **5.x** — an unpinned `pnpm add -D typescript` floats to the 7.0.x (`tsgo`) preview, which breaks Next 16's build type-checker. Never paper over it with `ignoreBuildErrors`.
 - `pnpm` inside `site/` works only because `site/package.json` declares `"packageManager": "pnpm@9.15.0"` (corepack otherwise honors the yarn pin in `~/package.json`).
 - Railway runs the web service as a **single replica** (`use cache` is in-process memory) with app-sleeping off (a 502 to Googlebot on a cold page defeats the port's SEO purpose).
-
-**Known open issue:** under `cacheComponents` (PPR), a request for a non-existent norma returns HTTP **200** with 404 content (a "soft 404") instead of a true 404 — an upstream Next.js bug ([vercel/next.js#95380](https://github.com/vercel/next.js/issues/95380), fix PR #95561). Track upstream and update Next when it merges; a node-runtime middleware existence-gate is a possible interim workaround.
+- `/api/text/[id]/[fecha]` must emit a `#### ` prefix on article headings. Segmentation stores the rewritten heading (e.g. "Artículo 1º") with `####` stripped, but the reader re-segments this text client-side and `segment()`'s `_MD_HEADING_RE` needs the `#### ` marker to split articles — without it `segment()` returns one `__doc__` blob and the redline word-diffs the entire document.
+- The reader resolves `(tipo, numero) → idNorma` **server-side** and passes `idNorma` to the client — a bare `numero` lookup collides at full-corpus scale (an internal `id_norma` can equal an unrelated law's `numero`; e.g. `/ley/20780` matched a decreto with `id_norma` 20780).
+- **Never wrap the norma routes' resolve in `<Suspense>`.** `app/[tipo]/[numero]/page.tsx` and its `[fecha]` sibling `await getNorma()` and call `notFound()` *before* anything streams, on purpose. Streaming a shell first commits the headers (HTTP 200), after which `notFound()` can no longer set the status — every miss becomes a soft-404 (200 with 404 content), which across ~333k pages is precisely the SEO failure this port exists to prevent. Measured: with the boundary in place, `/ley/99999999` returned 200. The boundary was only ever required by `cacheComponents`; with PPR off it must stay off these routes. Verify with `curl -o /dev/null -w '%{http_code}' <site>/ley/99999999` → must be 404.
+- `cacheComponents` (PPR) is disabled in `next.config.ts`. It was also implicated in the same soft-404 symptom upstream ([vercel/next.js#95380](https://github.com/vercel/next.js/issues/95380)). Re-evaluate both this and the Suspense constraint above before re-enabling it.

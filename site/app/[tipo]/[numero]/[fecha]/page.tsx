@@ -1,4 +1,3 @@
-import { Suspense } from 'react'
 import { notFound } from 'next/navigation'
 import { RESERVED_TIPOS, SITE } from '@/lib/jsonld'
 import { canonicalPath, getNorma, getVersions } from '@/lib/norma'
@@ -18,15 +17,10 @@ export async function generateMetadata({ params }: Props) {
   }
 }
 
+// See the sibling [numero]/page.tsx: deliberately NOT wrapped in <Suspense>, so
+// notFound() can still set a real 404 status. Streaming a shell first commits
+// HTTP 200 and turns every miss into a soft-404.
 export default async function Page({ params }: Props) {
-  return (
-    <Suspense fallback={null}>
-      <Resolve params={params} />
-    </Suspense>
-  )
-}
-
-async function Resolve({ params }: Props) {
   const { tipo, numero, fecha } = await params
   if (RESERVED_TIPOS.has(tipo)) notFound()
   if (!/^\d{4}-\d{2}-\d{2}$/.test(fecha)) notFound()

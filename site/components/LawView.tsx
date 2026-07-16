@@ -11,6 +11,7 @@ import { RightRail } from '@/components/RightRail'
 import { readPrefs, writePrefs } from '@/lib/annotations'
 import { ds } from '@/lib/datasource'
 import { tabs } from '@/lib/tabs'
+import { normaHref } from '@/lib/href'
 
 /** Faithful port of web/'s ley.$numero.$fecha route. `fecha` optional: when
  *  absent (the undated URL) the latest version is shown. */
@@ -124,7 +125,7 @@ export function LawView({ tipo, numero, idNorma, fecha }: { tipo: string; numero
         <VersionScrubber
           commits={idx.commits}
           activeSha={active?.sha ?? null}
-          onPick={c => router.push(`/${tipo}/${numero}/${c.date}`)}
+          onPick={c => router.push(normaHref(tipo, numero, c.date))}
         />
         <div className="flex flex-wrap items-center gap-2">
           <ModeToggle mode={effectiveMode} setMode={onMode} canDiff={!isOriginal} />

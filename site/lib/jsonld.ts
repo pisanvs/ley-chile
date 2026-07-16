@@ -1,3 +1,4 @@
+import { normaHref } from './href'
 import { currentFecha, type Norma, type Version } from './norma'
 
 export const SITE = process.env.SITE_URL ?? 'https://leychile.dev'
@@ -24,6 +25,6 @@ export function legislationJsonLd(
       '@type': 'Legislation',
       legislationIdentifier: String(id),
     })),
-    url: `${SITE}/${n.tipo}/${n.numero}${isCurrent ? '' : `/${fecha}`}`,
+    url: normaHref(n.tipo, n.numero, isCurrent ? undefined : fecha, undefined, SITE),
   }
 }

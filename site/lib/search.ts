@@ -66,6 +66,50 @@ export async function searchHot(q: string, asOf: string): Promise<Hit[]> {
   }))
 }
 
+export interface ArticleHit {
+  slug: string
+  label: string
+  rawHeading: string
+  snippet: string
+}
+
+/** Search the articles of ONE norma, as of a date.
+ *
+ *  Postgres FTS, not Meilisearch: this must work for any norma, and Meili only
+ *  holds the hot tier (~8% of the corpus). Scoped by id_norma, so exhaustive
+ *  within the law regardless of tier. Powers the MCP `search_articles` tool —
+ *  "where does this law talk about X" without pulling its whole text.
+ */
+export async function searchArticles(
+  idNorma: number, q: string, asOf: string,
+): Promise<ArticleHit[]> {
+  const { rows } = await pool.query(
+    `SELECT DISTINCT ON (a.slug)
+            a.slug, a.label, a.raw_heading,
+            ts_headline('spanish', a.body, websearch_to_tsquery('spanish', $2),
+                        'MaxWords=45, MinWords=18') AS snippet,
+            ts_rank_cd(a.tsv, websearch_to_tsquery('spanish', $2)) AS rank
+       FROM articulo a
+       JOIN articulo_span s ON s.articulo_id = a.id
+      WHERE a.id_norma = $1
+        AND a.tsv @@ websearch_to_tsquery('spanish', $2)
+        AND s.vigencia @> $3::date
+      ORDER BY a.slug, rank DESC`,
+    [idNorma, q, asOf],
+  )
+  return rows
+    .map(r => ({
+      slug: r.slug as string,
+      label: r.label as string,
+      rawHeading: (r.raw_heading ?? '') as string,
+      snippet: (r.snippet ?? '') as string,
+      rank: r.rank as number,
+    }))
+    .sort((a, b) => b.rank - a.rank)
+    .slice(0, 25)
+    .map(({ slug, label, rawHeading, snippet }) => ({ slug, label, rawHeading, snippet }))
+}
+
 /** Cold path: exhaustive Postgres FTS over the tier Meilisearch does not hold.
  *  The `index_tier = 'meta'` predicate keeps the two result sets disjoint.
  *  This is also what stops the promotion policy from being self-fulfilling. */

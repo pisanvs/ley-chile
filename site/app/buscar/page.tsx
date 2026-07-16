@@ -2,6 +2,7 @@ import { Suspense } from 'react'
 import Link from 'next/link'
 import { recordEvent } from '@/lib/analytics'
 import { needsColdPath, normalizeQuery, searchCold, searchHot, type Hit } from '@/lib/search'
+import { normaHref } from '@/lib/href'
 
 const TIPO_LABEL: Record<string, string> = {
   ley: 'Ley', dl: 'Decreto Ley', dfl: 'DFL', dto: 'Decreto', cod: 'Código', res: 'Resolución',
@@ -12,7 +13,7 @@ function ResultCard({ hit }: { hit: Hit }) {
   return (
     <li>
       <Link
-        href={`/${hit.tipo}/${hit.numero}#art-${hit.slug}`}
+        href={normaHref(hit.tipo, hit.numero, undefined, `art-${hit.slug}`)}
         className="block rounded-xl border border-rule bg-paper-raised p-4 transition-colors hover:border-indigo/60"
       >
         <div className="text-xs font-medium uppercase tracking-[0.14em] text-ink-faint">
