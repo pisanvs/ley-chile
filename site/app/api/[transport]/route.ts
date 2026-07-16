@@ -2,11 +2,12 @@ import { createMcpHandler } from 'mcp-handler'
 import { z } from 'zod'
 import {
   currentFecha, getArticlesAsOf, getModifiedBy, getModifies, getNorma, getVersions,
-  type Article,
+  type Article, type Version,
 } from '@/lib/norma'
 import { needsColdPath, searchArticles, searchCold, searchHot } from '@/lib/search'
 import { align, joinDiffText, wordDiff } from '@/lib/diff'
 import { SITE } from '@/lib/jsonld'
+import { RAW, REPO } from '@/lib/site'
 import { normaHref } from '@/lib/href'
 
 /**
@@ -38,6 +39,14 @@ async function resolve(tipo: string, numero: string) {
 
 function lawUrl(tipo: string, numero: string, fecha?: string) {
   return normaHref(tipo, numero, fecha, undefined, SITE)
+}
+
+/** The version in force on `fecha`. `hasta` is INCLUSIVE — it holds the day
+ *  before the next version's `desde` (…hasta 2026-02-04, then desde
+ *  2026-02-05), so the comparison must be <=, not <. With <, the final day of
+ *  every version reports as having no text. */
+function versionAt(versions: Version[], fecha: string): Version | undefined {
+  return versions.find((v) => v.desde <= fecha && (v.hasta === null || fecha <= v.hasta))
 }
 
 const handler = createMcpHandler(
@@ -213,6 +222,63 @@ const handler = createMcpHandler(
           `${versions.length} versión(es):\n\n${lines.join('\n')}\n\n` +
           `Compara dos con diff_versions.`,
         )
+      },
+    )
+
+    server.registerTool(
+      'get_raw_link',
+      {
+        title: 'Enlace al texto completo',
+        description:
+          'Enlaces al texto íntegro y sin recortar de una norma, para descargarlo directamente. ' +
+          'Úsalo cuando get_law o get_article devuelvan texto truncado, cuando necesites la ley ' +
+          'completa de una vez, o cuando quieras citar una fuente inmutable: el enlace a texto.md ' +
+          'apunta al commit exacto que publicó esa versión, así que su contenido nunca cambia. ' +
+          'Devuelve enlaces, no el texto: una norma puede pesar cientos de KB.',
+        inputSchema: {
+          tipo: z.string().describe('Tipo: ley, dl, dfl, dto, cod, res…'),
+          numero: z.string().describe('Número de la norma'),
+          asOf: z
+            .string()
+            .optional()
+            .describe('Fecha YYYY-MM-DD; por defecto la versión vigente'),
+        },
+      },
+      async ({ tipo, numero, asOf }) => {
+        const norma = await resolve(tipo, numero)
+        if (!norma) return text(`No se encontró ${tipo} ${numero}.`)
+        const versions = await getVersions(norma.idNorma)
+        const fecha = asOf ?? currentFecha(versions)
+        const v = versionAt(versions, fecha)
+        if (!v) {
+          return text(
+            `${tipo.toUpperCase()} ${numero} no tenía texto vigente al ${fecha}. ` +
+            `Su primera versión es del ${versions[0]?.desde}. Usa list_versions.`,
+          )
+        }
+
+        // Two different artefacts, deliberately both offered:
+        //   texto.md is the byte-exact source as committed — immutable, citable.
+        //   /api/text is reconstructed per-article from Postgres, so it answers
+        //   for ANY date, including ones with no commit of their own.
+        const lines = [
+          `${tipo.toUpperCase()} ${numero} — ${norma.titulo}`,
+          `Versión vigente al ${fecha} (rige desde ${v.desde}${v.hasta ? ` hasta ${v.hasta}` : ', vigente'}).`,
+          '',
+          `Texto fuente (markdown, inmutable, fijado al commit que publicó esta versión):`,
+          `  ${RAW}/${v.commitSha}/${norma.lawDir}/texto.md`,
+          '',
+          `Texto reconstruido (markdown, mismo contenido servido por este sitio):`,
+          `  ${SITE}/api/text/${norma.idNorma}/${fecha}`,
+          '',
+          `Commit que publicó esta versión${v.subject ? ` — ${v.subject}` : ''}:`,
+          `  ${REPO}/commit/${v.commitSha}`,
+          `  ${REPO}/commit/${v.commitSha}.diff  (solo el cambio, en formato diff)`,
+          '',
+          `Página legible: ${lawUrl(tipo, numero, fecha)}`,
+          `Fuente oficial (BCN, bloquea clientes automatizados): https://www.bcn.cl/leychile/navegar?idNorma=${norma.idNorma}`,
+        ]
+        return text(lines.join('\n'))
       },
     )
 

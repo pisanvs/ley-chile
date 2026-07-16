@@ -13,3 +13,10 @@ export const SITE = (process.env.SITE_URL ?? 'https://leyes.pisanvs.cl').replace
 
 /** The remote MCP endpoint. Agents connect here; see /llms.txt. */
 export const MCP_PATH = '/api/mcp'
+
+/** The public repo. Branch `historial` holds one commit per publication. */
+export const REPO = 'https://github.com/pisanvs/ley-chile'
+
+/** Raw file host for the same repo — `{RAW}/{sha}/{law_dir}/texto.md` pins a
+ *  law's text to the exact commit that published that version. */
+export const RAW = 'https://raw.githubusercontent.com/pisanvs/ley-chile'

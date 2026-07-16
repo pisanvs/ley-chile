@@ -1,4 +1,5 @@
 import { SITE } from '@/lib/jsonld'
+import { REPO } from '@/lib/site'
 
 /** /llms.txt — agent-readable instructions for this corpus.
  *
@@ -7,8 +8,6 @@ import { SITE } from '@/lib/jsonld'
  *  endpoint first, then the plain HTTP shapes for agents that don't speak MCP.
  *  Static (no DB), so it never fails and never goes stale against the data. */
 export const dynamic = 'force-static'
-
-const REPO = 'https://github.com/pisanvs/ley-chile'
 
 function body(): string {
   return `# LeyChile
@@ -36,6 +35,7 @@ Herramientas disponibles:
 - get_law(tipo, numero, fecha?)                  — metadatos + índice de artículos + versiones
 - get_article(tipo, numero, articulo, fecha?)    — el texto de un artículo
 - list_versions(tipo, numero)                    — cada fecha en que la norma cambió, y qué la causó
+- get_raw_link(tipo, numero, asOf?)              — enlaces al texto íntegro sin recortar (y al commit que lo publicó)
 - diff_versions(tipo, numero, desde, hasta)      — qué cambió entre dos versiones (diff palabra por palabra)
 - get_modifications(tipo, numero)                — grafo modificadora → modificada
 
