@@ -196,6 +196,8 @@ export default function TimeMachine() {
         </div>
       </section>
 
+      <MCPConnect />
+
       <section className="px-6 md:px-12 max-w-5xl mx-auto pb-12">
         <div className="flex items-baseline justify-between mb-4">
           <h2 className="font-display text-xl">Densidad legislativa por año</h2>
@@ -293,8 +295,6 @@ export default function TimeMachine() {
           </div>
         )}
       </section>
-
-      <MCPConnect />
 
       <ResearchSection />
 
