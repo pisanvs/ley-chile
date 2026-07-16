@@ -1,7 +1,10 @@
 import { normaHref } from './href'
 import { currentFecha, type Norma, type Version } from './norma'
+import { SITE } from './site'
 
-export const SITE = process.env.SITE_URL ?? 'https://leychile.dev'
+// Re-exported so the existing `@/lib/jsonld` importers (sitemap, robots,
+// llms.txt, MCP, the reader routes) keep resolving to the one constant.
+export { SITE }
 
 /** `tipo` is the first path segment, so these names can never be a tipo. */
 export const RESERVED_TIPOS = new Set(['buscar', 'api', 'sitemap', 'robots', '_next'])

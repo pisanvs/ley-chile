@@ -1,6 +1,7 @@
-import { notFound } from 'next/navigation'
+import { notFound, permanentRedirect } from 'next/navigation'
 import { RESERVED_TIPOS, SITE } from '@/lib/jsonld'
-import { canonicalPath, currentFecha, getNorma, getVersions } from '@/lib/norma'
+import { canonicalPath, currentFecha, getNorma, getVersions, resolveAlias } from '@/lib/norma'
+import { normaHref } from '@/lib/href'
 import { LawView } from '@/components/LawView'
 
 interface Props { params: Promise<{ tipo: string; numero: string }> }
@@ -28,6 +29,12 @@ export default async function Page({ params }: Props) {
   const { tipo, numero } = await params
   if (RESERVED_TIPOS.has(tipo)) notFound()
   const norma = await getNorma(tipo, numero)
-  if (!norma) notFound()
+  if (!norma) {
+    // 308 rather than 404 when the norma exists but was addressed by idNorma or
+    // under the wrong tipo. See resolveAlias.
+    const alias = await resolveAlias(numero)
+    if (alias) permanentRedirect(normaHref(alias.tipo, alias.numero))
+    notFound()
+  }
   return <LawView tipo={tipo} numero={numero} idNorma={norma.idNorma} />
 }

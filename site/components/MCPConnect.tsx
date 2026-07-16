@@ -2,6 +2,8 @@
 
 import { useState } from 'react'
 
+import { MCP_PATH, SITE } from '@/lib/site'
+
 /**
  * "Añádelo a tu agente" — the MCP endpoint plus one-click install per client.
  *
@@ -10,10 +12,10 @@ import { useState } from 'react'
  * a link exists.
  */
 
+// Prefer the live origin so previews advertise themselves, not production;
+// fall back to the canonical constant during SSR.
 const MCP_URL =
-  typeof window !== 'undefined'
-    ? `${window.location.origin}/api/mcp`
-    : 'https://leyes.pisanvs.cl/api/mcp'
+  typeof window !== 'undefined' ? `${window.location.origin}${MCP_PATH}` : `${SITE}${MCP_PATH}`
 
 const NAME = 'leychile'
 

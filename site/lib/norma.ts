@@ -28,19 +28,21 @@ export interface Article {
   ord: number
 }
 
+function toNorma(r: Record<string, any>): Norma {
+  return {
+    idNorma: r.id_norma, tipo: r.tipo, numero: r.numero, titulo: r.titulo,
+    organismo: r.organismo, derogado: r.derogado,
+    fechaPublicacion: r.fecha_publicacion, lawDir: r.law_dir,
+  }
+}
+
 export async function getNorma(tipo: string, numero: string): Promise<Norma | null> {
   const { rows } = await pool.query(
     `SELECT id_norma, tipo, numero, titulo, organismo, derogado, fecha_publicacion, law_dir
        FROM norma WHERE tipo = $1 AND numero = $2 LIMIT 1`,
     [tipo, numero],
   )
-  if (!rows[0]) return null
-  const r = rows[0]
-  return {
-    idNorma: r.id_norma, tipo: r.tipo, numero: r.numero, titulo: r.titulo,
-    organismo: r.organismo, derogado: r.derogado,
-    fechaPublicacion: r.fecha_publicacion, lawDir: r.law_dir,
-  }
+  return rows[0] ? toNorma(rows[0]) : null
 }
 
 export async function getVersions(idNorma: number): Promise<Version[]> {
@@ -68,6 +70,52 @@ export async function getArticlesAsOf(idNorma: number, fecha: string): Promise<A
   return rows.map(r => ({
     slug: r.slug, label: r.label, rawHeading: r.raw_heading, body: r.body, ord: r.ord,
   }))
+}
+
+/** Resolve a norma by its internal BCN idNorma.
+ *
+ *  Causa links (blame badges, "modificada por", chronology jumps) address a
+ *  norma by idNorma, not numero — the SPA's resolveToIdNorma accepted either.
+ *  The reader routes use this to redirect an idNorma URL to its canonical
+ *  /{tipo}/{numero}. Returns null when the causa isn't in the corpus: ~1.8k of
+ *  the ~334k referenced causas have no norma row, because the export only emits
+ *  normas that have their own law_dir + texto.md in historial.
+ */
+export async function getNormaById(idNorma: number): Promise<Norma | null> {
+  const { rows } = await pool.query(
+    `SELECT id_norma, tipo, numero, titulo, organismo, derogado, fecha_publicacion, law_dir
+       FROM norma WHERE id_norma = $1 LIMIT 1`,
+    [idNorma],
+  )
+  return rows[0] ? toNorma(rows[0]) : null
+}
+
+/** Last resort for a URL that missed as {tipo}/{numero}, covering the two ways
+ *  a legitimate norma gets addressed wrong:
+ *
+ *  1. An idNorma in the numero slot. Causa links (blame badges, "modificada
+ *     por", chronology jumps) carry an idNorma; the SPA's resolveToIdNorma
+ *     accepted either, the server routes resolve (tipo, numero) strictly.
+ *  2. The right numero under the wrong tipo. BCN files ~700 leyes as `otras`
+ *     (ley 21.659 lives at /otras/21659), so /ley/{numero} is the natural — and
+ *     wrong — guess a human or a search engine makes.
+ *
+ *  Only redirect when the answer is unambiguous: numero is not unique across
+ *  tipos, and small idNormas collide with numeros outright (/ley/20780 once
+ *  served a decreto that way). A guess here is worse than a 404, so a numero
+ *  matching more than one norma falls through.
+ */
+export async function resolveAlias(numero: string): Promise<Norma | null> {
+  if (!/^\d+$/.test(numero)) return null
+  const { rows } = await pool.query(
+    `SELECT id_norma, tipo, numero, titulo, organismo, derogado, fecha_publicacion, law_dir
+       FROM norma WHERE numero = $1 LIMIT 2`,
+    [numero],
+  )
+  if (rows.length === 1) return toNorma(rows[0])
+  if (rows.length > 1) return null // ambiguous across tipos — don't guess
+  const id = Number(numero)
+  return Number.isSafeInteger(id) ? getNormaById(id) : null
 }
 
 export interface ModLink {
