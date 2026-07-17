@@ -78,7 +78,27 @@ export function TopBar({ crumb }: Props) {
             <span className="text-sm text-ink-soft truncate max-w-[40ch]">{crumb}</span>
           </>
         )}
-        <div className="ml-auto flex items-center gap-2">
+        <nav className="ml-auto hidden md:flex items-center gap-1 text-xs" aria-label="Secciones">
+          <Link
+            href="/temas"
+            className="px-2 py-1 rounded-md text-ink-soft hover:text-ink hover:bg-paper-sunk transition"
+          >
+            Temas
+          </Link>
+          <Link
+            href="/guia"
+            className="px-2 py-1 rounded-md text-ink-soft hover:text-ink hover:bg-paper-sunk transition"
+          >
+            Guías
+          </Link>
+          <Link
+            href="/blog"
+            className="px-2 py-1 rounded-md text-ink-soft hover:text-ink hover:bg-paper-sunk transition"
+          >
+            Blog
+          </Link>
+        </nav>
+        <div className="ml-auto md:ml-3 flex items-center gap-2">
           <button
             onClick={open}
             onMouseEnter={prefetch}

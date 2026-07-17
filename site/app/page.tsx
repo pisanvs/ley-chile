@@ -387,7 +387,7 @@ function ResearchSection() {
         </h2>
         <p className="text-ink-soft text-[14.5px] leading-relaxed max-w-2xl mb-8">
           La infraestructura está en marcha; sobre ella construimos. Si algo
-          te interesa, escribenos un issue en GitHub o abrí un PR.
+          te interesa, escríbenos un issue en GitHub o abre un PR.
         </p>
 
         <div className="grid md:grid-cols-2 gap-4">
