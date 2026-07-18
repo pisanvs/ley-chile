@@ -58,11 +58,13 @@ function identityLine(n: Norma): string {
   return `${n.tipo.toUpperCase()} ${n.numero}${org}${year} · idNorma ${n.idNorma}`
 }
 
+// Counts are the live ones (get_law reports the same figures) — an agent that
+// sees "79 DFL 4" here and "75" in the next response learns to distrust both.
 const ID_NORMA_PARAM = z.number().int().optional().describe(
   'idNorma exacto — el identificador único de LeyChile. Necesario cuando varias normas ' +
-  'comparten (tipo, número), que es el caso del 91,7% del corpus: hay 79 "DFL 4" y 235 ' +
-  '"DFL 1", de distintos organismos y años. Obtenlo de search_laws o de la lista que ' +
-  'devuelven estas herramientas cuando la clave es ambigua.',
+  'comparten (tipo, número), que es el caso de más del 90% del corpus: hay 75 "DFL 4", ' +
+  '227 "DFL 1" y 525 "DTO 1", de distintos organismos y años. Obtenlo de search_laws o ' +
+  'de la lista que devuelven estas herramientas cuando la clave es ambigua.',
 )
 
 const AMBIGUITY_NOTE =

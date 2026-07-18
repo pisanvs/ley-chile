@@ -575,8 +575,35 @@ def _record_relations(rel_map: dict[int, list[dict]]) -> set[int]:
                 if src_num and src_num not in tgt_node["modifica"]:
                     tgt_node["modifica"].append(src_num)
                     changed = True
-            # recasts / isRecastedBy: followed for ingestion only (referenced),
-            # no dedicated graph fields.
+            # Texto refundido. BCN is the only source that states this relation
+            # with real idNormas — metadatos.refundido_por gives tipo-numero
+            # tokens ("DFL-2; DFL-2-95") which cannot be resolved, since "DFL 2"
+            # names 138 different normas.
+            #
+            # It matters because a refundido RENUMBERS articles. Working from a
+            # base law and assuming the consolidated text is close enough
+            # silently produces wrong article numbers and wrong cross-
+            # references; carrying the edge lets a reader be sent to the text
+            # that is actually in force instead of guessing.
+            #
+            # setdefault, not [...]: nodes created before this field existed do
+            # not carry the keys.
+            elif rel == "recasts":
+                # src consolidates tgt (tgt is the older, superseded text).
+                if tgt not in src_node.setdefault("refunde", []):
+                    src_node["refunde"].append(tgt)
+                    changed = True
+                if src not in tgt_node.setdefault("refundidaEn", []):
+                    tgt_node["refundidaEn"].append(src)
+                    changed = True
+            elif rel == "isRecastedBy":
+                # src is superseded by tgt (tgt is the consolidated text).
+                if tgt not in src_node.setdefault("refundidaEn", []):
+                    src_node["refundidaEn"].append(tgt)
+                    changed = True
+                if src not in tgt_node.setdefault("refunde", []):
+                    tgt_node["refunde"].append(src)
+                    changed = True
 
     if changed:
         _save_and_commit_graph(

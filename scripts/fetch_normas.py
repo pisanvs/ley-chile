@@ -189,8 +189,55 @@ def parse_node(id_norma: int, data: dict, existing_node: dict | None = None) -> 
     )
     if boletin is not None:
         node["boletin"] = boletin
+    node.update(_lift_extra_metadata(meta))
 
     return node
+
+
+# Metadata LeyChile publishes that the graph used to discard entirely. Each is
+# stored only when present, so the ~357k-node graph grows by roughly the size of
+# the data that actually exists rather than by an empty key per norma.
+#
+# `resumenes` is deliberately NOT lifted: it is HTML, it is large, and we build
+# our own text. Everything here is short.
+_EXTRA_META = (
+    # How people actually refer to a norma — "Código de Comercio", "ley de
+    # partidos". A reader searching the common name currently matches nothing,
+    # because only the formal título is indexed.
+    ("nombres_uso_comun", "nombresUsoComun"),
+    # BCN's subject classification; the best free signal for topic pages and
+    # for ranking a text search that misses the título.
+    ("materias", "materias"),
+    ("terminos_libres", "terminosLibres"),
+    ("categorias_norma", "categoriasNorma"),
+    # Official warnings, and the reason this matters: they flag article-
+    # numbering anomalies ("LA NUMERACION DE LOS ARTICULOS DEL TEXTO PUBLICADO
+    # REPITE EL Nº 2"). Citing an article number in such a norma is actively
+    # dangerous, and LeyChile already tells us so.
+    ("observaciones", "observaciones"),
+    ("doble_articulado", "dobleArticulado"),
+    # "DFL-2; DFL-2-95" — note these are tipo-numero tokens, NOT idNormas, so
+    # they cannot be resolved to a norma on their own (which "DFL 2"? there are
+    # 138). Kept for display and corroboration; the authoritative refundido
+    # edges come from BCN's recasts/isRecastedBy in bulk_fetch.py.
+    ("refundido_por", "refundidoPor"),
+    ("derogacion_tacita", "derogacionTacita"),
+)
+
+
+def _lift_extra_metadata(meta: dict) -> dict:
+    """Carry through the metadata fields the graph previously dropped.
+
+    Empty values are skipped rather than stored as ``""``/``[]`` so a node only
+    grows when LeyChile actually published something.
+    """
+    out: dict = {}
+    for src, dest in _EXTRA_META:
+        value = meta.get(src)
+        if value in (None, "", [], {}, False):
+            continue
+        out[dest] = value
+    return out
 
 
 # ---------------------------------------------------------------------------

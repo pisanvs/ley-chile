@@ -12,6 +12,12 @@ import sys
 from pathlib import Path
 
 import requests
+import sentry_sdk
+
+# dsn=None is a documented no-op — safe to call even without SENTRY_DSN set
+# (e.g. local runs). This is a `restartPolicyType = "never"` cron job, so a
+# silent crash here means a stale read model with nobody watching.
+sentry_sdk.init(dsn=os.environ.get("SENTRY_DSN"), environment=os.environ.get("SENTRY_ENVIRONMENT", "production"))
 
 REPO = os.environ.get("SNAPSHOT_REPO", "pisanvs/ley-chile")
 OUT = Path(os.environ.get("ARTIFACTS_DIR", "/tmp/artifacts"))
@@ -57,10 +63,20 @@ def download_assets(rel: dict) -> None:
 
 
 def main() -> int:
-    rel = latest_snapshot()
-    download_assets(rel)
+    try:
+        rel = latest_snapshot()
+        download_assets(rel)
+    except Exception:
+        sentry_sdk.capture_exception()
+        raise
+
     print("→ loader.main", flush=True)
-    return subprocess.call([sys.executable, "-m", "loader.main", "--artifacts", str(OUT)])
+    code = subprocess.call([sys.executable, "-m", "loader.main", "--artifacts", str(OUT)])
+    if code != 0:
+        # loader.main runs as a subprocess, so its own exceptions never reach
+        # us as Python exceptions — only this exit code does.
+        sentry_sdk.capture_message(f"loader.main exited {code}", level="error")
+    return code
 
 
 if __name__ == "__main__":
