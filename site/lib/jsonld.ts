@@ -14,7 +14,7 @@ export { SITE }
  *  otherwise shadow ~7.8k law URLs silently. */
 export const RESERVED_TIPOS = new Set([
   'buscar', 'api', 'sitemap', 'robots', '_next',
-  'guia', 'cambios', 'temas', 'blog',
+  'guia', 'cambios', 'temas', 'blog', 'norma',
 ])
 
 export function legislationJsonLd(

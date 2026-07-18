@@ -1,6 +1,8 @@
 import { notFound, permanentRedirect } from 'next/navigation'
 import { RESERVED_TIPOS, SITE } from '@/lib/jsonld'
-import { canonicalPath, getNorma, getVersions, resolveAlias } from '@/lib/norma'
+import {
+  canonicalPath, getCanonicalNorma, getKeySiblings, getVersions, resolveAlias,
+} from '@/lib/norma'
 import { normaHref } from '@/lib/href'
 import { LawView } from '@/components/LawView'
 
@@ -9,12 +11,12 @@ interface Props { params: Promise<{ tipo: string; numero: string; fecha: string 
 export async function generateMetadata({ params }: Props) {
   const { tipo, numero, fecha } = await params
   if (RESERVED_TIPOS.has(tipo) || !/^\d{4}-\d{2}-\d{2}$/.test(fecha)) return {}
-  const norma = await getNorma(tipo, numero)
-  if (!norma) return {}
-  const versions = await getVersions(norma.idNorma)
+  const resolved = await getCanonicalNorma(tipo, numero)
+  if (!resolved) return {}
+  const versions = await getVersions(resolved.norma.idNorma)
   return {
-    title: `${norma.titulo} — texto al ${fecha}`,
-    alternates: { canonical: `${SITE}${canonicalPath(norma, fecha, versions)}` },
+    title: `${resolved.norma.titulo} — texto al ${fecha}`,
+    alternates: { canonical: `${SITE}${canonicalPath(resolved.norma, fecha, versions)}` },
   }
 }
 
@@ -25,11 +27,22 @@ export default async function Page({ params }: Props) {
   const { tipo, numero, fecha } = await params
   if (RESERVED_TIPOS.has(tipo)) notFound()
   if (!/^\d{4}-\d{2}-\d{2}$/.test(fecha)) notFound()
-  const norma = await getNorma(tipo, numero)
-  if (!norma) {
+  const resolved = await getCanonicalNorma(tipo, numero)
+  if (!resolved) {
     const alias = await resolveAlias(numero)
     if (alias) permanentRedirect(normaHref(alias.tipo, alias.numero, fecha))
     notFound()
   }
-  return <LawView tipo={tipo} numero={numero} idNorma={norma.idNorma} fecha={fecha} />
+  const { norma, total } = resolved
+  const siblings = total > 1 ? await getKeySiblings(norma.tipo, norma.numero, norma.idNorma) : []
+  return (
+    <LawView
+      tipo={tipo}
+      numero={numero}
+      idNorma={norma.idNorma}
+      fecha={fecha}
+      siblings={siblings}
+      siblingTotal={total}
+    />
+  )
 }

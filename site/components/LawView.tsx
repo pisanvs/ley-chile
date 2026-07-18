@@ -12,14 +12,34 @@ import { readPrefs, writePrefs } from '@/lib/annotations'
 import { ds } from '@/lib/datasource'
 import { tabs } from '@/lib/tabs'
 import { normaHref } from '@/lib/href'
+import type { Sibling } from '@/lib/norma'
 
 /** Faithful port of web/'s ley.$numero.$fecha route. `fecha` optional: when
  *  absent (the undated URL) the latest version is shown. */
 /** `idNorma` is resolved server-side from (tipo, numero) — passing it avoids the
  *  numero/id_norma collision that a client-side numero lookup hits at full
  *  corpus scale (an internal id_norma can equal an unrelated law's numero). */
-export function LawView({ tipo, numero, idNorma, fecha }: { tipo: string; numero: string; idNorma: number; fecha?: string }) {
+export function LawView({
+  tipo, numero, idNorma, fecha, siblings = [], siblingTotal = 1, versionBase,
+}: {
+  tipo: string
+  numero: string
+  idNorma: number
+  fecha?: string
+  /** Other normas sharing this (tipo, numero) — shown so a reader can reach the
+   *  right one when the number is not unique (e.g. several "DFL 1"). */
+  siblings?: Sibling[]
+  /** Total normas sharing the key (including this one). >1 ⇒ show the affordance. */
+  siblingTotal?: number
+  /** URL prefix for dated-version links (a serializable string, since this is a
+   *  client component). Defaults to /{tipo}/{numero}; the /norma/{id} routes pass
+   *  their own so a non-canonical sibling's version navigation stays on that
+   *  sibling instead of jumping to the canonical /{tipo}/{numero}. */
+  versionBase?: string
+}) {
   const router = useRouter()
+  const base = versionBase ?? normaHref(tipo, numero)
+  const toVersion = (date: string) => `${base}/${encodeURIComponent(date)}`
   const [prefs, setPrefs] = useState(readPrefs)
   const [citationCopied, setCitationCopied] = useState(false)
   const [activeSlug, setActiveSlug] = useState<string | null>(null)
@@ -119,13 +139,45 @@ export function LawView({ tipo, numero, idNorma, fecha }: { tipo: string; numero
         {idx.norma.organismo && (
           <div className="text-sm text-ink-soft mt-2 italic">{idx.norma.organismo}</div>
         )}
+
+        {siblingTotal > 1 && (
+          <div className="mt-4 rounded-md border border-rule bg-paper-sunk px-3.5 py-3">
+            <p className="text-[12px] text-ink-soft">
+              Hay <strong className="text-ink">{siblingTotal}</strong> normas con el número{' '}
+              <span className="font-mono">{idx.norma.numero}</span> bajo{' '}
+              <span className="uppercase">{idx.norma.tipo}</span>, de distintos organismos. Esta es{' '}
+              {idx.norma.organismo ? <>la de <em>{idx.norma.organismo}</em></> : 'la más reformada'}.
+            </p>
+            {siblings.length > 0 && (
+              <ul className="mt-2 space-y-1">
+                {siblings.map((s) => (
+                  <li key={s.idNorma}>
+                    <a
+                      href={`/norma/${s.idNorma}`}
+                      className="text-[12px] text-indigo hover:underline"
+                      title={s.titulo}
+                    >
+                      {s.organismo || `norma ${s.idNorma}`}
+                    </a>
+                    <span className="text-[11px] text-ink-faint"> · {s.versions} {s.versions === 1 ? 'versión' : 'versiones'}</span>
+                  </li>
+                ))}
+                {siblingTotal - 1 > siblings.length && (
+                  <li className="text-[11px] text-ink-faint">
+                    …y {siblingTotal - 1 - siblings.length} más
+                  </li>
+                )}
+              </ul>
+            )}
+          </div>
+        )}
       </header>
 
       <div className="mb-6 space-y-3">
         <VersionScrubber
           commits={idx.commits}
           activeSha={active?.sha ?? null}
-          onPick={c => router.push(normaHref(tipo, numero, c.date))}
+          onPick={c => router.push(toVersion(c.date))}
         />
         <div className="flex flex-wrap items-center gap-2">
           <ModeToggle mode={effectiveMode} setMode={onMode} canDiff={!isOriginal} />

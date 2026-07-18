@@ -81,6 +81,61 @@ export async function getNormasByKey(tipo: string, numero: string): Promise<Norm
   return rows.map(toNorma)
 }
 
+/** The canonical norma for a (tipo, numero) key, plus how many normas share it.
+ *  Canonical = most-reformed (tie → lowest idNorma), the same rule the MCP uses,
+ *  so /dfl/1 deterministically lands on the Código del Trabajo rather than an
+ *  arbitrary DFL 1. `total` drives the disambiguation affordance. One query:
+ *  the window count is computed over the full grouped set before LIMIT. */
+export async function getCanonicalNorma(
+  tipo: string, numero: string,
+): Promise<{ norma: Norma; total: number } | null> {
+  const { rows } = await pool.query(
+    `SELECT n.id_norma, n.tipo, n.numero, n.titulo, n.organismo, n.derogado,
+            n.fecha_publicacion, n.law_dir, count(*) OVER() AS total
+       FROM norma n
+       LEFT JOIN version v ON v.id_norma = n.id_norma
+      WHERE n.tipo = $1 AND n.numero = $2
+      GROUP BY n.id_norma, n.tipo, n.numero, n.titulo, n.organismo, n.derogado,
+               n.fecha_publicacion, n.law_dir
+      ORDER BY count(v.*) DESC, n.id_norma ASC
+      LIMIT 1`,
+    [decodeSegment(tipo), decodeSegment(numero)],
+  )
+  if (!rows[0]) return null
+  return { norma: toNorma(rows[0]), total: Number(rows[0].total) }
+}
+
+export interface Sibling {
+  idNorma: number
+  organismo: string
+  titulo: string
+  versions: number
+}
+
+/** The other normas sharing a (tipo, numero) key, most-reformed first, capped.
+ *  Organismo is the human differentiator; idNorma is the unique address. Capped
+ *  because a key like (res, 1) collides thousands of times. */
+export async function getKeySiblings(
+  tipo: string, numero: string, excludeId: number, limit = 6,
+): Promise<Sibling[]> {
+  const { rows } = await pool.query(
+    `SELECT n.id_norma, n.organismo, n.titulo, count(v.*) AS versions
+       FROM norma n
+       LEFT JOIN version v ON v.id_norma = n.id_norma
+      WHERE n.tipo = $1 AND n.numero = $2 AND n.id_norma <> $3
+      GROUP BY n.id_norma, n.organismo, n.titulo
+      ORDER BY count(v.*) DESC, n.id_norma ASC
+      LIMIT $4`,
+    [decodeSegment(tipo), decodeSegment(numero), excludeId, limit],
+  )
+  return rows.map((r) => ({
+    idNorma: r.id_norma,
+    organismo: r.organismo ?? '',
+    titulo: r.titulo,
+    versions: Number(r.versions),
+  }))
+}
+
 /** organismo per idNorma, for one batched lookup. Search hits carry no
  *  organismo; the MCP enriches them with this so same-key results (e.g. several
  *  "DFL 1") are told apart. */
