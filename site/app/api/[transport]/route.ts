@@ -165,14 +165,21 @@ const handler = createMcpHandler(
           if (matches.length === 0) return text(`No se encontró ${tipo} ${numero}.`)
           if (matches.length > 1) {
             // Ambiguous key — don't silently pick. Show the siblings, each with
-            // its organismo and idNorma, and tell the agent how to choose.
+            // its organismo and idNorma, and tell the agent how to choose. Some
+            // keys collide heavily (DFL 1 has 227), so cap the list; they're
+            // ordered most-reformed first, and search_laws is the way to narrow.
+            const CAP = 30
+            const shown = matches.slice(0, CAP)
+            const rest = matches.length - shown.length
             return text(
               [
                 `Hay ${matches.length} normas con clave ${tipo.toUpperCase()} ${numero}, ` +
-                  'distinguibles por organismo. Vuelve a llamar get_law con el idNorma deseado:',
+                  'distinguibles por organismo. Vuelve a llamar get_law con el idNorma deseado' +
+                  (rest > 0 ? ' (o usa search_laws para acotar por texto)' : '') + ':',
                 '',
-                ...matches.map(normaIdLine),
-              ].join('\n'),
+                ...shown.map(normaIdLine),
+                rest > 0 ? `\n…y ${rest} más (ordenadas de más a menos reformada).` : '',
+              ].filter(Boolean).join('\n'),
             )
           }
           norma = matches[0]
