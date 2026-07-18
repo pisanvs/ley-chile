@@ -9,6 +9,7 @@ import { needsColdPath, searchArticles, searchCold, searchHot } from '@/lib/sear
 import { align, joinDiffText, wordDiff } from '@/lib/diff'
 import { SITE } from '@/lib/jsonld'
 import { canonicalHref } from '@/lib/href'
+import { sortAvisos } from '@/lib/avisos'
 
 /**
  * Remote MCP server over the Chilean legal corpus — "para agentes y humanos".
@@ -108,8 +109,16 @@ function avisoLines(
       'como "Artículo 1" puede ser ambigua.',
     )
   }
-  for (const o of avisos.observaciones) {
-    out.push(`⚠ Observación de LeyChile: ${o}`)
+  // Only numbering notes get the warning marker. 55% of normas carry an
+  // observación but 99.7% are document-type noise ("EXTRACTO"); flagging all of
+  // them would teach a model to ignore the marker entirely.
+  const { numbering, notes } = sortAvisos(avisos.observaciones)
+  for (const o of numbering) {
+    out.push(`⚠ NUMERACIÓN (LeyChile): ${o}`)
+  }
+  if (notes.length) {
+    // Still worth stating: "EXTRACTO" means the published text is partial.
+    out.push(`Nota de LeyChile: ${notes.join(' · ')}`)
   }
   // Only when the typed edge is missing: the raw field is tipo-numero text that
   // cannot be resolved, so it is strictly worse than the relation above.

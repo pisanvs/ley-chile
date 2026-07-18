@@ -1,5 +1,6 @@
 import type { Avisos, RefundidoLink } from '@/lib/norma'
 import { canonicalHref } from '@/lib/href'
+import { sortAvisos } from '@/lib/avisos'
 
 /** Warnings that change how the text below should be read.
  *
@@ -17,9 +18,14 @@ export function AvisoBanner({
   avisos: Avisos
   refundido: { refunde: RefundidoLink[]; refundidaEn: RefundidoLink[] }
 }) {
-  const hasNumberingWarning = avisos.dobleArticulado || avisos.observaciones.length > 0
+  // Two tiers: only numbering notes are warnings. 55% of normas carry an
+  // observación, but 99.7% of those are document-type noise ("EXTRACTO") — a
+  // caution box on half the corpus would bury the notes that actually matter.
+  const { numbering, notes } = sortAvisos(avisos.observaciones)
+  const hasNumberingWarning = avisos.dobleArticulado || numbering.length > 0
   const nothing =
     !hasNumberingWarning &&
+    notes.length === 0 &&
     refundido.refundidaEn.length === 0 &&
     refundido.refunde.length === 0 &&
     !avisos.refundidoPor
@@ -64,22 +70,28 @@ export function AvisoBanner({
       )}
 
       {hasNumberingWarning && (
-        <div className="rounded-md border border-rule bg-paper-sunk px-3.5 py-3">
+        <div className="rounded-md border border-ruby/40 bg-ruby/[0.04] px-3.5 py-3">
           {avisos.dobleArticulado && (
             <p className="text-[12px] leading-relaxed text-ink-soft">
-              <strong className="text-ink">Doble articulado.</strong> Esta norma tiene dos
+              <strong className="text-ruby">Doble articulado.</strong> Esta norma tiene dos
               series de artículos; una etiqueta como «Artículo 1» puede ser ambigua.
             </p>
           )}
-          {avisos.observaciones.map((o) => (
+          {numbering.map((o) => (
             <p key={o} className="text-[12px] leading-relaxed text-ink-soft first:mt-0 mt-1.5">
-              <span className="text-ink-faint uppercase tracking-wider text-[10px]">
-                Observación de LeyChile ·{' '}
-              </span>
-              {o}
+              <strong className="text-ruby">Numeración.</strong> {o}
             </p>
           ))}
         </div>
+      )}
+
+      {/* Quiet tier: real information, not a hazard. "EXTRACTO" means the
+          published text is only an extract, which is worth stating plainly. */}
+      {notes.length > 0 && (
+        <p className="text-[11px] leading-relaxed text-ink-faint px-0.5">
+          <span className="uppercase tracking-wider">LeyChile · </span>
+          {notes.join(' · ')}
+        </p>
       )}
 
       {/* Only when the resolvable edge is absent: this is tipo-numero text
