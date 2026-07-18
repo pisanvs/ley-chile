@@ -10,7 +10,7 @@ export const size = { width: 1200, height: 630 }
 export const contentType = 'image/png'
 export const alt = 'Vista previa de la norma'
 
-interface Props { params: Promise<{ id: string; rest?: string[] }> }
+interface Props { params: Promise<{ id: string }> }
 
 function parseId(id: string): number | null {
   return /^\d+$/.test(id) ? Number(id) : null
