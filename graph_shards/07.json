@@ -542311,5 +542311,28 @@
     "modificadaPor_edges": [],
     "tipo": "dto",
     "numero": "1281 EXENTO"
+  },
+  "1224631": {
+    "idNorma": 1224631,
+    "titulo": "FORTALECE Y MODERNIZA EL SISTEMA DE INTELIGENCIA DEL ESTADO",
+    "tipo": "ley",
+    "numero": "21821",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DEL INTERIOR"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-05-30",
+    "fechaPromulgacion": "2026-05-19",
+    "vigencias": [
+      {
+        "desde": "2026-05-30",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "12234-02"
   }
 }

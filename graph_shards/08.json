@@ -533708,5 +533708,51 @@
     "modificadaPor_edges": [],
     "tipo": "dto",
     "numero": "323"
+  },
+  "1224696": {
+    "idNorma": 1224696,
+    "titulo": "MODIFICA LAS LEYES QUE INDICA PARA MEJORAR LA FISCALIZACIÓN Y AUMENTAR LAS SANCIONES POR EVASIÓN DEL PAGO DE TARIFAS EN EL TRANSPORTE PÚBLICO REMUNERADO DE PASAJEROS",
+    "tipo": "ley",
+    "numero": "21816",
+    "clasificacion": "modificatoria",
+    "organismos": [
+      "MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-06-02",
+    "fechaPromulgacion": "2026-05-18",
+    "vigencias": [
+      {
+        "desde": "2026-06-02",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "17246-15"
+  },
+  "1224632": {
+    "idNorma": 1224632,
+    "titulo": "LEY INTEGRAL DE LAS PERSONAS MAYORES Y DE PROMOCIÓN DEL ENVEJECIMIENTO DIGNO, ACTIVO Y SALUDABLE",
+    "tipo": "ley",
+    "numero": "21822",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DE DESARROLLO SOCIAL Y FAMILIA"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-06-01",
+    "fechaPromulgacion": "2026-05-22",
+    "vigencias": [
+      {
+        "desde": "2027-06-01",
+        "hasta": "",
+        "tipo_version": "7",
+        "tipo_version_s": "Con Vigencia Diferida por Fecha"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "13822-07"
   }
 }

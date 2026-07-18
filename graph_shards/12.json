@@ -533789,5 +533789,28 @@
     "modificadaPor_edges": [],
     "tipo": "res",
     "numero": "31 AFECTA"
+  },
+  "1224572": {
+    "idNorma": 1224572,
+    "titulo": "MODIFICA LA LEY Nº 21.659, SOBRE SEGURIDAD PRIVADA, PARA AUMENTAR EL PLAZO DE PRESENTACIÓN Y PRONUNCIAMIENTO SOBRE LOS ESTUDIOS DE SEGURIDAD QUE DISPONE, Y EXTIENDE LA PRÓRROGA DE VIGENCIA DE LA ÚLTIMA AUTORIZACIÓN DEL PERSONAL DE SEGURIDAD PRIVADA QUE INDICA",
+    "tipo": "ley",
+    "numero": "21825",
+    "clasificacion": "modificatoria",
+    "organismos": [
+      "MINISTERIO DE SEGURIDAD PÚBLICA"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-05-28",
+    "fechaPromulgacion": "2026-05-25",
+    "vigencias": [
+      {
+        "desde": "2026-05-28",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "18232-25"
   }
 }
