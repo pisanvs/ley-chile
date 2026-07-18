@@ -532520,5 +532520,28 @@
     "modificadaPor_edges": [],
     "tipo": "dto",
     "numero": "67"
+  },
+  "1224781": {
+    "idNorma": 1224781,
+    "titulo": "ESTABLECE, PARA EL PERSONAL DE GENDARMERÍA DE CHILE, LA OBLIGACIÓN DE EFECTUAR DECLARACIONES DE INTERESES Y PATRIMONIO, EN CONFORMIDAD CON LO DISPUESTO EN LA LEY N° 20.880, SOBRE PROBIDAD EN LA FUNCIÓN PÚBLICA Y PREVENCIÓN DE LOS CONFLICTOS DE INTERESES",
+    "tipo": "ley",
+    "numero": "21823",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DE SEGURIDAD PÚBLICA"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-06-05",
+    "fechaPromulgacion": "2026-05-27",
+    "vigencias": [
+      {
+        "desde": "2026-06-05",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "16985-06"
   }
 }
