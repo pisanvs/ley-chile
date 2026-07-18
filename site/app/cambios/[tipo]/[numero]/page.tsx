@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { breadcrumbJsonLd, faqJsonLd, jsonLdScript, legislationJsonLd, SITE, type FaqEntry } from '@/lib/jsonld'
-import { normaHref } from '@/lib/href'
+import { canonicalHref } from '@/lib/href'
 import {
   currentFecha, getModifiedBy, getVersions, type ModLink, type Norma, type Version,
 } from '@/lib/norma'
@@ -132,7 +132,7 @@ export default async function Page({ params }: Props) {
             </Link>
           )}
           <Link
-            href={normaHref(n.tipo, n.numero)}
+            href={canonicalHref(n)}
             className="inline-flex items-center gap-2 text-sm text-indigo hover:underline px-4 py-2.5"
           >
             Abrir en el lector →
@@ -165,19 +165,19 @@ export default async function Page({ params }: Props) {
                   {causa && (
                     <p className="mt-1 text-[13px] text-ink-soft">
                       Causada por{' '}
-                      <Link href={normaHref(causa.tipo, causa.numero)} className="text-indigo hover:underline">
+                      <Link href={canonicalHref(causa)} className="text-indigo hover:underline">
                         {tipoLabel(causa.tipo)} {causa.numero}
                       </Link>
                       {causa.titulo && <span className="text-ink-faint"> — {causa.titulo.slice(0, 80)}</span>}
                     </p>
                   )}
                   <div className="mt-2 flex flex-wrap gap-4 text-[12.5px]">
-                    <Link href={normaHref(n.tipo, n.numero, v.desde)} className="text-indigo hover:underline">
+                    <Link href={canonicalHref(n, v.desde)} className="text-indigo hover:underline">
                       Ver texto al {v.desde} →
                     </Link>
                     {prev && (
                       <Link
-                        href={normaHref(n.tipo, n.numero, v.desde)}
+                        href={canonicalHref(n, v.desde)}
                         className="text-ink-faint hover:text-ruby transition"
                       >
                         Diff contra {prev.desde} →
@@ -208,7 +208,7 @@ export default async function Page({ params }: Props) {
             {modifiedBy.map((m) => (
               <li key={`${m.tipo}-${m.numero}-${m.fecha}`}>
                 <Link
-                  href={normaHref(m.tipo, m.numero)}
+                  href={canonicalHref(m)}
                   className="group block py-3 hover:bg-paper-sunk/50 -mx-2 px-2 rounded transition"
                 >
                   <div className="text-[10px] uppercase tracking-widest text-ink-faint">

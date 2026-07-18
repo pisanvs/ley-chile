@@ -31,15 +31,26 @@ describe('canonicalPath', () => {
   const multi = [v('2009-02-25', '2011-01-01'), v('2011-01-02', null)]
 
   it('points a single-version dated URL at the undated one', () => {
-    // /ley/20330 and /ley/20330/2009-02-25 are byte-identical: duplicate content
-    expect(canonicalPath(LEY, '2009-02-25', single)).toBe('/ley/20330')
+    // The two are byte-identical: duplicate content
+    expect(canonicalPath(LEY, '2009-02-25', single)).toBe('/norma/20330/ley-20330-t')
   })
 
   it('lets a multi-version dated URL be self-canonical', () => {
-    expect(canonicalPath(LEY, '2009-02-25', multi)).toBe('/ley/20330/2009-02-25')
+    expect(canonicalPath(LEY, '2009-02-25', multi)).toBe('/norma/20330/ley-20330-t/2009-02-25')
   })
 
   it('points the current version of a multi-version norma at the undated URL', () => {
-    expect(canonicalPath(LEY, '2011-01-02', multi)).toBe('/ley/20330')
+    expect(canonicalPath(LEY, '2011-01-02', multi)).toBe('/norma/20330/ley-20330-t')
+  })
+
+  it('never canonicalizes onto the ambiguous /{tipo}/{numero} key', () => {
+    // The regression this scheme exists to prevent: 91.7% of normas share a
+    // (tipo, numero), so canonicalizing there made 320k+ of them declare some
+    // other norma's page as their own canonical.
+    for (const fecha of ['2009-02-25', '2011-01-02']) {
+      for (const versions of [single, multi]) {
+        expect(canonicalPath(LEY, fecha, versions)).toMatch(/^\/norma\/20330\//)
+      }
+    }
   })
 })

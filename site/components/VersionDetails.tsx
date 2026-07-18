@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 import type { Commit, CommitsIndex } from '@/lib/commits'
-import { normaHref } from '@/lib/href'
+import { canonicalHref } from '@/lib/href'
 
 function SidebarHeading({ children }: { children: React.ReactNode }) {
   return (
@@ -58,7 +58,7 @@ export function VersionDetails({ idx, active }: Props) {
           {versions.map((c, i) => (
             <li key={c.sha}>
               <Link
-                href={normaHref(idx.norma.tipo, idx.norma.numero, c.date)}
+                href={canonicalHref(idx.norma, c.date)}
                 className={`flex items-baseline gap-2 text-xs transition ${
                   c.sha === active.sha
                     ? 'text-ruby font-medium'
@@ -79,7 +79,7 @@ export function VersionDetails({ idx, active }: Props) {
           <div className="flex flex-col gap-1.5 text-xs">
             {prev && (
               <Link
-                href={normaHref(idx.norma.tipo, idx.norma.numero, prev.date)}
+                href={canonicalHref(idx.norma, prev.date)}
                 className="text-ink-soft hover:text-ink"
               >
                 ← {prev.date}
@@ -87,7 +87,7 @@ export function VersionDetails({ idx, active }: Props) {
             )}
             {next && (
               <Link
-                href={normaHref(idx.norma.tipo, idx.norma.numero, next.date)}
+                href={canonicalHref(idx.norma, next.date)}
                 className="text-ink-soft hover:text-ink"
               >
                 {next.date} →

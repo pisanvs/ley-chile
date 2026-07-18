@@ -3,7 +3,7 @@ export const dynamic = 'force-dynamic'
 import type { MetadataRoute } from 'next'
 import { pool } from '@/lib/db'
 import { SITE } from '@/lib/jsonld'
-import { normaHref } from '@/lib/href'
+import { canonicalHref, normaHref } from '@/lib/href'
 
 const PER_SITEMAP = 50_000   // Google's hard limit
 
@@ -29,26 +29,41 @@ export async function generateSitemaps() {
 
 export default async function sitemap(props: { id: Promise<string> }): Promise<MetadataRoute.Sitemap> {
   const id = Number(await props.id)
-  // `tipo`/`numero` are kept separate (not pre-joined into a path) so the URL
-  // can be built with normaHref() below — numero can contain a slash (e.g.
-  // "S/N"), which would otherwise split into extra, unencoded path segments.
+  // Emits canonical /norma/{id}/{slug} URLs, which need id_norma + titulo to
+  // slug — the legacy /{tipo}/{numero} form named 91.7% of the corpus
+  // ambiguously, so submitting it told Google that 320k+ distinct normas were
+  // the same handful of pages.
+  //
+  // k=2 rows are the disambiguation hubs: one per ambiguous key, a real page
+  // worth indexing (someone searching "DFL 4" wants the list, not a guess).
   // The raw-concatenated `sort_url` only feeds ORDER BY, never the output.
   const { rows } = await pool.query(
-    `SELECT tipo, numero, fecha, lastmod FROM (
-       SELECT tipo, numero, NULL::date AS fecha, fecha_publicacion AS lastmod, id_norma, 0 AS k,
+    `SELECT id_norma, tipo, numero, titulo, fecha, lastmod, k FROM (
+       SELECT id_norma, tipo, numero, titulo, NULL::date AS fecha,
+              fecha_publicacion AS lastmod, 0 AS k,
               '/' || tipo || '/' || numero AS sort_url
          FROM norma
        UNION ALL
-       SELECT n.tipo, n.numero, v.desde AS fecha, v.desde AS lastmod, n.id_norma, 1,
+       SELECT n.id_norma, n.tipo, n.numero, n.titulo, v.desde AS fecha, v.desde AS lastmod, 1,
               '/' || n.tipo || '/' || n.numero || '/' || v.desde AS sort_url
          FROM version v JOIN norma n ON n.id_norma = v.id_norma
         WHERE v.hasta IS NOT NULL
           AND (SELECT count(*) FROM version w WHERE w.id_norma = v.id_norma) > 1
+       UNION ALL
+       SELECT min(id_norma) AS id_norma, tipo, numero, NULL AS titulo, NULL::date AS fecha,
+              max(fecha_publicacion) AS lastmod, 2 AS k,
+              '/' || tipo || '/' || numero AS sort_url
+         FROM norma GROUP BY tipo, numero HAVING count(*) > 1
      ) t ORDER BY id_norma, k, sort_url OFFSET $1 LIMIT $2`,
     [id * PER_SITEMAP, PER_SITEMAP],
   )
   return rows.map(r => ({
-    url: normaHref(r.tipo, r.numero, r.fecha ?? undefined, undefined, SITE),
+    url: r.k === 2
+      ? normaHref(r.tipo, r.numero, undefined, undefined, SITE)
+      : canonicalHref(
+          { idNorma: r.id_norma, tipo: r.tipo, numero: r.numero, titulo: r.titulo ?? '' },
+          r.fecha ?? undefined, undefined, SITE,
+        ),
     lastModified: r.lastmod ?? undefined,
   }))
 }

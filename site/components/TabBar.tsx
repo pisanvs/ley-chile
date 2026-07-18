@@ -3,7 +3,7 @@
 import { useEffect, useRef } from 'react'
 import { useParams, useRouter } from 'next/navigation'
 import { tabs, useTabs, type Tab } from '@/lib/tabs'
-import { normaHref } from '@/lib/href'
+import { canonicalHref } from '@/lib/href'
 
 /**
  * In-IDE horizontal tab bar. Lives in the root layout so it persists across
@@ -45,7 +45,7 @@ export function TabBar() {
       router.push('/')
     } else {
       const fallback = next[Math.min(idx, next.length - 1)]
-      router.push(normaHref(fallback.tipo, fallback.numero, fallback.date))
+      router.push(canonicalHref(fallback, fallback.date))
     }
   }
 
@@ -66,7 +66,7 @@ export function TabBar() {
               data-tab-id={`${t.idNorma}@${t.date}`}
               role="tab"
               aria-selected={!!isActive}
-              onClick={() => router.push(normaHref(t.tipo, t.numero, t.date))}
+              onClick={() => router.push(canonicalHref(t, t.date))}
               onAuxClick={e => e.button === 1 && onClose(t, e)}
               title={t.titulo || `${t.tipo} ${t.numero}`}
               className={`group/tab relative flex items-center gap-2 max-w-[260px] min-w-[120px] px-3 py-1.5 text-[12px] border-r border-rule shrink-0 transition ${

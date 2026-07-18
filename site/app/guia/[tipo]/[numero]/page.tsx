@@ -1,9 +1,10 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { breadcrumbJsonLd, faqJsonLd, jsonLdScript, legislationJsonLd, SITE, type FaqEntry } from '@/lib/jsonld'
-import { normaHref } from '@/lib/href'
+import { canonicalHref } from '@/lib/href'
 import {
-  currentFecha, getModifiedBy, getModifies, getVersions, type Norma, type Version,
+  currentFecha, getModifiedBy, getModifies, getVersions,
+  type ModLink, type Norma, type Version,
 } from '@/lib/norma'
 import {
   fechaLarga, getGuiaArticles, getGuiaStats, getSeoNorma, normaLabel,
@@ -101,7 +102,7 @@ export default async function Page({ params }: Props) {
   const { norma: n, versions, fecha, articles, modifies, modifiedBy, stats } = data
 
   const label = normaLabel(n)
-  const readerHref = normaHref(n.tipo, n.numero)
+  const readerHref = canonicalHref(n)
   const hasCambios = qualifiesForCambios(versions, modifiedBy.length)
   const faq = buildFaq(n, versions, fecha, modifies.length, modifiedBy.length)
 
@@ -187,7 +188,7 @@ export default async function Page({ params }: Props) {
               {versions.map((v) => (
                 <li key={v.desde}>
                   <Link
-                    href={normaHref(n.tipo, n.numero, v.desde)}
+                    href={canonicalHref(n, v.desde)}
                     className="group flex items-baseline gap-4 py-2.5 hover:bg-paper-sunk/50 -mx-2 px-2 rounded transition"
                   >
                     <span className="font-mono text-xs text-ink-faint w-24 shrink-0">{v.desde}</span>
@@ -219,7 +220,7 @@ export default async function Page({ params }: Props) {
               <div key={`${a.slug}-${a.ord}`} id={`art-${a.slug}`}>
                 <h3 className="font-display text-[1.1rem] text-ink mb-1.5">
                   <Link
-                    href={normaHref(n.tipo, n.numero, undefined, `art-${a.slug}`)}
+                    href={canonicalHref(n, undefined, `art-${a.slug}`)}
                     className="hover:text-ruby transition"
                   >
                     {a.rawHeading || a.label}
@@ -276,7 +277,7 @@ function Fact({ k, v, accent }: { k: string; v: string; accent?: 'moss' | 'ruby'
 
 function ModList({
   title, items,
-}: { title: string; items: { tipo: string; numero: string; titulo: string; fecha: string }[] }) {
+}: { title: string; items: ModLink[] }) {
   return (
     <div>
       <h2 className="font-display text-xl mb-4">{title}</h2>
@@ -284,7 +285,7 @@ function ModList({
         {items.map((m) => (
           <li key={`${m.tipo}-${m.numero}-${m.fecha}`}>
             <Link
-              href={normaHref(m.tipo, m.numero)}
+              href={canonicalHref(m)}
               className="group block py-2.5 hover:bg-paper-sunk/50 -mx-2 px-2 rounded transition"
             >
               <div className="text-[10px] uppercase tracking-widest text-ink-faint">

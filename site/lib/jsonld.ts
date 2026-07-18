@@ -1,4 +1,4 @@
-import { normaHref } from './href'
+import { canonicalHref } from './href'
 import { currentFecha, type Norma, type Version } from './norma'
 import { SITE } from './site'
 
@@ -36,7 +36,7 @@ export function legislationJsonLd(
       '@type': 'Legislation',
       legislationIdentifier: String(id),
     })),
-    url: normaHref(n.tipo, n.numero, isCurrent ? undefined : fecha, undefined, SITE),
+    url: canonicalHref(n, isCurrent ? undefined : fecha, undefined, SITE),
   }
 }
 

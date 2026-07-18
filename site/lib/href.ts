@@ -1,11 +1,13 @@
-/** Build a norma URL, encoding segments: `numero` can contain characters that
- *  are path-significant (e.g. "S/N" for sin número, or "3883 EXENTO"), which
- *  would otherwise split into extra route segments. Next decodes params, so
- *  getNorma() still receives the original value.
+import { normaSlug, type SluggableNorma } from './slug'
+
+/** Build a legacy key URL `/{tipo}/{numero}`, encoding segments: `numero` can
+ *  contain path-significant characters (e.g. "S/N" for sin número, or "3883
+ *  EXENTO") which would otherwise split into extra route segments.
  *
- *  `base` lets callers build an absolute URL (e.g. `${SITE}`) instead of a
- *  root-relative path — used by the MCP tool responses and JSON-LD, which
- *  need fully-qualified URLs. */
+ *  This is NOT the canonical form — (tipo, numero) identifies 91.7% of the
+ *  corpus ambiguously. It survives as the *key* address: unambiguous keys 301
+ *  to canonical, ambiguous ones render a disambiguation hub. Use canonicalHref
+ *  for anything that should point at one specific norma. */
 export function normaHref(
   tipo: string,
   numero: string,
@@ -14,6 +16,31 @@ export function normaHref(
   base = '',
 ): string {
   const path = `/${encodeURIComponent(tipo)}/${encodeURIComponent(numero)}`
+  const fechaPart = fecha ? `/${encodeURIComponent(fecha)}` : ''
+  const hashPart = hash ? `#${hash}` : ''
+  return `${base}${path}${fechaPart}${hashPart}`
+}
+
+export interface IdentifiableNorma extends SluggableNorma {
+  idNorma: number
+}
+
+/** The canonical URL of one specific norma: `/norma/{idNorma}/{slug}`.
+ *
+ *  idNorma resolves; the slug is decoration that 301s when stale (see
+ *  ./slug.ts for why nothing readable can carry identity here). The slug is
+ *  already `[a-z0-9-]` so it needs no encoding — unlike `numero`, which is why
+ *  this form is safe for the ~48% of the corpus whose numero is not URL-clean.
+ *
+ *  `base` yields an absolute URL (e.g. `${SITE}`) for MCP responses, JSON-LD
+ *  and the sitemap, which need fully-qualified links. */
+export function canonicalHref(
+  n: IdentifiableNorma,
+  fecha?: string,
+  hash?: string,
+  base = '',
+): string {
+  const path = `/norma/${n.idNorma}/${normaSlug(n)}`
   const fechaPart = fecha ? `/${encodeURIComponent(fecha)}` : ''
   const hashPart = hash ? `#${hash}` : ''
   return `${base}${path}${fechaPart}${hashPart}`

@@ -1,5 +1,5 @@
 import { pool } from './db'
-import { normaHref } from './href'
+import { canonicalHref } from './href'
 
 export interface Norma {
   idNorma: number
@@ -110,6 +110,41 @@ export interface Sibling {
   organismo: string
   titulo: string
   versions: number
+  /** Canonical URL, built server-side: LawView is a client component and has no
+   *  access to the tipo/numero needed to slug it. */
+  href: string
+}
+
+export interface KeyMember extends Norma {
+  versions: number
+}
+
+/** Every norma under a (tipo, numero) key, capped, plus the true total.
+ *
+ *  Backs the disambiguation hub that the key URL now renders instead of
+ *  silently serving whichever norma happened to sort first. Capped because a
+ *  key like (cer, S/N) collides 1,259 ways; ordered most-reformed first so the
+ *  heavily-litigated norma a reader probably wants leads the page. */
+export async function getKeyPage(
+  tipo: string, numero: string, limit = 200,
+): Promise<{ members: KeyMember[]; total: number }> {
+  const { rows } = await pool.query(
+    `SELECT n.id_norma, n.tipo, n.numero, n.titulo, n.organismo, n.derogado,
+            n.fecha_publicacion, n.law_dir, count(v.*) AS versions,
+            count(*) OVER() AS total
+       FROM norma n
+       LEFT JOIN version v ON v.id_norma = n.id_norma
+      WHERE n.tipo = $1 AND n.numero = $2
+      GROUP BY n.id_norma, n.tipo, n.numero, n.titulo, n.organismo, n.derogado,
+               n.fecha_publicacion, n.law_dir
+      ORDER BY count(v.*) DESC, n.id_norma ASC
+      LIMIT $3`,
+    [decodeSegment(tipo), decodeSegment(numero), limit],
+  )
+  return {
+    members: rows.map((r) => ({ ...toNorma(r), versions: Number(r.versions) })),
+    total: Number(rows[0]?.total ?? 0),
+  }
 }
 
 /** The other normas sharing a (tipo, numero) key, most-reformed first, capped.
@@ -119,11 +154,11 @@ export async function getKeySiblings(
   tipo: string, numero: string, excludeId: number, limit = 6,
 ): Promise<Sibling[]> {
   const { rows } = await pool.query(
-    `SELECT n.id_norma, n.organismo, n.titulo, count(v.*) AS versions
+    `SELECT n.id_norma, n.tipo, n.numero, n.organismo, n.titulo, count(v.*) AS versions
        FROM norma n
        LEFT JOIN version v ON v.id_norma = n.id_norma
       WHERE n.tipo = $1 AND n.numero = $2 AND n.id_norma <> $3
-      GROUP BY n.id_norma, n.organismo, n.titulo
+      GROUP BY n.id_norma, n.tipo, n.numero, n.organismo, n.titulo
       ORDER BY count(v.*) DESC, n.id_norma ASC
       LIMIT $4`,
     [decodeSegment(tipo), decodeSegment(numero), excludeId, limit],
@@ -133,6 +168,9 @@ export async function getKeySiblings(
     organismo: r.organismo ?? '',
     titulo: r.titulo,
     versions: Number(r.versions),
+    href: canonicalHref({
+      idNorma: r.id_norma, tipo: r.tipo, numero: r.numero, titulo: r.titulo ?? '',
+    }),
   }))
 }
 
@@ -222,38 +260,45 @@ export async function resolveAlias(numero: string): Promise<Norma | null> {
 }
 
 export interface ModLink {
+  /** Carried so callers can build a canonical link and agents can address the
+   *  related norma directly — (tipo, numero) would send them back through an
+   *  ambiguous key, which for a "DFL 4" reference is 79 ways wrong. */
+  idNorma: number
   tipo: string
   numero: string
   titulo: string
   fecha: string
 }
 
+function toModLink(r: Record<string, any>): ModLink {
+  return {
+    idNorma: r.id_norma, tipo: r.tipo, numero: r.numero,
+    titulo: r.titulo ?? '', fecha: r.fecha,
+  }
+}
+
 /** Laws that have modified this one (distinct causa normas, newest first). */
 export async function getModifiedBy(idNorma: number): Promise<ModLink[]> {
   const { rows } = await pool.query(
-    `SELECT DISTINCT ON (n.id_norma) n.tipo, n.numero, n.titulo, m.fecha
+    `SELECT DISTINCT ON (n.id_norma) n.id_norma, n.tipo, n.numero, n.titulo, m.fecha
        FROM modificacion m JOIN norma n ON n.id_norma = m.causa_id
       WHERE m.target_id = $1
       ORDER BY n.id_norma, m.fecha DESC`,
     [idNorma],
   )
-  return rows
-    .map((r) => ({ tipo: r.tipo, numero: r.numero, titulo: r.titulo ?? '', fecha: r.fecha }))
-    .sort((a, b) => b.fecha.localeCompare(a.fecha))
+  return rows.map(toModLink).sort((a, b) => b.fecha.localeCompare(a.fecha))
 }
 
 /** Laws this one modifies (distinct target normas, newest first). */
 export async function getModifies(idNorma: number): Promise<ModLink[]> {
   const { rows } = await pool.query(
-    `SELECT DISTINCT ON (n.id_norma) n.tipo, n.numero, n.titulo, m.fecha
+    `SELECT DISTINCT ON (n.id_norma) n.id_norma, n.tipo, n.numero, n.titulo, m.fecha
        FROM modificacion m JOIN norma n ON n.id_norma = m.target_id
       WHERE m.causa_id = $1
       ORDER BY n.id_norma, m.fecha DESC`,
     [idNorma],
   )
-  return rows
-    .map((r) => ({ tipo: r.tipo, numero: r.numero, titulo: r.titulo ?? '', fecha: r.fecha }))
-    .sort((a, b) => b.fecha.localeCompare(a.fecha))
+  return rows.map(toModLink).sort((a, b) => b.fecha.localeCompare(a.fecha))
 }
 
 export function currentFecha(versions: Version[]): string {
@@ -267,8 +312,13 @@ export function isMultiVersion(versions: Version[]): boolean {
 }
 
 /** SEO: ~350k single-version normas would otherwise serve byte-identical pages
- *  at /ley/X and /ley/X/<fecha>. Point the dated one at the undated one. */
+ *  at the undated and dated URL. Point the dated one at the undated one.
+ *
+ *  Always the /norma/{id}/{slug} form: the legacy /{tipo}/{numero} address is
+ *  shared by 91.7% of the corpus, so using it as a canonical made 320k+ normas
+ *  declare some *other* norma's page as their canonical — the exact duplicate-
+ *  content failure this port exists to prevent. */
 export function canonicalPath(n: Norma, fecha: string, versions: Version[]): string {
-  if (!isMultiVersion(versions)) return normaHref(n.tipo, n.numero)
-  return fecha === currentFecha(versions) ? normaHref(n.tipo, n.numero) : normaHref(n.tipo, n.numero, fecha)
+  if (!isMultiVersion(versions)) return canonicalHref(n)
+  return fecha === currentFecha(versions) ? canonicalHref(n) : canonicalHref(n, fecha)
 }

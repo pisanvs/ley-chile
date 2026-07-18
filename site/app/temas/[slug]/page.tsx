@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { breadcrumbJsonLd, jsonLdScript, SITE } from '@/lib/jsonld'
-import { normaHref } from '@/lib/href'
+import { canonicalHref } from '@/lib/href'
 import { getModifiedBy, getVersions } from '@/lib/norma'
 import {
   fechaLarga, getGuiaStats, getSeoNorma, normaLabel, qualifiesForCambios, qualifiesForGuia, tipoLabel,
@@ -50,7 +50,7 @@ async function resolveRefs(t: Topic): Promise<ResolvedRef[]> {
       derogado: n.derogado,
       guia: qualifiesForGuia(n, stats) ? `/guia/${n.tipo}/${enc}` : null,
       cambios: qualifiesForCambios(versions, modifiedBy.length) ? `/cambios/${n.tipo}/${enc}` : null,
-      reader: normaHref(n.tipo, n.numero),
+      reader: canonicalHref(n),
     })
   }
   return out

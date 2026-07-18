@@ -9,7 +9,7 @@ import { YearRibbon } from '@/components/YearRibbon'
 import { loadTitles, type TitleEntry } from '@/lib/titles'
 import { TerminalDemo } from '@/components/TerminalDemo'
 import { MCPConnect } from '@/components/MCPConnect'
-import { normaHref } from '@/lib/href'
+import { canonicalHref } from '@/lib/href'
 
 interface LandingEvent {
   sha: string
@@ -366,7 +366,7 @@ function EventRow({ ev }: { ev: LandingEvent }) {
   return (
     <li>
       <Link
-        href={normaHref(ev.tipo, ev.numero, ev.date)}
+        href={canonicalHref(ev, ev.date)}
         className="group flex flex-col md:flex-row md:items-baseline gap-1 md:gap-6 py-3 hover:bg-paper-sunk/50 -mx-2 px-2 rounded transition"
       >
         <div className="text-xs text-ink-faint font-mono w-24 shrink-0">{ev.date}</div>

@@ -4,7 +4,7 @@ import { useQuery } from '@tanstack/react-query'
 import { useRouter } from 'next/navigation'
 import { fetchModifications, type ModificationRow } from '@/lib/modifies'
 import { tabs } from '@/lib/tabs'
-import { normaHref } from '@/lib/href'
+import { canonicalHref } from '@/lib/href'
 
 interface Props {
   /** idNorma of the law currently in view (the modifier). */
@@ -56,7 +56,7 @@ export function ModificationsPanel({ causaId }: Props) {
       numero: row.numero,
     })
     if (focus) {
-      router.push(normaHref(row.tipo, row.numero, row.date))
+      router.push(canonicalHref(row, row.date))
     }
   }
 

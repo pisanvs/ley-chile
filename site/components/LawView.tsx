@@ -153,7 +153,7 @@ export function LawView({
                 {siblings.map((s) => (
                   <li key={s.idNorma}>
                     <a
-                      href={`/norma/${s.idNorma}`}
+                      href={s.href}
                       className="text-[12px] text-indigo hover:underline"
                       title={s.titulo}
                     >

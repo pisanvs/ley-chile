@@ -3,7 +3,7 @@
 import { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState, type ReactNode } from 'react'
 import { Command } from 'cmdk'
 import { useRouter } from 'next/navigation'
-import { normaHref } from '@/lib/href'
+import { canonicalHref } from '@/lib/href'
 
 interface Hit {
   idNorma: number
@@ -108,7 +108,7 @@ export function CmdKProvider({ children }: { children: ReactNode }) {
                   onSelect={() => {
                     setOpen(false)
                     setQuery('')
-                    router.push(normaHref(r.tipo, r.numero))
+                    router.push(canonicalHref(r))
                   }}
                 >
                   <div className="flex items-baseline gap-2 min-w-0">

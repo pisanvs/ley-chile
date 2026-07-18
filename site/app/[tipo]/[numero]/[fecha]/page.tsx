@@ -1,48 +1,34 @@
 import { notFound, permanentRedirect } from 'next/navigation'
-import { RESERVED_TIPOS, SITE } from '@/lib/jsonld'
-import {
-  canonicalPath, getCanonicalNorma, getKeySiblings, getVersions, resolveAlias,
-} from '@/lib/norma'
-import { normaHref } from '@/lib/href'
-import { LawView } from '@/components/LawView'
+import { RESERVED_TIPOS } from '@/lib/jsonld'
+import { getKeyPage, resolveAlias } from '@/lib/norma'
+import { canonicalHref, normaHref } from '@/lib/href'
 
+/**
+ * The dated legacy key address `/{tipo}/{numero}/{fecha}` — always a redirect.
+ *
+ * A version date is only meaningful once you know *which* norma you are
+ * reading, and (tipo, numero) does not settle that for 91.7% of the corpus.
+ * So: a unique key keeps the date and 301s to the canonical dated URL; an
+ * ambiguous one drops the date and 301s to the hub, because there is no honest
+ * way to pick whose version history the date refers to.
+ */
 interface Props { params: Promise<{ tipo: string; numero: string; fecha: string }> }
 
-export async function generateMetadata({ params }: Props) {
-  const { tipo, numero, fecha } = await params
-  if (RESERVED_TIPOS.has(tipo) || !/^\d{4}-\d{2}-\d{2}$/.test(fecha)) return {}
-  const resolved = await getCanonicalNorma(tipo, numero)
-  if (!resolved) return {}
-  const versions = await getVersions(resolved.norma.idNorma)
-  return {
-    title: `${resolved.norma.titulo} — texto al ${fecha}`,
-    alternates: { canonical: `${SITE}${canonicalPath(resolved.norma, fecha, versions)}` },
-  }
-}
+const FECHA_RE = /^\d{4}-\d{2}-\d{2}$/
 
-// See the sibling [numero]/page.tsx: deliberately NOT wrapped in <Suspense>, so
-// notFound() can still set a real 404 status. Streaming a shell first commits
-// HTTP 200 and turns every miss into a soft-404.
+// No generateMetadata: every path through this route redirects, so metadata is
+// never rendered.
 export default async function Page({ params }: Props) {
   const { tipo, numero, fecha } = await params
   if (RESERVED_TIPOS.has(tipo)) notFound()
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(fecha)) notFound()
-  const resolved = await getCanonicalNorma(tipo, numero)
-  if (!resolved) {
+  if (!FECHA_RE.test(fecha)) notFound()
+
+  const { members, total } = await getKeyPage(tipo, numero, 1)
+  if (total === 0) {
     const alias = await resolveAlias(numero)
-    if (alias) permanentRedirect(normaHref(alias.tipo, alias.numero, fecha))
+    if (alias) permanentRedirect(canonicalHref(alias, fecha))
     notFound()
   }
-  const { norma, total } = resolved
-  const siblings = total > 1 ? await getKeySiblings(norma.tipo, norma.numero, norma.idNorma) : []
-  return (
-    <LawView
-      tipo={tipo}
-      numero={numero}
-      idNorma={norma.idNorma}
-      fecha={fecha}
-      siblings={siblings}
-      siblingTotal={total}
-    />
-  )
+  if (total === 1) permanentRedirect(canonicalHref(members[0], fecha))
+  permanentRedirect(normaHref(members[0].tipo, members[0].numero))
 }
