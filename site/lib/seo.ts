@@ -1,5 +1,5 @@
 import { pool } from './db'
-import { getNorma, type Norma, type Version } from './norma'
+import { getCanonicalNorma, type Norma, type Version } from './norma'
 
 /** Tipos that carry substantive articulado worth a guide. `res`/`dto` are the
  *  bulk of the corpus (~298k of ~333k) and are overwhelmingly one-liners —
@@ -64,9 +64,14 @@ export async function countModifiedBy(idNorma: number): Promise<number> {
 
 /** Resolve a norma for a /guia or /cambios URL. Returns null when the norma
  *  doesn't exist — callers notFound(). No aliasing here: unlike the reader,
- *  nothing external links to a wrong-tipo guide URL, so guessing buys nothing. */
+ *  nothing external links to a wrong-tipo guide URL, so guessing buys nothing.
+ *
+ *  Uses the canonical (most-reformed) for a colliding key so /guia/dfl/1 and the
+ *  reader /dfl/1 land on the SAME norma (the Código del Trabajo), not two
+ *  different DFL 1s. */
 export async function getSeoNorma(tipo: string, numero: string): Promise<Norma | null> {
-  return getNorma(tipo, numero)
+  const resolved = await getCanonicalNorma(tipo, numero)
+  return resolved?.norma ?? null
 }
 
 export interface GuiaArticle {
