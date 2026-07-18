@@ -1,8 +1,33 @@
-# ley-chile
-[![Pipeline](https://github.com/pisanvs/ley-chile/actions/workflows/pipeline.yml/badge.svg)](https://github.com/pisanvs/ley-chile/actions/workflows/pipeline.yml)
-[LINK AL BRANCH CON DATOS](https://github.com/pisanvs/ley-chile/tree/historial)
+<h1 align="center">ley&nbsp;·&nbsp;chile</h1>
+<p align="center"><b>El corpus jurídico chileno, en formato amigable. Para agentes y humanos.</b></p>
 
-Repositorio git que reconstruye el historial completo de cambios en el corpus jurídico chileno, haciendo un commit por cada versión publicada de cada ley.
+<p align="center">
+  Control de cambios para toda la historia de la ley chilena. Cada ley, decreto y
+  resolución <b>desde 1810</b>, reconstruida desde la
+  <a href="https://www.bcn.cl/leychile"><b>Biblioteca del Congreso Nacional</b></a>
+  como un repositorio git: <b>una publicación, un commit</b>.
+</p>
+
+<p align="center">
+  <a href="https://leyes.pisanvs.cl"><img alt="Sitio en vivo" src="https://img.shields.io/badge/sitio-leyes.pisanvs.cl-C13F3F"></a>
+  <a href="https://leyes.pisanvs.cl/api/mcp"><img alt="MCP" src="https://img.shields.io/badge/MCP-servidor%20remoto-6366F1"></a>
+  <img alt="Normas" src="https://img.shields.io/badge/normas-333%2C020-4E7C59">
+  <img alt="Versiones" src="https://img.shields.io/badge/versiones-343%2C967-4E7C59">
+  <a href="https://github.com/pisanvs/ley-chile/actions/workflows/pipeline.yml"><img alt="Pipeline" src="https://github.com/pisanvs/ley-chile/actions/workflows/pipeline.yml/badge.svg"></a>
+  <img alt="License MIT" src="https://img.shields.io/badge/licencia-MIT-green">
+</p>
+
+<p align="center">
+  <a href="https://leyes.pisanvs.cl"><img src="docs/media/landing.png" alt="La portada de leyes.pisanvs.cl: una máquina del tiempo legislativa, con buscador ⌘K, navegación por temas/guías/blog y un servidor MCP para agentes" width="880"></a>
+</p>
+
+<p align="center">
+  <a href="https://leyes.pisanvs.cl"><b>→ Explorar el sitio</b></a> ·
+  <a href="https://leyes.pisanvs.cl/api/mcp"><b>Conectar por MCP</b></a> ·
+  <a href="https://github.com/pisanvs/ley-chile/tree/historial"><b>El branch con los datos</b></a>
+</p>
+
+---
 
 <!-- PIPELINE_STATUS_START -->
 ## Pipeline Status
@@ -21,195 +46,86 @@ Repositorio git que reconstruye el historial completo de cambios en el corpus ju
 | **Last run**     | 2026-06-01 10:39 UTC |
 <!-- GRAPH_STATUS_END -->
 
-> **Sobre estas barras.** *Graph Build Status* sigue la construcción única del grafo de metadatos (`graph.json`): `fetch_normas.py` descarga la metadata de las ~358 mil normas del catálogo BCN en tandas de 6 horas, y la barra avanza en cada corrida del workflow `update-graph`. Al llegar al ~95% el grafo se publica y se habilita la fase siguiente. *Pipeline Status* sigue lo que viene después: cuántas normas tienen ya su historial de versiones reconstruido en la branch `historial`. Este repo aún está en proceso de germinación. Lo entretenido llega al terminar esta fase!
+> **Sobre estas barras.** *Graph Build Status* sigue la construcción del grafo de metadatos (`graph.json`): la descarga de la metadata de las ~358 mil normas del catálogo BCN. *Pipeline Status* sigue lo que viene después: cuántas normas tienen ya su historial de versiones reconstruido en la branch `historial`. Los denominadores cuentan sólo normas *construibles* (con fecha de publicación y al menos una vigencia real); las normas sin fecha o con fechas centinela quedan excluidas.
 
-## Por qué existe este proyecto
+## Por qué existe
 
-El sistema [LeyChile](https://www.bcn.cl/leychile) de la BCN publica *textos refundidos* — versiones consolidadas que incorporan todas las modificaciones — sin diffs históricos. Este repositorio reconstruye ese historial de cambios haciendo un commit de cada versión de cada ley a medida que fue modificándose.
+El sistema [LeyChile](https://www.bcn.cl/leychile) de la BCN publica **textos refundidos** — versiones consolidadas que ya incorporan todas las modificaciones — pero **sin historial de cambios**. Un texto vigente es una foto: no tiene autor, ni fecha de origen por artículo, ni forma de responder *«¿qué decía esto en 2013?»* o *«¿qué cambió, y quién lo cambió?»*.
 
-## Estructura del repositorio
+Este proyecto reconstruye ese historial. Reescribe la ley chilena como un **repositorio git**: cada publicación legislativa es un commit, y cada artículo tiene su ventana de vigencia. Eso convierte una investigación en una consulta.
 
-El repositorio usa un diseño de dos branches:
+<p align="center">
+  <img src="docs/media/reader.png" alt="El lector mostrando la vista redline: el texto eliminado en rojo tachado y el añadido en verde, comparando dos versiones de la Ley Karin palabra por palabra" width="880">
+</p>
+<p align="center"><i>La vista <b>redline</b>: dos versiones de una ley comparadas palabra por palabra — lo eliminado en rojo, lo añadido en verde.</i></p>
 
-- **branch de código** (`main`): contiene sólo scripts, requisitos y configuración CI. Nunca contiene datos de leyes.
-- **branch de datos** (`historial`, branch huérfana): contiene los commits de leyes, reconstruidos cronológicamente por `rebuild_history.py`.
+## Para agentes — servidor MCP
 
-```
-ley-chile/
-├── scripts/
-│   ├── trace_graph.py        # construye el grafo legislativo y descarga versiones
-│   ├── rebuild_history.py    # reescribe el historial git en orden cronológico
-│   └── fetch_tramitacion.py  # descarga datos de tramitación parlamentaria
-├── tests/
-│   ├── conftest.py
-│   ├── test_trace_graph.py
-│   ├── test_fetch_tramitacion.py
-│   └── test_rebuild_history.py
-├── requirements.txt
-└── pytest.ini
-```
-
-Los datos viven en el worktree `historial/`:
+Un servidor **[MCP](https://modelcontextprotocol.io)** remoto sobre todo el corpus, sólo lectura y sin autenticación:
 
 ```
-historial/
-├── leyes/{numero}/
-│   ├── texto.md          # texto de ley en markdown normalizado
-│   ├── metadata.json     # idNorma, tipo, organismo, fechas, estado
-│   ├── versiones.json    # todas las versiones fechadas (committed: true/false)
-│   └── tramitacion.json  # datos del SIL (opcional)
-├── modificaciones/{numero}/   # leyes cuyo objeto principal es modificar otras leyes
-└── graph.json            # grafo de dependencias entre leyes
+https://leyes.pisanvs.cl/api/mcp
 ```
 
-## Configuración
+| Herramienta | Qué hace |
+|---|---|
+| `search_laws` | Busca normas por texto libre (con organismo + idNorma para desambiguar) |
+| `get_law` | Metadatos + índice de artículos + historial de versiones de una norma |
+| `get_article` | El texto de un artículo en cualquier fecha |
+| `search_articles` | Ubica el artículo relevante dentro de una norma larga |
+| `diff_versions` | Compara dos versiones de una norma |
+| `get_modifications` | Qué normas modificaron a ésta, y a cuáles modifica |
+| `list_versions` | Todas las versiones fechadas de una norma |
+
+Añádelo con un clic desde la portada (Claude, Claude Code, Cursor, VS Code, Codex), o revisa [`/llms.txt`](https://leyes.pisanvs.cl/llms.txt) para las instrucciones legibles por agentes.
+
+## Cómo funciona — el pipeline
+
+Cuatro fases idempotentes y resumibles. `git` (la branch `historial`) es la **única fuente de verdad**; Postgres y Meilisearch son modelos de lectura derivados y descartables.
+
+```
+build_catalog.py   → catalog.json           (BCN SPARQL — todos los idNorma)
+fetch_normas.py    → graph.json              (metadata LeyChile + expansión BFS)
+fetch_versions.py  → cache/diffs, versions   (versiones + diffs por norma)
+build_history.py   → git fast-import → branch historial
+```
+
+Cada commit en `historial` representa **un evento de publicación**: el texto de la norma nueva, más el texto actualizado de cada norma que ésta modificó, más derogaciones y symlinks de sucesión. La [GitHub Action `pipeline.yml`](.github/workflows/pipeline.yml) corre las cuatro fases cada 3 horas.
+
+### Diseño de tres branches
+
+| Branch | Contiene | Montada en |
+|---|---|---|
+| `main` | Scripts, config, CI. **Nunca** datos de leyes. | — |
+| `pipeline-cache` (huérfana) | Versiones y diffs descargados | `./cache/` |
+| `historial` (huérfana) | Los commits de leyes reconstruidos | `./historial/` |
+
+## Correr el pipeline
 
 ```bash
 pip install -r requirements.txt
-```
 
-Crear el worktree de datos (primera vez):
+# Pipeline completo (idempotente, resumible)
+LEYCHILE_DATA_ROOT=./historial python scripts/run_pipeline.py
 
-```bash
-git checkout --orphan historial
-git rm -rf .
-git commit --allow-empty -m "init: historial branch"
-git checkout -
-git worktree add historial historial
-```
+# Vista previa de commits, sin importar nada
+LEYCHILE_DATA_ROOT=./historial python scripts/build_history.py --dry-run
 
-## Scripts principales
-
-### trace_graph.py
-
-Construye el grafo completo de dependencias a partir de una ley raíz y descarga todas las versiones.
-
-```bash
-LEYCHILE_DATA_ROOT=./historial python scripts/trace_graph.py --id 235507 --ley 20000
-```
-
-- Traza hacia atrás (leyes derogadas/reemplazadas) y hacia adelante (modificadoras).
-- Usa datos enlazados de [datos.bcn.cl](https://datos.bcn.cl) para el grafo de relaciones.
-- Escribe `graph.json` y un commit git por cada versión de cada ley.
-- Es idempotente: versiones ya comprometidas (`committed: true`) se saltan.
-
-### rebuild_history.py
-
-Reescribe el historial git en orden cronológico usando `git fast-import`.
-
-```bash
-LEYCHILE_DATA_ROOT=./historial python scripts/rebuild_history.py
-
-# Ver la lista de eventos sin escribir nada
-LEYCHILE_DATA_ROOT=./historial python scripts/rebuild_history.py --dry-run
-```
-
-- Agrupa todos los eventos `feat`/`update`/`derog` del mismo día y norma en un solo commit.
-- Inyecta datos de tramitación parlamentaria en el cuerpo del commit si existe `tramitacion.json`.
-- Ordena por `(fecha, grupo, rango, seq)` donde rango: 0=feat, 1=update, 2=derog.
-
-### sync_daily.py
-
-Sincronización diaria: detecta leyes nuevas y versiones nuevas, y reconstruye el historial cronológico.
-
-```bash
-LEYCHILE_DATA_ROOT=./historial python scripts/sync_daily.py
-
-# Vista previa sin modificar nada
-LEYCHILE_DATA_ROOT=./historial python scripts/sync_daily.py --dry-run
-
-# Sin reescribir el historial (más rápido, útil en pruebas)
-LEYCHILE_DATA_ROOT=./historial python scripts/sync_daily.py --skip-rebuild
-
-# Ampliar la ventana de búsqueda en opt=40
-LEYCHILE_DATA_ROOT=./historial python scripts/sync_daily.py --days 7
-```
-
-Pasos internos:
-1. Carga `graph.json` desde DATA_ROOT.
-2. Consulta LeyChile `opt=40` para detectar normas despachadas recientemente.
-3. Filtra candidatas `modificatoria` no conocidas; confirma vía BCN JSON que modifican la cadena primaria.
-4. Retrace de todas las leyes en el grafo (idempotente).
-5. Actualiza `graph.json` con un commit.
-6. Ejecuta `rebuild_history.rebuild()` para reordenar cronológicamente.
-
-Sale con código 1 si ocurre algún error durante el proceso.
-
-### fetch_tramitacion.py
-
-Descarga datos de tramitación (sesiones, votos) del SIL y la Cámara para una ley.
-
-```bash
-python scripts/fetch_tramitacion.py --numero 20000
-# Con boletín conocido:
-python scripts/fetch_tramitacion.py --numero 20000 --boletin 3182
-```
-
-Escribe `{directorio_ley}/tramitacion.json`.
-
-## Formato de commits
-
-```
-feat(ley): Ley 20000 publicada
-update(ley): Ley 20000 modificada por Ley 20502 — versión 2011-02-21
-derog(ley): Ley 19366 derogada → Ley 20000
-chore(meta): actualizar graph.json
-```
-
-Tipos: `feat` (primera versión), `update` (modificación), `derog` (derogación), `fix` (corrección).
-
-### Ejemplo de cuerpo de commit
-
-```
-LEY SOBRE TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS PSICOTRÓPICAS
-
-BCN idNorma=235507
-Publicación: 2005-02-16
-
-Boletín: 3182-07
-Trámite: Promulgación — Senado
-Sesión 47, Senado, 2004-12-15
-Votación: 67 a favor · 12 en contra · 3 abstenciones (Aprobado)
-
-Modifica: Ley 18403, Ley 19366
-```
-
-## Detección automática de DATA_ROOT
-
-Ambos scripts detectan automáticamente dónde viven los datos:
-
-1. Variable de entorno `LEYCHILE_DATA_ROOT` (prioridad máxima).
-2. Worktree `./historial/` si existe y tiene `.git`.
-3. Raíz del repositorio (modo legado).
-
-## Fuentes de datos
-
-| Fuente | Endpoint | Notas |
-|--------|---------|-------|
-| LeyChile XML | `https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma={id}&idVersion={YYYY-MM-DD}` | Límite: 1 req/s |
-| BCN datos enlazados | `https://datos.bcn.cl/recurso/cl/ley/{numero}/datos.json` | Límite: 0.3 req/s |
-| Senado tramitación | `https://tramitacion.senado.cl/wspublico/tramitacion.php?boletin={num}` | Sin API oficial |
-| Cámara votaciones | `https://opendata.congreso.cl/wscamaradiputados.asmx/getVotaciones_Boletin` | SOAP POST |
-
-**Fecha centinela**: LeyChile usa `2222-02-02` para versiones "vigentes". El filtro `int(d[:4]) <= 2100` la descarta.
-
-**Filtro de tipo**: Sólo se incluyen normas con `tipo == "Ley"` — excluye DFL, Decretos Supremos, etc.
-
-## Clasificación de leyes
-
-- `sustantiva`: ley con materia propia → `leyes/{numero}/`
-- `modificatoria`: ley cuyo objeto principal es modificar otras leyes → `modificaciones/{numero}/`
-
-La clasificación se basa en si el título comienza con prefijos como `MODIFICA`, `INTRODUCE MODIFICACIONES`, `DEROGA`, etc.
-
-## Tests
-
-```bash
-pip install pytest
+# Tests (funciones puras — sin red ni git)
 python -m pytest
 ```
 
-Los tests cubren todas las funciones puras de los tres scripts (parse, clasificación, XML, commits, agrupación de eventos) sin requerir red ni git.
+Ver [`CLAUDE.md`](CLAUDE.md) para la arquitectura completa: detección de `DATA_ROOT`, el modelo cause-centered de commits, la expansión BFS, los enrichers de tramitación, y el port SSR del frontend.
+
+## Fuentes de datos
+
+| Fuente | Endpoint | Límite |
+|---|---|---|
+| BCN SPARQL | `https://datos.bcn.cl/sparql` | — |
+| LeyChile norma JSON | `.../get_norma_json?idNorma=...` | adaptativo |
+| LeyChile XML versionado | `.../obtxml?opt=7&idNorma={id}&idVersion={fecha}` | 1 req/s |
+
+> **Fecha centinela.** LeyChile usa `2222-02-02` para versiones abiertas («vigente»). El filtro `int(fecha[:4]) <= 2100` la descarta.
 
 ## Proyectos similares
 
@@ -219,4 +135,6 @@ Los tests cubren todas las funciones puras de los tres scripts (parse, clasifica
 
 ## Licencia
 
-Los textos legales son documentos públicos del Estado de Chile. Los scripts se distribuyen bajo licencia MIT.
+Los textos legales son documentos públicos del Estado de Chile. El código se distribuye bajo licencia **MIT**.
+
+<p align="center"><sub>Auspiciado por <a href="https://www.kerokero.cl"><b>kerokero</b></a></sub></p>
