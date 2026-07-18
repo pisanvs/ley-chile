@@ -299,17 +299,30 @@ export default function TimeMachine() {
       <ResearchSection />
 
       <footer className="px-6 md:px-12 max-w-5xl mx-auto pb-16 text-xs text-ink-faint border-t border-rule pt-8">
-        <p>
-          Datos: Biblioteca del Congreso Nacional · Build:{' '}
+        <div className="flex flex-wrap items-center justify-between gap-x-4 gap-y-4">
+          <p>
+            Datos: Biblioteca del Congreso Nacional · Build:{' '}
+            <a
+              href="https://github.com/pisanvs/ley-chile"
+              target="_blank"
+              rel="noreferrer"
+              className="hover:text-ink"
+            >
+              github.com/pisanvs/ley-chile
+            </a>
+          </p>
           <a
-            href="https://github.com/pisanvs/ley-chile"
+            href="https://www.kerokero.cl"
             target="_blank"
-            rel="noreferrer"
-            className="hover:text-ink"
+            rel="noopener noreferrer sponsored"
+            className="inline-flex items-center gap-2 text-ink-soft hover:text-ink transition"
+            title="Auspiciado por kerokero"
           >
-            github.com/pisanvs/ley-chile
+            <span className="uppercase tracking-[0.18em] text-[10px] text-ink-faint">Auspiciado por</span>
+            <img src="/kerokero.svg" alt="kerokero" width={18} height={18} className="shrink-0" />
+            <span className="font-medium text-[13px]">kerokero</span>
           </a>
-        </p>
+        </div>
       </footer>
     </div>
   )
