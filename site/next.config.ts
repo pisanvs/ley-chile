@@ -17,7 +17,8 @@ export default withSentryConfig(config, {
   silent: !process.env.CI,
   widenClientFileUpload: true,
 
-  // Tunnel client-side Sentry events through our own domain (avoids ad
-  // blockers stripping the direct ingest.sentry.io request).
-  tunnelRoute: '/monitoring',
+  // tunnelRoute (proxying client events through our own domain, to dodge ad
+  // blockers) doesn't produce a working route under Turbopack as of
+  // @sentry/nextjs 10.66 / Next 16.2 — 404s even in a standalone prod build
+  // with a valid DSN. Skipping it; server-side capture is unaffected.
 })

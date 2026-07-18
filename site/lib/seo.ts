@@ -1,5 +1,9 @@
 import { pool } from './db'
-import { getCanonicalNorma, type Norma, type Version } from './norma'
+import {
+  getCanonicalNorma, getKeyPage, getNormaById, type Norma, type Version,
+} from './norma'
+import { normaHref } from './href'
+import { normaSlug } from './slug'
 
 /** Tipos that carry substantive articulado worth a guide. `res`/`dto` are the
  *  bulk of the corpus (~298k of ~333k) and are overwhelmingly one-liners —
@@ -74,6 +78,44 @@ export async function getSeoNorma(tipo: string, numero: string): Promise<Norma |
   return resolved?.norma ?? null
 }
 
+/** How a /guia or /cambios request resolves. Shared by both routes so the two
+ *  cannot drift apart on identity handling. */
+export type SeoRouteResolution =
+  | { kind: 'render'; norma: Norma }
+  | { kind: 'redirect'; to: string }
+  | { kind: 'notFound' }
+
+/** Resolve `/{guia|cambios}/...` under the same rule as the reader: idNorma
+ *  addresses, the slug decorates, and an ambiguous legacy key is never guessed.
+ *
+ *  Accepts both shapes because they are indistinguishable by length:
+ *    /guia/{idNorma}/{slug}   — canonical; a wrong or missing slug 301s
+ *    /guia/{tipo}/{numero}    — legacy; 301s to canonical when the key names
+ *                               exactly one norma, and to the norma hub when it
+ *                               does not (choose a norma, then read about it).
+ *
+ *  The first segment discriminates: no tipo in the corpus is numeric. */
+export async function resolveSeoRoute(
+  rest: string[],
+  hrefFor: (n: Norma) => string,
+): Promise<SeoRouteResolution> {
+  if (rest.length < 1 || rest.length > 2) return { kind: 'notFound' }
+
+  if (/^\d+$/.test(rest[0])) {
+    const norma = await getNormaById(Number(rest[0]))
+    if (!norma) return { kind: 'notFound' }
+    if (rest[1] !== normaSlug(norma)) return { kind: 'redirect', to: hrefFor(norma) }
+    return { kind: 'render', norma }
+  }
+
+  if (rest.length !== 2) return { kind: 'notFound' }
+  const [tipo, numero] = rest
+  const { members, total } = await getKeyPage(tipo, numero, 1)
+  if (total === 0) return { kind: 'notFound' }
+  if (total === 1) return { kind: 'redirect', to: hrefFor(members[0]) }
+  return { kind: 'redirect', to: normaHref(tipo, numero) }
+}
+
 export interface GuiaArticle {
   slug: string
   label: string
@@ -109,8 +151,12 @@ export async function getGuiaArticles(
 }
 
 export interface SeoUrlRow {
+  /** idNorma + titulo so the content sitemap can emit canonical
+   *  /guia/{id}/{slug} URLs instead of the ambiguous key form. */
+  idNorma: number
   tipo: string
   numero: string
+  titulo: string
   lastmod: string | null
 }
 
@@ -118,7 +164,7 @@ export interface SeoUrlRow {
  *  Counts only — never sum(length(body)) here. See MIN_GUIA_ARTICLES. */
 export async function listGuiaUrls(): Promise<SeoUrlRow[]> {
   const { rows } = await pool.query(
-    `SELECT n.tipo, n.numero, n.fecha_publicacion AS lastmod
+    `SELECT n.id_norma, n.tipo, n.numero, n.titulo, n.fecha_publicacion AS lastmod
        FROM norma n
        JOIN (
          SELECT id_norma, count(*) AS arts FROM articulo GROUP BY id_norma
@@ -127,20 +173,27 @@ export async function listGuiaUrls(): Promise<SeoUrlRow[]> {
         AND a.arts >= $2`,
     [GUIA_TIPOS as unknown as string[], MIN_GUIA_ARTICLES],
   )
-  return rows.map((r) => ({ tipo: r.tipo, numero: r.numero, lastmod: r.lastmod }))
+  return rows.map(toSeoUrlRow)
 }
 
 /** Every norma with a real change history. */
 export async function listCambiosUrls(): Promise<SeoUrlRow[]> {
   const { rows } = await pool.query(
-    `SELECT n.tipo, n.numero, max(v.desde)::text AS lastmod
+    `SELECT n.id_norma, n.tipo, n.numero, n.titulo, max(v.desde)::text AS lastmod
        FROM norma n
        JOIN version v ON v.id_norma = n.id_norma
       WHERE EXISTS (SELECT 1 FROM modificacion m WHERE m.target_id = n.id_norma)
-      GROUP BY n.tipo, n.numero, n.id_norma
+      GROUP BY n.tipo, n.numero, n.titulo, n.id_norma
      HAVING count(v.*) > 1`,
   )
-  return rows.map((r) => ({ tipo: r.tipo, numero: r.numero, lastmod: r.lastmod }))
+  return rows.map(toSeoUrlRow)
+}
+
+function toSeoUrlRow(r: Record<string, any>): SeoUrlRow {
+  return {
+    idNorma: r.id_norma, tipo: r.tipo, numero: r.numero,
+    titulo: r.titulo ?? '', lastmod: r.lastmod,
+  }
 }
 
 /** Human label for a tipo. Mirrors buscar/page.tsx's TIPO_LABEL, extended with

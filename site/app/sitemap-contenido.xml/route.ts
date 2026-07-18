@@ -1,3 +1,4 @@
+import { cambiosHref, guiaHref } from '@/lib/href'
 import { SITE } from '@/lib/jsonld'
 import { listCambiosUrls, listGuiaUrls } from '@/lib/seo'
 import { listPosts } from '@/lib/blog'
@@ -48,11 +49,11 @@ export async function GET() {
     // which would otherwise split into extra path segments — the same trap
     // normaHref() exists to close for law URLs.
     ...guias.map((g) => ({
-      loc: `${SITE}/guia/${encodeURIComponent(g.tipo)}/${encodeURIComponent(g.numero)}`,
+      loc: guiaHref(g, SITE),
       lastmod: g.lastmod ?? undefined,
     })),
     ...cambios.map((c) => ({
-      loc: `${SITE}/cambios/${encodeURIComponent(c.tipo)}/${encodeURIComponent(c.numero)}`,
+      loc: cambiosHref(c, SITE),
       lastmod: c.lastmod ?? undefined,
     })),
   ]

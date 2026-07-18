@@ -1,25 +1,23 @@
 import Link from 'next/link'
-import { notFound } from 'next/navigation'
+import { notFound, permanentRedirect } from 'next/navigation'
 import { breadcrumbJsonLd, faqJsonLd, jsonLdScript, legislationJsonLd, SITE, type FaqEntry } from '@/lib/jsonld'
-import { canonicalHref } from '@/lib/href'
+import { cambiosHref, canonicalHref, guiaHref } from '@/lib/href'
 import {
   currentFecha, getModifiedBy, getModifies, getVersions,
   type ModLink, type Norma, type Version,
 } from '@/lib/norma'
 import {
-  fechaLarga, getGuiaArticles, getGuiaStats, getSeoNorma, normaLabel,
-  qualifiesForCambios, qualifiesForGuia, tipoLabel,
+  fechaLarga, getGuiaArticles, getGuiaStats, normaLabel,
+  qualifiesForCambios, qualifiesForGuia, resolveSeoRoute, tipoLabel,
 } from '@/lib/seo'
 import { ArticleBody } from '@/components/seo/Prose'
 
-interface Props { params: Promise<{ tipo: string; numero: string }> }
+interface Props { params: Promise<{ rest: string[] }> }
 
 /** Everything a guide needs, resolved in one place so both generateMetadata and
  *  the page apply the identical gate — a page that 404s must not emit metadata
  *  claiming it exists. */
-async function load(tipo: string, numero: string) {
-  const norma = await getSeoNorma(tipo, numero)
-  if (!norma) return null
+async function load(norma: Norma) {
   const stats = await getGuiaStats(norma.idNorma)
   if (!qualifiesForGuia(norma, stats)) return null
   const versions = await getVersions(norma.idNorma)
@@ -43,13 +41,15 @@ function description(n: Norma, versions: Version[]): string {
 }
 
 export async function generateMetadata({ params }: Props) {
-  const { tipo, numero } = await params
-  const data = await load(tipo, numero)
+  const { rest } = await params
+  const r = await resolveSeoRoute(rest, guiaHref)
+  if (r.kind !== 'render') return {}
+  const data = await load(r.norma)
   if (!data) return {}
   return {
     title: title(data.norma),
     description: description(data.norma, data.versions),
-    alternates: { canonical: `${SITE}/guia/${tipo}/${encodeURIComponent(numero)}` },
+    alternates: { canonical: `${SITE}${guiaHref(data.norma)}` },
   }
 }
 
@@ -96,8 +96,11 @@ function buildFaq(
 // shell commits HTTP 200, after which notFound() cannot set the status, and
 // every miss becomes a soft-404. Same rule as the reader routes.
 export default async function Page({ params }: Props) {
-  const { tipo, numero } = await params
-  const data = await load(tipo, numero)
+  const { rest } = await params
+  const r = await resolveSeoRoute(rest, guiaHref)
+  if (r.kind === 'notFound') notFound()
+  if (r.kind === 'redirect') permanentRedirect(r.to)
+  const data = await load(r.norma)
   if (!data) notFound()
   const { norma: n, versions, fecha, articles, modifies, modifiedBy, stats } = data
 
@@ -121,7 +124,7 @@ export default async function Page({ params }: Props) {
         dangerouslySetInnerHTML={{
           __html: jsonLdScript(breadcrumbJsonLd([
             { name: 'Guías', path: '/guia' },
-            { name: label, path: `/guia/${n.tipo}/${encodeURIComponent(n.numero)}` },
+            { name: label, path: guiaHref(n) },
           ])),
         }}
       />
@@ -157,7 +160,7 @@ export default async function Page({ params }: Props) {
           </Link>
           {hasCambios && (
             <Link
-              href={`/cambios/${n.tipo}/${encodeURIComponent(n.numero)}`}
+              href={cambiosHref(n)}
               className="inline-flex items-center gap-2 text-sm text-indigo hover:underline px-4 py-2.5"
             >
               Qué cambió y cuándo →

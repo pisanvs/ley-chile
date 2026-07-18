@@ -1,19 +1,18 @@
 import Link from 'next/link'
-import { notFound } from 'next/navigation'
+import { notFound, permanentRedirect } from 'next/navigation'
 import { breadcrumbJsonLd, faqJsonLd, jsonLdScript, legislationJsonLd, SITE, type FaqEntry } from '@/lib/jsonld'
-import { canonicalHref } from '@/lib/href'
+import { cambiosHref, canonicalHref, guiaHref } from '@/lib/href'
 import {
   currentFecha, getModifiedBy, getVersions, type ModLink, type Norma, type Version,
 } from '@/lib/norma'
 import {
-  fechaLarga, getGuiaStats, getSeoNorma, normaLabel, qualifiesForCambios, qualifiesForGuia, tipoLabel,
+  fechaLarga, getGuiaStats, normaLabel, qualifiesForCambios, qualifiesForGuia,
+  resolveSeoRoute, tipoLabel,
 } from '@/lib/seo'
 
-interface Props { params: Promise<{ tipo: string; numero: string }> }
+interface Props { params: Promise<{ rest: string[] }> }
 
-async function load(tipo: string, numero: string) {
-  const norma = await getSeoNorma(tipo, numero)
-  if (!norma) return null
+async function load(norma: Norma) {
   const versions = await getVersions(norma.idNorma)
   const modifiedBy = await getModifiedBy(norma.idNorma)
   if (!qualifiesForCambios(versions, modifiedBy.length)) return null
@@ -30,14 +29,16 @@ function title(n: Norma): string {
 }
 
 export async function generateMetadata({ params }: Props) {
-  const { tipo, numero } = await params
-  const data = await load(tipo, numero)
+  const { rest } = await params
+  const r = await resolveSeoRoute(rest, cambiosHref)
+  if (r.kind !== 'render') return {}
+  const data = await load(r.norma)
   if (!data) return {}
   const { norma: n, versions, modifiedBy } = data
   return {
     title: title(n),
     description: `La ${normaLabel(n)} ha cambiado ${versions.length} veces desde su publicación, por ${modifiedBy.length} ${modifiedBy.length === 1 ? 'norma modificadora' : 'normas modificadoras'}. Cada versión, su causa y qué texto regía en cada fecha.`,
-    alternates: { canonical: `${SITE}/cambios/${tipo}/${encodeURIComponent(numero)}` },
+    alternates: { canonical: `${SITE}${cambiosHref(n)}` },
   }
 }
 
@@ -74,8 +75,11 @@ function buildFaq(n: Norma, versions: Version[], modifiedBy: ModLink[], fecha: s
 
 // Resolve before JSX; no <Suspense>. See the reader routes.
 export default async function Page({ params }: Props) {
-  const { tipo, numero } = await params
-  const data = await load(tipo, numero)
+  const { rest } = await params
+  const r = await resolveSeoRoute(rest, cambiosHref)
+  if (r.kind === 'notFound') notFound()
+  if (r.kind === 'redirect') permanentRedirect(r.to)
+  const data = await load(r.norma)
   if (!data) notFound()
   const { norma: n, versions, modifiedBy, fecha, hasGuia } = data
 
@@ -101,7 +105,7 @@ export default async function Page({ params }: Props) {
         dangerouslySetInnerHTML={{
           __html: jsonLdScript(breadcrumbJsonLd([
             { name: 'Cambios', path: '/cambios' },
-            { name: label, path: `/cambios/${n.tipo}/${encodeURIComponent(n.numero)}` },
+            { name: label, path: cambiosHref(n) },
           ])),
         }}
       />
@@ -125,7 +129,7 @@ export default async function Page({ params }: Props) {
         <div className="mt-8 flex flex-wrap gap-3">
           {hasGuia && (
             <Link
-              href={`/guia/${n.tipo}/${encodeURIComponent(n.numero)}`}
+              href={guiaHref(n)}
               className="inline-flex items-center gap-2 border border-ink/80 hover:border-ruby text-ink hover:text-ruby transition px-4 py-2.5 rounded-md text-sm"
             >
               Qué dice la {label} →
