@@ -1,13 +1,37 @@
 import './globals.css'
 import type { Metadata } from 'next'
 import { AppShell } from '@/components/AppShell'
+import { SITE } from '@/lib/site'
+
+// Aligned to the landing hero copy. Reused across the base metadata, OG, and
+// Twitter so they never drift. The og:image is app/opengraph-image.png, which
+// Next wires into og:image automatically (Twitter falls back to it too).
+const OG_TITLE = 'El corpus jurídico chileno, en formato amigable'
+const DESCRIPTION =
+  'Control de cambios para toda la historia de la ley chilena: cada ley, decreto y ' +
+  'resolución desde 1810, reconstruida como un repositorio git. Para agentes y humanos.'
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE),
   title: {
-    default: 'LeyChile — cada versión de cada ley chilena',
+    default: 'LeyChile — el corpus jurídico chileno, en formato amigable',
     template: '%s · LeyChile',
   },
-  description: 'Cada versión de cada ley chilena, desde 1810. Texto vigente e histórico, con búsqueda.',
+  description: DESCRIPTION,
+  applicationName: 'LeyChile',
+  openGraph: {
+    type: 'website',
+    siteName: 'LeyChile',
+    locale: 'es_CL',
+    url: SITE,
+    title: OG_TITLE,
+    description: DESCRIPTION,
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: OG_TITLE,
+    description: DESCRIPTION,
+  },
 }
 
 // Match the theme before first paint (web/ uses the `lc-theme` localStorage key).
