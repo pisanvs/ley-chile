@@ -1,11 +1,14 @@
-name: Build pages
+name: Redirect pages
+
+# The SPA at web/ has been superseded by the SSR site at https://leyes.pisanvs.cl.
+# GitHub Pages (https://pisanvs.github.io/ley-chile/) now serves a redirect to it
+# instead of rebuilding the old SPA on every historial push. web/ source stays in
+# the repo and buildable; it's just no longer the deployed surface.
 on:
   push:
-    branches: [historial]
+    branches: [main]
+    paths: ['.github/workflows/build-pages.yml']
   workflow_dispatch:
-  workflow_run:
-    workflows: ["Pipeline"]
-    types: [completed]
 
 permissions:
   contents: read
@@ -17,135 +20,60 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  resolve:
-    runs-on: ubuntu-latest
-    outputs:
-      historial_sha: ${{ steps.r.outputs.historial_sha }}
-      last_built_sha: ${{ steps.r.outputs.last_built_sha }}
-      should_build: ${{ steps.r.outputs.should_build }}
-    steps:
-      - id: r
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          set -euo pipefail
-          historial_sha=$(gh api "repos/${{ github.repository }}/branches/historial" --jq '.commit.sha')
-          echo "historial_sha=$historial_sha" >> "$GITHUB_OUTPUT"
-
-          # Last-built historial SHA is encoded in the pages-branch HEAD commit
-          # message as "build: <sha>". Pages branch may not exist on the very
-          # first run, so tolerate failure.
-          last_built_sha=""
-          if msg=$(gh api "repos/${{ github.repository }}/branches/pages" --jq '.commit.commit.message' 2>/dev/null); then
-            last_built_sha=$(printf '%s\n' "$msg" | head -n1 | awk '{print $2}')
-          fi
-          echo "last_built_sha=$last_built_sha" >> "$GITHUB_OUTPUT"
-
-          if [ "$historial_sha" = "$last_built_sha" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
-            echo "should_build=false" >> "$GITHUB_OUTPUT"
-            echo "Historial sha unchanged ($historial_sha) — skipping rebuild."
-          else
-            echo "should_build=true" >> "$GITHUB_OUTPUT"
-            echo "Will rebuild: historial=$historial_sha, last=$last_built_sha"
-          fi
-
-  build:
-    needs: resolve
-    if: needs.resolve.outputs.should_build == 'true'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout main (sparse — code only)
-        uses: actions/checkout@v4
-        with:
-          ref: main
-          path: code
-          sparse-checkout: |
-            scripts
-            web
-            requirements.txt
-          sparse-checkout-cone-mode: false
-
-      # Try to restore a cached historial worktree. Exact-SHA hit → no fetch.
-      # Older SHA hit (via restore-keys) → warm base, then `git fetch` tops it up.
-      - name: Restore historial cache
-        id: hist-cache
-        uses: actions/cache@v4
-        with:
-          path: historial
-          key: historial-${{ needs.resolve.outputs.historial_sha }}
-          restore-keys: |
-            historial-
-
-      - name: Fetch / update historial
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          set -euo pipefail
-          target_sha="${{ needs.resolve.outputs.historial_sha }}"
-          repo_url="https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
-
-          if [ ! -d historial/.git ]; then
-            echo "Cold start — full clone (this is the slow path)."
-            git clone --branch historial --single-branch "$repo_url" historial
-          else
-            echo "Warm cache — incremental fetch."
-            git -C historial remote set-url origin "$repo_url"
-            git -C historial fetch --no-tags origin historial
-            git -C historial checkout --force --detach "$target_sha"
-            git -C historial reset --hard "$target_sha"
-          fi
-
-          echo "Historial at $(git -C historial rev-parse HEAD)"
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with: { python-version: '3.12' }
-
-      - name: Install Python deps
-        run: pip install -r code/requirements.txt
-
-      - name: Build indexes
-        run: |
-          python code/scripts/build_web_indexes.py \
-            --historial historial \
-            --out code/web/public \
-            --repo ${{ github.repository }}
-
-      - name: Set up pnpm
-        uses: pnpm/action-setup@v4
-        with: { version: 9 }
-
-      - name: Set up Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-          cache: 'pnpm'
-          cache-dependency-path: code/web/pnpm-lock.yaml
-
-      - name: Install web deps
-        run: pnpm --dir code/web install --frozen-lockfile
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Build SPA
-        env:
-          VITE_BASE: /ley-chile/
-          VITE_REPO: ${{ github.repository }}
-        run: pnpm --dir code/web build
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: code/web/dist
-
   deploy:
-    needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - name: Generate redirect site
+        run: |
+          mkdir -p _site
+          touch _site/.nojekyll
+          # index.html handles the bare root; 404.html catches every deep link
+          # (GitHub Pages serves 404.html for any path with no file), so a saved
+          # /ley-chile/ley/20000 lands on https://leyes.pisanvs.cl/ley/20000.
+          cat > _site/index.html <<'HTML'
+          <!DOCTYPE html>
+          <html lang="es">
+          <head>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width,initial-scale=1">
+          <title>ley·chile se mudó a leyes.pisanvs.cl</title>
+          <link rel="canonical" href="https://leyes.pisanvs.cl/">
+          <meta name="robots" content="noindex,follow">
+          <script>
+            (function () {
+              var target = 'https://leyes.pisanvs.cl';
+              var base = '/ley-chile';
+              var path = location.pathname;
+              if (path.indexOf(base) === 0) path = path.slice(base.length);
+              if (!path) path = '/';
+              location.replace(target + path + location.search + location.hash);
+            })();
+          </script>
+          <meta http-equiv="refresh" content="0;url=https://leyes.pisanvs.cl/">
+          <style>
+            body{font-family:system-ui,-apple-system,sans-serif;max-width:32rem;margin:20vh auto;padding:0 1.5rem;color:#2b2b2b;line-height:1.6}
+            a{color:#c13f3f;font-weight:600}
+          </style>
+          </head>
+          <body>
+          <h1>ley·chile se mudó</h1>
+          <p>El sitio ahora vive en <a href="https://leyes.pisanvs.cl">leyes.pisanvs.cl</a>. Te estamos redirigiendo…</p>
+          </body>
+          </html>
+          HTML
+          cp _site/index.html _site/404.html
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
