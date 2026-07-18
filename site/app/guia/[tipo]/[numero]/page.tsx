@@ -46,9 +46,12 @@ export async function generateMetadata({ params }: Props) {
   const { tipo, numero } = await params
   const data = await load(tipo, numero)
   if (!data) return {}
+  const t = title(data.norma)
+  const d = description(data.norma, data.versions)
   return {
-    title: title(data.norma),
-    description: description(data.norma, data.versions),
+    title: t,
+    description: d,
+    openGraph: { title: t, description: d },
     alternates: { canonical: `${SITE}/guia/${tipo}/${encodeURIComponent(numero)}` },
   }
 }

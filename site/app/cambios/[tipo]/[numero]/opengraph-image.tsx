@@ -16,8 +16,10 @@ export default async function Image({ params }: Props) {
   const { tipo, numero } = await params
   const norma = await getSeoNorma(tipo, numero)
   if (!norma) notFound()
-  const versions = await getVersions(norma.idNorma)
-  const modifiedBy = await getModifiedBy(norma.idNorma)
+  const [versions, modifiedBy] = await Promise.all([
+    getVersions(norma.idNorma),
+    getModifiedBy(norma.idNorma),
+  ])
   if (!qualifiesForCambios(versions, modifiedBy.length)) notFound()
   const [stats, fonts] = await Promise.all([getGuiaStats(norma.idNorma), loadOgFonts()])
   const props = buildLawCardProps({

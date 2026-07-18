@@ -28,7 +28,7 @@ export function renderLawCard(p: LawCardProps) {
       <div style={{ display: 'flex', flex: 1 }} />
       <div style={{ display: 'flex', alignItems: 'center', gap: 48, marginBottom: 28 }}>
         <Stat label="Publicada" value={p.fechaPublicacion || '—'} />
-        {p.articles !== undefined && <Stat label="Artículos" value={String(p.articles)} />}
+        {!!p.articles && <Stat label="Artículos" value={String(p.articles)} />}
         <Stat label="Versiones" value={String(p.versions)} />
         <Stat label="Estado" value={estadoLabel} color={estadoColor} />
       </div>
