@@ -72,6 +72,17 @@ export function TopBar({ crumb }: Props) {
             </span>
           </span>
         </a>
+        <a
+          href="https://www.kerokero.cl"
+          target="_blank"
+          rel="noopener noreferrer sponsored"
+          className="hidden lg:inline-flex items-center gap-1.5 text-[11px] text-ink-faint hover:text-ink transition"
+          title="Auspiciado por kerokero"
+        >
+          <span>Auspiciado por</span>
+          <img src="/kerokero.svg" alt="" width={15} height={15} className="shrink-0" aria-hidden />
+          <span className="font-medium">kerokero</span>
+        </a>
         {crumb && (
           <>
             <span className="text-ink-faint">/</span>
@@ -99,17 +110,6 @@ export function TopBar({ crumb }: Props) {
           </Link>
         </nav>
         <div className="ml-auto md:ml-3 flex items-center gap-2">
-          <a
-            href="https://www.kerokero.cl"
-            target="_blank"
-            rel="noopener noreferrer sponsored"
-            className="hidden lg:inline-flex items-center gap-1.5 text-[11px] text-ink-faint hover:text-ink transition mr-1"
-            title="Auspiciado por kerokero"
-          >
-            <span className="hidden xl:inline">Auspiciado por</span>
-            <img src="/kerokero.svg" alt="" width={15} height={15} className="shrink-0" aria-hidden />
-            <span className="font-medium">kerokero</span>
-          </a>
           <button
             onClick={open}
             onMouseEnter={prefetch}
