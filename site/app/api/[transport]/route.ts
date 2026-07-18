@@ -1,8 +1,9 @@
 import { createMcpHandler } from 'mcp-handler'
 import { z } from 'zod'
 import {
-  currentFecha, getArticlesAsOf, getModifiedBy, getModifies, getNorma, getVersions,
-  type Article, type Version,
+  currentFecha, getArticlesAsOf, getModifiedBy, getModifies, getNormaById,
+  getNormasByKey, getOrganismosByIds, getVersions,
+  type Article, type Norma, type Version,
 } from '@/lib/norma'
 import { needsColdPath, searchArticles, searchCold, searchHot } from '@/lib/search'
 import { align, joinDiffText, wordDiff } from '@/lib/diff'
@@ -30,14 +31,26 @@ function text(s: string) {
   return { content: [{ type: 'text' as const, text: s }] }
 }
 
-async function resolve(tipo: string, numero: string) {
-  const norma = await getNorma(tipo, numero)
-  if (!norma) return null
-  return norma
+/** Resolve a (tipo, numero) to a single norma, deterministically. The pair is
+ *  not unique (several "DFL 1"), so instead of an arbitrary LIMIT 1 we take the
+ *  canonical — most-reformed, tie → lowest idNorma — so every tool that resolves
+ *  the same key lands on the same norma. `get_law` additionally surfaces the
+ *  alternatives and accepts an explicit idNorma to reach a specific one. */
+async function resolve(tipo: string, numero: string): Promise<Norma | null> {
+  const matches = await getNormasByKey(tipo, numero)
+  return matches[0] ?? null
 }
 
 function lawUrl(tipo: string, numero: string, fecha?: string) {
   return normaHref(tipo, numero, fecha, undefined, SITE)
+}
+
+/** One line identifying a norma unambiguously: organismo distinguishes same-key
+ *  siblings, idNorma is the stable handle to pass back into get_law. */
+function normaIdLine(n: Norma): string {
+  const org = n.organismo ? ` · ${n.organismo}` : ''
+  const pub = n.fechaPublicacion ? ` · publicada ${n.fechaPublicacion}` : ''
+  return `- ${n.tipo.toUpperCase()} ${n.numero}${org} — ${n.titulo}\n  idNorma: ${n.idNorma}${pub}`
 }
 
 /** The version in force on `fecha`. `hasta` is INCLUSIVE — it holds the day
@@ -72,9 +85,14 @@ const handler = createMcpHandler(
           .filter((h) => (seen.has(h.idNorma) ? false : (seen.add(h.idNorma), true)))
           .slice(0, 20)
         if (hits.length === 0) return text(`Sin resultados para "${query}" (vigente al ${fecha}).`)
-        const lines = hits.map(
-          (h) => `- ${h.tipo.toUpperCase()} ${h.numero} — ${h.titulo}\n  ${lawUrl(h.tipo, h.numero)}`,
-        )
+        // Same (tipo, numero) can appear more than once (e.g. several "DFL 1",
+        // one per organismo). Enrich with organismo + idNorma so an agent can
+        // tell them apart and address a specific one via get_law(idNorma).
+        const orgs = await getOrganismosByIds(hits.map((h) => h.idNorma))
+        const lines = hits.map((h) => {
+          const org = orgs.get(h.idNorma)
+          return `- ${h.tipo.toUpperCase()} ${h.numero}${org ? ` · ${org}` : ''} — ${h.titulo}\n  idNorma: ${h.idNorma} · ${lawUrl(h.tipo, h.numero)}`
+        })
         return text(`${hits.length} resultados para "${query}" (vigente al ${fecha}):\n\n${lines.join('\n')}`)
       },
     )
@@ -131,23 +149,47 @@ const handler = createMcpHandler(
           tipo: z.string().describe('Tipo: ley, dl, dfl, dto, cod, res…'),
           numero: z.string().describe('Número de la norma, ej. "20330"'),
           fecha: z.string().optional().describe('Fecha YYYY-MM-DD; por defecto la versión vigente'),
+          idNorma: z.number().int().optional().describe(
+            'idNorma exacto. Úsalo cuando varias normas comparten (tipo, número) — ' +
+            'p. ej. hay varios "DFL 1", uno por organismo — para elegir una sin ambigüedad.',
+          ),
         },
       },
-      async ({ tipo, numero, fecha }) => {
-        const norma = await resolve(tipo, numero)
-        if (!norma) return text(`No se encontró ${tipo} ${numero}.`)
+      async ({ tipo, numero, fecha, idNorma }) => {
+        let norma: Norma | null
+        if (idNorma !== undefined) {
+          norma = await getNormaById(idNorma)
+          if (!norma) return text(`No se encontró una norma con idNorma ${idNorma}.`)
+        } else {
+          const matches = await getNormasByKey(tipo, numero)
+          if (matches.length === 0) return text(`No se encontró ${tipo} ${numero}.`)
+          if (matches.length > 1) {
+            // Ambiguous key — don't silently pick. Show the siblings, each with
+            // its organismo and idNorma, and tell the agent how to choose.
+            return text(
+              [
+                `Hay ${matches.length} normas con clave ${tipo.toUpperCase()} ${numero}, ` +
+                  'distinguibles por organismo. Vuelve a llamar get_law con el idNorma deseado:',
+                '',
+                ...matches.map(normaIdLine),
+              ].join('\n'),
+            )
+          }
+          norma = matches[0]
+        }
         const versions = await getVersions(norma.idNorma)
         const at = fecha ?? currentFecha(versions)
         const articles = await getArticlesAsOf(norma.idNorma, at)
         const index = articles.map((a: Article) => `  - ${a.label}${a.rawHeading ? ` (${a.rawHeading})` : ''}`)
         return text(
           [
-            `${tipo.toUpperCase()} ${numero} — ${norma.titulo}`,
+            `${norma.tipo.toUpperCase()} ${norma.numero} — ${norma.titulo}`,
+            `idNorma: ${norma.idNorma}`,
             norma.organismo ? `Organismo: ${norma.organismo}` : '',
             `Publicación: ${norma.fechaPublicacion ?? '—'}${norma.derogado ? ' · DEROGADA' : ''}`,
             `Texto vigente al: ${at}`,
             `Versiones (${versions.length}): ${versions.map((v) => v.desde).join(', ')}`,
-            `URL: ${lawUrl(tipo, numero, at)}`,
+            `URL: ${lawUrl(norma.tipo, norma.numero, at)}`,
             '',
             `Artículos (${articles.length}) — usa get_article para el texto:`,
             ...index.slice(0, 300),

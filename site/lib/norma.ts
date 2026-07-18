@@ -61,6 +61,38 @@ export async function getNorma(tipo: string, numero: string): Promise<Norma | nu
   return rows[0] ? toNorma(rows[0]) : null
 }
 
+/** Every norma sharing a (tipo, numero) key, most-reformed first (tie → lowest
+ *  idNorma). The pair is NOT unique: ~7 different "DFL 1" laws exist, one per
+ *  organismo (law_dir disambiguates them by organismo-slug, the URL doesn't).
+ *  Callers that must pick one deterministically take [0]; callers that must
+ *  disambiguate for a human/agent show the whole list with organismo + idNorma. */
+export async function getNormasByKey(tipo: string, numero: string): Promise<Norma[]> {
+  const { rows } = await pool.query(
+    `SELECT n.id_norma, n.tipo, n.numero, n.titulo, n.organismo, n.derogado,
+            n.fecha_publicacion, n.law_dir
+       FROM norma n
+       LEFT JOIN version v ON v.id_norma = n.id_norma
+      WHERE n.tipo = $1 AND n.numero = $2
+      GROUP BY n.id_norma, n.tipo, n.numero, n.titulo, n.organismo, n.derogado,
+               n.fecha_publicacion, n.law_dir
+      ORDER BY count(v.*) DESC, n.id_norma ASC`,
+    [decodeSegment(tipo), decodeSegment(numero)],
+  )
+  return rows.map(toNorma)
+}
+
+/** organismo per idNorma, for one batched lookup. Search hits carry no
+ *  organismo; the MCP enriches them with this so same-key results (e.g. several
+ *  "DFL 1") are told apart. */
+export async function getOrganismosByIds(ids: number[]): Promise<Map<number, string>> {
+  if (ids.length === 0) return new Map()
+  const { rows } = await pool.query(
+    `SELECT id_norma, organismo FROM norma WHERE id_norma = ANY($1)`,
+    [ids],
+  )
+  return new Map(rows.map((r) => [r.id_norma as number, (r.organismo ?? '') as string]))
+}
+
 export async function getVersions(idNorma: number): Promise<Version[]> {
   const { rows } = await pool.query(
     `SELECT desde, hasta, commit_sha, causa_id, subject
