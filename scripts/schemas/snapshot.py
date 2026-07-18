@@ -7,12 +7,12 @@ possibly two deploys.
 from __future__ import annotations
 
 import json
-from dataclasses import asdict, dataclass, fields
+from dataclasses import asdict, dataclass, field, fields
 from datetime import date, timedelta
 from typing import Any, Iterable, TypeVar
 
 __all__ = [
-    "NormaRow", "VersionRow", "ModRow", "EventRow", "Manifest",
+    "NormaRow", "VersionRow", "ModRow", "EventRow", "RelacionRow", "Manifest",
     "close_ranges", "to_ndjson", "from_ndjson",
 ]
 
@@ -30,6 +30,24 @@ class NormaRow:
     derogado: bool
     fecha_publicacion: str | None
     law_dir: str
+    # Metadata LeyChile publishes that the ingest used to discard.
+    #
+    # Every one carries a DEFAULT, which is what makes this artifact boundary
+    # safe to cross in both directions: from_ndjson() drops unknown keys, so an
+    # old loader ignores these, and a new loader reading a snapshot exported
+    # before they existed falls back to the default instead of raising on a
+    # missing argument. Without defaults, deploying the loader ahead of a fresh
+    # export would break every load.
+    #
+    # Lists, not tuples: JSON has no tuple, so a tuple field would come back
+    # from from_ndjson() as a list and break round-trip equality — which
+    # test_ndjson_round_trip asserts, and which anything comparing a re-read row
+    # to its source depends on. `frozen` still prevents rebinding the attribute.
+    nombres_uso_comun: list[str] = field(default_factory=list)
+    materias: list[str] = field(default_factory=list)
+    observaciones: list[str] = field(default_factory=list)
+    doble_articulado: bool = False
+    refundido_por: str = ""
 
 
 @dataclass(frozen=True)
@@ -51,6 +69,24 @@ class ModRow:
     target_id: int
     fecha: str
     commit_sha: str
+
+
+@dataclass(frozen=True)
+class RelacionRow:
+    """A typed relation between two normas.
+
+    Deliberately separate from ModRow: a modificación is dated and carries the
+    commit that produced it, whereas a refundido is a standing structural fact
+    with no date of its own. Folding both into one table would mean a nullable
+    fecha and a type column that changes what the other columns mean.
+
+    tipo is 'refunde' (origen consolidates destino) or 'refundida_en' (origen is
+    superseded by destino). Both directions are stored so either side can be
+    answered without a reverse index.
+    """
+    origen_id: int
+    destino_id: int
+    tipo: str
 
 
 @dataclass(frozen=True)

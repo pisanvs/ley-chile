@@ -10,8 +10,26 @@ from typing import Iterable
 
 import psycopg
 
-from schemas.snapshot import EventRow, ModRow, NormaRow, VersionRow
+from schemas.snapshot import EventRow, ModRow, NormaRow, RelacionRow, VersionRow
 from spans import ArticleRow, SpanRow
+
+
+def _norma_params(r: NormaRow) -> dict:
+    """Bind params for one norma row.
+
+    The array-valued fields are declared as tuples (NormaRow is frozen), and
+    psycopg3 adapts a Python tuple to a Postgres *composite* type while adapting
+    a list to an array — so passing the tuple straight through fails against a
+    text[] column. Listify here rather than at the row definition, so the wire
+    format stays immutable.
+
+    `or ()` covers a snapshot exported before these fields existed: from_ndjson
+    falls back to the dataclass defaults, and a hand-built row may pass None.
+    """
+    d = dict(r.__dict__)
+    for k in ("nombres_uso_comun", "materias", "observaciones"):
+        d[k] = list(d.get(k) or ())
+    return d
 
 
 def load_normas(conn: psycopg.Connection, rows: Iterable[NormaRow]) -> int:
@@ -20,14 +38,38 @@ def load_normas(conn: psycopg.Connection, rows: Iterable[NormaRow]) -> int:
         cur.executemany(
             """
             INSERT INTO norma (id_norma, tipo, numero, titulo, organismo,
-                               clasificacion, derogado, fecha_publicacion, law_dir)
+                               clasificacion, derogado, fecha_publicacion, law_dir,
+                               nombres_uso_comun, materias, observaciones,
+                               doble_articulado, refundido_por)
             VALUES (%(id_norma)s, %(tipo)s, %(numero)s, %(titulo)s, %(organismo)s,
-                    %(clasificacion)s, %(derogado)s, %(fecha_publicacion)s, %(law_dir)s)
+                    %(clasificacion)s, %(derogado)s, %(fecha_publicacion)s, %(law_dir)s,
+                    %(nombres_uso_comun)s, %(materias)s, %(observaciones)s,
+                    %(doble_articulado)s, %(refundido_por)s)
             ON CONFLICT (id_norma) DO UPDATE SET
                 tipo = EXCLUDED.tipo, numero = EXCLUDED.numero, titulo = EXCLUDED.titulo,
                 organismo = EXCLUDED.organismo, clasificacion = EXCLUDED.clasificacion,
                 derogado = EXCLUDED.derogado, fecha_publicacion = EXCLUDED.fecha_publicacion,
-                law_dir = EXCLUDED.law_dir
+                law_dir = EXCLUDED.law_dir,
+                nombres_uso_comun = EXCLUDED.nombres_uso_comun,
+                materias = EXCLUDED.materias,
+                observaciones = EXCLUDED.observaciones,
+                doble_articulado = EXCLUDED.doble_articulado,
+                refundido_por = EXCLUDED.refundido_por
+            """,
+            [_norma_params(r) for r in rows],
+        )
+    return len(rows)
+
+
+def load_relaciones(conn: psycopg.Connection, rows: Iterable[RelacionRow]) -> int:
+    """Typed relations (refundido). Idempotent: the whole row is the key."""
+    rows = list(rows)
+    with conn.cursor() as cur:
+        cur.executemany(
+            """
+            INSERT INTO relacion (origen_id, destino_id, tipo)
+            VALUES (%(origen_id)s, %(destino_id)s, %(tipo)s)
+            ON CONFLICT (origen_id, destino_id, tipo) DO NOTHING
             """,
             [r.__dict__ for r in rows],
         )

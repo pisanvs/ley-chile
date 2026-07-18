@@ -14,12 +14,18 @@ from pathlib import Path
 
 import requests
 
-from schemas.snapshot import EventRow, Manifest, ModRow, NormaRow, VersionRow, from_ndjson
+from schemas.snapshot import (
+    EventRow, Manifest, ModRow, NormaRow, RelacionRow, VersionRow, from_ndjson,
+)
 from spans import ArticleRow, SpanRow
 
 from . import index_meili, load, retier, verify
 from .db import connect
 
+# kind -> (row class, loader). A kind whose shards are absent from the snapshot
+# is simply skipped by the glob below, which is what lets this loader ingest a
+# snapshot exported before that kind existed — the case for `relaciones` until
+# the next full export runs.
 _KINDS = {
     "normas": (NormaRow, load.load_normas),
     "versions": (VersionRow, load.load_versions),
@@ -27,6 +33,7 @@ _KINDS = {
     "spans": (SpanRow, load.load_spans),
     "mods": (ModRow, load.load_mods),
     "events": (EventRow, load.load_events),
+    "relaciones": (RelacionRow, load.load_relaciones),
 }
 
 
