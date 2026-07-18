@@ -142,7 +142,16 @@ def compute_watermark(
 
     if historial_dir is not None and historial_dir.is_dir():
         # Real count: dirs that have a metadata.json under any norma type.
-        historial_count = sum(1 for _ in historial_dir.glob("*/*/metadata.json"))
+        # rglob (recursive), NOT glob("*/*/metadata.json") — the 2-level glob
+        # only matched leyes/{N}/metadata.json and missed every DFL/DTO/etc
+        # norma routed deeper (dfl/{org}/{N}/, etc/{tipo}/{N}/), undercounting
+        # the corpus. Skip anything under .git defensively. Mirrors
+        # verify_pipeline._check_historial_against_graph.
+        historial_count = sum(
+            1
+            for meta in historial_dir.rglob("metadata.json")
+            if ".git" not in meta.parts
+        )
     else:
         historial_count = 0
 

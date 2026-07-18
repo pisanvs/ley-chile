@@ -330,13 +330,17 @@ def cmd_pipeline(args: argparse.Namespace) -> int:
             log.info("pipeline: graph not found — running fetch-graph")
             run_fetch_graph = True
         else:
-            # Check catalog age
+            # Check catalog age from its embedded `fetched_at` timestamp — NOT
+            # file mtime.  CI restores catalog.json from a cache branch via `cp`,
+            # which resets mtime to now every run, so an mtime-based age is
+            # permanently ~0 and fetch-graph would never re-run (the bug that
+            # froze ingest). See build_catalog.age_days_from_fetched_at.
+            from build_catalog import catalog_age_days, CATALOG_MAX_AGE_DAYS
+
             catalog_path = data_root / "catalog.json"
             if catalog_path.exists():
-                age_days = (
-                    __import__("time").time() - catalog_path.stat().st_mtime
-                ) / 86400
-                if age_days > 7:
+                age_days = catalog_age_days(data_root)
+                if age_days > CATALOG_MAX_AGE_DAYS:
                     log.info("pipeline: catalog is %.1f days old — running fetch-graph", age_days)
                     run_fetch_graph = True
             else:

@@ -3,10 +3,16 @@ Build a complete catalog of all Chilean legal norms from BCN SPARQL.
 
 Writes {DATA_ROOT}/catalog.json in this format:
   {
-    "entries":   [{"idNorma": 235507, "tipo": "ley", "fechaPublicacion": "..."}, ...],
-    "last_code": 358221,         # keyset cursor for resume
-    "complete":  true            # true once the whole catalog has been fetched
+    "entries":    [{"idNorma": 235507, "tipo": "ley", "fechaPublicacion": "..."}, ...],
+    "last_code":  358221,         # keyset cursor for resume
+    "complete":   true,           # true once the whole catalog has been fetched
+    "fetched_at": "2026-07-17T..."# ISO-8601 UTC timestamp of the last BCN fetch
   }
+
+`fetched_at` is the authoritative staleness signal.  File mtime is NOT reliable:
+CI restores catalog.json from a cache branch with `cp`, which resets the mtime to
+"now" on every run, so an mtime-based age is permanently ~0 and the catalog is
+never re-queried.  Age is therefore computed from this embedded timestamp.
 
 A run that is killed mid-fetch (e.g. GitHub Actions 6-hour wall) checkpoints its
 partial state every CHECKPOINT_EVERY_PAGES SPARQL pages, so the next run resumes
@@ -26,7 +32,7 @@ import json
 import logging
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
@@ -44,7 +50,10 @@ log = logging.getLogger(__name__)
 
 BCN_SPARQL = "https://datos.bcn.cl/sparql"
 CATALOG_FILE = "catalog.json"
-CATALOG_MAX_AGE_DAYS = 7
+# Refresh the catalog daily.  Chilean normas are published ~daily, and the BCN
+# SPARQL fetch is keyset-paginated (cheap on the tail — it only pulls codes
+# beyond last_code), so a daily re-query is safe and keeps ingest current.
+CATALOG_MAX_AGE_DAYS = 1
 SPARQL_PAGE_SIZE = 500
 LOG_EVERY = 2000
 CHECKPOINT_EVERY_PAGES = 10  # ~5000 entries per checkpoint
@@ -203,30 +212,53 @@ def _catalog_path(data_root: Path) -> Path:
     return data_root / CATALOG_FILE
 
 
-def _catalog_age_days(data_root: Path) -> float:
-    p = _catalog_path(data_root)
-    if not p.exists():
+def age_days_from_fetched_at(fetched_at: str | None) -> float:
+    """Return the age in days of an ISO-8601 `fetched_at` timestamp.
+
+    Returns +inf when the timestamp is missing or unparseable, which callers
+    treat as "stale" — a legacy catalog written before `fetched_at` existed,
+    or a corrupt value, forces a refresh rather than silently freezing.
+    """
+    if not fetched_at:
         return float("inf")
-    mtime = datetime.fromtimestamp(p.stat().st_mtime)
-    return (datetime.now() - mtime).total_seconds() / 86400
+    try:
+        dt = datetime.fromisoformat(fetched_at.replace("Z", "+00:00"))
+    except ValueError:
+        return float("inf")
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return (datetime.now(timezone.utc) - dt).total_seconds() / 86400
+
+
+def catalog_age_days(data_root: Path) -> float:
+    """Age of the catalog in days, computed from its embedded `fetched_at`.
+
+    NOT file mtime — see the module docstring for why mtime lies in CI.
+    """
+    return age_days_from_fetched_at(load_catalog_state(data_root).get("fetched_at"))
+
+
+# Backward-compatible alias (kept for any external callers).
+_catalog_age_days = catalog_age_days
 
 
 def load_catalog_state(data_root: Path) -> dict:
-    """Return {entries, last_code, complete}. Old plain-list format is treated as complete."""
+    """Return {entries, last_code, complete, fetched_at}. Old plain-list format is treated as complete."""
     p = _catalog_path(data_root)
     if not p.exists():
-        return {"entries": [], "last_code": 0, "complete": False}
+        return {"entries": [], "last_code": 0, "complete": False, "fetched_at": None}
     try:
         raw = json.loads(p.read_text(encoding="utf-8"))
     except Exception as exc:
         log.warning("Failed to load %s: %s", p, exc)
-        return {"entries": [], "last_code": 0, "complete": False}
+        return {"entries": [], "last_code": 0, "complete": False, "fetched_at": None}
     if isinstance(raw, list):
-        return {"entries": raw, "last_code": 0, "complete": True}
+        return {"entries": raw, "last_code": 0, "complete": True, "fetched_at": None}
     return {
         "entries": raw.get("entries", []),
         "last_code": int(raw.get("last_code", 0)),
         "complete": bool(raw.get("complete", False)),
+        "fetched_at": raw.get("fetched_at"),
     }
 
 
@@ -243,7 +275,13 @@ def save_catalog_state(
 ) -> None:
     p = _catalog_path(data_root)
     tmp = p.with_suffix(".tmp")
-    payload = {"entries": entries, "last_code": last_code, "complete": complete}
+    payload = {
+        "entries": entries,
+        "last_code": last_code,
+        "complete": complete,
+        # Authoritative staleness signal — survives the CI `cp` that resets mtime.
+        "fetched_at": datetime.now(timezone.utc).isoformat(),
+    }
     tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     tmp.replace(p)
     status = "complete" if complete else f"partial (cursor={last_code})"
@@ -280,7 +318,7 @@ def main() -> None:
     log.info("DATA_ROOT: %s", data_root)
 
     state = load_catalog_state(data_root)
-    age = _catalog_age_days(data_root)
+    age = age_days_from_fetched_at(state.get("fetched_at"))
 
     if not args.force and state["complete"] and age < CATALOG_MAX_AGE_DAYS:
         log.info(
@@ -290,7 +328,7 @@ def main() -> None:
         )
         return
 
-    if age == float("inf"):
+    if not _catalog_path(data_root).exists():
         log.info("catalog.json not found — fetching from BCN SPARQL ...")
     elif not state["complete"]:
         log.info(

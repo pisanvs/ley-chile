@@ -37,6 +37,38 @@ def test_render_bar_half():
     assert urs.render_bar(0.5) == "█" * 10 + "░" * 10
 
 
+def test_render_bar_near_full_is_not_full():
+    """99.7% must NOT fill all 20 blocks — floor, not round, so incompleteness
+    stays visible (the bug: round(0.997*20)=20 read as done)."""
+    bar = urs.render_bar(0.997)
+    assert bar != "█" * 20
+    assert bar.count("█") == 19  # floor(0.997 * 20)
+    assert "░" in bar
+
+
+def test_fmt_pct_floors_and_only_100_when_complete():
+    assert urs.fmt_pct(0.997) == "99%"   # not rounded up to 100%
+    assert urs.fmt_pct(0.5) == "50%"
+    assert urs.fmt_pct(0.0) == "0%"
+    assert urs.fmt_pct(1.0) == "100%"    # exactly complete
+    assert urs.fmt_pct(1.2) == "100%"    # clamp overshoot
+
+
+def test_update_shows_buildable_and_excluded(tmp_path):
+    readme = _readme(tmp_path)
+    stats = {**SAMPLE_STATS, "excluded": 18_000}
+    urs.update_readme_status(readme, stats)
+    content = readme.read_text(encoding="utf-8")
+    assert "buildable" in content
+    assert "18,000 excluded" in content
+
+
+def test_update_omits_excluded_note_when_zero(tmp_path):
+    readme = _readme(tmp_path)
+    urs.update_readme_status(readme, {**SAMPLE_STATS, "excluded": 0})
+    assert "excluded" not in readme.read_text(encoding="utf-8")
+
+
 def test_update_replaces_content_between_markers(tmp_path):
     readme = _readme(tmp_path)
     urs.update_readme_status(readme, SAMPLE_STATS)

@@ -53,6 +53,44 @@ def _load_catalog(catalog_path: Path) -> tuple[list[dict], bool]:
     return entries, bool(raw.get("complete", False))
 
 
+def _year(date_str: str) -> int | None:
+    """Parse the leading YYYY of a date string, or None if not 4 digits."""
+    if not date_str or len(date_str) < 4 or not date_str[:4].isdigit():
+        return None
+    return int(date_str[:4])
+
+
+def is_buildable(node: dict) -> bool:
+    """Whether a graph node can ever produce a historial commit.
+
+    A norma is buildable iff it has:
+      * a real fechaPublicacion (present, year <= 2100), AND
+      * at least one real vigencia (a version whose `desde` year <= 2100).
+
+    Excluded (structurally un-buildable, ~19k of the ~358k catalog):
+      * undated normas (no fechaPublicacion),
+      * sentinel/garbage dates (year > 2100, e.g. LeyChile's `2222-02-02`),
+      * zero-vigencia stubs (SPARQL placeholders LeyChile never serves).
+
+    These can never reach `historial`, so counting them in the progress
+    denominator caps the bar below 100% forever. Basing % on buildable normas
+    makes 100% actually reachable.
+    """
+    if not isinstance(node, dict):
+        return False
+    y = _year(node.get("fechaPublicacion", "") or "")
+    if y is None or y > 2100:
+        return False
+    vigs = node.get("vigencias") or []
+    for v in vigs:
+        if not isinstance(v, dict):
+            continue
+        vy = _year(v.get("desde", "") or "")
+        if vy is not None and vy <= 2100:
+            return True
+    return False
+
+
 # ---------------------------------------------------------------------------
 # Inconsistency detectors
 # ---------------------------------------------------------------------------
@@ -146,6 +184,7 @@ def gather_report(
 
     graph = load_graph(graph_path) if graph_exists(graph_path) else {}
     graph_ids = set(graph.keys())
+    buildable = sum(1 for node in graph.values() if is_buildable(node))
 
     diff_count, version_count, cache_issues = _check_cache_completeness(cache_dir)
 
@@ -175,6 +214,9 @@ def gather_report(
         },
         "graph": {
             "nodes": len(graph),
+            # Normas that can actually be built (dated, non-sentinel, >=1 real
+            # vigencia). This is the honest progress denominator.
+            "buildable": buildable,
         },
         "cache": {
             "diff_files": diff_count,

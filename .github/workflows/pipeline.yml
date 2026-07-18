@@ -141,15 +141,33 @@ jobs:
             echo "stale=true" >> $GITHUB_OUTPUT; exit 0
           fi
           python - <<'EOF' >> $GITHUB_OUTPUT
-          import json, time
+          import json
+          from datetime import datetime, timezone
           from pathlib import Path
+          # Age is read from the catalog's embedded `fetched_at` timestamp, NOT
+          # file mtime. The "Restore graph state" step above does `cp ./cache/
+          # catalog.json .`, which resets mtime to now on every run — so an
+          # mtime-based age is permanently ~0 and this gate would never fire.
+          # That mtime bug is what froze ingest. `fetched_at` survives the cp.
+          CATALOG_MAX_AGE_DAYS = 1  # keep in sync with build_catalog.CATALOG_MAX_AGE_DAYS
           cat = Path("catalog.json")
           if not cat.exists():
               print("stale=true"); exit()
-          age = (time.time() - cat.stat().st_mtime) / 86400
           raw = json.loads(cat.read_text())
           complete = raw.get("complete", False) if isinstance(raw, dict) else True
-          print(f"stale={'true' if age > 7 or not complete else 'false'}")
+          fetched_at = raw.get("fetched_at") if isinstance(raw, dict) else None
+          def _age_days(v):
+              if not v:
+                  return float("inf")  # legacy/no timestamp -> treat as stale
+              try:
+                  dt = datetime.fromisoformat(v.replace("Z", "+00:00"))
+              except ValueError:
+                  return float("inf")
+              if dt.tzinfo is None:
+                  dt = dt.replace(tzinfo=timezone.utc)
+              return (datetime.now(timezone.utc) - dt).total_seconds() / 86400
+          age = _age_days(fetched_at)
+          print(f"stale={'true' if age > CATALOG_MAX_AGE_DAYS or not complete else 'false'}")
           EOF
 
       - name: Run fetch-graph
@@ -466,7 +484,29 @@ jobs:
             --historial-dir ./historial > /tmp/pipeline_stats.json
           python - <<'EOF'
           import json, os
+          from datetime import date, datetime
           stats = json.load(open("/tmp/pipeline_stats.json"))
+
+          # ── Freeze guard ────────────────────────────────────────────────
+          # D is the corpus's complete-data frontier (highest date every dated
+          # norma <= D is fully cached). If D falls far behind today, ingest is
+          # silently frozen (the exact failure mode that went unnoticed for 7
+          # weeks). Surface it every run so a freeze shows up within a day.
+          STALE_CORPUS_DAYS = 7
+          D = stats.get("D") or ""
+          if not D:
+              print("::warning::Corpus frontier D is empty — no complete data prefix. "
+                    "Ingest may be broken (check fetch-graph / catalog freshness).")
+          else:
+              try:
+                  behind = (date.today() - datetime.strptime(D, "%Y-%m-%d").date()).days
+                  if behind > STALE_CORPUS_DAYS:
+                      print(f"::warning::Corpus frontier D={D} is {behind} days behind today "
+                            f"(> {STALE_CORPUS_DAYS}) — ingest may be frozen. "
+                            f"Check fetch-graph is running and catalog.fetched_at is fresh.")
+              except ValueError:
+                  print(f"::warning::Corpus frontier D={D!r} is not a valid YYYY-MM-DD date.")
+
           out = os.environ.get("GITHUB_OUTPUT", "")
           lines = [
             f"watermark_advanced={'true' if stats['watermark_advanced'] else 'false'}",
@@ -654,19 +694,49 @@ jobs:
             --cache-dir ./cache \
             --historial-dir ./historial
 
+      # Refresh the "Graph Build Status" section too. It was previously written
+      # by the now-deleted update-graph.yml; pipeline.yml never touched it, so
+      # it was frozen. graph_shards + catalog.json were restored from
+      # pipeline-cache earlier in this job, so both are available here.
+      - name: Update README graph status
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          python scripts/update_readme_status.py --section graph \
+            --readme README.md \
+            --graph-path ./graph.json \
+            --catalog-path ./catalog.json \
+            --cache-dir ./cache
+
+      # Push the README status commit. Unlike the previous version, a persistent
+      # push failure FAILS the job (red X) instead of being silently swallowed —
+      # otherwise the progress bars go stale for weeks with nobody noticing
+      # (exactly what happened after 2026-06-09). We rebase on each retry to
+      # ride over concurrent human commits on the code branch.
       - name: Commit README
         if: github.event.inputs.dry_run != 'true'
         run: |
           git add README.md
-          git diff --cached --quiet && echo "README unchanged" || (
-            git commit -m "chore: update pipeline status [skip ci]"
-            for i in 1 2 3; do
-              git push origin "${{ github.ref_name }}" && break
-              git fetch origin "${{ github.ref_name }}"
-              git rebase "origin/${{ github.ref_name }}" || git rebase --abort
-              sleep $((i * 3))
-            done
-          )
+          if git diff --cached --quiet; then
+            echo "README unchanged"
+            exit 0
+          fi
+          git commit -m "chore: update pipeline status [skip ci]"
+          pushed=false
+          for i in 1 2 3 4 5; do
+            if git push origin "${{ github.ref_name }}"; then
+              pushed=true
+              break
+            fi
+            echo "push attempt $i failed — rebasing on origin/${{ github.ref_name }}"
+            git fetch origin "${{ github.ref_name }}"
+            git rebase "origin/${{ github.ref_name }}" || git rebase --abort
+            sleep $((i * 3))
+          done
+          if [ "$pushed" != "true" ]; then
+            echo "::error::Failed to push README status after 5 attempts — progress bars are now stale"
+            exit 1
+          fi
+          echo "README status pushed"
 
       # ── Notification ────────────────────────────────────────────────────
       - name: Notify completion

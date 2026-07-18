@@ -38,6 +38,7 @@ from __future__ import annotations
 import argparse
 import datetime
 import json
+import math
 import sys
 from pathlib import Path
 
@@ -57,13 +58,34 @@ GRAPH_END_MARKER = "<!-- GRAPH_STATUS_END -->"
 
 
 def render_bar(fraction: float, width: int = 20) -> str:
-    """Unicode block progress bar."""
+    """Unicode block progress bar.
+
+    Uses floor (int), NOT round, for the fill so an incomplete corpus never
+    displays as full: at 99.7% round() would fill all 20 blocks and read as
+    done, hiding the missing normas. Only a fraction >= 1.0 (genuinely
+    complete) renders a full bar.
+    """
     if fraction <= 0:
         return "░" * width
     if fraction >= 1:
         return "█" * width
-    filled = round(fraction * width)
+    filled = int(fraction * width)  # floor: 0.997 * 20 -> 19, leaves a gap
     return "█" * filled + "░" * (width - filled)
+
+
+def fmt_pct(fraction: float) -> str:
+    """Honest integer percentage: floor, and only '100%' when truly complete.
+
+    Mirrors render_bar so the number and the bar agree. 99.7% reads as '99%',
+    not a rounded-up '100%' that hides an incomplete corpus.
+    """
+    if fraction >= 1:
+        return "100%"
+    if fraction <= 0:
+        return "0%"
+    # round(...,6) first so exact ratios like 58/100 (which float to
+    # 57.9999999999) don't floor down to 57; 99.7 stays 99, never 100.
+    return f"{math.floor(round(fraction * 100, 6))}%"
 
 
 def _replace_section(
@@ -91,22 +113,31 @@ def load_catalog_count(catalog_path: Path) -> tuple[int, bool]:
 
 
 def update_readme_status(readme_path: Path, stats: dict) -> None:
-    """Replace content between sentinel markers with fresh stats."""
+    """Replace content between sentinel markers with fresh stats.
+
+    `total` is the count of BUILDABLE normas (dated, non-sentinel, >=1 real
+    vigencia), NOT raw catalog.entries — so 100% is actually reachable. The
+    ~19k structurally un-buildable normas are reported as `excluded`.
+    """
     total = stats["total"] or 1  # avoid division by zero
-    hist_pct = stats["historial_count"] / total
-    cache_pct = stats["cached"] / total
+    excluded = stats.get("excluded", 0)
+    hist_pct = min(stats["historial_count"] / total, 1.0)
+    cache_pct = min(stats["cached"] / total, 1.0)
     W = stats["W"] or "—"
     now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+
+    excluded_note = f" · {excluded:,} excluded (undated/sentinel)" if excluded else ""
 
     block = (
         f"{START_MARKER}\n"
         f"## Pipeline Status\n"
         f"| | |\n"
         f"|---|---|\n"
-        f"| **Historial** | `{render_bar(hist_pct)}` {hist_pct:.0%}"
-        f" · watermark {W} · {stats['historial_count']:,} normas |\n"
-        f"| **Cache**     | `{render_bar(cache_pct)}` {cache_pct:.0%}"
-        f" · {stats['cached']:,} / {stats['total']:,} normas fetched |\n"
+        f"| **Historial** | `{render_bar(hist_pct)}` {fmt_pct(hist_pct)}"
+        f" · watermark {W} · {stats['historial_count']:,} / {stats['total']:,} buildable"
+        f"{excluded_note} |\n"
+        f"| **Cache**     | `{render_bar(cache_pct)}` {fmt_pct(cache_pct)}"
+        f" · {stats['cached']:,} / {stats['total']:,} buildable fetched |\n"
         f"| **Last run**  | {now} |\n"
         f"{END_MARKER}"
     )
@@ -130,7 +161,7 @@ def update_graph_status(
         f"## Graph Build Status\n"
         f"| | |\n"
         f"|---|---|\n"
-        f"| **Fetch normas** | `{render_bar(pct)}` {pct:.0%}"
+        f"| **Fetch normas** | `{render_bar(pct)}` {fmt_pct(pct)}"
         f" · {graph_count:,} / {catalog_total:,} normas · {state} |\n"
         f"| **Last run**     | {now} |\n"
         f"{GRAPH_END_MARKER}"
@@ -186,18 +217,28 @@ def main() -> None:
         cache_dir=cache_dir,
         historial_dir=historial_dir,
     )
+    # Denominator is BUILDABLE normas, not raw catalog.entries: ~19k catalog
+    # entries are undated / sentinel-dated / zero-vigencia and can NEVER be
+    # built, so using catalog.entries structurally caps the bar below 100%.
+    buildable = report["graph"].get("buildable", 0)
+    catalog_entries = report["catalog"]["entries"]
+    excluded = max(catalog_entries - buildable, 0)
     stats = {
         "W": W,
         "D": "",  # no longer driving advance decisions; omitted from the bar
-        "total": report["catalog"]["entries"],
+        "total": buildable,
+        "excluded": excluded,
+        "catalog_entries": catalog_entries,
         "cached": report["cache"]["diff_files"],
         "historial_count": report["historial"]["norma_dirs"],
     }
     update_readme_status(Path(args.readme), stats)
-    print(f"README updated — historial {stats['historial_count']}/{stats['total']}"
-          f" ({stats['historial_count'] / (stats['total'] or 1):.0%})"
+    _denom = stats["total"] or 1
+    print(f"README updated — historial {stats['historial_count']}/{stats['total']} buildable"
+          f" ({fmt_pct(stats['historial_count'] / _denom)})"
           f", cache {stats['cached']}/{stats['total']}"
-          f" ({stats['cached'] / (stats['total'] or 1):.0%})")
+          f" ({fmt_pct(stats['cached'] / _denom)})"
+          f", excluded {excluded:,} (undated/sentinel), catalog {catalog_entries:,}")
     if report["inconsistencies"]:
         # Print to stderr — visible in CI logs without breaking the success path.
         # (verify_pipeline.py is the place to exit non-zero on these; this script's

@@ -196,6 +196,55 @@ def test_cli_exits_zero_on_clean_state(tmp_path):
     assert payload["cache"]["diff_files"] == 1
 
 
+def test_is_buildable_classification():
+    """Only dated, non-sentinel normas with >=1 real vigencia are buildable."""
+    # Buildable: dated + a real vigencia.
+    assert vp.is_buildable(
+        {"fechaPublicacion": "2020-01-01", "vigencias": [{"desde": "2020-01-01"}]}
+    )
+    # Undated -> excluded.
+    assert not vp.is_buildable(
+        {"fechaPublicacion": "", "vigencias": [{"desde": "2020-01-01"}]}
+    )
+    # Sentinel publication date (year > 2100) -> excluded.
+    assert not vp.is_buildable(
+        {"fechaPublicacion": "2878-01-01", "vigencias": [{"desde": "2020-01-01"}]}
+    )
+    # Zero-vigencia stub -> excluded.
+    assert not vp.is_buildable({"fechaPublicacion": "2020-01-01", "vigencias": []})
+    # Only sentinel vigencias (2222-02-02) -> no real vigencia -> excluded.
+    assert not vp.is_buildable(
+        {"fechaPublicacion": "2026-01-15", "vigencias": [{"desde": "2222-02-02"}]}
+    )
+
+
+def test_gather_report_counts_buildable(tmp_path):
+    """gather_report exposes graph.buildable = count of buildable graph nodes."""
+    _write_catalog(tmp_path, [100, 200, 300, 400])
+    # Custom graph: 100 buildable, 200 undated, 300 sentinel-date, 400 stub.
+    graph_path = tmp_path / "graph.json"
+    graph_path.write_text(json.dumps({
+        "100": {"idNorma": 100, "fechaPublicacion": "2020-01-01",
+                "vigencias": [{"desde": "2020-01-01"}]},
+        "200": {"idNorma": 200, "fechaPublicacion": "",
+                "vigencias": [{"desde": "2020-01-01"}]},
+        "300": {"idNorma": 300, "fechaPublicacion": "2878-01-01",
+                "vigencias": [{"desde": "2878-01-01"}]},
+        "400": {"idNorma": 400, "fechaPublicacion": "2020-01-01", "vigencias": []},
+    }), encoding="utf-8")
+    cache = tmp_path / "cache"
+    cache.mkdir()
+
+    report = vp.gather_report(
+        catalog_path=tmp_path / "catalog.json",
+        graph_path=graph_path,
+        cache_dir=cache,
+        historial_dir=None,
+    )
+    assert report["graph"]["nodes"] == 4
+    assert report["graph"]["buildable"] == 1  # only norma 100
+
+
 def test_report_is_deterministic(tmp_path):
     """Same inputs → byte-identical JSON output (sorted, no time.now())."""
     _write_catalog(tmp_path, [100, 200])
