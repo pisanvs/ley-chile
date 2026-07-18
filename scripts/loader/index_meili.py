@@ -20,7 +20,13 @@ _DEFAULT_RANK = 5
 
 SETTINGS: dict = {
     # Order sets ranking priority.
-    "searchableAttributes": ["titulo", "label", "body"],
+    # Order sets ranking priority. `nombres_uso_comun` sits directly after
+    # `titulo` because it is how people actually refer to a norma ("ley de
+    # partidos", "Código de Comercio") — indexing only the formal título meant
+    # the most natural query for a law matched nothing at all. `materias` is
+    # last: BCN subject tags are useful signal but broad enough to over-match if
+    # they outrank the article text.
+    "searchableAttributes": ["titulo", "nombres_uso_comun", "label", "body", "materias"],
     "filterableAttributes": [
         "id_norma", "tipo", "organismo", "anio_pub", "derogado", "desde_ts", "hasta_ts",
     ],
@@ -75,7 +81,8 @@ def to_ts(d: date | None) -> int:
 
 _ARTICULO_SQL = """
 SELECT n.id_norma, n.tipo, n.numero, n.titulo, n.organismo, n.derogado,
-       n.fecha_publicacion, a.slug, a.label, a.body, a.content_sha256,
+       n.fecha_publicacion, n.nombres_uso_comun, n.materias,
+       a.slug, a.label, a.body, a.content_sha256,
        s.desde, s.hasta, s.ord
   FROM articulo a
   JOIN norma n ON n.id_norma = a.id_norma
@@ -108,8 +115,11 @@ def articulo_documents(
             "desde_ts": to_ts(desde),
             "hasta_ts": to_ts(hasta),
             "rank_tipo": rank_tipo(tipo),
+            "nombres_uso_comun": nombres or [],
+            "materias": materias or [],
         }
         for (id_norma, tipo, numero, titulo, organismo, derogado, fecha_pub,
+             nombres, materias,
              slug, label, body, sha, desde, hasta, ord_) in rows
     ]
 
@@ -118,7 +128,8 @@ def norma_documents(
     conn: psycopg.Connection, id_normas: list[int] | None = None
 ) -> list[dict]:
     """Every norma, regardless of tier: no norma is ever unfindable by name or number."""
-    sql = ("SELECT id_norma, tipo, numero, titulo, organismo, fecha_publicacion, derogado "
+    sql = ("SELECT id_norma, tipo, numero, titulo, organismo, fecha_publicacion, derogado, "
+           "nombres_uso_comun, materias "
            "FROM norma")
     params = ()
     if id_normas:
@@ -129,8 +140,10 @@ def norma_documents(
             "id": id_norma, "tipo": tipo, "numero": numero, "titulo": titulo,
             "organismo": organismo, "anio_pub": fp.year if fp else 0,
             "derogado": derogado, "rank_tipo": rank_tipo(tipo),
+            "nombres_uso_comun": nombres or [], "materias": materias or [],
         }
-        for id_norma, tipo, numero, titulo, organismo, fp, derogado in conn.execute(sql, params)
+        for (id_norma, tipo, numero, titulo, organismo, fp, derogado,
+             nombres, materias) in conn.execute(sql, params)
     ]
 
 

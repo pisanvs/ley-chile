@@ -166,7 +166,13 @@ def cmd_fetch_graph(args: argparse.Namespace) -> int:
     _run_script_main("build_catalog", ["--data-root", str(data_root)])
 
     # Phase 2: norma metadata → graph
-    _run_script_main("fetch_normas", ["--data-root", str(data_root)])
+    fetch_args = ["--data-root", str(data_root)]
+    if getattr(args, "reparse_cache", False):
+        # Re-derive every node from the cached JSON. Needed after changing what
+        # fetch_normas lifts: the default reconcile only adds nodes MISSING from
+        # the graph, so a parser change never reaches already-parsed nodes.
+        fetch_args.append("--reparse-cache")
+    _run_script_main("fetch_normas", fetch_args)
 
     _notify(args.notify_url, "leychile fetch-graph done", f"data_root={data_root}")
     return 0
@@ -355,7 +361,8 @@ def cmd_pipeline(args: argparse.Namespace) -> int:
     phases: list[tuple[str, callable]] = []
 
     if run_fetch_graph:
-        fg_args = argparse.Namespace(**_common)
+        fg_args = argparse.Namespace(**_common,
+                                     reparse_cache=getattr(args, "reparse_cache", False))
         phases.append(("fetch-graph", lambda a=fg_args: cmd_fetch_graph(a)))
 
     fv_args = argparse.Namespace(
@@ -420,6 +427,10 @@ def build_parser() -> argparse.ArgumentParser:
     p_fg = sub.add_parser("fetch-graph",
                           help="Refresh catalog + norma graph from BCN SPARQL + LeyChile")
     _add_common_args(p_fg)
+    p_fg.add_argument("--reparse-cache", action="store_true",
+                      help="Re-derive every graph node from the cached norma JSON "
+                           "(local only, no network). Use after changing what "
+                           "fetch_normas lifts from the cached metadata.")
     p_fg.set_defaults(func=cmd_fetch_graph)
 
     # -- fetch-versions --

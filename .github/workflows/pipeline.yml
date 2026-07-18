@@ -50,6 +50,10 @@ on:
         description: "Force graph refresh even if fresh"
         type: boolean
         default: false
+      reparse_cache:
+        description: "Re-derive every graph node from cached JSON (after a parser change; local only, no network)"
+        type: boolean
+        default: false
       dry_run:
         description: "Compute watermark but do not push historial or README"
         type: boolean
@@ -156,7 +160,11 @@ jobs:
         id: run
         if: steps.stale.outputs.stale == 'true'
         run: |
-          python scripts/leychile.py fetch-graph --data-root .
+          REPARSE=""
+          if [ "${{ github.event.inputs.reparse_cache || 'false' }}" = "true" ]; then
+            REPARSE="--reparse-cache"
+          fi
+          python scripts/leychile.py fetch-graph --data-root . $REPARSE
           echo "ran=true" >> $GITHUB_OUTPUT
 
       - name: Save state to pipeline-cache

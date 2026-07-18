@@ -20,12 +20,15 @@ import type { Sibling } from '@/lib/norma'
  *  numero/id_norma collision that a client-side numero lookup hits at full
  *  corpus scale (an internal id_norma can equal an unrelated law's numero). */
 export function LawView({
-  tipo, numero, idNorma, fecha, siblings = [], siblingTotal = 1, versionBase,
+  tipo, numero, idNorma, fecha, siblings = [], siblingTotal = 1, versionBase, banner,
 }: {
   tipo: string
   numero: string
   idNorma: number
   fecha?: string
+  /** Server-rendered warnings (refundido, numbering observations). Passed as a
+   *  node rather than data so the metadata query stays on the server. */
+  banner?: React.ReactNode
   /** Other normas sharing this (tipo, numero) — shown so a reader can reach the
    *  right one when the number is not unique (e.g. several "DFL 1"). */
   siblings?: Sibling[]
@@ -139,6 +142,8 @@ export function LawView({
         {idx.norma.organismo && (
           <div className="text-sm text-ink-soft mt-2 italic">{idx.norma.organismo}</div>
         )}
+
+        {banner}
 
         {siblingTotal > 1 && (
           <div className="mt-4 rounded-md border border-rule bg-paper-sunk px-3.5 py-3">

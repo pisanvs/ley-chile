@@ -47,7 +47,17 @@ def test_settings_do_not_set_index_level_distinct():
     from loader.index_meili import SETTINGS
     assert "distinctAttribute" not in SETTINGS
     assert "id_norma" in SETTINGS["filterableAttributes"]
-    assert SETTINGS["searchableAttributes"] == ["titulo", "label", "body"]
+    assert SETTINGS["searchableAttributes"] == [
+        "titulo", "nombres_uso_comun", "label", "body", "materias",
+    ]
+    # Order is ranking priority, so these two positions are the point:
+    # `nombres_uso_comun` must outrank the article text — "ley de partidos" is a
+    # nombre de uso común, and indexing only the formal título meant the most
+    # natural query for a law matched nothing. `materias` must rank last: BCN
+    # subject tags are broad enough to over-match if they beat the body.
+    attrs = SETTINGS["searchableAttributes"]
+    assert attrs.index("nombres_uso_comun") < attrs.index("body")
+    assert attrs[-1] == "materias"
     assert "desde_ts" in SETTINGS["filterableAttributes"]
     assert "hasta_ts" in SETTINGS["filterableAttributes"]
 

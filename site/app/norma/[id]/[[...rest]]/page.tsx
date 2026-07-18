@@ -2,10 +2,12 @@ import type { Metadata } from 'next'
 import { notFound, permanentRedirect } from 'next/navigation'
 import { SITE } from '@/lib/jsonld'
 import {
-  canonicalPath, getCanonicalNorma, getKeySiblings, getNormaById, getVersions,
+  canonicalPath, getAvisos, getCanonicalNorma, getKeySiblings, getNormaById,
+  getRefundido, getVersions,
 } from '@/lib/norma'
 import { canonicalHref } from '@/lib/href'
 import { normaSlug } from '@/lib/slug'
+import { AvisoBanner } from '@/components/AvisoBanner'
 import { LawView } from '@/components/LawView'
 
 /**
@@ -84,7 +86,11 @@ export default async function Page({ params }: Props) {
   // which is what lets the slug be regenerated freely as data improves.
   if (slug !== normaSlug(norma)) permanentRedirect(canonicalHref(norma, fecha))
 
-  const canon = await getCanonicalNorma(norma.tipo, norma.numero)
+  const [canon, avisos, refundido] = await Promise.all([
+    getCanonicalNorma(norma.tipo, norma.numero),
+    getAvisos(norma.idNorma),
+    getRefundido(norma.idNorma),
+  ])
   const total = canon?.total ?? 1
   // Still worth surfacing key-siblings inline: a reader who landed here from a
   // citation may well have wanted a different DFL 4.
@@ -98,6 +104,7 @@ export default async function Page({ params }: Props) {
       siblings={siblings}
       siblingTotal={total}
       versionBase={canonicalHref(norma)}
+      banner={<AvisoBanner avisos={avisos} refundido={refundido} />}
     />
   )
 }
