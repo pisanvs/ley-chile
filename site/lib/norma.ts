@@ -36,11 +36,27 @@ function toNorma(r: Record<string, any>): Norma {
   }
 }
 
+/** Route params arrive percent-encoded. Next canonicalizes each dynamic segment
+ *  to `encodeURIComponent(decodeURIComponent(part))`, so a numero with a space
+ *  or slash — "DE COMERCIO", "3883 EXENTO", "S/N" — reaches a Server Component
+ *  as "DE%20COMERCIO", not "DE COMERCIO", and an equality match against the DB
+ *  misses. Decode before querying. Guard exactly as Next does: a malformed
+ *  sequence throws in decodeURIComponent, so fall back to the raw value rather
+ *  than 500. Idempotent for the common case — decoding a plain "21643" or
+ *  "PENAL" is a no-op. */
+function decodeSegment(s: string): string {
+  try {
+    return decodeURIComponent(s)
+  } catch {
+    return s
+  }
+}
+
 export async function getNorma(tipo: string, numero: string): Promise<Norma | null> {
   const { rows } = await pool.query(
     `SELECT id_norma, tipo, numero, titulo, organismo, derogado, fecha_publicacion, law_dir
        FROM norma WHERE tipo = $1 AND numero = $2 LIMIT 1`,
-    [tipo, numero],
+    [decodeSegment(tipo), decodeSegment(numero)],
   )
   return rows[0] ? toNorma(rows[0]) : null
 }
