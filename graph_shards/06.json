@@ -532257,5 +532257,28 @@
     "modificadaPor_edges": [],
     "tipo": "cer",
     "numero": "6"
+  },
+  "1224630": {
+    "idNorma": 1224630,
+    "titulo": "AUTORIZA ERIGIR UN MONUMENTO EN MEMORIA DEL EX PRESIDENTE DE LA REPÚBLICA, SEÑOR SEBASTIÁN PIÑERA ECHENIQUE",
+    "tipo": "ley",
+    "numero": "21820",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DEL INTERIOR"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-05-30",
+    "fechaPromulgacion": "2026-05-22",
+    "vigencias": [
+      {
+        "desde": "2026-05-30",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "17354-37"
   }
 }

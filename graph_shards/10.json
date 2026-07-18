@@ -531101,5 +531101,28 @@
     "modificadaPor_edges": [],
     "tipo": "res",
     "numero": "147 EXENTA"
+  },
+  "1224810": {
+    "idNorma": 1224810,
+    "titulo": "MODIFICA LA LEY N° 20.019, QUE REGULA LAS SOCIEDADES ANÓNIMAS DEPORTIVAS PROFESIONALES EN MATERIA DE FISCALIZACIÓN, DE CONFLICTOS DE INTERÉS Y DE FOMENTO DE LA PARTICIPACIÓN DE LOS HINCHAS EN LA PROPIEDAD DE LAS MISMAS",
+    "tipo": "ley",
+    "numero": "21824",
+    "clasificacion": "modificatoria",
+    "organismos": [
+      "MINISTERIO DEL DEPORTE"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-06-06",
+    "fechaPromulgacion": "2026-05-27",
+    "vigencias": [
+      {
+        "desde": "2026-06-06",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "10634-29"
   }
 }
