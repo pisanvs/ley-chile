@@ -20,7 +20,7 @@ from schemas.snapshot import (
 from spans import ArticleRow, SpanRow
 
 from . import index_meili, load, retier, verify
-from .db import connect
+from .db import apply_schema, connect
 
 # kind -> (row class, loader). A kind whose shards are absent from the snapshot
 # is simply skipped by the glob below, which is what lets this loader ingest a
@@ -67,6 +67,22 @@ def _read_shard(path: Path, cls):
 
 def run(conn, client, artifacts_dir: Path, *, budget_bytes: int,
         revalidate_url: str | None, revalidate_token: str = "") -> int:
+    # Apply the schema before anything reads or writes it.
+    #
+    # This was never called: apply_schema() existed, but the schema had only
+    # ever been applied by hand (`psql -f sql/001_schema.sql`), so the loader
+    # silently assumed whatever shape the database already had. The first
+    # migration to add a column therefore crashed the load with
+    # `column "nombres_uso_comun" of relation "norma" does not exist` — the
+    # loader had no way to bring the database up to the shape its own INSERTs
+    # required.
+    #
+    # Every sql/*.sql is idempotent (CREATE ... IF NOT EXISTS, ALTER TABLE ...
+    # ADD COLUMN IF NOT EXISTS), so running the full set on each start is cheap
+    # and safe, and it makes a schema change deploy with the code that needs it
+    # instead of requiring a manual step someone has to remember.
+    apply_schema(conn)
+
     manifest = Manifest(**json.loads((artifacts_dir / "manifest.json").read_text()))
     if not should_load(manifest, load.get_load_state(conn)):
         print("up to date; nothing to do")
