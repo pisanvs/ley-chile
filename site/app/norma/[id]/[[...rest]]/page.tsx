@@ -7,6 +7,7 @@ import {
 } from '@/lib/norma'
 import { canonicalHref } from '@/lib/href'
 import { normaSlug } from '@/lib/slug'
+import { fechaLarga, normaLabel } from '@/lib/seo'
 import { AvisoBanner } from '@/components/AvisoBanner'
 import { LawView } from '@/components/LawView'
 
@@ -60,10 +61,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // Self-canonical, always. canonicalPath collapses a dated URL onto the
   // undated one for single-version normas, which is most of the corpus.
   const canonical = fecha ? canonicalPath(norma, fecha, versions) : canonicalHref(norma)
+  const title = fecha
+    ? `${norma.titulo} — texto al ${fecha}`
+    : norma.organismo ? `${norma.titulo} — ${norma.organismo}` : norma.titulo
+  const description =
+    `${normaLabel(norma)}${norma.organismo ? ` — ${norma.organismo}` : ''}. ` +
+    `Publicada el ${fechaLarga(norma.fechaPublicacion)}. Texto completo, historial de versiones y modificaciones.`
   return {
-    title: fecha
-      ? `${norma.titulo} — texto al ${fecha}`
-      : norma.organismo ? `${norma.titulo} — ${norma.organismo}` : norma.titulo,
+    title,
+    openGraph: { title, description },
     alternates: { canonical: `${SITE}${canonical}` },
   }
 }

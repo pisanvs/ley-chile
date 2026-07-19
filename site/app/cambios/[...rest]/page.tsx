@@ -35,9 +35,16 @@ export async function generateMetadata({ params }: Props) {
   const data = await load(r.norma)
   if (!data) return {}
   const { norma: n, versions, modifiedBy } = data
+  const t = title(n)
+  const d = `La ${normaLabel(n)} ha cambiado ${versions.length} veces desde su publicación, por ${modifiedBy.length} ${modifiedBy.length === 1 ? 'norma modificadora' : 'normas modificadoras'}. Cada versión, su causa y qué texto regía en cada fecha.`
   return {
-    title: title(n),
-    description: `La ${normaLabel(n)} ha cambiado ${versions.length} veces desde su publicación, por ${modifiedBy.length} ${modifiedBy.length === 1 ? 'norma modificadora' : 'normas modificadoras'}. Cada versión, su causa y qué texto regía en cada fecha.`,
+    title: t,
+    description: d,
+    openGraph: {
+      title: t,
+      description: d,
+      images: [{ url: `/api/og?id=${n.idNorma}`, width: 1200, height: 630 }],
+    },
     alternates: { canonical: `${SITE}${cambiosHref(n)}` },
   }
 }

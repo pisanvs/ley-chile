@@ -46,9 +46,16 @@ export async function generateMetadata({ params }: Props) {
   if (r.kind !== 'render') return {}
   const data = await load(r.norma)
   if (!data) return {}
+  const t = title(data.norma)
+  const d = description(data.norma, data.versions)
   return {
-    title: title(data.norma),
-    description: description(data.norma, data.versions),
+    title: t,
+    description: d,
+    openGraph: {
+      title: t,
+      description: d,
+      images: [{ url: `/api/og?id=${data.norma.idNorma}`, width: 1200, height: 630 }],
+    },
     alternates: { canonical: `${SITE}${guiaHref(data.norma)}` },
   }
 }
