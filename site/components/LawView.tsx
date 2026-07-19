@@ -8,6 +8,7 @@ import { IDEShell } from '@/components/IDEShell'
 import { VersionScrubber } from '@/components/VersionScrubber'
 import { RedlineReader, type ReaderViewMode } from '@/components/RedlineReader'
 import { RightRail } from '@/components/RightRail'
+import { Navigator } from '@/components/Navigator'
 import { readPrefs, writePrefs } from '@/lib/annotations'
 import { ds } from '@/lib/datasource'
 import { tabs } from '@/lib/tabs'
@@ -226,7 +227,11 @@ export function LawView({
   )
 
   return (
-    <IDEShell center={center} rightRail={<RightRail idx={idx} active={active} activeSlug={activeSlug} />} />
+    <IDEShell
+      navigator={<Navigator activeId={idx.norma.idNorma} />}
+      center={center}
+      rightRail={<RightRail idx={idx} active={active} activeSlug={activeSlug} />}
+    />
   )
 }
 
