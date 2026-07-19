@@ -13,6 +13,31 @@ import psycopg
 from schemas.snapshot import EventRow, ModRow, NormaRow, RelacionRow, VersionRow
 from spans import ArticleRow, SpanRow
 
+# Bounded batch size for executemany.
+#
+# A single executemany over a whole 50k-row shard is one very long round trip.
+# Against Railway's public TCP proxy that exceeds its limit and the connection
+# is closed mid-statement ("server closed the connection unexpectedly"), which
+# is how an out-of-band restore run died after loading normas. In-container it
+# is also gentler: shorter transactions, less WAL held open at once, and a
+# failure costs one batch instead of a whole shard.
+_BATCH = 1_000
+
+
+def _executemany(cur, sql: str, params: list) -> int:
+    """Run executemany in bounded batches; returns total rows affected.
+
+    The count must be summed here: cur.rowcount reflects only the LAST batch, so
+    a caller checking it directly (load_spans does, to fail closed on an
+    unresolved article reference) would silently compare against one batch
+    instead of the whole shard.
+    """
+    total = 0
+    for i in range(0, len(params), _BATCH):
+        cur.executemany(sql, params[i:i + _BATCH])
+        total += cur.rowcount if cur.rowcount is not None and cur.rowcount >= 0 else 0
+    return total
+
 
 def _norma_params(r: NormaRow) -> dict:
     """Bind params for one norma row.
@@ -35,7 +60,7 @@ def _norma_params(r: NormaRow) -> dict:
 def load_normas(conn: psycopg.Connection, rows: Iterable[NormaRow]) -> int:
     rows = list(rows)
     with conn.cursor() as cur:
-        cur.executemany(
+        _executemany(cur, 
             """
             INSERT INTO norma (id_norma, tipo, numero, titulo, organismo,
                                clasificacion, derogado, fecha_publicacion, law_dir,
@@ -65,7 +90,7 @@ def load_relaciones(conn: psycopg.Connection, rows: Iterable[RelacionRow]) -> in
     """Typed relations (refundido). Idempotent: the whole row is the key."""
     rows = list(rows)
     with conn.cursor() as cur:
-        cur.executemany(
+        _executemany(cur, 
             """
             INSERT INTO relacion (origen_id, destino_id, tipo)
             VALUES (%(origen_id)s, %(destino_id)s, %(tipo)s)
@@ -79,7 +104,7 @@ def load_relaciones(conn: psycopg.Connection, rows: Iterable[RelacionRow]) -> in
 def load_versions(conn: psycopg.Connection, rows: Iterable[VersionRow]) -> int:
     rows = list(rows)
     with conn.cursor() as cur:
-        cur.executemany(
+        _executemany(cur, 
             """
             INSERT INTO version (id_norma, desde, hasta, commit_sha, causa_id,
                                  subject, magnitude, texto_sha256, canonical_sha256)
@@ -99,7 +124,7 @@ def load_versions(conn: psycopg.Connection, rows: Iterable[VersionRow]) -> int:
 def load_articles(conn: psycopg.Connection, rows: Iterable[ArticleRow]) -> int:
     rows = list(rows)
     with conn.cursor() as cur:
-        cur.executemany(
+        _executemany(cur, 
             """
             INSERT INTO articulo (id_norma, slug, label, raw_heading, body, content_sha256)
             VALUES (%(id_norma)s, %(slug)s, %(label)s, %(raw_heading)s, %(body)s, %(content_sha256)s)
@@ -124,7 +149,10 @@ def load_spans(conn: psycopg.Connection, rows: Iterable[SpanRow]) -> int:
     if not rows:
         return 0
     with conn.cursor() as cur:
-        cur.executemany(
+        # Summed across batches — see _executemany. Using cur.rowcount here
+        # would only see the final batch and wave through every earlier miss.
+        written = _executemany(
+            cur,
             """
             INSERT INTO articulo_span (articulo_id, desde, hasta, ord)
             SELECT a.id, %(desde)s, %(hasta)s, %(ord)s
@@ -136,7 +164,6 @@ def load_spans(conn: psycopg.Connection, rows: Iterable[SpanRow]) -> int:
             """,
             [r.__dict__ for r in rows],
         )
-        written = cur.rowcount
     if written != len(rows):
         raise ValueError(
             f"{len(rows) - written} of {len(rows)} spans reference articles that were "
@@ -161,7 +188,7 @@ def _unresolved_spans(conn: psycopg.Connection, rows: list[SpanRow]) -> list[tup
 def load_mods(conn: psycopg.Connection, rows: Iterable[ModRow]) -> int:
     rows = list(rows)
     with conn.cursor() as cur:
-        cur.executemany(
+        _executemany(cur, 
             """
             INSERT INTO modificacion (causa_id, target_id, fecha, commit_sha)
             VALUES (%(causa_id)s, %(target_id)s, %(fecha)s, %(commit_sha)s)
@@ -175,7 +202,7 @@ def load_mods(conn: psycopg.Connection, rows: Iterable[ModRow]) -> int:
 def load_events(conn: psycopg.Connection, rows: Iterable[EventRow]) -> int:
     rows = list(rows)
     with conn.cursor() as cur:
-        cur.executemany(
+        _executemany(cur, 
             """
             INSERT INTO publication_event
                 (id_norma, commit_sha, fecha, causa_id, subject, magnitude)

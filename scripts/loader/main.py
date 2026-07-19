@@ -84,7 +84,16 @@ def run(conn, client, artifacts_dir: Path, *, budget_bytes: int,
     apply_schema(conn)
 
     manifest = Manifest(**json.loads((artifacts_dir / "manifest.json").read_text()))
-    if not should_load(manifest, load.get_load_state(conn)):
+    # LOADER_FORCE_RELOAD re-runs a load the watermark already considers done.
+    # Needed when the read model is damaged rather than stale: load_state
+    # records the snapshot as loaded, so should_load() short-circuits and the
+    # loader refuses to repair itself. The load is idempotent (upserts keyed by
+    # primary key, replace_norma clearing derived rows first), so forcing is
+    # safe; it is only wasteful.
+    force = os.environ.get("LOADER_FORCE_RELOAD", "").strip().lower() in ("1", "true", "yes")
+    if force:
+        print("LOADER_FORCE_RELOAD set — reloading regardless of load_state")
+    if not force and not should_load(manifest, load.get_load_state(conn)):
         print("up to date; nothing to do")
         return 0
 
@@ -92,24 +101,53 @@ def run(conn, client, artifacts_dir: Path, *, budget_bytes: int,
     # shard, but a full-corpus snapshot spans several (357k normas → 8 shards);
     # `next(glob())` silently loaded only the first, leaving versions that
     # reference the rest to fail against the norma FK.
-    normas = [
-        n for shard in sorted(artifacts_dir.glob("normas-*.ndjson.gz"))
-        for n in _read_shard(shard, NormaRow)
-    ]
-    touched = [n.id_norma for n in normas]
-
     # replace_norma clears a norma's derived rows so a re-export can close a
     # previously open-ended version range without tripping the EXCLUDE
-    # constraint. On a fresh load (empty read model) there is nothing to clear,
-    # and the per-norma sweep over ~357k normas is not free — skip it.
+    # constraint. Gate it on `articulo` being non-empty, not `norma`: those are
+    # exactly the rows it deletes, so with none present there is nothing to
+    # clear and the sweep is pure cost.
+    #
+    # This matters more than it looks. The sweep DELETEs the derived rows for
+    # every touched norma before the reload puts them back, so a run that dies
+    # in between leaves the read model empty — which is precisely what happened:
+    # the container was killed mid-run, after the sweep and before articulos and
+    # spans reloaded, and every norma served 0 articles until the next load.
     with conn.cursor() as cur:
-        cur.execute("SELECT EXISTS (SELECT 1 FROM norma)")
-        had_normas = cur.fetchone()[0]
+        cur.execute("SELECT EXISTS (SELECT 1 FROM articulo)")
+        had_derived = cur.fetchone()[0]
 
-    load.load_normas(conn, normas)
-    if had_normas:
-        for id_norma in touched:
-            load.replace_norma(conn, id_norma)
+    # Stream the normas shards instead of materialising all ~333k rows at once.
+    # The full list was held for the entire run purely to compute `touched`, and
+    # each NormaRow just grew five fields (three of them lists) — enough to push
+    # an already-large resident set over the container's memory limit. Only the
+    # ids need to outlive the loop.
+    # LOADER_SKIP_NORMAS repairs the derived tables without rewriting norma.
+    #
+    # Re-upserting all ~333k norma rows is a random UPDATE across a populated
+    # table, so after each checkpoint the first touch of every page writes a
+    # full 8 KB page image to WAL — roughly 800 MB of WAL per 100k rows. That
+    # pins the checkpointer in a back-to-back "checkpoint starting: wal" loop,
+    # and on a volume with little headroom it is the difference between a load
+    # that completes and one that dies partway, leaving the site with rows in
+    # `articulo` but none in `articulo_span` and therefore no text at all.
+    #
+    # When norma is already correct and only the derived tables need rebuilding,
+    # that write is pure cost. Ids still come from the shards, so `touched`,
+    # verification and indexing are unaffected.
+    skip_normas = os.environ.get("LOADER_SKIP_NORMAS", "").strip().lower() in ("1", "true", "yes")
+    if skip_normas:
+        print("LOADER_SKIP_NORMAS set — reading norma ids without rewriting the table")
+
+    touched: list[int] = []
+    for shard in sorted(artifacts_dir.glob("normas-*.ndjson.gz")):
+        rows = _read_shard(shard, NormaRow)
+        if not skip_normas:
+            load.load_normas(conn, rows)
+        touched.extend(r.id_norma for r in rows)
+        if had_derived and not skip_normas:
+            for r in rows:
+                load.replace_norma(conn, r.id_norma)
+        del rows
 
     for kind in ("versions", "articulos", "spans", "mods", "events"):
         cls, fn = _KINDS[kind]
@@ -166,7 +204,7 @@ def run(conn, client, artifacts_dir: Path, *, budget_bytes: int,
         except Exception as err:
             print(f"revalidate: FAILED ({err}); pages will serve stale until next touch")
 
-    print(f"loaded {len(normas)} normas, promoted {len(promoted)}")
+    print(f"loaded {len(touched)} normas, promoted {len(promoted)}")
     return 0
 
 

@@ -1,6 +1,7 @@
 import './globals.css'
 import type { Metadata } from 'next'
 import { AppShell } from '@/components/AppShell'
+import { SiteAlert } from '@/components/SiteAlert'
 import { SITE } from '@/lib/site'
 
 // Aligned to the landing hero copy. Reused across the base metadata, OG, and
@@ -51,6 +52,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <script dangerouslySetInnerHTML={{ __html: noFlashTheme }} />
       </head>
       <body className="antialiased">
+        <SiteAlert />
         <AppShell>{children}</AppShell>
       </body>
     </html>
