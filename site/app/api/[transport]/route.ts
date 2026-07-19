@@ -1,14 +1,15 @@
 import { createMcpHandler } from 'mcp-handler'
 import { z } from 'zod'
 import {
-  currentFecha, getArticlesAsOf, getModifiedBy, getModifies, getNormaById,
-  getNormasByKey, getOrganismosByIds, getVersions,
-  type Article, type Norma, type Version,
+  currentFecha, getArticlesAsOf, getAvisos, getModifiedBy, getModifies, getNormaById,
+  getNormasByKey, getOrganismosByIds, getRefundido, getVersions,
+  type Article, type Avisos, type Norma, type RefundidoLink, type Version,
 } from '@/lib/norma'
 import { needsColdPath, searchArticles, searchCold, searchHot } from '@/lib/search'
 import { align, joinDiffText, wordDiff } from '@/lib/diff'
 import { SITE } from '@/lib/jsonld'
 import { canonicalHref } from '@/lib/href'
+import { sortAvisos } from '@/lib/avisos'
 
 /**
  * Remote MCP server over the Chilean legal corpus — "para agentes y humanos".
@@ -71,6 +72,61 @@ const AMBIGUITY_NOTE =
   '(tipo, número) NO identifica una norma chilena: si la clave es ambigua, esta ' +
   'herramienta devuelve la lista de candidatas en vez de adivinar. Pasa `idNorma` para ' +
   'elegir una.'
+
+/** Warnings that must lead a response, before any article text.
+ *
+ *  This is the guardrail for the failure that prompted all of this: asked for a
+ *  law whose text had been recast, a model fell back to the pre-refundido base
+ *  and assumed the differences were small. They are not — a refundido RENUMBERS
+ *  articles, so the answer came out with confident, wrong article numbers and
+ *  cross-references. LeyChile publishes both the refundido relation and its own
+ *  numbering observations; the corpus was throwing all of it away. */
+function avisoLines(
+  avisos: Avisos,
+  refundido: { refunde: RefundidoLink[]; refundidaEn: RefundidoLink[] },
+): string[] {
+  const out: string[] = []
+  for (const r of refundido.refundidaEn) {
+    const org = r.organismo ? ` · ${r.organismo}` : ''
+    const year = r.fechaPublicacion ? ` · ${r.fechaPublicacion.slice(0, 4)}` : ''
+    out.push(
+      `⚠ TEXTO REFUNDIDO: el texto vigente está refundido en ${r.tipo.toUpperCase()} ` +
+      `${r.numero}${org}${year} (idNorma ${r.idNorma}). Un refundido RENUMERA los ` +
+      'artículos: cita los números desde esa norma, no desde ésta.',
+    )
+  }
+  if (refundido.refunde.length) {
+    out.push(
+      'Refunde: ' +
+      refundido.refunde
+        .map((r) => `${r.tipo.toUpperCase()} ${r.numero} (idNorma ${r.idNorma})`)
+        .join(', '),
+    )
+  }
+  if (avisos.dobleArticulado) {
+    out.push(
+      '⚠ DOBLE ARTICULADO: esta norma tiene dos series de artículos; una etiqueta ' +
+      'como "Artículo 1" puede ser ambigua.',
+    )
+  }
+  // Only numbering notes get the warning marker. 55% of normas carry an
+  // observación but 99.7% are document-type noise ("EXTRACTO"); flagging all of
+  // them would teach a model to ignore the marker entirely.
+  const { numbering, notes } = sortAvisos(avisos.observaciones)
+  for (const o of numbering) {
+    out.push(`⚠ NUMERACIÓN (LeyChile): ${o}`)
+  }
+  if (notes.length) {
+    // Still worth stating: "EXTRACTO" means the published text is partial.
+    out.push(`Nota de LeyChile: ${notes.join(' · ')}`)
+  }
+  // Only when the typed edge is missing: the raw field is tipo-numero text that
+  // cannot be resolved, so it is strictly worse than the relation above.
+  if (avisos.refundidoPor && refundido.refundidaEn.length === 0) {
+    out.push(`Refundido por (texto de LeyChile, sin idNorma): ${avisos.refundidoPor}`)
+  }
+  return out
+}
 
 type Resolution =
   | { ok: true; norma: Norma }
@@ -235,8 +291,13 @@ const handler = createMcpHandler(
         const norma = r.norma
         const versions = await getVersions(norma.idNorma)
         const at = fecha ?? currentFecha(versions)
-        const articles = await getArticlesAsOf(norma.idNorma, at)
+        const [articles, avisos, refundido] = await Promise.all([
+          getArticlesAsOf(norma.idNorma, at),
+          getAvisos(norma.idNorma),
+          getRefundido(norma.idNorma),
+        ])
         const index = articles.map((a: Article) => `  - ${a.label}${a.rawHeading ? ` (${a.rawHeading})` : ''}`)
+        const avisos_ = avisoLines(avisos, refundido)
         return text(
           [
             `${norma.tipo.toUpperCase()} ${norma.numero} — ${norma.titulo}`,
@@ -246,6 +307,9 @@ const handler = createMcpHandler(
             `Texto vigente al: ${at}`,
             `Versiones (${versions.length}): ${versions.map((v) => v.desde).join(', ')}`,
             `URL: ${lawUrl(norma, at)}`,
+            // Before the articulado, never after: a warning about article
+            // numbering is worthless once the numbers have been read.
+            ...(avisos_.length ? ['', ...avisos_] : []),
             '',
             `Artículos (${articles.length}) — usa get_article para el texto:`,
             ...index.slice(0, 300),

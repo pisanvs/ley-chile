@@ -45,3 +45,19 @@ export function canonicalHref(
   const hashPart = hash ? `#${hash}` : ''
   return `${base}${path}${fechaPart}${hashPart}`
 }
+
+/** The editorial surfaces are keyed by norma too, so they inherit the same
+ *  identity rule: `/guia/{idNorma}/{slug}`, `/cambios/{idNorma}/{slug}`.
+ *
+ *  Legacy `/guia/{tipo}/{numero}` picked the "canonical" member of a colliding
+ *  key exactly like the reader did — so /guia/dfl/1 wrote a guide about
+ *  whichever DFL 1 sorted first. Both shapes are two segments, which is why the
+ *  routes discriminate on the first segment being all-digits: no tipo in the
+ *  corpus is numeric (checked across all 36). */
+export function guiaHref(n: IdentifiableNorma, base = ''): string {
+  return `${base}/guia/${n.idNorma}/${normaSlug(n)}`
+}
+
+export function cambiosHref(n: IdentifiableNorma, base = ''): string {
+  return `${base}/cambios/${n.idNorma}/${normaSlug(n)}`
+}

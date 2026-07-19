@@ -301,6 +301,93 @@ export async function getModifies(idNorma: number): Promise<ModLink[]> {
   return rows.map(toModLink).sort((a, b) => b.fecha.localeCompare(a.fecha))
 }
 
+export interface Avisos {
+  /** LeyChile's own notes; they flag article-numbering anomalies. */
+  observaciones: string[]
+  dobleArticulado: boolean
+  /** Raw "DFL-2; DFL-2-95". Display only — tipo-numero tokens, not idNormas. */
+  refundidoPor: string
+}
+
+export interface RefundidoLink {
+  idNorma: number
+  tipo: string
+  numero: string
+  titulo: string
+  organismo: string
+  fechaPublicacion: string | null
+}
+
+const EMPTY_AVISOS: Avisos = { observaciones: [], dobleArticulado: false, refundidoPor: '' }
+
+/** Postgres codes for "that column/table isn't there". 42703 undefined_column,
+ *  42P01 undefined_table. */
+function isMissingSchema(e: unknown): boolean {
+  const code = (e as { code?: string } | null)?.code
+  return code === '42703' || code === '42P01'
+}
+
+/** Metadata recovered from LeyChile, kept OUT of the main Norma SELECTs on
+ *  purpose: those run on every page and every MCP call, and widening them for
+ *  data only two surfaces read would be a cost with no benefit.
+ *
+ *  Degrades to "nothing to report" when the columns do not exist yet. That is
+ *  what lets this ship independently of the loader run that applies the
+ *  migration — the alternative is a 500 on every norma page in the window
+ *  between the two deploys. Any other error still throws. */
+export async function getAvisos(idNorma: number): Promise<Avisos> {
+  try {
+    const { rows } = await pool.query(
+      `SELECT observaciones, doble_articulado, refundido_por
+         FROM norma WHERE id_norma = $1`,
+      [idNorma],
+    )
+    if (!rows[0]) return EMPTY_AVISOS
+    return {
+      observaciones: rows[0].observaciones ?? [],
+      dobleArticulado: Boolean(rows[0].doble_articulado),
+      refundidoPor: rows[0].refundido_por ?? '',
+    }
+  } catch (e) {
+    if (isMissingSchema(e)) return EMPTY_AVISOS
+    throw e
+  }
+}
+
+/** Texto refundido, both directions.
+ *
+ *  `refundidaEn` is the one that matters: it names the consolidated text that
+ *  supersedes this norma. A refundido RENUMBERS articles, so answering from the
+ *  base law — on the assumption the consolidated text is close enough — yields
+ *  wrong article numbers and wrong cross-references, silently. */
+export async function getRefundido(
+  idNorma: number,
+): Promise<{ refunde: RefundidoLink[]; refundidaEn: RefundidoLink[] }> {
+  const empty = { refunde: [], refundidaEn: [] }
+  try {
+    const { rows } = await pool.query(
+      `SELECT r.tipo AS rel, n.id_norma, n.tipo, n.numero, n.titulo, n.organismo,
+              n.fecha_publicacion
+         FROM relacion r
+         JOIN norma n ON n.id_norma = r.destino_id
+        WHERE r.origen_id = $1
+        ORDER BY n.fecha_publicacion DESC NULLS LAST`,
+      [idNorma],
+    )
+    const link = (r: Record<string, any>): RefundidoLink => ({
+      idNorma: r.id_norma, tipo: r.tipo, numero: r.numero, titulo: r.titulo ?? '',
+      organismo: r.organismo ?? '', fechaPublicacion: r.fecha_publicacion,
+    })
+    return {
+      refunde: rows.filter((r) => r.rel === 'refunde').map(link),
+      refundidaEn: rows.filter((r) => r.rel === 'refundida_en').map(link),
+    }
+  } catch (e) {
+    if (isMissingSchema(e)) return empty
+    throw e
+  }
+}
+
 export function currentFecha(versions: Version[]): string {
   const open = versions.find(v => v.hasta === null)
   if (open) return open.desde

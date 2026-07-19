@@ -27,7 +27,8 @@ from pathlib import Path
 
 from build_web_indexes import real_date
 from schemas.snapshot import (
-    EventRow, Manifest, ModRow, NormaRow, VersionRow, close_ranges, to_ndjson,
+    EventRow, Manifest, ModRow, NormaRow, RelacionRow, VersionRow, close_ranges,
+    to_ndjson,
 )
 from segment import canonical_text, segment, sha256_text
 from spans import ArticleRow, SpanRow, VersionInput, build_articles_and_spans
@@ -370,24 +371,58 @@ def _write_shards(out_dir: Path, kind: str, rows: list) -> list[str]:
 
 @dataclass
 class Accum:
-    """The six row lists plus the failure ledger, shared by both export paths."""
+    """The seven row lists plus the failure ledger, shared by both export paths."""
     normas: list = None
     versions: list = None
     articles: list = None
     spans: list = None
     mods: list = None
     events: list = None
+    relaciones: list = None
     considered: int = 0
     failures: list = None
 
     def __post_init__(self):
-        for f in ("normas", "versions", "articles", "spans", "mods", "events", "failures"):
+        for f in ("normas", "versions", "articles", "spans", "mods", "events",
+                  "relaciones", "failures"):
             if getattr(self, f) is None:
                 setattr(self, f, [])
 
 
+def _strs(node: dict, key: str) -> list[str]:
+    """A graph field that may be absent, a bare string, or a list of strings."""
+    v = node.get(key)
+    if not v:
+        return []
+    if isinstance(v, str):
+        return [v]
+    return [str(x) for x in v if x]
+
+
+def _relacion_rows(id_norma: int, node: dict) -> list[RelacionRow]:
+    """Typed refundido edges, from BCN's recasts / isRecastedBy.
+
+    Only these carry real idNormas; metadatos.refundido_por is tipo-numero text
+    ("DFL-2; DFL-2-95") that cannot be resolved, since "DFL 2" names 138 normas.
+    """
+    out = []
+    for key, tipo in (("refunde", "refunde"), ("refundidaEn", "refundida_en")):
+        for other in node.get(key) or []:
+            try:
+                destino = int(other)
+            except (TypeError, ValueError):
+                continue
+            out.append(RelacionRow(origen_id=id_norma, destino_id=destino, tipo=tipo))
+    return out
+
+
 def _norma_row(id_norma: int, node: dict, law_dir: str) -> NormaRow:
     return NormaRow(
+        nombres_uso_comun=_strs(node, "nombresUsoComun"),
+        materias=_strs(node, "materias"),
+        observaciones=_strs(node, "observaciones"),
+        doble_articulado=bool(node.get("dobleArticulado", False)),
+        refundido_por=str(node.get("refundidoPor") or ""),
         id_norma=id_norma,
         tipo=node.get("tipo", ""),
         numero=str(node.get("numero", "")),
@@ -421,6 +456,7 @@ def _project_and_append(
     acc.spans += s
     acc.events += e
     acc.normas.append(_norma_row(id_norma, node, law_dir))
+    acc.relaciones.extend(_relacion_rows(id_norma, node))
     acc.mods += m
 
 
@@ -540,13 +576,15 @@ def main() -> int:
     shards: list[str] = []
     for kind, rows in [("normas", acc.normas), ("versions", acc.versions),
                        ("articulos", acc.articles), ("spans", acc.spans),
-                       ("mods", acc.mods), ("events", acc.events)]:
+                       ("mods", acc.mods), ("events", acc.events),
+                       ("relaciones", acc.relaciones)]:
         shards += _write_shards(args.out, kind, rows)
 
     manifest = build_manifest(args.snapshot_version, args.watermark, args.delta_seq, shards)
     (args.out / "manifest.json").write_text(
         json.dumps(manifest.__dict__, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+    print(f"relaciones={len(acc.relaciones)}")
     print(f"normas={len(acc.normas)} versions={len(acc.versions)} events={len(acc.events)} "
           f"articulos={len(acc.articles)} spans={len(acc.spans)} mods={len(acc.mods)} "
           f"shards={len(shards)} skipped={len(acc.failures)}")

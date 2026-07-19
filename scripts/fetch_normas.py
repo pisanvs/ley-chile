@@ -310,7 +310,7 @@ def _worker(id_norma: int, cache_dir: Path, session: requests.Session) -> tuple[
 # Main async orchestrator
 # ---------------------------------------------------------------------------
 
-async def run(data_root: Path, limit: int | None) -> None:
+async def run(data_root: Path, limit: int | None, reparse_cache: bool = False) -> None:
     catalog_path = data_root / "catalog.json"
     if not catalog_path.exists():
         logger.error(f"catalog.json not found at {catalog_path}")
@@ -347,8 +347,17 @@ async def run(data_root: Path, limit: int | None) -> None:
     # never heals.  Fix: walk the cache once at startup and parse anything
     # missing from the graph back in.  Cheap after the first reconciliation
     # (only net-new files need parsing).
+    #
+    # `--reparse-cache` widens the same walk to nodes that ARE already in the
+    # graph. Without it a change to what parse_node lifts can never reach the
+    # ~357k nodes parsed by earlier runs: they are in the graph, so the
+    # reconcile skips them, and they are in done_set, so the work queue skips
+    # them too. The node is rebuilt from its cached JSON with the existing node
+    # passed through, so fields written by other phases (bulk_fetch's refundido
+    # edges, boletín) survive. Local cache only — no network.
     if cache_dir.exists():
         reconciled = 0
+        reparsed = 0
         for cache_file in cache_dir.iterdir():
             if cache_file.suffix != ".json":
                 continue
@@ -356,17 +365,24 @@ async def run(data_root: Path, limit: int | None) -> None:
                 id_norma = int(cache_file.stem)
             except ValueError:
                 continue
-            if str(id_norma) in graph:
+            existing = graph.get(str(id_norma))
+            if existing is not None and not reparse_cache:
                 continue
             try:
                 data = json.loads(cache_file.read_text(encoding="utf-8"))
             except (json.JSONDecodeError, OSError):
                 continue
-            graph[str(id_norma)] = parse_node(id_norma, data, None)
+            graph[str(id_norma)] = parse_node(id_norma, data, existing)
             done_set.add(id_norma)
-            reconciled += 1
-        if reconciled:
-            logger.info(f"Reconciled {reconciled:,} cached normas into graph (closing done/graph drift)")
+            if existing is None:
+                reconciled += 1
+            else:
+                reparsed += 1
+        if reconciled or reparsed:
+            logger.info(
+                f"Reconciled {reconciled:,} cached normas into graph "
+                f"(closing done/graph drift); re-parsed {reparsed:,} existing nodes"
+            )
             _save_graph(graph_path, graph)
             progress["done"] = list(done_set)
             _save_progress(progress_path, progress)
@@ -527,12 +543,21 @@ def main() -> None:
         default=None,
         help="Process only the first N normas (for testing)",
     )
+    parser.add_argument(
+        "--reparse-cache",
+        action="store_true",
+        help="Re-derive every graph node from its cached norma JSON, including "
+             "nodes already present. Use after changing what parse_node lifts — "
+             "the normal reconcile only fills in nodes MISSING from the graph, so "
+             "a parser change would otherwise never reach already-parsed nodes. "
+             "Reads the local cache only; no network.",
+    )
     args = parser.parse_args()
 
     data_root = Path(args.data_root).resolve() if args.data_root else detect_data_root()
     logger.info(f"DATA_ROOT: {data_root}")
 
-    asyncio.run(run(data_root, args.limit))
+    asyncio.run(run(data_root, args.limit, args.reparse_cache))
 
 
 if __name__ == "__main__":
