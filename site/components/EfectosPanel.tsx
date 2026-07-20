@@ -4,20 +4,18 @@ import { useQuery } from '@tanstack/react-query'
 import Link from 'next/link'
 import { wordDiff, joinDiffText } from '@/lib/diff'
 import { canonicalHref } from '@/lib/href'
-import { SidebarHeading } from '@/components/IDEShell'
 import type { Efecto, EfectoArticle } from '@/lib/efectos'
 
 const TIPO_LABEL: Record<string, string> = {
   ley: 'Ley', dl: 'DL', dfl: 'DFL', dto: 'Decreto', cod: 'Código', res: 'Resolución',
 }
 
-/** The reader's "Efectos" tab: what this modificatoria changed, law by law.
- *
- *  For each target law it amended, a clickable header (→ that law at the version
- *  this modifier produced) and, under it, every changed article as a small
- *  per-article redline. The center pane still shows the modifier's own text, so
- *  the modifier reads alongside its effects. */
-export function EfectosPanel({ modifierId }: { modifierId: number }) {
+/** The effects column: what this modificatoria changed, law by law. Rendered
+ *  alongside the modifier's own text (see EfectosLayout). For each target law it
+ *  amended: a clickable header that opens that law at the version this modifier
+ *  produced, and under it every changed article as a small per-article inline
+ *  redline (deletions struck in ruby, insertions in moss). */
+export function EfectosColumn({ modifierId }: { modifierId: number }) {
   const q = useQuery({
     queryKey: ['efectos', modifierId],
     queryFn: async (): Promise<{ efectos: Efecto[]; truncated: boolean }> => {
@@ -34,25 +32,34 @@ export function EfectosPanel({ modifierId }: { modifierId: number }) {
   const { efectos = [], truncated = false } = q.data ?? {}
   if (efectos.length === 0) {
     return (
-      <p className="text-[11px] text-ink-faint leading-relaxed">
-        Esta norma no modificó el articulado de otras. Las modificatorias muestran aquí,
-        artículo por artículo, qué cambiaron en cada ley.
-      </p>
+      <div className="rounded-lg border border-dashed border-rule bg-paper-sunk/40 px-4 py-6 text-center">
+        <p className="text-[13px] text-ink-soft leading-relaxed">
+          Esta norma no modificó el articulado de otras leyes.
+        </p>
+        <p className="mt-1.5 text-[11px] text-ink-faint leading-relaxed">
+          Las modificatorias muestran aquí, artículo por artículo, qué cambiaron en cada cuerpo legal.
+        </p>
+      </div>
     )
   }
 
   const totalArticles = efectos.reduce((n, e) => n + e.articles.length, 0)
 
   return (
-    <div className="space-y-5">
-      <SidebarHeading>
-        Efectos · {efectos.length} {efectos.length === 1 ? 'norma' : 'normas'} · {totalArticles} art.
-      </SidebarHeading>
-      {efectos.map((e) => (
-        <TargetGroup key={`${e.target.idNorma}:${e.fecha}`} efecto={e} />
-      ))}
+    <div>
+      <div className="flex items-baseline gap-2 pb-2 mb-3 border-b border-rule">
+        <h2 className="font-display text-lg text-ink">Efectos</h2>
+        <span className="text-[11px] text-ink-faint">
+          {efectos.length} {efectos.length === 1 ? 'norma' : 'normas'} · {totalArticles} artículos
+        </span>
+      </div>
+      <div className="space-y-4">
+        {efectos.map((e) => (
+          <TargetGroup key={`${e.target.idNorma}:${e.fecha}`} efecto={e} />
+        ))}
+      </div>
       {truncated && (
-        <p className="text-[11px] text-ink-faint">
+        <p className="mt-4 text-[11px] text-ink-faint">
           Se muestran las más recientes; esta norma modificó aún más cuerpos legales.
         </p>
       )}
@@ -64,47 +71,47 @@ function TargetGroup({ efecto }: { efecto: Efecto }) {
   const { target, fecha, articles, more } = efecto
   const tipo = TIPO_LABEL[target.tipo] ?? target.tipo.toUpperCase()
   return (
-    <section>
+    <section className="rounded-lg border border-rule bg-paper-raised overflow-hidden">
       <Link
         href={canonicalHref(target, fecha)}
-        className="group block rounded-md border border-rule bg-paper-raised px-2.5 py-2
-                   transition hover:border-indigo/50 hover:bg-paper-sunk"
-        title={target.titulo}
+        className="group block px-3.5 py-2.5 border-b border-rule bg-paper-sunk/50
+                   transition hover:bg-paper-sunk"
+        title={`Abrir ${tipo} ${target.numero} en su versión del ${fecha}`}
       >
         <div className="flex items-baseline justify-between gap-2">
-          <span className="text-[11px] font-medium text-ink group-hover:text-indigo transition">
+          <span className="text-[13px] font-semibold text-ink group-hover:text-indigo transition">
             {tipo} {target.numero}
           </span>
-          <span className="text-[10px] font-mono text-ink-faint shrink-0">{fecha} →</span>
+          <span className="text-[11px] font-mono text-ink-faint shrink-0 group-hover:text-indigo transition">
+            {fecha} →
+          </span>
         </div>
-        <p className="mt-0.5 text-[10.5px] leading-snug text-ink-soft line-clamp-2">{target.titulo}</p>
+        <p className="mt-0.5 text-[11.5px] leading-snug text-ink-soft line-clamp-2">{target.titulo}</p>
       </Link>
 
-      <ul className="mt-2 space-y-2">
+      <ul className="divide-y divide-rule/60">
         {articles.map((a) => (
           <ArticleRedlineCell key={`${a.slug}:${a.status}`} article={a} />
         ))}
         {more > 0 && (
-          <li className="text-[10px] text-ink-faint pl-1">…y {more} artículo(s) más</li>
+          <li className="px-3.5 py-2 text-[11px] text-ink-faint">…y {more} artículo(s) más</li>
         )}
       </ul>
     </section>
   )
 }
 
-/** One changed article as a compact inline redline: deletions struck through in
- *  ruby, insertions highlighted in moss. Added / removed whole articles get a
- *  single-tone treatment rather than a word diff. */
+/** One changed article as a compact inline redline. */
 function ArticleRedlineCell({ article }: { article: EfectoArticle }) {
   return (
-    <li className="rounded border border-rule bg-paper/60 px-2 py-1.5">
+    <li className="px-3.5 py-2.5">
       <div className="flex items-center gap-1.5 mb-1">
         <StatusDot status={article.status} />
-        <span className="text-[10px] font-medium text-ink-soft">
+        <span className="text-[11px] font-medium text-ink-soft uppercase tracking-wide">
           {article.rawHeading || article.label}
         </span>
       </div>
-      <div className="redline text-[11px] leading-relaxed text-ink-soft max-h-40 overflow-y-auto scrollbar-quiet">
+      <div className="redline text-[12.5px] leading-relaxed text-ink-soft max-h-52 overflow-y-auto scrollbar-quiet">
         {article.status === 'added' && <ins>{clip(article.currBody)}</ins>}
         {article.status === 'removed' && <del>{clip(article.prevBody)}</del>}
         {article.status === 'modified' && <InlineRedline prev={article.prevBody} curr={article.currBody} />}
@@ -137,7 +144,7 @@ function StatusDot({ status }: { status: EfectoArticle['status'] }) {
 }
 
 /** Effect cells are a preview, not the reader: cap very long articles so one
- *  bill's rewrite of a 3,000-word article doesn't dominate the rail. */
-function clip(s: string, n = 600): string {
+ *  bill's rewrite of a 3,000-word article doesn't dominate the column. */
+function clip(s: string, n = 900): string {
   return s.length <= n ? s : s.slice(0, n).trimEnd() + '…'
 }

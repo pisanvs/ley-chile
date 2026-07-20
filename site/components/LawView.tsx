@@ -243,6 +243,7 @@ function ModeToggle({
     { id: 'side-by-side', label: 'Lado a lado', needsDiff: true },
     { id: 'clean', label: 'Limpio' },
     { id: 'source', label: 'Fuente' },
+    { id: 'efectos', label: 'Efectos' },
   ]
   return (
     <div className="inline-flex items-center bg-paper-sunk rounded-md p-0.5 border border-rule text-xs">
