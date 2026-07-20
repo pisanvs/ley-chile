@@ -35,14 +35,25 @@ const TIPO_CUE: Record<string, string> = {
   cod: 'c[oó]digo',
 }
 
-function targetPattern(tipo: string, numero: string): RegExp | null {
+/** Collapse thousands separators inside numbers ("19.882" → "19882") so a bare
+ *  number match is reliable. */
+function collapseNums(s: string): string {
+  let prev = ''
+  let out = s
+  while (out !== prev) {
+    prev = out
+    out = out.replace(/(\d)\.(\d)/g, '$1$2')
+  }
+  return out
+}
+
+/** Strict reference: the tipo cue and the number in proximity. Rules out an
+ *  incidental "artículo 5" being read as "DFL 5". */
+function strictPattern(tipo: string, numero: string): RegExp | null {
   const num = numero.replace(/\D/g, '')
   const cue = TIPO_CUE[tipo]
   if (!num || !cue) return null
-  // Allow thousands separators between digits ("19.882"); require the tipo cue,
-  // then an optional "N°", then the number, within a short span.
-  const dnum = num.split('').join('\\.?')
-  return new RegExp(`${cue}[^.;:]{0,60}?n[°ºo]?\\s*${dnum}\\b`, 'i')
+  return new RegExp(`${cue}[^.;:]{0,60}?n[°ºo]?\\s*${num}\\b`, 'i')
 }
 
 interface AlignedRow {
@@ -50,26 +61,52 @@ interface AlignedRow {
   efectos: Efecto[]
 }
 
+/** Pair each effect with the modifier article that caused it.
+ *
+ *  Two passes, most confident first:
+ *   1. strict — tipo cue + number in proximity ("fuerza de ley N° 5").
+ *   2. fuzzy  — for still-unmatched effects on a law with a distinctive number
+ *      (≥ 1000, so not confusable with an article number), the number appearing
+ *      anywhere in an as-yet-unmatched article. Catches references that name the
+ *      law without a clean tipo cue ("lo dispuesto en la N° 19.880").
+ *  Whatever neither pass claims falls to "Otras". */
 function alignEffects(
   articles: Segment[],
   efectos: Efecto[],
 ): { rows: AlignedRow[]; unmatched: Efecto[] } {
-  const patterns = efectos.map((e) => targetPattern(e.target.tipo, e.target.numero))
+  const bodies = articles.map((a) => collapseNums(a.body))
+  const rows: AlignedRow[] = articles.map((article) => ({ article, efectos: [] }))
   const taken = new Set<number>()
-  const rows: AlignedRow[] = articles.map((article) => {
-    const matched: Efecto[] = []
-    efectos.forEach((e, i) => {
-      if (taken.has(i)) return
-      const p = patterns[i]
-      if (p && p.test(article.body)) {
-        matched.push(e)
-        taken.add(i)
+
+  const assign = (test: (body: string, e: Efecto) => boolean) => {
+    efectos.forEach((e, ei) => {
+      if (taken.has(ei)) return
+      const ai = bodies.findIndex((b, i) => test(b, e) && rowFree(rows[i], e))
+      if (ai >= 0) {
+        rows[ai].efectos.push(e)
+        taken.add(ei)
       }
     })
-    return { article, efectos: matched }
+  }
+
+  const strict = efectos.map((e) => strictPattern(e.target.tipo, e.target.numero))
+  assign((body, e) => {
+    const p = strict[efectos.indexOf(e)]
+    return !!p && p.test(body)
   })
+  assign((body, e) => {
+    const num = e.target.numero.replace(/\D/g, '')
+    return num.length >= 4 && new RegExp(`(^|\\D)${num}(\\D|$)`).test(body)
+  })
+
   const unmatched = efectos.filter((_, i) => !taken.has(i))
   return { rows, unmatched }
+}
+
+/** Don't stack two effects on one article unless it really names both — keeps a
+ *  fuzzy pass from dumping several laws onto one long article. */
+function rowFree(row: AlignedRow, _e: Efecto): boolean {
+  return row.efectos.length < 3
 }
 
 /** Efectos mode: the modificatoria's own articles, with each change aligned to
@@ -92,30 +129,45 @@ export function EfectosAligned({ modifierId, text }: { modifierId: number; text:
     [articles, q.data],
   )
 
+  // Only the articles that actually change another law get a row. Showing the
+  // ~130 substantive articles that modify nothing (with an empty column beside
+  // them) is what made this read as broken. The full text stays one click away
+  // in the Limpio / Redline modes.
+  const modifying = rows.filter((r) => r.efectos.length > 0)
   const totalEfectos = q.data?.efectos.length ?? 0
+
+  if (q.isLoading) return <p className="text-sm text-ink-faint">Calculando efectos…</p>
+  if (q.isError) return <p className="text-sm text-ruby">No se pudieron cargar los efectos.</p>
+  if (totalEfectos === 0) {
+    return (
+      <div className="mx-auto max-w-lg rounded-lg border border-dashed border-rule bg-paper-sunk/40 px-6 py-10 text-center">
+        <p className="text-[15px] text-ink-soft">Esta norma no modificó el articulado de otras leyes.</p>
+        <p className="mt-2 text-[13px] text-ink-faint leading-relaxed">
+          Las modificatorias muestran aquí, junto a cada artículo, qué cambió en el cuerpo legal que ese artículo reforma.
+        </p>
+      </div>
+    )
+  }
 
   return (
     <div>
-      <div className="flex items-baseline gap-2 pb-3 mb-5 border-b border-rule">
-        <h2 className="font-display text-xl text-ink">Efectos</h2>
-        {q.isLoading ? (
-          <span className="text-[12px] text-ink-faint">calculando…</span>
-        ) : totalEfectos > 0 ? (
-          <span className="text-[12px] text-ink-faint">
-            {totalEfectos} {totalEfectos === 1 ? 'norma modificada' : 'normas modificadas'} · cada cambio junto al artículo que lo causó
-          </span>
-        ) : (
-          <span className="text-[12px] text-ink-faint">esta norma no modificó otras leyes</span>
-        )}
+      <div className="flex items-baseline gap-2 pb-3 mb-6 border-b border-rule">
+        <h2 className="font-display text-2xl text-ink">Efectos</h2>
+        <span className="text-[13px] text-ink-faint">
+          {totalEfectos} {totalEfectos === 1 ? 'norma modificada' : 'normas modificadas'} · cada cambio junto al artículo que lo causó
+        </span>
       </div>
 
-      <div className="space-y-6">
-        {rows.map((row) => (
+      {/* @container so the columns respond to the reader pane's width, not the
+          viewport — the pane is capped well below the `lg` viewport breakpoint. */}
+      <div className="@container space-y-4">
+        {modifying.map((row) => (
           <div
             key={row.article.slug}
-            className="grid grid-cols-1 lg:grid-cols-2 gap-x-8 gap-y-3 items-start lg:border-t lg:border-rule/60 lg:pt-5 first:border-t-0 first:pt-0"
+            className="grid grid-cols-1 @2xl:grid-cols-[minmax(0,1fr)_minmax(0,1fr)] gap-x-6 gap-y-3
+                       rounded-xl border border-rule bg-paper-raised/40 p-4"
           >
-            <ModifierArticle article={row.article} highlighted={row.efectos.length > 0} />
+            <ModifierArticle article={row.article} />
             <div className="space-y-3">
               {row.efectos.map((e) => (
                 <TargetCard key={`${e.target.idNorma}:${e.fecha}`} efecto={e} />
@@ -123,33 +175,35 @@ export function EfectosAligned({ modifierId, text }: { modifierId: number; text:
             </div>
           </div>
         ))}
-      </div>
 
-      {unmatched.length > 0 && (
-        <section className="mt-10 pt-5 border-t border-rule">
-          <h3 className="text-[11px] uppercase tracking-widest text-ink-faint mb-3">
-            Otras modificaciones
-            <span className="ml-2 normal-case tracking-normal text-ink-faint/80">
-              (no vinculadas a un artículo específico)
-            </span>
-          </h3>
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-3">
-            {unmatched.map((e) => (
-              <TargetCard key={`${e.target.idNorma}:${e.fecha}`} efecto={e} />
-            ))}
-          </div>
-        </section>
-      )}
+        {unmatched.length > 0 && (
+          <section className="pt-4 mt-6 border-t border-rule">
+            <h3 className="text-[11px] uppercase tracking-widest text-ink-faint mb-3">
+              Otras modificaciones
+              <span className="ml-2 normal-case tracking-normal text-ink-faint/80">
+                (no vinculadas a un artículo específico)
+              </span>
+            </h3>
+            <div className="grid grid-cols-1 @2xl:grid-cols-2 gap-3">
+              {unmatched.map((e) => (
+                <TargetCard key={`${e.target.idNorma}:${e.fecha}`} efecto={e} />
+              ))}
+            </div>
+          </section>
+        )}
+      </div>
     </div>
   )
 }
 
-function ModifierArticle({ article, highlighted }: { article: Segment; highlighted: boolean }) {
+function ModifierArticle({ article }: { article: Segment }) {
   const heading = article.rawHeading
   return (
-    <article className={highlighted ? '' : 'opacity-90'}>
-      {heading && <h3 className="font-display text-lg mb-1.5 text-ink">{heading}</h3>}
-      <div className="prose-reader leading-relaxed text-[15px] text-ink-soft">
+    <article className="min-w-0">
+      {heading && (
+        <h3 className="font-display text-[15px] font-semibold mb-1.5 text-ink">{heading}</h3>
+      )}
+      <div className="prose-reader leading-relaxed text-[13.5px] text-ink-soft max-h-72 overflow-y-auto scrollbar-quiet pr-1">
         <ReactMarkdown remarkPlugins={[remarkGfm]}>{article.body}</ReactMarkdown>
       </div>
     </article>
