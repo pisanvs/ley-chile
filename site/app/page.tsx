@@ -188,7 +188,7 @@ export default function TimeMachine() {
             <kbd className="font-mono text-[10px] bg-paper-sunk text-ink-soft px-1.5 py-0.5 rounded">⌘K</kbd>
           </button>
           <Link
-            href="/ley/20330"
+            href="/ley/19496"
             className="inline-flex items-center gap-2 text-sm text-indigo hover:underline px-4 py-2.5"
           >
             o explora una ley de ejemplo →
