@@ -190,7 +190,7 @@ function TimeMachine() {
           </button>
           <Link
             to="/ley/$numero"
-            params={{ numero: '20330' }}
+            params={{ numero: '61438' }}
             className="inline-flex items-center gap-2 text-sm text-indigo hover:underline px-4 py-2.5"
           >
             o explora una ley de ejemplo →
