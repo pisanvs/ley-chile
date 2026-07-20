@@ -21,6 +21,9 @@ export interface Efecto {
     tipo: string
     numero: string
     titulo: string
+    /** Common names ("Código Aeronáutico"): laws cite a code by name, not
+     *  number, so this is what lets the effect align to the causing article. */
+    nombresUsoComun: string[]
   }
   fecha: string
   articles: EfectoArticle[]
@@ -55,7 +58,7 @@ export async function getEfectos(
   // first version is "caused" by itself and is not an effect on another norma).
   const { rows: caused } = await pool.query(
     `SELECT v.id_norma AS target_id, v.desde,
-            n.tipo, n.numero, n.titulo,
+            n.tipo, n.numero, n.titulo, n.nombres_uso_comun,
             (SELECT max(p.desde) FROM version p
               WHERE p.id_norma = v.id_norma AND p.desde < v.desde) AS prev_desde
        FROM version v
@@ -95,7 +98,10 @@ export async function getEfectos(
     })
 
     efectos.push({
-      target: { idNorma: r.target_id, tipo: r.tipo, numero: r.numero, titulo: r.titulo ?? '' },
+      target: {
+        idNorma: r.target_id, tipo: r.tipo, numero: r.numero, titulo: r.titulo ?? '',
+        nombresUsoComun: r.nombres_uso_comun ?? [],
+      },
       fecha,
       articles,
       more: Math.max(0, changed.length - articles.length),

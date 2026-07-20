@@ -56,6 +56,32 @@ function strictPattern(tipo: string, numero: string): RegExp | null {
   return new RegExp(`${cue}[^.;:]{0,60}?n[°ºo]?\\s*${num}\\b`, 'i')
 }
 
+const fold = (s: string) =>
+  s.normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase()
+
+// Title words too generic to identify a law on their own — a modifier article
+// that merely says "código" or "ley general" must not match by them.
+const NAME_STOPWORDS = new Set([
+  'codigo', 'ley', 'sobre', 'general', 'generales', 'normas', 'norma', 'sistema',
+  'nacional', 'servicio', 'servicios', 'ministerio', 'establece', 'texto',
+  'refundido', 'coordinado', 'sistematizado', 'organica', 'organico',
+  'constitucional', 'materia', 'materias', 'disposiciones', 'aprueba', 'crea',
+  'fija', 'estatuto', 'sector', 'publico', 'del', 'los', 'las', 'para',
+])
+
+/** Distinctive words from a target's title and common names ("aeronautico",
+ *  "municipalidades") — long enough and specific enough to identify the law when
+ *  a modifier article names it instead of numbering it. */
+function nameTokens(titulo: string, comunes: string[]): string[] {
+  const seen = new Set<string>()
+  for (const src of [...comunes, titulo]) {
+    for (const w of fold(src).split(/[^a-z0-9]+/)) {
+      if (w.length >= 7 && !NAME_STOPWORDS.has(w)) seen.add(w)
+    }
+  }
+  return Array.from(seen)
+}
+
 interface AlignedRow {
   article: Segment
   efectos: Efecto[]
@@ -89,14 +115,34 @@ function alignEffects(
     })
   }
 
+  // Pass 1 — strict: tipo cue + number in proximity ("fuerza de ley N° 5").
   const strict = efectos.map((e) => strictPattern(e.target.tipo, e.target.numero))
   assign((body, e) => {
     const p = strict[efectos.indexOf(e)]
     return !!p && p.test(body)
   })
+  // Pass 2 — number-only, for distinctive numbers (≥4 digits), matched against
+  // the dot-collapsed body.
   assign((body, e) => {
     const num = e.target.numero.replace(/\D/g, '')
     return num.length >= 4 && new RegExp(`(^|\\D)${num}(\\D|$)`).test(body)
+  })
+  // Pass 3 — by name: laws cite a code by its name, not its number ("en el
+  // artículo 193 del Código Aeronáutico"). Match a distinctive title/common-name
+  // word of the target against the accent-folded article body.
+  const tokens = efectos.map((e) => nameTokens(e.target.titulo, e.target.nombresUsoComun))
+  const folded = bodies.map(fold)
+  efectos.forEach((e, ei) => {
+    if (taken.has(ei)) return
+    const toks = tokens[ei]
+    if (toks.length === 0) return
+    const ai = folded.findIndex(
+      (fb, i) => toks.some((t) => fb.includes(t)) && rowFree(rows[i], e),
+    )
+    if (ai >= 0) {
+      rows[ai].efectos.push(e)
+      taken.add(ei)
+    }
   })
 
   const unmatched = efectos.filter((_, i) => !taken.has(i))
