@@ -7,7 +7,7 @@ import remarkGfm from 'remark-gfm'
 import { fetchRawText } from '@/lib/rawtext'
 import { segment, align, wordDiff, joinDiffText, type Aligned } from '@/lib/diff'
 import { ArticleSegment } from '@/components/ArticleSegment'
-import { EfectosColumn } from '@/components/EfectosPanel'
+import { EfectosAligned } from '@/components/EfectosPanel'
 
 export type ReaderViewMode = 'redline' | 'clean' | 'source' | 'side-by-side' | 'efectos'
 
@@ -45,7 +45,7 @@ export function RedlineReader(props: Props) {
   // Efectos: the modifier's own text on the left, everything it changed in
   // other laws alongside on the right. No prev version needed.
   if (mode === 'efectos') {
-    return <EfectosLayout idNorma={idNorma} text={currText} monospace={props.monospace} />
+    return <EfectosAligned modifierId={idNorma} text={currText} />
   }
   if (mode === 'clean' || !prevSha) {
     return (
@@ -86,27 +86,6 @@ export function RedlineReader(props: Props) {
   )
 }
 
-/** Efectos mode: the modifier's own articles on the left, and everything it
- *  changed in other laws alongside on the right. Two columns on wide screens,
- *  stacked on narrow ones. The right column links each target to its changed
- *  version. */
-function EfectosLayout({
-  idNorma, text, monospace,
-}: { idNorma: number; text: string; monospace: boolean }) {
-  return (
-    <div className="grid grid-cols-1 lg:grid-cols-[1fr_28rem] gap-6 lg:gap-10 items-start">
-      <div className="min-w-0">
-        <div className="text-[10px] uppercase tracking-[0.18em] text-ink-faint mb-3">
-          Texto de esta norma
-        </div>
-        <CleanView idNorma={idNorma} text={text} monospace={monospace} />
-      </div>
-      <aside className="min-w-0">
-        <EfectosColumn modifierId={idNorma} />
-      </aside>
-    </div>
-  )
-}
 
 function CleanView({
   idNorma,

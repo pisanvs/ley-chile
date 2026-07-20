@@ -1,8 +1,11 @@
 'use client'
 
+import { useMemo } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import Link from 'next/link'
-import { wordDiff, joinDiffText } from '@/lib/diff'
+import ReactMarkdown from 'react-markdown'
+import remarkGfm from 'remark-gfm'
+import { segment, wordDiff, joinDiffText, type Segment } from '@/lib/diff'
 import { canonicalHref } from '@/lib/href'
 import type { Efecto, EfectoArticle } from '@/lib/efectos'
 
@@ -10,12 +13,70 @@ const TIPO_LABEL: Record<string, string> = {
   ley: 'Ley', dl: 'DL', dfl: 'DFL', dto: 'Decreto', cod: 'Código', res: 'Resolución',
 }
 
-/** The effects column: what this modificatoria changed, law by law. Rendered
- *  alongside the modifier's own text (see EfectosLayout). For each target law it
- *  amended: a clickable header that opens that law at the version this modifier
- *  produced, and under it every changed article as a small per-article inline
- *  redline (deletions struck in ruby, insertions in moss). */
-export function EfectosColumn({ modifierId }: { modifierId: number }) {
+// ---------------------------------------------------------------------------
+// Aligning each effect to the modifier article that caused it.
+//
+// A Chilean modificatoria names its target inside each article: "Modifícase el
+// decreto con fuerza de ley N° 5, de 1967 … en el siguiente sentido:". So the
+// target (tipo, numero) can be recovered from the article text and matched to
+// the effect on that same law — which is what lets the change sit next to the
+// article that produced it, rather than in a flat list.
+//
+// Heuristic, not a parser: it requires the tipo cue and the number in
+// proximity, so an incidental "artículo 5" doesn't get read as "DFL 5". What it
+// cannot match (an unusual reference, a table) falls to "Otras modificaciones".
+// ---------------------------------------------------------------------------
+
+const TIPO_CUE: Record<string, string> = {
+  dfl: 'fuerza de ley',
+  dl: 'decreto\\s+ley',
+  dto: 'decreto(?:\\s+supremo)?',
+  ley: 'ley',
+  cod: 'c[oó]digo',
+}
+
+function targetPattern(tipo: string, numero: string): RegExp | null {
+  const num = numero.replace(/\D/g, '')
+  const cue = TIPO_CUE[tipo]
+  if (!num || !cue) return null
+  // Allow thousands separators between digits ("19.882"); require the tipo cue,
+  // then an optional "N°", then the number, within a short span.
+  const dnum = num.split('').join('\\.?')
+  return new RegExp(`${cue}[^.;:]{0,60}?n[°ºo]?\\s*${dnum}\\b`, 'i')
+}
+
+interface AlignedRow {
+  article: Segment
+  efectos: Efecto[]
+}
+
+function alignEffects(
+  articles: Segment[],
+  efectos: Efecto[],
+): { rows: AlignedRow[]; unmatched: Efecto[] } {
+  const patterns = efectos.map((e) => targetPattern(e.target.tipo, e.target.numero))
+  const taken = new Set<number>()
+  const rows: AlignedRow[] = articles.map((article) => {
+    const matched: Efecto[] = []
+    efectos.forEach((e, i) => {
+      if (taken.has(i)) return
+      const p = patterns[i]
+      if (p && p.test(article.body)) {
+        matched.push(e)
+        taken.add(i)
+      }
+    })
+    return { article, efectos: matched }
+  })
+  const unmatched = efectos.filter((_, i) => !taken.has(i))
+  return { rows, unmatched }
+}
+
+/** Efectos mode: the modificatoria's own articles, with each change aligned to
+ *  the article that caused it. Left, the modifier text; right, in the same row,
+ *  the redline of what that article changed in its target law. */
+export function EfectosAligned({ modifierId, text }: { modifierId: number; text: string }) {
+  const articles = useMemo(() => segment(text), [text])
   const q = useQuery({
     queryKey: ['efectos', modifierId],
     queryFn: async (): Promise<{ efectos: Efecto[]; truncated: boolean }> => {
@@ -26,56 +87,83 @@ export function EfectosColumn({ modifierId }: { modifierId: number }) {
     staleTime: Infinity,
   })
 
-  if (q.isLoading) return <p className="text-xs text-ink-faint">Calculando efectos…</p>
-  if (q.isError) return <p className="text-xs text-ruby">No se pudieron cargar los efectos.</p>
+  const { rows, unmatched } = useMemo(
+    () => alignEffects(articles, q.data?.efectos ?? []),
+    [articles, q.data],
+  )
 
-  const { efectos = [], truncated = false } = q.data ?? {}
-  if (efectos.length === 0) {
-    return (
-      <div className="rounded-lg border border-dashed border-rule bg-paper-sunk/40 px-4 py-6 text-center">
-        <p className="text-[13px] text-ink-soft leading-relaxed">
-          Esta norma no modificó el articulado de otras leyes.
-        </p>
-        <p className="mt-1.5 text-[11px] text-ink-faint leading-relaxed">
-          Las modificatorias muestran aquí, artículo por artículo, qué cambiaron en cada cuerpo legal.
-        </p>
-      </div>
-    )
-  }
-
-  const totalArticles = efectos.reduce((n, e) => n + e.articles.length, 0)
+  const totalEfectos = q.data?.efectos.length ?? 0
 
   return (
     <div>
-      <div className="flex items-baseline gap-2 pb-2 mb-3 border-b border-rule">
-        <h2 className="font-display text-lg text-ink">Efectos</h2>
-        <span className="text-[11px] text-ink-faint">
-          {efectos.length} {efectos.length === 1 ? 'norma' : 'normas'} · {totalArticles} artículos
-        </span>
+      <div className="flex items-baseline gap-2 pb-3 mb-5 border-b border-rule">
+        <h2 className="font-display text-xl text-ink">Efectos</h2>
+        {q.isLoading ? (
+          <span className="text-[12px] text-ink-faint">calculando…</span>
+        ) : totalEfectos > 0 ? (
+          <span className="text-[12px] text-ink-faint">
+            {totalEfectos} {totalEfectos === 1 ? 'norma modificada' : 'normas modificadas'} · cada cambio junto al artículo que lo causó
+          </span>
+        ) : (
+          <span className="text-[12px] text-ink-faint">esta norma no modificó otras leyes</span>
+        )}
       </div>
-      <div className="space-y-4">
-        {efectos.map((e) => (
-          <TargetGroup key={`${e.target.idNorma}:${e.fecha}`} efecto={e} />
+
+      <div className="space-y-6">
+        {rows.map((row) => (
+          <div
+            key={row.article.slug}
+            className="grid grid-cols-1 lg:grid-cols-2 gap-x-8 gap-y-3 items-start lg:border-t lg:border-rule/60 lg:pt-5 first:border-t-0 first:pt-0"
+          >
+            <ModifierArticle article={row.article} highlighted={row.efectos.length > 0} />
+            <div className="space-y-3">
+              {row.efectos.map((e) => (
+                <TargetCard key={`${e.target.idNorma}:${e.fecha}`} efecto={e} />
+              ))}
+            </div>
+          </div>
         ))}
       </div>
-      {truncated && (
-        <p className="mt-4 text-[11px] text-ink-faint">
-          Se muestran las más recientes; esta norma modificó aún más cuerpos legales.
-        </p>
+
+      {unmatched.length > 0 && (
+        <section className="mt-10 pt-5 border-t border-rule">
+          <h3 className="text-[11px] uppercase tracking-widest text-ink-faint mb-3">
+            Otras modificaciones
+            <span className="ml-2 normal-case tracking-normal text-ink-faint/80">
+              (no vinculadas a un artículo específico)
+            </span>
+          </h3>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-3">
+            {unmatched.map((e) => (
+              <TargetCard key={`${e.target.idNorma}:${e.fecha}`} efecto={e} />
+            ))}
+          </div>
+        </section>
       )}
     </div>
   )
 }
 
-function TargetGroup({ efecto }: { efecto: Efecto }) {
+function ModifierArticle({ article, highlighted }: { article: Segment; highlighted: boolean }) {
+  const heading = article.rawHeading
+  return (
+    <article className={highlighted ? '' : 'opacity-90'}>
+      {heading && <h3 className="font-display text-lg mb-1.5 text-ink">{heading}</h3>}
+      <div className="prose-reader leading-relaxed text-[15px] text-ink-soft">
+        <ReactMarkdown remarkPlugins={[remarkGfm]}>{article.body}</ReactMarkdown>
+      </div>
+    </article>
+  )
+}
+
+function TargetCard({ efecto }: { efecto: Efecto }) {
   const { target, fecha, articles, more } = efecto
   const tipo = TIPO_LABEL[target.tipo] ?? target.tipo.toUpperCase()
   return (
-    <section className="rounded-lg border border-rule bg-paper-raised overflow-hidden">
+    <section className="rounded-lg border border-rule bg-paper-raised overflow-hidden shadow-sm">
       <Link
         href={canonicalHref(target, fecha)}
-        className="group block px-3.5 py-2.5 border-b border-rule bg-paper-sunk/50
-                   transition hover:bg-paper-sunk"
+        className="group block px-3.5 py-2.5 border-b border-rule bg-paper-sunk/50 transition hover:bg-paper-sunk"
         title={`Abrir ${tipo} ${target.numero} en su versión del ${fecha}`}
       >
         <div className="flex items-baseline justify-between gap-2">
@@ -88,7 +176,6 @@ function TargetGroup({ efecto }: { efecto: Efecto }) {
         </div>
         <p className="mt-0.5 text-[11.5px] leading-snug text-ink-soft line-clamp-2">{target.titulo}</p>
       </Link>
-
       <ul className="divide-y divide-rule/60">
         {articles.map((a) => (
           <ArticleRedlineCell key={`${a.slug}:${a.status}`} article={a} />
@@ -111,7 +198,7 @@ function ArticleRedlineCell({ article }: { article: EfectoArticle }) {
           {article.rawHeading || article.label}
         </span>
       </div>
-      <div className="redline text-[12.5px] leading-relaxed text-ink-soft max-h-52 overflow-y-auto scrollbar-quiet">
+      <div className="redline text-[12.5px] leading-relaxed text-ink-soft max-h-56 overflow-y-auto scrollbar-quiet">
         {article.status === 'added' && <ins>{clip(article.currBody)}</ins>}
         {article.status === 'removed' && <del>{clip(article.prevBody)}</del>}
         {article.status === 'modified' && <InlineRedline prev={article.prevBody} curr={article.currBody} />}
@@ -143,8 +230,6 @@ function StatusDot({ status }: { status: EfectoArticle['status'] }) {
   return <span className={`inline-block h-1.5 w-1.5 rounded-full ${cfg.c}`} title={cfg.t} aria-hidden />
 }
 
-/** Effect cells are a preview, not the reader: cap very long articles so one
- *  bill's rewrite of a 3,000-word article doesn't dominate the column. */
 function clip(s: string, n = 900): string {
   return s.length <= n ? s : s.slice(0, n).trimEnd() + '…'
 }
