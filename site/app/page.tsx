@@ -175,24 +175,46 @@ export default function TimeMachine() {
           Congreso como un repositorio git: una publicación, un commit.
         </p>
         <div
-          className="mt-8 flex flex-wrap gap-3 lc-fade-up"
+          className="mt-8 max-w-2xl lc-fade-up"
           style={{ animationDelay: '220ms' }}
         >
+          {/* Looks and reads like a search field, but opens the ⌘K palette —
+              the palette is the real search surface. Made prominent on purpose:
+              search is the primary action and the old outlined button read as
+              secondary chrome. role/aria expose it as the search control. */}
           <button
             onClick={cmdk.open}
             onMouseEnter={cmdk.prefetch}
             onFocus={cmdk.prefetch}
-            className="group inline-flex items-center gap-3 border border-ink/80 hover:border-ruby text-ink hover:text-ruby transition px-4 py-2.5 rounded-md"
+            aria-label="Buscar en el corpus"
+            className="group flex w-full items-center gap-3 rounded-xl border-2 border-ink/15
+                       bg-paper-raised px-5 py-4 text-left shadow-sm transition
+                       hover:border-ruby/60 hover:shadow-md focus-visible:border-ruby
+                       focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-ruby/15"
           >
-            <span className="text-sm">Buscar una ley o decreto…</span>
-            <kbd className="font-mono text-[10px] bg-paper-sunk text-ink-soft px-1.5 py-0.5 rounded">⌘K</kbd>
+            <svg
+              className="h-5 w-5 shrink-0 text-ink-faint transition group-hover:text-ruby"
+              viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"
+              strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"
+            >
+              <circle cx="11" cy="11" r="7" />
+              <path d="m21 21-4.3-4.3" />
+            </svg>
+            <span className="flex-1 text-[15px] text-ink-soft">
+              Buscar una ley, decreto o código{' '}
+              <span className="text-ink-faint">— por número o texto</span>
+            </span>
+            <kbd className="hidden shrink-0 font-mono text-[11px] text-ink-soft bg-paper-sunk
+                            border border-rule px-2 py-1 rounded sm:inline-block">
+              ⌘K
+            </kbd>
           </button>
-          <Link
-            href="/ley/19496"
-            className="inline-flex items-center gap-2 text-sm text-indigo hover:underline px-4 py-2.5"
-          >
-            o explora una ley de ejemplo →
-          </Link>
+          <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 px-1 text-[13px]">
+            <span className="text-ink-faint">Prueba:</span>
+            <Link href="/norma/235507/ley-20000-sustituye-la-ley-n-19-366-que-sanciona-el-trafico-ilicito" className="text-indigo hover:underline">Ley 20.000</Link>
+            <Link href="/ley/19300" className="text-indigo hover:underline">Ley 19.300</Link>
+            <Link href="/ley/19496" className="text-indigo hover:underline">una ley de ejemplo →</Link>
+          </div>
         </div>
       </section>
 

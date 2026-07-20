@@ -1,7 +1,7 @@
 import { Suspense } from 'react'
 import Link from 'next/link'
 import { recordEvent } from '@/lib/analytics'
-import { needsColdPath, normalizeQuery, searchCold, searchHot, type Hit } from '@/lib/search'
+import { normalizeQuery, runSearch, type Hit } from '@/lib/search'
 import { canonicalHref } from '@/lib/href'
 
 const TIPO_LABEL: Record<string, string> = {
@@ -10,10 +10,12 @@ const TIPO_LABEL: Record<string, string> = {
 
 function ResultCard({ hit }: { hit: Hit }) {
   const tipo = TIPO_LABEL[hit.tipo] ?? hit.tipo.toUpperCase()
+  // Exact number matches have no article anchor; link to the norma itself.
+  const href = hit.slug ? canonicalHref(hit, undefined, `art-${hit.slug}`) : canonicalHref(hit)
   return (
     <li>
       <Link
-        href={canonicalHref(hit, undefined, `art-${hit.slug}`)}
+        href={href}
         className="block rounded-xl border border-rule bg-paper-raised p-4 transition-colors hover:border-indigo/60"
       >
         <div className="text-xs font-medium uppercase tracking-[0.14em] text-ink-faint">
@@ -58,16 +60,17 @@ async function Buscar({
   }
 
   const queryNorm = normalizeQuery(q)
-  const hot = await searchHot(q, asOf)
+  const results = await runSearch(q, asOf)
+  // Partition by tier for display: exact number matches lead, then hot
+  // full-text, then the cold-corpus section. runSearch already deduped, so a
+  // norma appears in exactly one group.
+  const exact = results.filter((h) => h.tier === 'exact')
+  const hot = results.filter((h) => h.tier === 'hot')
+  const cold = results.filter((h) => h.tier === 'cold')
+  for (const h of cold) recordEvent({ kind: 'cold_surface', idNorma: h.idNorma, tier: 'cold' })
+  recordEvent({ kind: 'search', queryNorm, resultCount: results.length, tier: 'hot' })
 
-  let cold: Hit[] = []
-  if (needsColdPath(hot.length)) {
-    cold = await searchCold(q, asOf)
-    for (const h of cold) recordEvent({ kind: 'cold_surface', idNorma: h.idNorma, tier: 'cold' })
-  }
-  recordEvent({ kind: 'search', queryNorm, resultCount: hot.length + cold.length, tier: 'hot' })
-
-  const total = hot.length + cold.length
+  const total = results.length
 
   return (
     <main className="mx-auto max-w-3xl px-4 py-10 sm:px-6">
@@ -84,9 +87,24 @@ async function Buscar({
         <p className="py-16 text-center text-ink-soft">Sin resultados. Prueba con otros términos.</p>
       ) : (
         <>
-          <ul className="mt-6 space-y-3">
-            {hot.map((h) => <ResultCard key={`hot-${h.idNorma}:${h.slug}`} hit={h} />)}
-          </ul>
+          {exact.length > 0 && (
+            <ul className="mt-6 space-y-3">
+              {exact.map((h) => <ResultCard key={`exact-${h.idNorma}`} hit={h} />)}
+            </ul>
+          )}
+          {hot.length > 0 && (
+            <>
+              {exact.length > 0 && (
+                <h2 className="mt-10 flex items-center gap-3 text-xs font-semibold uppercase tracking-[0.14em] text-ink-faint">
+                  <span>Coincidencias en el texto</span>
+                  <span className="h-px flex-1 bg-rule" />
+                </h2>
+              )}
+              <ul className={`${exact.length > 0 ? 'mt-4' : 'mt-6'} space-y-3`}>
+                {hot.map((h) => <ResultCard key={`hot-${h.idNorma}:${h.slug}`} hit={h} />)}
+              </ul>
+            </>
+          )}
 
           {cold.length > 0 && (
             <>

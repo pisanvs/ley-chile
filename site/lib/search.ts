@@ -27,7 +27,33 @@ export interface Hit {
   titulo: string
   slug: string
   snippet: string
-  tier: 'hot' | 'cold'
+  /** 'exact' = matched by law number, surfaced first. 'hot'/'cold' = full-text. */
+  tier: 'exact' | 'hot' | 'cold'
+}
+
+/** Substantive law types first: someone typing a bare number almost always
+ *  means a ley or a code, not one of the thousands of numbered decretos and
+ *  resoluciones that share every low number. */
+const TIPO_RANK = `CASE n.tipo
+    WHEN 'ley' THEN 0 WHEN 'dl' THEN 1 WHEN 'dfl' THEN 2 WHEN 'cod' THEN 3
+    WHEN 'dto' THEN 4 ELSE 5 END`
+
+/** A search query that is really a law citation, e.g. "20000", "ley 20.000",
+ *  "dfl 4", "DL 3.500". Returns the tipo (if the user gave one) and the bare
+ *  numero, or null when the query is not number-shaped.
+ *
+ *  Chilean law numbers are written with thousands separators ("20.000"), so
+ *  dots are stripped; a numero in the data is digits only. */
+export function parseNumberQuery(q: string): { tipo?: string; numero: string } | null {
+  const norm = q.trim().toLowerCase().replace(/\./g, '').replace(/\s+/g, ' ')
+  // Optional tipo word, optional "n°"/"nº"/"no", then 1–7 digits, nothing else.
+  const m = norm.match(
+    /^(?:(ley|dl|dfl|dto|cod|res|decreto|codigo)\s*)?(?:n[°º]?\s*)?(\d{1,7})$/,
+  )
+  if (!m) return null
+  const tipoWord = m[1]
+  const tipo = tipoWord === 'decreto' ? 'dto' : tipoWord === 'codigo' ? 'cod' : tipoWord
+  return { tipo, numero: m[2] }
 }
 
 export function asOfFilter(asOf: string): string {
@@ -64,6 +90,50 @@ export async function searchHot(q: string, asOf: string): Promise<Hit[]> {
     snippet: (h._formatted?.body as string) ?? '',
     tier: 'hot' as const,
   }))
+}
+
+/** Exact law-number matches, surfaced above full-text results.
+ *
+ *  This is the fix for "search 20000 and get everything except ley 20.000":
+ *  the number was only ever matched as free text inside article bodies, so a
+ *  law whose *number* is 20000 lost to any law that happens to mention "20.000"
+ *  somewhere. Now a number-shaped query does an exact `numero` lookup first.
+ *
+ *  Ordered ley-first then most-reformed, because (tipo, numero) is not unique —
+ *  "1" alone is 450 decretos — so without a sensible order the one law the user
+ *  meant would drown. Capped for the same reason. */
+export async function searchByNumber(q: string): Promise<Hit[]> {
+  const parsed = parseNumberQuery(q)
+  if (!parsed) return []
+  const { tipo, numero } = parsed
+  const { rows } = await pool.query(
+    `SELECT n.id_norma, n.tipo, n.numero, n.titulo
+       FROM norma n
+       LEFT JOIN version v ON v.id_norma = n.id_norma
+      WHERE n.numero = $1 ${tipo ? 'AND n.tipo = $2' : ''}
+      GROUP BY n.id_norma, n.tipo, n.numero, n.titulo
+      ORDER BY ${TIPO_RANK}, count(v.*) DESC, n.id_norma ASC
+      LIMIT 6`,
+    tipo ? [numero, tipo] : [numero],
+  )
+  return rows.map((r) => ({
+    idNorma: r.id_norma, tipo: r.tipo, numero: r.numero, titulo: r.titulo,
+    slug: '', snippet: '', tier: 'exact' as const,
+  }))
+}
+
+/** The one search entry point. Number matches first, then the hot full-text
+ *  tier, then the cold tier when the hot tier is thin — deduped by norma and
+ *  capped. All three surfaces (the ⌘K palette, /buscar, the MCP tool) go
+ *  through here so they rank identically. */
+export async function runSearch(q: string, asOf: string, limit = 20): Promise<Hit[]> {
+  const exact = await searchByNumber(q)
+  const hot = await searchHot(q, asOf)
+  const cold = needsColdPath(hot.length) ? await searchCold(q, asOf) : []
+  const seen = new Set<number>()
+  return [...exact, ...hot, ...cold]
+    .filter((h) => (seen.has(h.idNorma) ? false : (seen.add(h.idNorma), true)))
+    .slice(0, limit)
 }
 
 export interface ArticleHit {

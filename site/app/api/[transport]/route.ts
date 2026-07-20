@@ -5,7 +5,7 @@ import {
   getNormasByKey, getOrganismosByIds, getRefundido, getVersions,
   type Article, type Avisos, type Norma, type RefundidoLink, type Version,
 } from '@/lib/norma'
-import { needsColdPath, searchArticles, searchCold, searchHot } from '@/lib/search'
+import { runSearch, searchArticles } from '@/lib/search'
 import { align, joinDiffText, wordDiff } from '@/lib/diff'
 import { SITE } from '@/lib/jsonld'
 import { canonicalHref } from '@/lib/href'
@@ -200,12 +200,9 @@ const handler = createMcpHandler(
       },
       async ({ query, asOf }) => {
         const fecha = asOf ?? TODAY()
-        const hot = await searchHot(query, fecha)
-        const cold = needsColdPath(hot.length) ? await searchCold(query, fecha) : []
-        const seen = new Set<number>()
-        const hits = [...hot, ...cold]
-          .filter((h) => (seen.has(h.idNorma) ? false : (seen.add(h.idNorma), true)))
-          .slice(0, 20)
+        // Number matches first, then full text. An agent asking for "20000"
+        // gets ley 20.000, not a law that merely cites the figure.
+        const hits = await runSearch(query, fecha, 20)
         if (hits.length === 0) return text(`Sin resultados para "${query}" (vigente al ${fecha}).`)
         // Same (tipo, numero) can appear more than once (e.g. several "DFL 1",
         // one per organismo). Enrich with organismo + idNorma so an agent can
