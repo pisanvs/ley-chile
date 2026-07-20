@@ -16,27 +16,46 @@ export interface Aligned {
 }
 
 export function align(prev: Segment[], curr: Segment[]): Aligned[] {
-  const prevByLabel = new Map<string, Segment>()
-  prev.forEach(s => prevByLabel.set(s.label, s))
+  // Match the k-th occurrence of a label in `prev` to the k-th in `curr`.
+  //
+  // A plain Map<label, Segment> collapses duplicate labels (last one wins),
+  // which mis-pairs every repeated article number. Chilean laws routinely
+  // renumber from 1 in their transitory section, so a body with permanent
+  // *and* transitory "Artículo 2" would compare the permanent one against the
+  // transitory one — flagging a dozen untouched articles as fully rewritten.
+  // Observed on ley 19.300: 12 "modified" articles where only 2 truly changed,
+  // with permanent text diffed against unrelated transitory text.
+  //
+  // Queue of unconsumed prev *indices* per label, in document order. Indices
+  // (not the segments) so the removed-segment pass below can restore original
+  // order. For non-duplicate labels this is identical to the old behavior.
+  const prevIdxByLabel = new Map<string, number[]>()
+  prev.forEach((s, i) => {
+    const q = prevIdxByLabel.get(s.label)
+    if (q) q.push(i)
+    else prevIdxByLabel.set(s.label, [i])
+  })
 
   const result: Aligned[] = []
-  const usedPrev = new Set<string>()
+  const consumed = new Set<number>()
 
   for (const c of curr) {
-    const p = prevByLabel.get(c.label)
-    if (!p) {
+    const q = prevIdxByLabel.get(c.label)
+    const idx = q && q.length > 0 ? q.shift()! : undefined
+    if (idx === undefined) {
       result.push({ prev: null, curr: c, status: 'added' })
     } else {
-      usedPrev.add(c.label)
+      consumed.add(idx)
+      const p = prev[idx]
       const status: Aligned['status'] = p.body === c.body ? 'unchanged' : 'modified'
       result.push({ prev: p, curr: c, status })
     }
   }
-  // Removed segments (in prev but not in curr) — append at the end so the
-  // reader sees what disappeared, with order preserved.
-  for (const p of prev) {
-    if (!usedPrev.has(p.label)) {
-      result.push({ prev: p, curr: null, status: 'removed' })
+  // Removed segments (in prev but not consumed by any curr) — append at the end
+  // so the reader sees what disappeared, with original order preserved.
+  for (let i = 0; i < prev.length; i++) {
+    if (!consumed.has(i)) {
+      result.push({ prev: prev[i], curr: null, status: 'removed' })
     }
   }
   return result
