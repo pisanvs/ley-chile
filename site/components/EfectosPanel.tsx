@@ -151,42 +151,42 @@ export function EfectosAligned({ modifierId, text }: { modifierId: number; text:
 
   return (
     <div>
-      <div className="flex items-baseline gap-2 pb-3 mb-6 border-b border-rule">
+      <div className="flex items-baseline gap-2 pb-3 mb-2 border-b border-rule">
         <h2 className="font-display text-2xl text-ink">Efectos</h2>
         <span className="text-[13px] text-ink-faint">
           {totalEfectos} {totalEfectos === 1 ? 'norma modificada' : 'normas modificadas'} · cada cambio junto al artículo que lo causó
         </span>
       </div>
 
-      {/* @container so the columns respond to the reader pane's width, not the
-          viewport — the pane is capped well below the `lg` viewport breakpoint. */}
-      <div className="@container space-y-4">
+      {/* @container so the split responds to the reading column's width, not the
+          viewport. Rows separated by a rule; within a row, a vertical line
+          divides the modifier article (left) from what it changed (right). */}
+      <div className="@container divide-y divide-rule">
         {modifying.map((row) => (
           <div
             key={row.article.slug}
-            className="grid grid-cols-1 @2xl:grid-cols-[minmax(0,1fr)_minmax(0,1fr)] gap-x-6 gap-y-3
-                       rounded-xl border border-rule bg-paper-raised/40 p-4"
+            className="grid grid-cols-1 @3xl:grid-cols-2 gap-x-12 gap-y-4 py-7"
           >
             <ModifierArticle article={row.article} />
-            <div className="space-y-3">
+            <div className="space-y-6 @3xl:border-l @3xl:border-rule @3xl:pl-12">
               {row.efectos.map((e) => (
-                <TargetCard key={`${e.target.idNorma}:${e.fecha}`} efecto={e} />
+                <TargetEffect key={`${e.target.idNorma}:${e.fecha}`} efecto={e} />
               ))}
             </div>
           </div>
         ))}
 
         {unmatched.length > 0 && (
-          <section className="pt-4 mt-6 border-t border-rule">
-            <h3 className="text-[11px] uppercase tracking-widest text-ink-faint mb-3">
+          <section className="py-7">
+            <h3 className="text-[11px] uppercase tracking-widest text-ink-faint mb-4">
               Otras modificaciones
               <span className="ml-2 normal-case tracking-normal text-ink-faint/80">
                 (no vinculadas a un artículo específico)
               </span>
             </h3>
-            <div className="grid grid-cols-1 @2xl:grid-cols-2 gap-3">
+            <div className="grid grid-cols-1 @3xl:grid-cols-2 gap-x-12 gap-y-6">
               {unmatched.map((e) => (
-                <TargetCard key={`${e.target.idNorma}:${e.fecha}`} efecto={e} />
+                <TargetEffect key={`${e.target.idNorma}:${e.fecha}`} efecto={e} />
               ))}
             </div>
           </section>
@@ -201,63 +201,63 @@ function ModifierArticle({ article }: { article: Segment }) {
   return (
     <article className="min-w-0">
       {heading && (
-        <h3 className="font-display text-[15px] font-semibold mb-1.5 text-ink">{heading}</h3>
+        <h3 className="font-display text-lg font-semibold mb-2 text-ink">{heading}</h3>
       )}
-      <div className="prose-reader leading-relaxed text-[13.5px] text-ink-soft max-h-72 overflow-y-auto scrollbar-quiet pr-1">
+      <div className="prose-reader leading-relaxed text-[15px] text-ink-soft">
         <ReactMarkdown remarkPlugins={[remarkGfm]}>{article.body}</ReactMarkdown>
       </div>
     </article>
   )
 }
 
-function TargetCard({ efecto }: { efecto: Efecto }) {
+/** What one modifier article changed in its target law — borderless: a header
+ *  link to the law, then the changed articles as inline redlines. */
+function TargetEffect({ efecto }: { efecto: Efecto }) {
   const { target, fecha, articles, more } = efecto
   const tipo = TIPO_LABEL[target.tipo] ?? target.tipo.toUpperCase()
   return (
-    <section className="rounded-lg border border-rule bg-paper-raised overflow-hidden shadow-sm">
+    <div className="min-w-0">
       <Link
         href={canonicalHref(target, fecha)}
-        className="group block px-3.5 py-2.5 border-b border-rule bg-paper-sunk/50 transition hover:bg-paper-sunk"
+        className="group inline-flex items-baseline gap-2 mb-2"
         title={`Abrir ${tipo} ${target.numero} en su versión del ${fecha}`}
       >
-        <div className="flex items-baseline justify-between gap-2">
-          <span className="text-[13px] font-semibold text-ink group-hover:text-indigo transition">
-            {tipo} {target.numero}
-          </span>
-          <span className="text-[11px] font-mono text-ink-faint shrink-0 group-hover:text-indigo transition">
-            {fecha} →
-          </span>
-        </div>
-        <p className="mt-0.5 text-[11.5px] leading-snug text-ink-soft line-clamp-2">{target.titulo}</p>
+        <span className="text-[15px] font-semibold text-ink group-hover:text-indigo transition">
+          {tipo} {target.numero}
+        </span>
+        <span className="text-[11px] font-mono text-ink-faint group-hover:text-indigo transition">
+          {fecha} →
+        </span>
       </Link>
-      <ul className="divide-y divide-rule/60">
+      <p className="text-[12px] leading-snug text-ink-faint mb-3 line-clamp-2">{target.titulo}</p>
+      <div className="space-y-4">
         {articles.map((a) => (
-          <ArticleRedlineCell key={`${a.slug}:${a.status}`} article={a} />
+          <ArticleRedline key={`${a.slug}:${a.status}`} article={a} />
         ))}
         {more > 0 && (
-          <li className="px-3.5 py-2 text-[11px] text-ink-faint">…y {more} artículo(s) más</li>
+          <p className="text-[12px] text-ink-faint">…y {more} artículo(s) más</p>
         )}
-      </ul>
-    </section>
+      </div>
+    </div>
   )
 }
 
-/** One changed article as a compact inline redline. */
-function ArticleRedlineCell({ article }: { article: EfectoArticle }) {
+/** One changed article of the target law, as an inline redline. */
+function ArticleRedline({ article }: { article: EfectoArticle }) {
   return (
-    <li className="px-3.5 py-2.5">
+    <div>
       <div className="flex items-center gap-1.5 mb-1">
         <StatusDot status={article.status} />
         <span className="text-[11px] font-medium text-ink-soft uppercase tracking-wide">
           {article.rawHeading || article.label}
         </span>
       </div>
-      <div className="redline text-[12.5px] leading-relaxed text-ink-soft max-h-56 overflow-y-auto scrollbar-quiet">
+      <div className="redline text-[13.5px] leading-relaxed text-ink-soft">
         {article.status === 'added' && <ins>{clip(article.currBody)}</ins>}
         {article.status === 'removed' && <del>{clip(article.prevBody)}</del>}
         {article.status === 'modified' && <InlineRedline prev={article.prevBody} curr={article.currBody} />}
       </div>
-    </li>
+    </div>
   )
 }
 

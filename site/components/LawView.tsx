@@ -231,6 +231,9 @@ export function LawView({
       navigator={<Navigator activeId={idx.norma.idNorma} />}
       center={center}
       rightRail={<RightRail idx={idx} active={active} activeSlug={activeSlug} />}
+      // Efectos shows two panes side by side — let it fill the reading column
+      // instead of the single-column reading measure.
+      centerMaxWidth={effectiveMode === 'efectos' ? 'max-w-none' : 'max-w-3xl'}
     />
   )
 }

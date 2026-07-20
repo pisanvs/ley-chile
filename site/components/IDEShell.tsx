@@ -6,13 +6,17 @@ interface Props {
   navigator?: ReactNode
   center: ReactNode
   rightRail?: ReactNode
+  /** Max-width of the center column's content. Defaults to a comfortable
+   *  reading measure; the Efectos view passes `max-w-none` to fill the column
+   *  for its two side-by-side panes. */
+  centerMaxWidth?: string
 }
 
 /**
  * Three-pane layout that collapses cleanly to single-pane on mobile.
  * Rails are sticky inside the viewport; the center column scrolls.
  */
-export function IDEShell({ navigator, center, rightRail }: Props) {
+export function IDEShell({ navigator, center, rightRail, centerMaxWidth = 'max-w-3xl' }: Props) {
   const [pane, setPane] = useState<'center' | 'nav' | 'right'>('center')
 
   return (
@@ -46,7 +50,7 @@ export function IDEShell({ navigator, center, rightRail }: Props) {
             pane === 'center' ? 'block' : 'hidden'
           } md:block overflow-y-auto scrollbar-quiet`}
         >
-          <div className="px-4 md:px-10 py-8 md:py-12 max-w-3xl mx-auto w-full">
+          <div className={`px-4 md:px-10 py-8 md:py-12 ${centerMaxWidth} mx-auto w-full`}>
             {center}
           </div>
         </section>
