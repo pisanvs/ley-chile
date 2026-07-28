@@ -585,7 +585,11 @@ jobs:
           # Count real norma dirs from the ref itself (worktree files may be
           # stale from a prior build — fast-import updates the ref but doesn't
           # sync the worktree checkout).
-          NORMA_DIRS=$(git ls-tree --name-only -r refs/heads/historial 2>/dev/null | grep -c '/metadata\.json$' || echo 0)
+          # `grep -c` exits 1 when nothing matches, which made `|| echo 0`
+          # also fire, producing "0\n0" and breaking the -lt 100 test below.
+          # Wrap grep so empty matches stay 0 with exit 0.
+          NORMA_DIRS=$(git ls-tree --name-only -r refs/heads/historial 2>/dev/null | { grep -c '/metadata\.json$' || true; })
+          NORMA_DIRS=${NORMA_DIRS:-0}
           echo "Pre-build state: remote_tip=$REMOTE_TIP  local_W=$LOCAL_W  norma_dirs=$NORMA_DIRS  force_full=$FORCE_FULL"
 
           if [ "$FORCE_FULL" = "true" ] || [ -z "$REMOTE_TIP" ] || [ "$NORMA_DIRS" -lt 100 ]; then
