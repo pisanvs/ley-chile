@@ -138,9 +138,33 @@ def run(conn, client, artifacts_dir: Path, *, budget_bytes: int,
     if skip_normas:
         print("LOADER_SKIP_NORMAS set — reading norma ids without rewriting the table")
 
+    # LOADER_MAX_NORMAS bounds the read model to the first N normas encountered
+    # (shard order, so deterministic across runs) when the volume can't hold
+    # the full corpus. This is a stopgap, not a feature: it stops early rather
+    # than loading everything and deleting the excess, so a disk-full volume
+    # never has to hold the full corpus even transiently. Every other kind is
+    # then filtered to rows referencing only the normas actually loaded, or
+    # their INSERTs would violate the FK into `norma`.
+    #
+    # Once loaded, set SITE_ALERT (site/lib SiteAlert, read at request time —
+    # no rebuild needed) on the web service so visitors know the corpus is
+    # partial, e.g.:
+    #   SITE_ALERT="Sirviendo un subconjunto del corpus mientras resolvemos
+    #   un problema de almacenamiento." SITE_ALERT_LEVEL=warn
+    max_normas_raw = os.environ.get("LOADER_MAX_NORMAS", "").strip()
+    max_normas = int(max_normas_raw) if max_normas_raw else None
+    if max_normas is not None:
+        print(f"LOADER_MAX_NORMAS={max_normas} — partial load (disk-constrained); "
+              f"remaining normas are skipped, not deleted")
+
     touched: list[int] = []
     for shard in sorted(artifacts_dir.glob("normas-*.ndjson.gz")):
         rows = _read_shard(shard, NormaRow)
+        if max_normas is not None:
+            remaining = max_normas - len(touched)
+            if remaining <= 0:
+                break
+            rows = rows[:remaining]
         if not skip_normas:
             load.load_normas(conn, rows)
         touched.extend(r.id_norma for r in rows)
@@ -149,10 +173,19 @@ def run(conn, client, artifacts_dir: Path, *, budget_bytes: int,
                 load.replace_norma(conn, r.id_norma)
         del rows
 
+    touched_set = set(touched) if max_normas is not None else None
+
     for kind in ("versions", "articulos", "spans", "mods", "events"):
         cls, fn = _KINDS[kind]
         for shard in sorted(artifacts_dir.glob(f"{kind}-*.ndjson.gz")):
-            fn(conn, _read_shard(shard, cls))
+            rows = _read_shard(shard, cls)
+            if touched_set is not None:
+                rows = (
+                    [r for r in rows if r.causa_id in touched_set and r.target_id in touched_set]
+                    if kind == "mods" else
+                    [r for r in rows if r.id_norma in touched_set]
+                )
+            fn(conn, rows)
 
     # Scope verification to the normas this delta touched. verify_norma is
     # O(versions x (articles + spans)) per norma — verifying the whole corpus on
