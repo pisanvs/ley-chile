@@ -157,26 +157,35 @@ def run(conn, client, artifacts_dir: Path, *, budget_bytes: int,
         print(f"LOADER_MAX_NORMAS={max_normas} — partial load (disk-constrained); "
               f"remaining normas are skipped, not deleted")
 
-    # LOADER_SEED_NORMAS names specific laws ("tipo:numero" pairs, e.g.
-    # "ley:20000,ley:19300") that must load regardless of shard order — a bare
-    # count cap keeps whatever comes first, which (shards are id_norma-ordered)
-    # skews toward old, low-id normas and would silently drop e.g. a
-    # 2000s-era ley a demo specifically wants to show. Seeds don't count
-    # against max_normas' budget; they're additive, since there are only ever
-    # a handful.
+    # LOADER_SEED_NORMAS names specific normas that must load regardless of
+    # shard order — a bare count cap keeps whatever comes first, which
+    # (shards are id_norma-ordered) skews toward old, low-id normas and would
+    # silently drop e.g. a 2000s-era ley a demo specifically wants to show.
+    # Two token forms, comma-separated: "tipo:numero" (e.g. "ley:20000") for a
+    # law by citation, or a bare integer for a raw id_norma — the latter is
+    # how a law's *modifiers* get seeded, since a modifier is only known by
+    # id_norma (from the mods shard) until its own norma row is read. Seeds
+    # don't count against max_normas' budget; they're additive, since there
+    # are only ever a handful.
     seed_raw = os.environ.get("LOADER_SEED_NORMAS", "").strip()
     seed_keys: set[tuple[str, str]] = set()
+    seed_ids: set[int] = set()
     for tok in seed_raw.split(","):
         tok = tok.strip()
-        if not tok or ":" not in tok:
+        if not tok:
             continue
-        tipo, numero = tok.split(":", 1)
-        seed_keys.add((tipo.strip().lower(), "".join(ch for ch in numero if ch.isdigit())))
-    if seed_keys:
-        print(f"LOADER_SEED_NORMAS set — force-including {sorted(seed_keys)}")
+        if tok.isdigit():
+            seed_ids.add(int(tok))
+        elif ":" in tok:
+            tipo, numero = tok.split(":", 1)
+            seed_keys.add((tipo.strip().lower(), "".join(ch for ch in numero if ch.isdigit())))
+    if seed_keys or seed_ids:
+        print(f"LOADER_SEED_NORMAS set — force-including {sorted(seed_keys)} "
+              f"and id_norma {sorted(seed_ids)}")
 
     touched: list[int] = []
     seed_found: set[tuple[str, str]] = set()
+    ids_found: set[int] = set()
     for shard in sorted(artifacts_dir.glob("normas-*.ndjson.gz")):
         rows = _read_shard(shard, NormaRow)
         if max_normas is not None:
@@ -185,6 +194,9 @@ def run(conn, client, artifacts_dir: Path, *, budget_bytes: int,
                 key = (r.tipo, r.numero)
                 if key in seed_keys and key not in seed_found:
                     seed_found.add(key)
+                    keep.append(r)
+                elif r.id_norma in seed_ids and r.id_norma not in ids_found:
+                    ids_found.add(r.id_norma)
                     keep.append(r)
                 elif len(touched) + len(keep) < max_normas:
                     keep.append(r)
@@ -198,10 +210,13 @@ def run(conn, client, artifacts_dir: Path, *, budget_bytes: int,
         del rows
         # Once the budget is full, only keep scanning if there are still
         # unmatched seeds to look for in later shards.
-        if max_normas is not None and len(touched) >= max_normas and seed_found == seed_keys:
+        if (max_normas is not None and len(touched) >= max_normas
+                and seed_found == seed_keys and ids_found == seed_ids):
             break
     if seed_keys and seed_found != seed_keys:
-        print(f"WARNING: seeds not found in any shard: {sorted(seed_keys - seed_found)}")
+        print(f"WARNING: seed laws not found in any shard: {sorted(seed_keys - seed_found)}")
+    if seed_ids and ids_found != seed_ids:
+        print(f"WARNING: seed id_normas not found in any shard: {sorted(seed_ids - ids_found)}")
 
     touched_set = set(touched) if max_normas is not None else None
 
