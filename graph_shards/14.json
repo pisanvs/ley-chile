@@ -599824,5 +599824,28 @@
       "DONACIONES CON FINES SOCIALES",
       "UDC"
     ]
+  },
+  "1227070": {
+    "idNorma": 1227070,
+    "titulo": "MODIFICA LA LEY Nº 21.805, QUE RECONOCE EL DERECHO AL CUIDADO Y CREA EL SISTEMA NACIONAL DE APOYOS Y CUIDADOS, Y OTROS CUERPOS NORMATIVOS QUE INDICA",
+    "tipo": "ley",
+    "numero": "21835",
+    "clasificacion": "modificatoria",
+    "organismos": [
+      "MINISTERIO DE DESARROLLO SOCIAL Y FAMILIA"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-08-14",
+    "fechaPromulgacion": "2026-08-12",
+    "vigencias": [
+      {
+        "desde": "2026-08-14",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "18431-31"
   }
 }

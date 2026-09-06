@@ -603171,5 +603171,28 @@
     "observaciones": [
       "EXTRACTO"
     ]
+  },
+  "1227289": {
+    "idNorma": 1227289,
+    "titulo": "AMPLÍA LA PENALIZACIÓN DISPUESTA EN EL ARTÍCULO 304 BIS DEL CÓDIGO PENAL, PARA FORTALECER LA SEGURIDAD PERIMETRAL DE LOS RECINTOS PENALES",
+    "tipo": "ley",
+    "numero": "21834",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-08-20",
+    "fechaPromulgacion": "2026-08-12",
+    "vigencias": [
+      {
+        "desde": "2026-08-20",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "16569-25"
   }
 }

@@ -604210,5 +604210,28 @@
     "observaciones": [
       "EXTRACTO"
     ]
+  },
+  "1227071": {
+    "idNorma": 1227071,
+    "titulo": "EXTIENDE VIGENCIA Y AUMENTA COBERTURA DE LA LEY N° 21.748 Y MODIFICA NORMAS QUE INDICA",
+    "tipo": "ley",
+    "numero": "21836",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DE HACIENDA"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-08-17",
+    "fechaPromulgacion": "2026-08-12",
+    "vigencias": [
+      {
+        "desde": "2026-08-17",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "18524-05"
   }
 }

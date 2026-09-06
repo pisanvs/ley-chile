@@ -601661,5 +601661,51 @@
     "observaciones": [
       "CVE 2820099"
     ]
+  },
+  "1225210": {
+    "idNorma": 1225210,
+    "titulo": "RECONOCE Y FORTALECE A LAS FERIAS LIBRES COMO PILAR DE LA ALIMENTACIÓN Y EL DESARROLLO LOCAL, OTORGANDO UN MARCO JURÍDICO INTEGRAL PARA ELLAS",
+    "tipo": "ley",
+    "numero": "21815",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DE ECONOMÍA, FOMENTO Y TURISMO"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-06-17",
+    "fechaPromulgacion": "2026-05-19",
+    "vigencias": [
+      {
+        "desde": "2222-02-02",
+        "hasta": "",
+        "tipo_version": "8",
+        "tipo_version_s": "Con Vigencia Diferida por Evento"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "17117-03"
+  },
+  "1225354": {
+    "idNorma": 1225354,
+    "titulo": "REAJUSTA EL MONTO DEL INGRESO MÍNIMO MENSUAL, ASÍ COMO DE LA ASIGNACIÓN FAMILIAR Y MATERNAL Y DEL SUBSIDIO FAMILIAR",
+    "tipo": "ley",
+    "numero": "21830",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-06-22",
+    "fechaPromulgacion": "2026-06-18",
+    "vigencias": [
+      {
+        "desde": "2026-06-22",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "18230-13"
   }
 }

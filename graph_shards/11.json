@@ -608548,5 +608548,52 @@
     "observaciones": [
       "EXTRACTO"
     ]
+  },
+  "1225211": {
+    "idNorma": 1225211,
+    "titulo": "REEMPLAZA EL ARTÍCULO 5 BIS DEL DECRETO LEY N° 3.500, DE 1980",
+    "tipo": "ley",
+    "numero": "21818",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-06-17",
+    "fechaPromulgacion": "2026-06-11",
+    "vigencias": [
+      {
+        "desde": "2026-09-01",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "17724-34"
+  },
+  "1225563": {
+    "idNorma": 1225563,
+    "titulo": "PROMULGA EL PROTOCOLO DE MODIFICACIÓN DE LA CONVENCIÓN RELATIVA A LA ORGANIZACIÓN HIDROGRÁFICA INTERNACIONAL",
+    "tipo": "dto",
+    "numero": "84",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DE RELACIONES EXTERIORES",
+      "SUBSECRETARÍA DE RELACIONES EXTERIORES"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-06-30",
+    "fechaPromulgacion": "2025-04-29",
+    "vigencias": [
+      {
+        "desde": "2026-06-30",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "8214-10"
   }
 }

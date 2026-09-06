@@ -614208,5 +614208,28 @@
     "observaciones": [
       "CVE 2816976"
     ]
+  },
+  "1226327": {
+    "idNorma": 1226327,
+    "titulo": "PROMUEVE LA TRANSPARENCIA Y LA ADOPCIÓN DE MEDIDAS PARA LA INCLUSIÓN LABORAL DE LAS MUJERES EN LAS EMPRESAS QUE INDICA",
+    "tipo": "ley",
+    "numero": "21828",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-07-23",
+    "fechaPromulgacion": "2026-07-14",
+    "vigencias": [
+      {
+        "desde": "2026-07-23",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "15694-34"
   }
 }

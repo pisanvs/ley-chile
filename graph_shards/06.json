@@ -603229,5 +603229,98 @@
     "observaciones": [
       "CVE 2816977"
     ]
+  },
+  "1225430": {
+    "idNorma": 1225430,
+    "titulo": "MODIFICA TEXTOS LEGALES QUE INDICA PARA AGILIZAR LA OBTENCIÓN DE PERMISOS DE URBANIZACIÓN Y EDIFICACIÓN",
+    "tipo": "ley",
+    "numero": "21826",
+    "clasificacion": "modificatoria",
+    "organismos": [
+      "MINISTERIO DE VIVIENDA Y URBANISMO"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-06-24",
+    "fechaPromulgacion": "2026-06-15",
+    "vigencias": [
+      {
+        "desde": "2026-06-24",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "17287-14"
+  },
+  "1226390": {
+    "idNorma": 1226390,
+    "titulo": "PROMULGA EL PROTOCOLO RELATIVO A UNA ENMIENDA AL CONVENIO SOBRE AVIACIÓN CIVIL INTERNACIONAL",
+    "tipo": "dto",
+    "numero": "130",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DE RELACIONES EXTERIORES",
+      "SUBSECRETARÍA DE RELACIONES EXTERIORES"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-07-25",
+    "fechaPromulgacion": "2025-08-28",
+    "vigencias": [
+      {
+        "desde": "2026-07-25",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "14516-10"
+  },
+  "1226550": {
+    "idNorma": 1226550,
+    "titulo": "LEY DE PROTECCIÓN TARIFARIA ELÉCTRICA",
+    "tipo": "ley",
+    "numero": "21833",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DE ENERGÍA"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-07-31",
+    "fechaPromulgacion": "2026-07-24",
+    "vigencias": [
+      {
+        "desde": "2026-07-31",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "18384-08"
+  },
+  "1226950": {
+    "idNorma": 1226950,
+    "titulo": "ESTABLECE MEDIDAS DE SEGURIDAD, ORDEN Y RESPETO PARA LA COMUNIDAD EDUCATIVA",
+    "tipo": "ley",
+    "numero": "21827",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DE EDUCACIÓN"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-08-12",
+    "fechaPromulgacion": "2026-07-09",
+    "vigencias": [
+      {
+        "desde": "2026-08-12",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "18156-04"
   }
 }
