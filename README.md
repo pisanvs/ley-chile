@@ -33,17 +33,17 @@
 ## Pipeline Status
 | | |
 |---|---|
-| **Historial** | `███████████████████░` 95% · watermark 2026-06-06 · 339,065 / 353,511 buildable · 4,717 excluded (undated/sentinel) |
-| **Cache**     | `████████████████████` 100% · 357,264 / 353,511 buildable fetched |
-| **Last run**  | 2026-09-06 05:34 UTC |
+| **Historial** | `███████████████████░` 95% · watermark 2026-08-27 · 339,065 / 353,528 buildable · 4,719 excluded (undated/sentinel) |
+| **Cache**     | `████████████████████` 100% · 357,283 / 353,528 buildable fetched |
+| **Last run**  | 2026-09-06 16:38 UTC |
 <!-- PIPELINE_STATUS_END -->
 
 <!-- GRAPH_STATUS_START -->
 ## Graph Build Status
 | | |
 |---|---|
-| **Fetch normas** | `███████████████████░` 99% · 357,266 / 358,228 normas · complete ✅ |
-| **Last run**     | 2026-09-06 05:34 UTC |
+| **Fetch normas** | `███████████████████░` 99% · 357,285 / 358,247 normas · complete ✅ |
+| **Last run**     | 2026-09-06 16:38 UTC |
 <!-- GRAPH_STATUS_END -->
 
 > **Sobre estas barras.** *Graph Build Status* sigue la construcción del grafo de metadatos (`graph.json`): la descarga de la metadata de las ~358 mil normas del catálogo BCN. *Pipeline Status* sigue lo que viene después: cuántas normas tienen ya su historial de versiones reconstruido en la branch `historial`. Los denominadores cuentan sólo normas *construibles* (con fecha de publicación y al menos una vigencia real); las normas sin fecha o con fechas centinela quedan excluidas.
