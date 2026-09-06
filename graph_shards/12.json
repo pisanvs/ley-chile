@@ -604714,5 +604714,29 @@
     "observaciones": [
       "CVE 2816857"
     ]
+  },
+  "1225564": {
+    "idNorma": 1225564,
+    "titulo": "PROMULGA EL ACUERDO CON COSTA RICA SOBRE COPRODUCCIÓN AUDIOVISUAL",
+    "tipo": "dto",
+    "numero": "73",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DE RELACIONES EXTERIORES",
+      "SUBSECRETARÍA DE RELACIONES EXTERIORES"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-06-30",
+    "fechaPromulgacion": "2026-04-15",
+    "vigencias": [
+      {
+        "desde": "2026-06-30",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "17752-10"
   }
 }

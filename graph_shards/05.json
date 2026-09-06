@@ -601692,5 +601692,52 @@
     "modificadaPor_edges": [],
     "tipo": "dto",
     "numero": "66"
+  },
+  "1213061": {
+    "idNorma": 1213061,
+    "titulo": "PROMULGA EL ACUERDO SOBRE SERVICIOS AÉREOS ENTRE EL GOBIERNO DE LA REPÚBLICA DE CHILE Y EL GOBIERNO DEL ESTADO FEDERAL DE AUSTRIA",
+    "tipo": "dto",
+    "numero": "34",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DE RELACIONES EXTERIORES",
+      "SUBSECRETARÍA DE RELACIONES ECONÓMICAS INTERNACIONALES"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2025-05-07",
+    "fechaPromulgacion": "2025-01-31",
+    "vigencias": [
+      {
+        "desde": "2025-05-07",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "16445-10"
+  },
+  "1225909": {
+    "idNorma": 1225909,
+    "titulo": "AUTORIZA MAYOR ENDEUDAMIENTO DEL GOBIERNO CENTRAL DURANTE EL AÑO 2026",
+    "tipo": "ley",
+    "numero": "21831",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DE HACIENDA"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-07-10",
+    "fechaPromulgacion": "2026-07-08",
+    "vigencias": [
+      {
+        "desde": "2026-07-10",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "18296-05"
   }
 }

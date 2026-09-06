@@ -601570,5 +601570,74 @@
     "observaciones": [
       "EXTRACTO"
     ]
+  },
+  "1226226": {
+    "idNorma": 1226226,
+    "titulo": "MODIFICA CUERPOS LEGALES QUE INDICA PARA PROHIBIR EL PORTE Y TENENCIA DE ARMAS DE FUEGO A PERSONAS PROCESADAS O CONDENADAS POR VIOLENCIA INTRAFAMILIAR",
+    "tipo": "ley",
+    "numero": "21829",
+    "clasificacion": "modificatoria",
+    "organismos": [
+      "MINISTERIO DE SEGURIDAD PÚBLICA"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-07-22",
+    "fechaPromulgacion": "2026-07-13",
+    "vigencias": [
+      {
+        "desde": "2026-07-22",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "15936-18"
+  },
+  "1226770": {
+    "idNorma": 1226770,
+    "titulo": "MODIFICA EL DECRETO LEY N° 1.757, DE 1977, PARA FACILITAR EL ACCESO A LOS BENEFICIOS ESTABLECIDOS PARA BOMBEROS QUE SUFREN ACCIDENTES O CONTRAEN ENFERMEDADES EN ACTOS DE SERVICIO Y ACTIVIDADES RELACIONADAS E INCORPORAR LA COBERTURA EN SALUD MENTAL",
+    "tipo": "ley",
+    "numero": "21832",
+    "clasificacion": "modificatoria",
+    "organismos": [
+      "MINISTERIO DEL INTERIOR"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-08-07",
+    "fechaPromulgacion": "2026-07-30",
+    "vigencias": [
+      {
+        "desde": "2222-02-02",
+        "hasta": "",
+        "tipo_version": "8",
+        "tipo_version_s": "Con Vigencia Diferida por Evento"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "15748-22"
+  },
+  "1227570": {
+    "idNorma": 1227570,
+    "titulo": "AUTORIZA LA CIRCULACIÓN EN EL PAÍS DE VEHÍCULOS QUE PARTICIPEN EN COMPETICIONES DE CARÁCTER INTERNACIONAL O FEDERADAS, EN LAS FORMAS Y CONDICIONES QUE SEÑALA",
+    "tipo": "ley",
+    "numero": "21837",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-08-27",
+    "fechaPromulgacion": "2026-08-20",
+    "vigencias": [
+      {
+        "desde": "2026-08-27",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "17451-15"
   }
 }

@@ -607993,5 +607993,29 @@
     "observaciones": [
       "EXTRACTO"
     ]
+  },
+  "1226227": {
+    "idNorma": 1226227,
+    "titulo": "PROMULGA EL ACUERDO ENTRE EL GOBIERNO DE LA REPÚBLICA DE CHILE Y EL GOBIERNO DEL ESTADO PLURINACIONAL DE BOLIVIA, SOBRE EXENCIÓN MUTUA DE VISA Y DEL PERMISO DE RESIDENCIA OFICIAL PARA TITULARES DE PASAPORTES DIPLOMÁTICOS Y OFICIALES",
+    "tipo": "dto",
+    "numero": "75",
+    "clasificacion": "sustantiva",
+    "organismos": [
+      "MINISTERIO DE RELACIONES EXTERIORES",
+      "SUBSECRETARÍA DE RELACIONES EXTERIORES"
+    ],
+    "derogado": false,
+    "fechaPublicacion": "2026-07-22",
+    "fechaPromulgacion": "2026-04-16",
+    "vigencias": [
+      {
+        "desde": "2026-07-22",
+        "hasta": "",
+        "tipo_version": "3",
+        "tipo_version_s": "Única"
+      }
+    ],
+    "modificadaPor_edges": [],
+    "boletin": "17629-10"
   }
 }
