@@ -5,6 +5,7 @@ import { useQuery } from '@tanstack/react-query'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { fetchRawText } from '@/lib/rawtext'
+import { escapeLegalMarkdown } from '@/lib/mdEscape'
 import { segment, align, wordDiff, joinDiffText, type Aligned } from '@/lib/diff'
 import { ArticleSegment } from '@/components/ArticleSegment'
 import { EfectosAligned } from '@/components/EfectosPanel'
@@ -113,7 +114,7 @@ function CleanView({
           monospace={monospace}
         >
           <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
-            {s.body}
+            {escapeLegalMarkdown(s.body)}
           </ReactMarkdown>
         </ArticleSegment>
       ))}
@@ -225,7 +226,7 @@ function SideBySidePane({ side, aligned }: { side: 'prev' | 'curr'; aligned: Ali
       <div className="border-l-2 border-rule pl-3 prose-reader opacity-70">
         {aligned.curr.rawHeading && <h3 className="font-display text-lg mb-1">{aligned.curr.rawHeading}</h3>}
         <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
-          {aligned.curr.body}
+          {escapeLegalMarkdown(aligned.curr.body)}
         </ReactMarkdown>
       </div>
     )
@@ -236,7 +237,7 @@ function SideBySidePane({ side, aligned }: { side: 'prev' | 'curr'; aligned: Ali
       <div className="border-l-4 border-moss bg-moss-soft/40 pl-3 py-1 prose-reader">
         {aligned.curr!.rawHeading && <h3 className="font-display text-lg mb-1 text-moss">{aligned.curr!.rawHeading}</h3>}
         <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
-          {aligned.curr!.body}
+          {escapeLegalMarkdown(aligned.curr!.body)}
         </ReactMarkdown>
       </div>
     )
@@ -247,7 +248,7 @@ function SideBySidePane({ side, aligned }: { side: 'prev' | 'curr'; aligned: Ali
       <div className="border-l-4 border-ruby bg-ruby-soft/40 pl-3 py-1 line-through opacity-70 prose-reader">
         {aligned.prev!.rawHeading && <h3 className="font-display text-lg mb-1 text-ruby">{aligned.prev!.rawHeading}</h3>}
         <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
-          {aligned.prev!.body}
+          {escapeLegalMarkdown(aligned.prev!.body)}
         </ReactMarkdown>
       </div>
     )
@@ -392,7 +393,7 @@ function RedlineSegment({
       >
         <ins className="bg-moss-soft border-b-2 border-moss px-1 py-0.5 inline-block">
           <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
-            {aligned.curr.body}
+            {escapeLegalMarkdown(aligned.curr.body)}
           </ReactMarkdown>
         </ins>
       </ArticleSegment>
@@ -409,7 +410,7 @@ function RedlineSegment({
       >
         <del className="bg-ruby-soft px-1 py-0.5 inline-block">
           <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
-            {aligned.prev.body}
+            {escapeLegalMarkdown(aligned.prev.body)}
           </ReactMarkdown>
         </del>
       </ArticleSegment>
@@ -425,7 +426,7 @@ function RedlineSegment({
         monospace={monospace}
       >
         <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
-          {aligned.curr.body}
+          {escapeLegalMarkdown(aligned.curr.body)}
         </ReactMarkdown>
       </ArticleSegment>
     )

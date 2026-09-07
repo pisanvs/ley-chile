@@ -7,6 +7,7 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { segment, wordDiff, joinDiffText, type Segment } from '@/lib/diff'
 import { canonicalHref } from '@/lib/href'
+import { escapeLegalMarkdown } from '@/lib/mdEscape'
 import type { Efecto, EfectoArticle } from '@/lib/efectos'
 
 const TIPO_LABEL: Record<string, string> = {
@@ -250,7 +251,7 @@ function ModifierArticle({ article }: { article: Segment }) {
         <h3 className="font-display text-lg font-semibold mb-2 text-ink">{heading}</h3>
       )}
       <div className="prose-reader leading-relaxed text-[15px] text-ink-soft">
-        <ReactMarkdown remarkPlugins={[remarkGfm]}>{article.body}</ReactMarkdown>
+        <ReactMarkdown remarkPlugins={[remarkGfm]}>{escapeLegalMarkdown(article.body)}</ReactMarkdown>
       </div>
     </article>
   )
