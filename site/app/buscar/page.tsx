@@ -1,8 +1,22 @@
 import { Suspense } from 'react'
+import type { Metadata } from 'next'
 import Link from 'next/link'
 import { recordEvent } from '@/lib/analytics'
 import { normalizeQuery, runSearch, type Hit } from '@/lib/search'
 import { canonicalHref } from '@/lib/href'
+
+interface SearchParamsProps { searchParams: Promise<{ q?: string; asOf?: string }> }
+
+// The bare /buscar entry page (a real, if thin, "search this corpus" page) stays
+// indexable. Every ?q= result page noindexes: search results are a query-shaped
+// view over content that already has its own canonical page (the norma itself),
+// so indexing them creates duplicate/thin pages competing with those canonicals
+// across an effectively unbounded number of query strings — one of the more
+// common ways a site drags down its own average quality signal in Google's eyes.
+export async function generateMetadata({ searchParams }: SearchParamsProps): Promise<Metadata> {
+  const { q } = await searchParams
+  return q ? { robots: { index: false, follow: true } } : {}
+}
 
 const TIPO_LABEL: Record<string, string> = {
   ley: 'Ley', dl: 'Decreto Ley', dfl: 'DFL', dto: 'Decreto', cod: 'Código', res: 'Resolución',
