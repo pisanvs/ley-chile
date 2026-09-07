@@ -103,6 +103,12 @@ export function TopBar({ crumb }: Props) {
             Guías
           </Link>
           <Link
+            href="/cambios"
+            className="px-2 py-1 rounded-md text-ink-soft hover:text-ink hover:bg-paper-sunk transition"
+          >
+            Cambios
+          </Link>
+          <Link
             href="/blog"
             className="px-2 py-1 rounded-md text-ink-soft hover:text-ink hover:bg-paper-sunk transition"
           >
