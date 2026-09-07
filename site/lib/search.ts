@@ -122,18 +122,55 @@ export async function searchByNumber(q: string): Promise<Hit[]> {
   }))
 }
 
+export interface SearchOutcome {
+  hits: Hit[]
+  /** The hot tier failed and these results came from Postgres alone. The
+   *  results are real, just less forgiving: no typo tolerance, and the
+   *  hot tier's ranking no longer contributes. */
+  degraded: boolean
+}
+
+/** The hot tier, made non-fatal.
+ *
+ *  Meilisearch is an accelerator over ~8% of the corpus, not the source of
+ *  truth — `searchByNumber` and `searchCold` are pure Postgres and between
+ *  them answer the whole corpus without it. Letting an unreachable Meili
+ *  throw past those two turned a degraded search into no search at all:
+ *  a bare law number, answered entirely by Postgres, returned nothing for
+ *  as long as Meilisearch was down. See search.resilience.test.ts. */
+async function hotTier(q: string, asOf: string): Promise<{ hits: Hit[]; failed: boolean }> {
+  try {
+    return { hits: await searchHot(q, asOf), failed: false }
+  } catch (err) {
+    console.error('[search] hot tier unavailable; serving from Postgres alone:', err)
+    return { hits: [], failed: true }
+  }
+}
+
 /** The one search entry point. Number matches first, then the hot full-text
  *  tier, then the cold tier when the hot tier is thin — deduped by norma and
  *  capped. All three surfaces (the ⌘K palette, /buscar, the MCP tool) go
- *  through here so they rank identically. */
-export async function runSearch(q: string, asOf: string, limit = 20): Promise<Hit[]> {
+ *  through here so they rank identically.
+ *
+ *  A Postgres failure still throws: there are no results to be had, and the
+ *  caller must be able to tell that apart from an honestly empty corpus. */
+export async function runSearchDetailed(
+  q: string, asOf: string, limit = 20,
+): Promise<SearchOutcome> {
   const exact = await searchByNumber(q)
-  const hot = await searchHot(q, asOf)
-  const cold = needsColdPath(hot.length) ? await searchCold(q, asOf) : []
+  const hot = await hotTier(q, asOf)
+  // A failed hot tier reports zero hits, which `needsColdPath` already reads
+  // as thin — so the exhaustive Postgres path runs either way.
+  const cold = needsColdPath(hot.hits.length) ? await searchCold(q, asOf) : []
   const seen = new Set<number>()
-  return [...exact, ...hot, ...cold]
+  const hits = [...exact, ...hot.hits, ...cold]
     .filter((h) => (seen.has(h.idNorma) ? false : (seen.add(h.idNorma), true)))
     .slice(0, limit)
+  return { hits, degraded: hot.failed }
+}
+
+export async function runSearch(q: string, asOf: string, limit = 20): Promise<Hit[]> {
+  return (await runSearchDetailed(q, asOf, limit)).hits
 }
 
 export interface ArticleHit {
