@@ -4,6 +4,7 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { useQuery } from '@tanstack/react-query'
 import { fetchRawText } from '@/lib/rawtext'
+import { escapeLegalMarkdown } from '@/lib/mdEscape'
 
 interface Props { sha: string; relDir: string }
 
@@ -26,7 +27,7 @@ export function CleanReader({ sha, relDir }: Props) {
           p:  ({ children }) => <p className="my-3">{children}</p>,
         }}
       >
-        {q.data}
+        {escapeLegalMarkdown(q.data ?? '')}
       </ReactMarkdown>
     </article>
   )
