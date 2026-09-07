@@ -1,7 +1,7 @@
 import { describe, it, expect } from 'vitest'
 import {
-  fechaLarga, MIN_GUIA_ARTICLES, normaLabel, prettyNumero,
-  qualifiesForCambios, qualifiesForGuia, tipoLabel,
+  agreeGender, fechaLarga, MIN_GUIA_ARTICLES, normaLabel, prettyNumero,
+  qualifiesForCambios, qualifiesForGuia, tipoArticle, tipoLabel,
 } from './seo'
 import type { Norma, Version } from './norma'
 
@@ -74,6 +74,46 @@ describe('tipoLabel', () => {
 describe('normaLabel', () => {
   it('combines tipo label and dotted numero', () => {
     expect(normaLabel(LEY)).toBe('Ley 21.643')
+  })
+})
+
+describe('tipoArticle', () => {
+  // "la Ley 21.643" but "el Código Penal" / "el DFL 1" / "el Decreto 250" /
+  // "el Decreto Ley 3.500" — the regression this guards: every guía/cambios
+  // page for a cod/dl/dfl/dto used a hardcoded "la", which reads as broken
+  // Spanish ("la Código PENAL") in the page's own <title>, FAQ text and
+  // FAQPage JSON-LD.
+  it('uses the feminine article for ley-like tipos', () => {
+    expect(tipoArticle('ley')).toBe('la')
+    expect(tipoArticle('otras')).toBe('la')
+    expect(tipoArticle('res')).toBe('la')
+  })
+
+  it('uses the masculine article for código/decreto-like tipos', () => {
+    expect(tipoArticle('cod')).toBe('el')
+    expect(tipoArticle('dl')).toBe('el')
+    expect(tipoArticle('dfl')).toBe('el')
+    expect(tipoArticle('dto')).toBe('el')
+  })
+
+  it('capitalizes for sentence-initial use', () => {
+    expect(tipoArticle('cod', true)).toBe('El')
+    expect(tipoArticle('ley', true)).toBe('La')
+  })
+
+  it('defaults unknown tipos to feminine, matching prior behavior', () => {
+    expect(tipoArticle('bando')).toBe('la')
+  })
+})
+
+describe('agreeGender', () => {
+  it('keeps the feminine form for ley-like tipos', () => {
+    expect(agreeGender('ley', 'derogada')).toBe('derogada')
+  })
+
+  it('derives the masculine form for código/decreto-like tipos', () => {
+    expect(agreeGender('cod', 'derogada')).toBe('derogado')
+    expect(agreeGender('dfl', 'derogada')).toBe('derogado')
   })
 })
 

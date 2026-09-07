@@ -7,8 +7,8 @@ import {
   type ModLink, type Norma, type Version,
 } from '@/lib/norma'
 import {
-  fechaLarga, getGuiaArticles, getGuiaStats, normaLabel,
-  qualifiesForCambios, qualifiesForGuia, resolveSeoRoute, tipoLabel,
+  agreeGender, fechaLarga, getGuiaArticles, getGuiaStats, normaLabel,
+  qualifiesForCambios, qualifiesForGuia, resolveSeoRoute, tipoArticle, tipoLabel,
 } from '@/lib/seo'
 import { ArticleBody } from '@/components/seo/Prose'
 
@@ -32,7 +32,7 @@ async function load(norma: Norma) {
 }
 
 function title(n: Norma): string {
-  return `Qué dice la ${normaLabel(n)}: resumen, artículos y versiones`
+  return `Qué dice ${tipoArticle(n.tipo)} ${normaLabel(n)}: resumen, artículos y versiones`
 }
 
 function description(n: Norma, versions: Version[]): string {
@@ -66,33 +66,35 @@ function buildFaq(
   n: Norma, versions: Version[], fecha: string, modifies: number, modifiedBy: number,
 ): FaqEntry[] {
   const label = normaLabel(n)
+  const art = tipoArticle(n.tipo)
+  const Art = tipoArticle(n.tipo, true)
   const faq: FaqEntry[] = [
     {
-      q: `¿Qué es la ${label}?`,
+      q: `¿Qué es ${art} ${label}?`,
       a: `${label} — «${n.titulo}». Fue publicada el ${fechaLarga(n.fechaPublicacion)}${n.organismo ? ` por ${n.organismo}` : ''}.`,
     },
     {
-      q: `¿Desde cuándo rige el texto actual de la ${label}?`,
+      q: `¿Desde cuándo rige el texto actual de ${art} ${label}?`,
       a: versions.length > 1
         ? `El texto que se muestra rige desde el ${fechaLarga(fecha)}. Es la última de ${versions.length} versiones registradas desde su publicación.`
         : `El corpus registra una sola versión, vigente desde el ${fechaLarga(fecha)}: el texto no ha cambiado desde entonces.`,
     },
     {
-      q: `¿La ${label} sigue vigente?`,
+      q: `¿${Art} ${label} sigue vigente?`,
       a: n.derogado
-        ? `No. La ${label} figura como derogada en el corpus. Su texto sigue disponible en la versión que estuvo vigente hasta su derogación.`
-        : `Sí. La ${label} no figura como derogada. La última versión registrada rige desde el ${fechaLarga(fecha)}.`,
+        ? `No. ${Art} ${label} figura como ${agreeGender(n.tipo, 'derogada')} en el corpus. Su texto sigue disponible en la versión que estuvo vigente hasta su derogación.`
+        : `Sí. ${Art} ${label} no figura como ${agreeGender(n.tipo, 'derogada')}. La última versión registrada rige desde el ${fechaLarga(fecha)}.`,
     },
   ]
   if (modifiedBy > 0) {
     faq.push({
-      q: `¿Cuántas veces se ha modificado la ${label}?`,
+      q: `¿Cuántas veces se ha modificado ${art} ${label}?`,
       a: `El corpus registra ${modifiedBy} ${modifiedBy === 1 ? 'norma que la ha modificado' : 'normas que la han modificado'}, que producen ${versions.length} ${versions.length === 1 ? 'versión' : 'versiones'} de su texto.`,
     })
   }
   if (modifies > 0) {
     faq.push({
-      q: `¿Qué otras normas modifica la ${label}?`,
+      q: `¿Qué otras normas modifica ${art} ${label}?`,
       a: `Modifica ${modifies} ${modifies === 1 ? 'cuerpo legal' : 'cuerpos legales'}. En una ley modificatoria el efecto real se lee en la norma modificada, no en su propio texto.`,
     })
   }
@@ -112,6 +114,7 @@ export default async function Page({ params }: Props) {
   const { norma: n, versions, fecha, articles, modifies, modifiedBy, stats } = data
 
   const label = normaLabel(n)
+  const art = tipoArticle(n.tipo)
   const readerHref = canonicalHref(n)
   const hasCambios = qualifiesForCambios(versions, modifiedBy.length)
   const faq = buildFaq(n, versions, fecha, modifies.length, modifiedBy.length)
@@ -141,7 +144,7 @@ export default async function Page({ params }: Props) {
           {tipoLabel(n.tipo)} · Nº {n.numero}
         </p>
         <h1 className="font-display text-3xl md:text-[2.7rem] leading-[1.08] tracking-tight text-balance">
-          Qué dice la <span className="text-ruby">{label}</span>
+          Qué dice {art} <span className="text-ruby">{label}</span>
         </h1>
         <p className="mt-4 font-display italic text-lg md:text-xl text-ink-soft text-balance">
           {n.titulo}
@@ -190,7 +193,7 @@ export default async function Page({ params }: Props) {
 
         {versions.length > 1 && (
           <section className="mt-14 border-t border-rule pt-10">
-            <h2 className="font-display text-2xl mb-2">Versiones de la {label}</h2>
+            <h2 className="font-display text-2xl mb-2">Versiones de {art} {label}</h2>
             <p className="text-[14px] text-ink-soft mb-5">
               Cada fecha es un texto distinto. El corpus guarda las {versions.length}, no sólo la vigente.
             </p>
@@ -252,10 +255,10 @@ export default async function Page({ params }: Props) {
         {(modifies.length > 0 || modifiedBy.length > 0) && (
           <section className="mt-14 border-t border-rule pt-10 grid md:grid-cols-2 gap-10">
             {modifies.length > 0 && (
-              <ModList title={`Qué modifica la ${label}`} items={modifies.slice(0, 12)} />
+              <ModList title={`Qué modifica ${art} ${label}`} items={modifies.slice(0, 12)} />
             )}
             {modifiedBy.length > 0 && (
-              <ModList title={`Qué ha modificado la ${label}`} items={modifiedBy.slice(0, 12)} />
+              <ModList title={`Qué ha modificado ${art} ${label}`} items={modifiedBy.slice(0, 12)} />
             )}
           </section>
         )}
