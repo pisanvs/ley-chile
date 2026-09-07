@@ -213,6 +213,35 @@ export function tipoLabel(tipo: string): string {
   return TIPO_LABEL[tipo] ?? tipo.toUpperCase()
 }
 
+/** Grammatical gender of a tipo's Spanish label, for the definite article in
+ *  generated prose ("la Ley 21.643" vs "el Código Penal" vs "el DFL 1").
+ *  Missing tipos default to feminine — that was the effective behavior
+ *  everywhere before this map existed, so an unmapped tipo stays as it was. */
+const TIPO_GENDER: Record<string, 'f' | 'm'> = {
+  ley: 'f',
+  dl: 'm',
+  dfl: 'm',
+  dto: 'm',
+  cod: 'm',
+  res: 'f',
+  otras: 'f',
+}
+
+/** "el"/"la" for a tipo, e.g. `` `${tipoArticle(n.tipo)} ${normaLabel(n)}` ``
+ *  → "el Código Penal". Pass `capitalized` for sentence-initial use ("La Ley…"
+ *  vs "…de la Ley…"). */
+export function tipoArticle(tipo: string, capitalized = false): string {
+  const article = TIPO_GENDER[tipo] === 'm' ? 'el' : 'la'
+  return capitalized ? article[0].toUpperCase() + article.slice(1) : article
+}
+
+/** Agree an -o/-a adjective ending with a tipo's gender, e.g.
+ *  `agreeGender(n.tipo, 'derogada')` → "derogado" for a `cod`/`dl`/`dfl`/`dto`.
+ *  `feminine` must already end in "a"; only the masculine form is derived. */
+export function agreeGender(tipo: string, feminine: string): string {
+  return TIPO_GENDER[tipo] === 'm' ? `${feminine.slice(0, -1)}o` : feminine
+}
+
 /** "Ley 21.643" — Chileans write and search law numbers dotted. */
 export function prettyNumero(numero: string): string {
   if (!/^\d+$/.test(numero)) return numero

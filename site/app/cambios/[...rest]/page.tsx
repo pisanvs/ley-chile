@@ -7,7 +7,7 @@ import {
 } from '@/lib/norma'
 import {
   fechaLarga, getGuiaStats, normaLabel, qualifiesForCambios, qualifiesForGuia,
-  resolveSeoRoute, tipoLabel,
+  resolveSeoRoute, tipoArticle, tipoLabel,
 } from '@/lib/seo'
 
 interface Props { params: Promise<{ rest: string[] }> }
@@ -25,7 +25,7 @@ async function load(norma: Norma) {
 }
 
 function title(n: Norma): string {
-  return `Qué cambió la ${normaLabel(n)}: historial de modificaciones`
+  return `Qué cambió ${tipoArticle(n.tipo)} ${normaLabel(n)}: historial de modificaciones`
 }
 
 export async function generateMetadata({ params }: Props) {
@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: Props) {
   if (!data) return {}
   const { norma: n, versions, modifiedBy } = data
   const t = title(n)
-  const d = `La ${normaLabel(n)} ha cambiado ${versions.length} veces desde su publicación, por ${modifiedBy.length} ${modifiedBy.length === 1 ? 'norma modificadora' : 'normas modificadoras'}. Cada versión, su causa y qué texto regía en cada fecha.`
+  const d = `${tipoArticle(n.tipo, true)} ${normaLabel(n)} ha cambiado ${versions.length} veces desde su publicación, por ${modifiedBy.length} ${modifiedBy.length === 1 ? 'norma modificadora' : 'normas modificadoras'}. Cada versión, su causa y qué texto regía en cada fecha.`
   return {
     title: t,
     description: d,
@@ -59,22 +59,23 @@ function causaFor(v: Version, modifiedBy: ModLink[]): ModLink | null {
 
 function buildFaq(n: Norma, versions: Version[], modifiedBy: ModLink[], fecha: string): FaqEntry[] {
   const label = normaLabel(n)
+  const art = tipoArticle(n.tipo)
   const first = versions[0]
   const latest = modifiedBy[0]
   const faq: FaqEntry[] = [
     {
-      q: `¿Cuántas veces ha cambiado la ${label}?`,
-      a: `El corpus registra ${versions.length} versiones del texto de la ${label}, desde la original del ${fechaLarga(first.desde)} hasta la vigente desde el ${fechaLarga(fecha)}. Los cambios provienen de ${modifiedBy.length} ${modifiedBy.length === 1 ? 'norma modificadora' : 'normas modificadoras'}.`,
+      q: `¿Cuántas veces ha cambiado ${art} ${label}?`,
+      a: `El corpus registra ${versions.length} versiones del texto de ${art} ${label}, desde la original del ${fechaLarga(first.desde)} hasta la vigente desde el ${fechaLarga(fecha)}. Los cambios provienen de ${modifiedBy.length} ${modifiedBy.length === 1 ? 'norma modificadora' : 'normas modificadoras'}.`,
     },
     {
-      q: `¿Cuál es la última modificación de la ${label}?`,
+      q: `¿Cuál es la última modificación de ${art} ${label}?`,
       a: latest
         ? `La modificación más reciente registrada es de ${tipoLabel(latest.tipo)} ${latest.numero}, con fecha ${fechaLarga(latest.fecha)}. El texto resultante rige desde el ${fechaLarga(fecha)}.`
         : `El texto vigente rige desde el ${fechaLarga(fecha)}.`,
     },
     {
-      q: `¿Cómo veo el texto de la ${label} que regía en una fecha determinada?`,
-      a: `Cada versión de la ${label} tiene su propia URL con la fecha desde la que rige, y el lector permite comparar dos versiones palabra por palabra para ver exactamente qué se agregó y qué se eliminó.`,
+      q: `¿Cómo veo el texto de ${art} ${label} que regía en una fecha determinada?`,
+      a: `Cada versión de ${art} ${label} tiene su propia URL con la fecha desde la que rige, y el lector permite comparar dos versiones palabra por palabra para ver exactamente qué se agregó y qué se eliminó.`,
     },
   ]
   return faq
@@ -91,6 +92,7 @@ export default async function Page({ params }: Props) {
   const { norma: n, versions, modifiedBy, fecha, hasGuia } = data
 
   const label = normaLabel(n)
+  const art = tipoArticle(n.tipo)
   const faq = buildFaq(n, versions, modifiedBy, fecha)
   // Newest first: "what changed" is a recency question.
   const timeline = [...versions].reverse()
@@ -122,13 +124,13 @@ export default async function Page({ params }: Props) {
           {tipoLabel(n.tipo)} · Nº {n.numero} · Historial
         </p>
         <h1 className="font-display text-3xl md:text-[2.7rem] leading-[1.08] tracking-tight text-balance">
-          Qué cambió la <span className="text-ruby">{label}</span>
+          Qué cambió {art} <span className="text-ruby">{label}</span>
         </h1>
         <p className="mt-4 font-display italic text-lg md:text-xl text-ink-soft text-balance">
           {n.titulo}
         </p>
         <p className="mt-6 text-ink-soft max-w-2xl text-[15px] leading-relaxed">
-          El texto de la {label} no es uno solo. Ha cambiado {versions.length} veces desde que
+          El texto de {art} {label} no es uno solo. Ha cambiado {versions.length} veces desde que
           se publicó el {fechaLarga(n.fechaPublicacion)}. Abajo, cada versión con la norma que
           la causó — y un enlace al diff palabra por palabra.
         </p>
@@ -139,7 +141,7 @@ export default async function Page({ params }: Props) {
               href={guiaHref(n)}
               className="inline-flex items-center gap-2 border border-ink/80 hover:border-ruby text-ink hover:text-ruby transition px-4 py-2.5 rounded-md text-sm"
             >
-              Qué dice la {label} →
+              Qué dice {art} {label} →
             </Link>
           )}
           <Link
@@ -214,7 +216,7 @@ export default async function Page({ params }: Props) {
         </section>
 
         <section className="mt-14 border-t border-rule pt-10">
-          <h2 className="font-display text-2xl mb-4">Normas que han modificado la {label}</h2>
+          <h2 className="font-display text-2xl mb-4">Normas que han modificado {art} {label}</h2>
           <ul className="divide-y divide-rule">
             {modifiedBy.map((m) => (
               <li key={`${m.tipo}-${m.numero}-${m.fecha}`}>
