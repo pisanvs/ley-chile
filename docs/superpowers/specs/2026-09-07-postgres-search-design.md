@@ -42,6 +42,70 @@ A dependency serving 8% of the corpus took down 100% of search, and did it
 invisibly. Fixed separately in `fix/search-meili-fallback`, which is a
 prerequisite to this work but stands on its own.
 
+## Production baseline (2026-09-07)
+
+Measured against the live database via `railway connect Postgres`. These
+supersede the synthetic figures elsewhere in this document wherever they
+disagree.
+
+**Corpus:** 333,026 normas · 872,411 articulos · 1,011,713 spans.
+Tier split: 28,730 `full` (Meilisearch) vs 304,296 `meta`.
+
+**Storage** — the comparison that motivates the whole migration:
+
+| object | size |
+|---|---|
+| `articulo` heap | 995 MB |
+| `articulo` indexes | 445 MB |
+| **`articulo_tsv_idx`** (full-corpus FTS) | **304 MB** |
+| `norma_titulo_trgm_idx` | 74 MB |
+| **Meilisearch volume** (8% of corpus) | **4.76 GB** |
+
+Meilisearch uses **15× the disk** of the Postgres FTS index that covers
+**3.4× more** of the corpus.
+
+**Latency** — `EXPLAIN (ANALYZE)`, `statement_timeout` 240 s:
+
+| query | today | rank-first rewrite |
+|---|---|---|
+| rare term (`geotermia`, 149 matches) | **21,458 ms** | **135 ms** |
+| common term (`contrato`, 60,644 matches) | 118 ms | 4,538 ms |
+| common term, no `ts_headline` | 2.5 ms | — |
+
+The 21.5-second rare-term query is live today, and the plan confirms the
+diagnosis exactly: `Index Scan using
+articulo_id_norma_slug_content_sha256_key … Rows Removed by Filter: 524720`,
+with `articulo_tsv_idx` unused. The rewrite is 158× faster; the common term is
+38× slower under it. Both facts together are why the routing exists.
+
+`ts_headline` costs ~116 ms of the dense path's 118 ms. It is evaluated over
+candidate rows before deduplication, so moving it outside the `DISTINCT ON`
+— computing snippets only for the rows actually returned — is an obvious
+follow-up, not yet done.
+
+### Corrections this baseline forces
+
+1. **`shared_buffers` is 128 MB**, not something comfortable. The claim
+   elsewhere in this spec that `norma_search` (~254 MB projected) "stays
+   resident in `shared_buffers`" is **wrong**. It does not fit, and neither
+   does `articulo_tsv_idx` at 304 MB. `effective_cache_size` is 4 GB, so the
+   OS page cache is doing the work, and cold-vs-warm matters a great deal —
+   the trigram probe measured 1,437 ms cold and 445 ms warm for the same
+   query. Raising `shared_buffers` is likely the cheapest single improvement
+   available and should be evaluated independently of this migration.
+2. **The trigram fallback is ~101 ms, not ~35 ms.** Synthetic data understated
+   it badly. `<%` (word_similarity) is nonetheless 4.4× better than `%`:
+   2,080 candidate rows against 19,669, of which `%` discards 17,972 on
+   recheck. The two-stage design still holds, but the fallback is a tenth of a
+   second, not a rounding error.
+3. **There is no tsvector index on `norma.titulo` today**, so the lexeme stage
+   currently plans a parallel sequential scan (159 ms). This is precisely the
+   gap `norma_search` fills, and it means stage 1's synthetic ~4 ms should be
+   re-measured once the table exists rather than assumed.
+4. **Accent handling confirmed on real data**: `to_tsvector('spanish',
+   'artículo')` and `…('articulo')` both yield `'articul'` and match. The
+   cancelled `articulo.tsv` regeneration stays cancelled.
+
 ## The decomposition
 
 The reason "instant as you type" looks hard is that the current design answers
@@ -71,9 +135,12 @@ over the network on a 160 ms debounce.
 
 ### Measured — `sql/005_norma_typeahead.sql`
 
-100k normas, `norma_search` at 71 MB including indexes (≈254 MB extrapolated to
-production's 358k, so it stays resident in `shared_buffers`). Rebuild 4.2 s
-(≈15 s extrapolated). Best of 3:
+100k normas, `norma_search` at 71 MB including indexes (≈237 MB extrapolated to
+production's 333k). Rebuild 4.2 s (≈14 s extrapolated). Best of 3.
+
+**Superseded in part by the production baseline above:** 237 MB does *not* fit
+in this instance's 128 MB `shared_buffers`, and the trigram fallback measures
+~101 ms on the real corpus rather than the ~35 ms below.
 
 | query | latency | path |
 |---|---|---|
