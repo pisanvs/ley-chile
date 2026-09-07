@@ -1,6 +1,8 @@
 import Link from 'next/link'
 import { notFound, permanentRedirect } from 'next/navigation'
-import { breadcrumbJsonLd, faqJsonLd, jsonLdScript, legislationJsonLd, SITE, type FaqEntry } from '@/lib/jsonld'
+import {
+  breadcrumbJsonLd, cleanTitulo, faqJsonLd, jsonLdScript, legislationJsonLd, SITE, type FaqEntry,
+} from '@/lib/jsonld'
 import { cambiosHref, canonicalHref, guiaHref } from '@/lib/href'
 import {
   currentFecha, getModifiedBy, getModifies, getVersions,
@@ -37,7 +39,7 @@ function title(n: Norma): string {
 
 function description(n: Norma, versions: Version[]): string {
   const v = versions.length > 1 ? `${versions.length} versiones` : 'texto vigente'
-  return `${normaLabel(n)}: ${n.titulo.slice(0, 90)}. Publicada el ${fechaLarga(n.fechaPublicacion)} — ${v}, articulado completo e historial de modificaciones.`
+  return `${normaLabel(n)}: ${cleanTitulo(n.titulo).slice(0, 90)}. Publicada el ${fechaLarga(n.fechaPublicacion)} — ${v}, articulado completo e historial de modificaciones.`
 }
 
 export async function generateMetadata({ params }: Props) {
@@ -69,7 +71,7 @@ function buildFaq(
   const faq: FaqEntry[] = [
     {
       q: `¿Qué es la ${label}?`,
-      a: `${label} — «${n.titulo}». Fue publicada el ${fechaLarga(n.fechaPublicacion)}${n.organismo ? ` por ${n.organismo}` : ''}.`,
+      a: `${label} — «${cleanTitulo(n.titulo)}». Fue publicada el ${fechaLarga(n.fechaPublicacion)}${n.organismo ? ` por ${n.organismo}` : ''}.`,
     },
     {
       q: `¿Desde cuándo rige el texto actual de la ${label}?`,
