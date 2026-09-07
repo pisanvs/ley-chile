@@ -51,7 +51,9 @@ export function CmdKProvider({ children }: { children: ReactNode }) {
     const id = ++seq.current
     const t = setTimeout(async () => {
       try {
-        const r = await fetch(`/api/search?q=${encodeURIComponent(q)}`)
+        // Norma-level only: per keystroke the question is "which law is this?",
+        // not "which article mentions this". Keeps the palette at ~4ms.
+        const r = await fetch(`/api/search?q=${encodeURIComponent(q)}&mode=typeahead`)
         const data = await r.json()
         if (id === seq.current) setHits(data.hits ?? [])
       } catch {

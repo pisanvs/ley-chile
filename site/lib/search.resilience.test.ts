@@ -33,10 +33,14 @@ const ASOF = '2026-09-07'
 /** Route each tier's SQL to its own fixture by matching on a fragment unique
  *  to that query, so a change in either statement fails loudly here rather
  *  than silently feeding the wrong rows to the wrong tier. */
-function stubPostgres({ exact = [], cold = [] }: { exact?: unknown[]; cold?: unknown[] }) {
+function stubPostgres(
+  { exact = [], cold = [], typeahead = [] }:
+  { exact?: unknown[]; cold?: unknown[]; typeahead?: unknown[] },
+) {
   query.mockImplementation((sql: string) => {
     if (sql.includes('FROM norma n')) return Promise.resolve({ rows: exact })
-    if (sql.includes('FROM articulo a')) return Promise.resolve({ rows: cold })
+    if (sql.includes('search_articulos_deep')) return Promise.resolve({ rows: cold })
+    if (sql.includes('search_normas_typeahead')) return Promise.resolve({ rows: typeahead })
     throw new Error(`unexpected SQL in test: ${sql.slice(0, 80)}`)
   })
 }
@@ -102,6 +106,43 @@ describe('runSearch when Meilisearch is unreachable', () => {
     const res = await runSearchDetailed('18603', ASOF)
 
     expect(res.degraded).toBe(false)
+  })
+
+  it('answers typeahead without consulting Meilisearch at all', async () => {
+    // The palette is norma-level and pure Postgres, so a Meili outage must be
+    // invisible to it — not merely survivable.
+    search.mockRejectedValue(new Error('connect ECONNREFUSED'))
+    stubPostgres({ typeahead: [{ ...EXACT_ROW, id_norma: 7000 }] })
+
+    const { runSearchDetailed } = await import('./search')
+    const res = await runSearchDetailed('partid', ASOF, 12, 'typeahead')
+
+    expect(search).not.toHaveBeenCalled()
+    expect(res.degraded).toBe(false)
+    expect(res.hits.map(h => h.tier)).toEqual(['typeahead'])
+  })
+
+  it('does not read article bodies on the typeahead path', async () => {
+    // Guards the whole point of the split: per keystroke we must not run the
+    // deep article search, whatever the hot tier is doing.
+    search.mockResolvedValue({ hits: [] })
+    stubPostgres({ typeahead: [{ ...EXACT_ROW, id_norma: 7000 }] })
+
+    const { runSearchDetailed } = await import('./search')
+    await runSearchDetailed('partid', ASOF, 12, 'typeahead')
+
+    const sql = query.mock.calls.map((c: unknown[]) => String(c[0]))
+    expect(sql.some(s => s.includes('search_articulos_deep'))).toBe(false)
+  })
+
+  it('surfaces the exact law-number match above typeahead hits', async () => {
+    search.mockResolvedValue({ hits: [] })
+    stubPostgres({ exact: [EXACT_ROW], typeahead: [{ ...EXACT_ROW, id_norma: 7000 }] })
+
+    const { runSearchDetailed } = await import('./search')
+    const res = await runSearchDetailed('18603', ASOF, 12, 'typeahead')
+
+    expect(res.hits.map(h => h.tier)).toEqual(['exact', 'typeahead'])
   })
 
   it('propagates a Postgres failure rather than reporting an empty corpus', async () => {

@@ -11,7 +11,10 @@ export async function GET(req: Request) {
     // Number matches first, then full text — the single ranked path shared with
     // /buscar and the MCP tool. Typing a law number surfaces that law, not
     // whatever body happens to mention the number.
-    const { hits, degraded } = await runSearchDetailed(q, asOf, 12)
+    // The palette sends mode=typeahead per keystroke; /buscar and the MCP tool
+    // use the default 'full', which reads article bodies.
+    const mode = url.searchParams.get('mode') === 'typeahead' ? 'typeahead' : 'full'
+    const { hits, degraded } = await runSearchDetailed(q, asOf, 12, mode)
     return Response.json({
       hits: hits.map((h) => ({
         idNorma: h.idNorma, tipo: h.tipo, numero: h.numero, titulo: h.titulo,
