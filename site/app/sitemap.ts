@@ -2,7 +2,7 @@ export const dynamic = 'force-dynamic'
 
 import type { MetadataRoute } from 'next'
 import { pool } from '@/lib/db'
-import { SITE } from '@/lib/jsonld'
+import { SITE, MAX_SITEMAP_SHARDS } from '@/lib/site'
 import { canonicalHref, normaHref } from '@/lib/href'
 
 const PER_SITEMAP = 50_000   // Google's hard limit
@@ -20,8 +20,8 @@ const PER_SITEMAP = 50_000   // Google's hard limit
 // doubled by non-current versions) and over-provision. Shards beyond the
 // real data just return zero rows at request time (OFFSET past the end of a
 // result set, not an error) — Google gets a valid, empty sitemap for those,
-// which is harmless. Bump MAX_SITEMAP_SHARDS if the corpus outgrows it.
-const MAX_SITEMAP_SHARDS = 32
+// which is harmless. Bump MAX_SITEMAP_SHARDS (lib/site.ts) if the corpus
+// outgrows it — app/robots.ts lists every shard from the same constant.
 
 export async function generateSitemaps() {
   return Array.from({ length: MAX_SITEMAP_SHARDS }, (_, id) => ({ id }))

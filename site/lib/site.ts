@@ -21,3 +21,15 @@ export const MCP_PATH = '/api/mcp'
  *  fail for exactly the callers our MCP tools serve. Agent-facing text comes
  *  from this site's own endpoints. */
 export const REPO = 'https://github.com/pisanvs/ley-chile'
+
+/**
+ * Number of shards `app/sitemap.ts` pre-registers via `generateSitemaps()`.
+ * See the comment there for why this is a fixed over-provisioned count
+ * rather than a DB-derived one.
+ *
+ * Shared with `app/robots.ts`: Next.js's `generateSitemaps` convention does
+ * NOT serve an index at the bare `/sitemap.xml` — only at `/sitemap/{id}.xml`
+ * (confirmed: the bare path 404s in production). So robots.txt must list
+ * every shard URL explicitly instead of the single `/sitemap.xml` path.
+ */
+export const MAX_SITEMAP_SHARDS = 32
