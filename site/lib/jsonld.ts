@@ -17,6 +17,17 @@ export const RESERVED_TIPOS = new Set([
   'guia', 'cambios', 'temas', 'blog', 'norma',
 ])
 
+/** Some títulos are stored with the line breaks the BCN source wrapped them
+ *  across (long official names of decretos/acuerdos especially). Collapse
+ *  those before the string lands in a <title>/og:title/JSON-LD text field —
+ *  those are read as literal attribute/text values, not HTML-rendered, so a
+ *  raw newline shows up as a stray line break in search snippets and social
+ *  cards instead of being invisibly absorbed the way it is in rendered page
+ *  body copy. */
+export function cleanTitulo(s: string): string {
+  return s.replace(/\s+/g, ' ').trim()
+}
+
 export function legislationJsonLd(
   n: Norma, fecha: string, versions: Version[], modifiedBy: number[],
 ): object {
@@ -24,7 +35,7 @@ export function legislationJsonLd(
   return {
     '@context': 'https://schema.org',
     '@type': 'Legislation',
-    name: n.titulo,
+    name: cleanTitulo(n.titulo),
     legislationIdentifier: n.numero,
     legislationType: n.tipo,
     legislationDate: n.fechaPublicacion,

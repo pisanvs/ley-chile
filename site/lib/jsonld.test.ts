@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { legislationJsonLd, RESERVED_TIPOS } from './jsonld'
+import { cleanTitulo, legislationJsonLd, RESERVED_TIPOS } from './jsonld'
 import type { Norma, Version } from './norma'
 
 const LEY: Norma = {
@@ -37,6 +37,25 @@ describe('legislationJsonLd', () => {
   it('lists modifying normas under legislationChanges', () => {
     const ld = legislationJsonLd(LEY, '2011-01-02', versions, [99, 100]) as Record<string, unknown>
     expect(ld['legislationChanges']).toHaveLength(2)
+  })
+})
+
+describe('cleanTitulo', () => {
+  it('collapses embedded line breaks into single spaces', () => {
+    expect(cleanTitulo('AUTO ACORDADO SOBRE REINSCRIPCION DE PARTIDOS\nPOLITICOS EN UNA O MAS\nREGIONES'))
+      .toBe('AUTO ACORDADO SOBRE REINSCRIPCION DE PARTIDOS POLITICOS EN UNA O MAS REGIONES')
+  })
+
+  it('leaves an already-clean título unchanged', () => {
+    expect(cleanTitulo('LEY 20330')).toBe('LEY 20330')
+  })
+
+  it('emits the cleaned título as JSON-LD name', () => {
+    const versions: Version[] = [{ desde: '2009-02-25', hasta: null, commitSha: 'a', causaId: null, subject: '' }]
+    const ld = legislationJsonLd(
+      { ...LEY, titulo: 'LEY 20330\nSOBRE ALGO' }, '2009-02-25', versions, [],
+    ) as Record<string, unknown>
+    expect(ld['name']).toBe('LEY 20330 SOBRE ALGO')
   })
 })
 
