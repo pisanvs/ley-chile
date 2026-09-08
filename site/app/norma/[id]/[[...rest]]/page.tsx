@@ -70,6 +70,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     `Publicada el ${fechaLarga(norma.fechaPublicacion)}. Texto completo, historial de versiones y modificaciones.`
   return {
     title,
+    description,
     openGraph: {
       title,
       description,
