@@ -106,6 +106,45 @@ follow-up, not yet done.
    'artículo')` and `…('articulo')` both yield `'articul'` and match. The
    cancelled `articulo.tsv` regeneration stays cancelled.
 
+## Applied to production (2026-09-08)
+
+`sql/003`–`005` applied via `railway connect Postgres`. Build costs:
+
+| object | rows | build | size |
+|---|---|---|---|
+| `norma_search` | 333,026 | 30 s | 202 MB |
+| `articulo_lexeme_freq` | 716,710 lexemes | 42 s | 61 MB |
+
+`dense_cutoff` resolved to 1,868 (`2·√872411`). Routing on real data:
+`geotermia` 149 → sparse, `expropiacion` 761 → sparse, `trabajo` 56,666 →
+dense, `contrato` 60,644 → dense.
+
+Server-side `EXPLAIN (ANALYZE)` execution time, warm:
+
+| operation | before | after |
+|---|---|---|
+| typeahead `partidos politicos` | — | **3.0 ms** |
+| typeahead `codigo del trabajo` | — | **2.8 ms** |
+| typeahead, typo fallback | — | 86.4 ms |
+| deep `geotermia` (149 matches) | **21,458 ms** | **114.5 ms** |
+| deep `expropiacion` (761 matches) | — | 55.8 ms |
+| deep `contrato` (60,644 matches) | 118 ms | 8.2 ms |
+
+Typeahead lands at ~3 ms against a 20 ms target — the stage-1 index does what
+the synthetic benchmark predicted, and the earlier 159 ms parallel seq scan on
+`norma.titulo` is gone. The rare-term deep search is 187× faster.
+
+Result quality is sound: `codigo del trabajo` returns DFL 1 (the actual code)
+first; `partidos politicos` returns leyes 20915, 20542, 18905, 19527.
+
+Note on measurement: wall-clock through the `railway connect` SSH tunnel adds
+~195 ms to every statement — a bare `SELECT dense_cutoff` measures 188 ms. All
+figures above are server-side execution time and exclude it.
+
+These objects are additive and currently **unused by the deployed site**, which
+still runs the pre-migration code. Nothing user-visible changed by applying
+them.
+
 ## The decomposition
 
 The reason "instant as you type" looks hard is that the current design answers
