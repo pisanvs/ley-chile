@@ -1,0 +1,189 @@
+Using SSH key from file /home/pisanvs/.ssh/railway_reindex_key.pub: temp-meili-reindex-2
+Opening SSH tunnel: 127.0.0.1:38981 → service :5432 ...
+SET
+Timing is on.
+### A. REWRITE (rank-first) on the RARE term that takes 21.5s today
+                                                                         QUERY PLAN                                                                          
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Unique  (cost=22211.95..22213.95 rows=400 width=46) (actual rows=103.00 loops=1)
+   Buffers: shared hit=2006 read=1043
+   ->  Sort  (cost=22211.95..22212.95 rows=400 width=46) (actual rows=148.00 loops=1)
+         Sort Key: a.id_norma, (ts_rank_cd(a.tsv, '''geotermi'''::tsquery)) DESC
+         Sort Method: quicksort  Memory: 47kB
+         Buffers: shared hit=2006 read=1043
+         ->  Nested Loop  (cost=17537.52..22194.67 rows=400 width=46) (actual rows=148.00 loops=1)
+               Buffers: shared hit=2003 read=1043
+               ->  Limit  (cost=17537.10..20498.67 rows=400 width=642) (actual rows=148.00 loops=1)
+                     Buffers: shared hit=1258 read=947
+                     ->  Nested Loop  (cost=17537.10..49003.78 rows=4250 width=642) (actual rows=148.00 loops=1)
+                           Buffers: shared hit=1258 read=947
+                           ->  Gather Merge  (cost=17536.67..18041.67 rows=4336 width=988) (actual rows=149.00 loops=1)
+                                 Workers Planned: 2
+                                 Workers Launched: 2
+                                 Buffers: shared hit=393 read=746
+                                 ->  Sort  (cost=16536.65..16541.16 rows=1807 width=988) (actual rows=49.67 loops=3)
+                                       Sort Key: (ts_rank_cd(a.tsv, '''geotermi'''::tsquery)) DESC
+                                       Sort Method: quicksort  Memory: 76kB
+                                       Buffers: shared hit=393 read=746
+                                       Worker 0:  Sort Method: quicksort  Memory: 39kB
+                                       Worker 1:  Sort Method: quicksort  Memory: 45kB
+                                       ->  Parallel Bitmap Heap Scan on articulo a  (cost=1701.49..16438.89 rows=1807 width=988) (actual rows=49.67 loops=3)
+                                             Recheck Cond: (tsv @@ '''geotermi'''::tsquery)
+                                             Heap Blocks: exact=64
+                                             Buffers: shared hit=375 read=746
+                                             Worker 0:  Heap Blocks: exact=21
+                                             Worker 1:  Heap Blocks: exact=25
+                                             ->  Bitmap Index Scan on articulo_tsv_idx  (cost=0.00..1700.41 rows=4336 width=0) (actual rows=149.00 loops=1)
+                                                   Index Cond: (tsv @@ '''geotermi'''::tsquery)
+                                                   Index Searches: 1
+                                                   Buffers: shared hit=1 read=392
+                           ->  Index Scan using articulo_span_pkey on articulo_span s  (cost=0.42..7.12 rows=2 width=8) (actual rows=0.99 loops=149)
+                                 Index Cond: (articulo_id = a.id)
+                                 Filter: (vigencia @> CURRENT_DATE)
+                                 Rows Removed by Filter: 0
+                                 Index Searches: 149
+                                 Buffers: shared hit=395 read=201
+               ->  Index Only Scan using norma_pkey on norma n  (cost=0.42..3.99 rows=1 width=4) (actual rows=1.00 loops=148)
+                     Index Cond: (id_norma = a.id_norma)
+                     Heap Fetches: 17
+                     Index Searches: 148
+                     Buffers: shared hit=412 read=50
+ Planning:
+   Buffers: shared hit=457 read=131
+ Planning Time: 3.146 ms
+ Execution Time: 135.534 ms
+(47 rows)
+
+Time: 339.702 ms
+### B. REWRITE on a COMMON term (should be the slow side)
+                                                                            QUERY PLAN                                                                            
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Unique  (cost=115409.73..115411.73 rows=400 width=14) (actual rows=390.00 loops=1)
+   Buffers: shared hit=108114 read=85930, temp read=1482 written=2403
+   ->  Sort  (cost=115409.73..115410.73 rows=400 width=14) (actual rows=400.00 loops=1)
+         Sort Key: a.id_norma, (ts_rank_cd(a.tsv, '''contrat'''::tsquery)) DESC
+         Sort Method: quicksort  Memory: 37kB
+         Buffers: shared hit=108114 read=85930, temp read=1482 written=2403
+         ->  Nested Loop  (cost=113216.53..115392.45 rows=400 width=14) (actual rows=400.00 loops=1)
+               Buffers: shared hit=108114 read=85930, temp read=1482 written=2403
+               ->  Limit  (cost=113216.11..113792.45 rows=400 width=46) (actual rows=400.00 loops=1)
+                     Buffers: shared hit=107184 read=85571, temp read=1482 written=2403
+                     ->  Nested Loop  (cost=113216.11..197379.73 rows=58413 width=46) (actual rows=400.00 loops=1)
+                           Buffers: shared hit=107184 read=85571, temp read=1482 written=2403
+                           ->  Gather Merge  (cost=113215.69..120157.21 rows=59601 width=360) (actual rows=673.00 loops=1)
+                                 Workers Planned: 2
+                                 Workers Launched: 2
+                                 Buffers: shared hit=103907 read=83419, temp read=1482 written=2403
+                                 ->  Sort  (cost=112215.66..112277.75 rows=24834 width=360) (actual rows=687.33 loops=3)
+                                       Sort Key: (ts_rank_cd(a.tsv, '''contrat'''::tsquery)) DESC
+                                       Sort Method: external merge  Disk: 7192kB
+                                       Buffers: shared hit=103907 read=83419, temp read=1482 written=2403
+                                       Worker 0:  Sort Method: external merge  Disk: 6296kB
+                                       Worker 1:  Sort Method: external merge  Disk: 5712kB
+                                       ->  Parallel Bitmap Heap Scan on articulo a  (cost=2074.13..106325.28 rows=24834 width=360) (actual rows=20214.67 loops=3)
+                                             Recheck Cond: (tsv @@ '''contrat'''::tsquery)
+                                             Heap Blocks: exact=12913
+                                             Buffers: shared hit=103889 read=83419
+                                             Worker 0:  Heap Blocks: exact=11219
+                                             Worker 1:  Heap Blocks: exact=10417
+                                             ->  Bitmap Index Scan on articulo_tsv_idx  (cost=0.00..2059.23 rows=59601 width=0) (actual rows=60814.00 loops=1)
+                                                   Index Cond: (tsv @@ '''contrat'''::tsquery)
+                                                   Index Searches: 1
+                                                   Buffers: shared hit=391 read=26
+                           ->  Index Scan using articulo_span_pkey on articulo_span s  (cost=0.42..1.27 rows=2 width=8) (actual rows=0.59 loops=673)
+                                 Index Cond: (articulo_id = a.id)
+                                 Filter: (vigencia @> CURRENT_DATE)
+                                 Rows Removed by Filter: 0
+                                 Index Searches: 673
+                                 Buffers: shared hit=1950 read=757
+               ->  Index Only Scan using norma_pkey on norma n  (cost=0.42..3.99 rows=1 width=4) (actual rows=1.00 loops=400)
+                     Index Cond: (id_norma = a.id_norma)
+                     Heap Fetches: 88
+                     Index Searches: 400
+                     Buffers: shared hit=930 read=359
+ Planning:
+   Buffers: shared hit=82
+ Planning Time: 0.447 ms
+ JIT:
+   Functions: 24
+   Options: Inlining false, Optimization false, Expressions true, Deforming true
+ Execution Time: 4538.062 ms
+(50 rows)
+
+Time: 4735.584 ms (00:04.736)
+### C. trigram WARM (same query twice)
+ count 
+-------
+    18
+(1 row)
+
+Time: 651.003 ms
+                                                            QUERY PLAN                                                            
+----------------------------------------------------------------------------------------------------------------------------------
+ Limit  (cost=789.52..789.55 rows=12 width=88) (actual rows=12.00 loops=1)
+   Buffers: shared hit=10248
+   ->  Sort  (cost=789.52..789.57 rows=22 width=88) (actual rows=12.00 loops=1)
+         Sort Key: (similarity(titulo, 'partidos politicos'::text)) DESC
+         Sort Method: quicksort  Memory: 26kB
+         Buffers: shared hit=10248
+         ->  Bitmap Heap Scan on norma  (cost=703.22..789.03 rows=22 width=88) (actual rows=18.00 loops=1)
+               Recheck Cond: (titulo % 'partidos politicos'::text)
+               Rows Removed by Index Recheck: 17972
+               Heap Blocks: exact=9793
+               Buffers: shared hit=10248
+               ->  Bitmap Index Scan on norma_titulo_trgm_idx  (cost=0.00..703.22 rows=22 width=0) (actual rows=19669.00 loops=1)
+                     Index Cond: (titulo % 'partidos politicos'::text)
+                     Index Searches: 1
+                     Buffers: shared hit=453
+ Planning:
+   Buffers: shared hit=1
+ Planning Time: 2.533 ms
+ Execution Time: 445.241 ms
+(19 rows)
+
+Time: 642.670 ms
+### D. word_similarity <% variant (what the typeahead fallback uses)
+SET
+Time: 192.640 ms
+                                                           QUERY PLAN                                                            
+---------------------------------------------------------------------------------------------------------------------------------
+ Limit  (cost=789.52..789.55 rows=12 width=88) (actual rows=12.00 loops=1)
+   Buffers: shared hit=2327
+   ->  Sort  (cost=789.52..789.57 rows=22 width=88) (actual rows=12.00 loops=1)
+         Sort Key: (word_similarity('partidos politicos'::text, titulo)) DESC
+         Sort Method: top-N heapsort  Memory: 28kB
+         Buffers: shared hit=2327
+         ->  Bitmap Heap Scan on norma  (cost=703.22..789.03 rows=22 width=88) (actual rows=261.00 loops=1)
+               Filter: ('partidos politicos'::text <% titulo)
+               Rows Removed by Filter: 1652
+               Heap Blocks: exact=1847
+               Buffers: shared hit=2327
+               ->  Bitmap Index Scan on norma_titulo_trgm_idx  (cost=0.00..703.22 rows=22 width=0) (actual rows=2080.00 loops=1)
+                     Index Cond: (titulo %> 'partidos politicos'::text)
+                     Index Searches: 1
+                     Buffers: shared hit=478
+ Planning:
+   Buffers: shared hit=9
+ Planning Time: 2.607 ms
+ Execution Time: 101.407 ms
+(19 rows)
+
+Time: 297.744 ms
+### E. lexeme stage on norma titles (the typeahead FAST path)
+                                                QUERY PLAN                                                 
+-----------------------------------------------------------------------------------------------------------
+ Limit  (cost=1000.00..52480.52 rows=8 width=84) (actual rows=12.00 loops=1)
+   Buffers: shared hit=1545 read=351
+   ->  Gather  (cost=1000.00..52480.52 rows=8 width=84) (actual rows=12.00 loops=1)
+         Workers Planned: 2
+         Workers Launched: 2
+         Buffers: shared hit=1545 read=351
+         ->  Parallel Seq Scan on norma  (cost=0.00..51479.72 rows=3 width=84) (actual rows=11.00 loops=3)
+               Filter: (to_tsvector('spanish'::regconfig, titulo) @@ '''part'' & ''polit'''::tsquery)
+               Rows Removed by Filter: 14869
+               Buffers: shared hit=1545 read=351
+ Planning Time: 0.110 ms
+ Execution Time: 159.210 ms
+(12 rows)
+
+Time: 352.503 ms

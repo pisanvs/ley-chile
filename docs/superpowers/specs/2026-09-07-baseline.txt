@@ -1,0 +1,224 @@
+Using SSH key from file /home/pisanvs/.ssh/railway_reindex_key.pub: temp-meili-reindex-2
+Opening SSH tunnel: 127.0.0.1:41923 → service :5432 ...
+SET
+Timing is on.
+Pager usage is off.
+=== 1. MEMORY / STORAGE SETTINGS ===
+              name               | setting | unit 
+---------------------------------+---------+------
+ effective_cache_size            | 524288  | 8kB
+ maintenance_work_mem            | 65536   | kB
+ max_parallel_workers_per_gather | 2       | 
+ shared_buffers                  | 16384   | 8kB
+ work_mem                        | 4096    | kB
+(5 rows)
+
+Time: 196.364 ms
+=== 2. CORPUS SIZE ===
+                t                |  count  
+---------------------------------+---------
+ norma tier=full (Meili holds)   |   28730
+ norma                           |  333026
+ norma tier=meta (Postgres only) |  304296
+ articulo_span                   | 1011713
+ articulo                        |  872411
+(5 rows)
+
+Time: 7659.065 ms (00:07.659)
+=== 3. INDEX SIZES  (compare total vs Meili volume 4.76 GB) ===
+    relname    |  heap  | indexes |  total  
+---------------+--------+---------+---------
+ norma         | 118 MB | 106 MB  | 224 MB
+ articulo      | 995 MB | 445 MB  | 2940 MB
+ articulo_span | 60 MB  | 88 MB   | 149 MB
+(3 rows)
+
+Time: 201.585 ms
+        indexrelname         |  size   
+-----------------------------+---------
+ articulo_tsv_idx            | 304 MB
+ norma_titulo_trgm_idx       | 74 MB
+ norma_materias_idx          | 5424 kB
+ norma_nombres_uso_comun_idx | 4472 kB
+(4 rows)
+
+Time: 211.344 ms
+=== 4. THE CLIFF: candidate counts, common vs rare term ===
+NOTICE:  text-search query contains only stop words or doesn't contain lexemes, ignored
+     term     | count 
+--------------+-------
+ estado       |     0
+ geotermia    |   149
+ expropiacion |   761
+ contrato     | 60644
+ trabajo      | 56666
+(5 rows)
+
+Time: 7169.371 ms (00:07.169)
+=== 5. WIDENED COLD QUERY -- COMMON TERM (the worst case) ===
+                                                                                                QUERY PLAN                                                                                                
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Limit  (cost=14.26..279.84 rows=20 width=136) (actual time=96.424..118.230 rows=20.00 loops=1)
+   Buffers: shared hit=1301 read=398
+   ->  Result  (cost=14.26..730522.84 rows=55013 width=136) (actual time=96.422..118.221 rows=20.00 loops=1)
+         Buffers: shared hit=1301 read=398
+         ->  Unique  (cost=14.26..716081.93 rows=55013 width=732) (actual time=96.176..96.196 rows=20.00 loops=1)
+               Buffers: shared hit=1244 read=387
+               ->  Incremental Sort  (cost=14.26..715944.40 rows=55013 width=732) (actual time=96.175..96.182 rows=25.00 loops=1)
+                     Sort Key: n.id_norma, (ts_rank_cd(a.tsv, '''trabaj'''::tsquery)) DESC
+                     Presorted Key: n.id_norma
+                     Full-sort Groups: 1  Sort Method: quicksort  Average Memory: 44kB  Peak Memory: 44kB
+                     Buffers: shared hit=1244 read=387
+                     ->  Nested Loop  (cost=1.28..713468.81 rows=55013 width=732) (actual time=4.288..96.130 rows=33.00 loops=1)
+                           Buffers: shared hit=1238 read=387
+                           ->  Nested Loop  (cost=0.85..661612.40 rows=55013 width=980) (actual time=3.921..95.207 rows=33.00 loops=1)
+                                 Buffers: shared hit=1015 read=365
+                                 ->  Index Scan using articulo_id_norma_slug_content_sha256_key on articulo a  (cost=0.42..586235.72 rows=56132 width=988) (actual time=3.347..79.874 rows=34.00 loops=1)
+                                       Filter: (tsv @@ '''trabaj'''::tsquery)
+                                       Rows Removed by Filter: 564
+                                       Index Searches: 1
+                                       Buffers: shared hit=923 read=321
+                                 ->  Index Scan using articulo_span_pkey on articulo_span s  (cost=0.42..1.32 rows=2 width=8) (actual time=0.449..0.449 rows=0.97 loops=34)
+                                       Index Cond: (articulo_id = a.id)
+                                       Filter: (vigencia @> CURRENT_DATE)
+                                       Rows Removed by Filter: 0
+                                       Index Searches: 34
+                                       Buffers: shared hit=92 read=44
+                           ->  Memoize  (cost=0.43..1.64 rows=1 width=94) (actual time=0.020..0.020 rows=1.00 loops=33)
+                                 Cache Key: a.id_norma
+                                 Cache Mode: logical
+                                 Hits: 5  Misses: 28  Evictions: 0  Overflows: 0  Memory Usage: 7kB
+                                 Buffers: shared hit=90 read=22
+                                 ->  Index Scan using norma_pkey on norma n  (cost=0.42..1.63 rows=1 width=94) (actual time=0.008..0.008 rows=1.00 loops=28)
+                                       Index Cond: (id_norma = a.id_norma)
+                                       Index Searches: 28
+                                       Buffers: shared hit=90 read=22
+ Planning:
+   Buffers: shared hit=129 read=84
+ Planning Time: 3.080 ms
+ Execution Time: 118.353 ms
+(39 rows)
+
+Time: 320.935 ms
+=== 6. WIDENED COLD QUERY -- RARE TERM (the best case) ===
+                                                                                                   QUERY PLAN                                                                                                   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Limit  (cost=151.90..3169.64 rows=20 width=136) (actual time=21449.140..21457.836 rows=20.00 loops=1)
+   Buffers: shared hit=760203 read=196838
+   ->  Result  (cost=151.90..641423.61 rows=4250 width=136) (actual time=21449.139..21457.830 rows=20.00 loops=1)
+         Buffers: shared hit=760203 read=196838
+         ->  Unique  (cost=151.90..640307.98 rows=4250 width=732) (actual time=21448.201..21448.215 rows=20.00 loops=1)
+               Buffers: shared hit=760161 read=196824
+               ->  Incremental Sort  (cost=151.90..640297.36 rows=4250 width=732) (actual time=21448.200..21448.206 rows=28.00 loops=1)
+                     Sort Key: n.id_norma, (ts_rank_cd(a.tsv, '''geotermi'''::tsquery)) DESC
+                     Presorted Key: n.id_norma
+                     Full-sort Groups: 1  Sort Method: quicksort  Average Memory: 48kB  Peak Memory: 48kB
+                     Buffers: shared hit=760161 read=196824
+                     ->  Nested Loop  (cost=1.27..640106.11 rows=4250 width=732) (actual time=21050.770..21448.150 rows=34.00 loops=1)
+                           Buffers: shared hit=760161 read=196824
+                           ->  Nested Loop  (cost=0.85..617187.20 rows=4250 width=980) (actual time=21050.746..21447.724 rows=34.00 loops=1)
+                                 Buffers: shared hit=759964 read=196786
+                                 ->  Index Scan using articulo_id_norma_slug_content_sha256_key on articulo a  (cost=0.42..586235.72 rows=4336 width=988) (actual time=21050.103..21430.070 rows=34.00 loops=1)
+                                       Filter: (tsv @@ '''geotermi'''::tsquery)
+                                       Rows Removed by Filter: 524720
+                                       Index Searches: 1
+                                       Buffers: shared hit=759892 read=196722
+                                 ->  Index Scan using articulo_span_pkey on articulo_span s  (cost=0.42..7.12 rows=2 width=8) (actual time=0.517..0.517 rows=1.00 loops=34)
+                                       Index Cond: (articulo_id = a.id)
+                                       Filter: (vigencia @> CURRENT_DATE)
+                                       Index Searches: 34
+                                       Buffers: shared hit=72 read=64
+                           ->  Index Scan using norma_pkey on norma n  (cost=0.42..5.39 rows=1 width=94) (actual time=0.007..0.007 rows=1.00 loops=34)
+                                 Index Cond: (id_norma = a.id_norma)
+                                 Index Searches: 34
+                                 Buffers: shared hit=98 read=38
+ Planning:
+   Buffers: shared hit=90
+ Planning Time: 0.605 ms
+ Execution Time: 21457.883 ms
+(33 rows)
+
+Time: 21656.239 ms (00:21.656)
+=== 7. HOW MUCH OF THE COST IS ts_headline? ===
+                                                                                            QUERY PLAN                                                                                             
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Limit  (cost=14.26..274.59 rows=20 width=104) (actual time=2.470..2.477 rows=20.00 loops=1)
+   Buffers: shared hit=1250 read=374
+   ->  Unique  (cost=14.26..716081.93 rows=55013 width=104) (actual time=2.469..2.473 rows=20.00 loops=1)
+         Buffers: shared hit=1250 read=374
+         ->  Incremental Sort  (cost=14.26..715944.40 rows=55013 width=104) (actual time=2.468..2.469 rows=25.00 loops=1)
+               Sort Key: n.id_norma, (ts_rank_cd(a.tsv, '''trabaj'''::tsquery)) DESC
+               Presorted Key: n.id_norma
+               Full-sort Groups: 1  Sort Method: quicksort  Average Memory: 29kB  Peak Memory: 29kB
+               Buffers: shared hit=1250 read=374
+               ->  Nested Loop  (cost=1.28..713468.81 rows=55013 width=104) (actual time=0.537..2.449 rows=33.00 loops=1)
+                     Buffers: shared hit=1250 read=374
+                     ->  Nested Loop  (cost=0.85..661612.40 rows=55013 width=352) (actual time=0.147..1.834 rows=33.00 loops=1)
+                           Buffers: shared hit=1028 read=351
+                           ->  Index Scan using articulo_id_norma_slug_content_sha256_key on articulo a  (cost=0.42..586235.72 rows=56132 width=360) (actual time=0.127..1.606 rows=34.00 loops=1)
+                                 Filter: (tsv @@ '''trabaj'''::tsquery)
+                                 Rows Removed by Filter: 564
+                                 Index Searches: 1
+                                 Buffers: shared hit=933 read=310
+                           ->  Index Scan using articulo_span_pkey on articulo_span s  (cost=0.42..1.32 rows=2 width=8) (actual time=0.006..0.006 rows=0.97 loops=34)
+                                 Index Cond: (articulo_id = a.id)
+                                 Filter: (vigencia @> CURRENT_DATE)
+                                 Rows Removed by Filter: 0
+                                 Index Searches: 34
+                                 Buffers: shared hit=95 read=41
+                     ->  Memoize  (cost=0.43..1.64 rows=1 width=94) (actual time=0.015..0.015 rows=1.00 loops=33)
+                           Cache Key: a.id_norma
+                           Cache Mode: logical
+                           Hits: 5  Misses: 28  Evictions: 0  Overflows: 0  Memory Usage: 7kB
+                           Buffers: shared hit=89 read=23
+                           ->  Index Scan using norma_pkey on norma n  (cost=0.42..1.63 rows=1 width=94) (actual time=0.004..0.004 rows=1.00 loops=28)
+                                 Index Cond: (id_norma = a.id_norma)
+                                 Index Searches: 28
+                                 Buffers: shared hit=89 read=23
+ Planning:
+   Buffers: shared hit=17 read=73
+ Planning Time: 0.786 ms
+ Execution Time: 2.519 ms
+(37 rows)
+
+Time: 198.304 ms
+=== 8. ACCENT BUG: does the spanish config unaccent? ===
+  accented   |    plain    | does_match 
+-------------+-------------+------------
+ 'articul':1 | 'articul':1 | t
+(1 row)
+
+Time: 192.034 ms
+  extname   
+------------
+ btree_gist
+ pg_trgm
+ plpgsql
+(3 rows)
+
+Time: 192.975 ms
+=== 9. TYPEAHEAD FEASIBILITY: norma-level trigram latency ===
+                                                                        QUERY PLAN                                                                        
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+ Limit  (cost=789.52..789.55 rows=12 width=98) (actual time=1437.497..1437.502 rows=12.00 loops=1)
+   Buffers: shared hit=1794 read=8455
+   ->  Sort  (cost=789.52..789.57 rows=22 width=98) (actual time=1437.495..1437.497 rows=12.00 loops=1)
+         Sort Key: (similarity(titulo, 'partidos politicos'::text)) DESC
+         Sort Method: quicksort  Memory: 27kB
+         Buffers: shared hit=1794 read=8455
+         ->  Bitmap Heap Scan on norma  (cost=703.22..789.03 rows=22 width=98) (actual time=1015.647..1437.428 rows=18.00 loops=1)
+               Recheck Cond: (titulo % 'partidos politicos'::text)
+               Rows Removed by Index Recheck: 17972
+               Heap Blocks: exact=9793
+               Buffers: shared hit=1794 read=8455
+               ->  Bitmap Index Scan on norma_titulo_trgm_idx  (cost=0.00..703.22 rows=22 width=0) (actual time=1013.605..1013.605 rows=19669.00 loops=1)
+                     Index Cond: (titulo % 'partidos politicos'::text)
+                     Index Searches: 1
+                     Buffers: shared hit=151 read=302
+ Planning:
+   Buffers: shared hit=3 read=7
+ Planning Time: 3.975 ms
+ Execution Time: 1437.645 ms
+(19 rows)
+
+Time: 1636.863 ms (00:01.637)
