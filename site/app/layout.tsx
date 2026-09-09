@@ -28,10 +28,17 @@ export const metadata: Metadata = {
     title: OG_TITLE,
     description: DESCRIPTION,
   },
+  // No title/description here: Next.js auto-fills unset twitter fields from
+  // openGraph (see resolve-metadata.js's postProcessMetadata) — but only
+  // when the *merged* twitter object has no title/description at all. If we
+  // set them here, every route that defines its own per-page openGraph
+  // (norma, guia, cambios, temas, blog — everywhere but this generic
+  // fallback) inherits this literal object unchanged instead, since none of
+  // them define their own `twitter` field. That silently pinned the Twitter
+  // Card preview to the sitewide homepage blurb on every page, while
+  // og:title/og:description were correctly per-page all along.
   twitter: {
     card: 'summary_large_image',
-    title: OG_TITLE,
-    description: DESCRIPTION,
   },
 }
 
