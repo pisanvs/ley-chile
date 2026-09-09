@@ -2,7 +2,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 import { AppShell } from '@/components/AppShell'
 import { SiteAlert } from '@/components/SiteAlert'
-import { SITE } from '@/lib/site'
+import { SITE, SITE_NAME, OG_LOCALE } from '@/lib/site'
 
 // Aligned to the landing hero copy. Reused across the base metadata, OG, and
 // Twitter so they never drift. The og:image is app/opengraph-image.png, which
@@ -19,11 +19,11 @@ export const metadata: Metadata = {
     template: '%s · LeyChile',
   },
   description: DESCRIPTION,
-  applicationName: 'LeyChile',
+  applicationName: SITE_NAME,
   openGraph: {
     type: 'website',
-    siteName: 'LeyChile',
-    locale: 'es_CL',
+    siteName: SITE_NAME,
+    locale: OG_LOCALE,
     url: SITE,
     title: OG_TITLE,
     description: DESCRIPTION,

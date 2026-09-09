@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { articleJsonLd, breadcrumbJsonLd, jsonLdScript, SITE } from '@/lib/jsonld'
+import { SITE_NAME, OG_LOCALE } from '@/lib/site'
 import { getPost, listPosts, POSTS } from '@/lib/blog'
 import { fechaLarga } from '@/lib/seo'
 
@@ -20,6 +21,8 @@ export async function generateMetadata({ params }: Props) {
     alternates: { canonical: `${SITE}/blog/${post.slug}` },
     openGraph: {
       type: 'article',
+      siteName: SITE_NAME,
+      locale: OG_LOCALE,
       title: post.title,
       description: post.description,
       publishedTime: post.published,
