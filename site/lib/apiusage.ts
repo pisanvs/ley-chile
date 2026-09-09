@@ -29,8 +29,7 @@ export async function recordUsage(
 ): Promise<void> {
   if (!KNOWN_ENDPOINTS.has(endpoint)) {
     console.error(
-      `[api] refusing to record unknown endpoint as usage: ${endpoint} — ` +
-      `endpoint must be one of the known route templates`,
+      `[api] refusing to record usage: endpoint is not a known route template (key ${keyId})`,
     )
     return
   }

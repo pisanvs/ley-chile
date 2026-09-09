@@ -19,8 +19,8 @@ export const GET = withApiKey('/v1/normas/{idNorma}/diff', async (req, ctx) => {
   if (!rawFrom || !rawTo) {
     throw new BadRequest('Both from and to are required (YYYY-MM-DD).')
   }
-  const from = parseFecha(rawFrom, rawFrom)
-  const to = parseFecha(rawTo, rawTo)
+  const from = parseFecha(rawFrom, '')
+  const to = parseFecha(rawTo, '')
 
   const norma = await getNormaById(idNorma)
   if (!norma) throw new NotFound(`No norma with idNorma ${idNorma}`)
@@ -63,5 +63,5 @@ export const GET = withApiKey('/v1/normas/{idNorma}/diff', async (req, ctx) => {
       eliminados: cambios.filter((c) => c.estado === 'eliminado').length,
     },
     cambios,
-  }, 300)
+  }, 300, req)
 })

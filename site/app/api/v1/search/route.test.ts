@@ -63,6 +63,13 @@ describe('GET /v1/search', () => {
     expect(res.status).toBe(400)
   })
 
+  it('rejects an asOf that is not a real calendar date', async () => {
+    // 2026-02-31 matches YYYY-MM-DD but does not exist. A regex-only check
+    // would let it through; parseFecha's calendar round-trip must not.
+    const res = await call('q=x&asOf=2026-02-31')
+    expect(res.status).toBe(400)
+  })
+
   it('caps limit so one call cannot ask for the whole corpus', async () => {
     runSearch.mockResolvedValue([])
     await call('q=xy&limit=9999')

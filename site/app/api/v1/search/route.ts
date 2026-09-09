@@ -1,9 +1,9 @@
 import { runSearch } from '@/lib/search'
 import { getNormasByKey, getOrganismosByIds } from '@/lib/norma'
 import { withApiKey, jsonOk, BadRequest } from '@/lib/apiroute'
+import { parseFecha } from '@/lib/apiparams'
 
 const MAX_LIMIT = 100
-const FECHA_RE = /^\d{4}-\d{2}-\d{2}$/
 
 interface Result {
   idNorma: number
@@ -25,11 +25,7 @@ export const GET = withApiKey('/v1/search', async (req) => {
   const q = url.searchParams.get('q')?.trim() ?? ''
   const tipo = url.searchParams.get('tipo')?.trim() ?? ''
   const numero = url.searchParams.get('numero')?.trim() ?? ''
-  const asOf = url.searchParams.get('asOf') ?? new Date().toISOString().slice(0, 10)
-
-  if (!FECHA_RE.test(asOf)) {
-    throw new BadRequest(`asOf must be YYYY-MM-DD, got "${asOf}"`)
-  }
+  const asOf = parseFecha(url.searchParams.get('asOf'), new Date().toISOString().slice(0, 10))
 
   const rawLimit = Number(url.searchParams.get('limit') ?? 20)
   const limit = Number.isFinite(rawLimit)

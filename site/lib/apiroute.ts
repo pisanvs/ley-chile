@@ -1,3 +1,4 @@
+import { createHash } from 'node:crypto'
 import { verifyApiKey } from './apikey'
 import { recordUsage } from './apiusage'
 
@@ -14,11 +15,26 @@ export function apiError(status: number, code: string, message: string): Respons
 }
 
 /** `private`, never `public`: these responses sit behind an Authorization
- *  header and must not be stored by a shared cache. */
-export function jsonOk(body: unknown, cacheSeconds = 0): Response {
+ *  header and must not be stored by a shared cache.
+ *
+ *  An ETag is attached only when `cacheSeconds > 0` — that scopes it to
+ *  exactly the cacheable reads (norma, article, version) the spec names, and
+ *  leaves uncacheable responses like /v1/search without one. When `req`
+ *  carries a matching `If-None-Match`, the body is dropped and a 304 is
+ *  returned instead — still routed through the caller's normal usage
+ *  recording, since this is a Response like any other. */
+export function jsonOk(body: unknown, cacheSeconds = 0, req?: Request): Response {
+  const json = JSON.stringify(body)
   const headers: Record<string, string> = { 'content-type': 'application/json' }
-  if (cacheSeconds > 0) headers['cache-control'] = `private, max-age=${cacheSeconds}`
-  return new Response(JSON.stringify(body), { status: 200, headers })
+  if (cacheSeconds > 0) {
+    headers['cache-control'] = `private, max-age=${cacheSeconds}`
+    const etag = `"${createHash('sha256').update(json).digest('hex').slice(0, 32)}"`
+    headers['etag'] = etag
+    if (req?.headers.get('if-none-match') === etag) {
+      return new Response(null, { status: 304, headers })
+    }
+  }
+  return new Response(json, { status: 200, headers })
 }
 
 /** Authenticate, time, record, and normalise errors for one endpoint.

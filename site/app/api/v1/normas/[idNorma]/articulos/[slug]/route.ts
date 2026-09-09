@@ -27,5 +27,5 @@ export const GET = withApiKey('/v1/normas/{idNorma}/articulos/{slug}', async (re
     body: truncado ? art.body.slice(0, MAX_BODY) : art.body,
     truncado,
     largoCompleto: art.body.length,
-  }, 300)
+  }, 300, req)
 })

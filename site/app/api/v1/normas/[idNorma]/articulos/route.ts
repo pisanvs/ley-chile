@@ -32,5 +32,5 @@ export const GET = withApiKey('/v1/normas/{idNorma}/articulos', async (req, ctx)
     articulos: articulos.map((a) => ({
       slug: a.slug, label: a.label, rawHeading: a.rawHeading,
     })),
-  }, 300)
+  }, 300, req)
 })

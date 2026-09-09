@@ -17,5 +17,5 @@ export const GET = withApiKey('/v1/normas/{idNorma}/raw', async (req, ctx) => {
     fecha,
     url: `https://www.leychile.cl/Navegar?idNorma=${idNorma}&idVersion=${fecha}`,
     xml: `https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=${idNorma}&idVersion=${fecha}`,
-  }, 300)
+  }, 300, req)
 })

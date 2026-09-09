@@ -101,4 +101,36 @@ describe('jsonOk', () => {
     expect(cc).not.toContain('public')
     expect(cc).toContain('max-age=300')
   })
+
+  it('sets an ETag on a cacheable response', async () => {
+    const { jsonOk } = await import('./apiroute')
+    const res = jsonOk({ a: 1 }, 300)
+    expect(res.headers.get('etag')).toMatch(/^"[0-9a-f]{32}"$/)
+  })
+
+  it('sets no ETag on a non-cacheable response', async () => {
+    const { jsonOk } = await import('./apiroute')
+    const res = jsonOk({ a: 1 })
+    expect(res.headers.get('etag')).toBeNull()
+  })
+
+  it('returns 304 with no body when If-None-Match matches the computed ETag', async () => {
+    const { jsonOk } = await import('./apiroute')
+    const first = jsonOk({ a: 1 }, 300)
+    const etag = first.headers.get('etag')
+    const req = new Request('https://x/v1/normas/1', { headers: { 'if-none-match': etag! } })
+    const res = jsonOk({ a: 1 }, 300, req)
+    expect(res.status).toBe(304)
+    expect(res.headers.get('etag')).toBe(etag)
+    expect(res.headers.get('cache-control')).toContain('private')
+    expect(await res.text()).toBe('')
+  })
+
+  it('returns 200 with the body when If-None-Match does not match', async () => {
+    const { jsonOk } = await import('./apiroute')
+    const req = new Request('https://x/v1/normas/1', { headers: { 'if-none-match': '"stale"' } })
+    const res = jsonOk({ a: 1 }, 300, req)
+    expect(res.status).toBe(200)
+    expect(await res.json()).toEqual({ a: 1 })
+  })
 })
