@@ -42,6 +42,16 @@ describe('withApiKey', () => {
     expect((await res.json()).error.code).toBe('invalid_api_key')
   })
 
+  it('503s when the key lookup itself throws, and records nothing', async () => {
+    // Distinguishes a database failure during auth (503) from an unknown or
+    // revoked key (401, tested above) — these must never collapse together.
+    verifyApiKey.mockRejectedValue(new Error('connection terminated'))
+    const res = await (await wrap(async () => Response.json({})))(req('Bearer lc_live_x'), CTX)
+    expect(res.status).toBe(503)
+    expect((await res.json()).error.code).toBe('service_unavailable')
+    expect(recordUsage).not.toHaveBeenCalled()
+  })
+
   it('runs the handler for a valid key and records the call', async () => {
     verifyApiKey.mockResolvedValue({ id: 7, label: 'Acme' })
     const res = await (await wrap(async () => Response.json({ ok: true })))(req('Bearer lc_live_x'), CTX)

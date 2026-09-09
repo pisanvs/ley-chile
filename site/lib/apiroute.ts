@@ -39,7 +39,13 @@ export function withApiKey(endpoint: string, handler: ApiHandler) {
         'Provide an API key as: Authorization: Bearer lc_live_…')
     }
 
-    const key = await verifyApiKey(m[1])
+    let key
+    try {
+      key = await verifyApiKey(m[1])
+    } catch (err) {
+      console.error(`[api] ${endpoint} auth lookup failed:`, err)
+      return apiError(503, 'service_unavailable', 'The service is temporarily unavailable.')
+    }
     if (!key) {
       return apiError(401, 'invalid_api_key', 'The API key is unknown or has been revoked.')
     }
