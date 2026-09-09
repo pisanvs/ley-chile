@@ -1,12 +1,22 @@
 import { pool } from './db'
 
-/** Endpoint strings must be route templates, not concrete paths.
+/** Known route templates that are safe to record in usage logs.
  *
- *  A digit where `{idNorma}` belongs means a caller passed the real path, which
- *  would turn this table into a record of which laws each key holder read. That
- *  is the exact data this design chose not to collect, so it is refused rather
- *  than written. */
-const TEMPLATE_RE = /^\/v1\/[a-zA-Z{}/]*$/
+ *  The usage log must never identify what a caller read. All endpoints must be
+ *  route templates (with variable segments like {idNorma}), never concrete paths.
+ *  An explicit allow-list enforces this directly. Adding a new endpoint requires
+ *  adding its template here — deliberate friction appropriate for a privacy guarantee.
+ */
+export const KNOWN_ENDPOINTS = new Set([
+  '/v1/search',
+  '/v1/normas/{idNorma}',
+  '/v1/normas/{idNorma}/articulos',
+  '/v1/normas/{idNorma}/articulos/{slug}',
+  '/v1/normas/{idNorma}/versiones',
+  '/v1/normas/{idNorma}/diff',
+  '/v1/normas/{idNorma}/modificaciones',
+  '/v1/normas/{idNorma}/raw',
+])
 
 /** Record one API call. Never throws.
  *
@@ -17,10 +27,10 @@ const TEMPLATE_RE = /^\/v1\/[a-zA-Z{}/]*$/
 export async function recordUsage(
   keyId: number, endpoint: string, status: number, durationMs: number,
 ): Promise<void> {
-  if (!TEMPLATE_RE.test(endpoint)) {
+  if (!KNOWN_ENDPOINTS.has(endpoint)) {
     console.error(
-      `[api] refusing to record a concrete path as usage: ${endpoint} — ` +
-      `endpoint must be a route template such as /v1/normas/{idNorma}`,
+      `[api] refusing to record unknown endpoint as usage: ${endpoint} — ` +
+      `endpoint must be one of the known route templates`,
     )
     return
   }

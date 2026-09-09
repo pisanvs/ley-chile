@@ -37,6 +37,19 @@ describe('recordUsage', () => {
     errorSpy.mockRestore()
   })
 
+  it('refuses a partially concretized path that would leak article identity', async () => {
+    // A path like '/v1/normas/{idNorma}/articulos/preambulo' with a concrete
+    // article slug reveals which article a caller read — the same privacy leak
+    // the guard exists to prevent, only narrower. The allow-list catches this.
+    query.mockResolvedValue({ rows: [] })
+    const errorSpy = vi.spyOn(console, 'error').mockImplementation(() => {})
+    const { recordUsage } = await import('./apiusage')
+    await recordUsage(7, '/v1/normas/{idNorma}/articulos/preambulo', 200, 5)
+    expect(query).not.toHaveBeenCalled()
+    expect(errorSpy).toHaveBeenCalled()
+    errorSpy.mockRestore()
+  })
+
   it('accepts every template the API actually uses', async () => {
     query.mockResolvedValue({ rows: [] })
     const { recordUsage } = await import('./apiusage')
