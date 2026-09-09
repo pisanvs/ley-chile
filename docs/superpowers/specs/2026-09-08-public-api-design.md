@@ -27,7 +27,7 @@ presentation layer over those same functions.
                         │              │
         ┌───────────────┴──────┬───────┴────────────┐
         │                      │                    │
-   MCP  (prose)          REST /v1 (JSON)        site pages
+   MCP  (prose)          REST /api/v1 (JSON)        site pages
 ```
 
 Behaviour that must not diverge — the 12 KB article-body cap, the `idNorma`
@@ -36,19 +36,19 @@ surfaces inherit it rather than reimplementing it.
 
 ## Endpoints
 
-All under `/v1`, all `GET`, all requiring a key.
+All under `/api/v1`, all `GET`, all requiring a key.
 
 | endpoint | returns |
 |---|---|
-| `/v1/search?q=&asOf=&limit=` | normas matching free text |
-| `/v1/search?tipo=&numero=` | normas matching a citation, all candidates |
-| `/v1/normas/{idNorma}` | metadata + article index, no bodies |
-| `/v1/normas/{idNorma}/articulos?fecha=&q=` | article index at a fecha; `q` searches **within** the norma and adds snippets |
-| `/v1/normas/{idNorma}/articulos/{slug}?fecha=` | one article body |
-| `/v1/normas/{idNorma}/versiones` | version history |
-| `/v1/normas/{idNorma}/diff?from=&to=` | structured diff between two versions |
-| `/v1/normas/{idNorma}/modificaciones` | what modified this norma, and what it modified |
-| `/v1/normas/{idNorma}/raw?fecha=` | canonical upstream leychile.cl link |
+| `/api/v1/search?q=&asOf=&limit=` | normas matching free text |
+| `/api/v1/search?tipo=&numero=` | normas matching a citation, all candidates |
+| `/api/v1/normas/{idNorma}` | metadata + article index, no bodies |
+| `/api/v1/normas/{idNorma}/articulos?fecha=&q=` | article index at a fecha; `q` searches **within** the norma and adds snippets |
+| `/api/v1/normas/{idNorma}/articulos/{slug}?fecha=` | one article body |
+| `/api/v1/normas/{idNorma}/versiones` | version history |
+| `/api/v1/normas/{idNorma}/diff?from=&to=` | structured diff between two versions |
+| `/api/v1/normas/{idNorma}/modificaciones` | what modified this norma, and what it modified |
+| `/api/v1/normas/{idNorma}/raw?fecha=` | canonical upstream leychile.cl link |
 
 ### Why `idNorma` is the addressing primitive
 
@@ -57,7 +57,7 @@ organismo, and the reader code already carries a hard-won comment: `/ley/20780`
 once resolved to a decreto whose `id_norma` happened to be 20780. Putting an
 ambiguous key in a public URL path would bake that bug into the contract.
 
-Citation-style access is served by `/v1/search?tipo=ley&numero=20780`, which
+Citation-style access is served by `/api/v1/search?tipo=ley&numero=20780`, which
 returns every candidate with its `idNorma` and `organismo` so the caller can
 disambiguate deliberately rather than accidentally.
 
@@ -65,14 +65,14 @@ disambiguate deliberately rather than accidentally.
 
 | MCP tool | REST equivalent |
 |---|---|
-| `search_laws` | `GET /v1/search` |
-| `search_articles` | `GET /v1/normas/{idNorma}/articulos?q=` |
-| `get_law` | `GET /v1/normas/{idNorma}` |
-| `get_article` | `GET /v1/normas/{idNorma}/articulos/{slug}` |
-| `list_versions` | `GET /v1/normas/{idNorma}/versiones` |
-| `diff_versions` | `GET /v1/normas/{idNorma}/diff` |
-| `get_modifications` | `GET /v1/normas/{idNorma}/modificaciones` |
-| `get_raw_link` | `GET /v1/normas/{idNorma}/raw` |
+| `search_laws` | `GET /api/v1/search` |
+| `search_articles` | `GET /api/v1/normas/{idNorma}/articulos?q=` |
+| `get_law` | `GET /api/v1/normas/{idNorma}` |
+| `get_article` | `GET /api/v1/normas/{idNorma}/articulos/{slug}` |
+| `list_versions` | `GET /api/v1/normas/{idNorma}/versiones` |
+| `diff_versions` | `GET /api/v1/normas/{idNorma}/diff` |
+| `get_modifications` | `GET /api/v1/normas/{idNorma}/modificaciones` |
+| `get_raw_link` | `GET /api/v1/normas/{idNorma}/raw` |
 
 `search_articles` becomes a query parameter rather than its own path because it
 is a filter over the same collection the bare endpoint returns — with `q` the
@@ -143,6 +143,12 @@ CREATE INDEX api_usage_ts_idx     ON api_usage (ts);
 
 **`endpoint` stores the route template, never the concrete path** —
 `/v1/normas/{idNorma}/articulos/{slug}`, not `/v1/normas/29994/articulos/a3`.
+
+Note the template is a stable **identifier**, not the URL. The served path is
+`/api/v1/…` (the handlers live under `site/app/api/`, so Next mounts them
+there); the recorded label omits the `/api` prefix. They are deliberately
+decoupled: the label is what groups a year of usage rows, and it should not
+churn if the mount point ever moves.
 
 This is the load-bearing privacy decision, not an implementation detail.
 Recording concrete paths would build a per-person record of which laws someone

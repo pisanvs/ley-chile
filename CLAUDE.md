@@ -235,6 +235,34 @@ site/ (Next.js 16)     → SSR pages + tiered search, on Railway
 
 **MCP server.** `site/app/api/[transport]/route.ts` is a stateless Streamable HTTP MCP server (`mcp-handler`) at **`https://leyes.pisanvs.cl/api/mcp`**, read-only, no auth. Tools: `search_laws`, `get_law`, `get_article`, `list_versions`, `diff_versions`, `get_modifications`, `search_articles`; output is deliberately capped (one norma can be ~350KB). The `[transport]` segment lives under `/api` because `app/[transport]` would collide with `app/[tipo]/[numero]` — static `/api/*` siblings still win over the dynamic segment.
 
+**Public REST API.** `site/app/api/v1/**` is a read-only JSON API at
+**`https://leyes.pisanvs.cl/api/v1`**, authenticated with `Authorization: Bearer
+lc_live_…`. Same data layer as the MCP server (`@/lib/norma`, `@/lib/search`) —
+JSON rather than prose. Eight endpoints covering the MCP tool set: `search`,
+`normas/{idNorma}`, `.../articulos`, `.../articulos/{slug}`, `.../versiones`,
+`.../diff`, `.../modificaciones`, `.../raw`.
+
+Keys: `SELECT issue_api_key('label')` returns the plaintext **once** (only the
+SHA-256 is stored, so it is unrecoverable after that); `SELECT
+revoke_api_key('lc_live_prefix')` revokes, effective on the next request.
+
+Usage is recorded per key in `api_usage`, storing the **route template** and
+never the concrete path — `/v1/normas/{idNorma}`, not `/v1/normas/29994` — so
+the log cannot become a record of which laws a caller read. `recordUsage`
+refuses any endpoint outside `KNOWN_ENDPOINTS` in `site/lib/apiusage.ts`, so
+**a new route must add its template there or its usage is silently never
+recorded** (a test enumerates all eight). Pruned at 90 days by
+`prune_api_usage()`.
+
+Note the recorded template omits the `/api` prefix the routes are actually
+served under: the handlers live beneath `site/app/api/`, so Next mounts them at
+`/api/v1/…`, while the usage label stays `/v1/…` as a stable identifier that
+should not churn if the mount point moves.
+
+Schema: `sql/006_api.sql` (needs `pgcrypto`) — **must be applied before the code
+deploys**, or every `/api/v1` call 503s. Docs: `docs/api.md`. Spec:
+`docs/superpowers/specs/2026-09-08-public-api-design.md`.
+
 **Local dev / running the loader:**
 
 ```bash
