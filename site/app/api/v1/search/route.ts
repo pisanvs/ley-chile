@@ -39,12 +39,15 @@ export const GET = withApiKey('/v1/search', async (req) => {
   let resultados: Result[]
 
   if (tipo && numero) {
+    // No `limit` here: a citation returns EVERY candidate, never a truncated
+    // best guess (see the doc comment above) — `getNormasByKey` deliberately
+    // takes no limit parameter either.
     const normas = await getNormasByKey(tipo, numero)
-    resultados = normas.slice(0, limit).map((n) => ({
+    resultados = normas.map((n) => ({
       idNorma: n.idNorma, tipo: n.tipo, numero: n.numero,
       titulo: n.titulo, organismo: n.organismo,
     }))
-  } else if (q.length >= 1) {
+  } else if (q.length >= 2) {
     const hits = await runSearch(q, asOf, limit)
     const orgs = await getOrganismosByIds(hits.map((h) => h.idNorma))
     resultados = hits.map((h) => ({
@@ -53,7 +56,7 @@ export const GET = withApiKey('/v1/search', async (req) => {
     }))
   } else {
     throw new BadRequest(
-      'Provide q for free-text search, or tipo and numero for a citation.',
+      'Provide q (at least 2 characters) for free-text search, or tipo and numero for a citation.',
     )
   }
 

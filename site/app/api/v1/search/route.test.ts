@@ -65,7 +65,22 @@ describe('GET /v1/search', () => {
 
   it('caps limit so one call cannot ask for the whole corpus', async () => {
     runSearch.mockResolvedValue([])
-    await call('q=x&limit=9999')
+    await call('q=xy&limit=9999')
     expect(runSearch.mock.calls[0][2]).toBe(100)
+  })
+
+  it('never truncates citation candidates, even when limit is given', async () => {
+    // limit is a free-text-search concept only. Applying it to the citation
+    // branch would silently drop candidates — exactly what idNorma addressing
+    // exists to prevent. getNormasByKey deliberately takes no limit param.
+    getNormasByKey.mockResolvedValue([
+      { ...HIT, idNorma: 1, tipo: 'dfl', numero: '1', organismo: 'TRABAJO' },
+      { ...HIT, idNorma: 2, tipo: 'dfl', numero: '1', organismo: 'SALUD' },
+      { ...HIT, idNorma: 3, tipo: 'dfl', numero: '1', organismo: 'EDUCACION' },
+    ])
+    const res = await call('tipo=dfl&numero=1&limit=1')
+    const body = await res.json()
+    expect(body.total).toBe(3)
+    expect(body.resultados.map((r: { idNorma: number }) => r.idNorma)).toEqual([1, 2, 3])
   })
 })
