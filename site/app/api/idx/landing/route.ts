@@ -1,8 +1,9 @@
 import { pool } from '@/lib/db'
+import { jsonz } from '@/lib/jsonz'
 
 /** Landing data: year-density histogram + recent publication events.
  *  Mirrors the old idx/landing.json. */
-export async function GET() {
+export async function GET(req: Request) {
   const hist = (await pool.query(
     `SELECT extract(year FROM fecha_publicacion)::int AS year, count(*)::int AS count
        FROM norma WHERE fecha_publicacion IS NOT NULL
@@ -22,7 +23,7 @@ export async function GET() {
       WHERE tipo <> '' GROUP BY tipo ORDER BY count(*) DESC`,
   )).rows
 
-  return Response.json({
+  return jsonz(req, {
     yearHistogram: hist.map((r) => ({ year: r.year, count: r.count })),
     tipos: tipos.map((r) => ({ tipo: r.tipo, count: r.count })),
     recentEvents: events.map((r) => ({
@@ -36,5 +37,10 @@ export async function GET() {
       titulo: r.titulo ?? '',
       organismo: r.organismo ?? '',
     })),
+  }, {
+    // `recentEvents` moves when the loader runs; the histogram barely moves at
+    // all. A short shared cache keeps the landing page off three sequential
+    // aggregate queries per visitor.
+    headers: { 'cache-control': 'public, max-age=120, s-maxage=600' },
   })
 }

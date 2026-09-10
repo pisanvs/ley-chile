@@ -1,6 +1,7 @@
 import { createHash } from 'node:crypto'
 import { verifyApiKey } from './apikey'
 import { recordUsage } from './apiusage'
+import { gzipJson } from './jsonz'
 
 export type RouteCtx = { params: Promise<Record<string, string>> }
 export type ApiHandler = (req: Request, ctx: RouteCtx) => Promise<Response>
@@ -28,13 +29,19 @@ export function jsonOk(body: unknown, cacheSeconds = 0, req?: Request): Response
   const headers: Record<string, string> = { 'content-type': 'application/json' }
   if (cacheSeconds > 0) {
     headers['cache-control'] = `private, max-age=${cacheSeconds}`
+    // The ETag is computed over the SERIALIZED body, before any compression, so
+    // it identifies the resource rather than a particular encoding of it. A
+    // client that switches Accept-Encoding still gets its 304.
     const etag = `"${createHash('sha256').update(json).digest('hex').slice(0, 32)}"`
     headers['etag'] = etag
     if (req?.headers.get('if-none-match') === etag) {
       return new Response(null, { status: 304, headers })
     }
   }
-  return new Response(json, { status: 200, headers })
+  // Route handlers returning their own Response bypass Next's compression, so
+  // every /v1 payload shipped uncompressed. Article bodies and repeated legal
+  // titles compress well; small responses fall through untouched.
+  return gzipJson(req, json, { status: 200, headers })
 }
 
 /** Authenticate, time, record, and normalise errors for one endpoint.

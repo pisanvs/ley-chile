@@ -1,4 +1,5 @@
 import { SITE } from '@/lib/site'
+import { jsonz } from '@/lib/jsonz'
 
 /**
  * OpenAPI 3.1 description of the public API.
@@ -462,8 +463,8 @@ const spec = {
   },
 } as const
 
-export async function GET() {
-  return Response.json(spec, {
+export async function GET(req: Request) {
+  return jsonz(req, spec, {
     headers: {
       // Public, unlike every other /v1 response: this is a schema, identical
       // for everyone, and not behind a key.
