@@ -14,6 +14,8 @@ import { ds } from '@/lib/datasource'
 import { tabs } from '@/lib/tabs'
 import { normaHref } from '@/lib/href'
 import type { Sibling } from '@/lib/norma'
+import { CiteProvider, type CiteContextValue } from '@/lib/citeContext'
+import { renderCite } from '@/lib/cite'
 
 /** Faithful port of web/'s ley.$numero.$fecha route. `fecha` optional: when
  *  absent (the undated URL) the latest version is shown. */
@@ -21,12 +23,14 @@ import type { Sibling } from '@/lib/norma'
  *  numero/id_norma collision that a client-side numero lookup hits at full
  *  corpus scale (an internal id_norma can equal an unrelated law's numero). */
 export function LawView({
-  tipo, numero, idNorma, fecha, siblings = [], siblingTotal = 1, versionBase, banner,
+  tipo, numero, idNorma, fecha, siblings = [], siblingTotal = 1, versionBase, banner, cite,
 }: {
   tipo: string
   numero: string
   idNorma: number
   fecha?: string
+  /** Norma identity for the per-article citation button. */
+  cite?: CiteContextValue
   /** Server-rendered warnings (refundido, numbering observations). Passed as a
    *  node rather than data so the metadata query stays on the server. */
   banner?: React.ReactNode
@@ -105,15 +109,19 @@ export function LawView({
   const onToggleCollapse = () => setPrefs(writePrefs({ collapseUnchanged: !prefs.collapseUnchanged }))
 
   const onCopyCitation = async () => {
-    const cite = formatCitation({
+    // Same renderer as the per-article button: one citation implementation,
+    // so the norma-level and article-level forms cannot drift apart.
+    const text = renderCite('chile', {
       tipo: idx.norma.tipo,
       numero: idx.norma.numero,
       titulo: idx.norma.titulo,
-      versionDate: active?.date ?? '',
-      url: active ? ds.textUrl(idx.relDir, active.sha) : '',
+      organismo: cite?.organismo,
+      fechaPublicacion: cite?.fechaPublicacion ?? null,
+      fecha: active?.date,
+      url: `${window.location.origin}${window.location.pathname}`,
     })
     try {
-      await navigator.clipboard.writeText(cite)
+      await navigator.clipboard.writeText(text)
       setCitationCopied(true)
       window.setTimeout(() => setCitationCopied(false), 1800)
     } catch {
@@ -227,14 +235,19 @@ export function LawView({
   )
 
   return (
-    <IDEShell
-      navigator={<Navigator activeId={idx.norma.idNorma} />}
-      center={center}
-      rightRail={<RightRail idx={idx} active={active} activeSlug={activeSlug} />}
-      // Efectos shows two panes side by side — let it fill the reading column
-      // instead of the single-column reading measure.
-      centerMaxWidth={effectiveMode === 'efectos' ? 'max-w-none' : 'max-w-3xl'}
-    />
+    // Norma identity is ambient to the whole reader, so the per-article citation
+    // button reads it from context instead of being prop-drilled through
+    // RedlineReader's three ArticleSegment call sites.
+    <CiteProvider value={cite ?? null}>
+      <IDEShell
+        navigator={<Navigator activeId={idx.norma.idNorma} />}
+        center={center}
+        rightRail={<RightRail idx={idx} active={active} activeSlug={activeSlug} />}
+        // Efectos shows two panes side by side — let it fill the reading column
+        // instead of the single-column reading measure.
+        centerMaxWidth={effectiveMode === 'efectos' ? 'max-w-none' : 'max-w-3xl'}
+      />
+    </CiteProvider>
   )
 }
 
@@ -273,19 +286,6 @@ function ModeToggle({
   )
 }
 
-function formatCitation({
-  tipo, numero, titulo, versionDate, url,
-}: { tipo: string; numero: string; titulo: string; versionDate: string; url: string }): string {
-  const head = `${capitalize(tipo)} N° ${numero}, "${truncate(titulo, 80)}"`
-  const date = versionDate ? `, versión vigente al ${versionDate}` : ''
-  return `${head}${date}.\nTexto: ${url}\nVía LeyChile`
-}
-function capitalize(s: string): string {
-  return s ? s[0].toUpperCase() + s.slice(1) : s
-}
-function truncate(s: string, n: number): string {
-  return s.length <= n ? s : s.slice(0, n - 1).trimEnd() + '…'
-}
 function Loading() {
   return <div className="opacity-60 mt-12 text-center text-sm">Cargando…</div>
 }

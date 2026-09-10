@@ -134,6 +134,14 @@ export default async function Page({ params }: Props) {
         siblings={siblings}
         siblingTotal={total}
         versionBase={canonicalHref(norma)}
+        cite={{
+          tipo: norma.tipo,
+          numero: norma.numero,
+          titulo: cleanTitulo(norma.titulo),
+          organismo: norma.organismo,
+          fechaPublicacion: norma.fechaPublicacion,
+          fecha,
+        }}
         banner={<AvisoBanner avisos={avisos} refundido={refundido} />}
       />
     </>
