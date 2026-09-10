@@ -14,6 +14,23 @@ export const SITE = (process.env.SITE_URL ?? 'https://leyes.pisanvs.cl').replace
 /** The remote MCP endpoint. Agents connect here; see /llms.txt. */
 export const MCP_PATH = '/api/mcp'
 
+/**
+ * Open Graph siteName/locale, shared by every page that sets its own
+ * `openGraph` object.
+ *
+ * Next.js's metadata merge is shallow per top-level key: a page that defines
+ * `openGraph` replaces the root layout's whole object rather than merging
+ * into it (see `mergeMetadata` in next/dist/lib/metadata/resolve-metadata.js
+ * — each case just overwrites `newResolvedMetadata[key]` with the result of
+ * resolving *that segment's own* value). So `app/layout.tsx` setting
+ * `openGraph.siteName`/`locale` only reaches routes that don't override
+ * `openGraph` at all (currently just `/temas/[slug]` and the homepage) —
+ * every route with a per-page `openGraph` (norma, guia, cambios, blog) has
+ * to repeat these explicitly or lose them.
+ */
+export const SITE_NAME = 'LeyChile'
+export const OG_LOCALE = 'es_CL'
+
 /** The public repo. Branch `historial` holds one commit per publication.
  *
  *  For humans and for anyone cloning the corpus. Don't hand GitHub URLs to

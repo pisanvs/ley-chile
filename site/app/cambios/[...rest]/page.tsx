@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { notFound, permanentRedirect } from 'next/navigation'
 import { breadcrumbJsonLd, faqJsonLd, jsonLdScript, legislationJsonLd, SITE, type FaqEntry } from '@/lib/jsonld'
+import { SITE_NAME, OG_LOCALE } from '@/lib/site'
 import { cambiosHref, canonicalHref, guiaHref } from '@/lib/href'
 import {
   currentFecha, getModifiedBy, getVersions, type ModLink, type Norma, type Version,
@@ -41,6 +42,9 @@ export async function generateMetadata({ params }: Props) {
     title: t,
     description: d,
     openGraph: {
+      type: 'website',
+      siteName: SITE_NAME,
+      locale: OG_LOCALE,
       title: t,
       description: d,
       images: [{ url: `/api/og?id=${n.idNorma}`, width: 1200, height: 630 }],

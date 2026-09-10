@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { notFound, permanentRedirect } from 'next/navigation'
 import { cleanTitulo, SITE } from '@/lib/jsonld'
+import { SITE_NAME, OG_LOCALE } from '@/lib/site'
 import {
   canonicalPath, getAvisos, getCanonicalNorma, getKeySiblings, getNormaById,
   getRefundido, getVersions,
@@ -72,6 +73,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title,
     description,
     openGraph: {
+      type: 'website',
+      siteName: SITE_NAME,
+      locale: OG_LOCALE,
       title,
       description,
       images: [{ url: `/api/og?id=${norma.idNorma}`, width: 1200, height: 630 }],
