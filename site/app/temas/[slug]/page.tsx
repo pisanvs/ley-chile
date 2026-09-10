@@ -60,10 +60,25 @@ export async function generateMetadata({ params }: Props) {
   const { slug } = await params
   const t = getTopic(slug)
   if (!t) return {}
+  const description = t.intro.slice(0, 180)
   return {
     title: t.title,
-    description: t.intro.slice(0, 180),
+    description,
     alternates: { canonical: `${SITE}/temas/${t.slug}` },
+    // Next's metadata merge is shallow per top-level key: a page that sets
+    // its own `openGraph` (as this one now must, to carry topic-specific
+    // title/description/url instead of the root layout's homepage-generic
+    // ones) fully replaces the root layout's `openGraph` object rather than
+    // merging into it — so siteName/locale have to be repeated here too, or
+    // they silently drop, matching app/layout.tsx's literals.
+    openGraph: {
+      type: 'website',
+      siteName: 'LeyChile',
+      locale: 'es_CL',
+      title: t.title,
+      description,
+      url: `${SITE}/temas/${t.slug}`,
+    },
   }
 }
 
