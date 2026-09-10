@@ -1,9 +1,9 @@
 import type { Metadata } from 'next'
 import { notFound, permanentRedirect } from 'next/navigation'
-import { cleanTitulo, SITE } from '@/lib/jsonld'
+import { cleanTitulo, jsonLdScript, legislationJsonLd, SITE } from '@/lib/jsonld'
 import {
-  canonicalPath, getAvisos, getCanonicalNorma, getKeySiblings, getNormaById,
-  getRefundido, getVersions,
+  canonicalPath, currentFecha, getAvisos, getCanonicalNorma, getKeySiblings, getModifiedBy,
+  getNormaById, getRefundido, getVersions,
 } from '@/lib/norma'
 import { canonicalHref } from '@/lib/href'
 import { normaSlug } from '@/lib/slug'
@@ -97,25 +97,40 @@ export default async function Page({ params }: Props) {
   // which is what lets the slug be regenerated freely as data improves.
   if (slug !== normaSlug(norma)) permanentRedirect(canonicalHref(norma, fecha))
 
-  const [canon, avisos, refundido] = await Promise.all([
+  const [canon, avisos, refundido, versions, modifiedBy] = await Promise.all([
     getCanonicalNorma(norma.tipo, norma.numero),
     getAvisos(norma.idNorma),
     getRefundido(norma.idNorma),
+    getVersions(norma.idNorma),
+    getModifiedBy(norma.idNorma),
   ])
   const total = canon?.total ?? 1
   // Still worth surfacing key-siblings inline: a reader who landed here from a
   // citation may well have wanted a different DFL 4.
   const siblings = total > 1 ? await getKeySiblings(norma.tipo, norma.numero, norma.idNorma) : []
   return (
-    <LawView
-      tipo={norma.tipo}
-      numero={norma.numero}
-      idNorma={norma.idNorma}
-      fecha={fecha}
-      siblings={siblings}
-      siblingTotal={total}
-      versionBase={canonicalHref(norma)}
-      banner={<AvisoBanner avisos={avisos} refundido={refundido} />}
-    />
+    <>
+      {/* THE canonical page type for the corpus (~333k pages) — the one
+          structured-data gap the /guia and /cambios siblings don't have. */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: jsonLdScript(legislationJsonLd(
+            norma, fecha ?? currentFecha(versions), versions,
+            modifiedBy.map((m) => Number(m.numero)).filter(Number.isFinite),
+          )),
+        }}
+      />
+      <LawView
+        tipo={norma.tipo}
+        numero={norma.numero}
+        idNorma={norma.idNorma}
+        fecha={fecha}
+        siblings={siblings}
+        siblingTotal={total}
+        versionBase={canonicalHref(norma)}
+        banner={<AvisoBanner avisos={avisos} refundido={refundido} />}
+      />
+    </>
   )
 }
