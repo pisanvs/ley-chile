@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { notFound, permanentRedirect } from 'next/navigation'
 import { cleanTitulo, jsonLdScript, legislationJsonLd, SITE } from '@/lib/jsonld'
+import { SITE_NAME, OG_LOCALE } from '@/lib/site'
 import {
   canonicalPath, currentFecha, getAvisos, getCanonicalNorma, getKeySiblings, getModifiedBy,
   getNormaById, getRefundido, getVersions,
@@ -70,7 +71,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     `Publicada el ${fechaLarga(norma.fechaPublicacion)}. Texto completo, historial de versiones y modificaciones.`
   return {
     title,
+    description,
     openGraph: {
+      type: 'website',
+      siteName: SITE_NAME,
+      locale: OG_LOCALE,
       title,
       description,
       images: [{ url: `/api/og?id=${norma.idNorma}`, width: 1200, height: 630 }],
