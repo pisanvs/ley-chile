@@ -1,4 +1,5 @@
 import { pool } from '@/lib/db'
+import { jsonz } from '@/lib/jsonz'
 
 /** Publication events for one year — mirrors idx/by-year/{year}.json. Powers the
  *  landing's year-filter drill-down (YearRibbon click).
@@ -19,14 +20,14 @@ import { pool } from '@/lib/db'
  *  The year is matched as a half-open date range rather than
  *  `extract(year FROM desde)`, which is index-eligible if an index on
  *  `version.desde` is ever added. Identical semantics, no numeric cast. */
-export async function GET(_req: Request, ctx: { params: Promise<{ year: string }> }) {
+export async function GET(req: Request, ctx: { params: Promise<{ year: string }> }) {
   const { year } = await ctx.params
 
   // Strict: `Number.isFinite` alone accepted "2022.5" and "1e9", which then
   // reached make_date() as garbage.
-  if (!/^\d{4}$/.test(year)) return Response.json([])
+  if (!/^\d{4}$/.test(year)) return jsonz(req, [])
   const y = Number(year)
-  if (y < 1800 || y > 2100) return Response.json([])
+  if (y < 1800 || y > 2100) return jsonz(req, [])
 
   const { rows } = await pool.query(
     `SELECT v.desde, v.causa_id, v.subject, n.id_norma, n.numero, n.tipo, n.titulo, n.organismo
@@ -38,7 +39,8 @@ export async function GET(_req: Request, ctx: { params: Promise<{ year: string }
     [y],
   )
 
-  return Response.json(
+  return jsonz(
+    req,
     rows.map((r) => ({
       sha: r.desde,
       date: r.desde,
