@@ -55,7 +55,7 @@ usa search_articles para ubicar el artículo relevante primero.
 - ${SITE}/api/text/{idNorma}/{fecha}   — texto markdown reconstruido de una versión
 - ${SITE}/api/idx/modifies/{idNorma}   — normas que ESTA modificó (JSON)
 - ${SITE}/api/idx/modified_by/{idNorma}— normas que modificaron a ESTA (JSON)
-- ${SITE}/sitemap.xml                  — índice de sitemaps
+- ${SITE}/robots.txt                   — lista todos los sitemaps (no hay índice único en /sitemap.xml)
 
 \`tipo\` ∈ ley, dl, dfl, dto, cod, res, … · \`numero\` es el número de la norma
 (no el idNorma interno). Ojo: algunos numeros contienen caracteres especiales
