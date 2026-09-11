@@ -1,11 +1,15 @@
 import { ImageResponse } from 'next/og'
 
+import { CITE_FORMATS } from '@/lib/cite'
 import { loadOgFonts } from '@/lib/og/fonts'
 import { renderCitarCard } from '@/lib/og/citarCard'
 
 export const size = { width: 1200, height: 630 }
 export const contentType = 'image/png'
-export const alt = 'Cómo citar una ley chilena — generador de citas en ocho formatos'
+// Counted, not spelled out: the card's chips come from CITE_FORMATS, so a
+// hardcoded number goes stale the moment a format is added — which it was.
+export const alt =
+  `Cómo citar una ley chilena — generador de citas en ${CITE_FORMATS.length} formatos`
 
 /**
  * `/citar`'s share card, via the `opengraph-image` file convention.
