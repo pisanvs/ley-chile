@@ -5,6 +5,8 @@ import Link from 'next/link'
 import { annotations, type HighlightColor } from '@/lib/annotations'
 import { SelectionToolbar } from '@/components/SelectionToolbar'
 import { NotePopover } from '@/components/NotePopover'
+import { CiteButton } from '@/components/CiteButton'
+import { useCiteSource } from '@/lib/citeContext'
 
 type Status = 'unchanged' | 'modified' | 'added' | 'removed'
 
@@ -59,6 +61,7 @@ export function ArticleSegment({
   }, [])
 
   const ann = annotations.for(idNorma, slug)
+  const citeSource = useCiteSource()
 
   // Apply highlights as inline marks after each render.
   useEffect(() => {
@@ -144,13 +147,18 @@ export function ArticleSegment({
           >
             {heading}
           </h2>
-          <button
-            onClick={onPermalink}
-            title="Copiar enlace permanente"
-            className="opacity-0 group-hover/header:opacity-100 transition text-[10px] text-ink-faint hover:text-indigo px-1.5 py-0.5 border border-rule rounded font-mono"
-          >
-            #
-          </button>
+          <span className="opacity-0 group-hover/header:opacity-100 focus-within:opacity-100 transition inline-flex items-center gap-1.5">
+            <button
+              onClick={onPermalink}
+              title="Copiar enlace permanente"
+              className="text-[10px] text-ink-faint hover:text-indigo px-1.5 py-0.5 border border-rule rounded font-mono"
+            >
+              #
+            </button>
+            {citeSource && (
+              <CiteButton source={{ ...citeSource, articulo: heading }} slug={slug} />
+            )}
+          </span>
           {causaId && causaId !== idNorma && (
             <Link
               href={`/ley/${causaId}`}
