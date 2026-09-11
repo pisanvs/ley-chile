@@ -75,6 +75,39 @@ export function normaName(s: CiteSource): string {
   return `${kind} N° ${prettyNumero(s.numero)}`
 }
 
+/**
+ * Tipos whose number does not identify a norma.
+ *
+ * A ley number is unique; a decreto number is not remotely. The corpus holds
+ * 227 normas called "DFL 1" and 525 called "DTO 1", from different organismos
+ * and different years, so "Decreto N° 1" names a family, not a norma — and a
+ * reader given that citation cannot reach the text that was cited.
+ */
+const AMBIGUOUS_TIPOS = new Set(['dto', 'dfl', 'dl', 'res'])
+
+/**
+ * The norma's name, with enough to identify it.
+ *
+ * Chilean legal writing disambiguates a decreto by its issuing organismo and
+ * year — "el decreto con fuerza de ley N° 1, de 2007, de los Ministerios de
+ * Transportes y Telecomunicaciones y de Justicia" is how ley 21.579 refers to
+ * one. This adds the organismo and stops there.
+ *
+ * The year is deliberately omitted. That "de 2007" is the year the decree was
+ * *dictated*, and the corpus carries only the publication date — which for that
+ * very DFL is 2009. `fechaPromulgacion` exists upstream in the pipeline but was
+ * never loaded into Postgres, so printing a year here would mean printing the
+ * wrong one about as often as not. An incomplete citation is a nuisance; a
+ * citation with a confident, wrong year in it is a trap, and this tool is used
+ * by people who will be marked on the result. The organismo alone already
+ * separates the 227 "DFL 1"s into groups of a handful.
+ */
+function citeName(s: CiteSource): string {
+  const base = normaName(s)
+  if (!AMBIGUOUS_TIPOS.has(s.tipo) || !s.organismo?.trim()) return base
+  return `${base}, del ${titleCase(s.organismo)}`
+}
+
 /** "28/08/1999" — the date form the Revista Chilena de Derecho uses. */
 function slashDate(iso?: string | null): string | null {
   if (!iso || !/^\d{4}-\d{2}-\d{2}$/.test(iso)) return null
@@ -154,7 +187,9 @@ function artShort(articulo?: string): string | null {
 const DO = 'Diario Oficial de la República de Chile'
 
 export function renderCite(fmt: CiteFormat, s: CiteSource, today = new Date()): string {
-  const name = normaName(s)
+  // Every prose format cites through `citeName`, which carries the organismo
+  // for the tipos whose number alone names a family of normas rather than one.
+  const name = citeName(s)
   const art = artShort(s.articulo)
   const pub = longDate(s.fechaPublicacion)
   const year = yearOf(s.fechaPublicacion)
@@ -225,9 +260,11 @@ export function renderCite(fmt: CiteFormat, s: CiteSource, today = new Date()): 
 
     case 'bibtex': {
       const key = `${s.tipo}${s.numero}`.replace(/[^a-zA-Z0-9]/g, '')
+      // `institution` already carries the organismo, so the short name is used
+      // here rather than repeating it inside the title.
       return [
         `@legislation{${key},`,
-        `  title        = {${name}${art ? `, ${art}` : ''}},`,
+        `  title        = {${normaName(s)}${art ? `, ${art}` : ''}},`,
         s.titulo ? `  subtitle     = {${s.titulo}},` : null,
         `  journal      = {${DO}},`,
         year ? `  year         = {${year}},` : null,
@@ -242,7 +279,8 @@ export function renderCite(fmt: CiteFormat, s: CiteSource, today = new Date()): 
       // TY - STAT is the RIS type for a statute; Zotero and Mendeley both map it.
       return [
         'TY  - STAT',
-        `TI  - ${name}${art ? `, ${art}` : ''}`,
+        // PB carries the organismo; no need to repeat it in the title.
+        `TI  - ${normaName(s)}${art ? `, ${art}` : ''}`,
         s.titulo ? `T2  - ${s.titulo}` : null,
         `JO  - ${DO}`,
         s.fechaPublicacion ? `DA  - ${s.fechaPublicacion.replace(/-/g, '/')}` : null,

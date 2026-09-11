@@ -235,3 +235,56 @@ describe('sentenceCase / titleCase', () => {
     )
   })
 })
+
+describe('disambiguation — a number alone does not name a decreto', () => {
+  // The corpus holds 227 normas called "DFL 1" and 525 called "DTO 1". The
+  // /citar FAQ and the hub post both say a citation must therefore carry the
+  // organismo; for a while the tool said so and then emitted "Decreto con
+  // Fuerza de Ley N° 1" with no organismo anywhere in it.
+  const dfl: CiteSource = {
+    tipo: 'dfl', numero: '1', titulo: 'FIJA TEXTO REFUNDIDO DE LA LEY DE TRÁNSITO',
+    organismo: 'MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES',
+    fechaPublicacion: '2009-02-07', url: 'https://leyes.pisanvs.cl/norma/1007469',
+  }
+
+  it('names the organismo in every prose format', () => {
+    for (const fmt of ['chile', 'apa', 'mla', 'chicago'] as const) {
+      expect(renderCite(fmt, dfl)).toContain('Ministerio de Transportes y Telecomunicaciones')
+    }
+  })
+
+  it('does not print a year for the decreto itself', () => {
+    // "DFL 1, de 2007" is the year it was dictated; the corpus only has the
+    // publication date, 2009. fechaPromulgacion is not loaded into Postgres,
+    // so any year printed here would be wrong as often as right.
+    expect(renderCite('chile', dfl)).not.toContain('de 2007')
+    expect(renderCite('chile', dfl)).toBe(
+      'Decreto con Fuerza de Ley N° 1, del Ministerio de Transportes y Telecomunicaciones, ' +
+      'Diario Oficial, 7 de febrero de 2009.',
+    )
+  })
+
+  it('leaves a ley alone, since its number is unique', () => {
+    expect(renderCite('chile', LEY)).not.toContain('Ministerio')
+  })
+
+  it('degrades cleanly when the organismo is missing', () => {
+    expect(renderCite('chile', { ...dfl, organismo: '' })).toBe(
+      'Decreto con Fuerza de Ley N° 1, Diario Oficial, 7 de febrero de 2009.',
+    )
+  })
+
+  it('does not duplicate the organismo in BibTeX and RIS', () => {
+    // Both carry it in a field of their own (institution / PB).
+    expect(renderCite('bibtex', dfl)).toContain('title        = {Decreto con Fuerza de Ley N° 1}')
+    expect(renderCite('ris', dfl)).toContain('TI  - Decreto con Fuerza de Ley N° 1')
+  })
+
+  it('follows the journal for RChD, which does not disambiguate either', () => {
+    // "Chile, Decreto Nº 873. Aprueba Convención Americana…" — the style puts
+    // the burden on the title, and the examples carry no organismo.
+    expect(renderCite('rchd', dfl)).toBe(
+      'Chile, Decreto con Fuerza de Ley Nº 1. Fija texto refundido de la ley de tránsito (07/02/2009).',
+    )
+  })
+})
