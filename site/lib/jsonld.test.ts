@@ -61,7 +61,7 @@ describe('cleanTitulo', () => {
 
 describe('RESERVED_TIPOS', () => {
   it('protects app routes from the tipo namespace', () => {
-    for (const r of ['buscar', 'api', 'sitemap', '_next']) {
+    for (const r of ['buscar', 'api', 'sitemap', '_next', 'citar']) {
       expect(RESERVED_TIPOS.has(r)).toBe(true)
     }
     expect(RESERVED_TIPOS.has('ley')).toBe(false)
