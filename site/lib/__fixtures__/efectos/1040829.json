@@ -1,0 +1,257 @@
+{
+  "efectos": [
+    {
+      "target": {
+        "idNorma": 1984,
+        "tipo": "cod",
+        "numero": "PENAL",
+        "titulo": "CÓDIGO PENAL",
+        "nombresUsoComun": []
+      },
+      "fecha": "2012-06-08",
+      "more": 0,
+      "articles": [
+        {
+          "slug": "art-21",
+          "label": "articulo 21",
+          "rawHeading": "Artículo 21",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-49",
+          "label": "articulo 49",
+          "rawHeading": "Artículo 49",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-49-bis",
+          "label": "articulo 49 bis",
+          "rawHeading": "Artículo 49 bis",
+          "status": "added",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-49-ter",
+          "label": "articulo 49 ter",
+          "rawHeading": "Artículo 49 ter",
+          "status": "added",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-49-quater",
+          "label": "articulo 49 quater",
+          "rawHeading": "Artículo 49 quáter",
+          "status": "added",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-49",
+          "label": "articulo 49",
+          "rawHeading": "Artículo 49",
+          "status": "added",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-49",
+          "label": "articulo 49",
+          "rawHeading": "Artículo 49",
+          "status": "added",
+          "prevBody": "",
+          "currBody": ""
+        }
+      ],
+      "totalArticles": 579
+    },
+    {
+      "target": {
+        "idNorma": 7098,
+        "tipo": "dl",
+        "numero": "3346",
+        "titulo": "FIJA EL TEXTO DE LA LEY ORGANICA DEL MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS",
+        "nombresUsoComun": []
+      },
+      "fecha": "2012-06-08",
+      "more": 0,
+      "articles": [
+        {
+          "slug": "preambulo",
+          "label": "__preamble__",
+          "rawHeading": "",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-1",
+          "label": "articulo 1",
+          "rawHeading": "Artículo 1°",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-2",
+          "label": "articulo 2",
+          "rawHeading": "Artículo 2°",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-3",
+          "label": "articulo 3",
+          "rawHeading": "Artículo 3°",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-4",
+          "label": "articulo 4",
+          "rawHeading": "Artículo 4",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-5",
+          "label": "articulo 5",
+          "rawHeading": "Artículo 5°",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-7",
+          "label": "articulo 7",
+          "rawHeading": "Artículo 7°",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-8",
+          "label": "articulo 8",
+          "rawHeading": "Artículo 8°",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-9",
+          "label": "articulo 9",
+          "rawHeading": "Artículo 9°",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-10",
+          "label": "articulo 10",
+          "rawHeading": "Artículo 10",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-11",
+          "label": "articulo 11",
+          "rawHeading": "Artículo 11",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-12",
+          "label": "articulo 12",
+          "rawHeading": "Artículo 12",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-13",
+          "label": "articulo 13",
+          "rawHeading": "Artículo 13",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-14",
+          "label": "articulo 14",
+          "rawHeading": "Artículo 14",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-15",
+          "label": "articulo 15",
+          "rawHeading": "Artículo 15",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-16",
+          "label": "articulo 16",
+          "rawHeading": "Artículo 16",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-17",
+          "label": "articulo 17",
+          "rawHeading": "Artículo 17",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-1",
+          "label": "articulo 1",
+          "rawHeading": "Artículo 1°",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-2",
+          "label": "articulo 2",
+          "rawHeading": "Artículo 2°",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-14-bis",
+          "label": "articulo 14 bis",
+          "rawHeading": "Artículo 14 bis",
+          "status": "removed",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-18",
+          "label": "articulo 18",
+          "rawHeading": "Artículo 18",
+          "status": "removed",
+          "prevBody": "",
+          "currBody": ""
+        }
+      ],
+      "totalArticles": 20
+    }
+  ],
+  "truncated": false
+}

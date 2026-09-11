@@ -29,6 +29,9 @@ export interface Efecto {
   articles: EfectoArticle[]
   /** How many changed articles exist beyond those returned (cap applied). */
   more: number
+  /** Articles the target had in this version — the denominator for deciding
+   *  whether a diff is a legislative change or a re-transcription. */
+  totalArticles: number
 }
 
 // Bounds so a sweeping modificatoria ("modifica diversos cuerpos legales") can't
@@ -105,6 +108,7 @@ export async function getEfectos(
       fecha,
       articles,
       more: Math.max(0, changed.length - articles.length),
+      totalArticles: Math.max(curr.length, prev.length),
     })
   }
 
