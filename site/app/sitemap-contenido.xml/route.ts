@@ -40,6 +40,12 @@ export async function GET() {
     { loc: `${SITE}/cambios` },
     { loc: `${SITE}/temas` },
     { loc: `${SITE}/blog` },
+    // Tool/docs pages with no on-site nav link (the persistent nav only has
+    // room for Temas/Guías/Cambios/Blog) — without a sitemap entry these have
+    // no path to discovery at all. /citar is reachable via the citation blog
+    // posts, but /api had zero internal inlinks anywhere on the site.
+    { loc: `${SITE}/citar` },
+    { loc: `${SITE}/api` },
     ...TOPICS.map((t) => ({ loc: `${SITE}/temas/${t.slug}` })),
     ...listPosts().map((p) => ({
       loc: `${SITE}/blog/${p.slug}`,

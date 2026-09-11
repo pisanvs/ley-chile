@@ -1,13 +1,28 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import { SITE } from '@/lib/jsonld'
+import { SITE_NAME, OG_LOCALE } from '@/lib/site'
 import { TOPICS } from '@/lib/topics'
 
+const OG_TITLE = 'Temas — las leyes chilenas que más se buscan'
+const DESCRIPTION =
+  'Ley Karin, ley de arriendo, ley del consumidor, ley de datos personales. El nombre coloquial, el número real, y el texto de cada versión.'
+
+// `openGraph` replaces the root layout's object rather than merging into it,
+// so siteName/locale are repeated here — see the note in lib/site.ts. Without
+// this, sharing /temas showed the homepage's title/description/url instead.
 export const metadata: Metadata = {
-  title: 'Temas — las leyes chilenas que más se buscan',
-  description:
-    'Ley Karin, ley de arriendo, ley del consumidor, ley de datos personales. El nombre coloquial, el número real, y el texto de cada versión.',
+  title: OG_TITLE,
+  description: DESCRIPTION,
   alternates: { canonical: `${SITE}/temas` },
+  openGraph: {
+    type: 'website',
+    siteName: SITE_NAME,
+    locale: OG_LOCALE,
+    title: OG_TITLE,
+    description: DESCRIPTION,
+    url: `${SITE}/temas`,
+  },
 }
 
 export default function Page() {

@@ -7,14 +7,29 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 import { pool } from '@/lib/db'
 import { SITE } from '@/lib/jsonld'
+import { SITE_NAME, OG_LOCALE } from '@/lib/site'
 import { GUIA_TIPOS, MIN_GUIA_ARTICLES, prettyNumero, tipoLabel } from '@/lib/seo'
 import { TOPICS } from '@/lib/topics'
 
+const OG_TITLE = 'Guías — qué dice cada ley chilena'
+const DESCRIPTION =
+  'Resumen, articulado y versiones de las leyes, decretos ley, DFL y códigos chilenos. Texto real, no una ficha.'
+
+// `openGraph` replaces the root layout's object rather than merging into it,
+// so siteName/locale are repeated here — see the note in lib/site.ts. Without
+// this, sharing /guia showed the homepage's title/description/url instead.
 export const metadata: Metadata = {
-  title: 'Guías — qué dice cada ley chilena',
-  description:
-    'Resumen, articulado y versiones de las leyes, decretos ley, DFL y códigos chilenos. Texto real, no una ficha.',
+  title: OG_TITLE,
+  description: DESCRIPTION,
   alternates: { canonical: `${SITE}/guia` },
+  openGraph: {
+    type: 'website',
+    siteName: SITE_NAME,
+    locale: OG_LOCALE,
+    title: OG_TITLE,
+    description: DESCRIPTION,
+    url: `${SITE}/guia`,
+  },
 }
 
 interface Row { tipo: string; numero: string; titulo: string; versions: number; arts: number }
