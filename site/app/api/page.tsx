@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 
-import { SITE } from '@/lib/site'
+import { SITE, SITE_NAME, OG_LOCALE } from '@/lib/site'
 import { CopyBlock } from '@/components/CopyBlock'
 
 /**
@@ -21,12 +21,26 @@ import { CopyBlock } from '@/components/CopyBlock'
  * prerenders as static content.
  */
 
+const OG_TITLE = 'API — el corpus jurídico chileno en JSON'
+const DESCRIPTION =
+  'API REST de sólo lectura sobre las 333.026 normas chilenas: búsqueda, articulado, ' +
+  'versiones históricas y diffs entre ellas. Autenticada con API key.'
+
+// `openGraph` replaces the root layout's object rather than merging into it,
+// so siteName/locale are repeated here — see the note in lib/site.ts. Without
+// this, sharing /api showed the homepage's title/description/url instead.
 export const metadata: Metadata = {
-  title: 'API — el corpus jurídico chileno en JSON',
-  description:
-    'API REST de sólo lectura sobre las 333.026 normas chilenas: búsqueda, articulado, ' +
-    'versiones históricas y diffs entre ellas. Autenticada con API key.',
+  title: OG_TITLE,
+  description: DESCRIPTION,
   alternates: { canonical: `${SITE}/api` },
+  openGraph: {
+    type: 'website',
+    siteName: SITE_NAME,
+    locale: OG_LOCALE,
+    title: OG_TITLE,
+    description: DESCRIPTION,
+    url: `${SITE}/api`,
+  },
 }
 
 const BASE = `${SITE}/api/v1`

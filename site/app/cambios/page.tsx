@@ -7,13 +7,28 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 import { pool } from '@/lib/db'
 import { SITE } from '@/lib/jsonld'
+import { SITE_NAME, OG_LOCALE } from '@/lib/site'
 import { prettyNumero, tipoLabel } from '@/lib/seo'
 
+const OG_TITLE = 'Qué cambió — historial de modificaciones de las leyes chilenas'
+const DESCRIPTION =
+  'Las normas chilenas que más han cambiado, con cada versión, la norma que la causó y el diff palabra por palabra.'
+
+// `openGraph` replaces the root layout's object rather than merging into it,
+// so siteName/locale are repeated here — see the note in lib/site.ts. Without
+// this, sharing /cambios showed the homepage's title/description/url instead.
 export const metadata: Metadata = {
-  title: 'Qué cambió — historial de modificaciones de las leyes chilenas',
-  description:
-    'Las normas chilenas que más han cambiado, con cada versión, la norma que la causó y el diff palabra por palabra.',
+  title: OG_TITLE,
+  description: DESCRIPTION,
   alternates: { canonical: `${SITE}/cambios` },
+  openGraph: {
+    type: 'website',
+    siteName: SITE_NAME,
+    locale: OG_LOCALE,
+    title: OG_TITLE,
+    description: DESCRIPTION,
+    url: `${SITE}/cambios`,
+  },
 }
 
 interface Row { tipo: string; numero: string; titulo: string; mods: number; versions: number; last: string }
