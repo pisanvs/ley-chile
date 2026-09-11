@@ -13,7 +13,7 @@ import { CiteFormatList } from '@/components/CiteFormatList'
 import { normaName, type CiteSource } from '@/lib/cite'
 
 /**
- * `/citar` — find a Chilean norma and get its citation in eight formats.
+ * `/citar` — find a Chilean norma and get its citation in nine formats.
  *
  * Server-rendered on purpose. The point of this page is to rank for "cómo citar
  * una ley chilena" and its variants, so the guide has to be in the HTML, and

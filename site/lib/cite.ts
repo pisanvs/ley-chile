@@ -15,7 +15,7 @@
  */
 
 export type CiteFormat =
-  | 'chile' | 'apa' | 'mla' | 'chicago' | 'bibtex' | 'ris' | 'markdown' | 'url'
+  | 'chile' | 'rchd' | 'apa' | 'mla' | 'chicago' | 'bibtex' | 'ris' | 'markdown' | 'url'
 
 export interface CiteSource {
   tipo: string
@@ -75,6 +75,75 @@ export function normaName(s: CiteSource): string {
   return `${kind} N° ${prettyNumero(s.numero)}`
 }
 
+/** "28/08/1999" — the date form the Revista Chilena de Derecho uses. */
+function slashDate(iso?: string | null): string | null {
+  if (!iso || !/^\d{4}-\d{2}-\d{2}$/.test(iso)) return null
+  const [y, m, d] = iso.split('-')
+  return `${d}/${m}/${y}`
+}
+
+// Words a Spanish title leaves lowercase when the rest is capitalised.
+const MINOR_WORDS = new Set([
+  'de', 'del', 'la', 'las', 'el', 'los', 'y', 'e', 'o', 'u', 'en', 'a', 'al',
+  'con', 'por', 'para', 'sobre', 'sin', 'que', 'su', 'sus', 'un', 'una',
+])
+
+/**
+ * Recase a title the corpus stores in capitals.
+ *
+ * LeyChile stores every título uppercase — "SOBRE PROTECCIÓN DE LA VIDA
+ * PRIVADA" — and no citation style prints it that way, so it has to be recased
+ * to be usable at all.
+ *
+ * The loss is real and worth stating: uppercase source text carries no signal
+ * about which words were proper nouns, so "RINDE HOMENAJE PÓSTUMO A DON LUIS
+ * RICARTE SOTO GALLEGOS" comes back as "…don luis ricarte soto gallegos". No
+ * heuristic recovers that, and inventing one would be guessing at names. The
+ * `/citar` page says so beside the format; a title with a person or place in it
+ * needs a human to fix the capitals.
+ *
+ * A title that is not uppercase is left exactly as written — it already carries
+ * the distinction this function cannot reconstruct.
+ */
+export function sentenceCase(s: string): string {
+  const t = s.trim()
+  if (!t || t !== t.toUpperCase()) return t
+  const lower = t.toLocaleLowerCase('es')
+  return lower.charAt(0).toLocaleUpperCase('es') + lower.slice(1)
+}
+
+/** Title case for names that are titles: "CÓDIGO PENAL" → "Código Penal". */
+export function titleCase(s: string): string {
+  const t = s.trim()
+  if (!t || t !== t.toUpperCase()) return t
+  return t
+    .toLocaleLowerCase('es')
+    .split(/(\s+)/)
+    .map((w, i) =>
+      /^\s+$/.test(w) || (i > 0 && MINOR_WORDS.has(w))
+        ? w
+        : w.charAt(0).toLocaleUpperCase('es') + w.slice(1),
+    )
+    .join('')
+}
+
+/**
+ * The norma's name in the Revista Chilena de Derecho's form.
+ *
+ * Differs from `normaName` in its ordinal mark: the journal writes "Nº" (N +
+ * masculine ordinal) where the rest of the site writes "N°" (N + degree sign).
+ * They look nearly identical and are not the same character; a reference list
+ * that mixes them is visibly inconsistent to the copy editor reading it.
+ */
+function rchdName(s: CiteSource): string {
+  const label: Record<string, string> = {
+    ley: 'Ley', dl: 'Decreto Ley', dfl: 'Decreto con Fuerza de Ley',
+    dto: 'Decreto', res: 'Resolución',
+  }
+  const kind = label[s.tipo] ?? s.tipo.toUpperCase()
+  return `${kind} Nº ${prettyNumero(s.numero)}`
+}
+
 /** "art. 12" from "Artículo 12" — citation styles abbreviate. */
 function artShort(articulo?: string): string | null {
   if (!articulo) return null
@@ -109,6 +178,32 @@ export function renderCite(fmt: CiteFormat, s: CiteSource, today = new Date()): 
         art,
         pub ? `${DO.replace(' de la República de Chile', '')}, ${pub}` : null,
       ].filter(Boolean).join(', ') + '.'
+
+    case 'rchd': {
+      // Revista Chilena de Derecho's legislation entry:
+      //   Chile, Ley Nº 19.628. Sobre protección de la vida privada (28/08/1999).
+      //   Chile, Constitución Política de la República (11/08/1980).
+      //
+      // Jurisdiction first, then the norma, then its title in sentence case,
+      // then the publication date as DD/MM/YYYY. No Diario Oficial and no URL —
+      // neither appears in the journal's entries.
+      //
+      // A named norma (a código, the Constitución) carries its title as its
+      // name, so it is printed once rather than repeated.
+      const named = s.tipo === 'cod'
+      const head = named ? titleCase(s.titulo) : rchdName(s)
+      const body = named ? '' : sentenceCase(s.titulo)
+      const when = slashDate(s.fechaPublicacion)
+      // The examples are reference-list entries for whole normas, so the
+      // article is an extension of the style rather than something observed in
+      // it; it goes where the rest of the identifier goes.
+      return (
+        `Chile, ${head}${art ? `, ${art}` : ''}` +
+        (body ? `. ${body}` : '') +
+        (when ? ` (${when})` : '') +
+        '.'
+      )
+    }
 
     case 'apa':
       // APA 7 defers to local convention for non-US statutes; this follows its
@@ -162,6 +257,9 @@ export function renderCite(fmt: CiteFormat, s: CiteSource, today = new Date()): 
 
 export const CITE_FORMATS: { id: CiteFormat; label: string; hint?: string }[] = [
   { id: 'chile', label: 'Cita legal', hint: 'uso chileno' },
+  // The hint is a warning, not a feature note: the corpus stores títulos in
+  // capitals, so the recased title cannot know which words were proper nouns.
+  { id: 'rchd', label: 'Rev. Chilena de Derecho', hint: 'revisa nombres propios' },
   { id: 'apa', label: 'APA 7' },
   { id: 'mla', label: 'MLA 9' },
   { id: 'chicago', label: 'Chicago' },

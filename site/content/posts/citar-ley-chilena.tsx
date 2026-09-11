@@ -114,7 +114,7 @@ export default function Post() {
 
       <P>
         En <Link href="/citar">la herramienta de citación</Link> puedes buscar cualquier norma,
-        elegir la versión, y copiar la cita en los ocho formatos. Dentro del lector, cada artículo
+        elegir la versión, y copiar la cita en los nueve formatos. Dentro del lector, cada artículo
         tiene un botón «citar» que hace lo mismo para ese artículo en particular.
       </P>
     </>

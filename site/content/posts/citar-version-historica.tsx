@@ -93,7 +93,7 @@ export default function Post() {
 
       <P>
         En <Link href="/citar">la herramienta de citación</Link> puedes elegir la versión y copiar
-        la cita ya fechada, en cualquiera de los ocho formatos. La guía general está en{' '}
+        la cita ya fechada, en cualquiera de los nueve formatos. La guía general está en{' '}
         <Link href="/blog/citar-ley-chilena">cómo citar una ley chilena</Link>, y el detalle de APA
         en <Link href="/blog/citar-ley-apa">cómo citar una ley en APA 7</Link>.
       </P>

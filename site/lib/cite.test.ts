@@ -1,6 +1,14 @@
 import { describe, it, expect } from 'vitest'
 
-import { renderCite, normaName, prettyNumero, CITE_FORMATS, type CiteSource } from './cite'
+import {
+  renderCite,
+  normaName,
+  prettyNumero,
+  sentenceCase,
+  titleCase,
+  CITE_FORMATS,
+  type CiteSource,
+} from './cite'
 
 const LEY: CiteSource = {
   tipo: 'ley',
@@ -131,5 +139,99 @@ describe('renderCite', () => {
     // any Date built from a bare YYYY-MM-DD in a positive-offset zone.
     expect(renderCite('chile', { ...LEY, fechaPublicacion: '2024-01-01' }, FIXED_TODAY))
       .toContain('1 de enero de 2024')
+  })
+})
+
+describe('renderCite — Revista Chilena de Derecho', () => {
+  // Asserted against entries copied from the journal's own reference lists.
+  const mk = (over: Partial<CiteSource>): CiteSource => ({
+    tipo: 'ley', numero: '19628', titulo: 'SOBRE PROTECCIÓN DE LA VIDA PRIVADA',
+    fechaPublicacion: '1999-08-28', url: 'https://leyes.pisanvs.cl/ley/19628', ...over,
+  })
+
+  it('renders a ley exactly as the journal prints it', () => {
+    expect(renderCite('rchd', mk({}))).toBe(
+      'Chile, Ley Nº 19.628. Sobre protección de la vida privada (28/08/1999).',
+    )
+  })
+
+  it('renders a decreto', () => {
+    expect(renderCite('rchd', mk({
+      tipo: 'dto', numero: '201', fechaPublicacion: '2008-09-17',
+      titulo: 'PROMULGA LA CONVENCIÓN DE LAS NACIONES UNIDAS SOBRE LOS DERECHOS DE LAS ' +
+        'PERSONAS CON DISCAPACIDAD Y SU PROTOCOLO FACULTATIVO',
+    }))).toBe(
+      'Chile, Decreto Nº 201. Promulga la convención de las naciones unidas sobre los ' +
+      'derechos de las personas con discapacidad y su protocolo facultativo (17/09/2008).',
+    )
+  })
+
+  it('prints a named norma once, with no repeated title', () => {
+    // "Chile, Constitución Política de la República (11/08/1980)." — the name
+    // *is* the title, so there is no second clause and no period before it.
+    expect(renderCite('rchd', mk({
+      tipo: 'cod', numero: 'POLITICA', titulo: 'CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA',
+      fechaPublicacion: '1980-08-11',
+    }))).toBe('Chile, Constitución Política de la República (11/08/1980).')
+  })
+
+  it('uses Nº, the ordinal mark, not the degree sign the rest of the site uses', () => {
+    const out = renderCite('rchd', mk({}))
+    expect(out).toContain('Ley Nº 19.628')
+    expect(out).not.toContain('N°')
+    // The two characters are visually near-identical; pin the codepoint.
+    expect(out).toContain('Nº')
+  })
+
+  it('omits the Diario Oficial and the URL, which the journal does not print', () => {
+    const out = renderCite('rchd', mk({}))
+    expect(out).not.toContain('Diario Oficial')
+    expect(out).not.toContain('http')
+  })
+
+  it('carries the article when one is being cited', () => {
+    expect(renderCite('rchd', mk({ articulo: 'Artículo 3' }))).toBe(
+      'Chile, Ley Nº 19.628, art. 3. Sobre protección de la vida privada (28/08/1999).',
+    )
+  })
+
+  it('falls back cleanly when the publication date is unknown', () => {
+    expect(renderCite('rchd', mk({ fechaPublicacion: null }))).toBe(
+      'Chile, Ley Nº 19.628. Sobre protección de la vida privada.',
+    )
+  })
+
+  it('leaves a title that is already mixed case alone', () => {
+    // Recasing only applies to the all-caps titles the corpus stores; a title
+    // that already distinguishes proper nouns must not be flattened.
+    expect(renderCite('rchd', mk({ titulo: 'Sobre el Banco del Estado de Chile' }))).toContain(
+      '. Sobre el Banco del Estado de Chile (',
+    )
+  })
+})
+
+describe('sentenceCase / titleCase', () => {
+  it('sentence-cases an all-caps título', () => {
+    expect(sentenceCase('SOBRE PROTECCIÓN DE LA VIDA PRIVADA')).toBe(
+      'Sobre protección de la vida privada',
+    )
+  })
+
+  it('title-cases a name, leaving the minor words down', () => {
+    expect(titleCase('CÓDIGO PENAL')).toBe('Código Penal')
+    expect(titleCase('CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA')).toBe(
+      'Constitución Política de la República',
+    )
+  })
+
+  it('capitalises a minor word when it leads', () => {
+    expect(titleCase('DE LOS DELITOS')).toBe('De los Delitos')
+  })
+
+  it('cannot restore proper nouns, and does not pretend to', () => {
+    // Documented loss: the corpus stores no case information to recover.
+    expect(sentenceCase('RINDE HOMENAJE A DON LUIS RICARTE SOTO')).toBe(
+      'Rinde homenaje a don luis ricarte soto',
+    )
   })
 })
