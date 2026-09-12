@@ -7,6 +7,7 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 import { pool } from '@/lib/db'
 import { SITE } from '@/lib/jsonld'
+import { cambiosHref } from '@/lib/href'
 import { prettyNumero, tipoLabel } from '@/lib/seo'
 
 export const metadata: Metadata = {
@@ -16,13 +17,16 @@ export const metadata: Metadata = {
   alternates: { canonical: `${SITE}/cambios` },
 }
 
-interface Row { tipo: string; numero: string; titulo: string; mods: number; versions: number; last: string }
+interface Row {
+  idNorma: number; tipo: string; numero: string; titulo: string
+  mods: number; versions: number; last: string
+}
 
 /** Normas with the deepest change history. Same reasoning as /guia's index:
  *  a doorway, not a dump of 5.4k links. */
 async function notable(): Promise<Row[]> {
   const { rows } = await pool.query(
-    `SELECT n.tipo, n.numero, n.titulo,
+    `SELECT n.id_norma, n.tipo, n.numero, n.titulo,
             count(DISTINCT v.desde)::int AS versions,
             (SELECT count(*) FROM modificacion m WHERE m.target_id = n.id_norma)::int AS mods,
             max(v.desde)::text AS last
@@ -35,7 +39,7 @@ async function notable(): Promise<Row[]> {
       LIMIT 40`,
   )
   return rows.map((r) => ({
-    tipo: r.tipo, numero: r.numero, titulo: r.titulo,
+    idNorma: r.id_norma, tipo: r.tipo, numero: r.numero, titulo: r.titulo,
     mods: r.mods, versions: r.versions, last: r.last,
   }))
 }
@@ -57,9 +61,9 @@ export default async function Page() {
 
         <ul className="mt-12 divide-y divide-rule border-t border-rule">
           {rows.map((r) => (
-            <li key={`${r.tipo}-${r.numero}-${r.last}`}>
+            <li key={r.idNorma}>
               <Link
-                href={`/cambios/${r.tipo}/${encodeURIComponent(r.numero)}`}
+                href={cambiosHref(r)}
                 className="group flex flex-col md:flex-row md:items-baseline gap-1 md:gap-6 py-3.5 hover:bg-paper-sunk/50 -mx-2 px-2 rounded transition"
               >
                 <div className="font-mono text-xs text-ink-faint w-32 shrink-0">
