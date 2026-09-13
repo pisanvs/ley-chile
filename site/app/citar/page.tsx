@@ -9,6 +9,7 @@ import { getNormaById, getVersions, currentFecha } from '@/lib/norma'
 import { runSearch } from '@/lib/search'
 import { canonicalHref } from '@/lib/href'
 import { faqJsonLd, jsonLdScript, SITE, cleanTitulo } from '@/lib/jsonld'
+import { SITE_NAME, OG_LOCALE } from '@/lib/site'
 import { CiteFormatList } from '@/components/CiteFormatList'
 import { normaName, type CiteSource } from '@/lib/cite'
 
@@ -61,13 +62,30 @@ const FAQ: { q: string; a: string }[] = [
   },
 ]
 
+const OG_TITLE = 'Cómo citar una ley chilena'
+const DESCRIPTION =
+  'Busca cualquier ley, decreto o código chileno y copia su cita en formato legal chileno, ' +
+  'APA 7, MLA 9, Chicago, BibTeX o RIS. Incluye cómo citar un artículo y cómo citar la versión ' +
+  'que regía en una fecha pasada.'
+
+// `openGraph` replaces the root layout's object rather than merging into it,
+// so siteName and locale are repeated here — see the note in lib/site.ts.
+// `images` is deliberately absent: app/citar/opengraph-image.tsx fills it via
+// the file convention, and naming it here would override that with a literal.
 export const metadata: Metadata = {
   title: 'Cómo citar una ley chilena — generador de citas (legal, APA, MLA, Chicago)',
-  description:
-    'Busca cualquier ley, decreto o código chileno y copia su cita en formato legal chileno, ' +
-    'APA 7, MLA 9, Chicago, BibTeX o RIS. Incluye cómo citar un artículo y cómo citar la versión ' +
-    'que regía en una fecha pasada.',
+  description: DESCRIPTION,
   alternates: { canonical: `${SITE}/citar` },
+  openGraph: {
+    type: 'website',
+    siteName: SITE_NAME,
+    locale: OG_LOCALE,
+    // Shorter than the <title>: a share card is read at a glance, and the
+    // parenthesised format list is keyword weight for search, not for humans.
+    title: OG_TITLE,
+    description: DESCRIPTION,
+    url: `${SITE}/citar`,
+  },
 }
 
 interface SP {
