@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import Link from 'next/link'
 import { SidebarHeading } from '@/components/IDEShell'
+import { Outline } from '@/components/Outline'
 import { chronologicalNeighbours, type TitleEntry } from '@/lib/titles'
 import { fetchModifications, type ModificationRow } from '@/lib/modifies'
 import { fetchModifiedBy } from '@/lib/modifiedBy'
@@ -37,10 +38,17 @@ function useIdleReady(): boolean {
 interface Props {
   /** idNorma of the law currently on screen — the center of the view. */
   activeId: number
+  /** Version date + rel dir of the text on screen, for the structural outline.
+   *  Absent while no version is resolved, in which case the outline is skipped. */
+  sha?: string
+  relDir?: string
 }
 
 /**
- * Left-rail navigator built for *exploration*. Two stacked groups:
+ * Left-rail navigator. Three stacked groups:
+ *
+ *   0. "Contenido" — the heading tree of the version on screen, for moving
+ *      within the law rather than between laws.
  *
  *   1. "Cronología" — ±3 laws around the active one by publication date,
  *      with the active row highlighted in the middle. Lets you walk the
@@ -52,9 +60,13 @@ interface Props {
  *      so you can see "who else touched this lineage". This is the seed
  *      for the future similarity-based suggestion algorithm.
  */
-export function Navigator({ activeId }: Props) {
+export function Navigator({ activeId, sha, relDir }: Props) {
   return (
     <div className="space-y-6">
+      {/* The law's own structure comes first: the reader is inside this
+          document, and moving within it is the more common need than moving
+          between laws. */}
+      {sha && relDir && <Outline sha={sha} relDir={relDir} />}
       <ChronologyGroup activeId={activeId} />
       <SuggestedGroup activeId={activeId} />
     </div>
