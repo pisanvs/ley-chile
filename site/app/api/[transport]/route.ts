@@ -14,6 +14,7 @@ import {
   availableLabels, causaLabel, checkFecha, checkOffset, checkRange, coverage, futureWarning,
   matchArticle, notYetInForce, paginate, truncationNotice, versionAt,
 } from '@/lib/mcpguards'
+import { vigenciaWarnings } from '@/lib/vigencia'
 
 /**
  * Remote MCP server over the Chilean legal corpus — "para agentes y humanos".
@@ -394,7 +395,10 @@ const handler = createMcpHandler(
         title: 'Obtener un artículo',
         description:
           'Texto de un artículo específico de una norma, en su versión vigente a una fecha. ' +
-          AMBIGUITY_NOTE,
+          'OJO: el corpus guarda el texto consolidado y lo aplica desde la fecha de ' +
+          'PUBLICACIÓN de la reforma. Cuando una reforma tiene entrada en vigencia diferida ' +
+          'o gradual, esa no es la fecha en que empieza a regir; la respuesta lo advierte y ' +
+          'dice qué regla regía ese día. ' + AMBIGUITY_NOTE,
         inputSchema: {
           tipo: z.string().describe('Tipo: ley, dl, dfl, dto, cod, res…'),
           numero: z.string().describe('Número de la norma'),
@@ -436,9 +440,17 @@ const handler = createMcpHandler(
         const { text: body } = windowed(
           hit.body, MAX_BODY, off.value, rawTextUrl(norma.idNorma, at),
         )
+        // Before the text, never after. The corpus stores the consolidated
+        // text and applies it from the publication date, but a reform with
+        // deferred entry does not bind from that date — article 22 of the
+        // Código del Trabajo read "cuarenta horas" for dates on which the
+        // limit was still forty-five. A warning placed under the text is
+        // worthless: the number has already been read.
+        const vigencia = vigenciaWarnings(hit.body, at)
         return text(
           [
             ...horizonLines(cov, at, today),
+            ...vigencia.map((w) => `${w}\n`),
             `${identityLine(norma)} — ${norma.titulo}`,
             `${hit.rawHeading || hit.label} · vigente al ${at}`,
             `${lawUrl(norma, at)}#art-${hit.slug}`,
