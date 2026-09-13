@@ -3,13 +3,17 @@ import { z } from 'zod'
 import {
   currentFecha, getArticlesAsOf, getAvisos, getModifiedBy, getModifies, getNormaById,
   getNormasByKey, getOrganismosByIds, getRefundido, getVersions,
-  type Article, type Avisos, type Norma, type RefundidoLink, type Version,
+  type Article, type Avisos, type Norma, type RefundidoLink,
 } from '@/lib/norma'
 import { runSearch, searchArticles } from '@/lib/search'
 import { align, joinDiffText, wordDiff } from '@/lib/diff'
 import { SITE } from '@/lib/jsonld'
 import { canonicalHref } from '@/lib/href'
 import { sortAvisos } from '@/lib/avisos'
+import {
+  availableLabels, checkFecha, checkRange, coverage, futureWarning, matchArticle,
+  notYetInForce, versionAt,
+} from '@/lib/mcpguards'
 
 /**
  * Remote MCP server over the Chilean legal corpus — "para agentes y humanos".
@@ -72,6 +76,15 @@ const AMBIGUITY_NOTE =
   '(tipo, número) NO identifica una norma chilena: si la clave es ambigua, esta ' +
   'herramienta devuelve la lista de candidatas en vez de adivinar. Pasa `idNorma` para ' +
   'elegir una.'
+
+// Stated in every date parameter's description, enforced in the handler rather
+// than as a zod `.regex()`. A schema violation surfaces as a terse protocol
+// error; `checkFecha` returns prose that names the ambiguity and shows the
+// correct spelling, which is the whole point for the input that caused this —
+// "03-09-2024", where a bare "invalid format" leaves the caller guessing.
+const ISO_HELP =
+  'Fecha en ISO 8601 estricto (YYYY-MM-DD), ej. "2024-09-03". DD-MM-YYYY se rechaza ' +
+  'por ambiguo.'
 
 /** Warnings that must lead a response, before any article text.
  *
@@ -175,12 +188,32 @@ async function resolveNorma(
   }
 }
 
-/** The version in force on `fecha`. `hasta` is INCLUSIVE — it holds the day
- *  before the next version's `desde` (…hasta 2026-02-04, then desde
- *  2026-02-05), so the comparison must be <=, not <. With <, the final day of
- *  every version reports as having no text. */
-function versionAt(versions: Version[], fecha: string): Version | undefined {
-  return versions.find((v) => v.desde <= fecha && (v.hasta === null || fecha <= v.hasta))
+/** Validate every date argument a tool received, or hand back the first
+ *  complaint. Dates reach these tools as free-form strings from a model, and an
+ *  unvalidated one is worse than a refusal: `03-09-2024` used to resolve to
+ *  3 September and be echoed back as if the caller had asked for it. */
+function checkFechas(
+  args: Record<string, string | undefined>,
+): { ok: true } | { ok: false; message: string } {
+  for (const [param, raw] of Object.entries(args)) {
+    if (raw === undefined) continue
+    const r = checkFecha(raw, param)
+    if (!r.ok) return r
+  }
+  return { ok: true }
+}
+
+/** Shared preamble for an answer about a norma at a date the corpus cannot
+ *  vouch for. Returns the lines to lead with, or null when the date is covered.
+ *
+ *  `before` is a refusal — there is no text to show and the honest answer is
+ *  about the *norma*, not the article. `future` is a warning: the last known
+ *  text is still the best available answer, it just isn't a record. */
+function horizonLines(cov: ReturnType<typeof coverage>, fecha: string, today: string): string[] {
+  // One element, trailing newline rather than an empty second element: some
+  // callers below run the array through `.filter(Boolean)`, which would drop a
+  // bare '' separator and glue the warning to the title.
+  return cov.kind === 'future' ? [`${futureWarning(cov.last, fecha, today)}\n`] : []
 }
 
 const handler = createMcpHandler(
@@ -195,10 +228,12 @@ const handler = createMcpHandler(
           'Usa `asOf` para buscar el texto vigente en una fecha histórica (YYYY-MM-DD).',
         inputSchema: {
           query: z.string().min(2).describe('Términos de búsqueda, ej. "arrendamiento" o "medio ambiente"'),
-          asOf: z.string().optional().describe('Fecha YYYY-MM-DD; por defecto hoy (texto vigente)'),
+          asOf: z.string().optional().describe(ISO_HELP + ' Por defecto hoy (texto vigente).'),
         },
       },
       async ({ query, asOf }) => {
+        const fechas = checkFechas({ asOf })
+        if (!fechas.ok) return text(fechas.message)
         const fecha = asOf ?? TODAY()
         // Number matches first, then full text. An agent asking for "20000"
         // gets ley 20.000, not a law that merely cites the figure.
@@ -235,20 +270,30 @@ const handler = createMcpHandler(
           tipo: z.string().describe('Tipo: ley, dl, dfl, dto, cod, res…'),
           numero: z.string().describe('Número de la norma, ej. "19300"'),
           query: z.string().min(2).describe('Términos a buscar dentro de la norma'),
-          fecha: z.string().optional().describe('Fecha YYYY-MM-DD; por defecto la versión vigente'),
+          fecha: z.string().optional().describe(ISO_HELP + ' Por defecto la versión vigente.'),
           idNorma: ID_NORMA_PARAM,
         },
       },
       async ({ tipo, numero, query, fecha, idNorma }) => {
+        const fechas = checkFechas({ fecha })
+        if (!fechas.ok) return text(fechas.message)
         const r = await resolveNorma(tipo, numero, idNorma)
         if (!r.ok) return text(r.message)
         const norma = r.norma
         const versions = await getVersions(norma.idNorma)
         const at = fecha ?? currentFecha(versions)
+        const today = TODAY()
+        const cov = coverage(versions, at, today)
+        if (cov.kind === 'before') {
+          return text(notYetInForce(norma, cov.first, at, await getModifies(norma.idNorma)))
+        }
         const hits = await searchArticles(norma.idNorma, query, at)
         if (hits.length === 0) {
           return text(
-            `Sin coincidencias para "${query}" en ${identityLine(norma)} — ${norma.titulo} (al ${at}).`,
+            [
+              ...horizonLines(cov, at, today),
+              `Sin coincidencias para "${query}" en ${identityLine(norma)} — ${norma.titulo} (al ${at}).`,
+            ].join('\n'),
           )
         }
         const blocks = hits.map(
@@ -257,6 +302,7 @@ const handler = createMcpHandler(
         )
         return text(
           [
+            ...horizonLines(cov, at, today),
             `${hits.length} artículo(s) coinciden con "${query}" en:`,
             `${identityLine(norma)} — ${norma.titulo}`,
             `Texto vigente al ${at}. Pide el texto completo con get_article.`,
@@ -278,16 +324,23 @@ const handler = createMcpHandler(
         inputSchema: {
           tipo: z.string().describe('Tipo: ley, dl, dfl, dto, cod, res…'),
           numero: z.string().describe('Número de la norma, ej. "20330"'),
-          fecha: z.string().optional().describe('Fecha YYYY-MM-DD; por defecto la versión vigente'),
+          fecha: z.string().optional().describe(ISO_HELP + ' Por defecto la versión vigente.'),
           idNorma: ID_NORMA_PARAM,
         },
       },
       async ({ tipo, numero, fecha, idNorma }) => {
+        const fechas = checkFechas({ fecha })
+        if (!fechas.ok) return text(fechas.message)
         const r = await resolveNorma(tipo, numero, idNorma)
         if (!r.ok) return text(r.message)
         const norma = r.norma
         const versions = await getVersions(norma.idNorma)
         const at = fecha ?? currentFecha(versions)
+        const today = TODAY()
+        const cov = coverage(versions, at, today)
+        if (cov.kind === 'before') {
+          return text(notYetInForce(norma, cov.first, at, await getModifies(norma.idNorma)))
+        }
         const [articles, avisos, refundido] = await Promise.all([
           getArticlesAsOf(norma.idNorma, at),
           getAvisos(norma.idNorma),
@@ -297,6 +350,7 @@ const handler = createMcpHandler(
         const avisos_ = avisoLines(avisos, refundido)
         return text(
           [
+            ...horizonLines(cov, at, today),
             `${norma.tipo.toUpperCase()} ${norma.numero} — ${norma.titulo}`,
             `idNorma: ${norma.idNorma}`,
             norma.organismo ? `Organismo: ${norma.organismo}` : '',
@@ -326,31 +380,41 @@ const handler = createMcpHandler(
         inputSchema: {
           tipo: z.string().describe('Tipo: ley, dl, dfl, dto, cod, res…'),
           numero: z.string().describe('Número de la norma'),
-          articulo: z.string().describe('Etiqueta o slug del artículo, ej. "Artículo 1" o "articulo 1"'),
-          fecha: z.string().optional().describe('Fecha YYYY-MM-DD; por defecto la versión vigente'),
+          articulo: z.string().describe('Etiqueta o slug del artículo. Se aceptan las grafías habituales: "Artículo 22", "Art. 22", "art. 22°", "articulo-22".'),
+          fecha: z.string().optional().describe(ISO_HELP + ' Por defecto la versión vigente.'),
           idNorma: ID_NORMA_PARAM,
         },
       },
       async ({ tipo, numero, articulo, fecha, idNorma }) => {
+        const fechas = checkFechas({ fecha })
+        if (!fechas.ok) return text(fechas.message)
         const r = await resolveNorma(tipo, numero, idNorma)
         if (!r.ok) return text(r.message)
         const norma = r.norma
         const versions = await getVersions(norma.idNorma)
         const at = fecha ?? currentFecha(versions)
+        const today = TODAY()
+        // Before any lookup: a date the norma did not exist on is a fact about
+        // the *norma*. Reporting it as a missing article — which is what this
+        // did — teaches a model that ley 20.000 has no Artículo 22.
+        const cov = coverage(versions, at, today)
+        if (cov.kind === 'before') {
+          return text(notYetInForce(norma, cov.first, at, await getModifies(norma.idNorma)))
+        }
         const articles = await getArticlesAsOf(norma.idNorma, at)
-        const want = articulo.toLowerCase().replace(/\s+/g, ' ').trim()
-        const hit =
-          articles.find((a: Article) => a.label.toLowerCase() === want) ??
-          articles.find((a: Article) => a.slug.toLowerCase() === want.replace(/\s+/g, '-')) ??
-          articles.find((a: Article) => a.label.toLowerCase().includes(want))
+        const hit = matchArticle(articles, articulo)
         if (!hit) {
           return text(
-            `No se encontró el artículo "${articulo}" en ${identityLine(norma)} (al ${at}). ` +
-            `Disponibles: ${articles.slice(0, 40).map((a: Article) => a.label).join(', ')}…`,
+            [
+              ...horizonLines(cov, at, today),
+              `No se encontró el artículo "${articulo}" en ${identityLine(norma)} (al ${at}).`,
+              availableLabels(articles.map((a: Article) => a.label)),
+            ].join('\n'),
           )
         }
         return text(
           [
+            ...horizonLines(cov, at, today),
             `${identityLine(norma)} — ${norma.titulo}`,
             `${hit.rawHeading || hit.label} · vigente al ${at}`,
             `${lawUrl(norma, at)}#art-${hit.slug}`,
@@ -406,16 +470,23 @@ const handler = createMcpHandler(
           asOf: z
             .string()
             .optional()
-            .describe('Fecha YYYY-MM-DD; por defecto la versión vigente'),
+            .describe(ISO_HELP + ' Por defecto la versión vigente.'),
           idNorma: ID_NORMA_PARAM,
         },
       },
       async ({ tipo, numero, asOf, idNorma }) => {
+        const fechas = checkFechas({ asOf })
+        if (!fechas.ok) return text(fechas.message)
         const r = await resolveNorma(tipo, numero, idNorma)
         if (!r.ok) return text(r.message)
         const norma = r.norma
         const versions = await getVersions(norma.idNorma)
         const fecha = asOf ?? currentFecha(versions)
+        const today = TODAY()
+        const cov = coverage(versions, fecha, today)
+        if (cov.kind === 'before') {
+          return text(notYetInForce(norma, cov.first, fecha, await getModifies(norma.idNorma)))
+        }
         const v = versionAt(versions, fecha)
         if (!v) {
           return text(
@@ -431,6 +502,7 @@ const handler = createMcpHandler(
         // exists to serve. Our own endpoints we control. The sha is still
         // reported: it identifies the commit for anyone who clones the repo.
         const lines = [
+          ...horizonLines(cov, fecha, today),
           `${identityLine(norma)} — ${norma.titulo}`,
           `Versión vigente al ${fecha} (rige desde ${v.desde}${v.hasta ? ` hasta ${v.hasta}` : ', vigente'}).`,
           '',
@@ -460,15 +532,28 @@ const handler = createMcpHandler(
         inputSchema: {
           tipo: z.string().describe('Tipo: ley, dl, dfl, dto, cod, res…'),
           numero: z.string().describe('Número de la norma'),
-          desde: z.string().describe('Fecha de la versión ANTERIOR (YYYY-MM-DD)'),
-          hasta: z.string().describe('Fecha de la versión POSTERIOR (YYYY-MM-DD)'),
+          desde: z.string().describe('Fecha de la versión ANTERIOR. ' + ISO_HELP + ' Debe ser ANTERIOR a `hasta`.'),
+          hasta: z.string().describe('Fecha de la versión POSTERIOR. ' + ISO_HELP + ' Debe ser POSTERIOR a `desde`.'),
           idNorma: ID_NORMA_PARAM,
         },
       },
       async ({ tipo, numero, desde, hasta, idNorma }) => {
+        const fechas = checkFechas({ desde, hasta })
+        if (!fechas.ok) return text(fechas.message)
+        // Order before anything else: a reversed range renders a repeal as an
+        // enactment, formatted exactly like a correct answer.
+        const range = checkRange(desde, hasta)
+        if (!range.ok) return text(range.message)
         const r = await resolveNorma(tipo, numero, idNorma)
         if (!r.ok) return text(r.message)
         const norma = r.norma
+        const versions = await getVersions(norma.idNorma)
+        const today = TODAY()
+        const covDesde = coverage(versions, desde, today)
+        const covHasta = coverage(versions, hasta, today)
+        if (covDesde.kind === 'before' && covHasta.kind === 'before') {
+          return text(notYetInForce(norma, covDesde.first, hasta, await getModifies(norma.idNorma)))
+        }
         const [prev, curr] = await Promise.all([
           getArticlesAsOf(norma.idNorma, desde),
           getArticlesAsOf(norma.idNorma, hasta),
@@ -479,7 +564,12 @@ const handler = createMcpHandler(
         const aligned = align(prev, curr)
         const changed = aligned.filter((a) => a.status !== 'unchanged')
         if (changed.length === 0) {
-          return text(`Sin cambios de texto en ${identityLine(norma)} entre ${desde} y ${hasta}.`)
+          return text(
+            [
+              ...horizonLines(covHasta, hasta, today),
+              `Sin cambios de texto en ${identityLine(norma)} entre ${desde} y ${hasta}.`,
+            ].join('\n'),
+          )
         }
         const counts = {
           modificados: changed.filter((a) => a.status === 'modified').length,
@@ -503,6 +593,17 @@ const handler = createMcpHandler(
         }
         return text(
           [
+            ...horizonLines(covHasta, hasta, today),
+            // Otherwise the whole articulado renders as "AÑADIDO", which reads
+            // as a reform that rewrote every article rather than as the norma
+            // simply not existing at `desde`.
+            ...(covDesde.kind === 'before'
+              ? [
+                  `Nota: ${identityLine(norma)} no estaba vigente al ${desde} (primera ` +
+                  `versión: ${covDesde.first.desde}). Lo que sigue es su articulado inicial, ` +
+                  'no una reforma.\n',
+                ]
+              : []),
             `${identityLine(norma)} — cambios entre ${desde} y ${hasta}`,
             `${norma.titulo}`,
             `${counts.modificados} modificados · ${counts.añadidos} añadidos · ${counts.eliminados} eliminados`,
