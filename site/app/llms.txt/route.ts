@@ -30,14 +30,14 @@ Servidor MCP remoto, Streamable HTTP, sólo lectura, sin autenticación:
 
 Herramientas disponibles:
 
-- search_laws(query, asOf?)                      — buscar normas en todo el corpus
-- search_articles(tipo, numero, query, fecha?)   — buscar dentro de UNA norma
-- get_law(tipo, numero, fecha?)                  — metadatos + índice de artículos + versiones
-- get_article(tipo, numero, articulo, fecha?)    — el texto de un artículo
-- list_versions(tipo, numero)                    — cada fecha en que la norma cambió, y qué la causó
-- get_raw_link(tipo, numero, asOf?)              — enlaces al texto íntegro sin recortar (y al commit que lo publicó)
-- diff_versions(tipo, numero, desde, hasta)      — qué cambió entre dos versiones (diff palabra por palabra)
-- get_modifications(tipo, numero)                — grafo modificadora → modificada
+- search_laws(query, asOf?)                              — buscar normas en todo el corpus
+- search_articles(tipo, numero, query, fecha?, idNorma?) — buscar dentro de UNA norma
+- get_law(tipo, numero, fecha?, idNorma?)                — metadatos + índice de artículos + versiones
+- get_article(tipo, numero, articulo, fecha?, idNorma?)  — el texto de un artículo
+- list_versions(tipo, numero, idNorma?)                  — cada fecha en que la norma cambió, y qué la causó
+- get_raw_link(tipo, numero, asOf?, idNorma?)            — enlaces al texto íntegro sin recortar (y al commit que lo publicó)
+- diff_versions(tipo, numero, desde, hasta, idNorma?)    — qué cambió entre dos versiones (diff palabra por palabra)
+- get_modifications(tipo, numero, idNorma?)              — grafo modificadora → modificada
 
 Añadirlo a Claude: Settings → Connectors → Add custom connector → ${SITE}/api/mcp
 Claude Code: claude mcp add --transport http leychile ${SITE}/api/mcp
@@ -45,6 +45,12 @@ Claude Code: claude mcp add --transport http leychile ${SITE}/api/mcp
 Nota: una norma puede tener ~350 KB de texto. get_law devuelve un índice de
 artículos, no el texto completo; pide los artículos de a uno con get_article, o
 usa search_articles para ubicar el artículo relevante primero.
+
+Nota: (tipo, numero) NO identifica una norma — es ambiguo para ~91.7% del
+corpus (hay 227 normas con clave "DFL 1", 75 con "DFL 4"). Si es ambiguo,
+la herramienta devuelve la lista de candidatas con su idNorma en vez de
+adivinar; vuelve a llamar pasando ese idNorma para elegir una. search_laws
+también devuelve idNorma en cada resultado.
 
 ## HTTP (si no hablas MCP)
 
