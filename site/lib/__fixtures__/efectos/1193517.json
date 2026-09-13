@@ -1,0 +1,45 @@
+{
+  "efectos": [
+    {
+      "target": {
+        "idNorma": 1007469,
+        "tipo": "dfl",
+        "numero": "1",
+        "titulo": "FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY DE TRÁNSITO",
+        "nombresUsoComun": [
+          "LEY DE TRÁNSITO"
+        ]
+      },
+      "fecha": "2023-06-16",
+      "more": 0,
+      "articles": [
+        {
+          "slug": "art-6",
+          "label": "articulo 6",
+          "rawHeading": "Artículo 6",
+          "status": "added",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-7",
+          "label": "articulo 7",
+          "rawHeading": "Artículo 7°",
+          "status": "added",
+          "prevBody": "",
+          "currBody": ""
+        },
+        {
+          "slug": "art-transitorio",
+          "label": "articulo transitorio",
+          "rawHeading": "Artículo transitorio",
+          "status": "removed",
+          "prevBody": "",
+          "currBody": ""
+        }
+      ],
+      "totalArticles": 255
+    }
+  ],
+  "truncated": false
+}
