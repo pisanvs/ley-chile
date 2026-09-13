@@ -1,8 +1,8 @@
 import { createMcpHandler } from 'mcp-handler'
 import { z } from 'zod'
 import {
-  currentFecha, getArticlesAsOf, getAvisos, getModifiedBy, getModifies, getNormaById,
-  getNormasByKey, getOrganismosByIds, getRefundido, getVersions,
+  currentFecha, getArticlesAsOf, getAvisos, getCausaNormas, getModifiedBy, getModifies,
+  getNormaById, getNormasByKey, getOrganismosByIds, getRefundido, getVersions,
   type Article, type Avisos, type Norma, type RefundidoLink,
 } from '@/lib/norma'
 import { runSearch, searchArticles } from '@/lib/search'
@@ -11,8 +11,8 @@ import { SITE } from '@/lib/jsonld'
 import { canonicalHref } from '@/lib/href'
 import { sortAvisos } from '@/lib/avisos'
 import {
-  availableLabels, checkFecha, checkRange, coverage, futureWarning, matchArticle,
-  notYetInForce, versionAt,
+  availableLabels, causaLabel, checkFecha, checkOffset, checkRange, coverage, futureWarning,
+  matchArticle, notYetInForce, paginate, truncationNotice, versionAt,
 } from '@/lib/mcpguards'
 
 /**
@@ -28,9 +28,27 @@ const TODAY = () => new Date().toISOString().slice(0, 10)
 const MAX_BODY = 12_000       // chars of a single article body
 const MAX_DIFF = 16_000       // chars of a rendered diff
 
-function truncate(s: string, n: number): string {
-  return s.length <= n ? s : `${s.slice(0, n)}\n\n…[truncado: ${s.length - n} caracteres más]`
+/** Render a long body as one window plus, when anything was withheld, a
+ *  machine-readable line saying exactly what and how to ask for it. The notice
+ *  leads rather than trails: a caller that hit its own context limit mid-read
+ *  still sees that the body is partial. */
+function windowed(
+  s: string, limit: number, offset = 0, rawUrl?: string,
+): { text: string; page: ReturnType<typeof paginate> } {
+  const page = paginate(s, limit, offset)
+  const notice = truncationNotice(page, rawUrl)
+  return { text: notice ? `${notice}\n\n${page.body}` : page.body, page }
 }
+
+/** The always-complete, never-truncated form of a norma's text at a date. */
+function rawTextUrl(idNorma: number, fecha: string): string {
+  return `${SITE}/api/text/${idNorma}/${fecha}`
+}
+
+const OFFSET_PARAM = z.number().int().min(0).optional().describe(
+  'Carácter desde el que continuar, para leer un texto que vino truncado. Pásale el ' +
+  'valor `fin=` que aparece en la línea [TRUNCADO] de la respuesta anterior. Por defecto 0.',
+)
 
 function text(s: string) {
   return { content: [{ type: 'text' as const, text: s }] }
@@ -307,7 +325,7 @@ const handler = createMcpHandler(
             `${identityLine(norma)} — ${norma.titulo}`,
             `Texto vigente al ${at}. Pide el texto completo con get_article.`,
             '',
-            truncate(blocks.join('\n\n'), MAX_DIFF),
+            windowed(blocks.join('\n\n'), MAX_DIFF).text,
           ].join('\n'),
         )
       },
@@ -382,10 +400,11 @@ const handler = createMcpHandler(
           numero: z.string().describe('Número de la norma'),
           articulo: z.string().describe('Etiqueta o slug del artículo. Se aceptan las grafías habituales: "Artículo 22", "Art. 22", "art. 22°", "articulo-22".'),
           fecha: z.string().optional().describe(ISO_HELP + ' Por defecto la versión vigente.'),
+          offset: OFFSET_PARAM,
           idNorma: ID_NORMA_PARAM,
         },
       },
-      async ({ tipo, numero, articulo, fecha, idNorma }) => {
+      async ({ tipo, numero, articulo, fecha, offset, idNorma }) => {
         const fechas = checkFechas({ fecha })
         if (!fechas.ok) return text(fechas.message)
         const r = await resolveNorma(tipo, numero, idNorma)
@@ -412,6 +431,11 @@ const handler = createMcpHandler(
             ].join('\n'),
           )
         }
+        const off = checkOffset(offset, hit.body.length)
+        if (!off.ok) return text(off.message)
+        const { text: body } = windowed(
+          hit.body, MAX_BODY, off.value, rawTextUrl(norma.idNorma, at),
+        )
         return text(
           [
             ...horizonLines(cov, at, today),
@@ -419,7 +443,7 @@ const handler = createMcpHandler(
             `${hit.rawHeading || hit.label} · vigente al ${at}`,
             `${lawUrl(norma, at)}#art-${hit.slug}`,
             '',
-            truncate(hit.body, MAX_BODY),
+            body,
           ].join('\n'),
         )
       },
@@ -443,13 +467,31 @@ const handler = createMcpHandler(
         if (!r.ok) return text(r.message)
         const norma = r.norma
         const versions = await getVersions(norma.idNorma)
-        const lines = versions.map(
-          (v, i) => `${i + 1}. ${v.desde}${v.hasta ? ` → ${v.hasta}` : ' → vigente'}${v.subject ? ` · ${v.subject}` : ''}`,
+        // One batched lookup resolves every causa's real identity; the stored
+        // subject is only a fallback now. See causaLabel.
+        const causas = await getCausaNormas(
+          versions.map((v) => v.causaId).filter((id): id is number => id !== null),
         )
+        const lines = versions.map((v, i) => {
+          const range = v.hasta ? `${v.desde} → ${v.hasta}` : `${v.desde} → vigente`
+          return `${i + 1}. ${range} · ${causaLabel(v, v.causaId === null ? undefined : causas.get(v.causaId))}`
+        })
+        const unresolved = versions.filter(
+          (v) => v.causaId !== null && !causas.has(v.causaId),
+        ).length
         return text(
-          `${identityLine(norma)} — ${norma.titulo}\n` +
-          `${versions.length} versión(es):\n\n${lines.join('\n')}\n\n` +
-          `Compara dos con diff_versions.`,
+          [
+            `${identityLine(norma)} — ${norma.titulo}`,
+            `${versions.length} versión(es), con la norma que causó cada una:`,
+            '',
+            ...lines,
+            '',
+            unresolved > 0
+              ? `${unresolved} causa(s) no están en el corpus — su idNorma se reporta igual, ` +
+                'pero no hay metadatos para nombrarlas.'
+              : '',
+            'Compara dos con diff_versions.',
+          ].filter(Boolean).join('\n'),
         )
       },
     )
@@ -534,10 +576,11 @@ const handler = createMcpHandler(
           numero: z.string().describe('Número de la norma'),
           desde: z.string().describe('Fecha de la versión ANTERIOR. ' + ISO_HELP + ' Debe ser ANTERIOR a `hasta`.'),
           hasta: z.string().describe('Fecha de la versión POSTERIOR. ' + ISO_HELP + ' Debe ser POSTERIOR a `desde`.'),
+          offset: OFFSET_PARAM,
           idNorma: ID_NORMA_PARAM,
         },
       },
-      async ({ tipo, numero, desde, hasta, idNorma }) => {
+      async ({ tipo, numero, desde, hasta, offset, idNorma }) => {
         const fechas = checkFechas({ desde, hasta })
         if (!fechas.ok) return text(fechas.message)
         // Order before anything else: a reversed range renders a repeal as an
@@ -591,6 +634,12 @@ const handler = createMcpHandler(
             blocks.push(`## ${art.rawHeading || art.label} — ELIMINADO`)
           }
         }
+        const rendered = blocks.join('\n\n')
+        const off = checkOffset(offset, rendered.length)
+        if (!off.ok) return text(off.message)
+        const { text: diffBody } = windowed(
+          rendered, MAX_DIFF, off.value, rawTextUrl(norma.idNorma, hasta),
+        )
         return text(
           [
             ...horizonLines(covHasta, hasta, today),
@@ -609,7 +658,7 @@ const handler = createMcpHandler(
             `${counts.modificados} modificados · ${counts.añadidos} añadidos · ${counts.eliminados} eliminados`,
             `${lawUrl(norma, hasta)}`,
             '',
-            truncate(blocks.join('\n\n'), MAX_DIFF),
+            diffBody,
           ].join('\n'),
         )
       },

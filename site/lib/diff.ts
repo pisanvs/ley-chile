@@ -67,7 +67,22 @@ export type DiffOp =
   | { op: 'insert'; text: string }
   | { op: 'delete'; text: string }
 
-/** Word-level diff between two strings, using diff-match-patch's word-mode. */
+/** Word-level diff between two strings, using diff-match-patch's word-mode.
+ *
+ *  Every edit begins and ends on a token boundary. That is the whole reason
+ *  cleanup runs BEFORE `diff_charsToLines_` rather than after it, which is the
+ *  order diff-match-patch's own line-mode recipe prescribes — and which is
+ *  wrong here.
+ *
+ *  In the encoded form each token is a single character, so `cleanupSemantic`'s
+ *  common-prefix/suffix factoring operates on whole tokens. Run it after
+ *  expansion and the same factoring operates on real characters, slicing words
+ *  apart: "suministre" → "ministre" came back as a deletion of `"su"`, and
+ *  "sus grados" → "su grado" as `[-] "s grados"` / `[+] " grado"`. Those
+ *  fragments are unquotable, which for a diff whose job is to answer "what
+ *  changed" makes the answer unusable — and the tool description promises
+ *  "palabra por palabra".
+ */
 export function wordDiff(prev: string, curr: string): DiffOp[] {
   const dmp = new DiffMatchPatch()
   // Convert to word-level diff: tokenize via line-mode trick where each "line" is one word.
@@ -75,8 +90,8 @@ export function wordDiff(prev: string, curr: string): DiffOp[] {
   const b = wordsAsLines(curr)
   const tokens = dmp.diff_linesToChars_(a.text, b.text)
   const raw = dmp.diff_main(tokens.chars1, tokens.chars2, false)
-  dmp.diff_charsToLines_(raw, tokens.lineArray)
   dmp.diff_cleanupSemantic(raw)
+  dmp.diff_charsToLines_(raw, tokens.lineArray)
   return raw.map(([op, text]) => ({
     op: op === 0 ? 'equal' : op === 1 ? 'insert' : 'delete',
     text,

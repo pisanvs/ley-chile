@@ -1,7 +1,7 @@
 import { describe, it, expect } from 'vitest'
 import {
-  availableLabels, checkFecha, checkRange, coverage, futureWarning, matchArticle,
-  notYetInForce, versionAt,
+  availableLabels, causaLabel, checkFecha, checkOffset, checkRange, coverage, futureWarning,
+  matchArticle, notYetInForce, paginate, truncationNotice, versionAt,
 } from './mcpguards'
 import type { Version } from './norma'
 
@@ -195,5 +195,112 @@ describe('matchArticle', () => {
   it('returns nothing when there is no such article', () => {
     expect(matchArticle(arts, 'Art. 999')).toBeUndefined()
     expect(matchArticle([], 'Art. 22')).toBeUndefined()
+  })
+})
+
+describe('paginate / truncationNotice', () => {
+  const body = 'abcdefghij'.repeat(10) // 100 chars
+
+  it('returns the whole body and no notice when it fits', () => {
+    const p = paginate(body, 200)
+    expect(p.body).toBe(body)
+    expect(p.remaining).toBe(0)
+    // The absence of the notice IS the signal that the body is complete.
+    expect(truncationNotice(p)).toBeNull()
+  })
+
+  it('reports exactly what was withheld, in parseable fields', () => {
+    const p = paginate(body, 40)
+    expect(p).toMatchObject({ offset: 0, remaining: 60, total: 100 })
+    const n = truncationNotice(p)!
+    expect(n).toContain('offset=0')
+    expect(n).toContain('fin=40')
+    expect(n).toContain('total=100')
+    expect(n).toContain('faltan=60')
+    // And an actual next call, not a description of one.
+    expect(n).toContain('offset=40')
+  })
+
+  it('windows reassemble byte-for-byte', () => {
+    // The property an item generator depends on: no snapping to word or line
+    // boundaries, so offset + body.length is always the next offset.
+    let out = ''
+    let offset = 0
+    for (;;) {
+      const p = paginate(body, 30, offset)
+      out += p.body
+      if (p.remaining === 0) break
+      offset += p.body.length
+    }
+    expect(out).toBe(body)
+  })
+
+  it('still flags a final window as partial, since it starts mid-body', () => {
+    const p = paginate(body, 40, 80)
+    expect(p.remaining).toBe(0)
+    expect(truncationNotice(p)).toContain('offset=80')
+  })
+
+  it('links the uncut text when a raw URL is available', () => {
+    expect(truncationNotice(paginate(body, 40), 'https://x/api/text/1/2024-01-01'))
+      .toContain('https://x/api/text/1/2024-01-01')
+  })
+})
+
+describe('checkOffset', () => {
+  it('defaults to 0', () => {
+    expect(checkOffset(undefined, 100)).toEqual({ ok: true, value: 0 })
+  })
+  it('accepts an offset inside the body', () => {
+    expect(checkOffset(40, 100)).toEqual({ ok: true, value: 40 })
+  })
+  it('names an offset past the end rather than returning an empty body', () => {
+    const r = checkOffset(200, 100)
+    expect(r.ok).toBe(false)
+    if (!r.ok) expect(r.message).toContain('99')
+  })
+  it('rejects a negative or fractional offset', () => {
+    expect(checkOffset(-1, 100).ok).toBe(false)
+    expect(checkOffset(1.5, 100).ok).toBe(false)
+  })
+})
+
+describe('causaLabel', () => {
+  const ver = (causaId: number | null, subject: string): Version => ({
+    desde: '2023-04-26', hasta: '2023-08-20', commitSha: 'abc', causaId, subject,
+  })
+
+  it('names the causa from live metadata, not the frozen subject', () => {
+    // The Código del Trabajo's list said "Otras N°21561" for Ley 21.561: the
+    // pipeline wrote a placeholder tipo because the causa's metadata had not
+    // been fetched when the commit was made. idNorma 1191554 is typed `ley`
+    // in the graph today.
+    const label = causaLabel(
+      ver(1191554, 'Otras N°21561 publicada (2023-04-26)'),
+      { idNorma: 1191554, tipo: 'ley', numero: '21561', titulo: 'MODIFICA EL CÓDIGO DEL TRABAJO', fecha: '2023-04-26' },
+    )
+    expect(label).toBe('LEY 21561 · idNorma 1191554 — MODIFICA EL CÓDIGO DEL TRABAJO')
+    expect(label).not.toContain('Otras')
+  })
+
+  it('says a causa is missing rather than echoing a placeholder that reads like a tipo', () => {
+    // Version 4 of the Código del Trabajo: "Otra [id 1000928]", a causa with no
+    // norma row at all. "Otra" is not a tipo and must not look like one.
+    const label = causaLabel(ver(1000928, 'Otra [id 1000928] publicada (2009-04-03)'))
+    expect(label).toContain('1000928')
+    expect(label).toContain('no está en el corpus')
+    expect(label).not.toContain('Otra [')
+  })
+
+  it('falls back to the subject only when there is no causa id at all', () => {
+    expect(causaLabel(ver(null, 'Ley N°20000 publicada (2005-02-16)')))
+      .toBe('Ley N°20000 publicada (2005-02-16)')
+  })
+
+  it('truncates a long título instead of blowing up a 65-row listing', () => {
+    const long = 'A'.repeat(200)
+    const label = causaLabel(ver(1, 's'), { idNorma: 1, tipo: 'ley', numero: '1', titulo: long, fecha: '' }, 30)
+    expect(label).toContain('…')
+    expect(label.length).toBeLessThan(80)
   })
 })

@@ -1,4 +1,4 @@
-import type { Version } from './norma'
+import type { ModLink, Version } from './norma'
 import { labelToSlug, normalizeLabel } from './segment'
 
 /**
@@ -170,6 +170,104 @@ export function notYetInForce(
   }
   lines.push('', 'Usa list_versions para ver todas las fechas, o get_modifications para el grafo.')
   return lines.join('\n')
+}
+
+/**
+ * Name the norma that caused a version, preferring live identity over the
+ * commit subject frozen into history.
+ *
+ * The stored subject is what the pipeline knew at write time, and for a causa
+ * whose metadata had not been fetched yet that is a placeholder: the Código del
+ * Trabajo's list reads "Otras N°21561" for Ley 21.561 and "Otra [id 1000928]"
+ * for a causa it never resolved. Cosmetic when a person reads it; not cosmetic
+ * for a benchmark that scores exact (norma, fecha) tuples, where a wrong tipo
+ * corrupts the answer key.
+ *
+ * When the causa cannot be resolved the label says so in those words rather
+ * than presenting the placeholder as a name — an unresolved causa is a real
+ * gap in the corpus and reads as one.
+ */
+export function causaLabel(v: Version, causa?: ModLink, maxTitulo = 90): string {
+  if (causa) {
+    const t = causa.titulo.replace(/\s+/g, ' ').trim()
+    const titulo = t.length > maxTitulo ? `${t.slice(0, maxTitulo).trimEnd()}…` : t
+    const head = `${causa.tipo.toUpperCase()} ${causa.numero} · idNorma ${causa.idNorma}`
+    return titulo ? `${head} — ${titulo}` : head
+  }
+  if (v.causaId !== null) {
+    // Say what is missing and give the handle, rather than echoing a
+    // placeholder that reads like a tipo ("Otra", "Otras").
+    return `causa idNorma ${v.causaId} — no está en el corpus`
+  }
+  return v.subject || 'causa no registrada'
+}
+
+/** One window of a long response body. */
+export interface Page {
+  body: string
+  /** Characters before this window. */
+  offset: number
+  /** Characters after this window — 0 when the window reaches the end. */
+  remaining: number
+  total: number
+}
+
+/**
+ * Take a window of a long body, reporting exactly what was left out.
+ *
+ * Truncation was previously a one-way door: the tail was dropped and the only
+ * trace was prose ("…[truncado: 4624 caracteres más]") at the end of the text.
+ * Fine for a chat response, fatal for an item generator, which emits gold
+ * labels missing their tail with no way to notice and no way to ask for the
+ * rest. Offsets are exact character counts, never snapped to a word or line
+ * boundary, so `offset + body.length` is always the next window's offset and a
+ * caller can reassemble the whole body byte-for-byte.
+ */
+export function paginate(s: string, limit: number, offset = 0): Page {
+  const start = Math.max(0, Math.min(offset, s.length))
+  const body = s.slice(start, start + limit)
+  return {
+    body,
+    offset: start,
+    remaining: s.length - (start + body.length),
+    total: s.length,
+  }
+}
+
+/**
+ * The machine-readable line that must accompany a truncated window.
+ *
+ * Stable `clave=valor` fields on one line so a caller can parse it without
+ * guessing, and an explicit next call rather than a description of one.
+ * Returns null when nothing was withheld — the absence of this line is itself
+ * the signal that the body is complete.
+ */
+export function truncationNotice(p: Page, rawUrl?: string): string | null {
+  if (p.remaining <= 0 && p.offset === 0) return null
+  const next = p.offset + p.body.length
+  const parts = [
+    `[TRUNCADO] offset=${p.offset} fin=${next} total=${p.total} faltan=${p.remaining}`,
+  ]
+  if (p.remaining > 0) parts.push(`Repite la llamada con offset=${next} para el resto.`)
+  if (rawUrl) parts.push(`Texto íntegro sin recortar: ${rawUrl}`)
+  return parts.join(' · ')
+}
+
+/** An `offset` past the end is a caller error worth naming, not an empty body. */
+export function checkOffset(offset: number | undefined, total: number): Checked<number> {
+  if (offset === undefined) return { ok: true, value: 0 }
+  if (!Number.isInteger(offset) || offset < 0) {
+    return { ok: false, message: `\`offset\` debe ser un entero >= 0; recibí ${offset}.` }
+  }
+  if (offset >= total && total > 0) {
+    return {
+      ok: false,
+      message:
+        `\`offset\` ${offset} está más allá del final del texto (${total} caracteres). ` +
+        'El último offset útil es ' + (total - 1) + '.',
+    }
+  }
+  return { ok: true, value: offset }
 }
 
 /**

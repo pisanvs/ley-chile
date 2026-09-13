@@ -193,6 +193,35 @@ export async function getOrganismosByIds(ids: number[]): Promise<Map<number, str
   return new Map(rows.map((r) => [r.id_norma as number, (r.organismo ?? '') as string]))
 }
 
+/** Identity of the norma that caused a version, resolved live rather than read
+ *  off the commit subject.
+ *
+ *  `version.subject` is frozen at the moment build_history.py wrote the commit,
+ *  and a causa whose metadata the graph had not yet fetched was written with a
+ *  placeholder tipo — which is why the Código del Trabajo's version list still
+ *  says "Otras N°21561" for what is plainly Ley 21.561, and "Otra [id 1000928]"
+ *  for a causa it could not name at all. The graph has since been enriched
+ *  (idNorma 1191554 is typed `ley` today), but the strings in history cannot
+ *  change without rebuilding it. Resolving `causa_id` against `norma` at read
+ *  time fixes the whole corpus at once, and yields the idNorma a caller needs
+ *  to address the modifying norma directly. */
+export async function getCausaNormas(ids: number[]): Promise<Map<number, ModLink>> {
+  const unique = [...new Set(ids)]
+  if (unique.length === 0) return new Map()
+  const { rows } = await pool.query(
+    `SELECT id_norma, tipo, numero, titulo, fecha_publicacion
+       FROM norma WHERE id_norma = ANY($1)`,
+    [unique],
+  )
+  return new Map(rows.map((r) => [
+    r.id_norma as number,
+    {
+      idNorma: r.id_norma, tipo: r.tipo, numero: r.numero,
+      titulo: r.titulo ?? '', fecha: r.fecha_publicacion ?? '',
+    } as ModLink,
+  ]))
+}
+
 export async function getVersions(idNorma: number): Promise<Version[]> {
   const { rows } = await pool.query(
     `SELECT desde, hasta, commit_sha, causa_id, subject
