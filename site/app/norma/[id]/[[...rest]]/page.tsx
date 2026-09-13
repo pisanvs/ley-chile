@@ -140,6 +140,8 @@ export default async function Page({ params }: Props) {
           titulo: cleanTitulo(norma.titulo),
           organismo: norma.organismo,
           fechaPublicacion: norma.fechaPublicacion,
+          // RChD builds its entry on the denominación legal, not the título.
+          denominacion: norma.nombresUsoComun[0],
           fecha,
         }}
         banner={<AvisoBanner avisos={avisos} refundido={refundido} />}

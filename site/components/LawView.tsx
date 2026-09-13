@@ -116,6 +116,7 @@ export function LawView({
       numero: idx.norma.numero,
       titulo: idx.norma.titulo,
       organismo: cite?.organismo,
+      denominacion: cite?.denominacion,
       fechaPublicacion: cite?.fechaPublicacion ?? null,
       fecha: active?.date,
       url: `${window.location.origin}${window.location.pathname}`,
