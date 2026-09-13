@@ -237,40 +237,8 @@ export function renderCite(fmt: CiteFormat, s: CiteSource, today = new Date()): 
       ].filter(Boolean).join(', ') + '.'
 
     case 'rchd':
-    case 'rchd-nota': {
-      // Per UC's "Cómo citar según la Revista Chilena de Derecho", which gives
-      // the rule and one example for each of the two norm kinds:
-      //
-      //   Normas (Códigos y Constituciones)
-      //     bibliografía:   CHILE, Constitución Política de la República (11/08/1980).
-      //     cita abreviada: CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA, Chile.
-      //
-      //   Normas (Leyes no codificadas)
-      //     bibliografía:   CHILE, Ley N° 20.066 (22/09/2005) Ley de violencia intrafamiliar
-      //     cita abreviada: LEY N° 20.066 de 2005
-      //
-      // The guide sets everything in versales (small caps), which plain text
-      // cannot carry, so the copyable form uses ordinary capitals. Element
-      // order, punctuation and the date format follow the examples exactly —
-      // note that the ley entry carries no closing period and the Constitución
-      // entry does.
-      const named = s.tipo === 'cod'
-      if (fmt === 'rchd-nota') {
-        // The footnote form: name plus year, or the named norma plus the state.
-        return named
-          ? `${titleCase(s.titulo)}, Chile.`
-          : `${rchdName(s)}${art ? `, ${art}` : ''}${year ? ` de ${year}` : ''}`
-      }
-      if (named) return `Chile, ${titleCase(s.titulo)}${when(s)}.`
-      // "denominación legal si es que la tiene" — the short legal name, not the
-      // official título. Falling back to the título when there is none keeps
-      // the entry descriptive; see the note on sentenceCase for what that
-      // fallback cannot recover.
-      const denom = s.denominacion?.trim()
-        ? titleCase(s.denominacion.trim())
-        : sentenceCase(s.titulo)
-      return `Chile, ${rchdName(s)}${art ? `, ${art}` : ''}${when(s)}${denom ? ` ${denom}` : ''}`
-    }
+    case 'rchd-nota':
+      return partsToText(rchdParts(fmt, s, art, year))
 
     case 'apa':
       // APA 7 defers to local convention for non-US statutes; this follows its
@@ -342,3 +310,112 @@ export const CITE_FORMATS: { id: CiteFormat; label: string; hint?: string }[] = 
   { id: 'markdown', label: 'Markdown', hint: 'para enlazar' },
   { id: 'url', label: 'Enlace' },
 ]
+
+/* ------------------------------------------------------------------------- *
+ * Versalitas
+ *
+ * The Revista Chilena de Derecho sets one element of each entry in versales
+ * (small capitals): the state in a bibliography entry, the norma's name in a
+ * footnote. That is a typographic instruction, not a set of characters —
+ * Unicode has no small-capital ñ or í, and the "ᴄᴀᴘs" block would paste as
+ * mojibake into the Word document these citations are headed for.
+ *
+ * So the citation is built as parts that know which of them are versalitas,
+ * and each destination renders them the way it can: `text/html` on the
+ * clipboard carries `font-variant: small-caps`, which Word and Google Docs
+ * honour on paste; the `text/plain` fallback capitalises instead, which is how
+ * a printed bibliography reads when transcribed. The panel shows the real
+ * thing on screen.
+ * ------------------------------------------------------------------------- */
+
+export interface CitePart {
+  text: string
+  /** Set in versales — small capitals, not capitals. */
+  versalitas?: boolean
+}
+
+/** Plain-text rendering: versalitas degrade to capitals, the closest a
+ *  characters-only medium gets. */
+function partsToText(parts: CitePart[]): string {
+  return parts.map((p) => (p.versalitas ? p.text.toLocaleUpperCase('es') : p.text)).join('')
+}
+
+function escapeHtml(s: string): string {
+  return s.replace(/[&<>"]/g, (c) => `&${{ '&': 'amp', '<': 'lt', '>': 'gt', '"': 'quot' }[c]};`)
+}
+
+/**
+ * HTML rendering, for the clipboard's `text/html` flavour.
+ *
+ * Word applies small-caps to lowercase letters and leaves capitals full size,
+ * so the text handed to it keeps its original case — capitalising first would
+ * defeat the formatting it is asked to apply.
+ */
+export function renderCiteHtml(fmt: CiteFormat, s: CiteSource, today = new Date()): string {
+  const parts = citeParts(fmt, s, today)
+  return parts
+    .map((p) =>
+      p.versalitas
+        ? `<span style="font-variant: small-caps">${escapeHtml(p.text)}</span>`
+        : escapeHtml(p.text),
+    )
+    .join('')
+}
+
+/**
+ * The citation as parts. Only the RChD forms carry versalitas; every other
+ * format is one plain part, so callers can treat all formats uniformly.
+ */
+export function citeParts(fmt: CiteFormat, s: CiteSource, today = new Date()): CitePart[] {
+  if (fmt === 'rchd' || fmt === 'rchd-nota') {
+    return rchdParts(fmt, s, artShort(s.articulo), yearOf(s.fechaPublicacion))
+  }
+  return [{ text: renderCite(fmt, s, today) }]
+}
+
+/**
+ * Per UC's "Cómo citar según la Revista Chilena de Derecho", which gives the
+ * rule and one worked example for each of the two norm kinds:
+ *
+ *   Normas (Códigos y Constituciones)
+ *     bibliografía:   CHILE, Constitución Política de la República (11/08/1980).
+ *     cita abreviada: CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA, Chile.
+ *
+ *   Normas (Leyes no codificadas)
+ *     bibliografía:   CHILE, Ley N° 20.066 (22/09/2005) Ley de violencia intrafamiliar
+ *     cita abreviada: LEY N° 20.066 de 2005
+ *
+ * Element order, punctuation and date format follow the examples exactly —
+ * note that the ley entry carries no closing period and the Constitución entry
+ * does. The versalitas element is the state in the bibliography and the
+ * norma's name in the footnote, per the rule text beside each example.
+ */
+function rchdParts(
+  fmt: 'rchd' | 'rchd-nota',
+  s: CiteSource,
+  art: string | null,
+  year: string | null,
+): CitePart[] {
+  const named = s.tipo === 'cod'
+  const name = `${named ? titleCase(s.titulo) : rchdName(s)}${art ? `, ${art}` : ''}`
+
+  if (fmt === 'rchd-nota') {
+    return named
+      ? [{ text: name, versalitas: true }, { text: ', Chile.' }]
+      : [{ text: name, versalitas: true }, { text: year ? ` de ${year}` : '' }]
+  }
+
+  if (named) {
+    return [{ text: 'Chile', versalitas: true }, { text: `, ${name}${when(s)}.` }]
+  }
+  // "denominación legal si es que la tiene" — the short legal name, not the
+  // official título. Falling back to the título when there is none keeps the
+  // entry descriptive; see the note on sentenceCase for what it cannot recover.
+  const denom = s.denominacion?.trim()
+    ? titleCase(s.denominacion.trim())
+    : sentenceCase(s.titulo)
+  return [
+    { text: 'Chile', versalitas: true },
+    { text: `, ${name}${when(s)}${denom ? ` ${denom}` : ''}` },
+  ]
+}

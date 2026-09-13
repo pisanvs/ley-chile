@@ -2,7 +2,13 @@
 
 import { useEffect, useRef, useState } from 'react'
 
-import { CITE_FORMATS, renderCite, type CiteFormat, type CiteSource } from '@/lib/cite'
+import {
+  CITE_FORMATS,
+  renderCite,
+  renderCiteHtml,
+  type CiteFormat,
+  type CiteSource,
+} from '@/lib/cite'
 
 /**
  * "citar ▾" — copies a citation for this article in the reader's format.
@@ -50,8 +56,21 @@ export function CiteButton({
     // cite the wrong date — the exact error this feature exists to prevent.
     const { origin, pathname } = window.location
     const url = `${origin}${pathname}#art-${slug}`
+    const full = { ...source, url }
     try {
-      await navigator.clipboard.writeText(renderCite(fmt, { ...source, url }))
+      // Both flavours, so a paste into Word keeps the versalitas the Revista
+      // Chilena de Derecho requires. Same contract as CiteFormatList.
+      const text = renderCite(fmt, full)
+      if (typeof ClipboardItem !== 'undefined' && navigator.clipboard?.write) {
+        await navigator.clipboard.write([
+          new ClipboardItem({
+            'text/html': new Blob([renderCiteHtml(fmt, full)], { type: 'text/html' }),
+            'text/plain': new Blob([text], { type: 'text/plain' }),
+          }),
+        ])
+      } else {
+        await navigator.clipboard.writeText(text)
+      }
       setCopied(fmt)
       setTimeout(() => setCopied(null), 1600)
     } catch {
