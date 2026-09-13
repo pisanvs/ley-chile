@@ -15,7 +15,8 @@
  */
 
 export type CiteFormat =
-  | 'chile' | 'rchd' | 'apa' | 'mla' | 'chicago' | 'bibtex' | 'ris' | 'markdown' | 'url'
+  | 'chile' | 'rchd' | 'rchd-nota'
+  | 'apa' | 'mla' | 'chicago' | 'bibtex' | 'ris' | 'markdown' | 'url'
 
 export interface CiteSource {
   tipo: string
@@ -29,6 +30,14 @@ export interface CiteSource {
   url: string
   /** Article label as displayed, e.g. "Artículo 12". Absent cites the norma. */
   articulo?: string
+  /**
+   * The norma's short legal name — "Ley de violencia intrafamiliar" — from the
+   * corpus's `nombres_uso_comun`. The Revista Chilena de Derecho's entry is
+   * built on this "denominación legal", not on the official título. Sparse:
+   * most normas have none, and the guide says to include it only "si es que la
+   * tiene".
+   */
+  denominacion?: string
 }
 
 const MESES = [
@@ -108,6 +117,12 @@ function citeName(s: CiteSource): string {
   return `${base}, del ${titleCase(s.organismo)}`
 }
 
+/** " (22/09/2005)" — the parenthesised publication date, or nothing. */
+function when(s: CiteSource): string {
+  const d = slashDate(s.fechaPublicacion)
+  return d ? ` (${d})` : ''
+}
+
 /** "28/08/1999" — the date form the Revista Chilena de Derecho uses. */
 function slashDate(iso?: string | null): string | null {
   if (!iso || !/^\d{4}-\d{2}-\d{2}$/.test(iso)) return null
@@ -163,18 +178,25 @@ export function titleCase(s: string): string {
 /**
  * The norma's name in the Revista Chilena de Derecho's form.
  *
- * Differs from `normaName` in its ordinal mark: the journal writes "Nº" (N +
- * masculine ordinal) where the rest of the site writes "N°" (N + degree sign).
- * They look nearly identical and are not the same character; a reference list
- * that mixes them is visibly inconsistent to the copy editor reading it.
+ * The ordinal mark here is "N°" (N + degree sign), following UC's guide, which
+ * prints "Ley N° 20.066". Published articles in the journal can be found using
+ * "Nº" (N + masculine ordinal) instead — the two glyphs are nearly
+ * indistinguishable and the difference survives a copy-paste, so it is worth
+ * pinning deliberately rather than leaving to whichever source was read last.
+ * Changing it is the one character below, and RCHD_ORDINAL exists so that the
+ * change is one place rather than several.
+ *
+ * The degree sign also matches `normaName`, so a document that mixes this
+ * format with the site's other output stays internally consistent.
  */
+const RCHD_ORDINAL = '°' 
 function rchdName(s: CiteSource): string {
   const label: Record<string, string> = {
     ley: 'Ley', dl: 'Decreto Ley', dfl: 'Decreto con Fuerza de Ley',
     dto: 'Decreto', res: 'Resolución',
   }
   const kind = label[s.tipo] ?? s.tipo.toUpperCase()
-  return `${kind} Nº ${prettyNumero(s.numero)}`
+  return `${kind} N${RCHD_ORDINAL} ${prettyNumero(s.numero)}`
 }
 
 /** "art. 12" from "Artículo 12" — citation styles abbreviate. */
@@ -214,30 +236,40 @@ export function renderCite(fmt: CiteFormat, s: CiteSource, today = new Date()): 
         pub ? `${DO.replace(' de la República de Chile', '')}, ${pub}` : null,
       ].filter(Boolean).join(', ') + '.'
 
-    case 'rchd': {
-      // Revista Chilena de Derecho's legislation entry:
-      //   Chile, Ley Nº 19.628. Sobre protección de la vida privada (28/08/1999).
-      //   Chile, Constitución Política de la República (11/08/1980).
+    case 'rchd':
+    case 'rchd-nota': {
+      // Per UC's "Cómo citar según la Revista Chilena de Derecho", which gives
+      // the rule and one example for each of the two norm kinds:
       //
-      // Jurisdiction first, then the norma, then its title in sentence case,
-      // then the publication date as DD/MM/YYYY. No Diario Oficial and no URL —
-      // neither appears in the journal's entries.
+      //   Normas (Códigos y Constituciones)
+      //     bibliografía:   CHILE, Constitución Política de la República (11/08/1980).
+      //     cita abreviada: CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA, Chile.
       //
-      // A named norma (a código, the Constitución) carries its title as its
-      // name, so it is printed once rather than repeated.
+      //   Normas (Leyes no codificadas)
+      //     bibliografía:   CHILE, Ley N° 20.066 (22/09/2005) Ley de violencia intrafamiliar
+      //     cita abreviada: LEY N° 20.066 de 2005
+      //
+      // The guide sets everything in versales (small caps), which plain text
+      // cannot carry, so the copyable form uses ordinary capitals. Element
+      // order, punctuation and the date format follow the examples exactly —
+      // note that the ley entry carries no closing period and the Constitución
+      // entry does.
       const named = s.tipo === 'cod'
-      const head = named ? titleCase(s.titulo) : rchdName(s)
-      const body = named ? '' : sentenceCase(s.titulo)
-      const when = slashDate(s.fechaPublicacion)
-      // The examples are reference-list entries for whole normas, so the
-      // article is an extension of the style rather than something observed in
-      // it; it goes where the rest of the identifier goes.
-      return (
-        `Chile, ${head}${art ? `, ${art}` : ''}` +
-        (body ? `. ${body}` : '') +
-        (when ? ` (${when})` : '') +
-        '.'
-      )
+      if (fmt === 'rchd-nota') {
+        // The footnote form: name plus year, or the named norma plus the state.
+        return named
+          ? `${titleCase(s.titulo)}, Chile.`
+          : `${rchdName(s)}${art ? `, ${art}` : ''}${year ? ` de ${year}` : ''}`
+      }
+      if (named) return `Chile, ${titleCase(s.titulo)}${when(s)}.`
+      // "denominación legal si es que la tiene" — the short legal name, not the
+      // official título. Falling back to the título when there is none keeps
+      // the entry descriptive; see the note on sentenceCase for what that
+      // fallback cannot recover.
+      const denom = s.denominacion?.trim()
+        ? titleCase(s.denominacion.trim())
+        : sentenceCase(s.titulo)
+      return `Chile, ${rchdName(s)}${art ? `, ${art}` : ''}${when(s)}${denom ? ` ${denom}` : ''}`
     }
 
     case 'apa':
@@ -297,7 +329,11 @@ export const CITE_FORMATS: { id: CiteFormat; label: string; hint?: string }[] = 
   { id: 'chile', label: 'Cita legal', hint: 'uso chileno' },
   // The hint is a warning, not a feature note: the corpus stores títulos in
   // capitals, so the recased title cannot know which words were proper nouns.
-  { id: 'rchd', label: 'Rev. Chilena de Derecho', hint: 'revisa nombres propios' },
+  // The journal's guide gives a bibliography entry and a footnote form for
+  // every source type, and legal writing uses the footnote far more often, so
+  // both are offered rather than only the reference-list entry.
+  { id: 'rchd', label: 'Rev. Chilena de Derecho', hint: 'bibliografía' },
+  { id: 'rchd-nota', label: 'RChD', hint: 'cita abreviada, a pie de página' },
   { id: 'apa', label: 'APA 7' },
   { id: 'mla', label: 'MLA 9' },
   { id: 'chicago', label: 'Chicago' },

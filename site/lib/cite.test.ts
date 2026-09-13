@@ -143,69 +143,91 @@ describe('renderCite', () => {
 })
 
 describe('renderCite — Revista Chilena de Derecho', () => {
-  // Asserted against entries copied from the journal's own reference lists.
-  const mk = (over: Partial<CiteSource>): CiteSource => ({
-    tipo: 'ley', numero: '19628', titulo: 'SOBRE PROTECCIÓN DE LA VIDA PRIVADA',
-    fechaPublicacion: '1999-08-28', url: 'https://leyes.pisanvs.cl/ley/19628', ...over,
-  })
+  // Asserted against UC's "Cómo citar según la Revista Chilena de Derecho",
+  // which prints one worked example per norm kind. The guide sets everything in
+  // versales; plain text cannot carry small caps, so ordinary capitals are used
+  // and the rest — element order, punctuation, date format — is followed
+  // exactly, including the ley entry's lack of a closing period.
+  const ley20066: CiteSource = {
+    tipo: 'ley', numero: '20066',
+    titulo: 'ESTABLECE LEY DE VIOLENCIA INTRAFAMILIAR',
+    denominacion: 'LEY DE VIOLENCIA INTRAFAMILIAR',
+    fechaPublicacion: '2005-09-22', url: 'https://leyes.pisanvs.cl/ley/20066',
+  }
+  const constitucion: CiteSource = {
+    tipo: 'cod', numero: 'POLITICA',
+    titulo: 'CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA',
+    fechaPublicacion: '1980-08-11', url: 'https://leyes.pisanvs.cl/norma/242302',
+  }
 
-  it('renders a ley exactly as the journal prints it', () => {
-    expect(renderCite('rchd', mk({}))).toBe(
-      'Chile, Ley Nº 19.628. Sobre protección de la vida privada (28/08/1999).',
+  it("matches the guide's ley entry", () => {
+    // CHILE, Ley N° 20.066 (22/09/2005) Ley de violencia intrafamiliar
+    expect(renderCite('rchd', ley20066)).toBe(
+      'Chile, Ley N° 20.066 (22/09/2005) Ley de Violencia Intrafamiliar',
     )
   })
 
-  it('renders a decreto', () => {
-    expect(renderCite('rchd', mk({
-      tipo: 'dto', numero: '201', fechaPublicacion: '2008-09-17',
-      titulo: 'PROMULGA LA CONVENCIÓN DE LAS NACIONES UNIDAS SOBRE LOS DERECHOS DE LAS ' +
-        'PERSONAS CON DISCAPACIDAD Y SU PROTOCOLO FACULTATIVO',
-    }))).toBe(
-      'Chile, Decreto Nº 201. Promulga la convención de las naciones unidas sobre los ' +
-      'derechos de las personas con discapacidad y su protocolo facultativo (17/09/2008).',
+  it("matches the guide's ley footnote form", () => {
+    // LEY N° 20.066 de 2005
+    expect(renderCite('rchd-nota', ley20066)).toBe('Ley N° 20.066 de 2005')
+  })
+
+  it("matches the guide's Constitución entry", () => {
+    // CHILE, Constitución Política de la República (11/08/1980).
+    expect(renderCite('rchd', constitucion)).toBe(
+      'Chile, Constitución Política de la República (11/08/1980).',
     )
   })
 
-  it('prints a named norma once, with no repeated title', () => {
-    // "Chile, Constitución Política de la República (11/08/1980)." — the name
-    // *is* the title, so there is no second clause and no period before it.
-    expect(renderCite('rchd', mk({
-      tipo: 'cod', numero: 'POLITICA', titulo: 'CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA',
-      fechaPublicacion: '1980-08-11',
-    }))).toBe('Chile, Constitución Política de la República (11/08/1980).')
+  it("matches the guide's Constitución footnote form", () => {
+    // CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA, Chile.
+    expect(renderCite('rchd-nota', constitucion)).toBe(
+      'Constitución Política de la República, Chile.',
+    )
   })
 
-  it('uses Nº, the ordinal mark, not the degree sign the rest of the site uses', () => {
-    const out = renderCite('rchd', mk({}))
-    expect(out).toContain('Ley Nº 19.628')
-    expect(out).not.toContain('N°')
-    // The two characters are visually near-identical; pin the codepoint.
-    expect(out).toContain('Nº')
+  it('puts the date before the denominación, not after it', () => {
+    // The ordering that distinguishes this style: the publication date sits
+    // between the norma and its name, and the entry does not end in a period.
+    const out = renderCite('rchd', ley20066)
+    expect(out.indexOf('(22/09/2005)')).toBeLessThan(out.indexOf('Violencia'))
+    expect(out.endsWith('.')).toBe(false)
   })
 
-  it('omits the Diario Oficial and the URL, which the journal does not print', () => {
-    const out = renderCite('rchd', mk({}))
-    expect(out).not.toContain('Diario Oficial')
-    expect(out).not.toContain('http')
+  it('falls back to the official título when there is no denominación legal', () => {
+    // The guide says to include the denominación "si es que la tiene".
+    expect(renderCite('rchd', { ...ley20066, denominacion: undefined })).toBe(
+      'Chile, Ley N° 20.066 (22/09/2005) Establece ley de violencia intrafamiliar',
+    )
+  })
+
+  it('omits the Diario Oficial and the URL, which the guide never prints', () => {
+    for (const fmt of ['rchd', 'rchd-nota'] as const) {
+      expect(renderCite(fmt, ley20066)).not.toContain('Diario Oficial')
+      expect(renderCite(fmt, ley20066)).not.toContain('http')
+    }
+  })
+
+  it('uses the degree sign, following the guide', () => {
+    // Published articles can be found using "Nº" (masculine ordinal) instead.
+    // The glyphs are near-identical and the difference survives a copy-paste,
+    // so it is pinned rather than left to whichever source was read last.
+    expect(renderCite('rchd', ley20066)).toContain('Ley N\u00B0 20.066')
+    expect(renderCite('rchd', ley20066)).not.toContain('\u00BA')
   })
 
   it('carries the article when one is being cited', () => {
-    expect(renderCite('rchd', mk({ articulo: 'Artículo 3' }))).toBe(
-      'Chile, Ley Nº 19.628, art. 3. Sobre protección de la vida privada (28/08/1999).',
+    expect(renderCite('rchd-nota', { ...ley20066, articulo: 'Artículo 5' })).toBe(
+      'Ley N° 20.066, art. 5 de 2005',
     )
   })
 
   it('falls back cleanly when the publication date is unknown', () => {
-    expect(renderCite('rchd', mk({ fechaPublicacion: null }))).toBe(
-      'Chile, Ley Nº 19.628. Sobre protección de la vida privada.',
+    expect(renderCite('rchd', { ...ley20066, fechaPublicacion: null })).toBe(
+      'Chile, Ley N° 20.066 Ley de Violencia Intrafamiliar',
     )
-  })
-
-  it('leaves a title that is already mixed case alone', () => {
-    // Recasing only applies to the all-caps titles the corpus stores; a title
-    // that already distinguishes proper nouns must not be flattened.
-    expect(renderCite('rchd', mk({ titulo: 'Sobre el Banco del Estado de Chile' }))).toContain(
-      '. Sobre el Banco del Estado de Chile (',
+    expect(renderCite('rchd-nota', { ...ley20066, fechaPublicacion: null })).toBe(
+      'Ley N° 20.066',
     )
   })
 })
@@ -280,11 +302,17 @@ describe('disambiguation — a number alone does not name a decreto', () => {
     expect(renderCite('ris', dfl)).toContain('TI  - Decreto con Fuerza de Ley N° 1')
   })
 
-  it('follows the journal for RChD, which does not disambiguate either', () => {
-    // "Chile, Decreto Nº 873. Aprueba Convención Americana…" — the style puts
-    // the burden on the title, and the examples carry no organismo.
+  it('follows the guide for RChD, which does not disambiguate either', () => {
+    // UC's guide gives no decreto example and no slot for an organismo; the
+    // style leans on the denominación legal instead. Followed rather than
+    // extended — an invented element is not the journal's format.
     expect(renderCite('rchd', dfl)).toBe(
-      'Chile, Decreto con Fuerza de Ley Nº 1. Fija texto refundido de la ley de tránsito (07/02/2009).',
+      'Chile, Decreto con Fuerza de Ley N° 1 (07/02/2009) Fija texto refundido de la ley de tránsito',
+    )
+    // With the denominación the corpus actually holds for this DFL, the entry
+    // identifies it the way the style intends.
+    expect(renderCite('rchd', { ...dfl, denominacion: 'LEY DE TRÁNSITO' })).toBe(
+      'Chile, Decreto con Fuerza de Ley N° 1 (07/02/2009) Ley de Tránsito',
     )
   })
 })

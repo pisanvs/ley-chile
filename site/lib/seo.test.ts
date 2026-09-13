@@ -9,6 +9,7 @@ const LEY: Norma = {
   idNorma: 1200096, tipo: 'otras', numero: '21643', titulo: 'LEY KARIN',
   organismo: 'MINTRAB', derogado: false, fechaPublicacion: '2024-01-15',
   lawDir: 'modificaciones/21643',
+  nombresUsoComun: [],
 }
 
 function v(desde: string, hasta: string | null): Version {

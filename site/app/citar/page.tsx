@@ -13,7 +13,7 @@ import { CiteFormatList } from '@/components/CiteFormatList'
 import { normaName, type CiteSource } from '@/lib/cite'
 
 /**
- * `/citar` — find a Chilean norma and get its citation in nine formats.
+ * `/citar` — find a Chilean norma and get its citation in every supported format.
  *
  * Server-rendered on purpose. The point of this page is to rank for "cómo citar
  * una ley chilena" and its variants, so the guide has to be in the HTML, and
@@ -93,6 +93,9 @@ export default async function Page({ searchParams }: SP) {
         titulo: cleanTitulo(norma.titulo),
         organismo: norma.organismo,
         fechaPublicacion: norma.fechaPublicacion,
+        // The Revista Chilena de Derecho's entry is built on the denominación
+        // legal ("Ley de violencia intrafamiliar"), not the official título.
+        denominacion: norma.nombresUsoComun[0],
         fecha: fecha ?? undefined,
         url: `${SITE}${canonicalHref(norma, fecha)}`,
       }
