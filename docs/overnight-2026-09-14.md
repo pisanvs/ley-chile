@@ -465,3 +465,82 @@ Detection is pinned: `version/no-anachronistic-articles` in `site/scripts/checks
 - 89 `vigencia/open-not-last` — the benign half of the zero-duration idiom.
 - 78 modification edges dated with the sentinel.
 - 332 normas whose first version predates publication (usually lawful retroactivity).
+
+---
+
+# Second hunt — surfaces outside the MCP
+
+The MCP tools got the whole night's attention. These are the other public
+surfaces. Nothing here is fixed; my branch does not touch `/api/text` at all
+(`git diff --stat origin/deploy/railway..HEAD -- site/app/api/text` is empty).
+
+## P0 — `/api/text` reads Chilean dates in US order
+
+`site/app/api/text/[id]/[fecha]/route.ts` validates that `id` is a finite
+number and **does not validate `fecha` at all** — it goes straight into SQL as
+`$2::date`, so Postgres's `DateStyle` decides what the date means. It is MDY.
+
+Código del Trabajo (idNorma 207436), by response size:
+
+| request | bytes | resolves to |
+|---|---|---|
+| `/api/text/207436/2024-01-06` | 698,235 | 6 January 2024 |
+| `/api/text/207436/2024-06-01` | 708,079 | 1 June 2024 |
+| **`/api/text/207436/01-06-2024`** | **698,235** | **6 January** — not 1 June |
+
+Confirmed by the month-13 probe: `13-09-2024` → **500**, `09-13-2024` → **200**
+(720,545 b). Month-first, unambiguously.
+
+A Chilean lawyer writing `01-06-2024` means 1 June and silently receives a
+different version of the Código del Trabajo, ~10 KB apart. This is the endpoint
+`get_raw_link` advertises as *"El enlace es estable: (norma, fecha) siempre
+devuelve el mismo texto"* and *"para citar el texto exacto vigente en una
+fecha"*. A citation-grade endpoint applying US date order to Chilean legal dates
+is the same class of defect as the MCP's `03-09-2024` bug — which is fixed on
+this branch, while this one is not.
+
+## P1 — `/api/text` has no error contract
+
+| request | returns | should be |
+|---|---|---|
+| `/api/text/235507/banana` | **500**, empty | 400 |
+| `/api/text/235507/2024-02-30` | **500**, empty | 400 |
+| `/api/text/207436/13-09-2024` | **500**, empty | 400 |
+| `/api/text/999999999/2024-01-01` | **200**, 0 bytes | 404 |
+| `/api/text/235507/2000-01-01` (pre-enactment) | **200**, 0 bytes | 404 or an explanation |
+| `/api/text/235507/2030-01-01` (future) | **200**, full text | text plus a horizon signal |
+
+Two distinct problems. Malformed input **500s** — user input should never reach
+the error budget as a server fault. And a nonexistent norma returns **200 with
+an empty body**, which a caller cannot tell from a law that genuinely has no
+text at that date.
+
+The rest of the site already gets this right, which makes it an inconsistency
+rather than an oversight: `/api/idx/commits/999999999` returns a clean **404**,
+and the reader page `/norma/{id}/{slug}/{fecha}` returns **404** for every one of
+the ambiguous, malformed and nonexistent inputs above. Same bad input, three
+different behaviours depending on which door you knock on.
+
+## Confirmed, already covered
+
+`/api/search?q=SANCIONA EL TRAFICO ILICITO DE ESTUPEFACIENTES` returns `dto 40`
+first, not ley 20.000 — the search defect reaches the ⌘K palette surface too,
+which is what the title-tier fix in **D** addresses.
+
+## Unverified — needs a key
+
+`/api/v1/*` requires `Authorization: Bearer lc_live_…`. Eight documented
+endpoints (`/search`, `/normas/{id}`, `/articulos`, `/articulos/{slug}`,
+`/versiones`, `/diff`, `/modificaciones`, `/raw`) are therefore untested. Worth
+knowing whether `/api/v1/normas/{id}/diff` refuses a reversed range, since
+`lib/apiparams.ts` validates dates strictly but nothing there checks ordering.
+**Give me a read-only key and I can probe it.**
+
+## Checked and clean — not defects
+
+- `/dfl/1` and `/res/1` serve proper disambiguation pages ("227 normas con esta
+  clave"), so the web layer handles the ambiguous key correctly.
+- `/api/idx/*` returns 404 for unknown ids.
+- Reader pages reject malformed and ambiguous dates.
+- `llms.txt`'s "`numero` … (no el idNorma interno)" is about URL construction and
+  reads correctly in context.
