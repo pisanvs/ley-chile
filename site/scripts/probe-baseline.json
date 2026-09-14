@@ -1,0 +1,179 @@
+{
+  "endpoint": "https://leyes.pisanvs.cl/api/mcp",
+  "updated": "2026-09-14",
+  "probes": {
+    "boundary/day-before-repeal": {
+      "status": "pass",
+      "digest": "f7de8d998a35"
+    },
+    "boundary/day-of-repeal": {
+      "status": "pass",
+      "digest": "5effd943c84c"
+    },
+    "date/reversed-range": {
+      "status": "fail",
+      "digest": "ae450cb5d07a",
+      "failures": [
+        "does NOT contain \"MODIFICADO\"",
+        "matches /desde|anterior|intercambia/"
+      ]
+    },
+    "date/equal-range": {
+      "status": "fail",
+      "digest": "e32d792a6cfc",
+      "failures": [
+        "matches /misma fecha|nada que comparar/"
+      ]
+    },
+    "date/ambiguous-ddmmyyyy": {
+      "status": "fail",
+      "digest": "7783f1a56b1a",
+      "failures": [
+        "does NOT contain \"vigente al 03-09-2024\""
+      ]
+    },
+    "date/nonsense": {
+      "status": "pass",
+      "digest": "a3702f1838b3"
+    },
+    "date/impossible-calendar-day": {
+      "status": "pass",
+      "digest": "ceca627fe7ed"
+    },
+    "date/pre-enactment": {
+      "status": "fail",
+      "digest": "6be56e874d47",
+      "failures": [
+        "does NOT contain \"No se encontró el artículo\"",
+        "contains \"2005-02-16\""
+      ]
+    },
+    "date/pre-enactment-no-bare-ellipsis": {
+      "status": "fail",
+      "digest": "6be56e874d47",
+      "failures": [
+        "does NOT match /Disponibles:\\s*…/"
+      ]
+    },
+    "date/future-horizon": {
+      "status": "fail",
+      "digest": "573c9615ef3a",
+      "failures": [
+        "matches /FUTURA|extrapolaci|última versión conocida/"
+      ]
+    },
+    "label/abbreviated": {
+      "status": "fail",
+      "digest": "180a9a2e02c6",
+      "failures": [
+        "contains \"cooperación eficaz\""
+      ]
+    },
+    "label/ordinal-marker": {
+      "status": "fail",
+      "digest": "78ffb3d07c5d",
+      "failures": [
+        "contains \"cooperación eficaz\""
+      ]
+    },
+    "label/url-slug": {
+      "status": "pass",
+      "digest": "f7de8d998a35"
+    },
+    "vigencia/phase-in-not-yet-binding": {
+      "status": "fail",
+      "digest": "cf522ed578db",
+      "failures": [
+        "matches /VIGENCIA GRADUAL/"
+      ]
+    },
+    "vigencia/quiet-once-complete": {
+      "status": "pass",
+      "digest": "d3111d77605c"
+    },
+    "diff/no-mid-word-fragments": {
+      "status": "fail",
+      "digest": "302e9025cb39",
+      "failures": [
+        "does NOT match /\\[[-+]\\] (?:uministre|ministre\\b(?! )|ños |in el\\b|s grados)/"
+      ]
+    },
+    "diff/truncation-is-machine-readable": {
+      "status": "fail",
+      "digest": "302e9025cb39",
+      "failures": [
+        "matches /\\[TRUNCADO\\] offset=\\d+ fin=\\d+ total=\\d+ faltan=\\d+|^(?![\\s\\S]*truncado)/"
+      ]
+    },
+    "ambiguity/dfl-1-lists-candidates": {
+      "status": "pass",
+      "digest": "7c07c6152907"
+    },
+    "ambiguity/unknown-norma": {
+      "status": "pass",
+      "digest": "695f92cd566c"
+    },
+    "causa/no-placeholder-tipo": {
+      "status": "fail",
+      "digest": "3fabc2394e5f",
+      "failures": [
+        "does NOT match /Otras? N°\\d+/",
+        "does NOT match /Otra \\[id \\d+\\]/"
+      ]
+    },
+    "search/known-item-by-official-title": {
+      "status": "fail",
+      "digest": "06036427c900",
+      "failures": [
+        "contains \"235507\""
+      ]
+    },
+    "search/known-item-by-number": {
+      "status": "pass",
+      "digest": "ecc5acc1ac8d"
+    },
+    "search/known-item-by-common-name": {
+      "status": "fail",
+      "digest": "247e90d172d5",
+      "failures": [
+        "contains \"1191554\""
+      ]
+    },
+    "diff/ops-are-quotable": {
+      "status": "fail",
+      "digest": "0e6ebbeaaa3b",
+      "failures": [
+        "contains \"deletion in articulo 5 appears only mid-word, so it is a slice and not a quotation in the 2005-02-16 text: \\\"uministre a menores de dieciocho años de edad, a cualquier título, pro…\\\"\"",
+        "contains \"insertion in articulo 5 appears only mid-word, so it is a slice and not a quotation in the 2026-05-23 text: \\\"in el consentimiento de la persona afectada le administre a ésta algun…\\\"\""
+      ]
+    },
+    "diff/no-fragment-shaped-ops": {
+      "status": "fail",
+      "digest": "f75367486f53",
+      "failures": [
+        "contains \"edit begins mid-word: \\\"uministre a menores de dieciocho años de edad, a cualquier título, pro…\\\"\"",
+        "contains \"edit begins mid-word: \\\"s grados…\\\"\"",
+        "contains \"edit begins mid-word: \\\"in el consentimiento de la persona afectada le administre a ésta algun…\\\"\"",
+        "contains \"edit ends mid-word: \\\"…ormar trimestralmente al Ministerio del Interior y Seguridad Pública y\\\"\""
+      ]
+    },
+    "version/boundaries-are-real-discontinuities": {
+      "status": "pass",
+      "digest": "e3b0c44298fc"
+    },
+    "version/series-covers-every-day": {
+      "status": "pass",
+      "digest": "e3b0c44298fc"
+    },
+    "search/self-retrieval": {
+      "status": "fail",
+      "digest": "5f6ec7796a04",
+      "failures": [
+        "contains \"idNorma 1191554 (ley 21561) does not retrieve itself by its own título: \\\"MODIFICA EL CÓDIGO DEL TRABAJO CON EL OBJETO DE REDUCIR LA J…\\\"\"",
+        "contains \"idNorma 207436 (dfl 1) does not retrieve itself by its own título: \\\"FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL CODI…\\\"\"",
+        "contains \"idNorma 242302 (ley 19300) does not retrieve itself by its own título: \\\"FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CO…\\\"\"",
+        "contains \"idNorma 1039348 (ley 20584) does not retrieve itself by its own título: \\\"REGULA LOS DERECHOS Y DEBERES QUE TIENEN LAS PERSONAS EN REL…\\\"\""
+      ]
+    }
+  }
+}
