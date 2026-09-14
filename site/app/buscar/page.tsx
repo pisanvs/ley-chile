@@ -79,6 +79,10 @@ async function Buscar({
   // full-text, then the cold-corpus section. runSearch already deduped, so a
   // norma appears in exactly one group.
   const exact = results.filter((h) => h.tier === 'exact')
+  // Norma-level title matches. This partition renders every tier runSearch can
+  // return: a tier with no section here is invisible on this page no matter how
+  // well it ranked, which is how the title tier would have been lost.
+  const titulo = results.filter((h) => h.tier === 'titulo')
   const hot = results.filter((h) => h.tier === 'hot')
   const cold = results.filter((h) => h.tier === 'cold')
   for (const h of cold) recordEvent({ kind: 'cold_surface', idNorma: h.idNorma, tier: 'cold' })
@@ -106,15 +110,28 @@ async function Buscar({
               {exact.map((h) => <ResultCard key={`exact-${h.idNorma}`} hit={h} />)}
             </ul>
           )}
-          {hot.length > 0 && (
+          {titulo.length > 0 && (
             <>
               {exact.length > 0 && (
+                <h2 className="mt-10 flex items-center gap-3 text-xs font-semibold uppercase tracking-[0.14em] text-ink-faint">
+                  <span>Coincidencias en el título</span>
+                  <span className="h-px flex-1 bg-rule" />
+                </h2>
+              )}
+              <ul className={`${exact.length > 0 ? 'mt-4' : 'mt-6'} space-y-3`}>
+                {titulo.map((h) => <ResultCard key={`titulo-${h.idNorma}`} hit={h} />)}
+              </ul>
+            </>
+          )}
+          {hot.length > 0 && (
+            <>
+              {(exact.length > 0 || titulo.length > 0) && (
                 <h2 className="mt-10 flex items-center gap-3 text-xs font-semibold uppercase tracking-[0.14em] text-ink-faint">
                   <span>Coincidencias en el texto</span>
                   <span className="h-px flex-1 bg-rule" />
                 </h2>
               )}
-              <ul className={`${exact.length > 0 ? 'mt-4' : 'mt-6'} space-y-3`}>
+              <ul className={`${exact.length > 0 || titulo.length > 0 ? 'mt-4' : 'mt-6'} space-y-3`}>
                 {hot.map((h) => <ResultCard key={`hot-${h.idNorma}:${h.slug}`} hit={h} />)}
               </ul>
             </>

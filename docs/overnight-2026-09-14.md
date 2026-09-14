@@ -12,7 +12,7 @@ is black-box probing plus offline analysis of `graph_shards/`.
 - [x] **A** — probe harness + baseline
 - [x] **B** — corpus-wide invariant sweep over `graph_shards`
 - [x] **C** — version-completeness gap (measured; root cause characterised, fix proposed)
-- [ ] **D** — search ranking
+- [x] **D** — search ranking (root-caused and fixed; awaiting deploy to measure)
 - [ ] **E** — vigencia warnings into `diff_versions` / `get_law`; close what B–D surface
 
 ---
@@ -222,7 +222,95 @@ and `get_article` compare it against what the read model actually holds — then
 say so when the history is short. BCN would never tell you its own record is
 incomplete; being able to is squarely in 10x territory. Carried into **E**.
 
+---
+
+## D — search (fixed)
+
+### Root cause: títulos were never searched
+
+`runSearchDetailed` in `full` mode consulted exactly three tiers:
+`searchByNumber` (exact `numero`), `searchHot` (Meilisearch over the `articulos`
+index) and `searchDeep` (Postgres FTS via `search_articulos_deep`). **Both
+full-text tiers search article BODIES.**
+
+The norma-level index that holds títulos and common names —
+`search_normas_typeahead`, with its own `tsv` and a `prominence` ranking — already
+existed, was already indexed, and was wired *only* to the ⌘K palette. In `full`
+mode it was never called.
+
+So the teardown's reading was right and understated: titles do not carry too
+little weight, they carry **none**, because the words are never compared against
+a title at all. `search_laws` (the MCP tool) goes through `full` mode. Pasting a
+law's official título searched only article bodies, and a título's words appear
+in thousands of unrelated articles.
+
+### The fix
+
+`full` mode now runs the norma-level tier alongside the hot tier and composes
+precision-first: **exact number → título → hot body → deep body**, deduped by
+norma so one appears once at its best rank.
+
+- `titleTierCap(limit)` = half the page, floor, never below 3. A known-item query
+  is answered almost entirely by this tier; a broad topical query ("medio
+  ambiente") matches hundreds of títulos and would fill every slot, pushing out
+  the article hits that answer what was asked. Half guarantees the former without
+  surrendering the latter.
+- New `titulo` tier, distinct from `typeahead`: same query, different label,
+  because `/buscar` and the analytics must be able to tell "found by title" from
+  "shown while typing".
+- `app/buscar/page.tsx` partitions results by tier into named sections and
+  renders only the tiers it knows — so a new tier would have been **silently
+  dropped from the page** no matter how well it ranked. Added a
+  "Coincidencias en el título" section.
+- `needsColdPath` still keys on the hot tier alone: the deep tier answers a
+  different question, and a page full of títulos is not a reason to stop looking.
+
+9 tests in `lib/search.titles.test.ts`, including the known-item case, the
+cap under a topical flood, dedupe across tiers, and behaviour with Meilisearch
+down (the title tier is pure Postgres and has no reason to care).
+
+### Baselines, measured against production BEFORE the fix
+
+`site/scripts/searcheval.ts` — known-item retrieval, the one task with an
+unarguable right answer. Four query shapes per norma.
+
+    cd site && pnpm exec tsx scripts/searcheval.ts --sample 40
+    cd site && pnpm exec tsx scripts/searcheval.ts --notable
+
+**Random sample, 40 served normas:**
+
+| shape | recall@1 | recall@10 | MRR |
+|---|---|---|---|
+| numero | 8% | 15% | 0.098 |
+| titulo | 55% | 75% | 0.624 |
+| words | 33% | 45% | 0.378 |
+| tipo+num | 10% | 20% | 0.133 |
+| **overall** | **26%** | **39%** | **0.308** |
+
+**Well-known laws (11 of 15 are served at all):**
+
+| shape | recall@1 | recall@10 | MRR |
+|---|---|---|---|
+| words | 0% | 18% | 0.068 |
+| tipo+num | 91% | 91% | 0.909 |
+| **overall** | **49%** | **65%** | **0.541** |
+
+The two tables disagree on `titulo`, and the disagreement is the point. A
+uniform sample of 357k is dominated by one-paragraph decretos whose título is
+also most of their body ("NOMBRA MINISTROS TITULARES DEL…"), so body-only search
+finds them by accident. The normas that fail are the long, heavily-reformed ones
+whose título appears nowhere in their own articulado — the ones with readers.
+Complete misses on their **own full official título**: ley 19.300, ley 21.561,
+ley 20.584, ley 19.496, ley 20.393.
+
+### Honest limit
+
+This container has no Postgres and no Meilisearch, so the fix is verified by unit
+test and by reading the query path — **not** by an end-to-end recall measurement.
+The eval harness is written and the "before" numbers are recorded above; re-run
+both commands after deploy and the improvement is either there or it is not.
+
 ### Next
 
-**D** — search. The `search/self-retrieval` check says 4 of 5 normas cannot find
-themselves by their own official título.
+**E** — vigencia warnings into `diff_versions` and `get_law`; the deferred-entry
+types found in B; the "history may be incomplete" warning proposed in C.

@@ -27,9 +27,10 @@ export interface Hit {
   titulo: string
   slug: string
   snippet: string
-  /** 'exact' = matched by law number, surfaced first. 'hot'/'cold' = full-text.
-   *  'typeahead' = norma-level palette match, no article text involved. */
-  tier: 'exact' | 'hot' | 'cold' | 'typeahead'
+  /** 'exact' = matched by law number, surfaced first. 'titulo' = matched on the
+   *  norma's own title or common name. 'hot'/'cold' = full-text over article
+   *  bodies. 'typeahead' = the same norma-level match, served to the palette. */
+  tier: 'exact' | 'titulo' | 'hot' | 'cold' | 'typeahead'
 }
 
 /** 'typeahead' runs per keystroke and stays norma-level; 'full' is the
@@ -128,6 +129,37 @@ export async function searchByNumber(q: string): Promise<Hit[]> {
   }))
 }
 
+/** How many norma-level title hits may occupy one page of full-mode results.
+ *
+ *  Half the page, floor, never fewer than three. The tension is real in both
+ *  directions: a known-item query ("paste the official título") is answered
+ *  almost entirely by this tier, while a broad topical query ("medio ambiente")
+ *  matches hundreds of títulos and would happily fill every slot, pushing out
+ *  the article-level hits that answer what the person actually asked. Half
+ *  guarantees the title tier can always win a known-item lookup while leaving
+ *  as much room again for the text. */
+export function titleTierCap(limit: number): number {
+  return Math.max(3, Math.floor(limit / 2))
+}
+
+/** Assemble the tiers into one ranked page.
+ *
+ *  Order is precision-first: an exact law number is unambiguous, a título match
+ *  identifies a norma, and body matches merely mention a phrase. Kept pure and
+ *  exported so the ordering and the cap can be tested without a database.
+ */
+export function composeTiers(
+  tiers: { exact?: Hit[]; titles?: Hit[]; hot?: Hit[]; deep?: Hit[] },
+  limit: number,
+): Hit[] {
+  return dedupe([
+    ...(tiers.exact ?? []),
+    ...(tiers.titles ?? []).slice(0, titleTierCap(limit)),
+    ...(tiers.hot ?? []),
+    ...(tiers.deep ?? []),
+  ], limit)
+}
+
 export interface SearchOutcome {
   hits: Hit[]
   /** The hot tier failed and these results came from Postgres alone. The
@@ -172,11 +204,29 @@ export async function runSearchDetailed(
     return { hits: dedupe([...exact, ...ahead], limit), degraded: false }
   }
 
-  const hot = await hotTier(q, asOf)
+  // The title tier is the fix for the defect that made the corpus
+  // undiscoverable: BOTH full-text tiers search article BODIES, so a norma's
+  // own official título carried no weight at all — pasting it verbatim
+  // returned twenty unrelated normas that happen to use those words in some
+  // article, and not the law itself. The norma-level index that answers this
+  // already existed; it was only ever wired to the ⌘K palette.
+  //
+  // Run alongside the hot tier rather than before it: it is one indexed
+  // lookup, and serialising it would add its latency to every search.
+  const [titles, hot] = await Promise.all([
+    searchByTitle(q, titleTierCap(limit)),
+    hotTier(q, asOf),
+  ])
   // A failed hot tier reports zero hits, which `needsColdPath` already reads
-  // as thin — so the exhaustive Postgres path runs either way.
+  // as thin — so the exhaustive Postgres path runs either way. Deliberately
+  // still keyed on the hot tier alone: the deep tier answers a different
+  // question (which article says this), and a page full of títulos is not a
+  // reason to stop looking for it.
   const deep = needsColdPath(hot.hits.length) ? await searchDeep(q, asOf, limit) : []
-  return { hits: dedupe([...exact, ...hot.hits, ...deep], limit), degraded: hot.failed }
+  return {
+    hits: composeTiers({ exact, titles, hot: hot.hits, deep }, limit),
+    degraded: hot.failed,
+  }
 }
 
 /** One norma appears once, at its best-ranked position. Tiers are concatenated
@@ -271,7 +321,9 @@ export async function searchDeep(q: string, asOf: string, limit = 20): Promise<H
  *
  *  No `asOf`: a norma's identity does not change with the as-of date, only its
  *  text does, and typeahead shows no text. */
-export async function searchTypeahead(q: string, limit = 12): Promise<Hit[]> {
+async function searchNormaLevel(
+  q: string, limit: number, tier: 'typeahead' | 'titulo',
+): Promise<Hit[]> {
   const { rows } = await pool.query(
     `SELECT id_norma, tipo, numero, titulo
        FROM search_normas_typeahead($1, $2)`,
@@ -279,6 +331,21 @@ export async function searchTypeahead(q: string, limit = 12): Promise<Hit[]> {
   )
   return rows.map(r => ({
     idNorma: r.id_norma, tipo: r.tipo, numero: r.numero, titulo: r.titulo,
-    slug: '', snippet: '', tier: 'typeahead' as const,
+    slug: '', snippet: '', tier,
   }))
+}
+
+export async function searchTypeahead(q: string, limit = 12): Promise<Hit[]> {
+  return searchNormaLevel(q, limit, 'typeahead')
+}
+
+/** The same norma-level lookup, used by full search.
+ *
+ *  Identical query, different tier label: the palette and the results page
+ *  present these very differently, and folding them into one tier would make
+ *  the /buscar sections and the analytics unable to tell "found by title" from
+ *  "shown while typing".
+ */
+export async function searchByTitle(q: string, limit = 10): Promise<Hit[]> {
+  return searchNormaLevel(q, limit, 'titulo')
 }
