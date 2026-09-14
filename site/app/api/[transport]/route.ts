@@ -15,6 +15,7 @@ import {
   matchArticle, notYetInForce, paginate, truncationNotice, versionAt,
 } from '@/lib/mcpguards'
 import { vigenciaWarnings } from '@/lib/vigencia'
+import { deferredVigenciaWarning, incompleteHistoryWarning } from '@/lib/corpus'
 
 /**
  * Remote MCP server over the Chilean legal corpus — "para agentes y humanos".
@@ -222,6 +223,21 @@ function checkFechas(
   return { ok: true }
 }
 
+/** What the corpus knows about its own gaps, for one norma.
+ *
+ *  Both warnings are about the ANSWER's trustworthiness rather than its
+ *  content, so they lead. A history missing a third of its versions answers a
+ *  dated query from the wrong version and looks identical to a complete one —
+ *  measured corpus-wide, 54% of known version records are never served. Saying
+ *  so is the difference between a tool that knows its own limits and one that
+ *  does not. */
+function corpusCaveats(idNorma: number, servedVersions: number): string[] {
+  return [
+    incompleteHistoryWarning(idNorma, servedVersions),
+    deferredVigenciaWarning(idNorma),
+  ].filter((w): w is string => w !== null).map((w) => `${w}\n`)
+}
+
 /** Shared preamble for an answer about a norma at a date the corpus cannot
  *  vouch for. Returns the lines to lead with, or null when the date is covered.
  *
@@ -370,6 +386,7 @@ const handler = createMcpHandler(
         return text(
           [
             ...horizonLines(cov, at, today),
+            ...corpusCaveats(norma.idNorma, versions.length),
             `${norma.tipo.toUpperCase()} ${norma.numero} — ${norma.titulo}`,
             `idNorma: ${norma.idNorma}`,
             norma.organismo ? `Organismo: ${norma.organismo}` : '',
@@ -450,6 +467,7 @@ const handler = createMcpHandler(
         return text(
           [
             ...horizonLines(cov, at, today),
+            ...corpusCaveats(norma.idNorma, versions.length),
             ...vigencia.map((w) => `${w}\n`),
             `${identityLine(norma)} — ${norma.titulo}`,
             `${hit.rawHeading || hit.label} · vigente al ${at}`,
@@ -493,6 +511,7 @@ const handler = createMcpHandler(
         ).length
         return text(
           [
+            ...corpusCaveats(norma.idNorma, versions.length),
             `${identityLine(norma)} — ${norma.titulo}`,
             `${versions.length} versión(es), con la norma que causó cada una:`,
             '',
@@ -655,6 +674,12 @@ const handler = createMcpHandler(
         return text(
           [
             ...horizonLines(covHasta, hasta, today),
+            ...corpusCaveats(norma.idNorma, versions.length),
+            // A phase-in inside either endpoint means the text shown did not
+            // bind on that date, so a diff between them overstates what was
+            // actually in force.
+            ...vigenciaWarnings(curr.map((a: Article) => a.body).join('\n'), hasta)
+              .map((w) => `${w}\n`),
             // Otherwise the whole articulado renders as "AÑADIDO", which reads
             // as a reform that rewrote every article rather than as the norma
             // simply not existing at `desde`.

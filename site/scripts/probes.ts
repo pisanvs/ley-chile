@@ -273,6 +273,32 @@ export const PROBES: Probe[] = [
     ],
   },
 
+  // -------------------------------------------------------------- corpus --
+  {
+    id: 'corpus/incomplete-history-is-flagged',
+    group: 'corpus',
+    tool: 'list_versions',
+    args: LEY_20000,
+    expect: [
+      {
+        matches: 'HISTORIAL INCOMPLETO',
+        why: 'Production serves 5 of ley 20.000\'s 8 known versions. Corpus-wide, 54% of known version records are never served — and a truncated history answers a dated query from the wrong version while looking exactly like a complete one. Silence here is the single most dangerous thing this corpus does.',
+      },
+    ],
+  },
+  {
+    id: 'corpus/deferred-vigencia-is-flagged',
+    group: 'corpus',
+    tool: 'get_law',
+    args: { tipo: 'ley', numero: '18045', idNorma: 29472 },
+    expect: [
+      {
+        matches: 'VIGENCIA DIFERIDA',
+        why: 'Ley 18.045 has a version LeyChile types "Con Vigencia Diferida por Evento". The pipeline filtered sentinel dates before reading the type, destroying the signal the sentinel carries — so the corpus said nothing about it.',
+      },
+    ],
+  },
+
   // -------------------------------------------------------------- search --
   {
     id: 'search/known-item-by-official-title',

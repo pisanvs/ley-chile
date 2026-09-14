@@ -13,7 +13,7 @@ is black-box probing plus offline analysis of `graph_shards/`.
 - [x] **B** — corpus-wide invariant sweep over `graph_shards`
 - [x] **C** — version-completeness gap (measured; root cause characterised, fix proposed)
 - [x] **D** — search ranking (root-caused and fixed; awaiting deploy to measure)
-- [ ] **E** — vigencia warnings into `diff_versions` / `get_law`; close what B–D surface
+- [x] **E** — vigencia warnings into `diff_versions` / `get_law`; deferred-entry types; incomplete-history warning
 
 ---
 
@@ -310,7 +310,79 @@ test and by reading the query path — **not** by an end-to-end recall measureme
 The eval harness is written and the "before" numbers are recorded above; re-run
 both commands after deploy and the improvement is either there or it is not.
 
-### Next
+---
 
-**E** — vigencia warnings into `diff_versions` and `get_law`; the deferred-entry
-types found in B; the "history may be incomplete" warning proposed in C.
+## E — making the corpus say what it does not know (done)
+
+Three threads from B, C and D converge on one idea: the read model could not
+tell you when its own answer was partial. Now it can.
+
+### The corpus index
+
+`site/scripts/build-corpus-index.ts` → `site/lib/corpus-index.json` (339 KB,
+committed). The Docker build context is `site/` and `graph_shards/` lives at the
+repo root, so the knowledge is compiled in rather than read at runtime —
+generated, reviewable, and diffable in a pull request.
+
+Carries only what is worth carrying: **30,931** normas with more than one
+version (the only ones whose history can be short) and the **160** LeyChile
+marks as having deferred entry into force.
+
+### Two new warnings, on every tool that answers from a version series
+
+**`⚠ HISTORIAL INCOMPLETO`** — served version count is below the catalogue's.
+For ley 20.000 that reads *"se sirven 5 versiones, pero el catálogo registra 8 —
+faltan 3"*, and names the consequence rather than the arithmetic: a query with a
+`fecha` inside a missing stretch returns an older version's text **sin avisar**.
+
+Deliberately silent when the served history is *longer* than the index knows —
+that means the pipeline has moved on since the snapshot, which is the normal
+direction of travel and must not raise an alarm.
+
+**`⚠ VIGENCIA DIFERIDA`** — LeyChile's own deferred-entry types, recovered from
+the sentinel dates the pipeline was discarding. For ley 18.045 it reports an
+event-conditioned version and says plainly that it cannot be dated.
+
+Wired into `list_versions`, `get_law`, `get_article` and `diff_versions`, ahead
+of any text. `diff_versions` also now carries the `lib/vigencia.ts` phase-in
+warnings, since a diff between two dates overstates what was in force if the
+text at either end had not yet begun to bind.
+
+12 tests in `lib/corpus.test.ts`, asserted against the real committed index
+(ley 20.000 → 8 versions, Código del Trabajo → 129, ley 18.045 → an `evento`
+marker), plus two new probes so the contract is in the suite.
+
+### Why this is the 10x claim, concretely
+
+BCN's leychile.cl will not tell you its record of a law is incomplete, because
+it has no second source to compare itself against. This corpus does: the graph
+and the read model are built separately, so the disagreement between them is
+observable — and now reported. *"I am missing three of this law's eight
+versions"* is a thing only this system can say.
+
+---
+
+## Where the night landed
+
+| | |
+|---|---|
+| commits | 7 on `claude/artifact-session-kr1qga` |
+| frontend tests | 318 pass, 1 skipped |
+| Python tests | 423 pass (24 pre-existing `psycopg` import failures) |
+| probe baseline | 11/28 against production, which carries none of this yet |
+
+**Everything is on the branch and nothing is deployed.** The probe suite, the
+completeness measurement and the search eval all read production, so their
+numbers are *before* pictures. Re-run all three after a deploy:
+
+    cd site && pnpm exec tsx scripts/probe.ts --rps 5
+    cd site && pnpm exec tsx scripts/completeness.ts --sample 300 --seed 1
+    cd site && pnpm exec tsx scripts/searcheval.ts --notable
+
+### The one thing worth a human decision
+
+The completeness gap (**C**) is not a code fix. Multi-version normas are ~40%
+served and `res`/`dto` are worst hit; the pipeline needs to finish, and the
+README progress bar should be version-weighted so it stops reporting 95% while
+the histories people actually read are half-missing. That is a pipeline run and
+a metric change, and both are yours to call.
