@@ -10,7 +10,7 @@ is black-box probing plus offline analysis of `graph_shards/`.
 ## Queue
 
 - [x] **A** — probe harness + baseline
-- [ ] **B** — corpus-wide invariant sweep over `graph_shards`
+- [x] **B** — corpus-wide invariant sweep over `graph_shards`
 - [ ] **C** — version-completeness gap (DB serves 5 versions of ley 20.000; the graph knows 8)
 - [ ] **D** — search ranking
 - [ ] **E** — vigencia warnings into `diff_versions` / `get_law`; close what B–D surface
@@ -82,7 +82,65 @@ testing, and all three got past me on the first pass:
 The check now fails closed: if it compares nothing, it says so rather than
 reporting a pass.
 
+---
+
+## B — corpus-wide invariant sweep (done)
+
+`scripts/audit_graph.py`, 27 tests in `tests/test_audit_graph.py`.
+
+    python scripts/audit_graph.py --graph-path ./graph.json --sample 2
+    python scripts/audit_graph.py --graph-path ./graph.json --only vigencia/unreachable
+
+**357,266 nodes · 12,010 modificadaPor edges.**
+
+### The headline is good news
+
+**Zero gaps and zero overlaps, corpus-wide.** The version series tiles the
+timeline for every norma in the corpus. The structural property the whole
+as-of-date model rests on holds at 357k, not just on the one norma the probe
+suite checks. Nothing in the pipeline needs touching for this.
+
+### Defects, worst first
+
+| count | finding | what it means |
+|---|---|---|
+| **75** | `vigencia/unreachable` | Every version is zero-length, so **no date returns any text**. `get_article` answers nothing for every `fecha`, forever — and phrases it as if the *article* were missing. e.g. dto 388 (idNorma 12944): one version, `1989-03-06 → 1989-03-05`. |
+| **1742** | `edge/unresolvable` | 14.5% of modification edges point at a norma absent from the graph, so it cannot be named. This is what surfaces as `Otra [id 1000928]`. |
+| 10 | `vigencia/negative-duration` | `hasta` precedes `desde` by more than the one-day idiom (up to 525 days). |
+| 9 | `vigencia/none-real` | Has vigencias, none of them dateable. |
+| 1 | `vigencia/multiple-open` | Two versions both claim to be current (idNorma 1014585). |
+| 89 | `vigencia/open-not-last` | An open-ended version that is not the most recent — the benign half of the zero-duration idiom. |
+| 78 | `edge/fecha-bad` | Modification edge dated with the sentinel. |
+| 3746 | `norma/no-fecha-publicacion` | No publication date. |
+| 332 | `norma/retroactive-first-version` | First version predates publication. Usually lawful; reported to be looked at, not fixed. |
+| 218 | `vigencia/zero-duration` | **Not a defect.** LeyChile's idiom for text superseded on its own publication day. Classified separately so it does not bury the 10 above it. |
+
+### The find that matters most: LeyChile already types deferred vigencia
+
+| count | `tipo_version_s` |
+|---|---|
+| 77 | `Con Vigencia Diferida por Fecha` |
+| 68 | `Con Vigencia Diferida por Evento` |
+| 20 | `Con Derogación Diferida por fecha` |
+| 20 | `Con Derogación Diferida por evento` |
+| 2 | `Con Vigencia Diferida por Evento y Derogación Diferida por evento` |
+
+**187 vigencias carry an explicit deferred-entry type, and the corpus discards
+the distinction entirely.** The `por Fecha` ones (97) are applied as ordinary
+versions with no mention that entry is deferred. The `por Evento` ones (90) are
+sentinel-dated — and the pipeline filters sentinels *before* reading the type,
+so they vanish without trace. The sentinel is not noise: it is precisely how
+LeyChile says "conditioned on an event".
+
+`lib/vigencia.ts` reconstructs this from prose notas. That work stands — the
+notas carry the *schedule*, which the type does not — but the type is a
+structured signal for exactly the population the parser has to guess at, and it
+is free. Ley 18.045 (Mercado de Valores, idNorma 29472) has a
+`Con Vigencia Diferida por Evento` version and the corpus says nothing about it.
+
+Folded into **E**.
+
 ### Next
 
-**B** — corpus-wide invariant sweep over `graph_shards`. The boundary checks pass
-on one norma; the question is whether they hold across 350k.
+**C** — the completeness gap: the DB serves 5 versions of ley 20.000 where the
+graph knows 8. Sample via the live MCP, quantify, root-cause.
