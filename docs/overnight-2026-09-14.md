@@ -386,3 +386,82 @@ served and `res`/`dto` are worst hit; the pipeline needs to finish, and the
 README progress bar should be version-weighted so it stops reporting 95% while
 the histories people actually read are half-missing. That is a pipeline run and
 a metric change, and both are yours to call.
+
+---
+
+# Problem list — awaiting authorization to fix
+
+Deploy is blocked (see below), so this is the find-and-list pass. Nothing here
+is fixed. Each item says what it is, how it was established, and what fixing it
+would involve.
+
+## Deploy blocker
+
+`leyes.pisanvs.cl` is Railway-served (`server: railway-hikari`), but **no service
+in the connected Railway account holds that domain**. The account is `pisanvs`
+(maxmorel@pisanvs.cl) with one workspace and three projects. `ley-chile/web`
+tracks branch `main`, has no custom domain, 404s on its own railway.app domain,
+and every deployment is `FAILED` or `REMOVED` — the last three failed on
+2026-07-13 against `0ef0c58`, nothing since 2026-07-23. `ley-chile/loader` last
+failed 2026-07-14. There is no deploy workflow in `.github/workflows/`.
+
+The belmar org is not visible to this connection: `list-workspaces` returns one
+personal workspace and the API has no org switch. **Authorize the Railway
+integration for that org and I can find the service, confirm its branch, and
+deploy.**
+
+## P0 — the core promise is broken on the most-read normas
+
+**Articles are served for dates on which they did not exist.**
+
+`get_article dfl 1 · idNorma 207436 · "articulo 22 bis" · fecha 2005-01-01`
+returns 40-hour-law text. Artículo 22 bis was created by **ley 21.561 in 2023**.
+
+Article counts for the Código del Trabajo across time: **742 → 742 → 651 → 723 →
+727**. A consolidated code does not shed 91 articles and regain them.
+
+Across the ten most-reformed normas in the corpus, **six show the signature** —
+an article present at the earliest served date, absent later, present again:
+
+| norma | known / served versions | articles resurrected | counts across time |
+|---|---|---|---|
+| DL 830 · Código Tributario | 91 / 45 | **42** | 248 → 206 → … → 248 |
+| DL 824 · Impuesto a la Renta | 122 / 10 | **30** | 136 → 106 → … → 136 |
+| COD PENAL | 164 / 122 | **27** | 282 → 300 → … → 282 |
+| DFL 1 · Código del Trabajo | 129 / 65 | **27** | 204 → 227 → … → 216 |
+| DFL 725 · Código Sanitario | 94 / 33 | 11 | 195 → 184 → … → 195 |
+| DL 825 · IVA | 82 / 9 | 7 | 94 → 86 → … → 93 |
+
+The resurrected labels are overwhelmingly `bis` / `ter` / `quater` — articles
+that exist *only* as later insertions and therefore cannot be in an original
+text. Normas with near-complete service show nothing (cir Bancos 2409, 920/948
+served, zero).
+
+This is worse than the completeness gap in **C**: that one omits history, this
+one fabricates it. And it lands on the Penal, Labour, Tax and Sanitary codes —
+the normas with actual readers.
+
+Established black-box only. `getArticlesAsOf` selects on `articulo_span.vigencia
+@> fecha`, so the spans are the obvious suspect — an article whose introducing
+version was never fetched plausibly inherits a range reaching back to the
+earliest version present. **I have not confirmed that**; it needs the DB or the
+loader, neither of which this session can reach.
+
+Detection is pinned: `version/no-anachronistic-articles` in `site/scripts/checks.ts`.
+
+## P1 — carried over, still open
+
+| # | problem | evidence |
+|---|---|---|
+| 1 | 75 normas where no date returns any text; `get_article` phrases it as a missing *article* | `audit_graph.py --only vigencia/unreachable` |
+| 2 | 1,742 of 12,010 modification edges (14.5%) point at normas absent from the graph | `audit_graph.py --only edge/unresolvable` |
+| 3 | Multi-version coverage ~40%; `res` at 26%. README reports 95%, counted per norma, carried by the 91% that are single-version | `completeness.ts --sample 300` |
+| 4 | 10 normas with `hasta` before `desde` by more than the one-day idiom (up to 525 days) | `audit_graph.py --only vigencia/negative-duration` |
+| 5 | idNorma 1014585 has two versions both claiming to be current | `audit_graph.py --only vigencia/multiple-open` |
+| 6 | 3,746 normas with no publication date | `audit_graph.py --only norma/no-fecha-publicacion` |
+
+## P2 — noted, low impact
+
+- 89 `vigencia/open-not-last` — the benign half of the zero-duration idiom.
+- 78 modification edges dated with the sentinel.
+- 332 normas whose first version predates publication (usually lawful retroactivity).

@@ -253,6 +253,64 @@ export const CHECKS: Check[] = [
   },
 
   {
+    id: 'version/no-anachronistic-articles',
+    group: 'boundaries',
+    why:
+      'A code accumulates articles; it does not shed ninety and grow them back. An ' +
+      'article that is present at the earliest served date, absent later, and present ' +
+      'again was almost certainly inserted by a reform and back-dated — and "bis"/"ter" ' +
+      'articles, which exist only as later insertions, cannot be in an original text at ' +
+      'all. This is the core promise failing: the text served for a date is not the text ' +
+      'that was in force.',
+    async run(client) {
+      // The Código del Trabajo: 129 versions known, 65 served. Article 22 bis was
+      // created by ley 21.561 in 2023 and is served as in force on 2005-01-01.
+      const norma = { tipo: 'dfl', numero: '1', idNorma: 207436 }
+      const lv = await client.call('list_versions', norma)
+      const dates = [...lv.text.matchAll(/^\s*\d+\.\s+(\d{4}-\d{2}-\d{2})/gm)].map((m) => m[1])
+      if (dates.length < 4) return [`expected several served versions, parsed ${dates.length}`]
+
+      // Probe across the whole range rather than the first few: the defect shows
+      // as a dip in the middle, so consecutive early samples miss it entirely.
+      const picks = [...new Set(
+        Array.from({ length: 8 }, (_, i) => dates[Math.floor((i * (dates.length - 1)) / 7)]),
+      )]
+      const sets: Set<string>[] = []
+      for (const fecha of picks) {
+        const law = await client.call('get_law', { ...norma, fecha })
+        sets.push(new Set(
+          (law.text.match(/^ {2}- (.+?)(?: \(|$)/gm) ?? []).map((l) => l.replace(/^ {2}- /, '').trim()),
+        ))
+      }
+
+      const failures: string[] = []
+      const resurrected: string[] = []
+      for (const label of sets[0]) {
+        let gone = false
+        for (let i = 1; i < sets.length; i++) {
+          if (!sets[i].has(label)) gone = true
+          else if (gone) { resurrected.push(label); break }
+        }
+      }
+      if (resurrected.length) {
+        failures.push(
+          `${resurrected.length} article(s) present at ${picks[0]}, absent later, present again — ` +
+          `e.g. ${resurrected.slice(0, 4).join(', ')}`,
+        )
+      }
+      // The narrowest, least deniable case.
+      const bis = await client.call('get_article', { ...norma, articulo: 'articulo 22 bis', fecha: '2005-01-01' })
+      if (!/No se encontró el artículo|no estaba vigente/.test(bis.text)) {
+        failures.push(
+          'artículo 22 bis of the Código del Trabajo is served as in force on 2005-01-01; ' +
+          'it was created by ley 21.561 in 2023',
+        )
+      }
+      return failures
+    },
+  },
+
+  {
     id: 'search/self-retrieval',
     group: 'search',
     why:
