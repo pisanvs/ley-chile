@@ -11,7 +11,7 @@ is black-box probing plus offline analysis of `graph_shards/`.
 
 - [x] **A** — probe harness + baseline
 - [x] **B** — corpus-wide invariant sweep over `graph_shards`
-- [ ] **C** — version-completeness gap (DB serves 5 versions of ley 20.000; the graph knows 8)
+- [x] **C** — version-completeness gap (measured; root cause characterised, fix proposed)
 - [ ] **D** — search ranking
 - [ ] **E** — vigencia warnings into `diff_versions` / `get_law`; close what B–D surface
 
@@ -140,7 +140,89 @@ is free. Ley 18.045 (Mercado de Valores, idNorma 29472) has a
 
 Folded into **E**.
 
+---
+
+## C — the completeness gap (measured)
+
+`site/scripts/completeness.ts` compares served `list_versions` against the
+`desde` dates in `graph_shards`, over a deterministic random sample.
+
+    cd site && pnpm exec tsx scripts/completeness.ts --sample 300 --seed 1
+    cd site && pnpm exec tsx scripts/completeness.ts --ids 235507,207436
+
+**This is the largest finding of the night.** It is also the most dangerous
+shape a defect can take here — wrong by omission. Every probe in the suite
+passes on a norma missing half its history, because each individual answer is
+well-formed. Only comparing the two sides finds it.
+
+### Sample of 300 multi-version normas
+
+| | |
+|---|---|
+| not served at all | 183 / 300 (61%) |
+| served, history matches the graph exactly | 27 / 117 (23%) |
+| served, **missing at least one version** | 90 / 117 (77%) |
+| **version records the API never mentions** | **216 / 397 (54%)** |
+
+Ley 20.000 is missing 3 of 8 (2005-11-14, 2013-12-27, 2015-10-22). The Código
+del Trabajo is missing **64 of 129**. Ask for text on a date inside one of those
+holes and you get a confident answer drawn from the wrong version, with no
+signal whatsoever.
+
+### It is not a frontier — it is exactly one axis
+
+Served rate by version count (100 sampled per bucket):
+
+| versions | population | served |
+|---|---|---|
+| 1 | 326,325 | 97% |
+| **2–4** | **29,180** | **36%** |
+| 5–19 | 1,613 | 90% |
+| 20+ | 138 | 96% |
+
+Not an era effect either — within the 2–4 bucket the served rate runs 25–48%
+across every decade from pre-1990 to 2020+. Cutting by tipo gives the clean
+statement (50 sampled per cell):
+
+| tipo | 1 version | ≥2 versions |
+|---|---|---|
+| ley | 100% | 82% |
+| dfl | 100% | 84% |
+| dl | 100% | 68% |
+| dto | 98% | 48% |
+| res | 100% | **26%** |
+
+**Single-version normas are essentially complete; multi-version normas are not,
+and the shortfall tracks tipo priority.** `fetch_versions.py:450` orders
+candidates by `fechaPublicacion` ascending and `_apply_version_budget` charges
+each norma its vigencia count, so a budgeted backfill naturally finishes cheap
+single-version normas first and leaves expensive multi-version ones — dominated
+by `res` and `dto` — for last. That is consistent with everything measured.
+
+**So this is mostly pipeline progress, not a code bug.** Two things make it a
+reliability problem anyway:
+
+1. **The progress metric hides it.** README reports *Historial 95%*, counted per
+   norma — and 91% of the corpus is single-version, so the number is carried by
+   the easy cases. Coverage of multi-version normas is roughly 40%, and those
+   are the entire point of the project. The bar should be version-weighted, or
+   report multi-version coverage separately. (The README figure is also stale:
+   last run 2026-06-10, three months ago.)
+
+2. **A truncated history is silent, and that is the real defect.** An absent
+   norma at least answers `No se encontró`. A norma that is present with half
+   its versions answers confidently and wrongly, and nothing in the API can tell
+   the caller which they got.
+
+### Proposed fix for (2), no rebuild required
+
+`graph_shards/` ships in this repo and deploys with the site. Emit a compact
+`idNorma → expected version count` index at build time, and have `list_versions`
+and `get_article` compare it against what the read model actually holds — then
+say so when the history is short. BCN would never tell you its own record is
+incomplete; being able to is squarely in 10x territory. Carried into **E**.
+
 ### Next
 
-**C** — the completeness gap: the DB serves 5 versions of ley 20.000 where the
-graph knows 8. Sample via the live MCP, quantify, root-cause.
+**D** — search. The `search/self-retrieval` check says 4 of 5 normas cannot find
+themselves by their own official título.
