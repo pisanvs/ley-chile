@@ -427,8 +427,14 @@ export async function getRefundido(
 }
 
 export function currentFecha(versions: Version[]): string {
-  const open = versions.find(v => v.hasta === null)
-  if (open) return open.desde
+  // The LATEST open-ended version, not the first one encountered. Identical for
+  // a well-formed series, where only one version is left open. It differs where
+  // a norma carries two — res 2675 EXENTA has "Texto Original" open from
+  // 2010-06-16 and "Última Versión" open from 2012-10-31 — and a first-match
+  // scan over `ORDER BY desde` ascending picked the 2010 original as the
+  // current text.
+  const open = versions.filter(v => v.hasta === null)
+  if (open.length) return open.map(v => v.desde).sort().at(-1)!
   return versions.map(v => v.desde).sort().at(-1)!
 }
 

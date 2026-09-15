@@ -91,6 +91,8 @@ export type Coverage =
   | { kind: 'future'; last: Version }
   /** The norma has no versions at all (nothing was ever imported). */
   | { kind: 'empty' }
+  /** Versions exist, but not one of them covers a single day. */
+  | { kind: 'unreachable'; versions: Version[] }
 
 /**
  * `hasta` is INCLUSIVE — it holds the day before the next version's `desde`
@@ -98,7 +100,22 @@ export type Coverage =
  * With `<`, the final day of every version reports as having no text.
  */
 export function versionAt(versions: Version[], fecha: string): Version | undefined {
-  return versions.find((v) => v.desde <= fecha && (v.hasta === null || fecha <= v.hasta))
+  // The LAST match, not the first. For a well-formed series these are the same
+  // thing — exactly one version contains any given day — so this changes
+  // nothing for the corpus's 357k healthy normas. It matters where ranges
+  // overlap: res 2675 EXENTA (idNorma 1014585) carries two open-ended
+  // versions, "Texto Original" from 2010-06-16 and "Última Versión" from
+  // 2012-10-31. `getVersions` orders by `desde` ascending and a first-match
+  // scan therefore returned the 2010 original as today's text, silently, with
+  // the 2012 version sitting right behind it. Where two versions both claim a
+  // day, the later one is the answer.
+  let best: Version | undefined
+  for (const v of versions) {
+    if (v.desde <= fecha && (v.hasta === null || fecha <= v.hasta)) {
+      if (!best || v.desde > best.desde) best = v
+    }
+  }
+  return best
 }
 
 /**
@@ -114,11 +131,33 @@ export function versionAt(versions: Version[], fecha: string): Version | undefin
  */
 export function coverage(versions: Version[], fecha: string, today: string): Coverage {
   if (versions.length === 0) return { kind: 'empty' }
+  // Checked before everything else, including the future horizon: if no version
+  // covers any day, then no date is answerable and saying "that date is in the
+  // future" or "the norma did not exist yet" would both be beside the point.
+  if (!coversAnyDay(versions)) return { kind: 'unreachable', versions }
   const last = versions[versions.length - 1]
   if (fecha > today) return { kind: 'future', last }
   const v = versionAt(versions, fecha)
   if (v) return { kind: 'covered', version: v }
   return { kind: 'before', first: versions[0] }
+}
+
+/**
+ * Does any version of this norma cover at least one day?
+ *
+ * 75 normas in the corpus fail this. Every one of their versions is
+ * zero-length — `hasta` falling the day before `desde`, LeyChile's idiom for
+ * text superseded on its own publication day — so `versionAt` matches nothing,
+ * ever, for any `fecha`. dto 388 (idNorma 12944) has exactly one version,
+ * 1989-03-06 → 1989-03-05.
+ *
+ * Without this, such a norma reports as `before` for every past date, which
+ * renders as "no estaba vigente al X, su primera versión rige desde Y" — an
+ * answer that invites the caller to try Y, where they will be told the same
+ * thing again. The honest answer is that there is no date to try.
+ */
+export function coversAnyDay(versions: Version[]): boolean {
+  return versions.some((v) => v.hasta === null || v.hasta >= v.desde)
 }
 
 /**
@@ -268,6 +307,33 @@ export function checkOffset(offset: number | undefined, total: number): Checked<
     }
   }
   return { ok: true, value: offset }
+}
+
+/**
+ * The answer for a norma no date can reach.
+ *
+ * States the situation as a property of the norma, names the degenerate ranges
+ * so the reader can see it is a data defect rather than a stray query, and —
+ * crucially — does not suggest another date. There isn't one.
+ */
+export function noReachableVersion(
+  n: { tipo: string; numero: string; fechaPublicacion: string | null },
+  versions: Version[],
+): string {
+  const pub = n.fechaPublicacion ? `, publicada el ${n.fechaPublicacion}` : ''
+  const ranges = versions
+    .slice(0, 5)
+    .map((v) => `${v.desde} → ${v.hasta ?? 'vigente'}`)
+    .join(' · ')
+  return [
+    `${n.tipo.toUpperCase()} ${n.numero}${pub} no tiene ninguna versión que cubra fecha alguna: ` +
+    `todas sus vigencias son de duración cero (${versions.length} versión(es): ${ranges}` +
+    `${versions.length > 5 ? ' …' : ''}).`,
+    '',
+    'No hay ninguna fecha en que esta norma devuelva texto, así que no sirve de nada ' +
+    'reintentar con otra. Esto es un defecto de los datos de origen, no de tu consulta; ' +
+    'afecta a 75 normas del corpus. Consulta LeyChile directamente para esta norma.',
+  ].join('\n')
 }
 
 /**

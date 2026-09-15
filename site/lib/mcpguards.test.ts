@@ -1,7 +1,8 @@
 import { describe, it, expect } from 'vitest'
 import {
-  availableLabels, causaLabel, checkFecha, checkOffset, checkRange, coverage, futureWarning,
-  matchArticle, notYetInForce, paginate, truncationNotice, versionAt,
+  availableLabels, causaLabel, checkFecha, checkOffset, checkRange, coverage, coversAnyDay,
+  futureWarning, matchArticle, noReachableVersion, notYetInForce, paginate, truncationNotice,
+  versionAt,
 } from './mcpguards'
 import type { Version } from './norma'
 
@@ -302,5 +303,95 @@ describe('causaLabel', () => {
     const label = causaLabel(ver(1, 's'), { idNorma: 1, tipo: 'ley', numero: '1', titulo: long, fecha: '' }, 30)
     expect(label).toContain('…')
     expect(label.length).toBeLessThan(80)
+  })
+})
+
+describe('normas no date can reach', () => {
+  // dto 388 (idNorma 12944): one version, 1989-03-06 → 1989-03-05. Zero-length,
+  // so versionAt matches nothing for any fecha, ever. 75 normas are like this.
+  const DTO_388 = [v('1989-03-06', '1989-03-05')]
+  const norma = { tipo: 'dto', numero: '388', fechaPublicacion: '1969-11-18' }
+  const TODAY = '2026-09-15'
+
+  it('coversAnyDay is false when every version is zero-length', () => {
+    expect(coversAnyDay(DTO_388)).toBe(false)
+    expect(coversAnyDay([v('1990-09-17', null), v('1990-09-17', '1990-09-16')])).toBe(true)
+    expect(coversAnyDay(LEY_20000)).toBe(true)
+  })
+
+  it('classifies as unreachable rather than as a date that came too early', () => {
+    // Without this the norma reports `before` for every past date, rendering as
+    // "no estaba vigente al X, su primera versión rige desde Y" — which invites
+    // the caller to try Y and be told the same thing again.
+    const c = coverage(DTO_388, '2000-01-01', TODAY)
+    expect(c.kind).toBe('unreachable')
+  })
+
+  it('is unreachable for every date, not just some', () => {
+    for (const fecha of ['1900-01-01', '1989-03-05', '1989-03-06', '2026-09-15', '2030-01-01']) {
+      expect(coverage(DTO_388, fecha, TODAY).kind).toBe('unreachable')
+    }
+  })
+
+  it('outranks the future-horizon check', () => {
+    // A future date on an unreachable norma is not "an extrapolation"; there is
+    // nothing to extrapolate from.
+    expect(coverage(DTO_388, '2030-01-01', TODAY).kind).toBe('unreachable')
+  })
+
+  it('still reports a normal norma normally', () => {
+    expect(coverage(LEY_20000, '2024-09-03', TODAY).kind).toBe('covered')
+    expect(coverage(LEY_20000, '2000-01-01', TODAY).kind).toBe('before')
+    expect(coverage(LEY_20000, '2030-01-01', TODAY).kind).toBe('future')
+  })
+
+  it('says it is a property of the norma and does not offer another date to try', () => {
+    const m = noReachableVersion(norma, DTO_388)
+    expect(m).toContain('no tiene ninguna versión que cubra fecha alguna')
+    expect(m).toContain('1989-03-06 → 1989-03-05')
+    expect(m).toContain('no sirve de nada')
+    // The old message named a date to retry. That was the whole problem.
+    expect(m).not.toContain('primera versión rige desde')
+  })
+
+  it('names it as a source-data defect, not a bad query', () => {
+    expect(noReachableVersion(norma, DTO_388)).toMatch(/defecto de los datos/)
+  })
+
+  it('truncates a long list of degenerate ranges', () => {
+    const many = Array.from({ length: 9 }, (_, i) => v(`2000-01-0${i + 1}`, '1999-12-31'))
+    const m = noReachableVersion(norma, many)
+    expect(m).toContain('9 versión(es)')
+    expect(m).toContain('…')
+  })
+})
+
+describe('overlapping versions resolve to the later one', () => {
+  // res 2675 EXENTA (idNorma 1014585), verbatim from the graph: two open-ended
+  // versions. getVersions returns them ORDER BY desde ascending.
+  const RES_2675 = [v('2010-06-16', null), v('2012-10-31', null)]
+
+  it('picks the most recent version that claims the day', () => {
+    // A first-match scan returned the 2010 "Texto Original" as today's text,
+    // with the 2012 "Última Versión" sitting right behind it in the array.
+    expect(versionAt(RES_2675, '2026-09-15')?.desde).toBe('2012-10-31')
+  })
+
+  it('still picks the only applicable version before the overlap begins', () => {
+    expect(versionAt(RES_2675, '2011-01-01')?.desde).toBe('2010-06-16')
+  })
+
+  it('changes nothing for a well-formed series', () => {
+    // The property that makes this safe for the other 357k normas: where
+    // exactly one version contains a day, first match and last match agree.
+    expect(versionAt(LEY_20000, '2024-09-03')?.desde).toBe('2023-05-23')
+    expect(versionAt(LEY_20000, '2024-09-04')?.desde).toBe('2024-09-04')
+    expect(versionAt(LEY_20000, '2005-02-16')?.desde).toBe('2005-02-16')
+    expect(versionAt(LEY_20000, '2000-01-01')).toBeUndefined()
+  })
+
+  it('is unaffected by the order the versions arrive in', () => {
+    const reversed = [...RES_2675].reverse()
+    expect(versionAt(reversed, '2026-09-15')?.desde).toBe('2012-10-31')
   })
 })

@@ -55,3 +55,26 @@ describe('canonicalPath', () => {
     }
   })
 })
+
+describe('currentFecha with overlapping open versions', () => {
+  it('takes the latest open version, not the first in the array', () => {
+    // res 2675 EXENTA (idNorma 1014585) carries two open-ended versions:
+    // "Texto Original" from 2010-06-16 and "Última Versión" from 2012-10-31.
+    // getVersions returns them ORDER BY desde ascending, so a first-match scan
+    // named the 2010 original as the current text.
+    expect(currentFecha([v('2010-06-16', null), v('2012-10-31', null)])).toBe('2012-10-31')
+  })
+
+  it('does not depend on the order they arrive in', () => {
+    expect(currentFecha([v('2012-10-31', null), v('2010-06-16', null)])).toBe('2012-10-31')
+  })
+
+  it('is unchanged for a well-formed series with one open version', () => {
+    expect(currentFecha([v('2000-01-01', '2009-12-31'), v('2010-01-01', null)])).toBe('2010-01-01')
+  })
+
+  it('falls back to the latest desde when nothing is open', () => {
+    expect(currentFecha([v('2000-01-01', '2001-01-01'), v('2001-01-02', '2002-01-01')]))
+      .toBe('2001-01-02')
+  })
+})

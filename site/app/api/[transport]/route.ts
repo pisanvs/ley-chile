@@ -12,7 +12,7 @@ import { canonicalHref } from '@/lib/href'
 import { sortAvisos } from '@/lib/avisos'
 import {
   availableLabels, causaLabel, checkFecha, checkOffset, checkRange, coverage, futureWarning,
-  matchArticle, notYetInForce, paginate, truncationNotice, versionAt,
+  matchArticle, noReachableVersion, notYetInForce, paginate, truncationNotice, versionAt,
 } from '@/lib/mcpguards'
 import { vigenciaWarnings } from '@/lib/vigencia'
 import { deferredVigenciaWarning, incompleteHistoryWarning } from '@/lib/corpus'
@@ -319,6 +319,7 @@ const handler = createMcpHandler(
         const at = fecha ?? currentFecha(versions)
         const today = TODAY()
         const cov = coverage(versions, at, today)
+        if (cov.kind === 'unreachable') return text(noReachableVersion(norma, cov.versions))
         if (cov.kind === 'before') {
           return text(notYetInForce(norma, cov.first, at, await getModifies(norma.idNorma)))
         }
@@ -373,6 +374,7 @@ const handler = createMcpHandler(
         const at = fecha ?? currentFecha(versions)
         const today = TODAY()
         const cov = coverage(versions, at, today)
+        if (cov.kind === 'unreachable') return text(noReachableVersion(norma, cov.versions))
         if (cov.kind === 'before') {
           return text(notYetInForce(norma, cov.first, at, await getModifies(norma.idNorma)))
         }
@@ -438,6 +440,7 @@ const handler = createMcpHandler(
         // the *norma*. Reporting it as a missing article — which is what this
         // did — teaches a model that ley 20.000 has no Artículo 22.
         const cov = coverage(versions, at, today)
+        if (cov.kind === 'unreachable') return text(noReachableVersion(norma, cov.versions))
         if (cov.kind === 'before') {
           return text(notYetInForce(norma, cov.first, at, await getModifies(norma.idNorma)))
         }
@@ -557,6 +560,7 @@ const handler = createMcpHandler(
         const fecha = asOf ?? currentFecha(versions)
         const today = TODAY()
         const cov = coverage(versions, fecha, today)
+        if (cov.kind === 'unreachable') return text(noReachableVersion(norma, cov.versions))
         if (cov.kind === 'before') {
           return text(notYetInForce(norma, cov.first, fecha, await getModifies(norma.idNorma)))
         }
@@ -625,6 +629,9 @@ const handler = createMcpHandler(
         const today = TODAY()
         const covDesde = coverage(versions, desde, today)
         const covHasta = coverage(versions, hasta, today)
+        if (covDesde.kind === 'unreachable' || covHasta.kind === 'unreachable') {
+          return text(noReachableVersion(norma, versions))
+        }
         if (covDesde.kind === 'before' && covHasta.kind === 'before') {
           return text(notYetInForce(norma, covDesde.first, hasta, await getModifies(norma.idNorma)))
         }
