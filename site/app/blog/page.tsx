@@ -1,14 +1,29 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import { SITE } from '@/lib/jsonld'
+import { SITE_NAME, OG_LOCALE } from '@/lib/site'
 import { listPosts } from '@/lib/blog'
 import { fechaLarga } from '@/lib/seo'
 
+const OG_TITLE = 'Blog — qué se ve cuando la ley tiene control de versiones'
+const DESCRIPTION =
+  'Casos reales del corpus jurídico chileno: qué cambió en la Ley Karin, cómo leer el texto que regía en una fecha, y qué registra el corpus sobre la ley de datos personales.'
+
+// `openGraph` replaces the root layout's object rather than merging into it,
+// so siteName/locale are repeated here — see the note in lib/site.ts. Without
+// this, sharing /blog showed the homepage's title/description/url instead.
 export const metadata: Metadata = {
-  title: 'Blog — qué se ve cuando la ley tiene control de versiones',
-  description:
-    'Casos reales del corpus jurídico chileno: qué cambió en la Ley Karin, cómo leer el texto que regía en una fecha, y qué registra el corpus sobre la ley de datos personales.',
+  title: OG_TITLE,
+  description: DESCRIPTION,
   alternates: { canonical: `${SITE}/blog` },
+  openGraph: {
+    type: 'website',
+    siteName: SITE_NAME,
+    locale: OG_LOCALE,
+    title: OG_TITLE,
+    description: DESCRIPTION,
+    url: `${SITE}/blog`,
+  },
 }
 
 export default function Page() {

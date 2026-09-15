@@ -4,6 +4,7 @@ import Link from 'next/link'
 import { recordEvent } from '@/lib/analytics'
 import { normalizeQuery, runSearch, type Hit } from '@/lib/search'
 import { canonicalHref } from '@/lib/href'
+import { SITE } from '@/lib/jsonld'
 
 interface SearchParamsProps { searchParams: Promise<{ q?: string; asOf?: string }> }
 
@@ -13,9 +14,20 @@ interface SearchParamsProps { searchParams: Promise<{ q?: string; asOf?: string 
 // so indexing them creates duplicate/thin pages competing with those canonicals
 // across an effectively unbounded number of query strings — one of the more
 // common ways a site drags down its own average quality signal in Google's eyes.
+//
+// The bare page used to return `{}` here, which left it silently inheriting
+// the root layout's title/description verbatim — an exact duplicate of the
+// homepage's <title> and meta description, on a page Google is told to index.
 export async function generateMetadata({ searchParams }: SearchParamsProps): Promise<Metadata> {
   const { q } = await searchParams
-  return q ? { robots: { index: false, follow: true } } : {}
+  if (q) return { robots: { index: false, follow: true } }
+  return {
+    title: 'Buscar',
+    description:
+      'Busca por título, número o texto en el corpus completo de leyes, decretos y códigos ' +
+      'chilenos — en su versión vigente o en cualquier fecha histórica.',
+    alternates: { canonical: `${SITE}/buscar` },
+  }
 }
 
 const TIPO_LABEL: Record<string, string> = {
