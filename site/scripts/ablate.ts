@@ -108,6 +108,40 @@ const ABLATIONS: Ablation[] = [
     tests: 'lib/vigencia.test.ts',
     mustFail: ['leads with the contradiction'],
   },
+  {
+    id: 'apitext-fecha',
+    fix: '/api/text refuses an unreadable fecha instead of handing it to Postgres DateStyle',
+    file: 'app/api/text/[id]/[fecha]/route.ts',
+    remove: '  const checked = checkFecha(fecha)\n  if (!checked.ok) return text(400, checked.message)\n  const at = checked.value',
+    with: '  const at = fecha',
+    tests: 'lib/apitext.test.ts',
+    mustFail: [
+      'refuses the ambiguous DD-MM-YYYY 01-06-2024',
+      'refuses the ambiguous DD-MM-YYYY 13-09-2024',
+      'rejects banana',
+    ],
+  },
+  {
+    id: 'apitext-404',
+    fix: '/api/text never answers 200 with an empty body',
+    file: 'app/api/text/[id]/[fecha]/route.ts',
+    remove: '  if (articles.length === 0) return text(404, await missMessage(idNorma, at, cov, versions))',
+    with: '',
+    tests: 'lib/apitext.test.ts',
+    mustFail: [
+      '404s for a norma that does not exist',
+      '404s for a date before the norma existed',
+    ],
+  },
+  {
+    id: 'apitext-horizon',
+    fix: '/api/text signals an extrapolated date out of band',
+    file: 'app/api/text/[id]/[fecha]/route.ts',
+    remove: "      ? `state=future; fecha=${at}; today=${today}; last-version=${cov.last.desde}; extrapolation`",
+    with: "      ? `state=covered; fecha=${at}; today=${today}`",
+    tests: 'lib/apitext.test.ts',
+    mustFail: ['still serves a date beyond the horizon, flagged as an extrapolation'],
+  },
 ]
 
 interface VitestJson {
