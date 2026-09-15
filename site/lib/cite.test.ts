@@ -1,6 +1,16 @@
 import { describe, it, expect } from 'vitest'
 
-import { renderCite, normaName, prettyNumero, CITE_FORMATS, type CiteSource } from './cite'
+import {
+  citeParts,
+  renderCite,
+  renderCiteHtml,
+  normaName,
+  prettyNumero,
+  sentenceCase,
+  titleCase,
+  CITE_FORMATS,
+  type CiteSource,
+} from './cite'
 
 const LEY: CiteSource = {
   tipo: 'ley',
@@ -131,5 +141,233 @@ describe('renderCite', () => {
     // any Date built from a bare YYYY-MM-DD in a positive-offset zone.
     expect(renderCite('chile', { ...LEY, fechaPublicacion: '2024-01-01' }, FIXED_TODAY))
       .toContain('1 de enero de 2024')
+  })
+})
+
+describe('renderCite — Revista Chilena de Derecho', () => {
+  // Asserted against UC's "Cómo citar según la Revista Chilena de Derecho",
+  // which prints one worked example per norm kind. The guide sets everything in
+  // versales; plain text cannot carry small caps, so ordinary capitals are used
+  // and the rest — element order, punctuation, date format — is followed
+  // exactly, including the ley entry's lack of a closing period.
+  const ley20066: CiteSource = {
+    tipo: 'ley', numero: '20066',
+    titulo: 'ESTABLECE LEY DE VIOLENCIA INTRAFAMILIAR',
+    denominacion: 'LEY DE VIOLENCIA INTRAFAMILIAR',
+    fechaPublicacion: '2005-09-22', url: 'https://leyes.pisanvs.cl/ley/20066',
+  }
+  const constitucion: CiteSource = {
+    tipo: 'cod', numero: 'POLITICA',
+    titulo: 'CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA',
+    fechaPublicacion: '1980-08-11', url: 'https://leyes.pisanvs.cl/norma/242302',
+  }
+
+  it("matches the guide's ley entry", () => {
+    // CHILE, Ley N° 20.066 (22/09/2005) Ley de violencia intrafamiliar
+    expect(renderCite('rchd', ley20066)).toBe(
+      'CHILE, Ley N° 20.066 (22/09/2005) Ley de Violencia Intrafamiliar',
+    )
+  })
+
+  it("matches the guide's ley footnote form", () => {
+    // LEY N° 20.066 de 2005
+    expect(renderCite('rchd-nota', ley20066)).toBe('LEY N° 20.066 de 2005')
+  })
+
+  it("matches the guide's Constitución entry", () => {
+    // CHILE, Constitución Política de la República (11/08/1980).
+    expect(renderCite('rchd', constitucion)).toBe(
+      'CHILE, Constitución Política de la República (11/08/1980).',
+    )
+  })
+
+  it("matches the guide's Constitución footnote form", () => {
+    // CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA, Chile.
+    expect(renderCite('rchd-nota', constitucion)).toBe(
+      'CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA, Chile.',
+    )
+  })
+
+  it('puts the date before the denominación, not after it', () => {
+    // The ordering that distinguishes this style: the publication date sits
+    // between the norma and its name, and the entry does not end in a period.
+    const out = renderCite('rchd', ley20066)
+    expect(out.indexOf('(22/09/2005)')).toBeLessThan(out.indexOf('Violencia'))
+    expect(out.endsWith('.')).toBe(false)
+  })
+
+  it('falls back to the official título when there is no denominación legal', () => {
+    // The guide says to include the denominación "si es que la tiene".
+    expect(renderCite('rchd', { ...ley20066, denominacion: undefined })).toBe(
+      'CHILE, Ley N° 20.066 (22/09/2005) Establece ley de violencia intrafamiliar',
+    )
+  })
+
+  it('omits the Diario Oficial and the URL, which the guide never prints', () => {
+    for (const fmt of ['rchd', 'rchd-nota'] as const) {
+      expect(renderCite(fmt, ley20066)).not.toContain('Diario Oficial')
+      expect(renderCite(fmt, ley20066)).not.toContain('http')
+    }
+  })
+
+  it('uses the degree sign, following the guide', () => {
+    // Published articles can be found using "Nº" (masculine ordinal) instead.
+    // The glyphs are near-identical and the difference survives a copy-paste,
+    // so it is pinned rather than left to whichever source was read last.
+    expect(renderCite('rchd', ley20066)).toContain('Ley N\u00B0 20.066')
+    expect(renderCite('rchd', ley20066)).not.toContain('\u00BA')
+  })
+
+  it('carries the article when one is being cited', () => {
+    expect(renderCite('rchd-nota', { ...ley20066, articulo: 'Artículo 5' })).toBe(
+      'LEY N° 20.066, ART. 5 de 2005',
+    )
+  })
+
+  it('falls back cleanly when the publication date is unknown', () => {
+    expect(renderCite('rchd', { ...ley20066, fechaPublicacion: null })).toBe(
+      'CHILE, Ley N° 20.066 Ley de Violencia Intrafamiliar',
+    )
+    expect(renderCite('rchd-nota', { ...ley20066, fechaPublicacion: null })).toBe(
+      'LEY N° 20.066',
+    )
+  })
+})
+
+describe('sentenceCase / titleCase', () => {
+  it('sentence-cases an all-caps título', () => {
+    expect(sentenceCase('SOBRE PROTECCIÓN DE LA VIDA PRIVADA')).toBe(
+      'Sobre protección de la vida privada',
+    )
+  })
+
+  it('title-cases a name, leaving the minor words down', () => {
+    expect(titleCase('CÓDIGO PENAL')).toBe('Código Penal')
+    expect(titleCase('CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA')).toBe(
+      'Constitución Política de la República',
+    )
+  })
+
+  it('capitalises a minor word when it leads', () => {
+    expect(titleCase('DE LOS DELITOS')).toBe('De los Delitos')
+  })
+
+  it('cannot restore proper nouns, and does not pretend to', () => {
+    // Documented loss: the corpus stores no case information to recover.
+    expect(sentenceCase('RINDE HOMENAJE A DON LUIS RICARTE SOTO')).toBe(
+      'Rinde homenaje a don luis ricarte soto',
+    )
+  })
+})
+
+describe('disambiguation — a number alone does not name a decreto', () => {
+  // The corpus holds 227 normas called "DFL 1" and 525 called "DTO 1". The
+  // /citar FAQ and the hub post both say a citation must therefore carry the
+  // organismo; for a while the tool said so and then emitted "Decreto con
+  // Fuerza de Ley N° 1" with no organismo anywhere in it.
+  const dfl: CiteSource = {
+    tipo: 'dfl', numero: '1', titulo: 'FIJA TEXTO REFUNDIDO DE LA LEY DE TRÁNSITO',
+    organismo: 'MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES',
+    fechaPublicacion: '2009-02-07', url: 'https://leyes.pisanvs.cl/norma/1007469',
+  }
+
+  it('names the organismo in every prose format', () => {
+    for (const fmt of ['chile', 'apa', 'mla', 'chicago'] as const) {
+      expect(renderCite(fmt, dfl)).toContain('Ministerio de Transportes y Telecomunicaciones')
+    }
+  })
+
+  it('does not print a year for the decreto itself', () => {
+    // "DFL 1, de 2007" is the year it was dictated; the corpus only has the
+    // publication date, 2009. fechaPromulgacion is not loaded into Postgres,
+    // so any year printed here would be wrong as often as right.
+    expect(renderCite('chile', dfl)).not.toContain('de 2007')
+    expect(renderCite('chile', dfl)).toBe(
+      'Decreto con Fuerza de Ley N° 1, del Ministerio de Transportes y Telecomunicaciones, ' +
+      'Diario Oficial, 7 de febrero de 2009.',
+    )
+  })
+
+  it('leaves a ley alone, since its number is unique', () => {
+    expect(renderCite('chile', LEY)).not.toContain('Ministerio')
+  })
+
+  it('degrades cleanly when the organismo is missing', () => {
+    expect(renderCite('chile', { ...dfl, organismo: '' })).toBe(
+      'Decreto con Fuerza de Ley N° 1, Diario Oficial, 7 de febrero de 2009.',
+    )
+  })
+
+  it('does not duplicate the organismo in BibTeX and RIS', () => {
+    // Both carry it in a field of their own (institution / PB).
+    expect(renderCite('bibtex', dfl)).toContain('title        = {Decreto con Fuerza de Ley N° 1}')
+    expect(renderCite('ris', dfl)).toContain('TI  - Decreto con Fuerza de Ley N° 1')
+  })
+
+  it('follows the guide for RChD, which does not disambiguate either', () => {
+    // UC's guide gives no decreto example and no slot for an organismo; the
+    // style leans on the denominación legal instead. Followed rather than
+    // extended — an invented element is not the journal's format.
+    expect(renderCite('rchd', dfl)).toBe(
+      'CHILE, Decreto con Fuerza de Ley N° 1 (07/02/2009) Fija texto refundido de la ley de tránsito',
+    )
+    // With the denominación the corpus actually holds for this DFL, the entry
+    // identifies it the way the style intends.
+    expect(renderCite('rchd', { ...dfl, denominacion: 'LEY DE TRÁNSITO' })).toBe(
+      'CHILE, Decreto con Fuerza de Ley N° 1 (07/02/2009) Ley de Tránsito',
+    )
+  })
+})
+
+describe('versalitas', () => {
+  // The guide sets one element of each entry in versales: the state in a
+  // bibliography entry, the norma's name in a footnote. Small capitals are a
+  // typographic instruction, not characters — so the parts carry the intent and
+  // each destination renders it as it can.
+  const ley: CiteSource = {
+    tipo: 'ley', numero: '20066', titulo: 'ESTABLECE LEY DE VIOLENCIA INTRAFAMILIAR',
+    denominacion: 'LEY DE VIOLENCIA INTRAFAMILIAR',
+    fechaPublicacion: '2005-09-22', url: 'https://leyes.pisanvs.cl/ley/20066',
+  }
+
+  it('marks the state in a bibliography entry', () => {
+    const parts = citeParts('rchd', ley)
+    expect(parts[0]).toEqual({ text: 'Chile', versalitas: true })
+    expect(parts.slice(1).every((p) => !p.versalitas)).toBe(true)
+  })
+
+  it('marks the norma name in a footnote, and not the year', () => {
+    const parts = citeParts('rchd-nota', ley)
+    expect(parts[0]).toEqual({ text: 'Ley N° 20.066', versalitas: true })
+    expect(parts[1]).toEqual({ text: ' de 2005' })
+  })
+
+  it('keeps the original case in HTML, so Word can apply small caps', () => {
+    // Word leaves capitals full size and shrinks lowercase, so uppercasing
+    // first would defeat the very formatting being requested.
+    const html = renderCiteHtml('rchd', ley)
+    expect(html).toContain('<span style="font-variant: small-caps">Chile</span>')
+    expect(html).not.toContain('CHILE')
+  })
+
+  it('capitalises in plain text, which is how a printed entry transcribes', () => {
+    expect(renderCite('rchd', ley).startsWith('CHILE,')).toBe(true)
+  })
+
+  it('escapes HTML rather than emitting markup from corpus text', () => {
+    const html = renderCiteHtml('rchd', { ...ley, denominacion: undefined, titulo: 'LEY <B> & "X"' })
+    // Sentence-cased first, then escaped — the point is that no raw < > & "
+    // from corpus text reaches the clipboard as markup.
+    expect(html).toContain('&lt;b&gt; &amp; &quot;x&quot;')
+    expect(html).not.toContain('<b>')
+  })
+
+  it('gives every other format a single plain part', () => {
+    for (const f of CITE_FORMATS.filter((f) => !f.id.startsWith('rchd'))) {
+      const parts = citeParts(f.id, ley)
+      expect(parts).toHaveLength(1)
+      expect(parts[0].versalitas).toBeUndefined()
+      expect(parts[0].text).toBe(renderCite(f.id, ley))
+    }
   })
 })

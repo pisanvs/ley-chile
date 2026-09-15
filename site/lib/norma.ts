@@ -10,6 +10,11 @@ export interface Norma {
   derogado: boolean
   fechaPublicacion: string | null
   lawDir: string
+  /** Short legal names ("Ley de violencia intrafamiliar", "LEY DE TRÁNSITO").
+   *  The Revista Chilena de Derecho's entry for a ley is its *denominación
+   *  legal*, not its official título, so citation needs this. Sparse: most
+   *  normas have none. */
+  nombresUsoComun: string[]
 }
 
 export interface Version {
@@ -33,6 +38,7 @@ function toNorma(r: Record<string, any>): Norma {
     idNorma: r.id_norma, tipo: r.tipo, numero: r.numero, titulo: r.titulo,
     organismo: r.organismo, derogado: r.derogado,
     fechaPublicacion: r.fecha_publicacion, lawDir: r.law_dir,
+    nombresUsoComun: r.nombres_uso_comun ?? [],
   }
 }
 
@@ -54,7 +60,8 @@ function decodeSegment(s: string): string {
 
 export async function getNorma(tipo: string, numero: string): Promise<Norma | null> {
   const { rows } = await pool.query(
-    `SELECT id_norma, tipo, numero, titulo, organismo, derogado, fecha_publicacion, law_dir
+    `SELECT id_norma, tipo, numero, titulo, organismo, derogado, fecha_publicacion, law_dir,
+            nombres_uso_comun
        FROM norma WHERE tipo = $1 AND numero = $2 LIMIT 1`,
     [decodeSegment(tipo), decodeSegment(numero)],
   )
@@ -224,7 +231,8 @@ export async function getArticlesAsOf(idNorma: number, fecha: string): Promise<A
  */
 export async function getNormaById(idNorma: number): Promise<Norma | null> {
   const { rows } = await pool.query(
-    `SELECT id_norma, tipo, numero, titulo, organismo, derogado, fecha_publicacion, law_dir
+    `SELECT id_norma, tipo, numero, titulo, organismo, derogado, fecha_publicacion, law_dir,
+            nombres_uso_comun
        FROM norma WHERE id_norma = $1 LIMIT 1`,
     [idNorma],
   )
@@ -249,7 +257,8 @@ export async function getNormaById(idNorma: number): Promise<Norma | null> {
 export async function resolveAlias(numero: string): Promise<Norma | null> {
   if (!/^\d+$/.test(numero)) return null
   const { rows } = await pool.query(
-    `SELECT id_norma, tipo, numero, titulo, organismo, derogado, fecha_publicacion, law_dir
+    `SELECT id_norma, tipo, numero, titulo, organismo, derogado, fecha_publicacion, law_dir,
+            nombres_uso_comun
        FROM norma WHERE numero = $1 LIMIT 2`,
     [numero],
   )

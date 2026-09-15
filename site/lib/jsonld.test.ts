@@ -5,6 +5,7 @@ import type { Norma, Version } from './norma'
 const LEY: Norma = {
   idNorma: 20330, tipo: 'ley', numero: '20330', titulo: 'LEY 20330',
   organismo: 'MINEDUC', derogado: false, fechaPublicacion: '2009-02-25', lawDir: 'leyes/20330',
+  nombresUsoComun: [],
 }
 const versions: Version[] = [
   { desde: '2009-02-25', hasta: '2011-01-01', commitSha: 'a', causaId: null, subject: '' },

@@ -1,0 +1,29 @@
+{
+  "efectos": [
+    {
+      "target": {
+        "idNorma": 221322,
+        "tipo": "dfl",
+        "numero": "5",
+        "titulo": "FIJA TEXTO REFUNDIDO, CONCORDADO Y SISTEMATIZADO DE LA LEY GENERAL DE COOPERATIVAS",
+        "nombresUsoComun": [
+          "LEY DE COOPERATIVAS"
+        ]
+      },
+      "fecha": "2023-06-13",
+      "more": 0,
+      "articles": [
+        {
+          "slug": "art-58-bis",
+          "label": "articulo 58 bis",
+          "rawHeading": "Artículo 58 bis",
+          "status": "modified",
+          "prevBody": "",
+          "currBody": ""
+        }
+      ],
+      "totalArticles": 146
+    }
+  ],
+  "truncated": false
+}

@@ -6,154 +6,13 @@ import Link from 'next/link'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { segment, wordDiff, joinDiffText, type Segment } from '@/lib/diff'
+import { alignEffects, isWholesaleRewrite } from '@/lib/efectosAlign'
 import { canonicalHref } from '@/lib/href'
 import { escapeLegalMarkdown } from '@/lib/mdEscape'
 import type { Efecto, EfectoArticle } from '@/lib/efectos'
 
 const TIPO_LABEL: Record<string, string> = {
   ley: 'Ley', dl: 'DL', dfl: 'DFL', dto: 'Decreto', cod: 'Código', res: 'Resolución',
-}
-
-// ---------------------------------------------------------------------------
-// Aligning each effect to the modifier article that caused it.
-//
-// A Chilean modificatoria names its target inside each article: "Modifícase el
-// decreto con fuerza de ley N° 5, de 1967 … en el siguiente sentido:". So the
-// target (tipo, numero) can be recovered from the article text and matched to
-// the effect on that same law — which is what lets the change sit next to the
-// article that produced it, rather than in a flat list.
-//
-// Heuristic, not a parser: it requires the tipo cue and the number in
-// proximity, so an incidental "artículo 5" doesn't get read as "DFL 5". What it
-// cannot match (an unusual reference, a table) falls to "Otras modificaciones".
-// ---------------------------------------------------------------------------
-
-const TIPO_CUE: Record<string, string> = {
-  dfl: 'fuerza de ley',
-  dl: 'decreto\\s+ley',
-  dto: 'decreto(?:\\s+supremo)?',
-  ley: 'ley',
-  cod: 'c[oó]digo',
-}
-
-/** Collapse thousands separators inside numbers ("19.882" → "19882") so a bare
- *  number match is reliable. */
-function collapseNums(s: string): string {
-  let prev = ''
-  let out = s
-  while (out !== prev) {
-    prev = out
-    out = out.replace(/(\d)\.(\d)/g, '$1$2')
-  }
-  return out
-}
-
-/** Strict reference: the tipo cue and the number in proximity. Rules out an
- *  incidental "artículo 5" being read as "DFL 5". */
-function strictPattern(tipo: string, numero: string): RegExp | null {
-  const num = numero.replace(/\D/g, '')
-  const cue = TIPO_CUE[tipo]
-  if (!num || !cue) return null
-  return new RegExp(`${cue}[^.;:]{0,60}?n[°ºo]?\\s*${num}\\b`, 'i')
-}
-
-const fold = (s: string) =>
-  s.normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase()
-
-// Title words too generic to identify a law on their own — a modifier article
-// that merely says "código" or "ley general" must not match by them.
-const NAME_STOPWORDS = new Set([
-  'codigo', 'ley', 'sobre', 'general', 'generales', 'normas', 'norma', 'sistema',
-  'nacional', 'servicio', 'servicios', 'ministerio', 'establece', 'texto',
-  'refundido', 'coordinado', 'sistematizado', 'organica', 'organico',
-  'constitucional', 'materia', 'materias', 'disposiciones', 'aprueba', 'crea',
-  'fija', 'estatuto', 'sector', 'publico', 'del', 'los', 'las', 'para',
-])
-
-/** Distinctive words from a target's title and common names ("aeronautico",
- *  "municipalidades") — long enough and specific enough to identify the law when
- *  a modifier article names it instead of numbering it. */
-function nameTokens(titulo: string, comunes: string[]): string[] {
-  const seen = new Set<string>()
-  for (const src of [...comunes, titulo]) {
-    for (const w of fold(src).split(/[^a-z0-9]+/)) {
-      if (w.length >= 7 && !NAME_STOPWORDS.has(w)) seen.add(w)
-    }
-  }
-  return Array.from(seen)
-}
-
-interface AlignedRow {
-  article: Segment
-  efectos: Efecto[]
-}
-
-/** Pair each effect with the modifier article that caused it.
- *
- *  Two passes, most confident first:
- *   1. strict — tipo cue + number in proximity ("fuerza de ley N° 5").
- *   2. fuzzy  — for still-unmatched effects on a law with a distinctive number
- *      (≥ 1000, so not confusable with an article number), the number appearing
- *      anywhere in an as-yet-unmatched article. Catches references that name the
- *      law without a clean tipo cue ("lo dispuesto en la N° 19.880").
- *  Whatever neither pass claims falls to "Otras". */
-function alignEffects(
-  articles: Segment[],
-  efectos: Efecto[],
-): { rows: AlignedRow[]; unmatched: Efecto[] } {
-  const bodies = articles.map((a) => collapseNums(a.body))
-  const rows: AlignedRow[] = articles.map((article) => ({ article, efectos: [] }))
-  const taken = new Set<number>()
-
-  const assign = (test: (body: string, e: Efecto) => boolean) => {
-    efectos.forEach((e, ei) => {
-      if (taken.has(ei)) return
-      const ai = bodies.findIndex((b, i) => test(b, e) && rowFree(rows[i], e))
-      if (ai >= 0) {
-        rows[ai].efectos.push(e)
-        taken.add(ei)
-      }
-    })
-  }
-
-  // Pass 1 — strict: tipo cue + number in proximity ("fuerza de ley N° 5").
-  const strict = efectos.map((e) => strictPattern(e.target.tipo, e.target.numero))
-  assign((body, e) => {
-    const p = strict[efectos.indexOf(e)]
-    return !!p && p.test(body)
-  })
-  // Pass 2 — number-only, for distinctive numbers (≥4 digits), matched against
-  // the dot-collapsed body.
-  assign((body, e) => {
-    const num = e.target.numero.replace(/\D/g, '')
-    return num.length >= 4 && new RegExp(`(^|\\D)${num}(\\D|$)`).test(body)
-  })
-  // Pass 3 — by name: laws cite a code by its name, not its number ("en el
-  // artículo 193 del Código Aeronáutico"). Match a distinctive title/common-name
-  // word of the target against the accent-folded article body.
-  const tokens = efectos.map((e) => nameTokens(e.target.titulo, e.target.nombresUsoComun))
-  const folded = bodies.map(fold)
-  efectos.forEach((e, ei) => {
-    if (taken.has(ei)) return
-    const toks = tokens[ei]
-    if (toks.length === 0) return
-    const ai = folded.findIndex(
-      (fb, i) => toks.some((t) => fb.includes(t)) && rowFree(rows[i], e),
-    )
-    if (ai >= 0) {
-      rows[ai].efectos.push(e)
-      taken.add(ei)
-    }
-  })
-
-  const unmatched = efectos.filter((_, i) => !taken.has(i))
-  return { rows, unmatched }
-}
-
-/** Don't stack two effects on one article unless it really names both — keeps a
- *  fuzzy pass from dumping several laws onto one long article. */
-function rowFree(row: AlignedRow, _e: Efecto): boolean {
-  return row.efectos.length < 3
 }
 
 /** Efectos mode: the modificatoria's own articles, with each change aligned to
@@ -176,11 +35,6 @@ export function EfectosAligned({ modifierId, text }: { modifierId: number; text:
     [articles, q.data],
   )
 
-  // Only the articles that actually change another law get a row. Showing the
-  // ~130 substantive articles that modify nothing (with an empty column beside
-  // them) is what made this read as broken. The full text stays one click away
-  // in the Limpio / Redline modes.
-  const modifying = rows.filter((r) => r.efectos.length > 0)
   const totalEfectos = q.data?.efectos.length ?? 0
 
   if (q.isLoading) return <p className="text-sm text-ink-faint">Calculando efectos…</p>
@@ -209,19 +63,32 @@ export function EfectosAligned({ modifierId, text }: { modifierId: number; text:
           viewport. Rows separated by a rule; within a row, a vertical line
           divides the modifier article (left) from what it changed (right). */}
       <div className="@container divide-y divide-rule">
-        {modifying.map((row) => (
-          <div
-            key={row.article.slug}
-            className="grid grid-cols-1 @3xl:grid-cols-2 gap-x-12 gap-y-4 py-7"
-          >
-            <ModifierArticle article={row.article} />
-            <div className="space-y-6 @3xl:border-l @3xl:border-rule @3xl:pl-12">
-              {row.efectos.map((e) => (
-                <TargetEffect key={`${e.target.idNorma}:${e.fecha}`} efecto={e} />
-              ))}
+        {/* Every article is rendered, in document order — including the ones
+            that change nothing. Those take the full width rather than sitting
+            beside an empty column, which is what made showing them read as
+            broken before. Dropping them instead deleted parts of the law: a
+            modificatoria's quoted insertions are emitted as articles of the
+            modifier, so filtering by "has effects" truncated the text
+            mid-sentence. See lib/efectosAlign. */}
+        {rows.map((row, i) =>
+          row.efectos.length === 0 ? (
+            <div key={`${row.article.slug}:${i}`} className="py-6">
+              <ModifierArticle article={row.article} />
             </div>
-          </div>
-        ))}
+          ) : (
+            <div
+              key={`${row.article.slug}:${i}`}
+              className="grid grid-cols-1 @3xl:grid-cols-2 gap-x-12 gap-y-4 py-7"
+            >
+              <ModifierArticle article={row.article} />
+              <div className="space-y-6 @3xl:border-l @3xl:border-rule @3xl:pl-12">
+                {row.efectos.map((e) => (
+                  <TargetEffect key={`${e.target.idNorma}:${e.fecha}`} efecto={e} />
+                ))}
+              </div>
+            </div>
+          ),
+        )}
 
         {unmatched.length > 0 && (
           <section className="py-7">
@@ -277,15 +144,49 @@ function TargetEffect({ efecto }: { efecto: Efecto }) {
         </span>
       </Link>
       <p className="text-[12px] leading-snug text-ink-faint mb-3 line-clamp-2">{target.titulo}</p>
-      <div className="space-y-4">
-        {articles.map((a) => (
-          <ArticleRedline key={`${a.slug}:${a.status}`} article={a} />
-        ))}
-        {more > 0 && (
-          <p className="text-[12px] text-ink-faint">…y {more} artículo(s) más</p>
-        )}
-      </div>
+      {isWholesaleRewrite(efecto) ? (
+        <WholesaleNotice efecto={efecto} />
+      ) : (
+        <div className="space-y-4">
+          {articles.map((a, i) => (
+            <ArticleRedline key={`${a.slug}:${a.status}:${i}`} article={a} />
+          ))}
+          {more > 0 && (
+            <p className="text-[12px] text-ink-faint">…y {more} artículo(s) más</p>
+          )}
+        </div>
+      )}
     </div>
+  )
+}
+
+/**
+ * Shown instead of the redlines when the diff covers nearly the whole target.
+ *
+ * The panel's claim is "this article changed that text", and here the corpus
+ * cannot support it: the comparison version's stored text is not the text that
+ * was in force on its date, so the redline would be both wrong and backwards.
+ * Saying so is the honest option — silently hiding the effect would misstate
+ * what the law did just as badly, in the other direction.
+ */
+function WholesaleNotice({ efecto }: { efecto: Efecto }) {
+  const n = efecto.articles.length + efecto.more
+  return (
+    <details className="rounded-lg border border-dashed border-rule bg-paper-sunk/40 px-3.5 py-3">
+      <summary className="cursor-pointer text-[12.5px] text-ink-soft marker:text-ink-faint">
+        Texto completo re-transcrito ({n} artículos)
+      </summary>
+      <p className="mt-2 text-[12px] leading-relaxed text-ink-faint">
+        La versión anterior guardada en el corpus no corresponde al texto vigente en esa fecha, así
+        que la comparación marca casi todos los artículos como modificados. No refleja lo que esta
+        norma cambió. Para ver el cambio real, abre la norma y compara sus versiones.
+      </p>
+      <div className="mt-3 space-y-4 opacity-60">
+        {efecto.articles.slice(0, 3).map((a, i) => (
+          <ArticleRedline key={`${a.slug}:${a.status}:${i}`} article={a} />
+        ))}
+      </div>
+    </details>
   )
 }
 

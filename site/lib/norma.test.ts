@@ -4,6 +4,7 @@ import { canonicalPath, currentFecha, isMultiVersion, type Norma, type Version }
 const LEY: Norma = {
   idNorma: 20330, tipo: 'ley', numero: '20330', titulo: 'T',
   organismo: 'M', derogado: false, fechaPublicacion: '2009-02-25', lawDir: 'leyes/20330',
+  nombresUsoComun: [],
 }
 const v = (desde: string, hasta: string | null): Version =>
   ({ desde, hasta, commitSha: 'x', causaId: null, subject: '' })

@@ -8,6 +8,7 @@ import type { Metadata } from 'next'
 import { pool } from '@/lib/db'
 import { SITE } from '@/lib/jsonld'
 import { SITE_NAME, OG_LOCALE } from '@/lib/site'
+import { guiaHref } from '@/lib/href'
 import { GUIA_TIPOS, MIN_GUIA_ARTICLES, prettyNumero, tipoLabel } from '@/lib/seo'
 import { TOPICS } from '@/lib/topics'
 
@@ -32,7 +33,9 @@ export const metadata: Metadata = {
   },
 }
 
-interface Row { tipo: string; numero: string; titulo: string; versions: number; arts: number }
+interface Row {
+  idNorma: number; tipo: string; numero: string; titulo: string; versions: number; arts: number
+}
 
 /** The most-reformed normas that clear the guide gate. "Most versions" is a
  *  decent proxy for "most consequential": a law nobody amends is a law nobody
@@ -43,7 +46,7 @@ interface Row { tipo: string; numero: string; titulo: string; versions: number; 
  *  and 500s this route on production Postgres. See MIN_GUIA_ARTICLES. */
 async function notable(): Promise<Row[]> {
   const { rows } = await pool.query(
-    `SELECT n.tipo, n.numero, n.titulo, a.arts::int AS arts, count(v.*)::int AS versions
+    `SELECT n.id_norma, n.tipo, n.numero, n.titulo, a.arts::int AS arts, count(v.*)::int AS versions
        FROM norma n
        JOIN (
          SELECT id_norma, count(*) AS arts FROM articulo GROUP BY id_norma
@@ -56,7 +59,8 @@ async function notable(): Promise<Row[]> {
     [GUIA_TIPOS as unknown as string[], MIN_GUIA_ARTICLES],
   )
   return rows.map((r) => ({
-    tipo: r.tipo, numero: r.numero, titulo: r.titulo, versions: r.versions, arts: r.arts,
+    idNorma: r.id_norma, tipo: r.tipo, numero: r.numero, titulo: r.titulo,
+    versions: r.versions, arts: r.arts,
   }))
 }
 
@@ -95,9 +99,9 @@ export default async function Page() {
         </p>
         <ul className="divide-y divide-rule border-t border-rule">
           {rows.map((r) => (
-            <li key={`${r.tipo}-${r.numero}`}>
+            <li key={r.idNorma}>
               <Link
-                href={`/guia/${r.tipo}/${encodeURIComponent(r.numero)}`}
+                href={guiaHref(r)}
                 className="group flex flex-col md:flex-row md:items-baseline gap-1 md:gap-6 py-3.5 hover:bg-paper-sunk/50 -mx-2 px-2 rounded transition"
               >
                 <div className="font-mono text-xs text-ink-faint w-28 shrink-0">

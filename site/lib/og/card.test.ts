@@ -6,6 +6,7 @@ const LEY: Norma = {
   idNorma: 1200096, tipo: 'ley', numero: '21643', titulo: 'LEY KARIN',
   organismo: 'MINTRAB', derogado: false, fechaPublicacion: '2024-01-15',
   lawDir: 'modificaciones/21643',
+  nombresUsoComun: [],
 }
 
 describe('buildLawCardProps', () => {

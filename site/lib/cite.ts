@@ -15,7 +15,8 @@
  */
 
 export type CiteFormat =
-  | 'chile' | 'apa' | 'mla' | 'chicago' | 'bibtex' | 'ris' | 'markdown' | 'url'
+  | 'chile' | 'rchd' | 'rchd-nota'
+  | 'apa' | 'mla' | 'chicago' | 'bibtex' | 'ris' | 'markdown' | 'url'
 
 export interface CiteSource {
   tipo: string
@@ -29,6 +30,14 @@ export interface CiteSource {
   url: string
   /** Article label as displayed, e.g. "Artículo 12". Absent cites the norma. */
   articulo?: string
+  /**
+   * The norma's short legal name — "Ley de violencia intrafamiliar" — from the
+   * corpus's `nombres_uso_comun`. The Revista Chilena de Derecho's entry is
+   * built on this "denominación legal", not on the official título. Sparse:
+   * most normas have none, and the guide says to include it only "si es que la
+   * tiene".
+   */
+  denominacion?: string
 }
 
 const MESES = [
@@ -75,6 +84,121 @@ export function normaName(s: CiteSource): string {
   return `${kind} N° ${prettyNumero(s.numero)}`
 }
 
+/**
+ * Tipos whose number does not identify a norma.
+ *
+ * A ley number is unique; a decreto number is not remotely. The corpus holds
+ * 227 normas called "DFL 1" and 525 called "DTO 1", from different organismos
+ * and different years, so "Decreto N° 1" names a family, not a norma — and a
+ * reader given that citation cannot reach the text that was cited.
+ */
+const AMBIGUOUS_TIPOS = new Set(['dto', 'dfl', 'dl', 'res'])
+
+/**
+ * The norma's name, with enough to identify it.
+ *
+ * Chilean legal writing disambiguates a decreto by its issuing organismo and
+ * year — "el decreto con fuerza de ley N° 1, de 2007, de los Ministerios de
+ * Transportes y Telecomunicaciones y de Justicia" is how ley 21.579 refers to
+ * one. This adds the organismo and stops there.
+ *
+ * The year is deliberately omitted. That "de 2007" is the year the decree was
+ * *dictated*, and the corpus carries only the publication date — which for that
+ * very DFL is 2009. `fechaPromulgacion` exists upstream in the pipeline but was
+ * never loaded into Postgres, so printing a year here would mean printing the
+ * wrong one about as often as not. An incomplete citation is a nuisance; a
+ * citation with a confident, wrong year in it is a trap, and this tool is used
+ * by people who will be marked on the result. The organismo alone already
+ * separates the 227 "DFL 1"s into groups of a handful.
+ */
+function citeName(s: CiteSource): string {
+  const base = normaName(s)
+  if (!AMBIGUOUS_TIPOS.has(s.tipo) || !s.organismo?.trim()) return base
+  return `${base}, del ${titleCase(s.organismo)}`
+}
+
+/** " (22/09/2005)" — the parenthesised publication date, or nothing. */
+function when(s: CiteSource): string {
+  const d = slashDate(s.fechaPublicacion)
+  return d ? ` (${d})` : ''
+}
+
+/** "28/08/1999" — the date form the Revista Chilena de Derecho uses. */
+function slashDate(iso?: string | null): string | null {
+  if (!iso || !/^\d{4}-\d{2}-\d{2}$/.test(iso)) return null
+  const [y, m, d] = iso.split('-')
+  return `${d}/${m}/${y}`
+}
+
+// Words a Spanish title leaves lowercase when the rest is capitalised.
+const MINOR_WORDS = new Set([
+  'de', 'del', 'la', 'las', 'el', 'los', 'y', 'e', 'o', 'u', 'en', 'a', 'al',
+  'con', 'por', 'para', 'sobre', 'sin', 'que', 'su', 'sus', 'un', 'una',
+])
+
+/**
+ * Recase a title the corpus stores in capitals.
+ *
+ * LeyChile stores every título uppercase — "SOBRE PROTECCIÓN DE LA VIDA
+ * PRIVADA" — and no citation style prints it that way, so it has to be recased
+ * to be usable at all.
+ *
+ * The loss is real and worth stating: uppercase source text carries no signal
+ * about which words were proper nouns, so "RINDE HOMENAJE PÓSTUMO A DON LUIS
+ * RICARTE SOTO GALLEGOS" comes back as "…don luis ricarte soto gallegos". No
+ * heuristic recovers that, and inventing one would be guessing at names. The
+ * `/citar` page says so beside the format; a title with a person or place in it
+ * needs a human to fix the capitals.
+ *
+ * A title that is not uppercase is left exactly as written — it already carries
+ * the distinction this function cannot reconstruct.
+ */
+export function sentenceCase(s: string): string {
+  const t = s.trim()
+  if (!t || t !== t.toUpperCase()) return t
+  const lower = t.toLocaleLowerCase('es')
+  return lower.charAt(0).toLocaleUpperCase('es') + lower.slice(1)
+}
+
+/** Title case for names that are titles: "CÓDIGO PENAL" → "Código Penal". */
+export function titleCase(s: string): string {
+  const t = s.trim()
+  if (!t || t !== t.toUpperCase()) return t
+  return t
+    .toLocaleLowerCase('es')
+    .split(/(\s+)/)
+    .map((w, i) =>
+      /^\s+$/.test(w) || (i > 0 && MINOR_WORDS.has(w))
+        ? w
+        : w.charAt(0).toLocaleUpperCase('es') + w.slice(1),
+    )
+    .join('')
+}
+
+/**
+ * The norma's name in the Revista Chilena de Derecho's form.
+ *
+ * The ordinal mark here is "N°" (N + degree sign), following UC's guide, which
+ * prints "Ley N° 20.066". Published articles in the journal can be found using
+ * "Nº" (N + masculine ordinal) instead — the two glyphs are nearly
+ * indistinguishable and the difference survives a copy-paste, so it is worth
+ * pinning deliberately rather than leaving to whichever source was read last.
+ * Changing it is the one character below, and RCHD_ORDINAL exists so that the
+ * change is one place rather than several.
+ *
+ * The degree sign also matches `normaName`, so a document that mixes this
+ * format with the site's other output stays internally consistent.
+ */
+const RCHD_ORDINAL = '°' 
+function rchdName(s: CiteSource): string {
+  const label: Record<string, string> = {
+    ley: 'Ley', dl: 'Decreto Ley', dfl: 'Decreto con Fuerza de Ley',
+    dto: 'Decreto', res: 'Resolución',
+  }
+  const kind = label[s.tipo] ?? s.tipo.toUpperCase()
+  return `${kind} N${RCHD_ORDINAL} ${prettyNumero(s.numero)}`
+}
+
 /** "art. 12" from "Artículo 12" — citation styles abbreviate. */
 function artShort(articulo?: string): string | null {
   if (!articulo) return null
@@ -85,7 +209,9 @@ function artShort(articulo?: string): string | null {
 const DO = 'Diario Oficial de la República de Chile'
 
 export function renderCite(fmt: CiteFormat, s: CiteSource, today = new Date()): string {
-  const name = normaName(s)
+  // Every prose format cites through `citeName`, which carries the organismo
+  // for the tipos whose number alone names a family of normas rather than one.
+  const name = citeName(s)
   const art = artShort(s.articulo)
   const pub = longDate(s.fechaPublicacion)
   const year = yearOf(s.fechaPublicacion)
@@ -110,6 +236,10 @@ export function renderCite(fmt: CiteFormat, s: CiteSource, today = new Date()): 
         pub ? `${DO.replace(' de la República de Chile', '')}, ${pub}` : null,
       ].filter(Boolean).join(', ') + '.'
 
+    case 'rchd':
+    case 'rchd-nota':
+      return partsToText(rchdParts(fmt, s, art, year))
+
     case 'apa':
       // APA 7 defers to local convention for non-US statutes; this follows its
       // reference shape — title, date, source, URL.
@@ -130,9 +260,11 @@ export function renderCite(fmt: CiteFormat, s: CiteSource, today = new Date()): 
 
     case 'bibtex': {
       const key = `${s.tipo}${s.numero}`.replace(/[^a-zA-Z0-9]/g, '')
+      // `institution` already carries the organismo, so the short name is used
+      // here rather than repeating it inside the title.
       return [
         `@legislation{${key},`,
-        `  title        = {${name}${art ? `, ${art}` : ''}},`,
+        `  title        = {${normaName(s)}${art ? `, ${art}` : ''}},`,
         s.titulo ? `  subtitle     = {${s.titulo}},` : null,
         `  journal      = {${DO}},`,
         year ? `  year         = {${year}},` : null,
@@ -147,7 +279,8 @@ export function renderCite(fmt: CiteFormat, s: CiteSource, today = new Date()): 
       // TY - STAT is the RIS type for a statute; Zotero and Mendeley both map it.
       return [
         'TY  - STAT',
-        `TI  - ${name}${art ? `, ${art}` : ''}`,
+        // PB carries the organismo; no need to repeat it in the title.
+        `TI  - ${normaName(s)}${art ? `, ${art}` : ''}`,
         s.titulo ? `T2  - ${s.titulo}` : null,
         `JO  - ${DO}`,
         s.fechaPublicacion ? `DA  - ${s.fechaPublicacion.replace(/-/g, '/')}` : null,
@@ -162,6 +295,13 @@ export function renderCite(fmt: CiteFormat, s: CiteSource, today = new Date()): 
 
 export const CITE_FORMATS: { id: CiteFormat; label: string; hint?: string }[] = [
   { id: 'chile', label: 'Cita legal', hint: 'uso chileno' },
+  // The hint is a warning, not a feature note: the corpus stores títulos in
+  // capitals, so the recased title cannot know which words were proper nouns.
+  // The journal's guide gives a bibliography entry and a footnote form for
+  // every source type, and legal writing uses the footnote far more often, so
+  // both are offered rather than only the reference-list entry.
+  { id: 'rchd', label: 'Rev. Chilena de Derecho', hint: 'bibliografía' },
+  { id: 'rchd-nota', label: 'RChD', hint: 'cita abreviada, a pie de página' },
   { id: 'apa', label: 'APA 7' },
   { id: 'mla', label: 'MLA 9' },
   { id: 'chicago', label: 'Chicago' },
@@ -170,3 +310,112 @@ export const CITE_FORMATS: { id: CiteFormat; label: string; hint?: string }[] = 
   { id: 'markdown', label: 'Markdown', hint: 'para enlazar' },
   { id: 'url', label: 'Enlace' },
 ]
+
+/* ------------------------------------------------------------------------- *
+ * Versalitas
+ *
+ * The Revista Chilena de Derecho sets one element of each entry in versales
+ * (small capitals): the state in a bibliography entry, the norma's name in a
+ * footnote. That is a typographic instruction, not a set of characters —
+ * Unicode has no small-capital ñ or í, and the "ᴄᴀᴘs" block would paste as
+ * mojibake into the Word document these citations are headed for.
+ *
+ * So the citation is built as parts that know which of them are versalitas,
+ * and each destination renders them the way it can: `text/html` on the
+ * clipboard carries `font-variant: small-caps`, which Word and Google Docs
+ * honour on paste; the `text/plain` fallback capitalises instead, which is how
+ * a printed bibliography reads when transcribed. The panel shows the real
+ * thing on screen.
+ * ------------------------------------------------------------------------- */
+
+export interface CitePart {
+  text: string
+  /** Set in versales — small capitals, not capitals. */
+  versalitas?: boolean
+}
+
+/** Plain-text rendering: versalitas degrade to capitals, the closest a
+ *  characters-only medium gets. */
+function partsToText(parts: CitePart[]): string {
+  return parts.map((p) => (p.versalitas ? p.text.toLocaleUpperCase('es') : p.text)).join('')
+}
+
+function escapeHtml(s: string): string {
+  return s.replace(/[&<>"]/g, (c) => `&${{ '&': 'amp', '<': 'lt', '>': 'gt', '"': 'quot' }[c]};`)
+}
+
+/**
+ * HTML rendering, for the clipboard's `text/html` flavour.
+ *
+ * Word applies small-caps to lowercase letters and leaves capitals full size,
+ * so the text handed to it keeps its original case — capitalising first would
+ * defeat the formatting it is asked to apply.
+ */
+export function renderCiteHtml(fmt: CiteFormat, s: CiteSource, today = new Date()): string {
+  const parts = citeParts(fmt, s, today)
+  return parts
+    .map((p) =>
+      p.versalitas
+        ? `<span style="font-variant: small-caps">${escapeHtml(p.text)}</span>`
+        : escapeHtml(p.text),
+    )
+    .join('')
+}
+
+/**
+ * The citation as parts. Only the RChD forms carry versalitas; every other
+ * format is one plain part, so callers can treat all formats uniformly.
+ */
+export function citeParts(fmt: CiteFormat, s: CiteSource, today = new Date()): CitePart[] {
+  if (fmt === 'rchd' || fmt === 'rchd-nota') {
+    return rchdParts(fmt, s, artShort(s.articulo), yearOf(s.fechaPublicacion))
+  }
+  return [{ text: renderCite(fmt, s, today) }]
+}
+
+/**
+ * Per UC's "Cómo citar según la Revista Chilena de Derecho", which gives the
+ * rule and one worked example for each of the two norm kinds:
+ *
+ *   Normas (Códigos y Constituciones)
+ *     bibliografía:   CHILE, Constitución Política de la República (11/08/1980).
+ *     cita abreviada: CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA, Chile.
+ *
+ *   Normas (Leyes no codificadas)
+ *     bibliografía:   CHILE, Ley N° 20.066 (22/09/2005) Ley de violencia intrafamiliar
+ *     cita abreviada: LEY N° 20.066 de 2005
+ *
+ * Element order, punctuation and date format follow the examples exactly —
+ * note that the ley entry carries no closing period and the Constitución entry
+ * does. The versalitas element is the state in the bibliography and the
+ * norma's name in the footnote, per the rule text beside each example.
+ */
+function rchdParts(
+  fmt: 'rchd' | 'rchd-nota',
+  s: CiteSource,
+  art: string | null,
+  year: string | null,
+): CitePart[] {
+  const named = s.tipo === 'cod'
+  const name = `${named ? titleCase(s.titulo) : rchdName(s)}${art ? `, ${art}` : ''}`
+
+  if (fmt === 'rchd-nota') {
+    return named
+      ? [{ text: name, versalitas: true }, { text: ', Chile.' }]
+      : [{ text: name, versalitas: true }, { text: year ? ` de ${year}` : '' }]
+  }
+
+  if (named) {
+    return [{ text: 'Chile', versalitas: true }, { text: `, ${name}${when(s)}.` }]
+  }
+  // "denominación legal si es que la tiene" — the short legal name, not the
+  // official título. Falling back to the título when there is none keeps the
+  // entry descriptive; see the note on sentenceCase for what it cannot recover.
+  const denom = s.denominacion?.trim()
+    ? titleCase(s.denominacion.trim())
+    : sentenceCase(s.titulo)
+  return [
+    { text: 'Chile', versalitas: true },
+    { text: `, ${name}${when(s)}${denom ? ` ${denom}` : ''}` },
+  ]
+}

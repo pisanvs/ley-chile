@@ -2,7 +2,14 @@
 
 import { useState } from 'react'
 
-import { CITE_FORMATS, renderCite, type CiteFormat, type CiteSource } from '@/lib/cite'
+import {
+  CITE_FORMATS,
+  citeParts,
+  renderCite,
+  renderCiteHtml,
+  type CiteFormat,
+  type CiteSource,
+} from '@/lib/cite'
 
 /**
  * Every citation format for one norma, each copyable.
@@ -15,11 +22,33 @@ import { CITE_FORMATS, renderCite, type CiteFormat, type CiteSource } from '@/li
 export function CiteFormatList({ source }: { source: CiteSource }) {
   const [copied, setCopied] = useState<CiteFormat | null>(null)
 
-  async function copy(fmt: CiteFormat, text: string) {
-    try {
-      await navigator.clipboard.writeText(text)
+  /**
+   * Copies both flavours: `text/html` so a paste into Word or Google Docs
+   * keeps the versalitas the Revista Chilena de Derecho requires, and
+   * `text/plain` for everything else.
+   *
+   * Falls back to plain text wherever `ClipboardItem` is missing, and to
+   * nothing at all over plain HTTP, where the clipboard API does not exist —
+   * the text stays selectable either way.
+   */
+  async function copy(fmt: CiteFormat, text: string, html: string) {
+    const done = () => {
       setCopied(fmt)
       setTimeout(() => setCopied(null), 1600)
+    }
+    try {
+      if (typeof ClipboardItem !== 'undefined' && navigator.clipboard?.write) {
+        await navigator.clipboard.write([
+          new ClipboardItem({
+            'text/html': new Blob([html], { type: 'text/html' }),
+            'text/plain': new Blob([text], { type: 'text/plain' }),
+          }),
+        ])
+        done()
+        return
+      }
+      await navigator.clipboard.writeText(text)
+      done()
     } catch {
       // Unavailable over plain HTTP; the text is selectable regardless.
     }
@@ -29,6 +58,7 @@ export function CiteFormatList({ source }: { source: CiteSource }) {
     <div className="space-y-2.5">
       {CITE_FORMATS.map((f) => {
         const text = renderCite(f.id, source)
+        const parts = citeParts(f.id, source)
         const multiline = text.includes('\n')
         return (
           <div
@@ -41,7 +71,7 @@ export function CiteFormatList({ source }: { source: CiteSource }) {
                 {f.hint && <span className="ml-2 normal-case tracking-normal">· {f.hint}</span>}
               </span>
               <button
-                onClick={() => copy(f.id, text)}
+                onClick={() => copy(f.id, text, renderCiteHtml(f.id, source))}
                 className="text-[10.5px] uppercase tracking-[0.12em] text-ink-faint hover:text-indigo transition-colors"
               >
                 {copied === f.id ? 'copiado' : 'copiar'}
@@ -54,7 +84,17 @@ export function CiteFormatList({ source }: { source: CiteSource }) {
                   : 'text-[13.5px] leading-relaxed break-words'
               }`}
             >
-              {text}
+              {/* Rendered from parts so versalitas show as real small capitals
+                  rather than the capitals the plain-text form falls back to. */}
+              {parts.map((p, i) =>
+                p.versalitas ? (
+                  <span key={i} style={{ fontVariant: 'small-caps' }}>
+                    {p.text}
+                  </span>
+                ) : (
+                  <span key={i}>{p.text}</span>
+                ),
+              )}
             </p>
           </div>
         )

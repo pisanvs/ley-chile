@@ -116,6 +116,7 @@ export function LawView({
       numero: idx.norma.numero,
       titulo: idx.norma.titulo,
       organismo: cite?.organismo,
+      denominacion: cite?.denominacion,
       fechaPublicacion: cite?.fechaPublicacion ?? null,
       fecha: active?.date,
       url: `${window.location.origin}${window.location.pathname}`,
@@ -240,7 +241,9 @@ export function LawView({
     // RedlineReader's three ArticleSegment call sites.
     <CiteProvider value={cite ?? null}>
       <IDEShell
-        navigator={<Navigator activeId={idx.norma.idNorma} />}
+        navigator={
+          <Navigator activeId={idx.norma.idNorma} sha={active?.sha} relDir={idx.relDir} />
+        }
         center={center}
         rightRail={<RightRail idx={idx} active={active} activeSlug={activeSlug} />}
         // Efectos shows two panes side by side — let it fill the reading column
