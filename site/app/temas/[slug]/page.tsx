@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { breadcrumbJsonLd, jsonLdScript, SITE } from '@/lib/jsonld'
-import { canonicalHref } from '@/lib/href'
+import { canonicalHref, cambiosHref, guiaHref } from '@/lib/href'
 import { getModifiedBy, getVersions } from '@/lib/norma'
 import {
   fechaLarga, getGuiaStats, getSeoNorma, normaLabel, qualifiesForCambios, qualifiesForGuia, tipoLabel,
@@ -40,7 +40,6 @@ async function resolveRefs(t: Topic): Promise<ResolvedRef[]> {
     const [versions, stats, modifiedBy] = await Promise.all([
       getVersions(n.idNorma), getGuiaStats(n.idNorma), getModifiedBy(n.idNorma),
     ])
-    const enc = encodeURIComponent(n.numero)
     out.push({
       ref,
       label: normaLabel(n),
@@ -48,19 +47,32 @@ async function resolveRefs(t: Topic): Promise<ResolvedRef[]> {
       fechaPublicacion: n.fechaPublicacion,
       versions: versions.length,
       derogado: n.derogado,
-      guia: qualifiesForGuia(n, stats) ? `/guia/${n.tipo}/${enc}` : null,
-      cambios: qualifiesForCambios(versions, modifiedBy.length) ? `/cambios/${n.tipo}/${enc}` : null,
+      // idNorma-keyed, like the /guia and /cambios index pages: (tipo, numero)
+      // is ambiguous for ~91.7% of the corpus, so the legacy key form 308s
+      // through a disambiguation hub instead of landing on this norma's guide.
+      guia: qualifiesForGuia(n, stats) ? guiaHref(n) : null,
+      cambios: qualifiesForCambios(versions, modifiedBy.length) ? cambiosHref(n) : null,
       reader: canonicalHref(n),
     })
   }
   return out
 }
 
+/** Cut `s` to at most `max` chars without breaking mid-word — `t.intro.slice(0,
+ *  180)` used to land inside a word (e.g. "...prevención, investigaci"),
+ *  which reads as broken in a SERP snippet or a social card. */
+function truncateAtWord(s: string, max: number): string {
+  if (s.length <= max) return s
+  const cut = s.slice(0, max)
+  const lastSpace = cut.lastIndexOf(' ')
+  return `${(lastSpace > 0 ? cut.slice(0, lastSpace) : cut).trimEnd()}…`
+}
+
 export async function generateMetadata({ params }: Props) {
   const { slug } = await params
   const t = getTopic(slug)
   if (!t) return {}
-  const description = t.intro.slice(0, 180)
+  const description = truncateAtWord(t.intro, 180)
   return {
     title: t.title,
     description,
