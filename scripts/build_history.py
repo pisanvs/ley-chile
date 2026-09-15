@@ -242,6 +242,41 @@ def _commit_subject_causa(
     return f"{label}{org_suffix}{suffix} publicada ({fecha})"
 
 
+def _commit_subject_unattributed(
+    scope: str,
+    numero: str,
+    fecha: str,
+    organismo: str = "",
+    titulo: str = "",
+    id_norma: str | int | None = None,
+) -> str:
+    """Subject for a version LeyChile records but BCN never attributed.
+
+    These are real textual changes with no published causa — rectificaciones,
+    consolidations, and edges BCN simply did not emit. They must not borrow the
+    publication subject ("Ley N°X publicada (fecha)"), which would assert both a
+    cause and a date that are not this version's.
+    """
+    label = _tipo_label(scope)
+    org_suffix = (
+        f" ({organismo})" if organismo and scope in ("dfl", "dl", "dto") else ""
+    )
+    norm_numero = (numero or "").strip()
+    has_numero = norm_numero and norm_numero.lower() not in _NO_NUMERO_SENTINELS
+    if has_numero:
+        head = (
+            f"{label} {norm_numero.title()}"
+            if scope == "cod" and not norm_numero.isdigit()
+            else f"{label} N°{norm_numero}"
+        )
+    else:
+        snippet = (titulo or "").strip().replace("\n", " ")[:60].rstrip()
+        head = f"{label} «{snippet}»" if snippet else label
+        if id_norma:
+            head = f"{head} [id {id_norma}]"
+    return f"{head}{org_suffix} — nueva versión ({fecha}), sin causa atribuida"
+
+
 def _law_dir_from_node(node: dict, id_norma: int, data_root: Path) -> Path:
     return law_dir(
         numero=node.get("numero", str(id_norma)),
@@ -484,11 +519,37 @@ def _collect_events(
             # (or empty/sentinel — subject builder handles fallbacks). Never
             # substitute idNorma for numero; that produces fake numbers like
             # "Ley N°1016627" where 1016627 is actually an internal id.
+            # A version with no modificadaPor edge is NOT the publication
+            # event; it is a version whose cause BCN never published. Treating
+            # the two the same is the bug that made the corpus serve articles
+            # for dates they did not exist on.
+            #
+            # `causa_fecha` used to be the norma's own fechaPublicacion for
+            # BOTH cases, and `key` below is (causa_fecha, causa_id_str) — so
+            # every edge-less version of a norma collapsed into the single
+            # publication-date commit, and `.files.update(...)` overwrote
+            # texto.md once per collapsed version in diffs order. The NEWEST
+            # edge-less text won, written into a commit dated at publication.
+            #
+            # For DFL 1 (Código del Trabajo) that is 65 versions collapsing
+            # into one dated 2003-01-16 holding the 2028-04-26 text — which is
+            # exactly why get_article(207436, "articulo 22 bis", "2005-01-01")
+            # returned 40-hour-law text for an article created in 2023. The
+            # arithmetic checks out across the corpus: predicted served
+            # versions = 1 + |vigencias with an edge| reproduces the measured
+            # counts exactly for 6 of the 7 most-reformed normas
+            # (129→65, 122→10, 164→122, 91→45, 94→33, 82→9).
+            #
+            # BCN's edge coverage is permanently incomplete — see
+            # scripts/reconcile_modifications.py, 45% of version boundaries
+            # have no causa — so edge presence was never a safe proxy for
+            # commit identity.
+            unattributed = i != 0 and not modificada_por
             if i == 0 or not modificada_por:
                 causa_id_str = id_norma_str
                 causa_numero = node.get("numero") or ""
                 causa_titulo = node.get("titulo", "")
-                causa_fecha = node.get("fechaPublicacion") or fecha
+                causa_fecha = fecha if unattributed else (node.get("fechaPublicacion") or fecha)
                 causa_node = node
             else:
                 causa_id_str = str(modificada_por["idNorma"])
@@ -528,17 +589,33 @@ def _collect_events(
                     files={},
                     deletes=[],
                     symlinks={},
-                    subject=_commit_subject_causa(
-                        causa_scope,
-                        causa_numero,
-                        causa_fecha,
-                        causa_org,
-                        titulo=causa_titulo,
-                        id_norma=causa_id_str,
+                    subject=(
+                        _commit_subject_unattributed(
+                            causa_scope, causa_numero, causa_fecha, causa_org,
+                            titulo=causa_titulo, id_norma=causa_id_str,
+                        )
+                        if unattributed
+                        else _commit_subject_causa(
+                            causa_scope,
+                            causa_numero,
+                            causa_fecha,
+                            causa_org,
+                            titulo=causa_titulo,
+                            id_norma=causa_id_str,
+                        )
                     ),
-                    body="\n".join(filter(None, [causa_titulo, f"BCN idNorma={causa_id_str}"])),
+                    # No `BCN idNorma=` line for an unattributed version.
+                    # export_snapshot.causa_from_message reads that line into
+                    # publication_event.causa_id, so keeping it would assert
+                    # that the norma modified itself — a wrong answer dressed
+                    # as a known one. Absent, causa_id stays NULL, which is
+                    # what we actually know.
+                    body="\n".join(filter(None, [
+                        causa_titulo,
+                        "" if unattributed else f"BCN idNorma={causa_id_str}",
+                    ])),
                     _seq=seq,
-                    _rank=0,
+                    _rank=1 if unattributed else 0,
                 )
 
             # Add this version's files to the causing commit
