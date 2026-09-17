@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { Link } from '@tanstack/react-router'
-import { annotations, type HighlightColor } from '@/lib/annotations'
+import { annotations, legacySlugFor, resolveHighlights, type HighlightColor } from '@/lib/annotations'
 import { SelectionToolbar } from '@/components/SelectionToolbar'
 import { NotePopover } from '@/components/NotePopover'
 
@@ -15,6 +15,9 @@ interface Props {
   causaId?: number
   monospace?: boolean
   children: ReactNode
+  /** Another article in this series carries a letter, so a highlight whose
+   *  text is not in this body probably belongs to that sibling. */
+  hasLetteredSiblings?: boolean
 }
 
 /**
@@ -34,6 +37,7 @@ export function ArticleSegment({
   status,
   causaId,
   monospace,
+  hasLetteredSiblings,
   children,
 }: Props) {
   const bodyRef = useRef<HTMLDivElement | null>(null)
@@ -57,12 +61,29 @@ export function ArticleSegment({
   }, [])
 
   const ann = annotations.for(idNorma, slug)
+  const legacySlug = legacySlugFor(slug)
+  const legacyHighlights = legacySlug
+    ? annotations.for(idNorma, legacySlug).highlights
+    : []
 
-  // Apply highlights as inline marks after each render.
+  // Apply highlights as inline marks after each render. Highlights saved
+  // before article letters survived rendering sit on the slug the series used
+  // to share, so resolveHighlights places them by their stored text instead of
+  // replaying them in every article of the series.
   useEffect(() => {
-    if (!bodyRef.current) return
-    applyHighlightMarks(bodyRef.current, ann.highlights)
-  }, [ann.highlights, version, children])
+    const el = bodyRef.current
+    if (!el) return
+    applyHighlightMarks(
+      el,
+      resolveHighlights({
+        body: el.textContent ?? '',
+        stored: ann.highlights,
+        legacy: legacyHighlights,
+        hasLetteredSiblings,
+        slug,
+      }),
+    )
+  }, [ann.highlights, legacyHighlights, hasLetteredSiblings, slug, version, children])
 
   const onMouseUp = () => {
     const sel = window.getSelection()
