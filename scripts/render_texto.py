@@ -194,7 +194,8 @@ _RX_NUMBERED_SUBSECTION = re.compile(
     r"^(?:§\s+)?(\d{1,2})\.\s+([A-ZÁÉÍÓÚÑ][^.]{4,70})\.?$",
 )
 _RX_BARE_SECTION_MARK = re.compile(r"^§?\s*([IVX]{1,4})\.?\s*$")
-# A single uppercase letter is part of the article identifier:
+# A single uppercase letter and "transitorio" are part of the article
+# identifier:
 # "Artículo 16 A.-" .. "Artículo 16 E.-" (LGE convivencia series),
 # "Artículo 35 A.-" .. "Artículo 35 Ñ.-" (DL 825). Without it the whole
 # series rendered as "#### Artículo 16" with the letter pushed into the
@@ -203,7 +204,7 @@ _RX_BARE_SECTION_MARK = re.compile(r"^§?\s*([IVX]{1,4})\.?\s*$")
 # of a body ("Artículo 12 A los efectos...") is not swallowed, and it is
 # matched case-sensitively so list items like "a)" stay in the body.
 _RX_ARTICULO_START = re.compile(
-    r"^(?:Artículo|Articulo|ART(?:ÍCULO|ICULO)?\.?)\s+(\d+[ºo°]?(?:\s*(?:bis|ter|quáter|quater|BIS|TER|QU[ÁA]TER))?(?:\s+(?-i:[A-ZÑ])(?=\s*[-—.:]))?|[úu]nico|transitorio|primero|segundo|tercero|cuarto|quinto|sexto|s[ée]ptimo|octavo|noveno|d[ée]cimo|final)\s*[-—.:]*\s*(.*)$",
+    r"^(?:Artículo|Articulo|ART(?:ÍCULO|ICULO)?\.?)\s+(\d+[ºo°]?(?:\s*(?:bis|ter|quáter|quater|BIS|TER|QU[ÁA]TER))?(?:\s+(?-i:[A-ZÑ])(?=\s*[-—.:]))?(?:\s+transitori[oa](?=\s*[-—.:]|\s*$))?|[úu]nico|transitorio|primero|segundo|tercero|cuarto|quinto|sexto|s[ée]ptimo|octavo|noveno|d[ée]cimo|final)\s*[-—.:]*\s*(.*)$",
     re.IGNORECASE,
 )
 _RX_ARTICULOS_TRANS = re.compile(r"^Artículos\s+transitorios?$", re.IGNORECASE)
@@ -284,6 +285,12 @@ def _maybe_promote_heading(para: str, depth: int = 0, suppress_subsection: bool 
         num = m.group(1).strip()
         # Normalize BIS/TER suffix case for consistency
         num = re.sub(r"\b(BIS|TER|QU[ÁA]TER)\b", lambda mm: mm.group(1).lower(), num)
+        num = re.sub(
+            r"\btransitori([oa])\b",
+            lambda mm: "transitori" + mm.group(1).lower(),
+            num,
+            flags=re.IGNORECASE,
+        )
         num = re.sub(r"\s+", " ", num)
         body = m.group(2).strip()
         # Old codes like 1888 Código de Minería write "ART. 1.°" — the ordinal

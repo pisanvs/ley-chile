@@ -62,3 +62,22 @@ def test_existing_headings_unchanged(para, heading, body):
 )
 def test_body_start_is_not_mistaken_for_a_letter(para, heading, body):
     assert promote(para) == [heading, body]
+
+
+@pytest.mark.parametrize(
+    "para, heading, body",
+    [
+        ("Artículo 1° transitorio.- El Presidente de la República",
+         "#### Artículo 1° transitorio", "El Presidente de la República"),
+        ("Artículo 2º TRANSITORIO.- No obstante",
+         "#### Artículo 2º transitorio", "No obstante"),
+    ],
+)
+def test_heading_keeps_transitorio_suffix(para, heading, body):
+    assert promote(para) == [heading, body]
+
+
+def test_transitoriamente_in_the_body_is_not_a_suffix():
+    assert promote("Artículo 7 transitoriamente se aplicará") == [
+        "#### Artículo 7", "transitoriamente se aplicará",
+    ]
