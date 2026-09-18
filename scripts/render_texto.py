@@ -208,7 +208,7 @@ _RX_BARE_SECTION_MARK = re.compile(r"^§?\s*([IVX]{1,4})\.?\s*$")
 # efectos...") is not swallowed, and it is matched case-sensitively so list
 # items like "a)" stay in the body.
 _RX_ARTICULO_START = re.compile(
-    r"^(?:Artículo|Articulo|ART(?:ÍCULO|ICULO)?\.?)\s+(\d+[ºo°]?(?:(?:\s*-\s*(?-i:[A-ZÑ]{1,2})|\s+(?-i:[A-ZÑ]))(?=\s*(?:[-—.:]|(?:bis|ter|qu[áa]ter)\b)))?(?:\s*(?:bis|ter|quáter|quater|BIS|TER|QU[ÁA]TER))?(?:(?:\s*-\s*(?-i:[A-ZÑ]{1,2})|\s+(?-i:[A-ZÑ]))(?=\s*[-—.:]))?(?:\s+transitori[oa](?=\s*[-—.:]|\s*$))?|[úu]nico|transitorio|primero|segundo|tercero|cuarto|quinto|sexto|s[ée]ptimo|octavo|noveno|d[ée]cimo|final)\s*[-—.:]*\s*(.*)$",
+    r"^(?:Artículo|Articulo|ART(?:ÍCULO|ICULO)?\.?)\s+(\d+[ºo°]?(?:(?:\s*-\s*(?-i:[A-ZÑ]{1,2})|\s+(?-i:[A-ZÑ]))(?=\s*(?:[-—.:]|(?:bis|ter|qu[áa]ter|quinquies|sexies|septies)\b)))?(?:\s*(?:bis|ter|quáter|quater|quinquies|sexies|septies|BIS|TER|QU[ÁA]TER|QUINQUIES|SEXIES|SEPTIES))?(?:(?:\s*-\s*(?-i:[A-ZÑ]{1,2})|\s+(?-i:[A-ZÑ]))(?=\s*[-—.:]))?(?:\s+transitori[oa](?=\s*[-—.:]|\s*$))?|[úu]nico|transitorio|primero|segundo|tercero|cuarto|quinto|sexto|s[ée]ptimo|octavo|noveno|d[ée]cimo|final)\s*[-—.:]*\s*(.*)$",
     re.IGNORECASE,
 )
 _RX_ARTICULOS_TRANS = re.compile(r"^Artículos\s+transitorios?$", re.IGNORECASE)
@@ -288,7 +288,7 @@ def _maybe_promote_heading(para: str, depth: int = 0, suppress_subsection: bool 
     if m:
         num = m.group(1).strip()
         # Normalize BIS/TER suffix case for consistency
-        num = re.sub(r"\b(BIS|TER|QU[ÁA]TER)\b", lambda mm: mm.group(1).lower(), num)
+        num = re.sub(r"\b(BIS|TER|QU[ÁA]TER|QUINQUIES|SEXIES|SEPTIES)\b", lambda mm: mm.group(1).lower(), num)
         num = re.sub(
             r"\btransitori([oa])\b",
             lambda mm: "transitori" + mm.group(1).lower(),

@@ -121,3 +121,25 @@ def test_heading_keeps_hyphenated_letter_suffix(para, heading, body):
 )
 def test_dash_before_body_is_not_a_suffix(para, heading, body):
     assert promote(para) == [heading, body]
+@pytest.mark.parametrize(
+    "para, heading, body",
+    [
+        # The Código del Trabajo runs past quáter: art. 18, 66, 152 and 157 each
+        # have a quinquies, and 157 also sexies and septies. Without them the
+        # suffix was dropped and the articles collapsed onto the bare number.
+        ("Artículo 18 quinquies.- Las empresas deberán",
+         "#### Artículo 18 quinquies", "Las empresas deberán"),
+        ("Artículo 157 sexies.- El empleador",
+         "#### Artículo 157 sexies", "El empleador"),
+        ("Artículo 157 septies.- Un reglamento",
+         "#### Artículo 157 septies", "Un reglamento"),
+        # Suffix case is normalised like BIS/TER already was
+        ("Artículo 66 QUINQUIES.- Texto",
+         "#### Artículo 66 quinquies", "Texto"),
+        # ... and they combine with a letter, as bis/ter do
+        ("Artículo 152 quinquies A.- El trabajo a distancia",
+         "#### Artículo 152 quinquies A", "El trabajo a distancia"),
+    ],
+)
+def test_heading_keeps_higher_ordinal_suffix(para, heading, body):
+    assert promote(para) == [heading, body]
