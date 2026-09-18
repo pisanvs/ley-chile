@@ -81,3 +81,43 @@ def test_transitoriamente_in_the_body_is_not_a_suffix():
     assert promote("Artículo 7 transitoriamente se aplicará") == [
         "#### Artículo 7", "transitoriamente se aplicará",
     ]
+@pytest.mark.parametrize(
+    "para, heading, body",
+    [
+        # Código del Trabajo (DFL 1/2003) writes the letter with a hyphen and
+        # never with a space: "Artículo 211" appeared eleven times in a row.
+        ("Artículo 211-A.- Las trabajadoras y los trabajadores tienen derecho",
+         "#### Artículo 211-A", "Las trabajadoras y los trabajadores tienen derecho"),
+        ("Artículo 145-K.- El contrato de embarco",
+         "#### Artículo 145-K", "El contrato de embarco"),
+        # Abbreviated label, same form
+        ("Art. 211-C.- Si la denuncia es presentada en la empresa",
+         "#### Artículo 211-C", "Si la denuncia es presentada en la empresa"),
+        # Two letters exist only in the hyphened form (183-AA..183-AE)
+        ("Artículo 183-AA.- Podrán pactarse con el trabajador",
+         "#### Artículo 183-AA", "Podrán pactarse con el trabajador"),
+        # Letter plus bis: the delimiter comes after "bis"
+        ("Artículo 211-B bis.- En caso de acoso sexual",
+         "#### Artículo 211-B bis", "En caso de acoso sexual"),
+        # Whitespace around the hyphen is normalised away
+        ("Artículo 91 - B.- El empleador deberá llevar un registro",
+         "#### Artículo 91-B", "El empleador deberá llevar un registro"),
+    ],
+)
+def test_heading_keeps_hyphenated_letter_suffix(para, heading, body):
+    assert promote(para) == [heading, body]
+
+
+@pytest.mark.parametrize(
+    "para, heading, body",
+    [
+        # A dash introducing the body is not a letter suffix: no delimiter
+        # follows the capitals.
+        ("Artículo 16 - LAS INFRACCIONES a lo dispuesto",
+         "#### Artículo 16", "LAS INFRACCIONES a lo dispuesto"),
+        ("Artículo 20 - En lo demás se aplicará",
+         "#### Artículo 20", "En lo demás se aplicará"),
+    ],
+)
+def test_dash_before_body_is_not_a_suffix(para, heading, body):
+    assert promote(para) == [heading, body]
