@@ -8,7 +8,7 @@ import {
 } from '@/lib/norma'
 import {
   fechaLarga, getGuiaStats, normaLabel, qualifiesForCambios, qualifiesForGuia,
-  resolveSeoRoute, tipoArticle, tipoLabel,
+  resolveSeoRoute, tipoArticle, tipoArticleDe, tipoLabel,
 } from '@/lib/seo'
 
 interface Props { params: Promise<{ rest: string[] }> }
@@ -69,17 +69,17 @@ function buildFaq(n: Norma, versions: Version[], modifiedBy: ModLink[], fecha: s
   const faq: FaqEntry[] = [
     {
       q: `¿Cuántas veces ha cambiado ${art} ${label}?`,
-      a: `El corpus registra ${versions.length} versiones del texto de ${art} ${label}, desde la original del ${fechaLarga(first.desde)} hasta la vigente desde el ${fechaLarga(fecha)}. Los cambios provienen de ${modifiedBy.length} ${modifiedBy.length === 1 ? 'norma modificadora' : 'normas modificadoras'}.`,
+      a: `El corpus registra ${versions.length} versiones del texto ${tipoArticleDe(n.tipo)} ${label}, desde la original del ${fechaLarga(first.desde)} hasta la vigente desde el ${fechaLarga(fecha)}. Los cambios provienen de ${modifiedBy.length} ${modifiedBy.length === 1 ? 'norma modificadora' : 'normas modificadoras'}.`,
     },
     {
-      q: `¿Cuál es la última modificación de ${art} ${label}?`,
+      q: `¿Cuál es la última modificación ${tipoArticleDe(n.tipo)} ${label}?`,
       a: latest
         ? `La modificación más reciente registrada es de ${tipoLabel(latest.tipo)} ${latest.numero}, con fecha ${fechaLarga(latest.fecha)}. El texto resultante rige desde el ${fechaLarga(fecha)}.`
         : `El texto vigente rige desde el ${fechaLarga(fecha)}.`,
     },
     {
-      q: `¿Cómo veo el texto de ${art} ${label} que regía en una fecha determinada?`,
-      a: `Cada versión de ${art} ${label} tiene su propia URL con la fecha desde la que rige, y el lector permite comparar dos versiones palabra por palabra para ver exactamente qué se agregó y qué se eliminó.`,
+      q: `¿Cómo veo el texto ${tipoArticleDe(n.tipo)} ${label} que regía en una fecha determinada?`,
+      a: `Cada versión ${tipoArticleDe(n.tipo)} ${label} tiene su propia URL con la fecha desde la que rige, y el lector permite comparar dos versiones palabra por palabra para ver exactamente qué se agregó y qué se eliminó.`,
     },
   ]
   return faq

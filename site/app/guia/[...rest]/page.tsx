@@ -11,7 +11,8 @@ import {
 } from '@/lib/norma'
 import {
   agreeGender, fechaLarga, getGuiaArticles, getGuiaStats, normaLabel,
-  qualifiesForCambios, qualifiesForGuia, resolveSeoRoute, tipoArticle, tipoLabel,
+  qualifiesForCambios, qualifiesForGuia, resolveSeoRoute, tipoArticle, tipoArticleDe, tipoLabel,
+  tipoPronoun,
 } from '@/lib/seo'
 import { ArticleBody } from '@/components/seo/Prose'
 
@@ -80,7 +81,7 @@ function buildFaq(
       a: `${label} — «${cleanTitulo(n.titulo)}». Fue publicada el ${fechaLarga(n.fechaPublicacion)}${n.organismo ? ` por ${n.organismo}` : ''}.`,
     },
     {
-      q: `¿Desde cuándo rige el texto actual de ${art} ${label}?`,
+      q: `¿Desde cuándo rige el texto actual ${tipoArticleDe(n.tipo)} ${label}?`,
       a: versions.length > 1
         ? `El texto que se muestra rige desde el ${fechaLarga(fecha)}. Es la última de ${versions.length} versiones registradas desde su publicación.`
         : `El corpus registra una sola versión, vigente desde el ${fechaLarga(fecha)}: el texto no ha cambiado desde entonces.`,
@@ -95,7 +96,7 @@ function buildFaq(
   if (modifiedBy > 0) {
     faq.push({
       q: `¿Cuántas veces se ha modificado ${art} ${label}?`,
-      a: `El corpus registra ${modifiedBy} ${modifiedBy === 1 ? 'norma que la ha modificado' : 'normas que la han modificado'}, que producen ${versions.length} ${versions.length === 1 ? 'versión' : 'versiones'} de su texto.`,
+      a: `El corpus registra ${modifiedBy} ${modifiedBy === 1 ? `norma que ${tipoPronoun(n.tipo)} ha modificado` : `normas que ${tipoPronoun(n.tipo)} han modificado`}, que producen ${versions.length} ${versions.length === 1 ? 'versión' : 'versiones'} de su texto.`,
     })
   }
   if (modifies > 0) {
