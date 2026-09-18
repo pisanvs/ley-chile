@@ -6,6 +6,7 @@ import { getModifiedBy, getVersions } from '@/lib/norma'
 import {
   fechaLarga, getGuiaStats, getSeoNorma, normaLabel, qualifiesForCambios, qualifiesForGuia, tipoLabel,
 } from '@/lib/seo'
+import { OG_LOCALE, SITE_NAME } from '@/lib/site'
 import { getTopic, type Topic, type TopicRef } from '@/lib/topics'
 
 interface Props { params: Promise<{ slug: string }> }
@@ -85,8 +86,8 @@ export async function generateMetadata({ params }: Props) {
     // they silently drop, matching app/layout.tsx's literals.
     openGraph: {
       type: 'website',
-      siteName: 'LeyChile',
-      locale: 'es_CL',
+      siteName: SITE_NAME,
+      locale: OG_LOCALE,
       title: t.title,
       description,
       url: `${SITE}/temas/${t.slug}`,
