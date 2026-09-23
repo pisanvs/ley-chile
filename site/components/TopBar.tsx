@@ -2,6 +2,7 @@
 
 import Link from 'next/link'
 import { useQuery } from '@tanstack/react-query'
+import { useEffect, useRef, useState } from 'react'
 import { useTheme } from '@/lib/theme'
 import { useCmdK } from '@/components/CmdK'
 
@@ -9,6 +10,13 @@ interface Props {
   /** Optional crumb shown to the right of the brand — usually the active law's title. */
   crumb?: string
 }
+
+const SECTIONS = [
+  { href: '/temas', label: 'Temas' },
+  { href: '/guia', label: 'Guías' },
+  { href: '/cambios', label: 'Cambios' },
+  { href: '/blog', label: 'Blog' },
+]
 
 const REPO = 'pisanvs/ley-chile'
 
@@ -28,6 +36,8 @@ function formatCount(n: number): string {
 export function TopBar({ crumb }: Props) {
   const { theme, toggle } = useTheme()
   const { open, prefetch } = useCmdK()
+  const [menuOpen, setMenuOpen] = useState(false)
+  const menuRef = useRef<HTMLDivElement>(null)
   // Stargazers — public unauthenticated GitHub API, 60 req/hr per IP. Caching
   // for an hour is more than enough for a homepage ornament.
   const starsQ = useQuery({
@@ -37,6 +47,25 @@ export function TopBar({ crumb }: Props) {
     gcTime: 24 * 60 * 60 * 1000,
     retry: false,
   })
+
+  // Below md, the section links (Temas/Guías/Cambios/Blog) live in this
+  // dropdown instead of the always-visible nav — close it on an outside
+  // click or Escape so it doesn't linger after a click-away.
+  useEffect(() => {
+    if (!menuOpen) return
+    function onPointerDown(e: PointerEvent) {
+      if (menuRef.current && !menuRef.current.contains(e.target as Node)) setMenuOpen(false)
+    }
+    function onKeyDown(e: KeyboardEvent) {
+      if (e.key === 'Escape') setMenuOpen(false)
+    }
+    document.addEventListener('pointerdown', onPointerDown)
+    document.addEventListener('keydown', onKeyDown)
+    return () => {
+      document.removeEventListener('pointerdown', onPointerDown)
+      document.removeEventListener('keydown', onKeyDown)
+    }
+  }, [menuOpen])
 
   return (
     <header className="sticky top-0 z-30 backdrop-blur-md bg-[color-mix(in_oklab,var(--color-paper)_82%,transparent)] border-b border-rule">
@@ -90,31 +119,46 @@ export function TopBar({ crumb }: Props) {
           </>
         )}
         <nav className="ml-auto hidden md:flex items-center gap-1 text-xs" aria-label="Secciones">
-          <Link
-            href="/temas"
-            className="px-2 py-1 rounded-md text-ink-soft hover:text-ink hover:bg-paper-sunk transition"
-          >
-            Temas
-          </Link>
-          <Link
-            href="/guia"
-            className="px-2 py-1 rounded-md text-ink-soft hover:text-ink hover:bg-paper-sunk transition"
-          >
-            Guías
-          </Link>
-          <Link
-            href="/cambios"
-            className="px-2 py-1 rounded-md text-ink-soft hover:text-ink hover:bg-paper-sunk transition"
-          >
-            Cambios
-          </Link>
-          <Link
-            href="/blog"
-            className="px-2 py-1 rounded-md text-ink-soft hover:text-ink hover:bg-paper-sunk transition"
-          >
-            Blog
-          </Link>
+          {SECTIONS.map((s) => (
+            <Link
+              key={s.href}
+              href={s.href}
+              className="px-2 py-1 rounded-md text-ink-soft hover:text-ink hover:bg-paper-sunk transition"
+            >
+              {s.label}
+            </Link>
+          ))}
         </nav>
+        <div ref={menuRef} className="ml-auto md:hidden relative">
+          <button
+            onClick={() => setMenuOpen((v) => !v)}
+            className="p-1.5 text-ink-soft hover:text-ink transition rounded-md"
+            aria-label="Secciones"
+            aria-haspopup="true"
+            aria-expanded={menuOpen}
+            aria-controls="mobile-sections-menu"
+          >
+            <MenuIcon />
+          </button>
+          {menuOpen && (
+            <nav
+              id="mobile-sections-menu"
+              aria-label="Secciones"
+              className="absolute right-0 top-full mt-1 min-w-[9rem] flex flex-col py-1 bg-paper border border-rule rounded-md shadow-lg text-xs"
+            >
+              {SECTIONS.map((s) => (
+                <Link
+                  key={s.href}
+                  href={s.href}
+                  onClick={() => setMenuOpen(false)}
+                  className="px-3 py-2 text-ink-soft hover:text-ink hover:bg-paper-sunk transition"
+                >
+                  {s.label}
+                </Link>
+              ))}
+            </nav>
+          )}
+        </div>
         <div className="ml-auto md:ml-3 flex items-center gap-2">
           <button
             onClick={open}
@@ -151,6 +195,13 @@ export function TopBar({ crumb }: Props) {
   )
 }
 
+function MenuIcon() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M3 6h18M3 12h18M3 18h18" />
+    </svg>
+  )
+}
 function SearchIcon() {
   return (
     <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
