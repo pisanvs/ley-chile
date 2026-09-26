@@ -4,7 +4,8 @@ import { breadcrumbJsonLd, jsonLdScript, SITE } from '@/lib/jsonld'
 import { canonicalHref, cambiosHref, guiaHref } from '@/lib/href'
 import { getModifiedBy, getVersions } from '@/lib/norma'
 import {
-  fechaLarga, getGuiaStats, getSeoNorma, normaLabel, qualifiesForCambios, qualifiesForGuia, tipoLabel,
+  fechaLarga, getGuiaStats, getSeoNorma, normaLabel, qualifiesForCambios, qualifiesForGuia,
+  tipoLabel, truncateAtWord,
 } from '@/lib/seo'
 import { getTopic, type Topic, type TopicRef } from '@/lib/topics'
 
@@ -56,16 +57,6 @@ async function resolveRefs(t: Topic): Promise<ResolvedRef[]> {
     })
   }
   return out
-}
-
-/** Cut `s` to at most `max` chars without breaking mid-word — `t.intro.slice(0,
- *  180)` used to land inside a word (e.g. "...prevención, investigaci"),
- *  which reads as broken in a SERP snippet or a social card. */
-function truncateAtWord(s: string, max: number): string {
-  if (s.length <= max) return s
-  const cut = s.slice(0, max)
-  const lastSpace = cut.lastIndexOf(' ')
-  return `${(lastSpace > 0 ? cut.slice(0, lastSpace) : cut).trimEnd()}…`
 }
 
 export async function generateMetadata({ params }: Props) {

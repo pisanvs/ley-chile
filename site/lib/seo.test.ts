@@ -1,7 +1,7 @@
 import { describe, it, expect } from 'vitest'
 import {
   agreeGender, fechaLarga, MIN_GUIA_ARTICLES, normaLabel, prettyNumero,
-  qualifiesForCambios, qualifiesForGuia, tipoArticle, tipoLabel,
+  qualifiesForCambios, qualifiesForGuia, tipoArticle, tipoLabel, truncateAtWord,
 } from './seo'
 import type { Norma, Version } from './norma'
 
@@ -132,6 +132,27 @@ describe('qualifiesForGuia', () => {
   it('rejects tipos outside the guide set regardless of size', () => {
     expect(qualifiesForGuia({ ...LEY, tipo: 'res' }, { articles: 500 })).toBe(false)
     expect(qualifiesForGuia({ ...LEY, tipo: 'dto' }, { articles: 500 })).toBe(false)
+  })
+})
+
+describe('truncateAtWord', () => {
+  it('leaves a string under the limit untouched', () => {
+    expect(truncateAtWord('texto corto', 90)).toBe('texto corto')
+  })
+
+  // The regression this guards: a bare `.slice(0, 90)` on a guía description
+  // built from a norma's official titulo landed mid-word — real case, ley
+  // 20.341's titulo cut to "...CONTRA LA AD." instead of "...ADMINISTRACIÓN".
+  it('cuts at the last word boundary and appends an ellipsis', () => {
+    const titulo = 'INTRODUCE MODIFICACIONES AL CODIGO PENAL EN LA REGULACION DE CIERTOS DELITOS CONTRA LA ADMINISTRACION PUBLICA'
+    const result = truncateAtWord(titulo, 90)
+    expect(result.endsWith('…')).toBe(true)
+    expect(result).not.toMatch(/ AD…$/)
+    expect(titulo.startsWith(result.slice(0, -1).trimEnd())).toBe(true)
+  })
+
+  it('falls back to a hard cut when there is no space to break on', () => {
+    expect(truncateAtWord('a'.repeat(100), 10)).toBe(`${'a'.repeat(10)}…`)
   })
 })
 

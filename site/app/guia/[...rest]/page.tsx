@@ -11,7 +11,7 @@ import {
 } from '@/lib/norma'
 import {
   agreeGender, fechaLarga, getGuiaArticles, getGuiaStats, normaLabel,
-  qualifiesForCambios, qualifiesForGuia, resolveSeoRoute, tipoArticle, tipoLabel,
+  qualifiesForCambios, qualifiesForGuia, resolveSeoRoute, tipoArticle, tipoLabel, truncateAtWord,
 } from '@/lib/seo'
 import { ArticleBody } from '@/components/seo/Prose'
 
@@ -40,7 +40,7 @@ function title(n: Norma): string {
 
 function description(n: Norma, versions: Version[]): string {
   const v = versions.length > 1 ? `${versions.length} versiones` : 'texto vigente'
-  return `${normaLabel(n)}: ${cleanTitulo(n.titulo).slice(0, 90)}. Publicada el ${fechaLarga(n.fechaPublicacion)} — ${v}, articulado completo e historial de modificaciones.`
+  return `${normaLabel(n)}: ${truncateAtWord(cleanTitulo(n.titulo), 90)}. Publicada el ${fechaLarga(n.fechaPublicacion)} — ${v}, articulado completo e historial de modificaciones.`
 }
 
 export async function generateMetadata({ params }: Props) {

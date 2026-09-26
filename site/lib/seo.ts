@@ -242,6 +242,16 @@ export function agreeGender(tipo: string, feminine: string): string {
   return TIPO_GENDER[tipo] === 'm' ? `${feminine.slice(0, -1)}o` : feminine
 }
 
+/** Cut `s` to at most `max` chars without breaking mid-word — a bare
+ *  `s.slice(0, max)` used to land inside a word (e.g. "...prevención,
+ *  investigaci"), which reads as broken in a SERP snippet or a social card. */
+export function truncateAtWord(s: string, max: number): string {
+  if (s.length <= max) return s
+  const cut = s.slice(0, max)
+  const lastSpace = cut.lastIndexOf(' ')
+  return `${(lastSpace > 0 ? cut.slice(0, lastSpace) : cut).trimEnd()}…`
+}
+
 /** "Ley 21.643" — Chileans write and search law numbers dotted. */
 export function prettyNumero(numero: string): string {
   if (!/^\d+$/.test(numero)) return numero
