@@ -253,8 +253,15 @@ export async function getNormaById(idNorma: number): Promise<Norma | null> {
  *  tipos, and small idNormas collide with numeros outright (/ley/20780 once
  *  served a decreto that way). A guess here is worse than a 404, so a numero
  *  matching more than one norma falls through.
+ *
+ *  The idNorma fallback additionally requires the resolved norma's own tipo to
+ *  match the one requested: unlike the numero match above, hitting a row by
+ *  idNorma alone carries no signal that it's the norma the URL meant — any
+ *  nonexistent numero would otherwise coin-flip onto whatever unrelated norma
+ *  happens to have that idNorma (e.g. /ley/21735, a real, not-yet-catalogued
+ *  ley, 301'd to an unrelated 1993 decreto that happened to be idNorma 21735).
  */
-export async function resolveAlias(numero: string): Promise<Norma | null> {
+export async function resolveAlias(tipo: string, numero: string): Promise<Norma | null> {
   if (!/^\d+$/.test(numero)) return null
   const { rows } = await pool.query(
     `SELECT id_norma, tipo, numero, titulo, organismo, derogado, fecha_publicacion, law_dir,
@@ -265,7 +272,9 @@ export async function resolveAlias(numero: string): Promise<Norma | null> {
   if (rows.length === 1) return toNorma(rows[0])
   if (rows.length > 1) return null // ambiguous across tipos — don't guess
   const id = Number(numero)
-  return Number.isSafeInteger(id) ? getNormaById(id) : null
+  if (!Number.isSafeInteger(id)) return null
+  const byId = await getNormaById(id)
+  return byId && byId.tipo === tipo ? byId : null
 }
 
 export interface ModLink {

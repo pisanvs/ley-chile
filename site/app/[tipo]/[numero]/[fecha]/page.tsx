@@ -25,7 +25,7 @@ export default async function Page({ params }: Props) {
 
   const { members, total } = await getKeyPage(tipo, numero, 1)
   if (total === 0) {
-    const alias = await resolveAlias(numero)
+    const alias = await resolveAlias(tipo, numero)
     if (alias) permanentRedirect(canonicalHref(alias, fecha))
     notFound()
   }
