@@ -15,6 +15,7 @@ export { SITE }
 export const RESERVED_TIPOS = new Set([
   'buscar', 'api', 'sitemap', 'robots', '_next',
   'guia', 'cambios', 'temas', 'blog', 'norma', 'citar',
+  'llms.txt', 'sitemap-contenido.xml',
 ])
 
 /** Some títulos are stored with the line breaks the BCN source wrapped them
