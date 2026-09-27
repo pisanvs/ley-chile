@@ -29,6 +29,7 @@ export const metadata: Metadata = {
     title: OG_TITLE,
     description: DESCRIPTION,
     url: `${SITE}/cambios`,
+    images: [{ url: '/opengraph-image.png', width: 2400, height: 1260 }],
   },
 }
 
