@@ -235,6 +235,21 @@ export function tipoArticle(tipo: string, capitalized = false): string {
   return capitalized ? article[0].toUpperCase() + article.slice(1) : article
 }
 
+/** "del"/"de la" for a tipo, e.g. `` `${tipoArticleDe(n.tipo)} ${normaLabel(n)}` ``
+ *  → "del Código Penal". Spanish contracts "de" + "el" to "del" — `` `de
+ *  ${tipoArticle(tipo)}` `` reads as a mistake for every masculine tipo
+ *  (cod/dl/dfl/dto), which is most of the corpus by page count. */
+export function tipoArticleDe(tipo: string): string {
+  return TIPO_GENDER[tipo] === 'm' ? 'del' : 'de la'
+}
+
+/** "lo"/"la" — the direct-object pronoun for a tipo, e.g. `` `que
+ *  ${tipoPronoun(tipo)} ha modificado` `` → "que lo ha modificado" for a
+ *  masculine tipo (cod/dl/dfl/dto), "que la ha modificado" for ley. */
+export function tipoPronoun(tipo: string): string {
+  return TIPO_GENDER[tipo] === 'm' ? 'lo' : 'la'
+}
+
 /** Agree an -o/-a adjective ending with a tipo's gender, e.g.
  *  `agreeGender(n.tipo, 'derogada')` → "derogado" for a `cod`/`dl`/`dfl`/`dto`.
  *  `feminine` must already end in "a"; only the masculine form is derived. */

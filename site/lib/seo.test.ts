@@ -1,7 +1,8 @@
 import { describe, it, expect } from 'vitest'
 import {
   agreeGender, fechaLarga, MIN_GUIA_ARTICLES, normaLabel, prettyNumero,
-  qualifiesForCambios, qualifiesForGuia, tipoArticle, tipoLabel,
+  qualifiesForCambios, qualifiesForGuia, tipoArticle, tipoArticleDe, tipoLabel,
+  tipoPronoun,
 } from './seo'
 import type { Norma, Version } from './norma'
 
@@ -104,6 +105,36 @@ describe('tipoArticle', () => {
 
   it('defaults unknown tipos to feminine, matching prior behavior', () => {
     expect(tipoArticle('bando')).toBe('la')
+  })
+})
+
+describe('tipoArticleDe', () => {
+  // "de" + "el" contracts to "del" in Spanish — `de ${tipoArticle(tipo)}`
+  // read as "de el Código Penal" for every masculine tipo, across every
+  // guía/cambios FAQ sentence built that way.
+  it('contracts to "del" for masculine tipos', () => {
+    expect(tipoArticleDe('cod')).toBe('del')
+    expect(tipoArticleDe('dl')).toBe('del')
+    expect(tipoArticleDe('dfl')).toBe('del')
+    expect(tipoArticleDe('dto')).toBe('del')
+  })
+
+  it('uses "de la" for feminine tipos', () => {
+    expect(tipoArticleDe('ley')).toBe('de la')
+    expect(tipoArticleDe('otras')).toBe('de la')
+  })
+})
+
+describe('tipoPronoun', () => {
+  // "normas que la han modificado" is wrong for a masculine tipo — "128
+  // normas que la han modificado" about the Código Penal should read "lo".
+  it('uses "lo" for masculine tipos', () => {
+    expect(tipoPronoun('cod')).toBe('lo')
+    expect(tipoPronoun('dfl')).toBe('lo')
+  })
+
+  it('uses "la" for feminine tipos', () => {
+    expect(tipoPronoun('ley')).toBe('la')
   })
 })
 
