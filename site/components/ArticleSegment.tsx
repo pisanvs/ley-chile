@@ -161,7 +161,7 @@ export function ArticleSegment({
           </span>
           {causaId && causaId !== idNorma && (
             <Link
-              href={`/ley/${causaId}`}
+              href={`/norma/${causaId}`}
               className="ml-auto text-[10px] text-ink-faint hover:text-indigo border border-rule rounded px-1.5 py-0.5 transition shrink-0"
             >
               Modificado por →

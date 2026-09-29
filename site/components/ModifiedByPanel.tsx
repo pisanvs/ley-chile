@@ -59,7 +59,10 @@ export function ModifiedByPanel({ targetId }: Props) {
 
   const jumpToTouchHere = (row: ModifierRow) => {
     const date = row.touchedDates[row.touchedDates.length - 1] ?? row.lastDate
-    router.push(`/ley/${targetId}/${date}`)
+    // /norma/{id} (no slug) always 301s to the correct canonical slug — unlike
+    // /ley/{targetId}, which reads targetId as if it were a `numero` under
+    // tipo=ley and almost never resolves to the law actually in view.
+    router.push(`/norma/${targetId}/${date}`)
   }
 
   return (
