@@ -203,8 +203,13 @@ def _commit_subject_causa(
     organismo: str = "",
     titulo: str = "",
     id_norma: str | int | None = None,
+    verbo: str = "publicada",
 ) -> str:
     """Build a commit subject for a publication event.
+
+    ``verbo`` is "publicada" for publication events and "modificada" for a
+    later version attributed to the norma itself (no matching modifier edge).
+    Both are recognised by build_web_indexes._PUB_DATE_RE.
 
     Handles missing/sentinel numero gracefully:
       - real number → "Ley N°20338 publicada (2009-04-01)"
@@ -228,7 +233,7 @@ def _commit_subject_causa(
             head = f"{label} {norm_numero.title()}"
         else:
             head = f"{label} N°{norm_numero}"
-        return f"{head}{org_suffix} publicada ({fecha})"
+        return f"{head}{org_suffix} {verbo} ({fecha})"
 
     # No numero — fall back to a short titulo extract + id reference.
     snippet = (titulo or "").strip().replace("\n", " ").replace("  ", " ")
@@ -238,8 +243,8 @@ def _commit_subject_causa(
     else:
         suffix = ""
     if snippet:
-        return f"{label} «{snippet}»{org_suffix}{suffix} publicada ({fecha})"
-    return f"{label}{org_suffix}{suffix} publicada ({fecha})"
+        return f"{label} «{snippet}»{org_suffix}{suffix} {verbo} ({fecha})"
+    return f"{label}{org_suffix}{suffix} {verbo} ({fecha})"
 
 
 def _law_dir_from_node(node: dict, id_norma: int, data_root: Path) -> Path:
@@ -449,8 +454,11 @@ def _collect_events(
     to_date: str | None = None,
     path_registry: dict[str, Path] | None = None,
     path_registry_cache: Path | None = None,
+    today: str | None = None,
 ) -> list[CommitContext]:
     """Walk graph nodes; build one CommitContext per *causing* norma (cause-centered model)."""
+    if today is None:
+        today = datetime.date.today().isoformat()
     if cache_dir is None:
         cache_dir = data_root / "cache"
     if path_registry is None:
@@ -492,12 +500,35 @@ def _collect_events(
             # (or empty/sentinel — subject builder handles fallbacks). Never
             # substitute idNorma for numero; that produces fake numbers like
             # "Ley N°1016627" where 1016627 is actually an internal id.
-            if i == 0 or not modificada_por:
+            verbo = "publicada"
+            if i == 0:
                 causa_id_str = id_norma_str
                 causa_numero = node.get("numero") or ""
                 causa_titulo = node.get("titulo", "")
                 causa_fecha = node.get("fechaPublicacion") or fecha
                 causa_node = node
+            elif not modificada_por:
+                # A later version with no modifier edge on its date: typically a
+                # deferred-vigencia version (the modifier was published on a
+                # different day than the vigencia starts) or an edge missing from
+                # the graph. Attribute it to the norma itself *at the version's own
+                # date*. Using fechaPublicacion here made the key collide with the
+                # creating commit: incremental builds dropped the version
+                # (causa_fecha <= from_date) and full rebuilds overwrote the
+                # creating commit's texto.md with the later text.
+                if fecha > today:
+                    # Deferred vigencia not yet in force: LeyChile lists it ahead
+                    # of time and fetch_versions caches it. Emitting it now would
+                    # date the historial tip in the future, and incremental builds
+                    # (--from <tip date>) would then skip every real publication
+                    # until that date. The first build on or after it picks it up.
+                    continue
+                causa_id_str = id_norma_str
+                causa_numero = node.get("numero") or ""
+                causa_titulo = node.get("titulo", "")
+                causa_fecha = fecha
+                causa_node = node
+                verbo = "modificada"
             else:
                 causa_id_str = str(modificada_por["idNorma"])
                 # Prefer the modifier's numero from the diff entry; fall back
@@ -543,6 +574,7 @@ def _collect_events(
                         causa_org,
                         titulo=causa_titulo,
                         id_norma=causa_id_str,
+                        verbo=verbo,
                     ),
                     body="\n".join(filter(None, [causa_titulo, f"BCN idNorma={causa_id_str}"])),
                     _seq=seq,
