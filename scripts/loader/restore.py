@@ -14,9 +14,9 @@ already landed. That makes "retry from the start of the current shard" both
 correct and cheap enough.
 
 This is a repair tool, not part of the normal pipeline. It deliberately does no
-verification, retiering or indexing: `loader.main` owns those, and running them
-from a laptop over a flaky link is how you get a half-indexed search tier.
-Run `python -m loader.reindex` afterwards to rebuild Meilisearch.
+verification: `loader.main` owns that. It does rebuild the derived search
+tables at the end (one call per table, server-side), so search matches what
+was restored.
 
     DATABASE_URL=... ARTIFACTS_DIR=... PYTHONPATH=scripts python -m loader.restore
 """
@@ -137,8 +137,9 @@ def main() -> int:
         for t in ("norma", "version", "articulo", "articulo_span"):
             cur.execute(f"SELECT count(*) FROM {t}")
             print(f"  final {t}: {cur.fetchone()[0]:,}", flush=True)
+    load.refresh_search(conn)
     conn.close()
-    print("restore complete — run `python -m loader.reindex` to rebuild search", flush=True)
+    print("restore complete", flush=True)
     return 0
 
 

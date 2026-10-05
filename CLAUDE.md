@@ -209,29 +209,29 @@ CI workflow `.github/workflows/build-pages.yml` rebuilds end-to-end on every `hi
 
 ## Railway SSR (`site/` + loader)
 
-Server-rendered port of the frontend (spec: `docs/superpowers/specs/2026-07-09-railway-ssr-port-design.md`), live at **https://leyes.pisanvs.cl**. `git` (the `historial` branch) stays the single source of truth; **Postgres and Meilisearch are derived, droppable read models** — rebuilt from snapshot artifacts, never authoritative.
+Server-rendered port of the frontend (spec: `docs/superpowers/specs/2026-07-09-railway-ssr-port-design.md`), live at **https://leyes.pisanvs.cl**. `git` (the `historial` branch) stays the single source of truth; **Postgres is a derived, droppable read model** — rebuilt from snapshot artifacts, never authoritative.
 
-**Deployment.** Runs in a sponsored Railway project: workspace **Damian Panes's Projects**, project **`belmar`** (not the pisanvs workspace). Services: `Postgres`, `getmeili/meilisearch:v1.9.0` (deployed from Railway's Meilisearch template), `web`, `loader`.
+**Deployment.** Runs in a sponsored Railway project: workspace **Damian Panes's Projects**, project **`belmar`** (not the pisanvs workspace). Services: `Postgres`, `web`, `loader`. (Meilisearch was dropped; search is Postgres only.)
 
 **Data flow.** The pipeline's export step (`scripts/export_snapshot.py`) walks `historial` + `graph.json` into gzipped NDJSON snapshot artifacts (a `manifest.json` + sharded `normas/versions/articulos/spans/mods/events`), published as a GitHub Release. The loader ingests them:
 
 ```
 export_snapshot.py    → NDJSON artifacts (manifest + shards) → GitHub Release
 loader.fetch_and_load  → downloads latest snapshot-* Release → loader.main
-loader.main            → load → verify → retier → index → revalidate
-                         (Postgres read model + Meilisearch hot tier)
-site/ (Next.js 16)     → SSR pages + tiered search, on Railway
+loader.main            → load → verify → refresh search → revalidate
+                         (Postgres read model)
+site/ (Next.js 16)     → SSR pages + Postgres search, on Railway
 ```
 
-`loader.main` runs the phases in order — **verify before index**, so search never publishes text that failed to reconstruct; **retier before index**, so a norma promoted this run is indexed the same run (indexing reads `index_tier='full'`). It indexes `touched ∪ promoted`, not just the delta.
+`loader.main` runs the phases in order — **verify first**, so nothing that failed to reconstruct is published. It then rebuilds the derived search tables (`load.refresh_search`: `refresh_norma_search()` for the ⌘K typeahead, `refresh_articulo_lexeme_freq()` + `search_config` for the deep search's plan choice) and revalidates the touched pages.
 
 **Frontend (`site/`).** A faithful 1:1 port of the `web/` SPA, not a simplified reader: the 3-pane `IDEShell`, `TabBar`, `TopBar` (GitHub-stars badge), `CmdK` palette, `RedlineReader` (redline / side-by-side / clean / source modes), `ArticleSegment` with annotations, `VersionScrubber`, `RightRail` panels, `YearRibbon` landing + `TerminalDemo` — copied from `web/` with only TanStack Router → Next navigation adapted. The static-JSON datasource is replaced by Next API routes returning the same shapes from Postgres: `/api/idx/commits/[id]`, `/api/idx/modifies/[id]`, `/api/idx/modified_by/[id]`, `/api/idx/landing`, `/api/idx/titles`, `/api/idx/by-year/[year]`, `/api/text/[id]/[fecha]`. `cacheComponents` is **disabled** in `next.config.ts` (the client IDE fetches via react-query; the `use cache` loader was removed).
 
-**Export & loader.** `export_snapshot.py` has two paths: `export_delta` (per-norma `git log`/`cat-file`, used for `--only` deltas) and `export_bulk` (full corpus — two full-history `git log` passes + chunked `cat-file` batches, replacing ~714k subprocess spawns); `tests/test_export_snapshot_bulk.py` asserts byte-identical output between the two. `.github/workflows/export-snapshot.yml` (workflow_dispatch) does a full single-branch clone of `historial` (must be full, not `--filter=blob:none` — export cat-files every version's blobs) + bulk export + publishes a `snapshot-N` GitHub Release; it's registered on `main` (workflow_dispatch requires the workflow to exist on the default branch to be dispatchable) and run with `--ref deploy/railway`. Full-corpus export measured: 333,020 normas · 343,967 versions · 872,230 articulos · 1,011,532 spans · 11,769 mods (~19 min clone + ~43 min export). `scripts/loader/fetch_and_load.py` is the Railway `loader` entrypoint: downloads the latest `snapshot-*` Release via the CDN `browser_download_url` (dodges the API rate limit) into `ARTIFACTS_DIR`, then runs `loader.main` (`Dockerfile.loader` CMD: `python -m loader.fetch_and_load`). `loader.main` now reads every `normas-*` shard (was `next(glob(...))`, which loaded only the first 50k-row shard and crashed loading versions referencing the rest — a full snapshot spans 8 normas shards) and skips the per-norma `replace_norma` sweep on a fresh empty load. `index_meili.sync_articulos` batches document adds via `add_documents_in_batches` (`ADD_BATCH`) and chunks the delete filter — sending all ~320k article docs in one `add_documents` call previously stalled the loader indefinitely. `scripts/loader/reindex.py` rebuilds the Meilisearch hot tier from an already-loaded, already-verified Postgres with no reload/re-verify (`PYTHONPATH=scripts python -m loader.reindex`). Live tier split measured: 28,453 normas `index_tier='full'` (~319,819 article docs indexed) vs 304,567 `meta` (Postgres FTS cold path).
+**Export & loader.** `export_snapshot.py` has two paths: `export_delta` (per-norma `git log`/`cat-file`, used for `--only` deltas) and `export_bulk` (full corpus — two full-history `git log` passes + chunked `cat-file` batches, replacing ~714k subprocess spawns); `tests/test_export_snapshot_bulk.py` asserts byte-identical output between the two. `.github/workflows/export-snapshot.yml` (workflow_dispatch) does a full single-branch clone of `historial` (must be full, not `--filter=blob:none` — export cat-files every version's blobs) + bulk export + publishes a `snapshot-N` GitHub Release; it's registered on `main` (workflow_dispatch requires the workflow to exist on the default branch to be dispatchable) and run with `--ref deploy/railway`. Full-corpus export measured: 333,020 normas · 343,967 versions · 872,230 articulos · 1,011,532 spans · 11,769 mods (~19 min clone + ~43 min export). `scripts/loader/fetch_and_load.py` is the Railway `loader` entrypoint: downloads the latest `snapshot-*` Release via the CDN `browser_download_url` (dodges the API rate limit) into `ARTIFACTS_DIR`, then runs `loader.main` (`Dockerfile.loader` CMD: `python -m loader.fetch_and_load`). `loader.main` now reads every `normas-*` shard (was `next(glob(...))`, which loaded only the first 50k-row shard and crashed loading versions referencing the rest — a full snapshot spans 8 normas shards) and skips the per-norma `replace_norma` sweep on a fresh empty load.
 
 **Data model.** Schema in `sql/001_schema.sql` (needs `btree_gist`). One `articulo` row per distinct body (deduped by `content_sha256` = sha256 of heading+body); `articulo_span` carries the validity window (`vigencia` daterange) and `ord`, with `EXCLUDE USING gist` forbidding overlapping versions. Segmentation is now **Python only** (`scripts/segment.py`, the single source of truth per spec §6.2); `scripts/spans.py` builds articles/spans; `scripts/schemas/snapshot.py` defines the artifact rows. The **validation gate** (`python -m loader.verify` → `GATE PASSED: every version reconstructs`) is the binary acceptance criterion: it reconstructs each version's canonical text and compares its sha256 to `version.canonical_sha256`.
 
-**Tiered search.** Meilisearch holds the hot tier (`norma.index_tier='full'` — seeded legislation + usage-promoted normas); Postgres `tsvector` FTS is the exhaustive cold path over `index_tier='meta'`. A `cold_surface` event (Meili missed, Postgres hit) drives promotion (`scripts/loader/retier.py`). Analytics live in `analytics.event` (Postgres) with **no user dimension** collected.
+**Search (Postgres only).** `site/lib/search.ts`: exact law-number match (`norma.numero`), then deep full-text over article bodies (`search_articulos_deep`, sql/004, plan chosen by term rarity from `articulo_lexeme_freq`); the ⌘K palette uses the norma-level `search_normas_typeahead` (sql/005: `spanish_unaccent` FTS + `pg_trgm`). `norma.index_tier`/`seeded` are leftovers of the dropped Meilisearch tiering. Analytics live in `analytics.event` (Postgres) with **no user dimension** collected.
 
 **MCP server.** `site/app/api/[transport]/route.ts` is a stateless Streamable HTTP MCP server (`mcp-handler`) at **`https://leyes.pisanvs.cl/api/mcp`**, read-only, no auth. Tools: `search_laws`, `get_law`, `get_article`, `list_versions`, `diff_versions`, `get_modifications`, `search_articles`; output is deliberately capped (one norma can be ~350KB). The `[transport]` segment lives under `/api` because `app/[transport]` would collide with `app/[tipo]/[numero]` — static `/api/*` siblings still win over the dynamic segment.
 
@@ -266,16 +266,14 @@ deploys**, or every `/api/v1` call 503s. Docs: `docs/api.md`. Spec:
 **Local dev / running the loader:**
 
 ```bash
-# Postgres + Meilisearch (Docker)
+# Postgres (Docker)
 docker run -d --name leychile-pg -p 5433:5432 -e POSTGRES_PASSWORD=pg postgres:16
-docker run -d --name leychile-meili -p 7700:7700 -e MEILI_MASTER_KEY=dev getmeili/meilisearch:v1.12
 
 # Apply schema
 psql "$DATABASE_URL" -f sql/001_schema.sql   # or: docker exec -i leychile-pg psql -U postgres < sql/001_schema.sql
 
 # Run the loader against a snapshot artifacts dir
 DATABASE_URL=postgresql://postgres:pg@localhost:5433/postgres \
-MEILI_URL=http://localhost:7700 MEILI_MASTER_KEY=dev \
 PYTHONPATH=scripts python -m loader.main --artifacts ./artifacts
 
 # Validation gate
@@ -287,7 +285,7 @@ cd site && pnpm build          # standalone production build (Railway target)
 cd site && pnpm vitest run && pnpm tsc --noEmit   # tests + typecheck
 ```
 
-**Loader env:** `DATABASE_URL`, `MEILI_URL`, `MEILI_MASTER_KEY`; `INDEX_BUDGET_BYTES` (hot-tier byte budget, default 4 GiB); `REVALIDATE_URL`/`REVALIDATE_TOKEN` (POST to `site/app/api/revalidate` → `revalidateTag`); `fetch_and_load.py` adds `SNAPSHOT_REPO`, `ARTIFACTS_DIR`, optional `GITHUB_TOKEN`. **Site env:** `DATABASE_URL`, `MEILI_URL`, `MEILI_SEARCH_KEY`, `SITE_URL`.
+**Loader env:** `DATABASE_URL`; `REVALIDATE_URL`/`REVALIDATE_TOKEN` (POST to `site/app/api/revalidate` → `revalidateTag`); `fetch_and_load.py` adds `SNAPSHOT_REPO`, `ARTIFACTS_DIR`, optional `GITHUB_TOKEN`. **Site env:** `DATABASE_URL`, `SITE_URL`.
 
 **Gotchas.**
 - Python tests default to `-m "not integration"`; the DB-backed suite runs only with `DATABASE_URL` set (integration tests skip *silently* without it — confirm the summary says `N passed`, not `N skipped`).

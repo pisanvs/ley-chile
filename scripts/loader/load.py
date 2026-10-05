@@ -1,8 +1,8 @@
 """Idempotent upserts from snapshot rows into Postgres.
 
 Everything is keyed so a re-applied delta is a no-op. `index_tier` and `seeded`
-are deliberately excluded from the norma upsert: they are loader-owned retier
-state, not artifact-owned, and a reload must not reset them.
+are excluded from the norma upsert: they were the Meilisearch tiering state
+(no longer used) and are left as they are.
 """
 from __future__ import annotations
 
@@ -252,3 +252,17 @@ def get_load_state(conn: psycopg.Connection) -> tuple[str, str, int] | None:
         "SELECT watermark, snapshot_version, last_delta_seq FROM load_state WHERE id"
     ).fetchone()
     return (row[0].isoformat(), row[1], row[2]) if row else None
+
+
+def refresh_search(conn) -> None:
+    """Rebuild the derived search tables from what was just loaded.
+
+    norma_search backs the ⌘K typeahead (a norma missing from it can't be found
+    by name); articulo_lexeme_freq and search_config pick the deep search's
+    query plan by term rarity. Both are full scans, so this runs once per load,
+    never per query. They existed but nothing called them, so they only ever
+    held whatever a manual run left there.
+    """
+    n = conn.execute("SELECT refresh_norma_search()").fetchone()[0]
+    lex = conn.execute("SELECT refresh_articulo_lexeme_freq()").fetchone()[0]
+    print(f"search: norma_search {n} rows, articulo_lexeme_freq {lex} lexemes")

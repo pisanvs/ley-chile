@@ -87,14 +87,11 @@ async function Buscar({
 
   const queryNorm = normalizeQuery(q)
   const results = await runSearch(q, asOf)
-  // Partition by tier for display: exact number matches lead, then hot
-  // full-text, then the cold-corpus section. runSearch already deduped, so a
-  // norma appears in exactly one group.
+  // Exact number matches lead, then full-text matches. runSearch already
+  // deduped, so a norma appears in exactly one group.
   const exact = results.filter((h) => h.tier === 'exact')
-  const hot = results.filter((h) => h.tier === 'hot')
-  const cold = results.filter((h) => h.tier === 'cold')
-  for (const h of cold) recordEvent({ kind: 'cold_surface', idNorma: h.idNorma, tier: 'cold' })
-  recordEvent({ kind: 'search', queryNorm, resultCount: results.length, tier: 'hot' })
+  const text = results.filter((h) => h.tier !== 'exact')
+  recordEvent({ kind: 'search', queryNorm, resultCount: results.length, tier: 'cold' })
 
   const total = results.length
 
@@ -118,7 +115,7 @@ async function Buscar({
               {exact.map((h) => <ResultCard key={`exact-${h.idNorma}`} hit={h} />)}
             </ul>
           )}
-          {hot.length > 0 && (
+          {text.length > 0 && (
             <>
               {exact.length > 0 && (
                 <h2 className="mt-10 flex items-center gap-3 text-xs font-semibold uppercase tracking-[0.14em] text-ink-faint">
@@ -127,19 +124,7 @@ async function Buscar({
                 </h2>
               )}
               <ul className={`${exact.length > 0 ? 'mt-4' : 'mt-6'} space-y-3`}>
-                {hot.map((h) => <ResultCard key={`hot-${h.idNorma}:${h.slug}`} hit={h} />)}
-              </ul>
-            </>
-          )}
-
-          {cold.length > 0 && (
-            <>
-              <h2 className="mt-10 flex items-center gap-3 text-xs font-semibold uppercase tracking-[0.14em] text-ink-faint">
-                <span>En el resto del corpus</span>
-                <span className="h-px flex-1 bg-rule" />
-              </h2>
-              <ul className="mt-4 space-y-3">
-                {cold.map((h) => <ResultCard key={`cold-${h.idNorma}:${h.slug}`} hit={h} />)}
+                {text.map((h) => <ResultCard key={`text-${h.idNorma}:${h.slug}`} hit={h} />)}
               </ul>
             </>
           )}

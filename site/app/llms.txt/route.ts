@@ -69,7 +69,7 @@ también devuelve idNorma en cada resultado.
 
 ## git (la fuente de verdad)
 
-Postgres y Meilisearch son modelos derivados y desechables. La fuente canónica
+Postgres es un modelo derivado y desechable. La fuente canónica
 es la rama \`historial\` de ${REPO}: un commit por publicación legislativa.
 
     git clone -b historial ${REPO}

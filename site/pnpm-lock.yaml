@@ -38,9 +38,6 @@ importers:
       mcp-handler:
         specifier: ^1.1.0
         version: 1.1.0(@modelcontextprotocol/sdk@1.26.0(zod@4.4.3))(next@16.2.10(@babel/core@7.29.7)(@opentelemetry/api@1.9.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))
-      meilisearch:
-        specifier: ^0.59.0
-        version: 0.59.0
       minisearch:
         specifier: ^7.2.0
         version: 7.2.0
@@ -2309,10 +2306,6 @@ packages:
   media-typer@1.1.0:
     resolution: {integrity: sha512-aisnrDP4GNe06UcKFnV5bfMNPBUw4jsLGaWwWfnH3v02GnBuXX2MCVn5RbrWo0j3pczUilYblq7fQ7Nw2t5XKw==}
     engines: {node: '>= 0.8'}
-
-  meilisearch@0.59.0:
-    resolution: {integrity: sha512-9KxasX98+qYhOVa4PPeaX/yY/ukM9DMuJlUJRgJVwrdCkWw+mkkiIh6EJmYyCxU8nXhj0VEzdYr3dNUJT1BQow==}
-    engines: {node: ^20.19.0 || >=22.12.0}
 
   merge-descriptors@2.0.0:
     resolution: {integrity: sha512-Snk314V5ayFLhp3fkUREub6WtjBfPdCPY1Ln8/8munuLuiYhsABgBVWsozAG+MWMbVEvcdcpbi9R7ww22l9Q3g==}
@@ -5272,8 +5265,6 @@ snapshots:
       '@types/mdast': 4.0.4
 
   media-typer@1.1.0: {}
-
-  meilisearch@0.59.0: {}
 
   merge-descriptors@2.0.0: {}
 

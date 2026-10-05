@@ -41,7 +41,7 @@ export function CmdKProvider({ children }: { children: ReactNode }) {
     return () => window.removeEventListener('keydown', onKey)
   }, [])
 
-  // Server-side search (Meilisearch hot path + Postgres cold path), debounced.
+  // Server-side search (Postgres), debounced.
   // No client index is built and no full titles list is shipped — this is what
   // the SSR/search rework exists to provide.
   useEffect(() => {
