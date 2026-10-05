@@ -7,6 +7,7 @@ import {
 } from '@/lib/norma'
 import { runSearch, searchArticles } from '@/lib/search'
 import { align, joinDiffText, wordDiff } from '@/lib/diff'
+import { findArticle } from '@/lib/segment'
 import { SITE } from '@/lib/jsonld'
 import { canonicalHref } from '@/lib/href'
 import { sortAvisos } from '@/lib/avisos'
@@ -338,11 +339,7 @@ const handler = createMcpHandler(
         const versions = await getVersions(norma.idNorma)
         const at = fecha ?? currentFecha(versions)
         const articles = await getArticlesAsOf(norma.idNorma, at)
-        const want = articulo.toLowerCase().replace(/\s+/g, ' ').trim()
-        const hit =
-          articles.find((a: Article) => a.label.toLowerCase() === want) ??
-          articles.find((a: Article) => a.slug.toLowerCase() === want.replace(/\s+/g, '-')) ??
-          articles.find((a: Article) => a.label.toLowerCase().includes(want))
+        const hit = findArticle(articles as Article[], articulo)
         if (!hit) {
           return text(
             `No se encontró el artículo "${articulo}" en ${identityLine(norma)} (al ${at}). ` +

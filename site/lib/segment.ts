@@ -11,6 +11,8 @@ export function labelToSlug(label: string): string {
   if (label === '__doc__') return 'doc'
   return label
     .replace(/^articulo\s+/, 'art-')
+    // Ñ is its own letter: "183 Ñ" follows "183 N" in the Código del Trabajo.
+    .replace(/ñ/g, 'nn')
     .replace(/\s+/g, '-')
     .replace(/[^a-z0-9-]/g, '')
     .replace(/-+/g, '-')
@@ -22,14 +24,22 @@ export function labelToSlug(label: string): string {
  *  Ordinal markers are stripped BEFORE NFKD. 'º' (U+00BA) has a compatibility
  *  decomposition to 'o', so stripping after NFKD would leave "articulo 1o"
  *  while "1°" yields "articulo 1" — one article, two slugs. See spec §6.3.
+ *
+ *  Ñ is kept: NFKD would turn it into N plus a tilde, and "183 Ñ" would
+ *  collide with "183 N".
  */
 export function normalizeLabel(s: string): string {
   return s
     .replace(/[°º]/g, '')
     .toLowerCase()
+    .normalize('NFC')
+    .replace(/ñ/g, '\uE000')
     .normalize('NFKD')
     .replace(/[̀-ͯ]/g, '')
-    .replace(/\bart\./g, 'articulo')
+    .replace(/\uE000/g, 'ñ')
+    // Only a leading "Art." is the label word; "(art. 2)" later in the
+    // label is a nested-law qualifier and stays short in the slug.
+    .replace(/^art\./, 'articulo')
     .replace(/\s+/g, ' ')
     .trim()
 }
@@ -106,4 +116,21 @@ function segmentInlineMarkers(text: string, matches: RegExpMatchArray[]): Segmen
  *  gate (spec §8.1) compares sha256 of this, not of the raw texto.md. */
 export function canonicalText(segs: Segment[]): string {
   return segs.map(s => (s.rawHeading ? `${s.rawHeading}\n${s.body}` : s.body)).join('\n\n')
+}
+
+/** Find an article by what a person or an LLM would type: "Artículo 16 B",
+ *  "art. 16 B", "articulo 16 b" or the slug "art-16-b". Exact label first,
+ *  then slug, then a label containing the query. */
+export function findArticle<T extends { label: string; slug: string }>(
+  articles: T[],
+  query: string,
+): T | undefined {
+  const q = query.trim()
+  const label = normalizeLabel(/^art(?:[íi]culo|\.)?\s/i.test(q) ? q : `articulo ${q}`)
+  const slug = /^art-/i.test(q) ? q.toLowerCase() : labelToSlug(label)
+  return (
+    articles.find((a) => a.label === label) ??
+    articles.find((a) => a.slug === slug) ??
+    articles.find((a) => a.label.includes(label))
+  )
 }
