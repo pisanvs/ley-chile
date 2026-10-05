@@ -19,7 +19,6 @@ export function TabBar() {
   const router = useRouter()
   const params = useParams<{ tipo?: string; numero?: string; fecha?: string }>()
   const scroller = useRef<HTMLDivElement | null>(null)
-  const bar = useRef<HTMLDivElement | null>(null)
 
   // Figure out the active tab from the current route.
   const active: Tab | null =
@@ -31,23 +30,6 @@ export function TabBar() {
     const el = scroller.current.querySelector<HTMLElement>(`[data-tab-id="${active.idNorma}@${active.date}"]`)
     el?.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'nearest' })
   }, [active?.idNorma, active?.date])
-
-  // The reader's side rails stick below the header and this bar; publish
-  // this bar's height so they start right under it (0 when it's hidden).
-  useEffect(() => {
-    const root = document.documentElement
-    const el = bar.current
-    if (!el) {
-      root.style.setProperty('--tabbar-h', '0px')
-      return
-    }
-    const ro = new ResizeObserver(() => root.style.setProperty('--tabbar-h', `${el.offsetHeight}px`))
-    ro.observe(el)
-    return () => {
-      ro.disconnect()
-      root.style.setProperty('--tabbar-h', '0px')
-    }
-  }, [open.length > 0])
 
   if (open.length === 0) return null
 
@@ -69,8 +51,10 @@ export function TabBar() {
 
   return (
     <div
-      ref={bar}
-      className="sticky top-14 z-20 bg-paper-sunk/80 backdrop-blur-md border-b border-rule"
+      // Fixed height so the reader's rails can stick right under it
+      // (--tabbar-h in globals.css, switched on by :has([data-tabbar])).
+      data-tabbar
+      className="sticky top-14 z-20 h-(--tabbar-h) bg-paper-sunk/80 backdrop-blur-md border-b border-rule"
       role="tablist"
     >
       <div
