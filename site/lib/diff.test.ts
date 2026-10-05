@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { align, type Segment } from './diff'
+import { align, joinDiffText, wordDiff, type Segment } from './diff'
 
 const seg = (label: string, body: string): Segment => ({
   label, slug: label.replace(/\s+/g, '-'), rawHeading: label, body,
@@ -43,5 +43,18 @@ describe('align', () => {
     const curr = [seg('articulo 1', 'x'), seg('articulo 1', 'y'), seg('articulo 1', 'z')]
     expect(align(prev, curr).map((a) => a.status)).toEqual(['unchanged', 'unchanged', 'added'])
     expect(align(curr, prev).map((a) => a.status)).toEqual(['unchanged', 'unchanged', 'removed'])
+  })
+})
+
+describe('wordDiff + joinDiffText', () => {
+  it('keeps paragraph breaks (LGE art. 3 rendered as one run-on paragraph)', () => {
+    const prev = 'en los siguientes principios:\n\na) Universalidad.\n\nb) Gratuidad.'
+    const curr = 'en los siguientes principios:\n\na) Universalidad.\n\nb) Gratuidad total.'
+    const ops = wordDiff(prev, curr)
+    const rebuilt = ops.filter(o => o.op !== 'delete').map(o => joinDiffText(o.text)).join('')
+    expect(rebuilt).toBe(curr)
+    const old = ops.filter(o => o.op !== 'insert').map(o => joinDiffText(o.text)).join('')
+    expect(old).toBe(prev)
+    expect(ops.some(o => o.op === 'insert' && joinDiffText(o.text).includes('total'))).toBe(true)
   })
 })

@@ -83,14 +83,21 @@ export function wordDiff(prev: string, curr: string): DiffOp[] {
   })) as DiffOp[]
 }
 
+/** Stands in for a real newline inside a token while tokens are joined by
+ *  "\n" for diff-match-patch's line trick. U+2029 never occurs in the corpus. */
+const NL = '\u2029'
+
 function wordsAsLines(text: string): { text: string } {
   // Split by whitespace boundaries but keep separators so reassembly is faithful.
-  // diff-match-patch's char-based line trick needs newline separators.
+  // diff-match-patch's char-based line trick needs newline separators, so the
+  // newlines that are part of the text (paragraph breaks) are swapped out
+  // first; otherwise joinDiffText can't tell them from separators.
   const tokens = text.match(/(\s+|[^\s]+)/g) ?? []
-  return { text: tokens.join('\n') }
+  return { text: tokens.map(t => t.replace(/\n/g, NL)).join('\n') }
 }
 
-/** Reassemble word-tokens back into rendered text by joining without adding spaces. */
+/** Reassemble word-tokens back into rendered text: drop the separators,
+ *  restore the text's own newlines (paragraph breaks). */
 export function joinDiffText(s: string): string {
-  return s.replace(/\n/g, '')
+  return s.replace(/\n/g, '').replace(/\u2029/g, '\n')
 }
