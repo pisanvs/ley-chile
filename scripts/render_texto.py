@@ -19,7 +19,6 @@ The item's 't' field is the chunk's own HTML; 'h' is its children.
 """
 from __future__ import annotations
 
-import collections
 import html as html_module
 import re
 from typing import Iterable
@@ -287,6 +286,7 @@ def _article_id(node: dict) -> tuple[list[str], str] | None:
         rest = rest[:q.start()] + " " + rest[q.end():]
     # "211-A" is 211 + A, but "225-2" (Código Civil) is one number.
     rest = re.sub(r"\s*-\s*", "-", rest.strip(" .:—"))
+    rest = re.sub(r"\bN[º°o]\.?\s*(\d+)", r"Nº\1", rest, flags=re.IGNORECASE)
     raw = [tok for tok in re.split(r"\s+|-(?=[^\d])", rest) if tok.strip("-")]
     if not raw or not _RX_ID_FIRST.match(raw[0]):
         return None
@@ -296,13 +296,15 @@ def _article_id(node: dict) -> tuple[list[str], str] | None:
     tokens = [first]
     letters = 0
     for tok in raw[1:]:
-        if tok.lower() == tokens[-1].lower():
+        if tok.isalpha() and tok.lower() in (t.lower() for t in tokens):
             continue  # "Artículo 1 TRANSITORIO Transitorio"
         if _RX_ID_WORD.match(tok) or (tok.isdigit() and _RX_ID_WORD.match(tokens[-1])):
             tokens.append(tok.lower())  # "Artículo 129 BIS 17" (Código de Aguas)
         elif _RX_LETTER_SUFFIX.match(tok):
             tokens.append(tok)
             letters += 1
+        elif re.fullmatch(r"nº\d+", tok, re.IGNORECASE):
+            tokens.append(tok.lower())  # "Artículo TRANSITORIO Nº1"
         elif re.fullmatch(r"[a-zñ]\)", tok, re.IGNORECASE):
             tokens.append(tok.lower())  # Código Penal "Artículo 483 a)"
         else:
@@ -320,10 +322,8 @@ _ACCENT_CLASSES = {"a": "[aá]", "e": "[eé]", "i": "[ií]", "o": "[oó]", "u": 
 
 def _loose(tok: str) -> str:
     """Regex for a token that ignores accents ("unico" matches "único")."""
-    return "".join(
-        r"\s*-\s*" if c == "-" else r"\s*" if c == " " else _ACCENT_CLASSES.get(c, re.escape(c))
-        for c in tok.lower()
-    )
+    special = {"-": r"\s*-\s*", " ": r"\s*", "º": r"[º°o]\.?\s*"}
+    return "".join(special.get(c) or _ACCENT_CLASSES.get(c, re.escape(c)) for c in tok.lower())
 
 
 def _strip_article_label(para: str, tokens: list[str]) -> tuple[str, list[str]] | None:
@@ -350,7 +350,9 @@ def _strip_article_label(para: str, tokens: list[str]) -> tuple[str, list[str]] 
         if m:
             heading = [
                 tok if _RX_LETTER_SUFFIX.match(tok) or re.fullmatch(r"[IVXL]+", tok)
-                else m.group(f"t{n}").lower()
+                # text spelling, but spaced only where the node is ("vigésimo
+                # primero", not "nº 2")
+                else re.sub(r"\s+", " " if " " in tok else "", m.group(f"t{n}").lower())
                 for n, tok in enumerate(tokens[:k])
             ]
             heading += [
@@ -551,6 +553,7 @@ def _embedded_articles(paras: list[str]) -> set[int]:
 
 def _emit_article(
     paras: list[str], tokens: list[str], qualifier: str, out: list[str], depth: int,
+    parte: int | None = None,
 ) -> None:
     heading = tokens
     if paras:
@@ -565,6 +568,10 @@ def _emit_article(
             if m:
                 paras = ([m.group(2).strip()] if m.group(2).strip() else []) + paras[1:]
     out.append(" ".join(["#### Artículo", *heading] + ([qualifier] if qualifier else [])))
+    if parte is not None:
+        # LeyChile's idParte: stable across versions while the article is
+        # amended, new when it is replaced. Readers key annotations by it.
+        out.append(f"<!-- parte:{parte} -->")
     embedded = _embedded_articles(paras)
     if not embedded:
         # Anything shaped like an article heading inside the body is quoted
@@ -608,40 +615,34 @@ def _doble_articulado(estructura: list | None) -> dict:
 
 
 def _article_ids(nodes: dict, estructura: list | None = None) -> dict:
-    """Article identifier per html item id, with nested-law qualifiers only
-    where needed: the largest group (the code itself, e.g. the Código Civil
-    inside art. 2 of its DFL) stays bare, and other groups keep "(art. N)"
-    only when the bare heading would collide. Doble Articulado inner
-    articles that collide carry their outer article."""
+    """Article identifier per html item id.
+
+    Follows LeyChile's exchange XML (and Akoma Ntoso): articles of a text
+    embedded in an article carry that article as a qualifier, the outer
+    articles stay bare. The Código Civil inside art. 2 of DFL 1/2000 is
+    "Artículo 1757 (art. 2)", the DFL's own article is "Artículo 1". The
+    qualifier comes from the name ("1 (DEL ART. 2)") or, for a Doble
+    Articulado node, from the enclosing article.
+    """
     ids = {}
     for i, node in nodes.items():
         if node.get("t") == _TIPO_ARTICULO:
             art_id = _article_id(node)
             if art_id:
                 ids[i] = art_id
-    if not ids:
-        return ids
-    main_q = collections.Counter(q for _, q in ids.values()).most_common(1)[0][0]
-    bare = collections.Counter(tuple(t) for t, _ in ids.values())
-    out = {
-        i: (t, "" if q == main_q or bare[tuple(t)] == 1 else q)
-        for i, (t, q) in ids.items()
-    }
+    for i, outer in _doble_articulado(estructura).items():
+        if i in ids and not ids[i][1]:
+            ids[i] = (ids[i][0], f"(art. {' '.join(outer)})")
     # The tree adds "Transitorio" to some names only ("Artículo DECIMOQUINTO
     # Transitorio" after a plain "DECIMOCUARTO" in Ley 20.529). Keep it, for
     # the whole group, only where it tells transitorios from permanent
     # articles with the same number (LGE "Artículo 1" / "1 Transitorio").
-    trans = [i for i, (t, _) in out.items() if len(t) > 1 and t[-1] == "transitorio"]
-    permanent = {tuple(t) for t, _ in out.values() if t[-1] != "transitorio"}
-    if trans and not any(tuple(out[i][0][:-1]) in permanent for i in trans):
+    trans = [i for i, (t, _) in ids.items() if len(t) > 1 and t[-1] == "transitorio"]
+    permanent = {(tuple(t), q) for t, q in ids.values() if t[-1] != "transitorio"}
+    if trans and not any((tuple(ids[i][0][:-1]), ids[i][1]) in permanent for i in trans):
         for i in trans:
-            out[i] = (out[i][0][:-1], out[i][1])
-    for i, outer in _doble_articulado(estructura).items():
-        t, q = ids.get(i, (None, None))
-        if t is None or out[i][1] or bare[tuple(t)] == 1 or (main_q and q == main_q):
-            continue  # unique, already qualified, or the embedded code itself
-        out[i] = (t, f"(art. {' '.join(outer)})")
-    return out
+            ids[i] = (ids[i][0][:-1], ids[i][1])
+    return ids
 
 
 def _walk_tree(
@@ -660,7 +661,7 @@ def _walk_tree(
             paras = _render_chunk(t)
             art_id = (art_ids or {}).get(item.get("i"))
             if art_id and paras:
-                _emit_article(paras, *art_id, out, depth)
+                _emit_article(paras, *art_id, out, depth, parte=item.get("i"))
             else:
                 # Without a usable article node (no estructura, or a bare
                 # "Artículo" name) the regex is all we have. Annexes (an

@@ -7,7 +7,15 @@ Ley 16.744 (28650).
 """
 import pytest
 
-from render_texto import _article_id, render
+import re
+
+from render_texto import _article_id
+from render_texto import render as _render
+
+
+def render(html, estructura=None):
+    """Rendered markdown without the idParte markers (tested separately)."""
+    return re.sub(r"\n\n<!-- parte:\d+ -->", "", _render(html, estructura))
 
 
 def _art(i, text):
@@ -48,6 +56,7 @@ def _render_one(name, text, i=1):
         ("Artículo nono", ["nono"], ""),
         ("Artículo III", ["III"], ""),
         ("Artículo siete", ["siete"], ""),
+        ("Artículo TRANSITORIO Nº1 Transitorio", ["transitorio", "nº1"], ""),
         # epigraph after the number is not part of the identifier, and its
         # first capitals ("DE") are not letter suffixes
         ("Artículo 5 CUMPLIMIENTO DE LOS LIMITES DE CREDITO.", ["5"], ""),
@@ -141,21 +150,37 @@ def test_without_estructura_regex_path_is_unchanged():
     assert render(html) == "#### Artículo 16\n\nLas infracciones"
 
 
-def test_nested_law_qualifier_only_where_needed():
-    # DFL 1/2000: the Código Civil (art. 2) is the largest group and stays
-    # bare; a nested law's article keeps its qualifier only on collision.
-    est = [
-        {"n": "Artículo 1 (DEL ART. 2)", "i": 1, "t": 6},
-        {"n": "Artículo 2 (DEL ART. 2)", "i": 2, "t": 6},
-        {"n": "Artículo 3 (DEL ART. 2)", "i": 3, "t": 6},
-        {"n": "Artículo 1 (DEL ART. 8)", "i": 4, "t": 6},
-        {"n": "Artículo 79 (DEL ART. 8)", "i": 5, "t": 6},
+def test_nested_law_articles_are_always_qualified():
+    # LeyChile's XML names the Código Civil articles "1 (DEL ART. 2)" inside
+    # a Doble Articulado of art. 2 of DFL 1/2000; the DFL's own stay bare.
+    est = [{"n": "ARTÍCULO 2 (CÓDIGO CIVIL)", "i": 1, "t": 6, "h": [
+        {"n": "Doble Articulado del Artículo 2", "i": 2, "t": 13, "h": [
+            {"n": "Artículo 1 (DEL ART. 2)", "i": 3, "t": 6},
+            {"n": "Artículo 1757 (DEL ART. 2)", "i": 4, "t": 6},
+        ]},
+    ]}, {"n": "Artículo 79 (DEL ART. 8)", "i": 5, "t": 6}]
+    html = [
+        {"i": 1, "t": '<div><div class="p">Artículo 2º.- Fíjase el texto</div></div>', "h": [
+            {"i": 2, "t": "<div></div>", "h": [
+                _art(3, "Art. 1. La ley es"), _art(4, "Art. 1757. Es nulo"),
+            ]},
+        ]},
+        _art(5, "Artículo 79.- Texto"),
     ]
-    html = [_art(i, f"Artículo {n}.- Texto") for i, n in [(1, 1), (2, 2), (3, 3), (4, 1), (5, 79)]]
     assert _headings(render(html, est)) == [
-        "#### Artículo 1", "#### Artículo 2", "#### Artículo 3",
-        "#### Artículo 1 (art. 8)", "#### Artículo 79",
+        "#### Artículo 2º", "#### Artículo 1 (art. 2)", "#### Artículo 1757 (art. 2)",
+        "#### Artículo 79 (art. 8)",
     ]
+
+
+def test_article_heading_carries_idparte_marker():
+    md = _render([_art(9185307, "Artículo 16 B.- Texto")],
+                 [{"n": "Artículo 16 B", "i": 9185307, "t": 6}])
+    assert md.split("\n\n") == ["#### Artículo 16 B", "<!-- parte:9185307 -->", "Texto"]
+
+
+def test_regex_fallback_has_no_marker():
+    assert "parte:" not in _render([_art(1, "Artículo 16.- Texto")])
 
 
 def test_article_node_without_text_emits_nothing():
@@ -172,7 +197,7 @@ def test_article_containing_articles_keeps_its_heading():
     ]}]
     html = [{"i": 1, "t": '<div><div class="p">Artículo 2º.- Fíjase el siguiente texto</div></div>',
              "h": [_art(2, "Art. 1º. La ley es una declaración")]}]
-    assert _headings(render(html, est)) == ["#### Artículo 2º", "#### Artículo 1º"]
+    assert _headings(render(html, est)) == ["#### Artículo 2º", "#### Artículo 1º (art. 2)"]
 
 
 def test_tagged_doble_articulado_is_qualified():
@@ -251,3 +276,9 @@ def test_transitorio_kept_when_text_says_it():
     est = [{"n": "Artículo 7 Transitorio", "i": 1, "t": 6}]
     html = [_art(1, "Artículo 7° transitorio.- Texto")]
     assert render(html, est).split("\n\n") == ["#### Artículo 7° transitorio", "Texto"]
+
+
+def test_numbered_transitorio():
+    # 164769: three "Artículo TRANSITORIO NºN" collapsed into one heading
+    md = _render_one("Artículo TRANSITORIO Nº2 Transitorio", "Artículo transitorio Nº 2: Tendrán derecho")
+    assert md.split("\n\n") == ["#### Artículo transitorio nº2", "Tendrán derecho"]
