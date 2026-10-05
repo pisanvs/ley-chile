@@ -1,3 +1,4 @@
+import { legacySlugFor } from '../lib/annotations'
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import ReactMarkdown from 'react-markdown'
@@ -88,6 +89,18 @@ function CleanView({
   monospace: boolean
 }) {
   const segments = useMemo(() => segment(text), [text])
+  // Slugs whose series has a lettered article ("art-16" when "art-16-a"
+  // exists). Those articles shared one slug until the letters survived
+  // rendering, so their segments need to know a sibling exists.
+  const letteredBases = useMemo(
+    () =>
+      new Set(
+        segments
+          .map(s => legacySlugFor(s.slug))
+          .filter((b): b is string => b !== null),
+      ),
+    [segments],
+  )
   return (
     <article
       className={`prose-reader leading-relaxed text-[15.5px] space-y-2 ${
@@ -102,6 +115,7 @@ function CleanView({
           heading={s.rawHeading}
           status="unchanged"
           monospace={monospace}
+          hasLetteredSiblings={letteredBases.has(s.slug)}
         >
           <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
             {s.body}

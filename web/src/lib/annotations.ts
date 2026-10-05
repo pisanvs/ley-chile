@@ -135,6 +135,98 @@ export const annotations = {
   },
 }
 
+
+// ---------------------------------------------------------------------------
+// Articles that used to share a slug
+// ---------------------------------------------------------------------------
+
+/** Minimum length of a stored text before it can locate a highlight. A short
+ *  fragment occurs all over a law; eight characters make the "exactly once"
+ *  rule below mean something. */
+const MIN_LOCATABLE_TEXT = 8
+
+/** For a lettered article slug, the slug its series used to share.
+ *
+ *  "art-16-b" -> "art-16", "art-16" -> null. Word suffixes are left alone
+ *  ("art-10-bis" -> null): those always rendered with their own identifier,
+ *  so their annotations were never ambiguous.
+ */
+export function legacySlugFor(slug: string): string | null {
+  const m = /^(.+)-([a-zñ])$/.exec(slug)
+  return m ? m[1] : null
+}
+
+/** Offset of `text` in `body` when it appears exactly once, else -1. */
+function locateOnce(body: string, text: string): number {
+  if (!text || text.length < MIN_LOCATABLE_TEXT) return -1
+  const first = body.indexOf(text)
+  if (first < 0) return -1
+  if (body.indexOf(text, first + 1) >= 0) return -1
+  return first
+}
+
+/** Which highlights belong to this rendered article body, and where.
+ *
+ * Until article letters survived rendering, "Artículo 16 A" .. "16 E" all
+ * carried the slug "art-16": a highlight made in 16 B was stored under
+ * "art-16" and replayed in every article of the series, at whatever those
+ * offsets happened to hit. Now that each article has its own slug, the stored
+ * `text` can place it — if it occurs exactly once in this body, it is here.
+ *
+ * Three rules, in order of preference:
+ *   1. The text still sits at its offsets: keep it untouched.
+ *   2. The text occurs exactly once in this body: keep it, offsets refreshed.
+ *      This also repairs ordinary drift after a version change.
+ *   3. The text is not here. If the article has lettered siblings the
+ *      highlight was almost certainly made in one of them, so leave it for
+ *      that segment instead of painting it over unrelated words. Without
+ *      siblings there is nowhere else for it to go, so it stays as it was —
+ *      the behaviour before this function existed.
+ *
+ * Nothing is written back: this resolves at render time, so annotations are
+ * never rewritten and a reader on an older build still sees them.
+ *
+ * Notes are not resolvable this way — they store an offset and a body, with
+ * no copy of the text they point at.
+ */
+export function resolveHighlights(params: {
+  /** Rendered text of the article body — the basis the offsets are counted in. */
+  body: string
+  /** Highlights stored under this article's own slug. */
+  stored: Highlight[]
+  /** Highlights stored under the slug the series used to share, if any. */
+  legacy?: Highlight[]
+  /** Whether another article in this series carries a letter. */
+  hasLetteredSiblings?: boolean
+  /** This article's slug, applied to the legacy highlights it claims. */
+  slug?: string
+}): Highlight[] {
+  const { body, stored, legacy = [], hasLetteredSiblings = false, slug } = params
+  const out: Highlight[] = []
+
+  for (const h of stored) {
+    if (body.slice(h.start, h.end) === h.text) {
+      out.push(h)
+      continue
+    }
+    const at = locateOnce(body, h.text)
+    if (at >= 0) {
+      out.push({ ...h, start: at, end: at + h.text.length })
+      continue
+    }
+    if (!hasLetteredSiblings) out.push(h)
+  }
+
+  for (const l of legacy) {
+    const at = locateOnce(body, l.text)
+    if (at >= 0) {
+      out.push({ ...l, slug: slug ?? l.slug, start: at, end: at + l.text.length })
+    }
+  }
+
+  return out
+}
+
 /** Reader preferences — also localStorage but a separate namespace so they're
  *  not exported with annotations. */
 
