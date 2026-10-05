@@ -34,6 +34,9 @@ class ArticleRow:
     raw_heading: str
     body: str
     content_sha256: str
+    # LeyChile idParte; None for text rendered without the tree and for
+    # snapshots exported before it existed.
+    parte: int | None = None
 
 
 @dataclass(frozen=True)
@@ -68,7 +71,7 @@ def build_articles_and_spans(
             sha = sha256_text(content_text(seg))
             articles.setdefault(
                 (seg.slug, sha),
-                ArticleRow(id_norma, seg.slug, seg.label, seg.raw_heading, seg.body, sha),
+                ArticleRow(id_norma, seg.slug, seg.label, seg.raw_heading, seg.body, sha, seg.parte),
             )
             occurrences.setdefault((seg.slug, sha, position), []).append(i)
 

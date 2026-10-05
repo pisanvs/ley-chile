@@ -7,6 +7,7 @@ import remarkGfm from 'remark-gfm'
 import { fetchRawText } from '@/lib/rawtext'
 import { escapeLegalMarkdown } from '@/lib/mdEscape'
 import { segment, align, wordDiff, joinDiffText, type Aligned } from '@/lib/diff'
+import { stripParteMarkers } from '@/lib/segment'
 import { ArticleSegment } from '@/components/ArticleSegment'
 import { EfectosAligned } from '@/components/EfectosPanel'
 
@@ -109,6 +110,7 @@ function CleanView({
           key={s.slug}
           idNorma={idNorma}
           slug={s.slug}
+          parte={s.parte}
           heading={s.rawHeading}
           status="unchanged"
           monospace={monospace}
@@ -129,7 +131,7 @@ function SourceView({ text, monospace }: { text: string; monospace: boolean }) {
         monospace ? 'text-[13px]' : 'text-[12.5px]'
       }`}
     >
-      {text}
+      {stripParteMarkers(text)}
     </pre>
   )
 }
@@ -387,6 +389,7 @@ function RedlineSegment({
       <ArticleSegment
         idNorma={idNorma}
         slug={aligned.curr.slug}
+        parte={aligned.curr.parte}
         heading={aligned.curr.rawHeading}
         status="added"
         monospace={monospace}
@@ -404,6 +407,7 @@ function RedlineSegment({
       <ArticleSegment
         idNorma={idNorma}
         slug={aligned.prev.slug}
+        parte={aligned.prev.parte}
         heading={aligned.prev.rawHeading}
         status="removed"
         monospace={monospace}
@@ -421,6 +425,7 @@ function RedlineSegment({
       <ArticleSegment
         idNorma={idNorma}
         slug={aligned.curr.slug}
+        parte={aligned.curr.parte}
         heading={aligned.curr.rawHeading}
         status="unchanged"
         monospace={monospace}
@@ -437,6 +442,7 @@ function RedlineSegment({
       <ArticleSegment
         idNorma={idNorma}
         slug={aligned.curr.slug}
+        parte={aligned.curr.parte}
         heading={aligned.curr.rawHeading}
         status="modified"
         causaId={prevCausaId}

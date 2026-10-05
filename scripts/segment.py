@@ -32,6 +32,10 @@ class Segment:
     slug: str
     raw_heading: str
     body: str
+    # LeyChile's idParte, from the `<!-- parte:N -->` line render_texto.py
+    # writes under each article heading. Stable while the article is amended,
+    # new when it is replaced. None for text rendered without the tree.
+    parte: int | None = None
 
 
 _COMBINING = re.compile(r"[̀-ͯ]")
@@ -98,16 +102,22 @@ def _preamble_of(text: str, first_start: int) -> list[Segment]:
     return [Segment("__preamble__", label_to_slug("__preamble__"), "", pre)]
 
 
+_PARTE_RE = re.compile(r"^<!-- parte:(\d+) -->\s*")
+
+
 def _segment_md(text: str, matches: list[re.Match]) -> list[Segment]:
     out = _preamble_of(text, matches[0].start())
     for i, m in enumerate(matches):
         seg_end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
         identifier = (m.group(2) or "").strip()
         label = normalize_label(f"articulo {identifier}")
+        body = text[m.end():seg_end].strip()
+        parte = _PARTE_RE.match(body)
         out.append(Segment(
             label, label_to_slug(label),
             f"Artículo {identifier}",
-            text[m.end():seg_end].strip(),
+            body[parte.end():] if parte else body,
+            int(parte.group(1)) if parte else None,
         ))
     return out
 

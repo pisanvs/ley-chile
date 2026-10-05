@@ -126,3 +126,19 @@ def test_reconstruct_raises_key_error_across_norma():
     # spans reference norma 2, but we hand reconstruct() norma 1's articles.
     with pytest.raises(KeyError):
         reconstruct(arts1, spans2, "2000-01-01")
+
+
+def test_article_row_carries_parte():
+    arts, _ = build_articles_and_spans(1014974, [
+        _v("2016-03-01", None, "#### Artículo 16 B\n\n<!-- parte:9185307 -->\n\nTexto"),
+    ])
+    assert [(a.slug, a.parte, a.body) for a in arts] == [("art-16-b", 9185307, "Texto")]
+
+
+def test_snapshot_rows_without_parte_still_load():
+    from schemas.snapshot import from_ndjson
+    row = from_ndjson(
+        '{"id_norma": 1, "slug": "art-1", "label": "articulo 1", "raw_heading": "Artículo 1",'
+        ' "body": "x", "content_sha256": "abc"}', ArticleRow,
+    )
+    assert row.parte is None

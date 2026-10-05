@@ -12,11 +12,13 @@ interface Props {
   noteId?: string
   idNorma?: number
   slug?: string
+  /** LeyChile idParte of the article the draft belongs to. */
+  parte?: number
   draftAnchor?: number
   onClose: () => void
 }
 
-export function NotePopover({ noteId, idNorma, slug, draftAnchor, onClose }: Props) {
+export function NotePopover({ noteId, idNorma, slug, parte, draftAnchor, onClose }: Props) {
   const ref = useRef<HTMLDivElement | null>(null)
   const isDraft = noteId === undefined
 
@@ -63,6 +65,7 @@ export function NotePopover({ noteId, idNorma, slug, draftAnchor, onClose }: Pro
       annotations.addNote({
         idNorma,
         slug,
+        ...(parte != null ? { parte } : {}),
         anchor: draftAnchor,
         body: body.trim(),
       })

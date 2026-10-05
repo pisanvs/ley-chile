@@ -78,3 +78,17 @@ def test_enie_keeps_its_own_slug():
 def test_nested_qualifier_stays_short_in_slug():
     assert label_to_slug(normalize_label("Artículo 1757 (art. 2)")) == "art-1757-art-2"
     assert normalize_label("Art. 5") == "articulo 5"
+
+
+def test_parte_marker_moves_out_of_the_body():
+    text = "#### Artículo 16 B\n\n<!-- parte:9185307 -->\n\nLos establecimientos\n\n#### Artículo 17\n\nSin marcador"
+    a, b = segment(text)
+    assert (a.slug, a.parte, a.body) == ("art-16-b", 9185307, "Los establecimientos")
+    assert (b.parte, b.body) == (None, "Sin marcador")
+
+
+def test_parte_marker_does_not_change_content_identity():
+    # content_sha256 (the articulo dedup key) must not depend on the marker
+    with_marker = segment("#### Artículo 1\n\n<!-- parte:8717775 -->\n\nTexto")[0]
+    without = segment("#### Artículo 1\n\nTexto")[0]
+    assert content_text(with_marker) == content_text(without)

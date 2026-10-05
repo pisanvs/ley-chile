@@ -4,6 +4,17 @@ export interface Segment {
   slug: string
   rawHeading: string
   body: string
+  /** LeyChile's idParte, from the `<!-- parte:N -->` line render_texto.py
+   *  writes under each article heading. Stable while the article is amended,
+   *  new when it is replaced. Absent for text rendered without the tree. */
+  parte?: number
+}
+
+const PARTE_RE = /^<!-- parte:(\d+) -->\s*/
+
+/** Remove the idParte markers from text shown to people (source view). */
+export function stripParteMarkers(text: string): string {
+  return text.replace(/^<!-- parte:\d+ -->\n?\n?/gm, '')
 }
 
 export function labelToSlug(label: string): string {
@@ -80,11 +91,14 @@ function segmentMarkdownHeadings(text: string, matches: RegExpMatchArray[]): Seg
     const segEnd = i + 1 < matches.length ? matches[i + 1].index ?? text.length : text.length
     const identifier = (m[2] || '').trim()
     const label = normalizeLabel(`articulo ${identifier}`)
+    const body = text.slice(headingEnd, segEnd).trim()
+    const parte = PARTE_RE.exec(body)
     segments.push({
       label,
       slug: labelToSlug(label),
       rawHeading: `Artículo ${identifier}`,
-      body: text.slice(headingEnd, segEnd).trim(),
+      body: parte ? body.slice(parte[0].length) : body,
+      ...(parte ? { parte: Number(parte[1]) } : {}),
     })
   }
   return segments

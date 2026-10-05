@@ -126,10 +126,12 @@ def load_articles(conn: psycopg.Connection, rows: Iterable[ArticleRow]) -> int:
     with conn.cursor() as cur:
         _executemany(cur, 
             """
-            INSERT INTO articulo (id_norma, slug, label, raw_heading, body, content_sha256)
-            VALUES (%(id_norma)s, %(slug)s, %(label)s, %(raw_heading)s, %(body)s, %(content_sha256)s)
+            INSERT INTO articulo (id_norma, slug, label, raw_heading, body, content_sha256, parte)
+            VALUES (%(id_norma)s, %(slug)s, %(label)s, %(raw_heading)s, %(body)s, %(content_sha256)s,
+                    %(parte)s)
             ON CONFLICT (id_norma, slug, content_sha256) DO UPDATE SET
-                label = EXCLUDED.label, raw_heading = EXCLUDED.raw_heading
+                label = EXCLUDED.label, raw_heading = EXCLUDED.raw_heading,
+                parte = EXCLUDED.parte
             """,
             [r.__dict__ for r in rows],
         )
