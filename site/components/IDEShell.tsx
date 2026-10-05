@@ -14,7 +14,9 @@ interface Props {
 
 /**
  * Three-pane layout that collapses cleanly to single-pane on mobile.
- * Rails are sticky inside the viewport; the center column scrolls.
+ * The center column scrolls with the page (anchors, deep links and the
+ * active-article observer all use the window); each rail sticks under the
+ * header + tab bar (--rail-top) at viewport height and scrolls on its own.
  */
 export function IDEShell({ navigator, center, rightRail, centerMaxWidth = 'max-w-3xl' }: Props) {
   const [pane, setPane] = useState<'center' | 'nav' | 'right'>('center')
@@ -40,7 +42,7 @@ export function IDEShell({ navigator, center, rightRail, centerMaxWidth = 'max-w
         <aside
           className={`${
             pane === 'nav' ? 'block' : 'hidden'
-          } md:block border-r border-rule overflow-y-auto scrollbar-quiet p-4 bg-paper-sunk/40`}
+          } md:block md:sticky md:self-start md:top-[var(--rail-top)] md:h-[calc(100dvh-var(--rail-top))] border-r border-rule overflow-y-auto overscroll-contain scrollbar-quiet p-4 bg-paper-sunk/40`}
         >
           {navigator ?? <NavPlaceholder />}
         </aside>
@@ -58,7 +60,7 @@ export function IDEShell({ navigator, center, rightRail, centerMaxWidth = 'max-w
         <aside
           className={`${
             pane === 'right' ? 'block' : 'hidden'
-          } md:block border-l border-rule overflow-y-auto scrollbar-quiet p-4 bg-paper-sunk/40`}
+          } md:block md:sticky md:self-start md:top-[var(--rail-top)] md:h-[calc(100dvh-var(--rail-top))] border-l border-rule overflow-y-auto overscroll-contain scrollbar-quiet p-4 bg-paper-sunk/40`}
         >
           {rightRail ?? <RightPlaceholder />}
         </aside>
