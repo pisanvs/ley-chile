@@ -19,6 +19,7 @@ The item's 't' field is the chunk's own HTML; 'h' is its children.
 """
 from __future__ import annotations
 
+import collections
 import html as html_module
 import re
 from typing import Iterable
@@ -198,10 +199,178 @@ _RX_ARTICULO_START = re.compile(
     r"^(?:Artículo|Articulo|ART(?:ÍCULO|ICULO)?\.?)\s+(\d+[ºo°]?(?:\s*(?:bis|ter|quáter|quater|BIS|TER|QU[ÁA]TER))?|[úu]nico|transitorio|primero|segundo|tercero|cuarto|quinto|sexto|s[ée]ptimo|octavo|noveno|d[ée]cimo|final)\s*[-—.:]*\s*(.*)$",
     re.IGNORECASE,
 )
-_RX_ARTICULOS_TRANS = re.compile(r"^Artículos\s+transitorios?$", re.IGNORECASE)
+_RX_ARTICULOS_TRANS = re.compile(r"^Art[íi]culos?\s+transitorios$|^Artículos\s+transitorio$", re.IGNORECASE)
 
 
-def _maybe_promote_heading(para: str, depth: int = 0, suppress_subsection: bool = False) -> list[str]:
+# ---------------------------------------------------------------------------
+# Article headings from the `estructura` tree
+# ---------------------------------------------------------------------------
+#
+# get_norma_json returns an `estructura` outline next to `html`. Its nodes
+# carry the same `i` as the html items, a name `n` ("Artículo 16 B",
+# "Artículo 1 Transitorio", "Artículo 152 quinquies A") and a type `t`
+# (0 Libro, 1 Título, 4 Párrafo, 5 Capítulo, 6 Artículo, None for
+# Encabezado/Promulgación/Anexo). Each article is its own node, so the
+# heading comes from the name instead of being guessed from the text — the
+# regex lost letter suffixes ("16 A".."16 E" all became "Artículo 16"),
+# lost "transitorio" when the text omits it, and promoted articles quoted
+# inside amending laws.
+
+_TIPO_ARTICULO = 6
+_TIPO_DOBLE_ARTICULADO = 13
+_RX_NODE_ARTICULO = re.compile(r"^(?:Art[íi]culo|ART[ÍI]CULO|Art\.|ART\.)\s*(.*)$")
+# Codes that embed other laws name the nested articles "Artículo 79 (DEL
+# ART. 8)"; the qualifier is what keeps them apart from the code's own 79.
+_RX_NODE_QUALIFIER = re.compile(r"\((?:DEL?\s+)?ART[ÍI]?(?:CULO)?\.?\s*([^)]*)\)", re.IGNORECASE)
+# Spelled ordinals, incl. 19th-century spellings (sétimo, sesto, nono) and
+# one-word compounds (decimoquinto, vigesimoprimero, undécimo).
+_ORDINAL = (
+    r"[a-záéíóú]*(?:primero|segundo|tercero|cuarto|quinto|se[xs]to|s[ée]p?timo|octavo"
+    r"|noveno|nono|d[ée]cimo|[ée]simo)"
+)
+_RX_ID_FIRST = re.compile(
+    rf"^(?:\d+(?:-\d+)*[ºo°]?|[úu]nico|transitorio|final|{_ORDINAL}"
+    r"|uno|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|diez"
+    r"|(?-i:[IVXL]{1,7}))$",
+    re.IGNORECASE,
+)
+# Two-word compounds: "vigésimo primero" is one identifier, not "vigésimo".
+_RX_ORDINAL_TENS = re.compile(
+    r"^(?:d[ée]cimo|vig[ée]simo|trig[ée]simo|cuadrag[ée]simo|quincuag[ée]simo)$", re.IGNORECASE,
+)
+_RX_ORDINAL_UNIT = re.compile(
+    r"^(?:primero|segundo|tercero|cuarto|quinto|se[xs]to|s[ée]p?timo|octavo|noveno|nono)$",
+    re.IGNORECASE,
+)
+_ID_WORDS = r"bis|ter|qu[áa]ter|quinquies|sexies|septies|octies|novies|nonies|decies"
+_RX_ID_WORD = re.compile(rf"^(?:{_ID_WORDS}|transitori[oa])$", re.IGNORECASE)
+# Suffixes the text has beyond the node name (the tree has typos like
+# "Artículo 49 QUÁRTER"). A capital counts only when the heading delimiter
+# or another suffix follows, so "Artículo 12 A los efectos" keeps its body.
+_LABEL_EXTRA = (
+    rf"(?P<extra>(?:\s*-?\s*(?:(?:{_ID_WORDS}|transitori[oa])(?!\w)"
+    rf"|(?-i:[A-ZÑ]{{1,2}})(?=\s*(?:[.\-—–:]|(?:{_ID_WORDS})(?!\w)))))*)"
+)
+# A letter suffix ("A", "Ñ", "AA") stays uppercase; words ("BIS",
+# "Transitorio", "QUINTO") are lowercased like the regex path did for BIS/TER.
+_RX_LETTER_SUFFIX = re.compile(r"^[A-ZÑ]{1,2}$")
+
+
+def _node_index(estructura: list | None) -> dict:
+    index: dict = {}
+    stack = list(estructura or [])
+    while stack:
+        node = stack.pop()
+        if isinstance(node, dict):
+            if node.get("i") is not None:
+                index[node["i"]] = node
+            stack.extend(node.get("h") or [])
+    return index
+
+
+def _article_id(node: dict) -> tuple[list[str], str] | None:
+    """Identifier tokens and qualifier of an article node.
+
+    "Artículo 16 B"                      -> (["16", "B"], "")
+    "Artículo 4 (DEL ART. 1) Transitorio" -> (["4", "transitorio"], "(art. 1)")
+    "Artículo 5 CUMPLIMIENTO DE LOS ..."  -> (["5"], "")   epigraph dropped
+    "Artículo"                            -> None          regex fallback
+    """
+    m = _RX_NODE_ARTICULO.match(re.sub(r"\s+", " ", (node.get("n") or "").strip()))
+    if not m:
+        return None
+    rest = m.group(1)
+    qualifier = ""
+    q = _RX_NODE_QUALIFIER.search(rest)
+    if q:
+        qualifier = f"(art. {q.group(1).strip()})"
+        rest = rest[:q.start()] + " " + rest[q.end():]
+    # "211-A" is 211 + A, but "225-2" (Código Civil) is one number.
+    rest = re.sub(r"\s*-\s*", "-", rest.strip(" .:—"))
+    raw = [tok for tok in re.split(r"\s+|-(?=[^\d])", rest) if tok.strip("-")]
+    if not raw or not _RX_ID_FIRST.match(raw[0]):
+        return None
+    if len(raw) > 1 and _RX_ORDINAL_TENS.match(raw[0]) and _RX_ORDINAL_UNIT.match(raw[1]):
+        raw[:2] = [f"{raw[0]} {raw[1]}"]
+    first = raw[0] if re.fullmatch(r"[IVXL]+", raw[0]) else raw[0].lower()
+    tokens = [first]
+    letters = 0
+    for tok in raw[1:]:
+        if tok.lower() == tokens[-1].lower():
+            continue  # "Artículo 1 TRANSITORIO Transitorio"
+        if _RX_ID_WORD.match(tok) or (tok.isdigit() and _RX_ID_WORD.match(tokens[-1])):
+            tokens.append(tok.lower())  # "Artículo 129 BIS 17" (Código de Aguas)
+        elif _RX_LETTER_SUFFIX.match(tok):
+            tokens.append(tok)
+            letters += 1
+        elif re.fullmatch(r"[a-zñ]\)", tok, re.IGNORECASE):
+            tokens.append(tok.lower())  # Código Penal "Artículo 483 a)"
+        else:
+            # An epigraph follows ("Artículo 2 DE LA LEY ..."): capitals right
+            # before it are its first words, not suffixes.
+            while letters and _RX_LETTER_SUFFIX.match(tokens[-1]):
+                tokens.pop()
+                letters -= 1
+            break
+    return tokens, qualifier
+
+
+_ACCENT_CLASSES = {"a": "[aá]", "e": "[eé]", "i": "[ií]", "o": "[oó]", "u": "[uú]"}
+
+
+def _loose(tok: str) -> str:
+    """Regex for a token that ignores accents ("unico" matches "único")."""
+    return "".join(
+        r"\s*-\s*" if c == "-" else r"\s*" if c == " " else _ACCENT_CLASSES.get(c, re.escape(c))
+        for c in tok.lower()
+    )
+
+
+def _strip_article_label(para: str, tokens: list[str]) -> tuple[str, list[str]] | None:
+    """Cut the article label off the first paragraph of an article.
+
+    Returns (body, heading tokens) or None when the paragraph doesn't start
+    with the label. Heading tokens use the text's spelling ("único",
+    "quáter", "1º") where it matches the node, and the node's for the rest.
+    Tries the full identifier first, then drops trailing tokens: transitory
+    articles are named "Artículo 1 Transitorio" but the text often says
+    just "Artículo 1º.-".
+    """
+    p = re.sub(r'^["“”«»‚‹›\s]+', "", para)
+    sep = r"\s*[ºo°]?\.?\s*-?\s*"
+    for k in range(len(tokens), 0, -1):
+        ident = f"(?P<t0>{_loose(tokens[0])})" + r"(?P<ord>\.?[ºo°]|\s*[º°])?" + "".join(
+            f"{sep}(?P<t{n}>{_loose(tok)})" for n, tok in enumerate(tokens[1:k], 1)
+        )
+        rx = (
+            r"^(?:Art[íi]culo|ART[ÍI]CULO|Art\.|ART\.)\s*" + ident
+            + r"(?:\.?\s*[ºo°])?(?!\w)" + _LABEL_EXTRA + r"[\s.\-—–:]*"
+        )
+        m = re.match(rx, p, re.IGNORECASE)
+        if m:
+            heading = [
+                tok if _RX_LETTER_SUFFIX.match(tok) or re.fullmatch(r"[IVXL]+", tok)
+                else m.group(f"t{n}").lower()
+                for n, tok in enumerate(tokens[:k])
+            ]
+            heading += [
+                tok if _RX_LETTER_SUFFIX.match(tok) else tok.lower()
+                for tok in re.split(r"[\s\-]+", m.group("extra")) if tok
+            ]
+            heading += [tok for tok in tokens[k:] if tok.lower() not in heading]
+            # "1o" is an ordinal like "1º"; spelled with o it would also
+            # change the article's slug (art-1o).
+            heading[0] += (m.group("ord") or "").strip(" .").replace("o", "º").replace("O", "º")
+            return p[m.end():].strip(), heading
+    return None
+
+
+def _maybe_promote_heading(
+    para: str,
+    depth: int = 0,
+    suppress_subsection: bool = False,
+    allow_articulo: bool = True,
+) -> list[str]:
     """If a single paragraph is or starts with a structural heading, split it."""
     p = para.strip()
     # Strip leading quotation marks / spurious punctuation so e.g.
@@ -271,7 +440,7 @@ def _maybe_promote_heading(para: str, depth: int = 0, suppress_subsection: bool 
     if _RX_ARTICULOS_TRANS.match(p):
         return ["## Artículos transitorios"]
 
-    m = _RX_ARTICULO_START.match(p)
+    m = _RX_ARTICULO_START.match(p) if allow_articulo else None
     if m:
         num = m.group(1).strip()
         # Normalize BIS/TER suffix case for consistency
@@ -329,35 +498,194 @@ def _break_lists(paragraph: str) -> list[str]:
 # ---------------------------------------------------------------------------
 
 
-def _walk_tree(items: Iterable, out: list[str], depth: int = 0) -> None:
+def _emit(
+    paras: Iterable[str],
+    out: list[str],
+    depth: int,
+    article_seen: bool = False,
+    allow_articulo: bool = True,
+) -> None:
+    # Within one chunk, once an Artículo heading lands, suppress any
+    # further subsection promotion — list items like "11. Las..."
+    # inside an article body must stay as text, not headings.
+    for para in paras:
+        for sub in _maybe_promote_heading(
+            para, depth=depth, suppress_subsection=article_seen,
+            allow_articulo=allow_articulo,
+        ):
+            if sub.startswith("#### "):
+                article_seen = True
+            if sub.startswith(("#", ">", "- ")):
+                out.append(sub)
+            else:
+                out.extend(_break_lists(sub))
+
+
+# An article that holds a whole articulated text (Plan Regulador de
+# Tocopilla: "Artículo 2°.- El texto de la Ordenanza ... es el siguiente:"
+# then "ARTICULO 1." .. "ARTICULO 24."). LeyChile sometimes tags this as
+# "Doble Articulado" in the tree, often not. In the text it is a run of
+# unquoted labels counting up from 1; articles quoted by an amending law are
+# in quotes and jump around ("Artículo 15", "Artículo 16").
+_RX_QUOTED = re.compile(r'^["“”«»‚‹›]')
+_MIN_EMBEDDED = 3
+
+
+def _embedded_articles(paras: list[str]) -> set[int]:
+    """Indices of paras that start the articles of an embedded text."""
+    starts, last = [], 0
+    for n, para in enumerate(paras):
+        m = _RX_ARTICULO_START.match(para)
+        if not m:
+            continue
+        base = re.match(r"\d+", m.group(1))
+        if _RX_QUOTED.match(para) or not base:
+            return set()
+        num = int(base.group())
+        if num not in (last, last + 1) or (not starts and num != 1):
+            return set()
+        starts.append(n)
+        last = num
+    return set(starts) if len(starts) >= _MIN_EMBEDDED else set()
+
+
+def _emit_article(
+    paras: list[str], tokens: list[str], qualifier: str, out: list[str], depth: int,
+) -> None:
+    heading = tokens
+    if paras:
+        stripped = _strip_article_label(paras[0], tokens)
+        if stripped is not None:
+            body, heading = stripped
+            paras = ([body] if body else []) + paras[1:]
+        else:
+            # Label spelled differently from the node name: let the regex
+            # find where the body starts, but keep the node's identifier.
+            m = _RX_ARTICULO_START.match(re.sub(r'^["“”«»‚‹›\s]+', "", paras[0]))
+            if m:
+                paras = ([m.group(2).strip()] if m.group(2).strip() else []) + paras[1:]
+    out.append(" ".join(["#### Artículo", *heading] + ([qualifier] if qualifier else [])))
+    embedded = _embedded_articles(paras)
+    if not embedded:
+        # Anything shaped like an article heading inside the body is quoted
+        # text (amending laws), since every real article is its own node.
+        _emit(paras, out, depth, article_seen=True, allow_articulo=False)
+        return
+    # Inner articles are qualified with the outer one, like LeyChile's
+    # nested-law names ("DEL ART. 2"), so they don't collide with it.
+    inner_q = f"(art. {' '.join(tokens)})"
+    for n, para in enumerate(paras):
+        if n in embedded:
+            head, *body = _maybe_promote_heading(para)
+            out.append(f"{head} {inner_q}")
+            _emit(body, out, depth, article_seen=True, allow_articulo=False)
+        else:
+            _emit([para], out, depth, article_seen=True, allow_articulo=False)
+
+
+def _doble_articulado(estructura: list | None) -> dict:
+    """Inner article id -> outer article tokens, for articles LeyChile tags
+    as "Doble Articulado" (a type-13 node under an article)."""
+    inner: dict = {}
+
+    def walk(items, article, outer_tokens):
+        for node in items or []:
+            if not isinstance(node, dict):
+                continue
+            kind = node.get("t")
+            if kind == _TIPO_ARTICULO:
+                if outer_tokens and node.get("i") is not None:
+                    inner[node["i"]] = outer_tokens
+                walk(node.get("h"), node, None)
+            elif kind == _TIPO_DOBLE_ARTICULADO and article is not None:
+                art_id = _article_id(article)
+                walk(node.get("h"), article, art_id[0] if art_id else None)
+            else:
+                walk(node.get("h"), article, outer_tokens)
+
+    walk(estructura, None, None)
+    return inner
+
+
+def _article_ids(nodes: dict, estructura: list | None = None) -> dict:
+    """Article identifier per html item id, with nested-law qualifiers only
+    where needed: the largest group (the code itself, e.g. the Código Civil
+    inside art. 2 of its DFL) stays bare, and other groups keep "(art. N)"
+    only when the bare heading would collide. Doble Articulado inner
+    articles that collide carry their outer article."""
+    ids = {}
+    for i, node in nodes.items():
+        if node.get("t") == _TIPO_ARTICULO:
+            art_id = _article_id(node)
+            if art_id:
+                ids[i] = art_id
+    if not ids:
+        return ids
+    main_q = collections.Counter(q for _, q in ids.values()).most_common(1)[0][0]
+    bare = collections.Counter(tuple(t) for t, _ in ids.values())
+    out = {
+        i: (t, "" if q == main_q or bare[tuple(t)] == 1 else q)
+        for i, (t, q) in ids.items()
+    }
+    # The tree adds "Transitorio" to some names only ("Artículo DECIMOQUINTO
+    # Transitorio" after a plain "DECIMOCUARTO" in Ley 20.529). Keep it, for
+    # the whole group, only where it tells transitorios from permanent
+    # articles with the same number (LGE "Artículo 1" / "1 Transitorio").
+    trans = [i for i, (t, _) in out.items() if len(t) > 1 and t[-1] == "transitorio"]
+    permanent = {tuple(t) for t, _ in out.values() if t[-1] != "transitorio"}
+    if trans and not any(tuple(out[i][0][:-1]) in permanent for i in trans):
+        for i in trans:
+            out[i] = (out[i][0][:-1], out[i][1])
+    for i, outer in _doble_articulado(estructura).items():
+        t, q = ids.get(i, (None, None))
+        if t is None or out[i][1] or bare[tuple(t)] == 1 or (main_q and q == main_q):
+            continue  # unique, already qualified, or the embedded code itself
+        out[i] = (t, f"(art. {' '.join(outer)})")
+    return out
+
+
+def _walk_tree(
+    items: Iterable,
+    out: list[str],
+    depth: int = 0,
+    nodes: dict | None = None,
+    art_ids: dict | None = None,
+) -> None:
     for item in items:
         if not isinstance(item, dict):
             continue
         t = item.get("t")
+        node = nodes.get(item.get("i")) if nodes else None
         if t:
-            # Within one chunk, once an Artículo heading lands, suppress any
-            # further subsection promotion — list items like "11. Las..."
-            # inside an article body must stay as text, not headings.
-            article_seen = False
-            for para in _render_chunk(t):
-                for sub in _maybe_promote_heading(
-                    para, depth=depth, suppress_subsection=article_seen,
-                ):
-                    if sub.startswith("#### "):
-                        article_seen = True
-                    if sub.startswith(("#", ">", "- ")):
-                        out.append(sub)
-                    else:
-                        out.extend(_break_lists(sub))
+            paras = _render_chunk(t)
+            art_id = (art_ids or {}).get(item.get("i"))
+            if art_id and paras:
+                _emit_article(paras, *art_id, out, depth)
+            else:
+                # Without a usable article node (no estructura, or a bare
+                # "Artículo" name) the regex is all we have. Annexes (an
+                # ordinance, a treaty) have articles the tree doesn't list.
+                # Any other node is not an article, so nothing in it becomes one.
+                allow = (
+                    node is None
+                    or node.get("t") == _TIPO_ARTICULO
+                    or (node.get("n") or "").strip().lower().startswith("anexo")
+                )
+                _emit(paras, out, depth, allow_articulo=allow)
         children = item.get("h")
         if isinstance(children, list):
-            _walk_tree(children, out, depth + 1)
+            _walk_tree(children, out, depth + 1, nodes, art_ids)
 
 
-def render(html_items: list) -> str:
-    """Top-level: turn the BCN html tree into clean markdown."""
+def render(html_items: list, estructura: list | None = None) -> str:
+    """Top-level: turn the BCN html tree into clean markdown.
+
+    Pass the response's ``estructura`` to take article headings from it;
+    without it, headings are detected by regex.
+    """
     paragraphs: list[str] = []
-    _walk_tree(html_items, paragraphs)
+    nodes = _node_index(estructura)
+    _walk_tree(html_items, paragraphs, nodes=nodes, art_ids=_article_ids(nodes, estructura))
     # Collapse adjacent identical paragraphs (some normas duplicate)
     deduped: list[str] = []
     last = None
@@ -381,4 +709,4 @@ if __name__ == "__main__":
         print("usage: renderer_v2.py <path-to-version.json>", file=sys.stderr)
         sys.exit(2)
     d = json.load(open(path))
-    print(render(d.get("html", [])))
+    print(render(d.get("html", []), d.get("estructura")))

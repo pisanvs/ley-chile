@@ -405,7 +405,7 @@ def _version_files(
     files: dict[str, bytes] = {}
 
     if ver_data:
-        texto = render_texto(ver_data.get("html", []))
+        texto = render_texto(ver_data.get("html", []), ver_data.get("estructura"))
         if texto:
             path = str(rel_dir / "texto.md")
             files[path] = texto.encode("utf-8")
