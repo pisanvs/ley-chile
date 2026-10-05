@@ -90,6 +90,7 @@ export async function generateMetadata({ params }: Props) {
       title: t.title,
       description,
       url: `${SITE}/temas/${t.slug}`,
+      images: [{ url: '/opengraph-image.png', width: 2400, height: 1260 }],
     },
   }
 }
