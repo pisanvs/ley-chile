@@ -43,9 +43,12 @@ export async function GET() {
     // Tool/docs pages with no on-site nav link (the persistent nav only has
     // room for Temas/Guías/Cambios/Blog) — without a sitemap entry these have
     // no path to discovery at all. /citar is reachable via the citation blog
-    // posts, but /api had zero internal inlinks anywhere on the site.
+    // posts, but /api and /buscar have zero internal inlinks anywhere on the
+    // site (buscar/page.tsx keeps the bare page indexable, but the ⌘K button
+    // opens an in-page command palette rather than linking to it).
     { loc: `${SITE}/citar` },
     { loc: `${SITE}/api` },
+    { loc: `${SITE}/buscar` },
     ...TOPICS.map((t) => ({ loc: `${SITE}/temas/${t.slug}` })),
     ...listPosts().map((p) => ({
       loc: `${SITE}/blog/${p.slug}`,
