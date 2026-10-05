@@ -65,3 +65,16 @@ def test_content_text_headingless_falls_back_to_body_alone():
 def test_content_text_joins_heading_and_body():
     seg = Segment("articulo 1", "art-1", "Artículo 1º", "Cuerpo.")
     assert content_text(seg) == "Artículo 1º\nCuerpo."
+
+
+def test_enie_keeps_its_own_slug():
+    # Código del Trabajo has both "183 N" and "183 Ñ"
+    assert normalize_label("Artículo 183 Ñ") == "articulo 183 ñ"
+    assert label_to_slug(normalize_label("Artículo 183 Ñ")) == "art-183-nn"
+    assert label_to_slug(normalize_label("Artículo 183 N")) == "art-183-n"
+    assert normalize_label("Artículo 35 N\u0303") == "articulo 35 ñ"
+
+
+def test_nested_qualifier_stays_short_in_slug():
+    assert label_to_slug(normalize_label("Artículo 1757 (art. 2)")) == "art-1757-art-2"
+    assert normalize_label("Art. 5") == "articulo 5"

@@ -47,9 +47,15 @@ def normalize_label(s: str) -> str:
     """
     s = _ORDINAL.sub("", s)
     s = s.lower()
+    # Ñ is kept: NFKD would turn it into N plus a tilde, and "183 Ñ" would
+    # collide with "183 N" (Código del Trabajo).
+    s = unicodedata.normalize("NFC", s).replace("ñ", "\ue000")
     s = unicodedata.normalize("NFKD", s)
     s = _COMBINING.sub("", s)
-    s = re.sub(r"\bart\.", "articulo", s)
+    s = s.replace("\ue000", "ñ")
+    # Only a leading "Art." is the label word; "(art. 2)" later in the label
+    # is a nested-article qualifier and stays short in the slug.
+    s = re.sub(r"^art\.", "articulo", s)
     s = re.sub(r"\s+", " ", s)
     return s.strip()
 
@@ -60,6 +66,7 @@ def label_to_slug(label: str) -> str:
     if label == "__doc__":
         return "doc"
     s = re.sub(r"^articulo\s+", "art-", label)
+    s = s.replace("ñ", "nn")
     s = re.sub(r"\s+", "-", s)
     s = re.sub(r"[^a-z0-9-]", "", s)
     s = re.sub(r"-+", "-", s)
