@@ -56,6 +56,13 @@
   --color-gold: #d9b948;
 }
 
+/* Where the reader's side rails stick: under the sticky header (h-14) and
+   the tab bar, whose height TabBar publishes as --tabbar-h (0 when hidden). */
+:root {
+  --tabbar-h: 0px;
+  --rail-top: calc(3.5rem + var(--tabbar-h));
+}
+
 /* Annotation highlight palette. Pastel in light, deeper in dark. */
 :root {
   --lc-hl-yellow: #fff3a0;
