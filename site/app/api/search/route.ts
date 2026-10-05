@@ -14,16 +14,15 @@ export async function GET(req: Request) {
     // The palette sends mode=typeahead per keystroke; /buscar and the MCP tool
     // use the default 'full', which reads article bodies.
     const mode = url.searchParams.get('mode') === 'typeahead' ? 'typeahead' : 'full'
-    const { hits, degraded } = await runSearchDetailed(q, asOf, 12, mode)
+    const { hits } = await runSearchDetailed(q, asOf, 12, mode)
     return Response.json({
       hits: hits.map((h) => ({
         idNorma: h.idNorma, tipo: h.tipo, numero: h.numero, titulo: h.titulo,
       })),
-      degraded,
     })
   } catch (err) {
     // Never answer a broken search with `{hits: []}` and a 200. That is how a
-    // total outage — Meilisearch gone, taking the two Postgres tiers with it —
+    // total outage — Postgres unreachable —
     // presented to users as "no results found" and to monitoring as a wall of
     // healthy 200s. A dependency failure is a 503 and says so.
     console.error('[api/search] search failed:', err)

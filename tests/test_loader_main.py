@@ -72,76 +72,6 @@ def test_revalidate_with_no_normas_is_a_noop():
     assert revalidate("https://x", "tok", [], post=explode) is True
 
 
-def test_index_targets_unions_and_dedups():
-    from loader.main import index_targets
-    assert index_targets([1, 2], [2, 3]) == [1, 2, 3]
-    assert index_targets([], [5]) == [5]
-    assert index_targets([4], []) == [4]
-
-
-@pytest.mark.integration
-@requires_db
-def test_index_targets_reaches_a_norma_promoted_but_not_touched(conn):
-    """Reproduces the Critical bug: compute_promotions selects from the whole
-    corpus, almost never a subset of the delta's `touched` normas. Indexing
-    only `touched` after apply_promotions flips a norma to index_tier='full'
-    silently strands it — promoted in Postgres, never pushed to Meilisearch.
-    """
-    from loader.index_meili import articulo_documents
-    from loader.main import index_targets
-    from loader.retier import apply_promotions, apply_seed, compute_promotions, refresh_signal
-
-    # A 'res' norma: apply_seed does not promote it, so it starts (and stays,
-    # absent usage signal) in the 'meta' tier — and it is NOT in this run's delta.
-    conn.execute(
-        "INSERT INTO norma (id_norma, tipo, numero, titulo, law_dir) "
-        "VALUES (100, 'res', '100', 'T', 'res/100')"
-    )
-    conn.execute(
-        "INSERT INTO articulo (id, id_norma, slug, label, raw_heading, body, content_sha256) "
-        "VALUES (1, 100, 'art-1', 'Artículo 1', '', 'cuerpo', %s)",
-        ("a" * 64,),
-    )
-    conn.execute(
-        "INSERT INTO articulo_span (articulo_id, desde, ord) VALUES (1, '2020-01-01', 0)"
-    )
-    conn.execute("INSERT INTO analytics.event (kind, id_norma) VALUES ('cold_surface', 100)")
-
-    apply_seed(conn)
-    refresh_signal(conn)
-    promoted = compute_promotions(conn, budget_bytes=10**12)
-    assert promoted == [100]
-    apply_promotions(conn, promoted)
-
-    touched = [999]  # this run's delta never mentions norma 100
-    to_index = index_targets(touched, promoted)
-
-    touched_ids = {doc["id_norma"] for doc in articulo_documents(conn, touched)}
-    union_ids = {doc["id_norma"] for doc in articulo_documents(conn, to_index)}
-
-    assert 100 not in touched_ids
-    assert 100 in union_ids
-
-
-class _FakeMeiliIndex:
-    def update_settings(self, settings):
-        return {"taskUid": 1}
-
-    def add_documents(self, docs, primary_key=None):
-        return {"taskUid": 2}
-
-    def delete_documents(self, ids=None, *, filter=None, metadata=None):
-        return {"taskUid": 3}
-
-
-class _FakeMeiliClient:
-    def index(self, name):
-        return _FakeMeiliIndex()
-
-    def wait_for_task(self, uid, timeout_in_ms=None):
-        return {"status": "succeeded"}
-
-
 @pytest.mark.integration
 @requires_db
 def test_run_survives_a_revalidate_exception_and_keeps_load_state_advanced(
@@ -178,8 +108,7 @@ def test_run_survives_a_revalidate_exception_and_keeps_load_state_advanced(
     monkeypatch.setattr(main_mod, "revalidate", exploding_revalidate)
 
     rc = main_mod.run(
-        conn, _FakeMeiliClient(), tmp_path,
-        budget_bytes=10**12,
+        conn, tmp_path,
         revalidate_url="https://x/api/revalidate",
         revalidate_token="tok",
     )
@@ -190,3 +119,25 @@ def test_run_survives_a_revalidate_exception_and_keeps_load_state_advanced(
     err = capsys.readouterr().out
     assert "revalidate: FAILED" in err
     assert "stale" in err
+
+
+def test_refresh_search_rebuilds_both_derived_tables():
+    """Search is Postgres only; the loader must rebuild its derived tables,
+    which nothing called before (they held whatever a manual run left)."""
+    from loader.load import refresh_search
+
+    calls = []
+
+    class _Cur:
+        def __init__(self, sql):
+            calls.append(sql)
+
+        def fetchone(self):
+            return (1,)
+
+    class _Conn:
+        def execute(self, sql, *a):
+            return _Cur(sql)
+
+    refresh_search(_Conn())
+    assert calls == ["SELECT refresh_norma_search()", "SELECT refresh_articulo_lexeme_freq()"]

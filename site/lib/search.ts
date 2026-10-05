@@ -1,24 +1,4 @@
-import { Meilisearch } from 'meilisearch'
 import { pool } from './db'
-
-export const OPEN_ENDED_TS = 253402300799
-export const COLD_THRESHOLD = 5
-
-// Constructed lazily so importing this module (e.g. from pure unit tests
-// that only exercise asOfFilter/normalizeQuery/needsColdPath) never
-// constructs a client and never touches MEILI_URL. Real deployments call
-// searchHot, which constructs on first use -- and fail loudly if MEILI_URL
-// is unset, rather than silently degrading to a localhost fallback.
-let _client: Meilisearch | null = null
-function meiliClient(): Meilisearch {
-  if (!_client) {
-    _client = new Meilisearch({
-      host: process.env.MEILI_URL!,
-      apiKey: process.env.MEILI_SEARCH_KEY,
-    })
-  }
-  return _client
-}
 
 export interface Hit {
   idNorma: number
@@ -27,9 +7,10 @@ export interface Hit {
   titulo: string
   slug: string
   snippet: string
-  /** 'exact' = matched by law number, surfaced first. 'hot'/'cold' = full-text.
+  /** 'exact' = matched by law number, surfaced first. 'cold' = full-text over
+   *  article bodies (named before the hot tier was removed).
    *  'typeahead' = norma-level palette match, no article text involved. */
-  tier: 'exact' | 'hot' | 'cold' | 'typeahead'
+  tier: 'exact' | 'cold' | 'typeahead'
 }
 
 /** 'typeahead' runs per keystroke and stays norma-level; 'full' is the
@@ -62,40 +43,8 @@ export function parseNumberQuery(q: string): { tipo?: string; numero: string } |
   return { tipo, numero: m[2] }
 }
 
-export function asOfFilter(asOf: string): string {
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(asOf)) throw new Error(`asOf must be YYYY-MM-DD, got ${asOf}`)
-  const ts = Math.floor(Date.parse(`${asOf}T00:00:00Z`) / 1000)
-  return `desde_ts <= ${ts} AND hasta_ts >= ${ts}`
-}
-
 export function normalizeQuery(q: string): string {
   return q.trim().toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/\s+/g, ' ')
-}
-
-export function needsColdPath(hotCount: number): boolean {
-  return hotCount < COLD_THRESHOLD
-}
-
-/** Hot path: the ~8% of the corpus anyone searches. Typo-tolerant, instant.
- *  `distinct` is a per-search parameter, never an index setting — otherwise
- *  "all matching artículos inside this law" would silently collapse to one. */
-export async function searchHot(q: string, asOf: string): Promise<Hit[]> {
-  const res = await meiliClient().index('articulos').search(q, {
-    filter: asOfFilter(asOf),
-    distinct: 'id_norma',
-    limit: 20,
-    attributesToCrop: ['body'],
-    cropLength: 40,
-  })
-  return res.hits.map(h => ({
-    idNorma: h.id_norma as number,
-    tipo: h.tipo as string,
-    numero: h.numero as string,
-    titulo: h.titulo as string,
-    slug: h.slug as string,
-    snippet: (h._formatted?.body as string) ?? '',
-    tier: 'hot' as const,
-  }))
 }
 
 /** Exact law-number matches, surfaced above full-text results.
@@ -130,53 +79,28 @@ export async function searchByNumber(q: string): Promise<Hit[]> {
 
 export interface SearchOutcome {
   hits: Hit[]
-  /** The hot tier failed and these results came from Postgres alone. The
-   *  results are real, just less forgiving: no typo tolerance, and the
-   *  hot tier's ranking no longer contributes. */
-  degraded: boolean
 }
 
-/** The hot tier, made non-fatal.
+/** The one search entry point. Number matches first, then full-text over
+ *  article bodies (Postgres FTS, sql/004) — deduped by norma and capped. All
+ *  three surfaces (the ⌘K palette, /buscar, the MCP tool) go through here so
+ *  they rank identically. Postgres is the only search engine.
  *
- *  Meilisearch is an accelerator over ~8% of the corpus, not the source of
- *  truth — `searchByNumber` and `searchDeep` are pure Postgres and between
- *  them answer the whole corpus without it. Letting an unreachable Meili
- *  throw past those two turned a degraded search into no search at all:
- *  a bare law number, answered entirely by Postgres, returned nothing for
- *  as long as Meilisearch was down. See search.resilience.test.ts. */
-async function hotTier(q: string, asOf: string): Promise<{ hits: Hit[]; failed: boolean }> {
-  try {
-    return { hits: await searchHot(q, asOf), failed: false }
-  } catch (err) {
-    console.error('[search] hot tier unavailable; serving from Postgres alone:', err)
-    return { hits: [], failed: true }
-  }
-}
-
-/** The one search entry point. Number matches first, then the hot full-text
- *  tier, then the cold tier when the hot tier is thin — deduped by norma and
- *  capped. All three surfaces (the ⌘K palette, /buscar, the MCP tool) go
- *  through here so they rank identically.
- *
- *  A Postgres failure still throws: there are no results to be had, and the
- *  caller must be able to tell that apart from an honestly empty corpus. */
+ *  A Postgres failure throws: there are no results to be had, and the caller
+ *  must be able to tell that apart from an honestly empty corpus. */
 export async function runSearchDetailed(
   q: string, asOf: string, limit = 20, mode: SearchMode = 'full',
 ): Promise<SearchOutcome> {
   const exact = await searchByNumber(q)
 
-  // Typeahead never touches Meilisearch or article bodies, so it cannot be
-  // degraded by a Meili outage and does not pay for a tier it will not show.
+  // Typeahead stays norma-level and never reads article bodies.
   if (mode === 'typeahead') {
     const ahead = await searchTypeahead(q, limit)
-    return { hits: dedupe([...exact, ...ahead], limit), degraded: false }
+    return { hits: dedupe([...exact, ...ahead], limit) }
   }
 
-  const hot = await hotTier(q, asOf)
-  // A failed hot tier reports zero hits, which `needsColdPath` already reads
-  // as thin — so the exhaustive Postgres path runs either way.
-  const deep = needsColdPath(hot.hits.length) ? await searchDeep(q, asOf, limit) : []
-  return { hits: dedupe([...exact, ...hot.hits, ...deep], limit), degraded: hot.failed }
+  const deep = await searchDeep(q, asOf, limit)
+  return { hits: dedupe([...exact, ...deep], limit) }
 }
 
 /** One norma appears once, at its best-ranked position. Tiers are concatenated
@@ -201,9 +125,7 @@ export interface ArticleHit {
 
 /** Search the articles of ONE norma, as of a date.
  *
- *  Postgres FTS, not Meilisearch: this must work for any norma, and Meili only
- *  holds the hot tier (~8% of the corpus). Scoped by id_norma, so exhaustive
- *  within the law regardless of tier. Powers the MCP `search_articles` tool —
+ *  Postgres FTS, scoped by id_norma, so exhaustive within the law. Powers the MCP `search_articles` tool —
  *  "where does this law talk about X" without pulling its whole text.
  */
 export async function searchArticles(
@@ -238,10 +160,6 @@ export async function searchArticles(
 
 /** Deep path: exhaustive Postgres FTS over the WHOLE corpus.
  *
- *  Replaces the old cold path, which was restricted to `index_tier = 'meta'`
- *  so as to stay disjoint from what Meilisearch held. That restriction only
- *  ever existed to serve the tiering, and the tiering is going away.
- *
  *  `search_articulos_deep` (sql/004) picks its query shape by selectivity.
  *  This matters more than it sounds: the old query's `DISTINCT ON (id_norma)
  *  ... ORDER BY id_norma` forced a plan that never used `articulo_tsv_idx`,
@@ -267,7 +185,7 @@ export async function searchDeep(q: string, asOf: string, limit = 20): Promise<H
  *  is asking "which law is this?", answered by title, common name or number —
  *  and that question is a single-table lookup over an index small enough to
  *  stay resident (~254 MB at full corpus). Measured ~4 ms for a correctly
- *  spelled query, against a network round trip to Meilisearch.
+ *  spelled query.
  *
  *  No `asOf`: a norma's identity does not change with the as-of date, only its
  *  text does, and typeahead shows no text. */

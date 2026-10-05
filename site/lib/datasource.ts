@@ -1,5 +1,5 @@
 /** URL builder for the app's data API. In the SSR port these are Next route
- *  handlers backed by Postgres/Meilisearch (see app/api/…), replacing the old
+ *  handlers backed by Postgres (see app/api/…), replacing the old
  *  static `idx/*.json` shards + GitHub raw text. Same shapes, live source. */
 export const ds = {
   commitsUrl: (idOrNumero: number | string) => `/api/idx/commits/${idOrNumero}`,
