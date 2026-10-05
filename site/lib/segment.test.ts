@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { findArticle, labelToSlug, normalizeLabel, segment } from './segment'
+import { findArticle, labelToSlug, normalizeLabel, segment, stripParteMarkers } from './segment'
 
 describe('normalizeLabel / labelToSlug', () => {
   it('keeps Ñ apart from N', () => {
@@ -46,5 +46,25 @@ describe('findArticle', () => {
 
   it('returns undefined when nothing matches', () => {
     expect(findArticle(arts, 'Artículo 99')).toBeUndefined()
+  })
+})
+
+describe('idParte markers', () => {
+  const text = [
+    'Preámbulo',
+    '#### Artículo 16 B', '<!-- parte:9185307 -->', 'Los establecimientos',
+    '#### Artículo 17', 'Sin marcador',
+  ].join('\n\n')
+
+  it('moves the marker out of the body into parte', () => {
+    const segs = segment(text)
+    expect(segs[1]).toMatchObject({ slug: 'art-16-b', parte: 9185307, body: 'Los establecimientos' })
+    expect(segs[2].parte).toBeUndefined()
+    expect(segs[2].body).toBe('Sin marcador')
+  })
+
+  it('strips markers from text shown as source', () => {
+    expect(stripParteMarkers(text)).not.toContain('parte:')
+    expect(stripParteMarkers(text)).toContain('#### Artículo 16 B\n\nLos establecimientos')
   })
 })

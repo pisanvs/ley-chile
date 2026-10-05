@@ -14,6 +14,16 @@ function SidebarHeading({ children }: { children: React.ReactNode }) {
   )
 }
 
+/** The saved slug can be stale (the article's heading changed since); the
+ *  article's idParte is not. Fall back to the slug link when it isn't shown. */
+function jumpToParte(e: React.MouseEvent, parte?: number) {
+  if (parte == null) return
+  const el = document.querySelector(`[data-parte="${parte}"]`)
+  if (!el) return
+  e.preventDefault()
+  el.scrollIntoView({ behavior: 'smooth', block: 'start' })
+}
+
 /** Lists every highlight + note the user has saved for the active law.
  *  Clicking jumps to the article. */
 export function AnnotationsList({ idx }: Props) {
@@ -58,6 +68,7 @@ export function AnnotationsList({ idx }: Props) {
                 />
                 <a
                   href={`#art-${h.slug}`}
+                  onClick={e => jumpToParte(e, h.parte)}
                   className="flex-1 min-w-0 text-ink-soft hover:text-ink"
                 >
                   <span className="line-clamp-2 italic">«{h.text}»</span>
@@ -81,6 +92,7 @@ export function AnnotationsList({ idx }: Props) {
               <li key={n.id} className="border border-rule rounded p-2 bg-paper-sunk/40">
                 <a
                   href={`#art-${n.slug}`}
+                  onClick={e => jumpToParte(e, n.parte)}
                   className="text-[10px] text-ink-faint hover:text-indigo block mb-1"
                 >
                   → {n.slug}

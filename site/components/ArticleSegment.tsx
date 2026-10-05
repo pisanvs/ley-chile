@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState, type ReactNode } from 'react'
 import Link from 'next/link'
-import { annotations, type HighlightColor } from '@/lib/annotations'
+import { annotations, resolveHighlight, type HighlightColor } from '@/lib/annotations'
 import { SelectionToolbar } from '@/components/SelectionToolbar'
 import { NotePopover } from '@/components/NotePopover'
 import { CiteButton } from '@/components/CiteButton'
@@ -13,6 +13,8 @@ type Status = 'unchanged' | 'modified' | 'added' | 'removed'
 interface Props {
   idNorma: number
   slug: string
+  /** LeyChile idParte; annotations are keyed by it when present. */
+  parte?: number
   heading: string
   status: Status
   /** Causa idNorma when this segment was modified — drives the blame badge. */
@@ -34,6 +36,7 @@ interface Props {
 export function ArticleSegment({
   idNorma,
   slug,
+  parte,
   heading,
   status,
   causaId,
@@ -60,14 +63,23 @@ export function ArticleSegment({
     }
   }, [])
 
-  const ann = annotations.for(idNorma, slug)
+  const ann = annotations.for(idNorma, slug, parte)
   const citeSource = useCiteSource()
+  const [placedCount, setPlacedCount] = useState(0)
 
-  // Apply highlights as inline marks after each render.
+  // Apply highlights as inline marks after each render, each where its saved
+  // text is (offsets drift between versions; legacy slug-keyed entries may
+  // belong to a sibling article).
   useEffect(() => {
     if (!bodyRef.current) return
-    applyHighlightMarks(bodyRef.current, ann.highlights)
-  }, [ann.highlights, version, children])
+    unwrapMarks(bodyRef.current)
+    const text = bodyRef.current.textContent ?? ''
+    const placed = [...ann.highlights, ...ann.legacyHighlights]
+      .map(h => resolveHighlight(h, text))
+      .filter((h): h is NonNullable<typeof h> => h !== null)
+    applyHighlightMarks(bodyRef.current, placed)
+    setPlacedCount(placed.length)
+  }, [ann.highlights, ann.legacyHighlights, version, children])
 
   const onMouseUp = () => {
     const sel = window.getSelection()
@@ -99,6 +111,7 @@ export function ArticleSegment({
     annotations.addHighlight({
       idNorma,
       slug,
+      ...(parte != null ? { parte } : {}),
       start: toolbar.range.start,
       end: toolbar.range.end,
       text: toolbar.range.text,
@@ -135,6 +148,7 @@ export function ArticleSegment({
     <section
       id={`art-${slug}`}
       data-article-slug={slug}
+      data-parte={parte}
       className={`relative scroll-mt-20 ${statusBorder}`}
     >
       {heading && (
@@ -200,10 +214,10 @@ export function ArticleSegment({
       </div>
 
       {/* Highlight counter footer */}
-      {(ann.highlights.length > 0 || ann.notes.length > 0) && (
+      {(placedCount > 0 || ann.notes.length > 0) && (
         <div className="mt-2 flex items-center gap-3 text-[10px] text-ink-faint">
-          {ann.highlights.length > 0 && (
-            <span>{ann.highlights.length} destacado{ann.highlights.length !== 1 && 's'}</span>
+          {placedCount > 0 && (
+            <span>{placedCount} destacado{placedCount !== 1 && 's'}</span>
           )}
           {ann.notes.length > 0 && (
             <span>{ann.notes.length} nota{ann.notes.length !== 1 && 's'}</span>
@@ -231,6 +245,7 @@ export function ArticleSegment({
         <NotePopover
           idNorma={idNorma}
           slug={slug}
+          parte={parte}
           draftAnchor={draftNoteAnchor}
           onClose={() => setDraftNoteAnchor(null)}
         />
@@ -264,8 +279,7 @@ function offsetsForRange(container: HTMLElement, range: Range): { start: number;
 /** Wrap saved highlight ranges in <mark> tags by walking text nodes. Mutates
  *  the DOM directly because reconciling highlights via React inside markdown
  *  output is hostile. Idempotent: unwraps any prior marks first. */
-function applyHighlightMarks(container: HTMLElement, highlights: { start: number; end: number; color: string; id: string }[]) {
-  // Unwrap previously applied marks.
+function unwrapMarks(container: HTMLElement) {
   container.querySelectorAll('mark[data-lc-mark]').forEach(m => {
     const parent = m.parentNode
     if (!parent) return
@@ -274,6 +288,10 @@ function applyHighlightMarks(container: HTMLElement, highlights: { start: number
   })
   // Normalize so adjacent text nodes coalesce — important for stable offsets.
   container.normalize()
+}
+
+function applyHighlightMarks(container: HTMLElement, highlights: { start: number; end: number; color: string; id: string }[]) {
+  unwrapMarks(container)
 
   for (const h of highlights) {
     if (h.end <= h.start) continue
