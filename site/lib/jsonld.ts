@@ -13,8 +13,8 @@ export { SITE }
  *  `SELECT DISTINCT tipo FROM norma`), but a future BCN tipo named `guia` would
  *  otherwise shadow ~7.8k law URLs silently. */
 export const RESERVED_TIPOS = new Set([
-  'buscar', 'api', 'sitemap', 'robots', '_next',
-  'guia', 'cambios', 'temas', 'blog', 'norma', 'citar',
+  'buscar', 'api', 'sitemap', 'sitemap-contenido.xml', 'robots', '_next',
+  'guia', 'cambios', 'temas', 'blog', 'norma', 'citar', 'llms.txt',
 ])
 
 /** Some títulos are stored with the line breaks the BCN source wrapped them
