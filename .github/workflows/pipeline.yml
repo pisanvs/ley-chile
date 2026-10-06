@@ -597,26 +597,36 @@ jobs:
 
           # ── INCREMENTAL ────────────────────────────────────────────────
           if [ "$MODE" = "incremental" ]; then
+            # Year-sized chunks, each pushed as soon as it's built: a run that
+            # hits the job time limit (e.g. resuming a cut-off full rebuild)
+            # keeps what it finished, and the next run continues from there.
             echo "=== Incremental build: events with date > $LOCAL_W ==="
-            python scripts/leychile.py build \
-              --data-root . --cache-dir ./cache \
-              --append --from "$LOCAL_W" \
-              --enrichers tramitacion
+            PREV="$LOCAL_W"
+            LAST_YEAR=$(( $(date -u +%Y) + 1 ))
+            for YEAR in $(seq "${LOCAL_W:0:4}" "$LAST_YEAR"); do
+              NEXT="$YEAR-12-31"
+              [[ "$NEXT" > "$PREV" ]] || continue
+              BEFORE=$(git rev-parse refs/heads/historial)
+              echo "--- Chunk ($PREV, $NEXT] ---"
+              python scripts/leychile.py build \
+                --data-root . --cache-dir ./cache \
+                --append --from "$PREV" --to "$NEXT" \
+                --enrichers tramitacion
+              # build_history exits without writing when no events land
+              if [ "$(git rev-parse refs/heads/historial)" != "$BEFORE" ]; then
+                if ! push_historial "incremental ($PREV, $NEXT]"; then
+                  echo "ERROR: incremental push exhausted retries"
+                  exit 1
+                fi
+              fi
+              PREV="$NEXT"
+            done
 
-            # If no events landed, build_history exits without writing — the
-            # local ref didn't change. Detect by comparing local vs remote.
-            LOCAL_SHA=$(git rev-parse refs/heads/historial)
-            if [ "$LOCAL_SHA" = "$REMOTE_TIP" ]; then
+            if [ "$(git rev-parse refs/heads/historial)" = "$REMOTE_TIP" ]; then
               echo "No new events since $LOCAL_W — nothing to push."
-              exit 0
+            else
+              echo "=== Incremental build pushed successfully ==="
             fi
-
-            echo "--- Pushing incremental update ---"
-            if ! push_historial "incremental from $LOCAL_W"; then
-              echo "ERROR: incremental push exhausted retries"
-              exit 1
-            fi
-            echo "=== Incremental build pushed successfully ==="
             exit 0
           fi
 
