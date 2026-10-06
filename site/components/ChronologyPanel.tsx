@@ -77,7 +77,7 @@ function EventRow({ ev, idNorma }: { ev: SlugEvent; idNorma: number }) {
   return (
     <li className="flex items-baseline gap-2">
       <Link
-        href={`/ley/${idNorma}/${ev.date}`}
+        href={`/norma/${idNorma}/${ev.date}`}
         className={`font-mono hover:underline ${colorByKind}`}
       >
         {ev.date}
@@ -85,7 +85,7 @@ function EventRow({ ev, idNorma }: { ev: SlugEvent; idNorma: number }) {
       <span className="text-ink-faint">{ev.kind}</span>
       {ev.causaId !== idNorma && (
         <Link
-          href={`/ley/${ev.causaId}`}
+          href={`/norma/${ev.causaId}`}
           className="ml-auto text-[10px] text-ink-faint hover:text-indigo"
         >
           causa →

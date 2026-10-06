@@ -44,7 +44,7 @@ export function VersionDetails({ idx, active }: Props) {
         <div className="text-xs text-ink-soft">{active.subject}</div>
         {active.causaId > 0 && active.causaId !== idx.norma.idNorma && (
           <Link
-            href={`/ley/${active.causaId}`}
+            href={`/norma/${active.causaId}`}
             className="inline-flex items-center gap-1 text-xs text-indigo hover:underline"
           >
             Ver norma modificadora <span aria-hidden>→</span>
