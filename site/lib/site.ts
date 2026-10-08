@@ -24,9 +24,9 @@ export const MCP_PATH = '/api/mcp'
  * — each case just overwrites `newResolvedMetadata[key]` with the result of
  * resolving *that segment's own* value). So `app/layout.tsx` setting
  * `openGraph.siteName`/`locale` only reaches routes that don't override
- * `openGraph` at all (currently just `/temas/[slug]` and the homepage) —
- * every route with a per-page `openGraph` (norma, guia, cambios, blog) has
- * to repeat these explicitly or lose them.
+ * `openGraph` at all (currently just the homepage) — every route with a
+ * per-page `openGraph` (norma, guia, cambios, blog, temas) has to repeat
+ * these explicitly or lose them.
  */
 export const SITE_NAME = 'LeyChile'
 export const OG_LOCALE = 'es_CL'
