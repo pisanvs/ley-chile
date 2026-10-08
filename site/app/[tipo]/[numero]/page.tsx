@@ -51,7 +51,7 @@ export default async function Page({ params }: Props) {
   const { members, total } = await getKeyPage(tipo, numero)
   if (total === 0) {
     // The norma exists but was addressed by idNorma or under the wrong tipo.
-    const alias = await resolveAlias(numero)
+    const alias = await resolveAlias(tipo, numero)
     if (alias) permanentRedirect(canonicalHref(alias))
     notFound()
   }
