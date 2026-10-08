@@ -27,6 +27,7 @@ export async function generateMetadata({ params }: Props) {
       description: post.description,
       publishedTime: post.published,
       url: `${SITE}/blog/${post.slug}`,
+      images: [{ url: '/opengraph-image.png', width: 2400, height: 1260 }],
     },
   }
 }
