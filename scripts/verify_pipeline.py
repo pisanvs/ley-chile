@@ -23,7 +23,9 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import datetime
 import json
+import subprocess
 import sys
 from pathlib import Path
 
@@ -38,6 +40,7 @@ from utils import (  # noqa: E402
     load_diff_file,
     load_graph,
 )
+from build_web_indexes import real_date  # noqa: E402
 
 
 # ---------------------------------------------------------------------------
@@ -135,12 +138,13 @@ def _check_cache_completeness(cache_dir: Path) -> tuple[int, int, list[str]]:
 
 def _check_historial_against_graph(
     historial_dir: Path, graph_ids: set[str]
-) -> tuple[int, list[str]]:
+) -> tuple[int, list[str], dict[str, str]]:
     """Each metadata.json under historial must reference an idNorma that's in
     the current graph.  Stale entries (norma removed from graph but still in
     historial) are reported.  Returns (real_dir_count, inconsistencies).
     """
     inconsistencies: list[str] = []
+    meta_by_dir: dict[str, str] = {}
     real_dirs = 0
     # rglob recurses to any depth — necessary because law_dir produces paths
     # at varying nesting: leyes/{N}/metadata.json (2 levels),
@@ -160,12 +164,115 @@ def _check_historial_against_graph(
             inconsistencies.append(f"unreadable metadata.json: {meta.relative_to(historial_dir)}")
             continue
         id_norma = str(payload.get("idNorma", "")) if isinstance(payload, dict) else ""
+        if id_norma:
+            meta_by_dir[meta.parent.relative_to(historial_dir).as_posix()] = id_norma
         if id_norma and id_norma not in graph_ids:
             inconsistencies.append(
                 f"historial has stale norma not in graph: {id_norma} "
                 f"({meta.relative_to(historial_dir)})"
             )
-    return real_dirs, inconsistencies
+    return real_dirs, inconsistencies, meta_by_dir
+
+
+def _cached_version_dates(cache_dir: Path) -> dict[str, set[str]]:
+    """idNorma -> set of real version dates present in the diffs cache."""
+    out: dict[str, set[str]] = {}
+    for diff_file in iter_diff_files(cache_dir / "diffs"):
+        id_str = diff_id_from_path(diff_file)
+        try:
+            entries = load_diff_file(diff_file)
+        except (json.JSONDecodeError, OSError):
+            continue
+        if not isinstance(entries, list):
+            continue
+        fechas = set()
+        for entry in entries:
+            if not isinstance(entry, dict):
+                continue
+            fecha = entry.get("fecha", "")
+            year = _year(fecha)
+            if year is not None and year <= 2100:
+                fechas.add(fecha)
+        if fechas:
+            out[id_str] = fechas
+    return out
+
+
+_HIST_REC = "__VP_REC__"
+_HIST_END = "__VP_END__"
+_HIST_SEP = chr(1)
+
+
+def _historial_commit_dates(historial_dir: Path) -> dict[str, set[str]] | None:
+    """rel_dir -> dates of the commits that touched its texto.md.
+
+    Dates come from the commit subject via `real_date`, not from the committer
+    date: build_history clamps pre-1970 timestamps and same-day events can
+    shift by a day. Returns None when the directory is not a readable git
+    repository, in which case the check is skipped instead of reported.
+
+    git-dependent; the comparison itself is `missing_versions`.
+    """
+    fmt = _HIST_REC + "%cs" + _HIST_SEP + "%s" + _HIST_END
+    try:
+        out = subprocess.check_output(
+            ["git", "-C", str(historial_dir), "log",
+             f"--format={fmt}", "--name-only", "--diff-filter=ACMRT"],
+            text=True, stderr=subprocess.DEVNULL,
+        )
+    except (subprocess.CalledProcessError, OSError):
+        return None
+    dates: dict[str, set[str]] = {}
+    for block in out.split(_HIST_REC)[1:]:
+        head, _, tail = block.partition(_HIST_END)
+        committer_date, _, subject = head.partition(_HIST_SEP)
+        fecha = real_date(subject=subject, committer_date=committer_date)
+        for line in tail.splitlines():
+            line = line.strip()
+            if line.endswith("/texto.md"):
+                dates.setdefault(line[: -len("/texto.md")], set()).add(fecha)
+    return dates
+
+
+def missing_versions(
+    *,
+    cached: dict[str, set[str]],
+    committed: dict[str, set[str]],
+    meta_by_dir: dict[str, str],
+    today: str,
+    limit: int = 20,
+) -> tuple[int, list[str]]:
+    """Cached versions of an already-built norma that produced no commit.
+
+    A norma present in historial must have one commit per cached version whose
+    date has arrived. Versions dated in the future are excluded: LeyChile lists
+    deferred vigencias ahead of time and the build emits them once in force.
+
+    Normas with no commit at all are skipped — those are simply not built yet,
+    which the buildable/norma_dirs counts already cover. What this catches is
+    the silent case: a norma that *is* in historial while some of its cached
+    versions never produced a commit, so it keeps serving an older text while
+    every other metric looks healthy.
+
+    Returns (total_missing, inconsistencies), the list capped at `limit`.
+    """
+    total = 0
+    issues: list[str] = []
+    for rel_dir, id_norma in sorted(meta_by_dir.items()):
+        got = committed.get(rel_dir)
+        if not got:
+            continue
+        expected = {d for d in cached.get(id_norma, set()) if d <= today}
+        missing = sorted(expected - got)
+        if not missing:
+            continue
+        total += len(missing)
+        issues.append(
+            f"historial missing {len(missing)} cached version(s) for norma "
+            f"{id_norma} ({rel_dir}): {', '.join(missing[:3])}"
+            + (" ..." if len(missing) > 3 else "")
+        )
+    return total, issues[:limit]
 
 
 # ---------------------------------------------------------------------------
@@ -177,8 +284,11 @@ def gather_report(
     graph_path: Path,
     cache_dir: Path,
     historial_dir: Path | None = None,
+    today: str | None = None,
 ) -> dict:
     """Build the full report dict.  Pure read-only operation."""
+    if today is None:
+        today = datetime.date.today().isoformat()
     entries, complete = _load_catalog(catalog_path)
     catalog_ids = {str(e["idNorma"]) for e in entries if isinstance(e, dict) and "idNorma" in e}
 
@@ -198,11 +308,27 @@ def gather_report(
         )
 
     historial_count = 0
+    versions_missing = 0
     if historial_dir is not None and historial_dir.is_dir():
-        historial_count, hist_issues = _check_historial_against_graph(
+        historial_count, hist_issues, meta_by_dir = _check_historial_against_graph(
             historial_dir, graph_ids
         )
         inconsistencies.extend(hist_issues)
+
+        # Every cached version whose date has arrived must have produced a
+        # commit for a norma that is already in historial. Without this a
+        # version can be dropped by the build with nothing reporting it:
+        # the cache looks complete, the watermark advances, and the norma
+        # keeps serving an older text.
+        committed = _historial_commit_dates(historial_dir)
+        if committed is not None:
+            versions_missing, missing_issues = missing_versions(
+                cached=_cached_version_dates(cache_dir),
+                committed=committed,
+                meta_by_dir=meta_by_dir,
+                today=today,
+            )
+            inconsistencies.extend(missing_issues)
 
     # Deterministic ordering for downstream consumers (README, CI logs).
     inconsistencies.sort()
@@ -224,6 +350,7 @@ def gather_report(
         },
         "historial": {
             "norma_dirs": historial_count,
+            "versions_missing": versions_missing,
         },
         "inconsistencies": inconsistencies,
     }
