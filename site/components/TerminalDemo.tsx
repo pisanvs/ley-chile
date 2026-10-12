@@ -198,7 +198,7 @@ export function TerminalDemo() {
 
   return (
     <section className="td-section lc-fade-up">
-      <span className="td-eyebrow">Preguntale al corpus</span>
+      <span className="td-eyebrow">Pregúntale al corpus</span>
       <h2 className="td-title">
         Una publicación, <em>un commit</em>.
       </h2>
@@ -253,7 +253,7 @@ export function TerminalDemo() {
       </div>
 
       <p className="td-footer">
-        Cada ejemplo es real — pegalo en tu terminal y va a funcionar.{' '}
+        Cada ejemplo es real — pégalo en tu terminal y va a funcionar.{' '}
         <span className="td-footer-arrow">→</span>{' '}
         <code className="td-inline-code">
           git clone -b historial https://github.com/pisanvs/ley-chile
