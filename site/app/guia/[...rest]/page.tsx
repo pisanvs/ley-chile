@@ -130,7 +130,11 @@ export default async function Page({ params }: Props) {
     <div className="flex-1 overflow-y-auto scrollbar-quiet">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: jsonLdScript(legislationJsonLd(n, fecha, versions, [])) }}
+        dangerouslySetInnerHTML={{
+          __html: jsonLdScript(legislationJsonLd(
+            n, fecha, versions, modifies.map((m) => Number(m.numero)).filter(Number.isFinite),
+          )),
+        }}
       />
       <script
         type="application/ld+json"

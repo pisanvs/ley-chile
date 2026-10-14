@@ -4,7 +4,7 @@ import { breadcrumbJsonLd, faqJsonLd, jsonLdScript, legislationJsonLd, SITE, typ
 import { SITE_NAME, OG_LOCALE } from '@/lib/site'
 import { cambiosHref, canonicalHref, guiaHref } from '@/lib/href'
 import {
-  currentFecha, getModifiedBy, getVersions, type ModLink, type Norma, type Version,
+  currentFecha, getModifiedBy, getModifies, getVersions, type ModLink, type Norma, type Version,
 } from '@/lib/norma'
 import {
   fechaLarga, getGuiaStats, normaLabel, qualifiesForCambios, qualifiesForGuia,
@@ -17,9 +17,12 @@ async function load(norma: Norma) {
   const versions = await getVersions(norma.idNorma)
   const modifiedBy = await getModifiedBy(norma.idNorma)
   if (!qualifiesForCambios(versions, modifiedBy.length)) return null
-  const stats = await getGuiaStats(norma.idNorma)
+  const [stats, modifies] = await Promise.all([
+    getGuiaStats(norma.idNorma),
+    getModifies(norma.idNorma),
+  ])
   return {
-    norma, versions, modifiedBy, stats,
+    norma, versions, modifiedBy, modifies, stats,
     hasGuia: qualifiesForGuia(norma, stats),
     fecha: currentFecha(versions),
   }
@@ -93,7 +96,7 @@ export default async function Page({ params }: Props) {
   if (r.kind === 'redirect') permanentRedirect(r.to)
   const data = await load(r.norma)
   if (!data) notFound()
-  const { norma: n, versions, modifiedBy, fecha, hasGuia } = data
+  const { norma: n, versions, modifiedBy, modifies, fecha, hasGuia } = data
 
   const label = normaLabel(n)
   const art = tipoArticle(n.tipo)
@@ -106,7 +109,7 @@ export default async function Page({ params }: Props) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: jsonLdScript(legislationJsonLd(n, fecha, versions, modifiedBy.map((m) => Number(m.numero)).filter(Number.isFinite))),
+          __html: jsonLdScript(legislationJsonLd(n, fecha, versions, modifies.map((m) => Number(m.numero)).filter(Number.isFinite))),
         }}
       />
       <script
