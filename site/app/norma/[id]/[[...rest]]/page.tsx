@@ -3,7 +3,7 @@ import { notFound, permanentRedirect } from 'next/navigation'
 import { cleanTitulo, jsonLdScript, legislationJsonLd, SITE } from '@/lib/jsonld'
 import { SITE_NAME, OG_LOCALE } from '@/lib/site'
 import {
-  canonicalPath, currentFecha, getAvisos, getCanonicalNorma, getKeySiblings, getModifiedBy,
+  canonicalPath, currentFecha, getAvisos, getCanonicalNorma, getKeySiblings, getModifies,
   getNormaById, getRefundido, getVersions,
 } from '@/lib/norma'
 import { canonicalHref } from '@/lib/href'
@@ -102,12 +102,12 @@ export default async function Page({ params }: Props) {
   // which is what lets the slug be regenerated freely as data improves.
   if (slug !== normaSlug(norma)) permanentRedirect(canonicalHref(norma, fecha))
 
-  const [canon, avisos, refundido, versions, modifiedBy] = await Promise.all([
+  const [canon, avisos, refundido, versions, modifies] = await Promise.all([
     getCanonicalNorma(norma.tipo, norma.numero),
     getAvisos(norma.idNorma),
     getRefundido(norma.idNorma),
     getVersions(norma.idNorma),
-    getModifiedBy(norma.idNorma),
+    getModifies(norma.idNorma),
   ])
   const total = canon?.total ?? 1
   // Still worth surfacing key-siblings inline: a reader who landed here from a
@@ -122,7 +122,7 @@ export default async function Page({ params }: Props) {
         dangerouslySetInnerHTML={{
           __html: jsonLdScript(legislationJsonLd(
             norma, fecha ?? currentFecha(versions), versions,
-            modifiedBy.map((m) => Number(m.numero)).filter(Number.isFinite),
+            modifies.map((m) => Number(m.numero)).filter(Number.isFinite),
           )),
         }}
       />

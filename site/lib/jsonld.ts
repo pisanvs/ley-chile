@@ -28,8 +28,14 @@ export function cleanTitulo(s: string): string {
   return s.replace(/\s+/g, ' ').trim()
 }
 
+/** `changes` must be the laws THIS norma modifies (i.e. `getModifies`), never
+ *  the laws that modified it (`getModifiedBy`) — schema.org defines
+ *  `legislationChanges` as "legislation that this legislation changes", and
+ *  the two are almost never the same set. Getting this backwards previously
+ *  shipped live: Ley 20.000's page claimed to "change" the seven later laws
+ *  that amended it, rather than the 19.366 it actually replaced. */
 export function legislationJsonLd(
-  n: Norma, fecha: string, versions: Version[], modifiedBy: number[],
+  n: Norma, fecha: string, versions: Version[], changes: number[],
 ): object {
   const isCurrent = fecha === currentFecha(versions)
   return {
@@ -43,7 +49,7 @@ export function legislationJsonLd(
     legislationLegalForce: isCurrent && !n.derogado ? 'InForce' : 'NotInForce',
     legislationJurisdiction: 'CL',
     legislationPassedBy: n.organismo,
-    legislationChanges: modifiedBy.map(id => ({
+    legislationChanges: changes.map(id => ({
       '@type': 'Legislation',
       legislationIdentifier: String(id),
     })),
