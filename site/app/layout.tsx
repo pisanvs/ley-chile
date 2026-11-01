@@ -20,6 +20,12 @@ export const metadata: Metadata = {
   },
   description: DESCRIPTION,
   applicationName: SITE_NAME,
+  // Every other top-level route (norma, guia, cambios, temas, blog, buscar,
+  // citar, api) sets its own `alternates.canonical`, which overrides this.
+  // The homepage (`app/page.tsx`) is a 'use client' component and can't
+  // export metadata itself, so without this default it inherited none —
+  // confirmed live via curl: zero `<link rel="canonical">` on `/`.
+  alternates: { canonical: SITE },
   openGraph: {
     type: 'website',
     siteName: SITE_NAME,
