@@ -211,9 +211,9 @@ export default function TimeMachine() {
           </button>
           <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 px-1 text-[13px]">
             <span className="text-ink-faint">Prueba:</span>
-            <Link href="/norma/235507/ley-20000-sustituye-la-ley-n-19-366-que-sanciona-el-trafico-ilicito" className="text-indigo hover:underline">Ley 20.000</Link>
-            <Link href="/ley/19300" className="text-indigo hover:underline">Ley 19.300</Link>
-            <Link href="/ley/19496" className="text-indigo hover:underline">una ley de ejemplo →</Link>
+            <Link href="/norma/235507/ley-20000-sustituye-la-ley-n-19-366-que-sanciona-el-trafico-ilicito-de" className="text-indigo hover:underline">Ley 20.000</Link>
+            <Link href="/norma/30667/ley-19300-aprueba-ley-sobre-bases-generales-del-medio-ambiente" className="text-indigo hover:underline">Ley 19.300</Link>
+            <Link href="/norma/61438/ley-19496-establece-normas-sobre-proteccion-de-los-derechos-de-los" className="text-indigo hover:underline">una ley de ejemplo →</Link>
           </div>
         </div>
       </section>
