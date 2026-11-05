@@ -27,7 +27,7 @@ export default function Post() {
       <Facts
         rows={[
           { k: 'Autor / título', v: 'Ley N° 21.719' },
-          { k: 'Fecha', v: '(2024, 26 de agosto)' },
+          { k: 'Fecha', v: '(2024, 13 de diciembre)' },
           { k: 'Fuente', v: 'Diario Oficial de la República de Chile' },
           { k: 'URL', v: 'https://leyes.pisanvs.cl/…' },
         ]}
@@ -41,7 +41,7 @@ export default function Post() {
         rows={[
           {
             k: 'Referencia',
-            v: 'Ley N° 21.719. (2024, 26 de agosto). Diario Oficial de la República de Chile. https://leyes.pisanvs.cl/…',
+            v: 'Ley N° 21.719. (2024, 13 de diciembre). Diario Oficial de la República de Chile. https://leyes.pisanvs.cl/…',
           },
           { k: 'Cita en el texto', v: '(Ley N° 21.719, 2024)' },
         ]}
@@ -57,7 +57,7 @@ export default function Post() {
         rows={[
           {
             k: 'Referencia',
-            v: 'Ley N° 21.719, art. 12. (2024, 26 de agosto). Diario Oficial de la República de Chile. https://…',
+            v: 'Ley N° 21.719, art. 12. (2024, 13 de diciembre). Diario Oficial de la República de Chile. https://…',
           },
           { k: 'Cita en el texto', v: '(Ley N° 21.719, art. 12, 2024)' },
         ]}

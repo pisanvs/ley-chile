@@ -30,8 +30,8 @@ export default function Post() {
 
       <Facts
         rows={[
-          { k: 'Norma completa', v: 'Ley N° 21.719, Diario Oficial, 26 de agosto de 2024.' },
-          { k: 'Un artículo', v: 'Ley N° 21.719, art. 12, Diario Oficial, 26 de agosto de 2024.' },
+          { k: 'Norma completa', v: 'Ley N° 21.719, Diario Oficial, 13 de diciembre de 2024.' },
+          { k: 'Un artículo', v: 'Ley N° 21.719, art. 12, Diario Oficial, 13 de diciembre de 2024.' },
         ]}
       />
 
@@ -52,15 +52,15 @@ export default function Post() {
         rows={[
           {
             k: 'APA 7',
-            v: 'Ley N° 21.719, art. 12. (2024, 26 de agosto). Diario Oficial de la República de Chile. https://…',
+            v: 'Ley N° 21.719, art. 12. (2024, 13 de diciembre). Diario Oficial de la República de Chile. https://…',
           },
           {
             k: 'MLA 9',
-            v: '"Ley N° 21.719, art. 12." Diario Oficial de la República de Chile, 26 ago. 2024, leyes.pisanvs.cl/…',
+            v: '"Ley N° 21.719, art. 12." Diario Oficial de la República de Chile, 13 dic. 2024, leyes.pisanvs.cl/…',
           },
           {
             k: 'Chicago',
-            v: 'Ley N° 21.719, art. 12, Diario Oficial, 26 de agosto de 2024, https://…',
+            v: 'Ley N° 21.719, art. 12, Diario Oficial, 13 de diciembre de 2024, https://…',
           },
         ]}
       />
