@@ -23,7 +23,7 @@ import { renderCite } from '@/lib/cite'
  *  numero/id_norma collision that a client-side numero lookup hits at full
  *  corpus scale (an internal id_norma can equal an unrelated law's numero). */
 export function LawView({
-  tipo, numero, idNorma, fecha, siblings = [], siblingTotal = 1, versionBase, banner, cite,
+  tipo, numero, idNorma, fecha, siblings = [], siblingTotal = 1, versionBase, banner, cite, cambiosHref,
 }: {
   tipo: string
   numero: string
@@ -34,6 +34,10 @@ export function LawView({
   /** Server-rendered warnings (refundido, numbering observations). Passed as a
    *  node rather than data so the metadata query stays on the server. */
   banner?: React.ReactNode
+  /** URL of this norma's /cambios page, when it qualifies (see
+   *  qualifiesForCambios) — undefined hides the link. Computed server-side so
+   *  the reader has an on-page path to it, not just the sitemap. */
+  cambiosHref?: string
   /** Other normas sharing this (tipo, numero) — shown so a reader can reach the
    *  right one when the number is not unique (e.g. several "DFL 1"). */
   siblings?: Sibling[]
@@ -215,6 +219,15 @@ export function LawView({
             >
               Colapsar
             </button>
+          )}
+          {cambiosHref && (
+            <a
+              href={cambiosHref}
+              className="ml-auto text-xs px-3 py-1.5 rounded font-ui border border-rule text-ink-soft hover:text-ink transition"
+              title="Ver el historial de modificaciones de esta norma"
+            >
+              Ver cambios →
+            </a>
           )}
         </div>
       </div>
