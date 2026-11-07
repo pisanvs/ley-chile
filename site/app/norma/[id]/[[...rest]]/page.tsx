@@ -6,9 +6,9 @@ import {
   canonicalPath, currentFecha, getAvisos, getCanonicalNorma, getKeySiblings, getModifiedBy,
   getNormaById, getRefundido, getVersions,
 } from '@/lib/norma'
-import { canonicalHref } from '@/lib/href'
+import { canonicalHref, cambiosHref } from '@/lib/href'
 import { normaSlug } from '@/lib/slug'
-import { fechaLarga, normaLabel } from '@/lib/seo'
+import { fechaLarga, normaLabel, qualifiesForCambios } from '@/lib/seo'
 import { AvisoBanner } from '@/components/AvisoBanner'
 import { LawView } from '@/components/LawView'
 
@@ -113,6 +113,10 @@ export default async function Page({ params }: Props) {
   // Still worth surfacing key-siblings inline: a reader who landed here from a
   // citation may well have wanted a different DFL 4.
   const siblings = total > 1 ? await getKeySiblings(norma.tipo, norma.numero, norma.idNorma) : []
+  // Cheap: reuses versions/modifiedBy already fetched above, no extra query.
+  // The reader is the highest-traffic page type and had no path at all to its
+  // own /cambios sibling except the sitemap or the /cambios hub's top-N list.
+  const cambiosUrl = qualifiesForCambios(versions, modifiedBy.length) ? cambiosHref(norma) : undefined
   return (
     <>
       {/* THE canonical page type for the corpus (~333k pages) — the one
@@ -134,6 +138,7 @@ export default async function Page({ params }: Props) {
         siblings={siblings}
         siblingTotal={total}
         versionBase={canonicalHref(norma)}
+        cambiosHref={cambiosUrl}
         cite={{
           tipo: norma.tipo,
           numero: norma.numero,
