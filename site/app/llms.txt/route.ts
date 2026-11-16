@@ -54,14 +54,27 @@ también devuelve idNorma en cada resultado.
 
 ## HTTP (si no hablas MCP)
 
-- ${SITE}/{tipo}/{numero}              — versión vigente (HTML, server-rendered)
-- ${SITE}/{tipo}/{numero}/{YYYY-MM-DD} — versión histórica a esa fecha
-- ${SITE}/buscar?q={query}             — búsqueda
+El texto de una norma se carga client-side en ${SITE}/norma/{idNorma}/{slug}
+(es la UI interactiva para humanos, no una respuesta pensada para un fetch sin
+JS). Si tu cliente no ejecuta JavaScript, usa las rutas JSON/texto plano:
+
 - ${SITE}/api/idx/commits/{idNorma}    — metadatos + todas las versiones (JSON)
 - ${SITE}/api/text/{idNorma}/{fecha}   — texto markdown reconstruido de una versión
 - ${SITE}/api/idx/modifies/{idNorma}   — normas que ESTA modificó (JSON)
 - ${SITE}/api/idx/modified_by/{idNorma}— normas que modificaron a ESTA (JSON)
+- ${SITE}/buscar?q={query}             — búsqueda (HTML)
 - ${SITE}/robots.txt                   — lista todos los sitemaps (no hay índice único en /sitemap.xml)
+
+Las rutas HTML siguen siendo válidas para abrir en un navegador o enlazar
+desde una respuesta:
+
+- ${SITE}/norma/{idNorma}/{slug}              — versión vigente (\`slug\` es decorativo: cualquier valor 301 a la forma correcta)
+- ${SITE}/norma/{idNorma}/{slug}/{YYYY-MM-DD} — versión histórica a esa fecha
+
+Si no tienes el idNorma, resuélvelo con la herramienta MCP search_laws, o con
+${SITE}/{tipo}/{numero}: esa ruta NO sirve el texto de la norma directamente —
+hace 301 a la URL canónica si la clave es única (8.3% del corpus) o lista las
+normas candidatas si es ambigua (el resto).
 
 \`tipo\` ∈ ley, dl, dfl, dto, cod, res, … · \`numero\` es el número de la norma
 (no el idNorma interno). Ojo: algunos numeros contienen caracteres especiales
